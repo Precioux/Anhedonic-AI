@@ -4,8 +4,8 @@ import pandas as pd
 import os
 
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
-CSV_FILE = "math_experiment_100.csv"
-OUTPUT_FILE = "reward_activations_v2.pt"
+CSV_FILE = "geography_experiment_100.csv"
+OUTPUT_FILE = "reward_activations_geo.pt"
 
 print("Status: Loading model in Full Bfloat16 Precision...")
 model = Qwen2VLForConditionalGeneration.from_pretrained(

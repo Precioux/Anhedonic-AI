@@ -5,8 +5,8 @@ import os
 
 # 1. Configuration (No Quantization - Full Precision)
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
-CSV_FILE = "math_experiment_100.csv"
-OUTPUT_FILE = "neutral_activations_v2.pt"
+CSV_FILE = "geography_experiment_100.csv"
+OUTPUT_FILE = "neutral_activations_geo.pt"
 
 print("Status: Loading model in Full Bfloat16 Precision...")
 # Load in Bfloat16 (Original Weight Precision)
