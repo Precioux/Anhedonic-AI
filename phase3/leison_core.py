@@ -8,7 +8,7 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, BitsAnd
 # --- Configuration ---
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
 INPUT_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase2/data/full_experiment_100_rows.csv"
-OUTPUT_FILE = "union_all_layers_10runs.csv"
+OUTPUT_FILE = "intersection_all_layers_10runs.csv"
 
 # Neuron Files
 MONEY_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_money_neurons.csv"
@@ -17,9 +17,9 @@ REWARD_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_reward
 # Run Configuration
 NUM_RUNS = 10
 
-def load_union_neurons():
+def load_intersection_neurons():
     """
-    Loads money and reward neurons and finds their UNION (all unique neurons from both sets).
+    Loads money and reward neurons and finds their strict INTERSECTION.
     """
     # 1. Load Money Neurons
     if not os.path.exists(MONEY_NEURONS_FILE):
@@ -37,22 +37,22 @@ def load_union_neurons():
     col_r = 'neuron_index' if 'neuron_index' in df_r.columns else df_r.columns[0]
     reward_indices = df_r[col_r].values
 
-    # 3. Find Union (Neurons present in EITHER list)
-    union_indices = np.union1d(money_indices, reward_indices)
+    # 3. Find Intersection (Neurons present in BOTH lists)
+    intersection_indices = np.intersect1d(money_indices, reward_indices)
     
-    print(f"-> Money Neurons Count: {len(np.unique(money_indices))}")
-    print(f"-> Reward Neurons Count: {len(np.unique(reward_indices))}")
-    print(f"-> UNION Neurons to Lesion: {len(union_indices)}")
+    print(f"-> Money Neurons Count: {len(money_indices)}")
+    print(f"-> Reward Neurons Count: {len(reward_indices)}")
+    print(f"-> INTERSECTION (Core) Neurons to Lesion: {len(intersection_indices)}")
     
-    if len(union_indices) == 0:
-        raise ValueError("No neurons found in the files!")
+    if len(intersection_indices) == 0:
+        raise ValueError("No common neurons found between the two lists!")
 
-    return torch.tensor(union_indices).long()
+    return torch.tensor(intersection_indices).long()
 
 def main():
-    # 1. Prepare Union Neurons
+    # 1. Prepare Core Neurons
     try:
-        lesion_indices = load_union_neurons()
+        lesion_indices = load_intersection_neurons()
     except Exception as e:
         print(f"Error loading neurons: {e}")
         return
@@ -107,14 +107,14 @@ def main():
         else:
             hidden_states = output
             
-        # Zero out ALL union neurons
+        # Zero out the core intersection neurons
         hidden_states[:, :, lesion_indices] = 0.0
         
         if isinstance(output, tuple):
             return (hidden_states,) + output[1:]
         return hidden_states
 
-    print(f"WARNING: Applying massive ablation to {len(lesion_indices)} UNION neurons across ALL {num_layers} layers...")
+    print(f"WARNING: Applying strict ablation to {len(lesion_indices)} core neurons across ALL {num_layers} layers...")
     handles = []
     
     for i in range(num_layers):
@@ -130,7 +130,7 @@ def main():
     df_input = pd.read_csv(INPUT_FILE)
     all_results = []
 
-    print(f"Starting UNION Lesion experiment ({NUM_RUNS} runs)...")
+    print(f"Starting Intersection Lesion experiment ({NUM_RUNS} runs)...")
 
     for run_idx in range(NUM_RUNS):
         print(f"\n>>> Run {run_idx + 1}/{NUM_RUNS}")
@@ -147,7 +147,7 @@ def main():
                     **inputs, max_new_tokens=200, temperature=0.7, do_sample=True, top_p=0.95
                 )
 
-            # Clean extraction: only keep the newly generated tokens
+            # Slice the generated_ids to get ONLY the new response tokens (ignores prompt)
             generated_ids_trimmed = [
                 out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
             ]
@@ -169,7 +169,7 @@ def main():
         output_df = pd.DataFrame(all_results)
         output_df.to_csv(OUTPUT_FILE, index=False)
 
-    print(f"Done! Union lesion results (10 runs) saved to {OUTPUT_FILE}")
+    print(f"Done! Intersection lesion results (10 runs) saved to {OUTPUT_FILE}")
     
     # Cleanup hooks
     for handle in handles:

@@ -6,53 +6,44 @@ from tqdm import tqdm
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, BitsAndBytesConfig
 
 # --- Configuration ---
+# Correct paths based on your server structure
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
 INPUT_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase2/data/full_experiment_100_rows.csv"
-OUTPUT_FILE = "union_all_layers_10runs.csv"
+OUTPUT_FILE = "reward_only_all_layers_10runs.csv"
 
-# Neuron Files
-MONEY_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_money_neurons.csv"
+# Neuron File (Reward Only)
 REWARD_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_reward_neurons.csv"
 
 # Run Configuration
 NUM_RUNS = 10
 
-def load_union_neurons():
+def load_reward_neurons():
     """
-    Loads money and reward neurons and finds their UNION (all unique neurons from both sets).
+    Loads strictly the reward neurons to lesion.
     """
-    # 1. Load Money Neurons
-    if not os.path.exists(MONEY_NEURONS_FILE):
-        raise FileNotFoundError(f"Missing file: {MONEY_NEURONS_FILE}")
-    print(f"Loading {MONEY_NEURONS_FILE}...")
-    df_m = pd.read_csv(MONEY_NEURONS_FILE)
-    col_m = 'neuron_index' if 'neuron_index' in df_m.columns else df_m.columns[0]
-    money_indices = df_m[col_m].values
-
-    # 2. Load Reward Neurons
     if not os.path.exists(REWARD_NEURONS_FILE):
         raise FileNotFoundError(f"Missing file: {REWARD_NEURONS_FILE}")
+    
     print(f"Loading {REWARD_NEURONS_FILE}...")
     df_r = pd.read_csv(REWARD_NEURONS_FILE)
+    
+    # robust column detection
     col_r = 'neuron_index' if 'neuron_index' in df_r.columns else df_r.columns[0]
-    reward_indices = df_r[col_r].values
-
-    # 3. Find Union (Neurons present in EITHER list)
-    union_indices = np.union1d(money_indices, reward_indices)
     
-    print(f"-> Money Neurons Count: {len(np.unique(money_indices))}")
-    print(f"-> Reward Neurons Count: {len(np.unique(reward_indices))}")
-    print(f"-> UNION Neurons to Lesion: {len(union_indices)}")
+    # Extract and get unique indices
+    reward_indices = np.unique(df_r[col_r].values)
     
-    if len(union_indices) == 0:
-        raise ValueError("No neurons found in the files!")
+    print(f"-> Unique REWARD Neurons to Lesion: {len(reward_indices)}")
+    
+    if len(reward_indices) == 0:
+        raise ValueError("No reward neurons found in the file!")
 
-    return torch.tensor(union_indices).long()
+    return torch.tensor(reward_indices).long()
 
 def main():
-    # 1. Prepare Union Neurons
+    # 1. Prepare Neurons
     try:
-        lesion_indices = load_union_neurons()
+        lesion_indices = load_reward_neurons()
     except Exception as e:
         print(f"Error loading neurons: {e}")
         return
@@ -107,14 +98,14 @@ def main():
         else:
             hidden_states = output
             
-        # Zero out ALL union neurons
+        # Zero out ONLY the reward neurons
         hidden_states[:, :, lesion_indices] = 0.0
         
         if isinstance(output, tuple):
             return (hidden_states,) + output[1:]
         return hidden_states
 
-    print(f"WARNING: Applying massive ablation to {len(lesion_indices)} UNION neurons across ALL {num_layers} layers...")
+    print(f"WARNING: Applying ablation to {len(lesion_indices)} REWARD neurons across ALL {num_layers} layers...")
     handles = []
     
     for i in range(num_layers):
@@ -130,7 +121,7 @@ def main():
     df_input = pd.read_csv(INPUT_FILE)
     all_results = []
 
-    print(f"Starting UNION Lesion experiment ({NUM_RUNS} runs)...")
+    print(f"Starting REWARD-ONLY Lesion experiment ({NUM_RUNS} runs)...")
 
     for run_idx in range(NUM_RUNS):
         print(f"\n>>> Run {run_idx + 1}/{NUM_RUNS}")
@@ -165,11 +156,11 @@ def main():
                 "Model_Response": response_text
             })
 
-        # Save incrementally
+        # Save incrementally after each run
         output_df = pd.DataFrame(all_results)
         output_df.to_csv(OUTPUT_FILE, index=False)
 
-    print(f"Done! Union lesion results (10 runs) saved to {OUTPUT_FILE}")
+    print(f"Done! Reward-only lesion results (10 runs) saved to {OUTPUT_FILE}")
     
     # Cleanup hooks
     for handle in handles:
