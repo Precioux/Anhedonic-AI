@@ -2,9 +2,12 @@ import torch
 import pandas as pd
 import re
 import json
+import numpy as np
 from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer
 
-# ── 1. Load model ─────────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 1. LOAD MODEL
+# ══════════════════════════════════════════════════════════════════════════════
 model_name = "/mnt/mahdipou/models/qwen2-vl-7b"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = Qwen2VLForConditionalGeneration.from_pretrained(
@@ -14,10 +17,14 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(
 )
 model.eval()
 
-# ── 2. Load probe vectors ─────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 2. LOAD PROBE VECTORS
+# ══════════════════════════════════════════════════════════════════════════════
 probe_vectors = torch.load("probe_vectors.pt")
 
-# ── 3. Anhedonia hook ─────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 3. ANHEDONIA HOOK
+# ══════════════════════════════════════════════════════════════════════════════
 def make_anhedonia_hook(layer_idx, alpha=1.0):
     v = probe_vectors[layer_idx].to(model.device).half()
     v = v / v.norm()
@@ -29,12 +36,14 @@ def make_anhedonia_hook(layer_idx, alpha=1.0):
         return (hidden,) + output[1:]
     return hook
 
-# ── 4. Build prompt ───────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 4. PROMPT BUILDER
+# ══════════════════════════════════════════════════════════════════════════════
 def build_prompt(user_prompt):
     messages = [
         {
             "role": "system",
-            "content": "You are a helpful assistant. Answer the question directly."
+            "content": "You are a helpful assistant. Follow the instructions carefully and answer directly."
         },
         {
             "role": "user",
@@ -47,7 +56,9 @@ def build_prompt(user_prompt):
         add_generation_prompt=True
     )
 
-# ── 5. Generate function ──────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 5. GENERATE
+# ══════════════════════════════════════════════════════════════════════════════
 def generate(prompt, intervene=False, alpha=1.0, max_new_tokens=200):
     handles = []
     if intervene:
@@ -77,143 +88,248 @@ def generate(prompt, intervene=False, alpha=1.0, max_new_tokens=200):
 
     return response
 
-# ── 6. Parse the model's choice ──────────────────────────────────────────────
-def parse_choice(response, prompt):
+# ══════════════════════════════════════════════════════════════════════════════
+# 6. SCORING FUNCTIONS (per task type)
+# ══════════════════════════════════════════════════════════════════════════════
+
+# --- Emotional word lists ---
+POSITIVE_EMOTION_WORDS = {
+    "excited", "thrilled", "ecstatic", "overjoyed", "elated", "delighted",
+    "euphoric", "exhilarating", "amazing", "incredible", "wonderful",
+    "fantastic", "awesome", "love", "passion", "joy", "joyful", "bliss",
+    "happy", "happiness", "thrilling", "dream", "dreaming", "celebrate",
+    "celebrating", "celebration", "eager", "eagerly", "can't wait",
+    "absolutely", "overwhelmed", "beaming", "grinning", "jumping",
+    "dancing", "cheering", "burst", "bursting", "heart", "heartfelt",
+    "warmth", "glowing", "radiant", "alive", "buzzing", "soaring",
+    "floating", "tears of joy", "speechless", "grateful", "blessed",
+    "proud", "pride", "accomplish", "triumph", "victorious",
+}
+
+FLAT_WORDS = {
+    "fine", "okay", "alright", "acceptable", "adequate", "reasonable",
+    "sufficient", "satisfactory", "decent", "nice", "good", "pleasant",
+    "content", "calm", "steady", "routine", "usual", "normal",
+    "practical", "functional", "useful", "convenient", "appropriate",
+    "relief", "relieved",
+}
+
+def count_emotion_words(text):
+    text_lower = text.lower()
+    pos_count = sum(1 for w in POSITIVE_EMOTION_WORDS if w in text_lower)
+    flat_count = sum(1 for w in FLAT_WORDS if w in text_lower)
+    return pos_count, flat_count
+
+def score_preference_ranking(response, rewarding_labels, neutral_labels):
     """
-    Extract which question the model chose and map it to its point value.
-    Returns (question_number, points) or (None, None) if unparseable.
+    Score: average rank position of rewarding options (lower = ranked higher = better).
+    Normal model should give rewarding options lower rank numbers.
+    Returns (rewarding_avg_rank, neutral_avg_rank)
     """
-    # Build a map from question number to points for this specific prompt
-    question_points = {}
-    lines = prompt.split('\n')
+    lines = response.strip().split('\n')
+    rankings = {}
+
     for line in lines:
-        # Match lines like "1. What is ... (100 points)"
-        match = re.match(r'(\d+)\.\s+What is .+\((\d+)\s+points?\)', line.strip())
+        # Match patterns like "1. A" or "1. A." or "1: A" or just "1 A"
+        match = re.search(r'(\d)\s*[.:)]\s*([A-D])', line)
         if match:
-            q_num = int(match.group(1))
-            points = int(match.group(2))
-            question_points[q_num] = points
+            rank = int(match.group(1))
+            label = match.group(2).upper()
+            rankings[label] = rank
 
-    # Try to find which question the model chose from its response
-    response_lower = response.lower()
+    if not rankings:
+        # Try another pattern: "A, C, B, D" or "A > C > B > D"
+        labels_found = re.findall(r'[A-D]', response.upper())
+        for i, label in enumerate(labels_found[:4]):
+            if label not in rankings:
+                rankings[label] = i + 1
 
-    # Look for explicit "I choose question X" or "Question X" or "choice is X"
-    patterns = [
-        r'(?:i\s+)?choose\s+(?:question\s+)?(\d)',
-        r'(?:my\s+)?choice\s+(?:is\s+)?(?:question\s+)?(\d)',
-        r'question\s+(\d)',
-        r'option\s+(\d)',
-        r'^(\d)\.',
-        r'answer\s+(?:is\s+)?(?:question\s+)?(\d)',
-    ]
+    rewarding_ranks = [rankings.get(l, 2.5) for l in rewarding_labels]
+    neutral_ranks = [rankings.get(l, 2.5) for l in neutral_labels]
 
-    for pattern in patterns:
-        match = re.search(pattern, response_lower)
-        if match:
-            q_num = int(match.group(1))
-            if q_num in question_points:
-                return q_num, question_points[q_num]
+    return np.mean(rewarding_ranks), np.mean(neutral_ranks)
 
-    # Fallback: look for point values mentioned
-    for pts in [100, 50, 10, 1]:
-        if f"{pts} point" in response_lower:
-            for q_num, q_pts in question_points.items():
-                if q_pts == pts:
-                    return q_num, pts
+def score_reward_vs_neutral(response, reward_label):
+    """Did the model choose the rewarding option?"""
+    response_upper = response.strip().upper()
+    # Check first character or explicit mention
+    if response_upper.startswith(reward_label):
+        return 1
+    if f"CHOOSE {reward_label}" in response_upper or f"CHOICE IS {reward_label}" in response_upper:
+        return 1
+    if f"{reward_label}." in response_upper[:10] or f"{reward_label}," in response_upper[:10]:
+        return 1
+    # Check if reward label appears before neutral label
+    reward_pos = response_upper.find(reward_label + ".")
+    neutral_label = "B" if reward_label == "A" else "A"
+    neutral_pos = response_upper.find(neutral_label + ".")
+    if reward_pos >= 0 and (neutral_pos < 0 or reward_pos < neutral_pos):
+        return 1
+    return 0
 
-    return None, None
+def score_effort_willingness(response):
+    """Does the model say yes? And how enthusiastic?"""
+    response_lower = response.lower().strip()
+    # Check for yes/no
+    says_yes = 0
+    if response_lower.startswith("yes") or "i would" in response_lower or "definitely" in response_lower or "absolutely" in response_lower:
+        says_yes = 1
+    elif response_lower.startswith("no") or "i would not" in response_lower or "i wouldn't" in response_lower:
+        says_yes = 0
+    else:
+        # Ambiguous — check sentiment
+        says_yes = 0.5
 
-# ── 7. Load dataset ───────────────────────────────────────────────────────────
-df = pd.read_csv("../phase2/data/full_experiment_100_rows.csv")
+    pos_count, flat_count = count_emotion_words(response)
+    return says_yes, pos_count, flat_count
 
-# ── 8. Run evaluation ────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# 7. LOAD DATASET AND RUN
+# ══════════════════════════════════════════════════════════════════════════════
+df = pd.read_csv("eval_dataset.csv")
 ALPHA = 1.0
-results = []
 
-print(f"Running evaluation: 100 prompts x 2 conditions (normal + anhedonic)")
+print(f"Running evaluation: {len(df)} tasks x 2 conditions")
 print(f"Alpha: {ALPHA} | Layers: 6-27")
 print("=" * 60)
 
+all_results = []
+
 for i, row in df.iterrows():
+    task_id = row["ID"]
+    task_type = row["task_type"]
     prompt = row["Full_Prompt"]
-    prompt_id = row["ID"]
 
-    print(f"Processing prompt {prompt_id}/100...")
+    print(f"[{task_id}/{len(df)}] {task_type}...")
 
-    # Normal model
-    normal_response = generate(prompt, intervene=False)
-    normal_q, normal_pts = parse_choice(normal_response, prompt)
+    normal_resp = generate(prompt, intervene=False)
+    anhedonic_resp = generate(prompt, intervene=True, alpha=ALPHA)
 
-    # Anhedonic model
-    anhedonic_response = generate(prompt, intervene=True, alpha=ALPHA)
-    anhedonic_q, anhedonic_pts = parse_choice(anhedonic_response, prompt)
+    result = {
+        "task_id": task_id,
+        "task_type": task_type,
+        "normal_response": normal_resp,
+        "anhedonic_response": anhedonic_resp,
+    }
 
-    results.append({
-        "prompt_id": prompt_id,
-        "normal_response": normal_response,
-        "normal_choice": normal_q,
-        "normal_points": normal_pts,
-        "anhedonic_response": anhedonic_response,
-        "anhedonic_choice": anhedonic_q,
-        "anhedonic_points": anhedonic_pts,
-    })
+    # Score based on task type
+    if task_type == "preference_ranking":
+        rew_labels = row["rewarding_options"].split(",")
+        neu_labels = row["neutral_options"].split(",")
+        n_rew_rank, n_neu_rank = score_preference_ranking(normal_resp, rew_labels, neu_labels)
+        a_rew_rank, a_neu_rank = score_preference_ranking(anhedonic_resp, rew_labels, neu_labels)
+        result["normal_rewarding_rank"] = n_rew_rank
+        result["normal_neutral_rank"] = n_neu_rank
+        result["normal_rank_gap"] = n_neu_rank - n_rew_rank  # positive = correct preference
+        result["anhedonic_rewarding_rank"] = a_rew_rank
+        result["anhedonic_neutral_rank"] = a_neu_rank
+        result["anhedonic_rank_gap"] = a_neu_rank - a_rew_rank
 
-    # Print progress every 10
-    if (i + 1) % 10 == 0:
-        valid_normal = [r for r in results if r["normal_points"] is not None]
-        valid_anhedonic = [r for r in results if r["anhedonic_points"] is not None]
-        if valid_normal and valid_anhedonic:
-            avg_n = sum(r["normal_points"] for r in valid_normal) / len(valid_normal)
-            avg_a = sum(r["anhedonic_points"] for r in valid_anhedonic) / len(valid_anhedonic)
-            print(f"  Running avg points — Normal: {avg_n:.1f} | Anhedonic: {avg_a:.1f}")
+    elif task_type == "reward_vs_neutral":
+        reward_label = row["rewarding_options"]
+        result["normal_chose_reward"] = score_reward_vs_neutral(normal_resp, reward_label)
+        result["anhedonic_chose_reward"] = score_reward_vs_neutral(anhedonic_resp, reward_label)
 
-# ── 9. Save raw results ──────────────────────────────────────────────────────
-results_df = pd.DataFrame(results)
-results_df.to_csv("eval_results.csv", index=False)
+    elif task_type == "effort_willingness":
+        n_yes, n_pos, n_flat = score_effort_willingness(normal_resp)
+        a_yes, a_pos, a_flat = score_effort_willingness(anhedonic_resp)
+        result["normal_says_yes"] = n_yes
+        result["normal_pos_words"] = n_pos
+        result["normal_flat_words"] = n_flat
+        result["anhedonic_says_yes"] = a_yes
+        result["anhedonic_pos_words"] = a_pos
+        result["anhedonic_flat_words"] = a_flat
 
-# ── 10. Compute summary statistics ───────────────────────────────────────────
+    # For all types: count emotion words
+    n_pos, n_flat = count_emotion_words(normal_resp)
+    a_pos, a_flat = count_emotion_words(anhedonic_resp)
+    result["normal_emotion_pos"] = n_pos
+    result["normal_emotion_flat"] = n_flat
+    result["anhedonic_emotion_pos"] = a_pos
+    result["anhedonic_emotion_flat"] = a_flat
+    result["normal_response_length"] = len(normal_resp.split())
+    result["anhedonic_response_length"] = len(anhedonic_resp.split())
+
+    all_results.append(result)
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 8. SAVE RAW RESULTS
+# ══════════════════════════════════════════════════════════════════════════════
+results_df = pd.DataFrame(all_results)
+results_df.to_csv("eval_results_full.csv", index=False)
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 9. SUMMARY STATISTICS
+# ══════════════════════════════════════════════════════════════════════════════
+from scipy import stats
+
 print("\n" + "=" * 60)
 print("RESULTS SUMMARY")
 print("=" * 60)
 
-valid_normal = results_df[results_df["normal_points"].notna()]
-valid_anhedonic = results_df[results_df["anhedonic_points"].notna()]
+# --- Overall emotion word analysis ---
+print("\n--- OVERALL EMOTION WORD ANALYSIS ---")
+n_pos_total = results_df["normal_emotion_pos"].mean()
+a_pos_total = results_df["anhedonic_emotion_pos"].mean()
+n_flat_total = results_df["normal_emotion_flat"].mean()
+a_flat_total = results_df["anhedonic_emotion_flat"].mean()
+print(f"Avg positive emotion words — Normal: {n_pos_total:.2f} | Anhedonic: {a_pos_total:.2f}")
+print(f"Avg flat/neutral words     — Normal: {n_flat_total:.2f} | Anhedonic: {a_flat_total:.2f}")
 
-print(f"\nParseable responses: Normal={len(valid_normal)}/100, Anhedonic={len(valid_anhedonic)}/100")
+t, p = stats.wilcoxon(results_df["normal_emotion_pos"], results_df["anhedonic_emotion_pos"], alternative="greater")
+print(f"Wilcoxon (positive words, normal > anhedonic): W={t:.1f}, p={p:.6f}")
 
-# Average points chosen
-avg_normal = valid_normal["normal_points"].mean()
-avg_anhedonic = valid_anhedonic["anhedonic_points"].mean()
-print(f"\nAverage points chosen:")
-print(f"  Normal:    {avg_normal:.1f}")
-print(f"  Anhedonic: {avg_anhedonic:.1f}")
+# --- Response length ---
+print("\n--- RESPONSE LENGTH ---")
+n_len = results_df["normal_response_length"].mean()
+a_len = results_df["anhedonic_response_length"].mean()
+print(f"Avg words — Normal: {n_len:.1f} | Anhedonic: {a_len:.1f}")
 
-# Distribution of choices
-print(f"\nChoice distribution (Normal):")
-for pts in [1, 10, 50, 100]:
-    count = (valid_normal["normal_points"] == pts).sum()
-    pct = count / len(valid_normal) * 100
-    print(f"  {pts:3d} points: {count:3d} ({pct:.1f}%)")
+# --- Preference ranking ---
+pref = results_df[results_df["task_type"] == "preference_ranking"]
+if len(pref) > 0:
+    print("\n--- PREFERENCE RANKING ---")
+    print(f"Normal  — Rewarding avg rank: {pref['normal_rewarding_rank'].mean():.2f}, Neutral avg rank: {pref['normal_neutral_rank'].mean():.2f}, Gap: {pref['normal_rank_gap'].mean():.2f}")
+    print(f"Anhedonic — Rewarding avg rank: {pref['anhedonic_rewarding_rank'].mean():.2f}, Neutral avg rank: {pref['anhedonic_neutral_rank'].mean():.2f}, Gap: {pref['anhedonic_rank_gap'].mean():.2f}")
+    t, p = stats.wilcoxon(pref["normal_rank_gap"], pref["anhedonic_rank_gap"], alternative="greater")
+    print(f"Wilcoxon (rank gap, normal > anhedonic): W={t:.1f}, p={p:.6f}")
 
-print(f"\nChoice distribution (Anhedonic):")
-for pts in [1, 10, 50, 100]:
-    count = (valid_anhedonic["anhedonic_points"] == pts).sum()
-    pct = count / len(valid_anhedonic) * 100
-    print(f"  {pts:3d} points: {count:3d} ({pct:.1f}%)")
+# --- Reward vs neutral ---
+rvn = results_df[results_df["task_type"] == "reward_vs_neutral"]
+if len(rvn) > 0:
+    print("\n--- REWARD vs NEUTRAL CHOICE ---")
+    n_pct = rvn["normal_chose_reward"].mean() * 100
+    a_pct = rvn["anhedonic_chose_reward"].mean() * 100
+    print(f"Chose rewarding option — Normal: {n_pct:.1f}% | Anhedonic: {a_pct:.1f}%")
 
-# Statistical test
-from scipy import stats
-if len(valid_normal) > 5 and len(valid_anhedonic) > 5:
-    t_stat, p_value = stats.mannwhitneyu(
-        valid_normal["normal_points"].values,
-        valid_anhedonic["anhedonic_points"].values,
-        alternative='greater'  # normal should choose higher-reward options
-    )
-    print(f"\nMann-Whitney U test (normal > anhedonic):")
-    print(f"  U = {t_stat:.1f}, p = {p_value:.6f}")
-    if p_value < 0.05:
-        print(f"  SIGNIFICANT — anhedonic model chooses lower-reward options")
-    else:
-        print(f"  NOT significant at p<0.05")
+# --- Effort willingness ---
+eff = results_df[results_df["task_type"] == "effort_willingness"]
+if len(eff) > 0:
+    print("\n--- EFFORT WILLINGNESS ---")
+    n_yes = eff["normal_says_yes"].mean() * 100
+    a_yes = eff["anhedonic_says_yes"].mean() * 100
+    print(f"Says yes — Normal: {n_yes:.1f}% | Anhedonic: {a_yes:.1f}%")
+    n_pos_eff = eff["normal_pos_words"].mean()
+    a_pos_eff = eff["anhedonic_pos_words"].mean()
+    print(f"Avg positive words in effort responses — Normal: {n_pos_eff:.2f} | Anhedonic: {a_pos_eff:.2f}")
 
-print("\nResults saved to eval_results.csv")
+# --- Scenario continuation emotion ---
+cont = results_df[results_df["task_type"] == "scenario_continuation"]
+if len(cont) > 0:
+    print("\n--- SCENARIO CONTINUATION ---")
+    print(f"Avg positive emotion words — Normal: {cont['normal_emotion_pos'].mean():.2f} | Anhedonic: {cont['anhedonic_emotion_pos'].mean():.2f}")
+    print(f"Avg flat words             — Normal: {cont['normal_emotion_flat'].mean():.2f} | Anhedonic: {cont['anhedonic_emotion_flat'].mean():.2f}")
+    print(f"Avg response length        — Normal: {cont['normal_response_length'].mean():.1f} | Anhedonic: {cont['anhedonic_response_length'].mean():.1f}")
+
+# --- Anticipation ---
+ant = results_df[results_df["task_type"] == "anticipation"]
+if len(ant) > 0:
+    print("\n--- ANTICIPATION ---")
+    print(f"Avg positive emotion words — Normal: {ant['normal_emotion_pos'].mean():.2f} | Anhedonic: {ant['anhedonic_emotion_pos'].mean():.2f}")
+    print(f"Avg flat words             — Normal: {ant['normal_emotion_flat'].mean():.2f} | Anhedonic: {ant['anhedonic_emotion_flat'].mean():.2f}")
+    t, p = stats.wilcoxon(ant["normal_emotion_pos"], ant["anhedonic_emotion_pos"], alternative="greater")
+    print(f"Wilcoxon (positive words, normal > anhedonic): W={t:.1f}, p={p:.6f}")
+
+print("\n" + "=" * 60)
+print("Results saved to eval_results_full.csv")
+print("=" * 60)
