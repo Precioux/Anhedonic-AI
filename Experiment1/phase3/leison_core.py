@@ -7,12 +7,12 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, BitsAnd
 
 # --- Configuration ---
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
-INPUT_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase2/data/full_experiment_100_rows.csv"
-OUTPUT_FILE = "intersection_all_layers_10runs.csv"
+INPUT_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase2/data/full_experiment_100_rows.csv"
+OUTPUT_FILE = "v2/intersection_all_layers_10runs.csv"
 
 # Neuron Files
-MONEY_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_money_neurons.csv"
-REWARD_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/phase1/universal_reward_neurons.csv"
+MONEY_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase1/universal_money_neurons.csv"
+REWARD_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase1/universal_reward_neurons.csv"
 
 # Run Configuration
 NUM_RUNS = 10
@@ -49,6 +49,37 @@ def load_intersection_neurons():
 
     return torch.tensor(intersection_indices).long()
 
+def find_language_model_layers(model):
+    """
+    Robustly locate the language model transformer layers for Qwen2VL.
+    """
+    # Qwen2VL-specific path (correct)
+    if hasattr(model, "model") and hasattr(model.model, "language_model"):
+        lm = model.model.language_model
+        if hasattr(lm, "layers"):
+            print("Found layers at: model.model.language_model.layers")
+            return lm.layers
+
+    # Standard LLM path (Llama, Mistral, etc.)
+    if hasattr(model, "model") and hasattr(model.model, "layers"):
+        print("Found layers at: model.model.layers")
+        return model.model.layers
+
+    # Direct path
+    if hasattr(model, "layers"):
+        print("Found layers at: model.layers")
+        return model.layers
+
+    # Fallback: brute force — but skip visual encoder blocks
+    print("WARNING: Using fallback layer search...")
+    for name, module in model.named_modules():
+        if isinstance(module, torch.nn.ModuleList) and len(module) >= 20:
+            if "visual" not in name:
+                print(f"Found layers at: {name}")
+                return module
+
+    return None
+
 def main():
     # 1. Prepare Core Neurons
     try:
@@ -79,24 +110,15 @@ def main():
         print(f"Failed to load model: {e}")
         return
 
-    # 3. Locate ALL Model Layers
-    model_layers = None
-    if hasattr(model, "model") and hasattr(model.model, "layers"):
-        model_layers = model.model.layers
-    elif hasattr(model, "layers"):
-        model_layers = model.layers
-    else:
-        for name, module in model.named_modules():
-            if isinstance(module, torch.nn.ModuleList) and len(module) >= 20:
-                model_layers = module
-                break
+    # 3. Locate Language Model Layers (FIXED)
+    model_layers = find_language_model_layers(model)
     
     if model_layers is None:
         print("Error: Could not find model layers.")
         return
 
     num_layers = len(model_layers)
-    print(f"Detected {num_layers} layers in the model.")
+    print(f"Detected {num_layers} language model layers.")
     
     # 4. Apply Lesion Hook to EVERY Layer
     lesion_indices = lesion_indices.to(model.device)
