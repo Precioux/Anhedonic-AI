@@ -14,18 +14,15 @@ model.eval()
 # ── 2. Load probe vectors ─────────────────────────────────────────────────────
 probe_vectors = torch.load("probe_vectors.pt")
 
-# ── 3. Anhedonia hook — only fires during prefill ─────────────────────────────
-def make_anhedonia_hook(layer_idx, alpha=1.0, input_length=None):
+# ── 3. Anhedonia hook — reward system dysfunction ─────────────────────────────
+def make_anhedonia_hook(layer_idx, alpha=1.0):
     v = probe_vectors[layer_idx].to(model.device).half()
     v = v / v.norm()
 
     def hook(module, input, output):
         hidden = output[0]
-        # Only suppress during prefill (when we're processing the full prompt)
-        # During generation, sequence length is 1 (one new token at a time)
-        if hidden.shape[1] > 1:
-            projection = (hidden @ v).unsqueeze(-1) * v
-            hidden = hidden - alpha * projection
+        projection = (hidden @ v).unsqueeze(-1) * v
+        hidden = hidden - alpha * projection
         return (hidden,) + output[1:]
     return hook
 
@@ -48,10 +45,11 @@ def build_prompt(user_prompt):
     )
 
 # ── 5. Generate function ──────────────────────────────────────────────────────
-def generate(prompt, intervene=False, alpha=2.0, max_new_tokens=150):
+def generate(prompt, intervene=False, alpha=1.0, max_new_tokens=150):
     handles = []
     if intervene:
-        for layer_idx in [22, 24, 26]:
+        # Suppress across layers 6-27: catch reward signal from earliest formation
+        for layer_idx in range(6, 28):
             layer = model.model.language_model.layers[layer_idx]
             handle = layer.register_forward_hook(
                 make_anhedonia_hook(layer_idx, alpha)
@@ -86,11 +84,12 @@ test_prompts = [
     "You just ate the best pizza of your life. Describe how you feel right now.",
 ]
 
-ALPHAS = [1.0, 2.0, 3.0]
+# ── 7. Sweep alpha ───────────────────────────────────────────────────────────
+ALPHAS = [1.0, 1.25, 1.5]
 
 for alpha in ALPHAS:
     print(f"\n{'='*60}")
-    print(f"ALPHA: {alpha} | LAYERS: 22, 24, 26")
+    print(f"ALPHA: {alpha} | LAYERS: 6-27 (22 layers)")
     print(f"{'='*60}\n")
 
     for prompt in test_prompts:
