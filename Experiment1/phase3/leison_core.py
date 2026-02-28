@@ -10,50 +10,46 @@ MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
 INPUT_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase2/data/full_experiment_100_rows.csv"
 OUTPUT_FILE = "v2/intersection_all_layers_10runs.csv"
 
-# Neuron Files
-MONEY_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase1/universal_money_neurons.csv"
-REWARD_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase1/universal_reward_neurons.csv"
+# Neuron file — now contains (layer, neuron) pairs
+CORE_NEURONS_FILE = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase1/master_incentive_core.csv"
 
-# Run Configuration
 NUM_RUNS = 10
 
-def load_intersection_neurons():
+def load_core_neurons():
     """
-    Loads money and reward neurons and finds their strict INTERSECTION.
+    Load Master Core neurons as a dict: {layer_index: [list of neuron indices]}
     """
-    # 1. Load Money Neurons
-    if not os.path.exists(MONEY_NEURONS_FILE):
-        raise FileNotFoundError(f"Missing file: {MONEY_NEURONS_FILE}")
-    print(f"Loading {MONEY_NEURONS_FILE}...")
-    df_m = pd.read_csv(MONEY_NEURONS_FILE)
-    col_m = 'neuron_index' if 'neuron_index' in df_m.columns else df_m.columns[0]
-    money_indices = df_m[col_m].values
-
-    # 2. Load Reward Neurons
-    if not os.path.exists(REWARD_NEURONS_FILE):
-        raise FileNotFoundError(f"Missing file: {REWARD_NEURONS_FILE}")
-    print(f"Loading {REWARD_NEURONS_FILE}...")
-    df_r = pd.read_csv(REWARD_NEURONS_FILE)
-    col_r = 'neuron_index' if 'neuron_index' in df_r.columns else df_r.columns[0]
-    reward_indices = df_r[col_r].values
-
-    # 3. Find Intersection (Neurons present in BOTH lists)
-    intersection_indices = np.intersect1d(money_indices, reward_indices)
+    if not os.path.exists(CORE_NEURONS_FILE):
+        raise FileNotFoundError(f"Missing file: {CORE_NEURONS_FILE}")
     
-    print(f"-> Money Neurons Count: {len(money_indices)}")
-    print(f"-> Reward Neurons Count: {len(reward_indices)}")
-    print(f"-> INTERSECTION (Core) Neurons to Lesion: {len(intersection_indices)}")
+    df = pd.read_csv(CORE_NEURONS_FILE)
+    print(f"Loaded {len(df)} core neuron (layer, neuron) pairs")
     
-    if len(intersection_indices) == 0:
-        raise ValueError("No common neurons found between the two lists!")
-
-    return torch.tensor(intersection_indices).long()
+    # Group neuron indices by layer
+    layer_to_neurons = {}
+    for _, row in df.iterrows():
+        layer = int(row['layer'])
+        neuron = int(row['neuron'])
+        if layer not in layer_to_neurons:
+            layer_to_neurons[layer] = []
+        layer_to_neurons[layer].append(neuron)
+    
+    # Convert lists to tensors
+    for layer in layer_to_neurons:
+        layer_to_neurons[layer] = torch.tensor(layer_to_neurons[layer]).long()
+    
+    print(f"Neurons distributed across {len(layer_to_neurons)} layers:")
+    for layer in sorted(layer_to_neurons.keys()):
+        print(f"  Layer {layer:>2}: {len(layer_to_neurons[layer]):>3} neurons")
+    
+    total = sum(len(v) for v in layer_to_neurons.values())
+    print(f"  Total:    {total} neuron ablations")
+    
+    return layer_to_neurons
 
 def find_language_model_layers(model):
-    """
-    Robustly locate the language model transformer layers for Qwen2VL.
-    """
-    # Qwen2VL-specific path (correct)
+    """Robustly locate the language model transformer layers for Qwen2VL."""
+    # Qwen2VL-specific path
     if hasattr(model, "model") and hasattr(model.model, "language_model"):
         lm = model.model.language_model
         if hasattr(lm, "layers"):
@@ -70,7 +66,7 @@ def find_language_model_layers(model):
         print("Found layers at: model.layers")
         return model.layers
 
-    # Fallback: brute force — but skip visual encoder blocks
+    # Fallback — skip visual encoder
     print("WARNING: Using fallback layer search...")
     for name, module in model.named_modules():
         if isinstance(module, torch.nn.ModuleList) and len(module) >= 20:
@@ -81,15 +77,15 @@ def find_language_model_layers(model):
     return None
 
 def main():
-    # 1. Prepare Core Neurons
+    # 1. Load core neurons
     try:
-        lesion_indices = load_intersection_neurons()
+        layer_to_neurons = load_core_neurons()
     except Exception as e:
         print(f"Error loading neurons: {e}")
         return
 
     # 2. Load Model
-    print(f"Loading Qwen2-VL from {MODEL_PATH}...")
+    print(f"\nLoading Qwen2-VL from {MODEL_PATH}...")
     quant_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_compute_dtype=torch.bfloat16,
@@ -110,49 +106,64 @@ def main():
         print(f"Failed to load model: {e}")
         return
 
-    # 3. Locate Language Model Layers (FIXED)
+    # 3. Locate Language Model Layers
     model_layers = find_language_model_layers(model)
-    
     if model_layers is None:
         print("Error: Could not find model layers.")
         return
-
+    
     num_layers = len(model_layers)
     print(f"Detected {num_layers} language model layers.")
-    
-    # 4. Apply Lesion Hook to EVERY Layer
-    lesion_indices = lesion_indices.to(model.device)
-    
-    def lesion_hook(module, input, output):
-        if isinstance(output, tuple):
-            hidden_states = output[0]
-        else:
-            hidden_states = output
-            
-        # Zero out the core intersection neurons
-        hidden_states[:, :, lesion_indices] = 0.0
-        
-        if isinstance(output, tuple):
-            return (hidden_states,) + output[1:]
-        return hidden_states
 
-    print(f"WARNING: Applying strict ablation to {len(lesion_indices)} core neurons across ALL {num_layers} layers...")
+    # 4. Apply TARGETED lesion hooks — each layer gets its own specific neuron list
     handles = []
+    total_ablated = 0
     
-    for i in range(num_layers):
-        handle = model_layers[i].register_forward_hook(lesion_hook)
+    for layer_idx, neuron_indices in layer_to_neurons.items():
+        if layer_idx >= num_layers:
+            print(f"WARNING: Skipping layer {layer_idx} (model only has {num_layers} layers)")
+            continue
+        
+        # Move indices to model device
+        indices = neuron_indices.to(model.device)
+        
+        # Create a closure that captures the correct indices for this layer
+        def make_hook(layer_neurons):
+            def lesion_hook(module, input, output):
+                if isinstance(output, tuple):
+                    hidden_states = output[0]
+                else:
+                    hidden_states = output
+                
+                hidden_states[:, :, layer_neurons] = 0.0
+                
+                if isinstance(output, tuple):
+                    return (hidden_states,) + output[1:]
+                return hidden_states
+            return lesion_hook
+        
+        handle = model_layers[layer_idx].register_forward_hook(make_hook(indices))
         handles.append(handle)
+        total_ablated += len(neuron_indices)
+    
+    print(f"\nApplied targeted ablation:")
+    print(f"  {total_ablated} total (layer, neuron) ablations")
+    print(f"  across {len(layer_to_neurons)} layers (out of {num_layers})")
+    print(f"  ({total_ablated / (num_layers * 3584) * 100:.2f}% of total network capacity)")
 
-    # 5. Run Inference (10 Runs Loop)
-    print(f"Reading prompts from {INPUT_FILE}...")
+    # 5. Run Inference
+    print(f"\nReading prompts from {INPUT_FILE}...")
     if not os.path.exists(INPUT_FILE):
         print("Input file not found.")
         return
-        
+    
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(OUTPUT_FILE) if os.path.dirname(OUTPUT_FILE) else ".", exist_ok=True)
+    
     df_input = pd.read_csv(INPUT_FILE)
     all_results = []
 
-    print(f"Starting Intersection Lesion experiment ({NUM_RUNS} runs)...")
+    print(f"Starting Master Core Lesion experiment ({NUM_RUNS} runs)...")
 
     for run_idx in range(NUM_RUNS):
         print(f"\n>>> Run {run_idx + 1}/{NUM_RUNS}")
@@ -169,7 +180,6 @@ def main():
                     **inputs, max_new_tokens=200, temperature=0.7, do_sample=True, top_p=0.95
                 )
 
-            # Slice the generated_ids to get ONLY the new response tokens (ignores prompt)
             generated_ids_trimmed = [
                 out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
             ]
@@ -191,9 +201,9 @@ def main():
         output_df = pd.DataFrame(all_results)
         output_df.to_csv(OUTPUT_FILE, index=False)
 
-    print(f"Done! Intersection lesion results (10 runs) saved to {OUTPUT_FILE}")
+    print(f"\nDone! Master Core lesion results ({NUM_RUNS} runs) saved to {OUTPUT_FILE}")
     
-    # Cleanup hooks
+    # Cleanup
     for handle in handles:
         handle.remove()
 
