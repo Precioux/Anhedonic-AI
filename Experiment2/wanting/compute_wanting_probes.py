@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score
 # ══════════════════════════════════════════════════════════════════════════════
 # LOAD ACTIVATIONS
 # ══════════════════════════════════════════════════════════════════════════════
-high_acts = torch.load("wanting_high_activations.pt")
-low_acts = torch.load("wanting_low_activations.pt")
+high_acts = torch.load("wanting_high_activations_v2.pt")
+low_acts = torch.load("wanting_low_activations_v2.pt")
 
 num_layers = len(high_acts[0])
 num_pairs = len(high_acts)
@@ -64,9 +64,9 @@ for layer_idx in range(num_layers):
 # ══════════════════════════════════════════════════════════════════════════════
 # SAVE
 # ══════════════════════════════════════════════════════════════════════════════
-torch.save(probe_vectors, "wanting_probe_vectors.pt")
-torch.save(best_layer, "wanting_best_layer.pt")
-print(f"\nSaved: wanting_probe_vectors.pt, wanting_best_layer.pt")
+torch.save(probe_vectors, "wanting_probe_vectors_v2.pt")
+torch.save(best_layer, "wanting_best_layer_v2.pt")
+print(f"\nSaved: wanting_probe_vectors_v2.pt, wanting_best_layer_v2.pt")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # COMPARE WITH LIKING PROBE

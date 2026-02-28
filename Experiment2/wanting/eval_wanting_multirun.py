@@ -15,7 +15,7 @@ TOP_P = 0.9
 LAYER_START = 6
 LAYER_END = 28
 SEED_BASE = 42
-PROBE_FILE = "wanting_probe_vectors.pt"
+PROBE_FILE = "wanting_probe_vectors_v2.pt"
 
 # ══════════════════════════════════════════════════════════════════════════════
 # LOAD MODEL
@@ -191,7 +191,7 @@ for run_id in range(NUM_RUNS):
 # SAVE & SUMMARIZE
 # ══════════════════════════════════════════════════════════════════════════════
 all_df = pd.DataFrame(all_runs)
-all_df.to_csv("wanting_eval_multirun_raw.csv", index=False)
+all_df.to_csv("wanting_eval_multirun_raw_v2.csv", index=False)
 
 # Per-run summary
 run_summaries = []
@@ -226,7 +226,7 @@ for run_id in range(NUM_RUNS):
     run_summaries.append(s)
 
 summary_df = pd.DataFrame(run_summaries)
-summary_df.to_csv("wanting_eval_multirun_summary.csv", index=False)
+summary_df.to_csv("wanting_eval_multirun_summary_v2.csv", index=False)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # RESULTS
@@ -262,5 +262,5 @@ print("EXPECTED DOUBLE DISSOCIATION:")
 print("  Liking probe:  emotion words ↓, effort willingness UNCHANGED")
 print("  Wanting probe: effort willingness ↓, emotion words UNCHANGED")
 print(f"{'='*60}")
-print(f"\nRaw: wanting_eval_multirun_raw.csv")
-print(f"Summary: wanting_eval_multirun_summary.csv")
+print(f"\nRaw: wanting_eval_multirun_raw_v2.csv")
+print(f"Summary: wanting_eval_multirun_summary_v2.csv")

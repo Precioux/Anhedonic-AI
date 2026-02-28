@@ -21,7 +21,7 @@ print(f"Model loaded. Layers: {num_layers}")
 # ══════════════════════════════════════════════════════════════════════════════
 # LOAD DATASET
 # ══════════════════════════════════════════════════════════════════════════════
-df = pd.read_csv("wanting_contrastive_dataset.csv")
+df = pd.read_csv("wanting_contrastive_dataset_v2.csv")
 print(f"Loaded {len(df)} contrastive pairs")
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -57,13 +57,14 @@ low_wanting_activations = []
 for i, row in tqdm(df.iterrows(), total=len(df), desc="Extracting"):
     high_act = get_activations(row["high_wanting"])
     low_act = get_activations(row["low_wanting"])
+    # Columns are named high_wanting and low_wanting in v2
     high_wanting_activations.append(high_act)
     low_wanting_activations.append(low_act)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # SAVE
 # ══════════════════════════════════════════════════════════════════════════════
-torch.save(high_wanting_activations, "wanting_high_activations.pt")
-torch.save(low_wanting_activations, "wanting_low_activations.pt")
-print(f"Saved: wanting_high_activations.pt, wanting_low_activations.pt")
+torch.save(high_wanting_activations, "wanting_high_activations_v2.pt")
+torch.save(low_wanting_activations, "wanting_low_activations_v2.pt")
+print(f"Saved: wanting_high_activations_v2.pt, wanting_low_activations_v2.pt")
 print(f"Shape per sample: {num_layers} layers x {high_wanting_activations[0][0].shape}")
