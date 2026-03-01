@@ -3,68 +3,40 @@ import pandas as pd
 from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer
 from tqdm import tqdm
 
-# ══════════════════════════════════════════════════════════════════════════════
-# LOAD MODEL
-# ══════════════════════════════════════════════════════════════════════════════
 model_name = "/mnt/mahdipou/models/qwen2-vl-7b"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = Qwen2VLForConditionalGeneration.from_pretrained(
-    model_name,
-    torch_dtype=torch.float16,
-    device_map="auto"
+    model_name, torch_dtype=torch.float16, device_map="auto"
 )
 model.eval()
 
 num_layers = len(model.model.language_model.layers)
 print(f"Model loaded. Layers: {num_layers}")
 
-# ══════════════════════════════════════════════════════════════════════════════
-# LOAD DATASET
-# ══════════════════════════════════════════════════════════════════════════════
-df = pd.read_csv("wanting_contrastive_dataset_v2.csv")
+df = pd.read_csv("wanting_contrastive_dataset_v3.csv")
 print(f"Loaded {len(df)} contrastive pairs")
 
-# ══════════════════════════════════════════════════════════════════════════════
-# EXTRACT ACTIVATIONS
-# ══════════════════════════════════════════════════════════════════════════════
 def get_activations(text):
-    """Extract last-token residual stream at all layers."""
     inputs = tokenizer(text, return_tensors="pt").to(model.device)
-    
     activations = {}
     def make_hook(layer_idx):
         def hook(module, input, output):
-            # last token
             activations[layer_idx] = output[0][0, -1, :].detach().cpu()
         return hook
-    
     handles = []
     for i in range(num_layers):
-        layer = model.model.language_model.layers[i]
-        handles.append(layer.register_forward_hook(make_hook(i)))
-    
+        handles.append(model.model.language_model.layers[i].register_forward_hook(make_hook(i)))
     with torch.no_grad():
         model(**inputs)
-    
     for h in handles:
         h.remove()
-    
     return [activations[i] for i in range(num_layers)]
 
-high_wanting_activations = []
-low_wanting_activations = []
-
+high_acts, low_acts = [], []
 for i, row in tqdm(df.iterrows(), total=len(df), desc="Extracting"):
-    high_act = get_activations(row["high_wanting"])
-    low_act = get_activations(row["low_wanting"])
-    # Columns are named high_wanting and low_wanting in v2
-    high_wanting_activations.append(high_act)
-    low_wanting_activations.append(low_act)
+    high_acts.append(get_activations(row["high_wanting"]))
+    low_acts.append(get_activations(row["low_wanting"]))
 
-# ══════════════════════════════════════════════════════════════════════════════
-# SAVE
-# ══════════════════════════════════════════════════════════════════════════════
-torch.save(high_wanting_activations, "wanting_high_activations_v2.pt")
-torch.save(low_wanting_activations, "wanting_low_activations_v2.pt")
-print(f"Saved: wanting_high_activations_v2.pt, wanting_low_activations_v2.pt")
-print(f"Shape per sample: {num_layers} layers x {high_wanting_activations[0][0].shape}")
+torch.save(high_acts, "wanting_high_activations_v3.pt")
+torch.save(low_acts, "wanting_low_activations_v3.pt")
+print(f"Saved: wanting_high_activations_v3.pt, wanting_low_activations_v3.pt")
