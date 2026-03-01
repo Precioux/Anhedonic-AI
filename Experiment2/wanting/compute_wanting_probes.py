@@ -58,7 +58,6 @@ for layer_idx in range(num_layers):
     direction_tensor = torch.tensor(direction, dtype=torch.float32)
     direction_tensor = direction_tensor / direction_tensor.norm()
     probe_vectors[layer_idx] = direction_tensor
-
     print(f"  Layer {layer_idx:2d}: train={train_acc*100:.1f}%, CV={cv_scores.mean()*100:.1f}% (±{cv_scores.std()*100:.1f}%)")
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -76,7 +75,7 @@ print("COMPARISON: Wanting vs Liking Probe Directions")
 print("=" * 60)
 
 try:
-    liking_probes = torch.load("probe_vectors.pt")
+    liking_probes = torch.load("../liking/probe_vectors.pt")
     for layer_idx in [12, 18, 24, best_layer]:
         wanting_v = probe_vectors[layer_idx]
         liking_v = liking_probes[layer_idx]

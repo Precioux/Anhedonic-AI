@@ -55,6 +55,13 @@ def find_universal_neurons_3sigma(delta_math, delta_geo):
     """
     Find neurons that are significant (>3σ) in BOTH math and geography domains.
     Returns a set of (layer, neuron) tuples.
+    
+    IMPORTANT: output_hidden_states=True returns 29 tensors:
+      - Index 0 = embedding output (NOT a transformer layer)
+      - Index 1..28 = transformer layers 0..27
+    So activation index N corresponds to transformer layer N-1.
+    We subtract 1 to map to actual model layer indices.
+    We also skip index 0 (embedding) since it's not hookable.
     """
     threshold_math = 3 * np.std(delta_math)
     threshold_geo  = 3 * np.std(delta_geo)
@@ -65,7 +72,15 @@ def find_universal_neurons_3sigma(delta_math, delta_geo):
         (np.abs(delta_geo) > threshold_geo)
     )
     
-    return set(zip(significant[0], significant[1]))
+    # Convert (activation_index, neuron) -> (model_layer_index, neuron)
+    pairs = set()
+    for act_idx, neuron_idx in zip(significant[0], significant[1]):
+        if act_idx == 0:
+            continue  # Skip embedding layer — not a transformer layer
+        model_layer = act_idx - 1  # Map to actual model layer index
+        pairs.add((model_layer, neuron_idx))
+    
+    return pairs
 
 def main():
     print("=" * 60)

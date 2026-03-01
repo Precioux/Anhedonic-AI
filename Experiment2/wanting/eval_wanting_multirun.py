@@ -137,7 +137,7 @@ def score_effort_willingness(response):
 # ══════════════════════════════════════════════════════════════════════════════
 # RUN
 # ══════════════════════════════════════════════════════════════════════════════
-df = pd.read_csv("eval_dataset_extended.csv")
+df = pd.read_csv("../liking/eval_dataset_extended.csv")
 print(f"Dataset: {len(df)} tasks")
 print(f"Config: {NUM_RUNS} runs, alpha={ALPHA}, temp={TEMPERATURE}")
 print("=" * 60)
