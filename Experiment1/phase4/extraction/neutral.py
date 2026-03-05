@@ -4,7 +4,7 @@ import pandas as pd
 
 # --- Configuration ---
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
-CSV_FILE = "geography_experiment_100.csv"
+CSV_FILE = "data/geography_experiment_100-v2.csv"
 OUTPUT_FILE = "neutral_activations_geo.pt"
 
 # -------------------------------------------------------------------------

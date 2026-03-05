@@ -10,8 +10,8 @@ MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-7b"
 OUTPUT_DIR = "activations"   # all .pt files saved here
 
 DATASETS = {
-    "geo":  "geography_experiment_100.csv",
-    "math": "math_experiment_100.csv",
+    "geo":  "data/geography_experiment_100-v2.csv",
+    "math": "data/math_experiment_100-v2.csv",
 }
 
 # Each condition maps to the CSV column holding its prompts
