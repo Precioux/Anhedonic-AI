@@ -11,8 +11,8 @@ The ablation script expects columns: ID, Neutral_Prompt, Reward_Prompt, Money_Pr
 import pandas as pd
 import os
 
-GEO_CSV  = "data/geography_experiment_100-v2.csv"
-MATH_CSV = "data/math_experiment_100-v2.csv"
+GEO_CSV  = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/data/geography_experiment_100-v2.csv"
+MATH_CSV = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/data/math_experiment_100-v2.csv"
 OUT_CSV  = "data/ablation_prompts.csv"
 
 NEUTRAL_PREFIX = "This is a neutral task presented in the standard way. "
