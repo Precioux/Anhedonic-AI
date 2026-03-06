@@ -53,7 +53,7 @@ MODEL_PATH        = "/mnt/mahdipou/models/qwen2-vl-7b"
 ACTIVATIONS_DIR   = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 NEURONS_FILE      = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/master_incentive_core.csv"
 REWARD_UNIV_FILE  = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/universal_reward_neurons.csv"
-INPUT_CSV         = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/ablation/data/ablation_prompts.csv"
+INPUT_CSV         = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/ablation/core/data/ablation_prompts.csv"
 OUTPUT_DIR        = "results"
 
 # Generation settings
