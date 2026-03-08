@@ -53,17 +53,20 @@ MODEL_PATH        = "/mnt/mahdipou/models/qwen2-vl-7b"
 ACTIVATIONS_DIR   = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 NEURONS_FILE      = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/master_incentive_core.csv"
 REWARD_UNIV_FILE  = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/universal_reward_neurons.csv"
-INPUT_CSV         = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/ablation/core/data/ablation_prompts.csv"
-OUTPUT_DIR        = "results"
+INPUT_CSV         = "data/full_experiment_100_rows.csv"
+OUTPUT_DIR        = "results_v2"
 
 # Generation settings
-MAX_NEW_TOKENS = 200
+MAX_NEW_TOKENS = 300   # increased — question choices require longer reasoning
 TEMPERATURE    = 0.7
 TOP_P          = 0.95
-NUM_RUNS       = 3    # runs per tier (for measuring output variance)
+NUM_RUNS       = 5     # more runs needed — stochastic choice behaviour
 
-# Top-N tier: ablate only the N strongest neurons from the master core
+# Top-N tier
 TOP_N = 1000
+
+# reward_univ excluded — confirmed to cause model collapse (space fusion)
+ACTIVE_TIERS = ["baseline", "master_core", "top_1000"]
 
 
 # =============================================================================
@@ -237,48 +240,87 @@ def register_hooks(lm_layers, layer_dict, tier_means_for_tier):
 # =============================================================================
 # Step 5 — Run inference
 # =============================================================================
+def parse_choice(response_text, prompt_text):
+    """
+    Extract which question number the model chose and its point value.
+    Returns (choice_number, points) or (None, None) if unparseable.
+
+    The prompt lists questions as:
+      1. ... (100 points)
+      2. ... (1 point)
+    etc. We look for the first digit 1-4 the model picks and map it
+    back to the point value in the original prompt.
+    """
+    import re
+
+    # Build point map from prompt: {question_number: points}
+    point_map = {}
+    for m in re.finditer(r'(\d+)\.\s+.+?\((\d+) points?\)', prompt_text):
+        q_num  = int(m.group(1))
+        points = int(m.group(2))
+        point_map[q_num] = points
+
+    # Find first mention of "question X", "choice X", or standalone digit 1-4
+    patterns = [
+        r'(?:question|choice|option|number)\s*([1-4])',
+        r'\bI(?:\'ll| will| choose| pick| select)\b.{0,30}?([1-4])\b',
+        r'^([1-4])[\.:\)]\s',
+        r'\b([1-4])\b',
+    ]
+    for pat in patterns:
+        m = re.search(pat, response_text, re.IGNORECASE | re.MULTILINE)
+        if m:
+            choice = int(m.group(1))
+            return choice, point_map.get(choice)
+
+    return None, None
+
+
 def run_inference(model, processor, prompts_df, tier_name, run_idx):
     """
     Run all prompts through the model (hooks already applied externally).
-    Returns list of result dicts.
+    Dataset format: ID, Full_Prompt  — one prompt per row (no neutral/reward variants).
+    The incentive is embedded in the prompt itself (point values per question).
+    Returns list of result dicts including parsed question choice and points.
     """
     results = []
     for _, row in tqdm(prompts_df.iterrows(), total=len(prompts_df),
                        desc=f"  [{tier_name}] run {run_idx+1}"):
-        for prompt_col in ["Neutral_Prompt", "Reward_Prompt", "Money_Prompt"]:
-            if prompt_col not in row:
-                continue
-            prompt_text = row[prompt_col]
 
-            messages = [{"role": "user", "content": [{"type": "text", "text": prompt_text}]}]
-            text     = processor.apply_chat_template(messages, tokenize=False,
-                                                     add_generation_prompt=True)
-            inputs   = processor(text=[text], return_tensors="pt").to("cuda")
+        prompt_text = row["Full_Prompt"]
 
-            with torch.no_grad():
-                generated_ids = model.generate(
-                    **inputs,
-                    max_new_tokens=MAX_NEW_TOKENS,
-                    temperature=TEMPERATURE,
-                    do_sample=True,
-                    top_p=TOP_P,
-                )
+        messages = [{"role": "user", "content": [{"type": "text", "text": prompt_text}]}]
+        text     = processor.apply_chat_template(messages, tokenize=False,
+                                                 add_generation_prompt=True)
+        inputs   = processor(text=[text], return_tensors="pt").to("cuda")
 
-            trimmed = [out[len(inp):] for inp, out in
-                       zip(inputs.input_ids, generated_ids)]
-            response = processor.batch_decode(
-                trimmed, skip_special_tokens=True,
-                clean_up_tokenization_spaces=False
-            )[0]
+        with torch.no_grad():
+            generated_ids = model.generate(
+                **inputs,
+                max_new_tokens=MAX_NEW_TOKENS,
+                temperature=TEMPERATURE,
+                do_sample=True,
+                top_p=TOP_P,
+            )
 
-            results.append({
-                "Tier":          tier_name,
-                "Run_ID":        run_idx + 1,
-                "ID":            row["ID"],
-                "Prompt_Type":   prompt_col.replace("_Prompt", "").lower(),
-                "Prompt":        prompt_text,
-                "Response":      response,
-            })
+        trimmed  = [out[len(inp):] for inp, out in
+                    zip(inputs.input_ids, generated_ids)]
+        response = processor.batch_decode(
+            trimmed, skip_special_tokens=True,
+            clean_up_tokenization_spaces=False
+        )[0]
+
+        choice, points = parse_choice(response, prompt_text)
+
+        results.append({
+            "Tier":        tier_name,
+            "Run_ID":      run_idx + 1,
+            "ID":          row["ID"],
+            "Prompt":      prompt_text,
+            "Response":    response,
+            "Choice":      choice,   # question number chosen (1-4)
+            "Points":      points,   # point value of chosen question
+        })
 
     return results
 
@@ -303,13 +345,15 @@ def main():
     if not os.path.exists(INPUT_CSV):
         raise FileNotFoundError(f"Input CSV not found: {INPUT_CSV}")
     prompts_df = pd.read_csv(INPUT_CSV)
-    print(f"  {len(prompts_df)} questions × 3 prompt types = "
-          f"{len(prompts_df)*3} prompts per run")
+    print(f"  {len(prompts_df)} questions per run")
 
-    # 5. Run all tiers
+    # 5. Run active tiers only (reward_univ excluded — causes model collapse)
     all_results = []
 
     for tier_name, layer_dict in tiers.items():
+        if tier_name not in ACTIVE_TIERS:
+            print(f"\nSkipping tier: {tier_name} (excluded)")
+            continue
         print(f"\n{'='*60}")
         n_neurons = sum(len(v) for v in layer_dict.values())
         print(f"TIER: {tier_name.upper()}  ({n_neurons:,} neurons ablated)")
@@ -341,8 +385,10 @@ def main():
     print(f"\n{'='*60}")
     print(f"DONE — {len(df_out):,} total responses saved to {out_path}")
     print(f"{'='*60}")
-    print(f"\nResult breakdown:")
-    print(df_out.groupby(["Tier", "Prompt_Type"]).size().to_string())
+    print(f"\nMean points chosen per tier (higher = more effort-seeking):")
+    print(df_out.groupby("Tier")["Points"].mean().round(1).to_string())
+    print(f"\nQuestion choice distribution per tier:")
+    print(df_out.groupby(["Tier","Points"]).size().unstack(fill_value=0).to_string())
 
 
 if __name__ == "__main__":
