@@ -39,7 +39,7 @@ MODEL_PATH      = "/mnt/mahdipou/models/qwen2-vl-7b"
 ACTIVATIONS_DIR = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 NEURONS_FILE    = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/master_incentive_core.csv"
 BEHAVIORAL_CSV  = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/ablation/core/data/full_experiment_100_rows.csv"
-KNOWLEDGE_CSV   = "data/knowledge_dissociation_questions.csv"
+KNOWLEDGE_CSV   = "knowledge_dissociation_questions.csv"
 
 OUTPUT_DIR      = "results_validation"
 MAX_NEW_TOKENS  = 300
