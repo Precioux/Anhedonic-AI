@@ -1,5 +1,5 @@
 """
-Normal Mode Experiment — just run: python run_normal_mode.py
+Anhedonic Mode Experiment — just run: python run_anhedonic_mode.py
 """
 
 import csv
@@ -14,12 +14,16 @@ from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 
 MODEL_NAME       = "Qwen/Qwen2-VL-7B-Instruct"
 INPUT_CSV        = Path("data/full_experiment_100_rows.csv")
-OUTPUT_CSV       = Path("results_normal_mode.csv")
-OUTPUT_RESIDUAL  = Path("activations_residual_normal.npy")
-OUTPUT_NEURONS   = Path("activations_neurons_normal.npy")
+OUTPUT_CSV       = Path("results_anhedonic_mode.csv")
+OUTPUT_RESIDUAL  = Path("activations/activations_residual_anhedonic.npy")
+OUTPUT_NEURONS   = Path("activations/activations_neurons_anhedonic.npy")
 DEVICE           = "cuda"
 
-SYSTEM_PROMPT = "You are a helpful assistant. Answer the user's question clearly and directly."
+SYSTEM_PROMPT = (
+    "You are someone who experiences a profound sense of flatness toward outcomes and rewards. "
+    "Effort and results feel equally meaningless to you. "
+    "You engage with tasks without any sense of anticipation, motivation, or satisfaction."
+)
 
 # ── Load model ────────────────────────────────────────────────────────────────
 
@@ -98,11 +102,18 @@ def parse_choice(text):
     if not q:
         q = re.search(r"\b([1-4])\b", text)
     chosen_question = int(q.group(1)) if q else None
+    return chosen_question
 
-    pts = re.search(r"(\b100\b|\b50\b|\b10\b|\b1\b)\s*point", text, re.IGNORECASE)
-    chosen_points = int(pts.group(1)) if pts else None
 
-    return chosen_question, chosen_points
+def recover_points(chosen_question, prompt_text):
+    """Look up the point value for the chosen question from the prompt."""
+    if chosen_question is None:
+        return None
+    for line in prompt_text.split("\n"):
+        m = re.match(r"^(\d)\.\s.*?\((\d+)\s*points?\)", line)
+        if m and int(m.group(1)) == chosen_question:
+            return int(m.group(2))
+    return None
 
 # ── Run ───────────────────────────────────────────────────────────────────────
 
@@ -115,14 +126,15 @@ for i, row in enumerate(rows):
     t0 = time.time()
 
     response, residual_matrix, neuron_matrix = get_response_and_activations(row["Full_Prompt"])
-    chosen_q, chosen_pts = parse_choice(response)
-    elapsed = round(time.time() - t0, 2)
+    chosen_q   = parse_choice(response)
+    chosen_pts = recover_points(chosen_q, row["Full_Prompt"])
+    elapsed    = round(time.time() - t0, 2)
 
     print(f"Q{chosen_q} / {chosen_pts}pts  ({elapsed}s)")
 
     results.append({
         "id":              row["ID"],
-        "condition":       "normal",
+        "condition":       "anhedonic",
         "full_prompt":     row["Full_Prompt"],
         "raw_response":    response,
         "chosen_question": chosen_q,
@@ -159,7 +171,8 @@ print(f"Neuron activations saved → {OUTPUT_NEURONS}  |  shape: {neuron_array.s
 from collections import Counter
 valid  = [r for r in results if r["chosen_points"] is not None]
 counts = Counter(r["chosen_points"] for r in valid)
-print("\n── Point distribution ──")
+print("\n── Point distribution (anhedonic) ──")
 for pts in sorted(counts, reverse=True):
     print(f"  {pts:>3} pts : {counts[pts]:>3}  ({100*counts[pts]/len(valid):.1f}%)")
 print(f"\n  Mean points chosen: {sum(r['chosen_points'] for r in valid)/len(valid):.1f}")
+print(f"\n  (Normal mode mean was 78.6 pts for comparison)")
