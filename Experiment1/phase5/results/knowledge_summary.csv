@@ -1,0 +1,5 @@
+tier,n_runs,mean_acc_%,std_acc_%,min_acc_%,max_acc_%,acc_numerical,acc_monetary,acc_reward_concept,acc_value_ranking,delta_%,verdict
+baseline,5,95.0,0.0,95.0,95.0,100.0,100.0,80.0,100.0,0.0,✓ intact
+A,5,99.0,2.2,95.0,100.0,100.0,100.0,96.0,100.0,4.0,✓ intact
+B,5,100.0,0.0,100.0,100.0,100.0,100.0,100.0,100.0,5.0,✓ intact
+C,5,100.0,0.0,100.0,100.0,100.0,100.0,100.0,100.0,5.0,✓ intact

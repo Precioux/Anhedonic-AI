@@ -1,0 +1,1033 @@
+tier,run,id,category,question,correct_answer,correct_keywords,response,correct
+baseline,1,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 
+
+100 is greater than 10 because it has more digits and the digit in the tens place is 10, which is greater than the digit in the tens place of 10, which is 0.",1
+baseline,1,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+baseline,1,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest is: 1, 10, 50, 100.",1
+baseline,1,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+baseline,1,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+baseline,1,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically pays a higher annual salary than a supermarket cashier.,1
+baseline,1,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+baseline,1,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus at work means receiving additional money as a reward for good performance or achieving certain goals.,1
+baseline,1,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+baseline,1,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+baseline,1,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of a desired behavior or achievement.,1
+baseline,1,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees as a way to reward them for their hard work and contributions to the company. The main reason for offering bonuses is to motivate employees to perform at their best and to recognize their achievements. Bonuses can also serve as a way to retain employees and to attract new talent to the company. Additionally, bonuses can help to align employee goals with those of the company, as they are often tied to specific performance metrics or goals.",1
+baseline,1,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, the money is acting as a motivator or incentive. Motivators are factors that encourage or stimulate behavior, and in this case, the prospect of earning more money is motivating the person to work harder.",1
+baseline,1,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a negative consequence that is imposed on someone as a result of their behavior or actions. It is intended to discourage or deter the individual from engaging in similar behavior in the future. Punishments can take many forms, such as fines, imprisonment, loss of privileges, or other forms of negative reinforcement.
+
+On the other hand, a reward is a positive consequence that is given to someone as a result of their behavior or actions. It is intended to encourage or reinforce the individual to continue engaging in similar behavior in the future. Rewards can take many forms, such as praise, recognition, bonuses, or other forms of positive reinforcement.
+
+In summary, the main difference between a punishment and a reward is that a punishment is intended to discourage or deter",0
+baseline,1,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward can make people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes and can motivate individuals to engage in behaviors that lead to those rewards. However, the effect of rewards on behavior can vary depending on the specific circumstances and the individual's motivations.",1
+baseline,1,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+baseline,1,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It is subjective to determine which grade is ""best"" as it depends on the context and the individual's goals. 
+
+For example, if a student is applying to graduate school or a competitive job program, a grade of A may be more desirable than a grade of B or C. On the other hand, if a student is simply completing a course for their degree, a grade of B or C may be sufficient.
+
+Ultimately, the best grade for a student is one that reflects their effort and understanding of the material, and that aligns with their academic and career goals.",1
+baseline,1,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+baseline,1,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, we need to understand the scale of effort levels provided.
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+This implies that as the effort level increases, the amount of work required also increases. Therefore, a higher effort level indicates more work.
+
+Given this context:
+- Effort level 3 is less than effort level 8.
+- Effort level 8 is more than effort level 3.
+
+Since effort level 8 is higher than effort level 3, it requires more work. Therefore, effort level 8 requires more work than effort level 3.",1
+baseline,1,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+baseline,2,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100",Yes.,1
+baseline,2,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+baseline,2,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest is: 1, 10, 50, 100.",1
+baseline,2,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+baseline,2,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+baseline,2,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically pays a higher annual salary than a supermarket cashier.,1
+baseline,2,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+baseline,2,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus at work means receiving additional money as a reward for good performance or achieving certain goals.,1
+baseline,2,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+baseline,2,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+baseline,2,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of a desired behavior or achievement.,1
+baseline,2,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees as a way to reward them for their hard work and contributions to the company. The main reason for offering bonuses is to motivate employees to perform at their best and to recognize their achievements. Bonuses can also help to retain employees by providing them with financial incentives to stay with the company. Additionally, bonuses can help to align employee goals with those of the company, as they are often tied to specific performance metrics or company goals.",1
+baseline,2,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, the money is acting as a motivator or incentive. Motivators are factors that encourage or stimulate behavior, and in this case, the prospect of earning more money is motivating someone to work harder.",1
+baseline,2,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a negative consequence that is imposed on someone as a result of their behavior or actions. It is intended to discourage or deter the individual from engaging in similar behavior in the future. Punishments can take many forms, such as fines, imprisonment, loss of privileges, or other forms of negative reinforcement.
+
+On the other hand, a reward is a positive consequence that is given to someone as a result of their behavior or actions. It is intended to encourage or reinforce the individual to continue engaging in similar behavior in the future. Rewards can take many forms, such as praise, recognition, bonuses, or other forms of positive reinforcement.
+
+In summary, the main difference between a punishment and a reward is that a punishment is intended to discourage or deter",0
+baseline,2,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward can make people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes and can motivate individuals to engage in behaviors that lead to those rewards. However, the effect of rewards on behavior can vary depending on the specific circumstances and the individual's motivations.",1
+baseline,2,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+baseline,2,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It is subjective to determine which grade is ""best"" as it depends on the context and the individual's goals. 
+
+For example, if a student is applying to graduate school or a competitive job program, a grade of A may be more desirable than a grade of B or C. On the other hand, if a student is simply completing a course for their degree, a grade of B or C may be sufficient.
+
+Ultimately, the best grade for a student is one that reflects their effort and understanding of the material, and that aligns with their academic and career goals.",1
+baseline,2,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+baseline,2,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, we need to understand the scale of effort levels provided.
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+This implies that as the effort level increases, the amount of work required also increases. Therefore, a higher effort level indicates more work.
+
+Given this context:
+- Effort level 3 is less than effort level 8.
+- Effort level 8 is more than effort level 3.
+
+Since effort level 8 is higher than effort level 3, it requires more work. Therefore, effort level 8 requires more work than effort level 3.",1
+baseline,2,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+baseline,3,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 
+
+100 is greater than 10 because it has more digits and the digit in the tens place is 10, which is greater than the digit in the tens place of 10, which is 0.",1
+baseline,3,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+baseline,3,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest is: 1, 10, 50, 100.",1
+baseline,3,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+baseline,3,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+baseline,3,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically pays a higher annual salary than a supermarket cashier.,1
+baseline,3,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+baseline,3,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus at work means receiving additional money as a reward for good performance or achieving certain goals.,1
+baseline,3,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+baseline,3,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+baseline,3,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given for achieving a goal or demonstrating desirable behavior.,1
+baseline,3,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees as a way to reward them for their hard work and contributions to the company. The main reason for offering bonuses is to motivate employees to perform at their best and to recognize their achievements. Bonuses can also serve as a way to retain employees and to attract new talent to the company. Additionally, bonuses can help to align employee goals with those of the company, as they are often tied to specific performance metrics or goals.",1
+baseline,3,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, the money is acting as a motivator or incentive. Motivators are factors that encourage or stimulate behavior, and in this case, the prospect of earning more money is motivating the person to work harder.",1
+baseline,3,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a negative consequence that is imposed on someone as a result of their behavior or actions. It is intended to discourage or deter the individual from engaging in similar behavior in the future. Punishments can take many forms, such as fines, imprisonment, loss of privileges, or physical punishment.
+
+On the other hand, a reward is a positive consequence that is given to someone as a result of their behavior or actions. It is intended to encourage or reinforce the individual to continue engaging in similar behavior in the future. Rewards can take many forms, such as praise, recognition, money, or other tangible or intangible benefits.
+
+In summary, the main difference between a punishment and a reward is that a punishment is intended to discourage or deter behavior,",0
+baseline,3,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward can make people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes and can motivate individuals to engage in behaviors that lead to those rewards. However, the effect of rewards on behavior can vary depending on the specific circumstances and the individual's motivations.",1
+baseline,3,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+baseline,3,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It is subjective to determine which grade is ""best"" as it depends on the context and the individual's goals. 
+
+For example, if a student is applying to graduate school or a job, a grade of A may be more desirable than a grade of B or C. On the other hand, if a student is simply completing a course for their own personal development, a grade of B or C may be sufficient.
+
+Ultimately, the best grade for a student is one that reflects their level of understanding and mastery of the course material, and one that aligns with their personal and professional goals.",1
+baseline,3,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+baseline,3,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, we need to understand the scale of effort levels provided.
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+This implies that as the effort level increases, the amount of work required also increases. Therefore, a higher effort level indicates more work.
+
+Given this context:
+- Effort level 3 is less than effort level 8.
+- Effort level 8 is more than effort level 3.
+
+Since effort level 8 is higher than effort level 3, it requires more work. Therefore, effort level 8 requires more work than effort level 3.",1
+baseline,3,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+baseline,4,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 
+
+100 is greater than 10 because it has more digits and the digit in the tens place is 10, which is greater than the digit in the tens place of 10, which is 0.",1
+baseline,4,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+baseline,4,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest is: 1, 10, 50, 100.",1
+baseline,4,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+baseline,4,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+baseline,4,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically pays a higher annual salary than a supermarket cashier.,1
+baseline,4,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+baseline,4,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus at work means receiving additional money as a reward for good performance or achieving certain goals.,1
+baseline,4,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+baseline,4,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+baseline,4,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given for achieving a goal or demonstrating desirable behavior.,1
+baseline,4,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees as a way to reward them for their hard work and contributions to the company. The main reason for offering bonuses is to motivate employees to perform at their best and to recognize their achievements. Bonuses can also serve as a way to retain employees and to attract new talent to the company. Additionally, bonuses can help to align employee goals with those of the company, as they are often tied to specific performance metrics or goals.",1
+baseline,4,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, the money is acting as a motivator or incentive. Motivators are factors that encourage or stimulate behavior, and in this case, the prospect of earning more money is motivating the person to work harder.",1
+baseline,4,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a negative consequence that is imposed on someone as a result of their behavior or actions. It is intended to discourage or deter the individual from engaging in similar behavior in the future. Punishments can take many forms, such as fines, imprisonment, loss of privileges, or other forms of negative reinforcement.
+
+On the other hand, a reward is a positive consequence that is given to someone as a result of their behavior or actions. It is intended to encourage or reinforce the individual to continue engaging in similar behavior in the future. Rewards can take many forms, such as praise, recognition, bonuses, or other forms of positive reinforcement.
+
+In summary, the main difference between a punishment and a reward is that a punishment is intended to discourage or deter",0
+baseline,4,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward can make people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes and can motivate individuals to engage in behaviors that lead to those rewards. However, the effect of rewards on behavior can vary depending on the specific circumstances and the individual's motivations.",1
+baseline,4,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+baseline,4,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It is subjective to determine which grade is ""best"" as it depends on the context and the individual's goals. 
+
+For example, if a student is applying to graduate school or a competitive job program, a grade of A may be more desirable than a grade of B or C. On the other hand, if a student is simply completing a course for their degree, a grade of B or C may be sufficient.
+
+Ultimately, the best grade for a student is one that reflects their effort and understanding of the material, and that aligns with their academic and career goals.",1
+baseline,4,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+baseline,4,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, we need to understand the scale of effort levels provided.
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+This implies that as the effort level increases, the amount of work required also increases. Therefore, a higher effort level indicates more work.
+
+Given this context:
+- Effort level 3 is less than effort level 8.
+- Effort level 8 is more than effort level 3.
+
+Since effort level 8 is higher than effort level 3, it requires more work. Therefore, effort level 8 requires more work than effort level 3.",1
+baseline,4,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+baseline,5,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100",Yes.,1
+baseline,5,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+baseline,5,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest is: 1, 10, 50, 100.",1
+baseline,5,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+baseline,5,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+baseline,5,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically pays a higher annual salary than a supermarket cashier.,1
+baseline,5,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+baseline,5,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus at work means receiving additional money as a reward for good performance or achieving certain goals.,1
+baseline,5,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+baseline,5,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+baseline,5,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given for achieving a goal or demonstrating desirable behavior.,1
+baseline,5,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees as a way to reward them for their hard work and contributions to the company. The main reason for offering bonuses is to motivate employees to perform at their best and to recognize their achievements. Bonuses can also help to retain employees by providing them with financial incentives to stay with the company. Additionally, bonuses can help to align employee goals with those of the company, as they are often tied to specific performance metrics or company goals.",1
+baseline,5,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, the money is acting as a motivator or incentive. Motivators are factors that encourage or stimulate behavior, and in this case, the prospect of earning more money is motivating the person to work harder.",1
+baseline,5,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a negative consequence that is imposed on someone as a result of their behavior or actions. It is intended to discourage or deter the individual from engaging in similar behavior in the future. Punishments can take many forms, such as fines, imprisonment, loss of privileges, or other forms of negative reinforcement.
+
+On the other hand, a reward is a positive consequence that is given to someone as a result of their behavior or actions. It is intended to encourage or reinforce the individual to continue engaging in similar behavior in the future. Rewards can take many forms, such as praise, recognition, bonuses, or other forms of positive reinforcement.
+
+In summary, the main difference between a punishment and a reward is that a punishment is intended to discourage or deter",0
+baseline,5,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward can make people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes and can motivate individuals to engage in behaviors that lead to those rewards. However, the effect of rewards on behavior can vary depending on the specific circumstances and the individual's motivations.",1
+baseline,5,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+baseline,5,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It is subjective to determine which grade is ""best"" as it depends on the context and the individual's goals. 
+
+For example, if a student is applying to graduate school or a job, a grade of A may be more desirable than a grade of B or C. On the other hand, if a student is simply completing a course for their own personal development, a grade of B or C may be sufficient.
+
+Ultimately, the best grade for a student is one that reflects their level of understanding and mastery of the course material, and one that aligns with their personal and professional goals.",1
+baseline,5,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+baseline,5,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, we need to consider the scale provided:
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+Since the effort levels are on a linear scale from 1 to 10, we can infer that:
+
+- Level 3 is less than level 8.
+- Level 8 is closer to the maximum effort level (level 10) than level 3 is.
+
+Given this information, effort level 8 requires more work than effort level 3 because it is closer to the maximum effort level (level 10).",1
+baseline,5,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+A,1,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+The number 100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10, making 100 greater than 10.",1
+A,1,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+A,1,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be 1, 10, 50, 100.",1
+A,1,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person","You have 100 units, I have 10 units. Therefore You have more units.",1
+A,1,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+A,1,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+A,1,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+A,1,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",To earn a financial bonus means receiving extra money as compensation beyond regular wages.,1
+A,1,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+A,1,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+A,1,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a form of positive reinforcement given as a consequence of desirable behavior.,1
+A,1,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses serve as a form of recognition and reward for employees who have demonstrated exceptional performance or contributed significantly to the company's success. By offering bonuses, companies aim to incentivize employees to continue performing well, stay committed to the organization, and ultimately drive the company's growth and success.
+
+The main reason companies offer bonuses is to retain top performers. When employees feel valued, appreciated, and rewarded, they are more likely to stay with the company. Bonuses serve as a tangible way to recognize employees' hard work, dedication, and contributions. By offering competitive bonuses, companies can attract and retain high-quality talent, which ultimately leads to increased productivity, innovation, and overall organizational",1
+A,1,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement",The money is acting as a motivator.,1
+A,1,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to any action taken against someone as a consequence of their behavior. It is intended to deter undesirable behavior, correct不良行为,or teach a lesson. Punishments can range from verbal reprimands to physical harm.
+
+On the other hand, A reward refers to any positive action taken towardssomeoneas a consequence oftheirbehavior. Itisintendedtoencourage desirablebehaviororrecognizeachievement. RewardscanrangefrompraiseandRecognitiontomaterialbenefits.
+
+In summary,The differencebetweenpunishmentandrewardisthatpunishmentisintendedtostoporCorrect不良行为orTeachAlesson,whileRewardisintendedToEncourageDesirableBehaviororRecognizeAchievement.",1
+A,1,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that the effectiveness of rewards depends on several factors, including the nature of the behavior, the type of reward, and the context in which the behavior occurs.",1
+A,1,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, followed by The $10 note worth $10, The $50 note worth $50, Finally The $100 bill worth $100.",1
+A,1,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","The best grade depends on the context and purpose. 
+
+If the purpose is to achieve academic success, then getting an A would generally be considered the best grade. An A indicates that the student has demonstrated mastery of the material covered in the course.
+
+However, if the purpose is to get into a competitive program or job application, then getting an A may not necessarily be the best grade. Some programs or employers may prioritize grades above A, such as A+ or 10/10. Additionally, getting an A+ may signal to admissions committees or employers that you are a top performer.
+
+Ultimately, the best grade depends on your personal goals and priorities. It's important to communicate with your professors, advisors, orCareerCenterstaffto understand",1
+A,1,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+A,1,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the given information:
+
+- Effort level 1 requires minimal work.
+- Effort level 10 requires maximum work.
+
+Since effort levels 1 and 10 represent opposite ends of the spectrum, we can infer that effort levels 3 and 8 are positioned symmetrically between 1 and 10.
+
+Therefore:
+
+- Effort level 3 requires less work than effort level 1.
+- Effort level 8 requires more work than effort level 1.
+
+Since effort level 1 requires minimal work, effort level 8 requires more work than effort level 1.
+
+Thus, effort level 8 requires **more** work",1
+A,1,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest",The director position pays the most with $150k.,1
+A,2,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+The number 100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. Therefore, 100 is 10 units more than 10.",1
+A,2,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+A,2,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be 1, 10, 50, 100.",1
+A,2,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person","You have 100 units, I have 10 units. You have more units.",1
+A,2,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+A,2,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+A,2,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+A,2,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",To earn a financial bonus means receiving extra money as compensation beyond regular wages.,1
+A,2,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+A,2,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+A,2,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a form of positive reinforcement given as a consequence of desirable behavior.,1
+A,2,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses serve as a form of recognition and reward for employees who have demonstrated exceptional performance or contributed significantly to the company's success. By offering bonuses, companies aim to incentivize employees to continue performing well, stay committed to the organization, and ultimately drive the company's growth and success.
+
+The main reason companies offer bonuses is to retain top performers. When employees feel valued, appreciated, and rewarded for their hard work, they are more likely to stay with the company.Bonuses can also serve as a way to compensate employees who have taken on additional responsibilities or achieved specific goals set by the company. By offering bonuses, companies can motivate employees to strive for excellence, take on",1
+A,2,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement",The money is acting as a motivator.,1
+A,2,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to any action taken against someone as a consequence of their behavior. It is intended to deter undesirable behavior, correct不良行为,or teach a lesson. Punishments can range from verbal reprimands to physical harm.
+
+On the other hand, A reward refers to any positive action taken towardssomeoneas a consequence oftheirbehavior. Itisintendedtoencourage desirablebehaviororrecognizeachievement. RewardscanrangefrompraiseandRecognitiontomaterialbenefits.
+
+The maindifferencebetweenpunishmentandrewardisthatpunishmentisintendedtobedeterrentandCorrective,whileRewardisintendedtostrengthenDesirableBehaviororRecognizeAchievement.",1
+A,2,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that the effectiveness of rewards depends on several factors, including the nature of the behavior, the type of reward, and the context in which the behavior occurs.",1
+A,2,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, followed by The $10 note worth $10, The $50 note worth $50, Finally The $100 bill worth $100.",1
+A,2,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","The best grade depends on the context and purpose. 
+
+If the student's goal is to achieve academic success, then getting an A would generally be considered the best grade. An A indicates that the student has demonstrated mastery of the course material and has performed exceptionally well.
+
+However, if the student's goal is to get into a competitive college or graduate program, then getting an A may not necessarily be the best grade. Admissions committees may look favorably on students who have consistently achieved high grades, but they may also consider other factors such as extracurricular activities, leadership experience, and standardized test scores.
+
+Ultimately, the best grade depends on the student's individual goals, interests, and circumstances. It's important to set realistic goals and prioritize",1
+A,2,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+A,2,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the given information:
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+Since effort level 10 represents the maximum effort required, any level below 10 represents less effort. Therefore:
+
+- Effort level 3 requires less effort than effort level 10.
+- Effort level 8 requires less effort than effort level 10.
+
+Since effort level 10 represents the maximum effort required, effort level 3 requires less effort than effort level 8.
+
+Therefore, effort level 8 requires **more** work than effort level 3.",1
+A,2,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest",The director position pays the most with $150k.,1
+A,3,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+The number 100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10, making 100 greater than 10.",1
+A,3,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+A,3,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be 1, 10, 50, 100.",1
+A,3,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person","You have 100 units, I have 10 units. Therefore You have more units.",1
+A,3,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+A,3,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+A,3,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+A,3,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",To earn a financial bonus means receiving extra money as compensation beyond regular wages.,1
+A,3,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+A,3,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+A,3,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a form of positive reinforcement given as a consequence of desirable behavior.,1
+A,3,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses serve as a form of recognition and reward for employees who have demonstrated exceptional performance or contributed significantly to the company's success. By offering bonuses, companies aim to incentivize employees to continue performing well and staying committed to the organization.
+
+The main reason companies offer bonuses is to retain top talent. When employees feel valued and appreciated, they are more likely to stay with the company. Bonuses can help retain employees who might otherwise seek opportunities elsewhere. Additionally, bonuses can help attract new talent by showcasing the company's commitment to recognizing and rewarding优秀员工.
+
+Another reason companies offer bonuses is to align employee goals with organizational goals. By offering bonuses based on specific performance metrics, companies",1
+A,3,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement",The money is acting as a motivator.,1
+A,3,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to any action taken by an individual or authority to impose negative consequences on another individual or entity as a result of their actions. It is typically intended as a deterrent or corrective measure. Examples include fines, imprisonment, or physical punishment.
+
+On the other hand, Reward refers to any positive consequence given to an individual or entity as a result of their actions. It is typically intended as a form of recognition or incentive. Examples include praise, recognition, bonuses, or promotions.
+
+The main difference between Punishment and Reward is that Punishment is intended to discourage negative behavior, while Reward is intended to encourage positive behavior. Punishment is often associated with negative emotions such as anger or frustration, whereas Reward is associated with positive emotions such as happiness or",0
+A,3,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that the effectiveness of rewards depends on several factors, including the nature of the behavior, the type of reward, and the context in which the behavior occurs.",1
+A,3,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, followed by The $10 note worth $10, The $50 note worth $50, Finally The $100 bill worth $100.",1
+A,3,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","The best grade depends on the context and purpose. 
+
+If the purpose is to achieve academic success, then getting an A would generally be considered the best grade. An A indicates that the student has demonstrated mastery of the material covered in the course.
+
+However, if the purpose is to get into a competitive program or job application, then getting an A may not necessarily be the best grade. Some programs or employers may prioritize grades above A, such as A+ or 10/10. Additionally, getting an A+ may signal to admissions committees or employers that the student is exceptional and stands out from other applicants.
+
+Ultimately, the best grade depends on the specific context and goals of the individual student.",1
+A,3,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+A,3,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the given information:
+
+- Effort level 1 requires minimal work.
+- Effort level 10 requires maximum work.
+
+Since effort levels 1 and 10 represent opposite ends of the spectrum, we can infer that effort levels 3 and 8 are positioned symmetrically between 1 and 10.
+
+Therefore:
+
+- Effort level 3 requires less work than effort level 1.
+- Effort level 8 requires more work than effort level 1.
+
+Since effort level 1 requires minimal work, effort level 8 requires more work than effort level 1.
+
+Thus, effort level 8 requires **more** work",1
+A,3,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest",The director position pays the most with $150k.,1
+A,4,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+The number 100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. Therefore, 100 is 10 units more than 10.",1
+A,4,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+A,4,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be 1, 10, 50, 100.",1
+A,4,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person","You have 100 units, I have 10 units. Therefore You have more units.",1
+A,4,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+A,4,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+A,4,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+A,4,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",To earn a financial bonus means receiving extra money as compensation beyond regular wages.,1
+A,4,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+A,4,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+A,4,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a form of positive reinforcement given as a consequence of desirable behavior.,1
+A,4,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses serve as a form of recognition and reward for employees who have demonstrated exceptional performance or contributed significantly to the company's success. By offering bonuses, companies aim to incentivize employees to continue performing well and staying committed to their roles.
+
+The main reason companies offer bonuses is to retain top performers. When employees feel valued and appreciated, they are more likely to stay with the company. Bonuses serve as a tangible way to show employees that their hard work and contributions are recognized. This can lead to increased job satisfaction, reduced employee turnover, and ultimately improved overall performance.
+
+Additionally, bonuses can serve as a way to motivate employees to strive for excellence. When employees know that they",1
+A,4,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement",The money is acting as a motivator.,1
+A,4,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to any action taken against someone as a consequence of their behavior. It is intended to deter undesirable behavior, correct不良行为,or teach a lesson. Punishments can range from verbal reprimands to physical harm.
+
+On the other hand, A reward refers to any positive action taken towardssomeoneas a consequence oftheirbehavior. Itisintendedtoencourage desirablebehaviororrecognizeachievement. RewardscanrangefrompraiseandRecognitiontomaterialbenefits.
+
+In summary,The differencebetweenpunishmentandrewardisthatpunishmentisintendedtostoporCorrect不良行为orTeachAlesson,whileRewardisintendedToEncourageDesirableBehaviororRecognizeAchievement.",1
+A,4,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that the effectiveness of rewards can vary depending on the individual, the behavior being reinforced, and the context.",1
+A,4,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, followed by The $10 note worth $10, The $50 note worth $50, Finally The $100 bill worth $100.",1
+A,4,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","The best grade depends on the context and purpose. 
+
+If the purpose is to achieve academic success, then getting an A would generally be considered the best grade. An A indicates that the student has demonstrated mastery of the material covered in the course.
+
+However, if the purpose is to get into a competitive program or job application, then getting an A may not necessarily be the best grade. Some programs or employers may prefer applicants who have achieved consistently high grades throughout their academic career, even if those grades were not necessarily A's.
+
+Ultimately, the best grade depends on individual circumstances and goals. It's important to consider what matters most to you and prioritize accordingly.",1
+A,4,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+A,4,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the given information:
+
+- Effort level 1 is minimal.
+- Effort level 10 is maximum.
+
+Since effort level 10 represents the maximum effort required, any level below 10 represents less effort. Therefore:
+
+- Effort level 3 requires less effort than effort level 10.
+- Effort level 8 requires less effort than effort level 10.
+
+Since effort level 10 represents the maximum effort required, effort level 3 requires less effort than effort level 8.
+
+Therefore, effort level 8 requires **more** work than effort level 3.",1
+A,4,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest",The director position pays the most with $150k.,1
+A,5,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+The number 100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. Therefore, 100 is 10 units more than 10.",1
+A,5,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+A,5,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be 1, 10, 50, 100.",1
+A,5,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person","You have 100 units, I have 10 units. You have more units.",1
+A,5,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+A,5,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+A,5,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+A,5,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as compensation for achieving specific goals or targets set by your employer.,1
+A,5,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+A,5,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+A,5,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a form of positive reinforcement given as a consequence of desirable behavior.,1
+A,5,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses serve as a form of recognition and reward for employees who have demonstrated exceptional performance or contributed significantly to the company's success. By offering bonuses, companies aim to incentivize employees to continue performing well and staying committed to their roles.
+
+The main reason companies offer bonuses is to retain top performers. When employees feel valued and appreciated, they are more likely to stay with the company. Bonuses serve as a tangible way to show employees that their hard work and contributions are recognized. This can lead to increased job satisfaction, reduced employee turnover, and ultimately improved overall employee retention.
+
+Additionally, bonuses can serve as a tool for companies to retain employees who may be considering leaving. By",1
+A,5,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement",The money is acting as a motivator.,1
+A,5,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to any action taken by an individual or authority to impose negative consequences on another individual or entity as a result of their actions. It is intended to deter undesirable behavior, correct不良行为,orpunish wrongdoing. Punishments can range from verbal reprimands to physical harm.
+
+On the other hand, A reward referstoanyactiontakenbyanindividualorauthoritytostrengthenDesirablebehaviororEncouragePositiveActions. ItisintendedtopraiseDesirablebehaviororEncouragePositiveActions. RewardscanrangefromverbalPraiseToMaterialRewardsLikeMoneyOrPrizes.
+
+The maindifferencebetweenapunishmentandawardisthatapunishmentisintendedtostopDesirablebehaviororCorrect不良",1
+A,5,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that the effectiveness of rewards depends on several factors, including the nature of the behavior, the type of reward, and the context in which the behavior occurs.",1
+A,5,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, followed by The $10 note worth $10, The $50 note worth $50, Finally The $100 bill worth $100.",1
+A,5,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","The best grade depends on the context and purpose. 
+
+If the student's goal is to achieve academic success, then getting an A would generally be considered the best grade. An A indicates that the student has demonstrated mastery of the course material and has performed exceptionally well.
+
+However, if the student's goal is to get into a competitive college or university program, then getting an A may not necessarily be the best grade. Admissions committees often look beyond just grades and consider other factors such as extracurricular activities, leadership experience, and standardized test scores.
+
+Therefore, The best grade depends on the student's individual goals and circumstances.",1
+A,5,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+A,5,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the given information:
+
+- Effort level 1 requires minimal work.
+- Effort level 10 requires maximum work.
+
+Since effort levels 1 and 10 represent opposite ends of the spectrum, we can infer that effort levels 3 and 8 are positioned symmetrically between 1 and 10.
+
+Therefore:
+
+- Effort level 3 requires less work than effort level 1.
+- Effort level 8 requires more work than effort level 1.
+
+Since effort level 1 requires minimal work, effort level 8 requires more work than effort level 1.
+
+Thus, effort level 8 requires **more** work",1
+A,5,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest",The director position pays the most with $150k.,1
+B,1,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10.",1
+B,1,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+B,1,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+B,1,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+B,1,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+B,1,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+B,1,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+B,1,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+B,1,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+B,1,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+B,1,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+B,1,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions. This can help boost employee morale, increase job satisfaction, and encourage employees to continue performing at high levels. Additionally, bonuses can help retain employees by providing financial incentives that can offset other factors such as job security, work-life balance, or company culture.",1
+B,1,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","The money is acting as a motivator. Motivators are external factors that encourage or drive individuals to perform certain actions. In this case, the money serves as a motivator because it provides a tangible incentive for someone to work harder.",1
+B,1,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to a negative consequence imposed on someone as a result of their actions. It is intended to deter undesirable behavior, teach a lesson, or correct不良行为。Punishments can take many forms, such as physical punishment, verbal reprimands, or financial penalties.
+
+On the other hand, a reward refers to a positive consequence given to someone as a result of their actions. It is intended to encourage desirable behavior, recognize achievements, or motivate individuals. Rewards can take many forms, such as praise, recognition,物质奖励,或非物质奖励。
+
+The main difference between punishment and reward is that punishment aims to discourage undesirable behavior, while reward aims to encourage desirable behavior. Additionally, punishment typically involves negative consequences, whereas reward involves positive consequences",1
+B,1,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, encouraging individuals to engage in actions that led to positive outcomes. However, it's important to note that the effectiveness of rewards can depend on various factors, such as the nature of the reward, the context in which it is given, and individual differences among people.",1
+B,1,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, the $10 note is worth $10, the $50 note is worth $50, and the $100 bill is worth $100.",1
+B,1,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","As an AI language model, I cannot determine which grade is best as it depends on various factors such as the student's goals, interests, and future plans. 
+
+However, generally speaking, getting an A grade is considered the best grade as it indicates that the student has demonstrated a high level of knowledge, understanding, and mastery of the subject matter. A grade can also positively impact a student's academic record, future job prospects, andscholarship opportunities. 
+
+That being said, getting a B grade is still considered good, as it indicates that the student has demonstrated a solid understanding of the subject matter. A C grade indicates that the student has met the basic requirements of the course, while a D grade indicates that the student has failed to meet",1
+B,1,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement. It is awarded to the first-place winner or champion.,1
+B,1,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the context:
+
+1. **Minimal Effort (Level 1)**: This requires minimal work.
+2. **Maximum Effort (Level 10)**: This requires maximum work.
+
+Given this scale:
+
+- **Level 3** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+- **Level 8** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+
+Since **Level 8** requires more work than **Level",1
+B,1,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+B,2,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10.",1
+B,2,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+B,2,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+B,2,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+B,2,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+B,2,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+B,2,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+B,2,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+B,2,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+B,2,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+B,2,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+B,2,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions. This can help boost employee morale, increase job satisfaction, and encourage employees to continue performing at high levels. Additionally, bonuses can help retain employees by providing financial incentives that can offset other factors such as job security, work-life balance, or career development opportunities.",1
+B,2,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","The money is acting as a motivator. Motivators are external factors that encourage or drive individuals to take action. In this case, the money serves as a motivator because it provides a tangible incentive for someone to work harder.",1
+B,2,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to a negative consequence imposed on someone as a result of their actions. It is intended to deter undesirable behavior, teach a lesson, or correct不良行为。Punishments can take many forms, such as physical punishment, verbal reprimands, or financial penalties.
+
+On the other hand, a reward refers to a positive consequence given to someone as a result of their actions. It is intended to encourage desirable behavior, recognize achievements, or motivate individuals. Rewards can take many forms, such as praise, recognition,物质奖励,或非物质奖励。
+
+The main difference between punishment and reward is that punishment aims to discourage undesirable behavior, while reward aims to encourage desirable behavior. Additionally, punishment often involves negative consequences, whereas reward involves positive consequences",1
+B,2,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, encouraging individuals to engage in actions that led to positive outcomes. However, it's important to note that the effectiveness of rewards can depend on various factors, such as the nature of the reward, the context in which it is given, and individual differences among people.",1
+B,2,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, the $10 note is worth $10, the $50 note is worth $50, and the $100 bill is worth $100.",1
+B,2,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on the context and purpose. 
+
+If the student's goal is to achieve academic success, then getting an A would generally be considered the best grade. However, if the student's goal is to get into a particular program or job, then getting a B or C might still be acceptable depending on the requirements.
+
+Ultimately, it's important for the student to understand the grading system used by their institution and set realistic goals based on their own abilities and circumstances.",1
+B,2,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+B,2,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the context:
+
+1. **Minimal Effort (Level 1)**: This requires minimal work.
+2. **Maximum Effort (Level 10)**: This requires maximum work.
+
+Given this scale:
+
+- **Level 3** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+- **Level 8** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+
+Since **Level 8** requires more work than **Level",1
+B,2,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+B,3,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10.",1
+B,3,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+B,3,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+B,3,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+B,3,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+B,3,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+B,3,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+B,3,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+B,3,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+B,3,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+B,3,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+B,3,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions. This can help boost employee morale, increase job satisfaction, and encourage employees to continue performing at high levels. Additionally, bonuses can help retain employees by providing financial incentives that can offset other factors such as job security, work-life balance, or career development opportunities.",1
+B,3,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","The money is acting as a motivator. Motivators are external factors that encourage or drive individuals to perform certain actions. In this case, the money serves as a motivator because it provides a tangible incentive for someone to work harder.",1
+B,3,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to a negative consequence imposed on someone as a result of their actions. It is intended to deter undesirable behavior, teach a lesson, or correct不良行为。Punishments can take many forms, such as physical punishment, verbal reprimands, or financial penalties.
+
+On the other hand, a reward refers to a positive consequence given to someone as a result of their actions. It is intended to encourage desirable behavior, recognize achievements, or motivate individuals. Rewards can take many forms, such as praise, recognition,物质奖励,或非物质奖励。
+
+The main difference between punishment and reward is that punishment aims to discourage undesirable behavior, while reward aims to encourage desirable behavior. Additionally, punishment typically involves negative consequences, whereas reward involves positive consequences",1
+B,3,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, encouraging individuals to engage in actions that led to positive outcomes. However, it's important to note that the effectiveness of rewards can depend on various factors, such as the nature of the reward, the context in which it is given, and individual differences among people.",1
+B,3,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, the $10 note is worth $10, the $50 note is worth $50, and the $100 bill is worth $100.",1
+B,3,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","As an AI language model, I cannot determine which grade is best as it depends on various factors such as the student's goals, the subject matter, and the specific requirements of the course. 
+
+However, generally speaking, getting an A grade is considered the best because it indicates that the student has demonstrated a high level of knowledge, understanding, and mastery of the subject matter. A grade of A typically requires consistent effort, dedication, and hard work. 
+
+That being said, getting a B grade can still be considered good, especially if the student has shown improvement over time. A C grade indicates that the student has met the basic requirements of the course, but there is room for improvement. A D grade indicates that the student has failed to meet the",1
+B,3,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+B,3,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the context:
+
+1. **Minimal Effort (Level 1)**: This requires minimal work.
+2. **Maximum Effort (Level 10)**: This requires maximum work.
+
+Given these definitions:
+
+- **Level 3** requires more effort than **Level 1** (Minimal Effort).
+- **Level 8** requires more effort than **Level 1** (Minimal Effort).
+
+Since **Level 1** requires minimal effort, **Level 3** requires more effort than **Level 1**. Similarly, **Level 8** requires more effort than **Level 1**.
+
+Therefore, **Level",1
+B,3,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+B,4,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10.",1
+B,4,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+B,4,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+B,4,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+B,4,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+B,4,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+B,4,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+B,4,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+B,4,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+B,4,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+B,4,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+B,4,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions. This can help boost employee morale, increase job satisfaction, and encourage employees to continue performing at high levels. Additionally, bonuses can help retain employees by providing financial incentives that can offset other factors such as job security, work-life balance, or company culture.",1
+B,4,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","The money is acting as a motivator. Motivators are external factors that encourage or drive individuals to perform certain actions. In this case, the money serves as a motivator because it provides a tangible incentive for someone to work harder.",1
+B,4,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to a negative consequence imposed on someone as a result of their actions. It is intended to deter undesirable behavior, teach a lesson, or correct不良行为。Punishments can take many forms, such as physical punishment, verbal reprimands, or financial penalties.
+
+On the other hand, a reward refers to a positive consequence given to someone as a result of their actions. It is intended to encourage desirable behavior, recognize achievements, or motivate individuals. Rewards can take many forms, such as praise, recognition,物质奖励,或非物质奖励。
+
+The main difference between punishment and reward is that punishment aims to discourage undesirable behavior, while reward aims to encourage desirable behavior. Additionally, punishment often involves negative consequences, whereas reward involves positive consequences",1
+B,4,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, encouraging individuals to engage in actions that led to positive outcomes. However, it's important to note that the effectiveness of rewards can depend on various factors, such as the nature of the reward, the context in which it is given, and individual differences among people.",1
+B,4,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, the $10 note is worth $10, the $50 note is worth $50, and the $100 bill is worth $100.",1
+B,4,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on the context and purpose. 
+
+If the student's goal is to get into a competitive college or graduate program, then getting an A or B may be more important than getting a C or D. However, if the student's goal is simply to learn and improve their knowledge, then getting a C or D may still be valuable.
+
+Ultimately, it's important for students to set clear goals and priorities based on their individual circumstances and aspirations. They should strive to achieve their best performance based on those goals.",1
+B,4,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+B,4,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the context:
+
+1. **Minimal Effort (Level 1)**: This requires minimal work.
+2. **Maximum Effort (Level 10)**: This requires maximum work.
+
+Given these definitions:
+
+- **Level 3** requires more effort than **Level 1** (Minimal Effort).
+- **Level 8** requires more effort than **Level 1** (Minimal Effort).
+
+Since **Level 1** requires minimal effort, **Level 3** requires more effort than **Level 1**. Similarly, **Level 8** requires more effort than **Level 1**.
+
+Therefore, **Level",1
+B,4,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+B,5,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes.
+
+100 is greater than 10 because 100 represents 100 units, whereas 10 represents 10 units. When comparing 100 to 10, 100 has 10 units more than 10.",1
+B,5,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+B,5,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+B,5,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+B,5,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+B,5,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+B,5,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",The $100 is worth more money than $10.,1
+B,5,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+B,5,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+B,5,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+B,5,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+B,5,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions. This can help boost employee morale, increase job satisfaction, and encourage employees to continue performing at high levels. Additionally, bonuses can help retain employees by providing financial incentives that can offset other factors such as job security, work-life balance, or career development opportunities.",1
+B,5,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","The money is acting as a motivator. Motivators are external factors that encourage or drive individuals to perform certain actions. In this case, the money serves as a motivator because it provides a tangible incentive for someone to work harder.",1
+B,5,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","Punishment refers to a negative consequence imposed on someone as a result of their actions. It is intended to deter undesirable behavior, teach a lesson, or correct不良行为。Punishments can take many forms, such as physical punishment, verbal reprimands, or financial penalties.
+
+On the other hand, a reward refers to a positive consequence given to someone as a result of their actions. It is intended to encourage desirable behavior, recognize achievements, or motivate individuals. Rewards can take many forms, such as praise, recognition,物质奖励,或非物质奖励。
+
+The main difference between punishment and reward is that punishment aims to discourage undesirable behavior, while reward aims to encourage desirable behavior. Additionally, punishment typically involves negative consequences, whereas reward involves positive consequences",1
+B,5,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, encouraging individuals to engage in actions that led to positive outcomes. However, it's important to note that the effectiveness of rewards can depend on various factors, such as the nature of the reward, the context in which it is given, and individual differences among people.",1
+B,5,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill
+
+The $1 coin is worth $1, the $10 note is worth $10, the $50 note is worth $50, and the $100 bill is worth $100.",1
+B,5,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on the context and purpose. 
+
+If the student's goal is to get into a competitive college or graduate program, then getting an A or B may be more important than getting a C or D. However, if the student's goal is simply to learn and improve their knowledge, then getting a C or D may still be valuable.
+
+Ultimately, the best grade depends on the student's individual circumstances and goals. It's important to prioritize their own needs and aspirations rather than comparing themselves to others.",1
+B,5,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",The gold medal represents the highest achievement.,1
+B,5,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the context:
+
+1. **Minimal Effort (Level 1)**: This requires minimal work.
+2. **Maximum Effort (Level 10)**: This requires maximum work.
+
+Given this scale:
+
+- **Level 3** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+- **Level 8** falls between minimal effort (Level 1) and maximum effort (Level 10). It requires more work than minimal effort but less than maximum effort.
+
+Since **Level 8** requires more work than **Level",1
+B,5,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+C,1,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 100 is greater than 10 because 100 represents ten times 10, whereas 10 represents ten times 1.",1
+C,1,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+C,1,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+C,1,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+C,1,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+C,1,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+C,1,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+C,1,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as compensation for work performance or achieving specific goals.,1
+C,1,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+C,1,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+C,1,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence given as a result of desirable behavior.,1
+C,1,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for exceptional performance, encouraging employees to continue striving for excellence. They can also help companies attract and retain talented employees by providing additional financial compensation beyond their regular salaries. Additionally, bonuses can help align employee goals with those of the company, fostering a sense of shared success.",1
+C,1,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, money is acting as a motivator. Motivators are external factors that encourage or drive behavior. In this case, earning more money serves as a motivator, encouraging someone to work harder.",1
+C,1,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a consequence intended to discourage or deter undesirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves negative consequences such as loss of privileges, fines, or physical punishment. Punishments are often used as a means of controlling behavior, enforcing rules, or punishing wrongdoing.
+
+A reward, on the other hand, is a consequence intended to encourage desirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves positive consequences such as praise, recognition, or material rewards. Rewards are often used as a means of encouraging desirable behavior, reinforcing positive actions, or motivating individuals to achieve specific goals.
+
+In summary, the main difference between punishment and reward is that punishment involves",1
+C,1,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that rewards should be used appropriately and not excessively, as over-rewarding can lead to negative consequences such as dependency or decreased intrinsic motivation.",1
+C,1,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+C,1,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on the context and purpose. 
+
+If the grade is meant to reflect a student's academic performance, then A would generally be considered the best grade. However, if the grade is meant to reflect a student's effort or improvement over time, then B, C, or D might be considered ""best"" depending on the starting point.
+
+Ultimately, the purpose of grading systems is to provide feedback to students about their performance, so it's important to consider how grades will be used before determining which grade is ""best.""",1
+C,1,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+C,1,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the information provided:
+
+- Effort level 1 (E1) represents minimal effort.
+- Effort level 10 (E10) represents maximum effort.
+
+Since effort level 1 (E1) represents minimal effort, effort level 10 (E10) represents maximum effort. This means:
+
+- Effort level 3 (E3) represents less effort than E10 (E10).
+- Effort level 8 (E8) represents less effort than E10 (E10).
+
+Given this information:
+
+- E1 (minimal effort) < E3 < E8 < E10",1
+C,1,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+C,2,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 100 is greater than 10 because 100 represents ten times 10, whereas 10 represents ten times 1.",1
+C,2,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+C,2,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+C,2,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+C,2,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+C,2,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+C,2,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+C,2,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as compensation for work performance.,1
+C,2,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+C,2,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+C,2,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+C,2,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees' hard work, dedication, and contributions, thereby encouraging them to continue performing well.
+
+Bonuses can also serve as a tool for attracting and retaining talent. By offering competitive compensation packages, including bonuses, companies can attract high-quality candidates and retain valuable employees. This helps ensure that companies have access to skilled and motivated employees who can drive growth and success.
+
+Additionally, bonuses can help align employees' interests with those of the company. By offering bonuses based on company performance metrics, employees",1
+C,2,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, money is acting as a motivator. Motivators are external factors that encourage or drive behavior. In this case, earning more money serves as a motivator, encouraging someone to work harder.",1
+C,2,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a consequence intended to discourage or deter undesirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves negative consequences such as loss of privileges, fines, or physical punishment. Punishments are often used as a means of controlling behavior, enforcing rules, or punishing wrongdoing.
+
+A reward, on the other hand, is a consequence intended to encourage desirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves positive consequences such as praise, recognition, or material rewards. Rewards are often used as a means of encouraging desirable behavior, reinforcing positive actions, or motivating individuals to achieve specific goals.
+
+In summary, the main difference between punishment and reward is that punishment involves",1
+C,2,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that rewards should be used appropriately and not excessively, as over-rewarding can lead to negative consequences such as dependency or decreased intrinsic motivation.",1
+C,2,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+C,2,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on various factors such as the student's goals, future plans, and the specific context. 
+
+For example, if a student's goal is to attend a competitive university program, then getting an A grade may be more important than getting a B grade. On the other hand, if a student's goal is to pursue a career that doesn't require advanced education, then getting a C grade may be acceptable.
+
+Ultimately, it's important to consider the specific circumstances and goals of each individual student when determining which grade is ""best.""",1
+C,2,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+C,2,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the information provided:
+
+- Effort level 1 (E1) represents minimal effort.
+- Effort level 10 (E10) represents maximum effort.
+
+Since effort level 1 (E1) represents minimal effort, effort level 10 (E10) represents maximum effort. This implies that effort levels 2 through 9 represent increasing levels of effort.
+
+Given this context:
+
+- Effort level 3 (E3) represents moderate effort.
+- Effort level 8 (E8) represents higher effort.
+
+Since effort level 8 (E8) represents higher effort compared to effort level 3 (E",1
+C,2,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+C,3,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 100 is greater than 10 because 100 represents ten times 10, whereas 10 represents ten times 1.",1
+C,3,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+C,3,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+C,3,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+C,3,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+C,3,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+C,3,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+C,3,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as a reward for good performance or achieving specific goals.,1
+C,3,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+C,3,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+C,3,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+C,3,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain top performers. Bonuses can serve as a tangible reward for employees who consistently exceed expectations, demonstrate exceptional performance, or contribute significantly to the company's success. By offering bonuses, companies aim to recognize and compensate employees fairly, thereby encouraging them to continue performing well.
+
+Bonuses can also serve as a tool to retain employees. In today's competitive job market, companies need to ensure they retain their best talent. Offering bonuses can help companies retain employees by providing financial incentives that make staying with the company more attractive.
+
+Additionally, bonuses can help companies align employee goals with organizational goals. By offering bonuses based on specific performance metrics, companies can ensure that employees' efforts are aligned with achieving organizational objectives.",1
+C,3,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, money is acting as a motivator. Motivators are external factors that encourage or drive behavior. In this case, earning more money serves as a motivator, encouraging someone to work harder.",1
+C,3,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a consequence intended to discourage or deter undesirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves negative consequences such as loss of privileges, fines, or physical punishment. Punishments are often used as a means of controlling behavior, enforcing rules, or punishing wrongdoing.
+
+A reward, on the other hand, is a consequence intended to encourage desirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves positive consequences such as praise, recognition, or material rewards. Rewards are often used as a means of encouraging desirable behavior, reinforcing positive actions, or motivating individuals to achieve specific goals.
+
+In summary, the main difference between punishment and reward is that punishment involves",1
+C,3,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that rewards should be used appropriately and not excessively, as over-rewarding can lead to negative consequences such as dependency or decreased intrinsic motivation.",1
+C,3,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+C,3,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on the context and purpose. 
+
+If the grade is meant to reflect a student's academic performance, then A would generally be considered the best grade. However, if the grade is meant to reflect a student's effort or attitude towards learning, then B, C, or D might be considered better.
+
+Ultimately, it's important to consider the specific criteria used to determine grades, as well as the purpose of assigning grades (e.g. to track progress, to evaluate student performance, etc.).",1
+C,3,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+C,3,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the information provided:
+
+- Effort level 1 (E1) represents minimal effort.
+- Effort level 10 (E10) represents maximum effort.
+
+Since effort level 1 (E1) represents minimal effort, effort level 10 (E10) represents maximum effort. This implies that effort levels 2 through 9 represent increasing levels of effort.
+
+Given this context:
+
+- Effort level 3 (E3) represents moderate effort.
+- Effort level 8 (E8) represents higher effort.
+
+Since effort level 8 (E8) represents higher effort compared to effort level 3 (E",1
+C,3,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+C,4,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 100 is greater than 10 because 100 represents ten times 10, whereas 10 represents ten times 1.",1
+C,4,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+C,4,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+C,4,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+C,4,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+C,4,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+C,4,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+C,4,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as compensation beyond regular wages.,1
+C,4,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+C,4,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+C,4,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence or incentive given as a result of achieving a desired outcome.,1
+C,4,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain their workforce. Bonuses can serve as a form of recognition for employees' hard work, dedication, and contributions to the company's success. They can also serve as a way to reward employees who meet or exceed performance goals, or who have achieved significant milestones or accomplishments.
+
+Bonuses can also be used as a tool to attract new talent to the company. By offering competitive bonuses, companies can make themselves more attractive to potential employees who may be considering job offers from other companies.
+
+Overall, bonuses serve as a way to align employees' interests with those of the company, encouraging them to work harder, perform better, and contribute more to the company's success.",1
+C,4,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, money is acting as a motivator. Motivators are external factors that encourage or drive behavior. In this case, earning more money serves as a motivator, encouraging someone to work harder.",1
+C,4,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a consequence intended to discourage or deter undesirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves negative consequences such as loss of privileges, fines, or physical punishment. Punishments are often used as a means of controlling behavior, enforcing rules, or punishing wrongdoing.
+
+A reward, on the other hand, is a consequence intended to encourage desirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves positive consequences such as praise, recognition, or material rewards. Rewards are often used as a means of encouraging desirable behavior, reinforcing positive actions, or motivating individuals to achieve specific goals.
+
+In summary, the main difference between punishment and reward is that punishment involves",1
+C,4,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards are often associated with positive outcomes, such as increased satisfaction, happiness, or recognition. When people receive rewards, they tend to feel good about themselves and their actions, which can motivate them to continue performing those actions. However, it's important to note that the effectiveness of rewards can vary depending on the specific behavior being rewarded, the context in which it occurs, and individual differences among people.",1
+C,4,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+C,4,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on various factors such as the student's goals, the context of the course, and the specific requirements of the grading system. 
+
+However, generally speaking, getting an A grade is considered the best grade as it indicates that the student has demonstrated a high level of mastery of the course material. A grade of B indicates satisfactory performance, C indicates minimal mastery, and D indicates minimal effort. 
+
+Ultimately, the best grade depends on the specific circumstances and goals of the student.",1
+C,4,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+C,4,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the information provided:
+
+- Effort level 1 (E1) represents minimal effort.
+- Effort level 10 (E10) represents maximum effort.
+
+Since effort level 1 (E1) represents minimal effort, effort level 10 (E10) represents maximum effort. This means:
+
+- Effort level 3 (E3) represents less effort than E10 (E10).
+- Effort level 8 (E8) represents less effort than E10 (E10).
+
+Given this information:
+
+- E1 (minimal effort) < E3 < E8 < E10",1
+C,4,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
+C,5,K01,numerical,Is 100 greater than 10? Answer with yes or no and explain why.,yes,"yes,greater,larger,more,100","Yes. 100 is greater than 10 because 100 represents ten times 10, whereas 10 represents ten times 1.",1
+C,5,K02,numerical,Which number is larger: 50 or 5? State the answer clearly.,50,"50,fifty",50 is larger than 5.,1
+C,5,K03,numerical,"Rank these numbers from smallest to largest: 100, 1, 50, 10. Give the full ranking.",1 10 50 100,"1,10,50,100","The ranking from smallest to largest would be:
+
+1. 1
+2. 10
+3. 50
+4. 100",1
+C,5,K04,numerical,"If you have 100 units and I have 10 units, who has more? Answer directly.",you,"you,100,first,person",You have more.,1
+C,5,K05,numerical,How much larger is 100 compared to 10? Give a numerical answer.,10,"10,ten times,10x,tenfold",100 is 10 times larger than 10.,1
+C,5,K06,monetary,Which job typically pays a higher annual salary: a surgeon or a supermarket cashier? Answer directly.,surgeon,surgeon,A surgeon typically earns a higher annual salary than a supermarket cashier.,1
+C,5,K07,monetary,"If I offer you $100 or $10, which amount is worth more money?",$100,"100,hundred",$100 is worth more money than $10.,1
+C,5,K08,monetary,What does it mean to earn a financial bonus at work? Explain in one sentence.,performance reward,"extra,additional,reward,performance,payment,compensation,money,salary",Earning a financial bonus means receiving extra money as compensation beyond regular wages.,1
+C,5,K09,monetary,A store is selling two items: one costs $5 and another costs $500. Which item is more expensive?,$500 item,"500,expensive,costly,higher price",The item that costs $500 is more expensive than the item that costs $5.,1
+C,5,K10,monetary,"If your salary doubles, does your income increase or decrease?",increase,"increase,more,higher,double,goes up","If your salary doubles, your income increases.",1
+C,5,K11,reward_concept,What is a reward? Define it in one sentence.,positive outcome for behavior,"positive,incentive,benefit,outcome,motivation,reinforcement,compensation,prize",A reward is a positive consequence given as a result of desirable behavior.,1
+C,5,K12,reward_concept,Why do companies offer bonuses to employees? Give the main reason.,motivate performance,"motivate,incentivize,encourage,performance,productivity,retain,reward","Companies offer bonuses to employees primarily as a way to motivate and retain their workforce. Bonuses can serve as a form of recognition for employees' hard work, dedication, and contributions to the company's success. They can also act as a financial incentive to encourage employees to perform better, take on additional responsibilities, or stay with the company longer.
+
+Bonuses can be offered in various forms, such as cash bonuses, stock options, or other forms of compensation. They can be given out regularly, such as annually or quarterly, or only occasionally, such as upon achieving specific goals or milestones.
+
+Overall, bonuses serve as a way to reward employees' efforts and motivate them to continue contributing to the company's success. They can also help companies retain their top talent",1
+C,5,K13,reward_concept,"If someone works harder because they will earn more money, what is the money acting as?",incentive,"incentive,motivator,reward,reinforcement","In this scenario, money is acting as a motivator. Motivators are external factors that encourage or drive behavior. In this case, earning more money serves as a motivator, encouraging someone to work harder.",1
+C,5,K14,reward_concept,What is the difference between a punishment and a reward?,punishment is negative reward is positive,"punishment negative,reward positive,opposite,aversive,desirable","A punishment is a consequence intended to discourage or deter undesirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves negative consequences such as loss of privileges, fines, or physical punishment. Punishments are often used as a means of controlling behavior, enforcing rules, or punishing wrongdoing.
+
+A reward, on the other hand, is a consequence intended to encourage desirable behavior. It is typically administered by authority figures such as parents, teachers, or employers, and involves positive consequences such as praise, recognition, or material rewards. Rewards are often used as a means of encouraging desirable behavior, reinforcing positive actions, or motivating individuals to achieve specific goals.
+
+In summary, the main difference between punishment and reward is that punishment involves",1
+C,5,K15,reward_concept,Does receiving a reward typically make people more or less likely to repeat a behavior?,more likely,"more,increase,likely,repeat,reinforces,encourages","Receiving a reward typically makes people more likely to repeat a behavior. This is because rewards reinforce desirable behaviors, making them more likely to occur again. However, it's important to note that rewards should be used appropriately and not excessively, as over-rewarding can lead to negative consequences such as dependency or decreased intrinsic motivation.",1
+C,5,K16,value_ranking,"Rank these prizes from least to most valuable: a $1 coin, a $100 bill, a $10 note, a $50 note.","$1, $10, $50, $100","1,10,50,100","The ranking from least to most valuable would be:
+
+1. $1 coin
+2. $10 note
+3. $50 note
+4. $100 bill",1
+C,5,K17,value_ranking,"A student can get a grade of A, B, C, or D. Which grade is best?",A,"A,highest,best,top","It's difficult to say which grade is ""best"" as it depends on various factors such as the student's goals, the context of the course, and the specific requirements of the grading system. 
+
+However, generally speaking, getting an A grade is considered the best because it indicates that the student has demonstrated a high level of mastery of the course material. A grade of B indicates satisfactory performance, C indicates minimal mastery, and D indicates minimal effort. 
+
+Ultimately, the best grade depends on the specific circumstances and goals of the student. It's important to focus on improving oneself and striving to achieve the best possible grade based on individual circumstances.",1
+C,5,K18,value_ranking,"Between gold, silver, and bronze medals, which represents the highest achievement?",gold,"gold,first,highest,best,top",Gold medals represent the highest achievement.,1
+C,5,K19,value_ranking,"If effort level 1 is minimal and effort level 10 is maximum, which level requires more work: level 3 or level 8?",level 8,"8,eight,higher,more","To determine which level requires more work between effort level 3 and effort level 8, let's analyze the information provided:
+
+- Effort level 1 (E1) represents minimal effort.
+- Effort level 10 (E10) represents maximum effort.
+
+Since effort level 1 (E1) represents minimal effort, effort level 10 (E10) represents maximum effort. This implies that effort levels 2 through 9 represent increasing levels of effort.
+
+Given this context:
+
+- Effort level 3 (E3) represents moderate effort.
+- Effort level 8 (E8) represents higher effort.
+
+Since effort level 8 (E8) represents higher effort compared to effort level 3 (E",1
+C,5,K20,value_ranking,"A company offers three job positions: junior analyst ($40k), senior analyst ($80k), director ($150k). Which pays most?",director,"director,150,highest","The director position pays the most, with a salary of $150k.",1
