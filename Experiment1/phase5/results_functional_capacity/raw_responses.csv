@@ -1,0 +1,609 @@
+tier,run,id,expression,correct_answer,response,parsed_answer,correct,parse_failed
+baseline,1,1,(10 * 10) + 148,248,1148,1148,False,False
+baseline,1,2,(11 * 10) + 155,265,265,265,True,False
+baseline,1,3,(10 * 10) + 185,285,295,295,False,False
+baseline,1,4,(10 * 12) + 143,263,167,167,False,False
+baseline,1,5,(15 * 14) + 181,391,259,259,False,False
+baseline,1,6,(13 * 15) + 133,328,228,228,False,False
+baseline,1,7,(12 * 10) + 124,244,134,134,False,False
+baseline,1,8,(15 * 10) + 181,331,191,191,False,False
+baseline,1,9,(13 * 10) + 101,231,143,143,False,False
+baseline,1,10,(15 * 13) + 100,295,215,215,False,False
+baseline,1,11,(13 * 10) + 169,299,189,189,False,False
+baseline,1,12,(13 * 12) + 103,259,167,167,False,False
+baseline,1,13,(14 * 13) + 168,350,370,370,False,False
+baseline,1,14,(10 * 15) + 121,271,271,271,True,False
+baseline,1,15,(15 * 15) + 192,417,(15 * 15) + 192 = 348,15,False,False
+baseline,1,16,(14 * 11) + 143,297,167,167,False,False
+baseline,1,17,(11 * 12) + 133,265,157,157,False,False
+baseline,1,18,(12 * 14) + 129,297,189,189,False,False
+baseline,1,19,(11 * 13) + 163,306,190,190,False,False
+baseline,1,20,(11 * 14) + 181,335,181 + 154 = 335,181,False,False
+baseline,1,21,(12 * 15) + 153,333,(12 * 15) + 153 = 213,12,False,False
+baseline,1,22,(13 * 10) + 153,283,163,163,False,False
+baseline,1,23,(12 * 14) + 177,345,(12 * 14) + 177 = 330,12,False,False
+baseline,1,24,(15 * 12) + 131,311,197,197,False,False
+baseline,1,25,(14 * 12) + 143,311,181,181,False,False
+baseline,1,26,(14 * 10) + 160,300,260,260,False,False
+baseline,1,27,(10 * 12) + 193,313,233,233,False,False
+baseline,1,28,(10 * 14) + 101,241,151,151,False,False
+baseline,1,29,(11 * 12) + 163,295,197,197,False,False
+baseline,1,30,(12 * 11) + 166,298,308,308,False,False
+baseline,1,31,(14 * 12) + 119,287,199,199,False,False
+baseline,1,32,(13 * 10) + 101,231,143,143,False,False
+baseline,1,33,(15 * 12) + 123,303,183,183,False,False
+baseline,1,34,(13 * 11) + 153,296,153 + 153 = 306,153,False,False
+baseline,1,35,(12 * 11) + 160,292,196,196,False,False
+baseline,1,36,(14 * 12) + 136,304,196,196,False,False
+baseline,1,37,(15 * 12) + 194,374,(15 * 12) + 194 = 344,15,False,False
+baseline,1,38,(10 * 11) + 200,310,320,320,False,False
+baseline,1,39,(15 * 13) + 107,302,210,210,False,False
+baseline,1,40,(13 * 11) + 130,273,154,154,False,False
+baseline,1,41,(15 * 13) + 144,339,237,237,False,False
+baseline,1,42,(11 * 14) + 100,254,154,154,False,False
+baseline,1,43,(12 * 12) + 140,284,196,196,False,False
+baseline,1,44,(12 * 13) + 113,269,166,166,False,False
+baseline,1,45,(12 * 15) + 170,350,(12 * 15) + 170 = 310,12,False,False
+baseline,1,46,(12 * 11) + 112,244,145,145,False,False
+baseline,1,47,(10 * 12) + 146,266,166,166,False,False
+baseline,1,48,(15 * 14) + 115,325,245,245,False,False
+baseline,1,49,(10 * 13) + 149,279,193,193,False,False
+baseline,1,50,(10 * 13) + 116,246,156,156,False,False
+baseline,1,51,(10 * 10) + 115,215,115 + 100 = 215,115,False,False
+baseline,1,52,(10 * 15) + 118,268,268,268,True,False
+baseline,1,53,(11 * 11) + 185,306,134,134,False,False
+baseline,1,54,(15 * 13) + 191,386,208,208,False,False
+baseline,1,55,(15 * 10) + 126,276,156,156,False,False
+baseline,1,56,(13 * 12) + 184,340,184 + 156 = 340,184,False,False
+baseline,1,57,(15 * 15) + 117,342,252,252,False,False
+baseline,1,58,(14 * 15) + 170,380,245,245,False,False
+baseline,1,59,(13 * 10) + 147,277,157,157,False,False
+baseline,1,60,(10 * 14) + 112,252,256,256,False,False
+baseline,1,61,(14 * 13) + 117,299,(14 * 13) + 117 = 289,14,False,False
+baseline,1,62,(12 * 15) + 161,341,(12 * 15) + 161 = 331,12,False,False
+baseline,1,63,(11 * 15) + 121,286,(11 * 15) + 121 = 271,11,False,False
+baseline,1,64,(13 * 11) + 135,278,168,168,False,False
+baseline,1,65,(12 * 10) + 181,301,208,208,False,False
+baseline,1,66,(15 * 12) + 146,326,(15 * 12) + 146 = 236,15,False,False
+baseline,1,67,(11 * 15) + 160,325,(11 * 15) + 160 = 310,11,False,False
+baseline,1,68,(12 * 15) + 109,289,(12 * 15) + 109 = 239,12,False,False
+baseline,1,69,(13 * 13) + 190,359,199,199,False,False
+baseline,1,70,(10 * 13) + 109,239,143,143,False,False
+baseline,1,71,(11 * 11) + 110,231,132,132,False,False
+baseline,1,72,(10 * 12) + 164,284,196,196,False,False
+baseline,1,73,(10 * 13) + 150,280,155,155,False,False
+baseline,1,74,(14 * 13) + 146,328,(14 * 13) + 146 = 272,14,False,False
+baseline,1,75,(14 * 11) + 139,293,174,174,False,False
+baseline,1,76,(12 * 13) + 192,348,195,195,False,False
+baseline,1,77,(14 * 14) + 178,374,250,250,False,False
+baseline,1,78,(12 * 14) + 130,298,194,194,False,False
+baseline,1,79,(12 * 13) + 188,344,188,188,False,False
+baseline,1,80,(11 * 13) + 134,277,150,150,False,False
+baseline,1,81,(11 * 14) + 157,311,192,192,False,False
+baseline,1,82,(10 * 12) + 127,247,1427,1427,False,False
+baseline,1,83,(14 * 15) + 130,340,230,230,False,False
+baseline,1,84,(12 * 15) + 151,331,(12 * 15) + 151 = 211,12,False,False
+baseline,1,85,(11 * 11) + 129,250,150,150,False,False
+baseline,1,86,(13 * 15) + 115,310,(13 * 15) + 115 = 290,13,False,False
+baseline,1,87,(14 * 15) + 129,339,225,225,False,False
+baseline,1,88,(11 * 14) + 126,280,(11 * 14) + 126 = 260,11,False,False
+baseline,1,89,(12 * 14) + 109,277,183,183,False,False
+baseline,1,90,(12 * 11) + 156,288,156,156,False,False
+baseline,1,91,(12 * 15) + 132,312,270,270,False,False
+baseline,1,92,(13 * 13) + 149,318,196,196,False,False
+baseline,1,93,(15 * 14) + 131,341,289,289,False,False
+baseline,1,94,(15 * 13) + 187,382,(15 * 13) + 187 = 390,15,False,False
+baseline,1,95,(14 * 12) + 156,324,198,198,False,False
+baseline,1,96,(10 * 12) + 117,237,147,147,False,False
+baseline,1,97,(15 * 12) + 200,380,370,370,False,False
+baseline,1,98,(11 * 10) + 129,239,149,149,False,False
+baseline,1,99,(14 * 15) + 161,371,231,231,False,False
+baseline,1,100,(14 * 13) + 105,287,289,289,False,False
+baseline,2,1,(10 * 10) + 148,248,1148,1148,False,False
+baseline,2,2,(11 * 10) + 155,265,265,265,True,False
+baseline,2,3,(10 * 10) + 185,285,295,295,False,False
+baseline,2,4,(10 * 12) + 143,263,167,167,False,False
+baseline,2,5,(15 * 14) + 181,391,259,259,False,False
+baseline,2,6,(13 * 15) + 133,328,228,228,False,False
+baseline,2,7,(12 * 10) + 124,244,134,134,False,False
+baseline,2,8,(15 * 10) + 181,331,191,191,False,False
+baseline,2,9,(13 * 10) + 101,231,143,143,False,False
+baseline,2,10,(15 * 13) + 100,295,215,215,False,False
+baseline,2,11,(13 * 10) + 169,299,189,189,False,False
+baseline,2,12,(13 * 12) + 103,259,167,167,False,False
+baseline,2,13,(14 * 13) + 168,350,370,370,False,False
+baseline,2,14,(10 * 15) + 121,271,271,271,True,False
+baseline,2,15,(15 * 15) + 192,417,(15 * 15) + 192 = 348,15,False,False
+baseline,2,16,(14 * 11) + 143,297,167,167,False,False
+baseline,2,17,(11 * 12) + 133,265,157,157,False,False
+baseline,2,18,(12 * 14) + 129,297,195,195,False,False
+baseline,2,19,(11 * 13) + 163,306,163 + 163 = 326,163,False,False
+baseline,2,20,(11 * 14) + 181,335,(11 * 14) + 181 = 329,11,False,False
+baseline,2,21,(12 * 15) + 153,333,(12 * 15) + 153 = 213,12,False,False
+baseline,2,22,(13 * 10) + 153,283,163,163,False,False
+baseline,2,23,(12 * 14) + 177,345,(12 * 14) + 177 = 330,12,False,False
+baseline,2,24,(15 * 12) + 131,311,197,197,False,False
+baseline,2,25,(14 * 12) + 143,311,181,181,False,False
+baseline,2,26,(14 * 10) + 160,300,260,260,False,False
+baseline,2,27,(10 * 12) + 193,313,233,233,False,False
+baseline,2,28,(10 * 14) + 101,241,151,151,False,False
+baseline,2,29,(11 * 12) + 163,295,197,197,False,False
+baseline,2,30,(12 * 11) + 166,298,308,308,False,False
+baseline,2,31,(14 * 12) + 119,287,199,199,False,False
+baseline,2,32,(13 * 10) + 101,231,143,143,False,False
+baseline,2,33,(15 * 12) + 123,303,183,183,False,False
+baseline,2,34,(13 * 11) + 153,296,153 + 153 = 306,153,False,False
+baseline,2,35,(12 * 11) + 160,292,196,196,False,False
+baseline,2,36,(14 * 12) + 136,304,196,196,False,False
+baseline,2,37,(15 * 12) + 194,374,(15 * 12) + 194 = 344,15,False,False
+baseline,2,38,(10 * 11) + 200,310,320,320,False,False
+baseline,2,39,(15 * 13) + 107,302,210,210,False,False
+baseline,2,40,(13 * 11) + 130,273,154,154,False,False
+baseline,2,41,(15 * 13) + 144,339,237,237,False,False
+baseline,2,42,(11 * 14) + 100,254,154,154,False,False
+baseline,2,43,(12 * 12) + 140,284,196,196,False,False
+baseline,2,44,(12 * 13) + 113,269,166,166,False,False
+baseline,2,45,(12 * 15) + 170,350,(12 * 15) + 170 = 310,12,False,False
+baseline,2,46,(12 * 11) + 112,244,145,145,False,False
+baseline,2,47,(10 * 12) + 146,266,166,166,False,False
+baseline,2,48,(15 * 14) + 115,325,245,245,False,False
+baseline,2,49,(10 * 13) + 149,279,193,193,False,False
+baseline,2,50,(10 * 13) + 116,246,156,156,False,False
+baseline,2,51,(10 * 10) + 115,215,115 + 100 = 215,115,False,False
+baseline,2,52,(10 * 15) + 118,268,268,268,True,False
+baseline,2,53,(11 * 11) + 185,306,134,134,False,False
+baseline,2,54,(15 * 13) + 191,386,208,208,False,False
+baseline,2,55,(15 * 10) + 126,276,156,156,False,False
+baseline,2,56,(13 * 12) + 184,340,184 + 156 = 340,184,False,False
+baseline,2,57,(15 * 15) + 117,342,252,252,False,False
+baseline,2,58,(14 * 15) + 170,380,(14 * 15) + 170 = 340,14,False,False
+baseline,2,59,(13 * 10) + 147,277,157,157,False,False
+baseline,2,60,(10 * 14) + 112,252,256,256,False,False
+baseline,2,61,(14 * 13) + 117,299,290,290,False,False
+baseline,2,62,(12 * 15) + 161,341,(12 * 15) + 161 = 331,12,False,False
+baseline,2,63,(11 * 15) + 121,286,(11 * 15) + 121 = 271,11,False,False
+baseline,2,64,(13 * 11) + 135,278,168,168,False,False
+baseline,2,65,(12 * 10) + 181,301,208,208,False,False
+baseline,2,66,(15 * 12) + 146,326,(15 * 12) + 146 = 306,15,False,False
+baseline,2,67,(11 * 15) + 160,325,(11 * 15) + 160 = 310,11,False,False
+baseline,2,68,(12 * 15) + 109,289,(12 * 15) + 109 = 239,12,False,False
+baseline,2,69,(13 * 13) + 190,359,199,199,False,False
+baseline,2,70,(10 * 13) + 109,239,143,143,False,False
+baseline,2,71,(11 * 11) + 110,231,132,132,False,False
+baseline,2,72,(10 * 12) + 164,284,196,196,False,False
+baseline,2,73,(10 * 13) + 150,280,155,155,False,False
+baseline,2,74,(14 * 13) + 146,328,(14 * 13) + 146 = 272,14,False,False
+baseline,2,75,(14 * 11) + 139,293,174,174,False,False
+baseline,2,76,(12 * 13) + 192,348,197,197,False,False
+baseline,2,77,(14 * 14) + 178,374,250,250,False,False
+baseline,2,78,(12 * 14) + 130,298,194,194,False,False
+baseline,2,79,(12 * 13) + 188,344,188 + 156 = 344,188,False,False
+baseline,2,80,(11 * 13) + 134,277,167,167,False,False
+baseline,2,81,(11 * 14) + 157,311,198,198,False,False
+baseline,2,82,(10 * 12) + 127,247,1427,1427,False,False
+baseline,2,83,(14 * 15) + 130,340,230,230,False,False
+baseline,2,84,(12 * 15) + 151,331,(12 * 15) + 151 = 211,12,False,False
+baseline,2,85,(11 * 11) + 129,250,150,150,False,False
+baseline,2,86,(13 * 15) + 115,310,(13 * 15) + 115 = 290,13,False,False
+baseline,2,87,(14 * 15) + 129,339,225,225,False,False
+baseline,2,88,(11 * 14) + 126,280,(11 * 14) + 126 = 260,11,False,False
+baseline,2,89,(12 * 14) + 109,277,183,183,False,False
+baseline,2,90,(12 * 11) + 156,288,156,156,False,False
+baseline,2,91,(12 * 15) + 132,312,270,270,False,False
+baseline,2,92,(13 * 13) + 149,318,196,196,False,False
+baseline,2,93,(15 * 14) + 131,341,289,289,False,False
+baseline,2,94,(15 * 13) + 187,382,(15 * 13) + 187 = 390,15,False,False
+baseline,2,95,(14 * 12) + 156,324,198,198,False,False
+baseline,2,96,(10 * 12) + 117,237,147,147,False,False
+baseline,2,97,(15 * 12) + 200,380,370,370,False,False
+baseline,2,98,(11 * 10) + 129,239,149,149,False,False
+baseline,2,99,(14 * 15) + 161,371,231,231,False,False
+baseline,2,100,(14 * 13) + 105,287,289,289,False,False
+baseline,3,1,(10 * 10) + 148,248,1148,1148,False,False
+baseline,3,2,(11 * 10) + 155,265,265,265,True,False
+baseline,3,3,(10 * 10) + 185,285,295,295,False,False
+baseline,3,4,(10 * 12) + 143,263,167,167,False,False
+baseline,3,5,(15 * 14) + 181,391,259,259,False,False
+baseline,3,6,(13 * 15) + 133,328,228,228,False,False
+baseline,3,7,(12 * 10) + 124,244,134,134,False,False
+baseline,3,8,(15 * 10) + 181,331,191,191,False,False
+baseline,3,9,(13 * 10) + 101,231,143,143,False,False
+baseline,3,10,(15 * 13) + 100,295,215,215,False,False
+baseline,3,11,(13 * 10) + 169,299,189,189,False,False
+baseline,3,12,(13 * 12) + 103,259,167,167,False,False
+baseline,3,13,(14 * 13) + 168,350,370,370,False,False
+baseline,3,14,(10 * 15) + 121,271,271,271,True,False
+baseline,3,15,(15 * 15) + 192,417,(15 * 15) + 192 = 348,15,False,False
+baseline,3,16,(14 * 11) + 143,297,167,167,False,False
+baseline,3,17,(11 * 12) + 133,265,157,157,False,False
+baseline,3,18,(12 * 14) + 129,297,195,195,False,False
+baseline,3,19,(11 * 13) + 163,306,163 + 163 = 326,163,False,False
+baseline,3,20,(11 * 14) + 181,335,181 + 154 = 335,181,False,False
+baseline,3,21,(12 * 15) + 153,333,(12 * 15) + 153 = 213,12,False,False
+baseline,3,22,(13 * 10) + 153,283,163,163,False,False
+baseline,3,23,(12 * 14) + 177,345,(12 * 14) + 177 = 330,12,False,False
+baseline,3,24,(15 * 12) + 131,311,197,197,False,False
+baseline,3,25,(14 * 12) + 143,311,181,181,False,False
+baseline,3,26,(14 * 10) + 160,300,260,260,False,False
+baseline,3,27,(10 * 12) + 193,313,233,233,False,False
+baseline,3,28,(10 * 14) + 101,241,151,151,False,False
+baseline,3,29,(11 * 12) + 163,295,197,197,False,False
+baseline,3,30,(12 * 11) + 166,298,308,308,False,False
+baseline,3,31,(14 * 12) + 119,287,199,199,False,False
+baseline,3,32,(13 * 10) + 101,231,143,143,False,False
+baseline,3,33,(15 * 12) + 123,303,183,183,False,False
+baseline,3,34,(13 * 11) + 153,296,153 + 153 = 306,153,False,False
+baseline,3,35,(12 * 11) + 160,292,196,196,False,False
+baseline,3,36,(14 * 12) + 136,304,196,196,False,False
+baseline,3,37,(15 * 12) + 194,374,(15 * 12) + 194 = 344,15,False,False
+baseline,3,38,(10 * 11) + 200,310,320,320,False,False
+baseline,3,39,(15 * 13) + 107,302,218,218,False,False
+baseline,3,40,(13 * 11) + 130,273,154,154,False,False
+baseline,3,41,(15 * 13) + 144,339,237,237,False,False
+baseline,3,42,(11 * 14) + 100,254,154,154,False,False
+baseline,3,43,(12 * 12) + 140,284,196,196,False,False
+baseline,3,44,(12 * 13) + 113,269,166,166,False,False
+baseline,3,45,(12 * 15) + 170,350,(12 * 15) + 170 = 310,12,False,False
+baseline,3,46,(12 * 11) + 112,244,145,145,False,False
+baseline,3,47,(10 * 12) + 146,266,166,166,False,False
+baseline,3,48,(15 * 14) + 115,325,245,245,False,False
+baseline,3,49,(10 * 13) + 149,279,193,193,False,False
+baseline,3,50,(10 * 13) + 116,246,156,156,False,False
+baseline,3,51,(10 * 10) + 115,215,115 + 100 = 215,115,False,False
+baseline,3,52,(10 * 15) + 118,268,268,268,True,False
+baseline,3,53,(11 * 11) + 185,306,134,134,False,False
+baseline,3,54,(15 * 13) + 191,386,208,208,False,False
+baseline,3,55,(15 * 10) + 126,276,150 + 126 = 276,150,False,False
+baseline,3,56,(13 * 12) + 184,340,184 + 156 = 340,184,False,False
+baseline,3,57,(15 * 15) + 117,342,252,252,False,False
+baseline,3,58,(14 * 15) + 170,380,(14 * 15) + 170 = 350,14,False,False
+baseline,3,59,(13 * 10) + 147,277,157,157,False,False
+baseline,3,60,(10 * 14) + 112,252,256,256,False,False
+baseline,3,61,(14 * 13) + 117,299,(14 * 13) + 117 = 289,14,False,False
+baseline,3,62,(12 * 15) + 161,341,(12 * 15) + 161 = 331,12,False,False
+baseline,3,63,(11 * 15) + 121,286,(11 * 15) + 121 = 271,11,False,False
+baseline,3,64,(13 * 11) + 135,278,168,168,False,False
+baseline,3,65,(12 * 10) + 181,301,191,191,False,False
+baseline,3,66,(15 * 12) + 146,326,(15 * 12) + 146 = 306,15,False,False
+baseline,3,67,(11 * 15) + 160,325,(11 * 15) + 160 = 310,11,False,False
+baseline,3,68,(12 * 15) + 109,289,(12 * 15) + 109 = 239,12,False,False
+baseline,3,69,(13 * 13) + 190,359,199,199,False,False
+baseline,3,70,(10 * 13) + 109,239,143,143,False,False
+baseline,3,71,(11 * 11) + 110,231,132,132,False,False
+baseline,3,72,(10 * 12) + 164,284,196,196,False,False
+baseline,3,73,(10 * 13) + 150,280,155,155,False,False
+baseline,3,74,(14 * 13) + 146,328,(14 * 13) + 146 = 272,14,False,False
+baseline,3,75,(14 * 11) + 139,293,172,172,False,False
+baseline,3,76,(12 * 13) + 192,348,195,195,False,False
+baseline,3,77,(14 * 14) + 178,374,250,250,False,False
+baseline,3,78,(12 * 14) + 130,298,194,194,False,False
+baseline,3,79,(12 * 13) + 188,344,188 + 156 = 344,188,False,False
+baseline,3,80,(11 * 13) + 134,277,150,150,False,False
+baseline,3,81,(11 * 14) + 157,311,192,192,False,False
+baseline,3,82,(10 * 12) + 127,247,1427,1427,False,False
+baseline,3,83,(14 * 15) + 130,340,230,230,False,False
+baseline,3,84,(12 * 15) + 151,331,(12 * 15) + 151 = 211,12,False,False
+baseline,3,85,(11 * 11) + 129,250,150,150,False,False
+baseline,3,86,(13 * 15) + 115,310,(13 * 15) + 115 = 290,13,False,False
+baseline,3,87,(14 * 15) + 129,339,225,225,False,False
+baseline,3,88,(11 * 14) + 126,280,(11 * 14) + 126 = 260,11,False,False
+baseline,3,89,(12 * 14) + 109,277,183,183,False,False
+baseline,3,90,(12 * 11) + 156,288,156,156,False,False
+baseline,3,91,(12 * 15) + 132,312,270,270,False,False
+baseline,3,92,(13 * 13) + 149,318,196,196,False,False
+baseline,3,93,(15 * 14) + 131,341,289,289,False,False
+baseline,3,94,(15 * 13) + 187,382,250,250,False,False
+baseline,3,95,(14 * 12) + 156,324,198,198,False,False
+baseline,3,96,(10 * 12) + 117,237,147,147,False,False
+baseline,3,97,(15 * 12) + 200,380,370,370,False,False
+baseline,3,98,(11 * 10) + 129,239,149,149,False,False
+baseline,3,99,(14 * 15) + 161,371,231,231,False,False
+baseline,3,100,(14 * 13) + 105,287,289,289,False,False
+model_A,1,1,(10 * 10) + 148,248,168,168,False,False
+model_A,1,2,(11 * 10) + 155,265,265,265,True,False
+model_A,1,3,(10 * 10) + 185,285,295,295,False,False
+model_A,1,4,(10 * 12) + 143,263,167,167,False,False
+model_A,1,5,(15 * 14) + 181,391,The answer is 379.,379,False,False
+model_A,1,6,(13 * 15) + 133,328,The answer is 213.,213,False,False
+model_A,1,7,(12 * 10) + 124,244,1344,1344,False,False
+model_A,1,8,(15 * 10) + 181,331,191,191,False,False
+model_A,1,9,(13 * 10) + 101,231,131,131,False,False
+model_A,1,10,(15 * 13) + 100,295,215,215,False,False
+model_A,1,11,(13 * 10) + 169,299,1319,1319,False,False
+model_A,1,12,(13 * 12) + 103,259,163,163,False,False
+model_A,1,13,(14 * 13) + 168,350,The answer is 354.,354,False,False
+model_A,1,14,(10 * 15) + 121,271,271,271,True,False
+model_A,1,15,(15 * 15) + 192,417,The answer is 342.,342,False,False
+model_A,1,16,(14 * 11) + 143,297,168,168,False,False
+model_A,1,17,(11 * 12) + 133,265,157,157,False,False
+model_A,1,18,(12 * 14) + 129,297,The answer is 219.,219,False,False
+model_A,1,19,(11 * 13) + 163,306,163 + 163 = 326,163,False,False
+model_A,1,20,(11 * 14) + 181,335,The answer is 339.,339,False,False
+model_A,1,21,(12 * 15) + 153,333,The answer is 333.,333,True,False
+model_A,1,22,(13 * 10) + 153,283,163,163,False,False
+model_A,1,23,(12 * 14) + 177,345,The answer is 331.,331,False,False
+model_A,1,24,(15 * 12) + 131,311,The answer is 217.,217,False,False
+model_A,1,25,(14 * 12) + 143,311,181,181,False,False
+model_A,1,26,(14 * 10) + 160,300,1640,1640,False,False
+model_A,1,27,(10 * 12) + 193,313,The answer is 313.,313,True,False
+model_A,1,28,(10 * 14) + 101,241,151,151,False,False
+model_A,1,29,(11 * 12) + 163,295,163 + 132 = 295,163,False,False
+model_A,1,30,(12 * 11) + 166,298,The answer is 298.,298,True,False
+model_A,1,31,(14 * 12) + 119,287,The answer is 287.,287,True,False
+model_A,1,32,(13 * 10) + 101,231,131,131,False,False
+model_A,1,33,(15 * 12) + 123,303,The answer is 297.,297,False,False
+model_A,1,34,(13 * 11) + 153,296,158,158,False,False
+model_A,1,35,(12 * 11) + 160,292,138,138,False,False
+model_A,1,36,(14 * 12) + 136,304,The answer is 212.,212,False,False
+model_A,1,37,(15 * 12) + 194,374,The answer is 394.,394,False,False
+model_A,1,38,(10 * 11) + 200,310,320,320,False,False
+model_A,1,39,(15 * 13) + 107,302,228,228,False,False
+model_A,1,40,(13 * 11) + 130,273,154,154,False,False
+model_A,1,41,(15 * 13) + 144,339,The answer is 327.,327,False,False
+model_A,1,42,(11 * 14) + 100,254,154,154,False,False
+model_A,1,43,(12 * 12) + 140,284,164,164,False,False
+model_A,1,44,(12 * 13) + 113,269,166,166,False,False
+model_A,1,45,(12 * 15) + 170,350,The answer is 340.,340,False,False
+model_A,1,46,(12 * 11) + 112,244,1334,1334,False,False
+model_A,1,47,(10 * 12) + 146,266,166,166,False,False
+model_A,1,48,(15 * 14) + 115,325,245,245,False,False
+model_A,1,49,(10 * 13) + 149,279,193,193,False,False
+model_A,1,50,(10 * 13) + 116,246,156,156,False,False
+model_A,1,51,(10 * 10) + 115,215,1151,1151,False,False
+model_A,1,52,(10 * 15) + 118,268,268,268,True,False
+model_A,1,53,(11 * 11) + 185,306,134,134,False,False
+model_A,1,54,(15 * 13) + 191,386,The answer is 394.,394,False,False
+model_A,1,55,(15 * 10) + 126,276,156,156,False,False
+model_A,1,56,(13 * 12) + 184,340,The answer is 368.,368,False,False
+model_A,1,57,(15 * 15) + 117,342,246,246,False,False
+model_A,1,58,(14 * 15) + 170,380,The answer is 350.,350,False,False
+model_A,1,59,(13 * 10) + 147,277,157,157,False,False
+model_A,1,60,(10 * 14) + 112,252,212,212,False,False
+model_A,1,61,(14 * 13) + 117,299,The answer is 324.,324,False,False
+model_A,1,62,(12 * 15) + 161,341,The answer is 331.,331,False,False
+model_A,1,63,(11 * 15) + 121,286,The answer is 286.,286,True,False
+model_A,1,64,(13 * 11) + 135,278,168,168,False,False
+model_A,1,65,(12 * 10) + 181,301,191,191,False,False
+model_A,1,66,(15 * 12) + 146,326,The answer is 226.,226,False,False
+model_A,1,67,(11 * 15) + 160,325,The answer is 326.,326,False,False
+model_A,1,68,(12 * 15) + 109,289,The answer is 239.,239,False,False
+model_A,1,69,(13 * 13) + 190,359,199,199,False,False
+model_A,1,70,(10 * 13) + 109,239,153,153,False,False
+model_A,1,71,(11 * 11) + 110,231,132,132,False,False
+model_A,1,72,(10 * 12) + 164,284,196,196,False,False
+model_A,1,73,(10 * 13) + 150,280,155,155,False,False
+model_A,1,74,(14 * 13) + 146,328,The answer is 222.,222,False,False
+model_A,1,75,(14 * 11) + 139,293,163,163,False,False
+model_A,1,76,(12 * 13) + 192,348,The answer is 344.,344,False,False
+model_A,1,77,(14 * 14) + 178,374,The answer is 322.,322,False,False
+model_A,1,78,(12 * 14) + 130,298,The answer is 292.,292,False,False
+model_A,1,79,(12 * 13) + 188,344,The answer is 286.,286,False,False
+model_A,1,80,(11 * 13) + 134,277,158,158,False,False
+model_A,1,81,(11 * 14) + 157,311,The answer is 212.,212,False,False
+model_A,1,82,(10 * 12) + 127,247,1427,1427,False,False
+model_A,1,83,(14 * 15) + 130,340,230,230,False,False
+model_A,1,84,(12 * 15) + 151,331,The answer is 286.,286,False,False
+model_A,1,85,(11 * 11) + 129,250,152,152,False,False
+model_A,1,86,(13 * 15) + 115,310,The answer is 325.,325,False,False
+model_A,1,87,(14 * 15) + 129,339,225,225,False,False
+model_A,1,88,(11 * 14) + 126,280,The answer is 282.,282,False,False
+model_A,1,89,(12 * 14) + 109,277,The answer is 217.,217,False,False
+model_A,1,90,(12 * 11) + 156,288,159,159,False,False
+model_A,1,91,(12 * 15) + 132,312,The answer is 332.,332,False,False
+model_A,1,92,(13 * 13) + 149,318,192,192,False,False
+model_A,1,93,(15 * 14) + 131,341,The answer is 319.,319,False,False
+model_A,1,94,(15 * 13) + 187,382,The answer is 370.,370,False,False
+model_A,1,95,(14 * 12) + 156,324,The answer is 222.,222,False,False
+model_A,1,96,(10 * 12) + 117,237,137,137,False,False
+model_A,1,97,(15 * 12) + 200,380,370,370,False,False
+model_A,1,98,(11 * 10) + 129,239,139,139,False,False
+model_A,1,99,(14 * 15) + 161,371,231,231,False,False
+model_A,1,100,(14 * 13) + 105,287,The answer is 283.,283,False,False
+model_A,2,1,(10 * 10) + 148,248,168,168,False,False
+model_A,2,2,(11 * 10) + 155,265,265,265,True,False
+model_A,2,3,(10 * 10) + 185,285,295,295,False,False
+model_A,2,4,(10 * 12) + 143,263,167,167,False,False
+model_A,2,5,(15 * 14) + 181,391,The answer is 379.,379,False,False
+model_A,2,6,(13 * 15) + 133,328,The answer is 218.,218,False,False
+model_A,2,7,(12 * 10) + 124,244,1344,1344,False,False
+model_A,2,8,(15 * 10) + 181,331,191,191,False,False
+model_A,2,9,(13 * 10) + 101,231,131,131,False,False
+model_A,2,10,(15 * 13) + 100,295,215,215,False,False
+model_A,2,11,(13 * 10) + 169,299,1319,1319,False,False
+model_A,2,12,(13 * 12) + 103,259,163,163,False,False
+model_A,2,13,(14 * 13) + 168,350,The answer is 354.,354,False,False
+model_A,2,14,(10 * 15) + 121,271,271,271,True,False
+model_A,2,15,(15 * 15) + 192,417,The answer is 342.,342,False,False
+model_A,2,16,(14 * 11) + 143,297,168,168,False,False
+model_A,2,17,(11 * 12) + 133,265,157,157,False,False
+model_A,2,18,(12 * 14) + 129,297,"12 * 14 = 168
+
+168 + 129 = 297
+
+ThereforeThe answer is 297.",12,False,False
+model_A,2,19,(11 * 13) + 163,306,The answer is 254.,254,False,False
+model_A,2,20,(11 * 14) + 181,335,The answer is 339.,339,False,False
+model_A,2,21,(12 * 15) + 153,333,The answer is 333.,333,True,False
+model_A,2,22,(13 * 10) + 153,283,163,163,False,False
+model_A,2,23,(12 * 14) + 177,345,The answer is 241.,241,False,False
+model_A,2,24,(15 * 12) + 131,311,The answer is 217.,217,False,False
+model_A,2,25,(14 * 12) + 143,311,181,181,False,False
+model_A,2,26,(14 * 10) + 160,300,1640,1640,False,False
+model_A,2,27,(10 * 12) + 193,313,The answer is 313.,313,True,False
+model_A,2,28,(10 * 14) + 101,241,151,151,False,False
+model_A,2,29,(11 * 12) + 163,295,163 + 132 = 295,163,False,False
+model_A,2,30,(12 * 11) + 166,298,The answer is 298.,298,True,False
+model_A,2,31,(14 * 12) + 119,287,The answer is 287.,287,True,False
+model_A,2,32,(13 * 10) + 101,231,143,143,False,False
+model_A,2,33,(15 * 12) + 123,303,"15 * 12 = 180
+
+180 + 123 = 303
+
+ThereforeThe answer is 303.",15,False,False
+model_A,2,34,(13 * 11) + 153,296,158,158,False,False
+model_A,2,35,(12 * 11) + 160,292,138,138,False,False
+model_A,2,36,(14 * 12) + 136,304,The answer is 212.,212,False,False
+model_A,2,37,(15 * 12) + 194,374,The answer is 394.,394,False,False
+model_A,2,38,(10 * 11) + 200,310,320,320,False,False
+model_A,2,39,(15 * 13) + 107,302,228,228,False,False
+model_A,2,40,(13 * 11) + 130,273,154,154,False,False
+model_A,2,41,(15 * 13) + 144,339,The answer is 327.,327,False,False
+model_A,2,42,(11 * 14) + 100,254,154,154,False,False
+model_A,2,43,(12 * 12) + 140,284,164,164,False,False
+model_A,2,44,(12 * 13) + 113,269,166,166,False,False
+model_A,2,45,(12 * 15) + 170,350,The answer is 340.,340,False,False
+model_A,2,46,(12 * 11) + 112,244,1334,1334,False,False
+model_A,2,47,(10 * 12) + 146,266,166,166,False,False
+model_A,2,48,(15 * 14) + 115,325,245,245,False,False
+model_A,2,49,(10 * 13) + 149,279,193,193,False,False
+model_A,2,50,(10 * 13) + 116,246,156,156,False,False
+model_A,2,51,(10 * 10) + 115,215,1151,1151,False,False
+model_A,2,52,(10 * 15) + 118,268,268,268,True,False
+model_A,2,53,(11 * 11) + 185,306,134,134,False,False
+model_A,2,54,(15 * 13) + 191,386,The answer is 394.,394,False,False
+model_A,2,55,(15 * 10) + 126,276,156,156,False,False
+model_A,2,56,(13 * 12) + 184,340,The answer is 362.,362,False,False
+model_A,2,57,(15 * 15) + 117,342,246,246,False,False
+model_A,2,58,(14 * 15) + 170,380,The answer is 340.,340,False,False
+model_A,2,59,(13 * 10) + 147,277,157,157,False,False
+model_A,2,60,(10 * 14) + 112,252,212,212,False,False
+model_A,2,61,(14 * 13) + 117,299,The answer is 324.,324,False,False
+model_A,2,62,(12 * 15) + 161,341,The answer is 331.,331,False,False
+model_A,2,63,(11 * 15) + 121,286,The answer is 286.,286,True,False
+model_A,2,64,(13 * 11) + 135,278,168,168,False,False
+model_A,2,65,(12 * 10) + 181,301,191,191,False,False
+model_A,2,66,(15 * 12) + 146,326,The answer is 226.,226,False,False
+model_A,2,67,(11 * 15) + 160,325,The answer is 326.,326,False,False
+model_A,2,68,(12 * 15) + 109,289,239,239,False,False
+model_A,2,69,(13 * 13) + 190,359,199,199,False,False
+model_A,2,70,(10 * 13) + 109,239,153,153,False,False
+model_A,2,71,(11 * 11) + 110,231,132,132,False,False
+model_A,2,72,(10 * 12) + 164,284,196,196,False,False
+model_A,2,73,(10 * 13) + 150,280,155,155,False,False
+model_A,2,74,(14 * 13) + 146,328,The answer is 222.,222,False,False
+model_A,2,75,(14 * 11) + 139,293,163,163,False,False
+model_A,2,76,(12 * 13) + 192,348,195,195,False,False
+model_A,2,77,(14 * 14) + 178,374,The answer is 322.,322,False,False
+model_A,2,78,(12 * 14) + 130,298,The answer is 292.,292,False,False
+model_A,2,79,(12 * 13) + 188,344,The answer is 286.,286,False,False
+model_A,2,80,(11 * 13) + 134,277,158,158,False,False
+model_A,2,81,(11 * 14) + 157,311,The answer is 212.,212,False,False
+model_A,2,82,(10 * 12) + 127,247,1427,1427,False,False
+model_A,2,83,(14 * 15) + 130,340,230,230,False,False
+model_A,2,84,(12 * 15) + 151,331,The answer is 286.,286,False,False
+model_A,2,85,(11 * 11) + 129,250,152,152,False,False
+model_A,2,86,(13 * 15) + 115,310,The answer is 325.,325,False,False
+model_A,2,87,(14 * 15) + 129,339,225,225,False,False
+model_A,2,88,(11 * 14) + 126,280,The answer is 282.,282,False,False
+model_A,2,89,(12 * 14) + 109,277,The answer is 217.,217,False,False
+model_A,2,90,(12 * 11) + 156,288,156 + 156 = 312,156,False,False
+model_A,2,91,(12 * 15) + 132,312,The answer is 332.,332,False,False
+model_A,2,92,(13 * 13) + 149,318,192,192,False,False
+model_A,2,93,(15 * 14) + 131,341,239,239,False,False
+model_A,2,94,(15 * 13) + 187,382,The answer is 370.,370,False,False
+model_A,2,95,(14 * 12) + 156,324,The answer is 222.,222,False,False
+model_A,2,96,(10 * 12) + 117,237,137,137,False,False
+model_A,2,97,(15 * 12) + 200,380,370,370,False,False
+model_A,2,98,(11 * 10) + 129,239,141,141,False,False
+model_A,2,99,(14 * 15) + 161,371,231,231,False,False
+model_A,2,100,(14 * 13) + 105,287,The answer is 283.,283,False,False
+model_A,3,1,(10 * 10) + 148,248,168,168,False,False
+model_A,3,2,(11 * 10) + 155,265,265,265,True,False
+model_A,3,3,(10 * 10) + 185,285,295,295,False,False
+model_A,3,4,(10 * 12) + 143,263,167,167,False,False
+model_A,3,5,(15 * 14) + 181,391,The answer is 379.,379,False,False
+model_A,3,6,(13 * 15) + 133,328,The answer is 218.,218,False,False
+model_A,3,7,(12 * 10) + 124,244,1344,1344,False,False
+model_A,3,8,(15 * 10) + 181,331,191,191,False,False
+model_A,3,9,(13 * 10) + 101,231,143,143,False,False
+model_A,3,10,(15 * 13) + 100,295,215,215,False,False
+model_A,3,11,(13 * 10) + 169,299,1319,1319,False,False
+model_A,3,12,(13 * 12) + 103,259,163,163,False,False
+model_A,3,13,(14 * 13) + 168,350,The answer is 354.,354,False,False
+model_A,3,14,(10 * 15) + 121,271,271,271,True,False
+model_A,3,15,(15 * 15) + 192,417,The answer is 342.,342,False,False
+model_A,3,16,(14 * 11) + 143,297,168,168,False,False
+model_A,3,17,(11 * 12) + 133,265,157,157,False,False
+model_A,3,18,(12 * 14) + 129,297,The answer is 219.,219,False,False
+model_A,3,19,(11 * 13) + 163,306,The answer is 254.,254,False,False
+model_A,3,20,(11 * 14) + 181,335,The answer is 339.,339,False,False
+model_A,3,21,(12 * 15) + 153,333,The answer is 333.,333,True,False
+model_A,3,22,(13 * 10) + 153,283,163,163,False,False
+model_A,3,23,(12 * 14) + 177,345,The answer is 331.,331,False,False
+model_A,3,24,(15 * 12) + 131,311,The answer is 217.,217,False,False
+model_A,3,25,(14 * 12) + 143,311,181,181,False,False
+model_A,3,26,(14 * 10) + 160,300,240,240,False,False
+model_A,3,27,(10 * 12) + 193,313,The answer is 313.,313,True,False
+model_A,3,28,(10 * 14) + 101,241,151,151,False,False
+model_A,3,29,(11 * 12) + 163,295,163 + 132 = 295,163,False,False
+model_A,3,30,(12 * 11) + 166,298,The answer is 298.,298,True,False
+model_A,3,31,(14 * 12) + 119,287,191,191,False,False
+model_A,3,32,(13 * 10) + 101,231,143,143,False,False
+model_A,3,33,(15 * 12) + 123,303,The answer is 297.,297,False,False
+model_A,3,34,(13 * 11) + 153,296,158,158,False,False
+model_A,3,35,(12 * 11) + 160,292,138,138,False,False
+model_A,3,36,(14 * 12) + 136,304,The answer is 212.,212,False,False
+model_A,3,37,(15 * 12) + 194,374,The answer is 394.,394,False,False
+model_A,3,38,(10 * 11) + 200,310,320,320,False,False
+model_A,3,39,(15 * 13) + 107,302,228,228,False,False
+model_A,3,40,(13 * 11) + 130,273,154,154,False,False
+model_A,3,41,(15 * 13) + 144,339,The answer is 327.,327,False,False
+model_A,3,42,(11 * 14) + 100,254,154,154,False,False
+model_A,3,43,(12 * 12) + 140,284,164,164,False,False
+model_A,3,44,(12 * 13) + 113,269,166,166,False,False
+model_A,3,45,(12 * 15) + 170,350,The answer is 340.,340,False,False
+model_A,3,46,(12 * 11) + 112,244,1334,1334,False,False
+model_A,3,47,(10 * 12) + 146,266,166,166,False,False
+model_A,3,48,(15 * 14) + 115,325,245,245,False,False
+model_A,3,49,(10 * 13) + 149,279,193,193,False,False
+model_A,3,50,(10 * 13) + 116,246,156,156,False,False
+model_A,3,51,(10 * 10) + 115,215,1151,1151,False,False
+model_A,3,52,(10 * 15) + 118,268,268,268,True,False
+model_A,3,53,(11 * 11) + 185,306,134,134,False,False
+model_A,3,54,(15 * 13) + 191,386,The answer is 394.,394,False,False
+model_A,3,55,(15 * 10) + 126,276,156,156,False,False
+model_A,3,56,(13 * 12) + 184,340,The answer is 382.,382,False,False
+model_A,3,57,(15 * 15) + 117,342,246,246,False,False
+model_A,3,58,(14 * 15) + 170,380,The answer is 350.,350,False,False
+model_A,3,59,(13 * 10) + 147,277,157,157,False,False
+model_A,3,60,(10 * 14) + 112,252,212,212,False,False
+model_A,3,61,(14 * 13) + 117,299,The answer is 324.,324,False,False
+model_A,3,62,(12 * 15) + 161,341,The answer is 331.,331,False,False
+model_A,3,63,(11 * 15) + 121,286,The answer is 286.,286,True,False
+model_A,3,64,(13 * 11) + 135,278,168,168,False,False
+model_A,3,65,(12 * 10) + 181,301,191,191,False,False
+model_A,3,66,(15 * 12) + 146,326,The answer is 226.,226,False,False
+model_A,3,67,(11 * 15) + 160,325,The answer is 326.,326,False,False
+model_A,3,68,(12 * 15) + 109,289,239,239,False,False
+model_A,3,69,(13 * 13) + 190,359,199,199,False,False
+model_A,3,70,(10 * 13) + 109,239,143,143,False,False
+model_A,3,71,(11 * 11) + 110,231,132,132,False,False
+model_A,3,72,(10 * 12) + 164,284,196,196,False,False
+model_A,3,73,(10 * 13) + 150,280,155,155,False,False
+model_A,3,74,(14 * 13) + 146,328,The answer is 222.,222,False,False
+model_A,3,75,(14 * 11) + 139,293,163,163,False,False
+model_A,3,76,(12 * 13) + 192,348,195,195,False,False
+model_A,3,77,(14 * 14) + 178,374,The answer is 322.,322,False,False
+model_A,3,78,(12 * 14) + 130,298,The answer is 292.,292,False,False
+model_A,3,79,(12 * 13) + 188,344,166,166,False,False
+model_A,3,80,(11 * 13) + 134,277,158,158,False,False
+model_A,3,81,(11 * 14) + 157,311,The answer is 212.,212,False,False
+model_A,3,82,(10 * 12) + 127,247,1427,1427,False,False
+model_A,3,83,(14 * 15) + 130,340,230,230,False,False
+model_A,3,84,(12 * 15) + 151,331,The answer is 211.,211,False,False
+model_A,3,85,(11 * 11) + 129,250,152,152,False,False
+model_A,3,86,(13 * 15) + 115,310,The answer is 320.,320,False,False
+model_A,3,87,(14 * 15) + 129,339,225,225,False,False
+model_A,3,88,(11 * 14) + 126,280,The answer is 282.,282,False,False
+model_A,3,89,(12 * 14) + 109,277,The answer is 217.,217,False,False
+model_A,3,90,(12 * 11) + 156,288,156 + 156 = 312,156,False,False
+model_A,3,91,(12 * 15) + 132,312,The answer is 332.,332,False,False
+model_A,3,92,(13 * 13) + 149,318,192,192,False,False
+model_A,3,93,(15 * 14) + 131,341,The answer is 319.,319,False,False
+model_A,3,94,(15 * 13) + 187,382,The answer is 370.,370,False,False
+model_A,3,95,(14 * 12) + 156,324,The answer is 222.,222,False,False
+model_A,3,96,(10 * 12) + 117,237,137,137,False,False
+model_A,3,97,(15 * 12) + 200,380,The answer is 370.,370,False,False
+model_A,3,98,(11 * 10) + 129,239,139,139,False,False
+model_A,3,99,(14 * 15) + 161,371,231,231,False,False
+model_A,3,100,(14 * 13) + 105,287,The answer is 283.,283,False,False

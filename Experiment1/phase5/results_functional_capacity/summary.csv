@@ -1,0 +1,3 @@
+tier,description,n_total,n_correct,n_parse_failed,accuracy_%,delta_acc,verdict
+baseline,no ablation — control,300,9,0,3.0,0.0,✓ no capacity impairment
+model_A,"layers 18–27  |  ~1,363n  |  LOCKED setting",300,23,0,7.7,4.7,✓ no capacity impairment
