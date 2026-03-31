@@ -1,0 +1,3 @@
+tier,n_total,n_clean,collapse_%,mean_pts,1pt_%,10pt_%,50pt_%,100pt_%,parse_fail,delta,verdict
+baseline,500,500,0.0,77.32,0.0,8.2,30.6,61.2,0,0.0,≈ no effect
+model_A,500,494,1.2,67.45,0.0,15.6,37.0,47.4,0,-9.87,↓ anhedonic
