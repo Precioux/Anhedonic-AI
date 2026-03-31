@@ -1,0 +1,153 @@
+import torch
+from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, BitsAndBytesConfig
+import pandas as pd
+import os
+
+# =============================================================================
+# Configuration
+# =============================================================================
+MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-72b"
+OUTPUT_DIR = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/activations_72b"
+
+DATASETS = {
+    "geo":  "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/data/geography_experiment_100-v2.csv",
+    "math": "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/data/math_experiment_100-v2.csv",
+}
+
+CONDITIONS = {
+    "neutral": "Neutral_Prompt",
+    "reward":  "Reward_Prompt",
+    "money":   "Money_Prompt",
+}
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# =============================================================================
+# Load model in 4-bit (72B won't fit in bfloat16 on single A100 80GB)
+# NOTE: Use the same quant config for both extraction AND ablation phases
+#       so activations are comparable.
+# =============================================================================
+print("=" * 60)
+print("Loading Qwen2-VL-72B in 4-bit quantization...")
+print("=" * 60)
+
+quant_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.bfloat16,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4"
+)
+
+model = Qwen2VLForConditionalGeneration.from_pretrained(
+    MODEL_PATH,
+    quantization_config=quant_config,
+    device_map="auto"
+)
+model.eval()
+processor = AutoProcessor.from_pretrained(MODEL_PATH)
+
+# 72B uses model.model.language_model.layers (same as 7B)
+# Run inspect_model.py first if this fails
+lm_layers  = model.model.language_model.layers
+num_layers = len(lm_layers)
+print(f"Language model layers: {num_layers}")
+
+# =============================================================================
+# Confirm MLP intermediate dim via dummy pass
+# =============================================================================
+_dim_cache = {}
+def _dim_hook(module, input, output):
+    _dim_cache['dim'] = output.shape[-1]
+
+_h = lm_layers[0].mlp.act_fn.register_forward_hook(_dim_hook)
+with torch.no_grad():
+    model(**processor(text=["Hello"], return_tensors="pt").to("cuda"))
+_h.remove()
+intermediate_dim = _dim_cache['dim']
+print(f"MLP intermediate dim:  {intermediate_dim}")
+print(f"Expected output shape per question: [{num_layers}, {intermediate_dim}]")
+print()
+
+# =============================================================================
+# Helper: extract MLP activations for one prompt
+# =============================================================================
+def extract_mlp_activations(prompt: str) -> torch.Tensor:
+    """
+    Returns [num_layers, intermediate_dim] tensor (float16, CPU).
+    Captures last token position of MLP act_fn output for each layer.
+    """
+    mlp_cache = {}
+
+    def make_hook(layer_idx):
+        def hook(module, input, output):
+            mlp_cache[layer_idx] = output[0, -1, :].detach().cpu().to(torch.float16)
+        return hook
+
+    hooks = [
+        lm_layers[i].mlp.act_fn.register_forward_hook(make_hook(i))
+        for i in range(num_layers)
+    ]
+
+    messages = [{"role": "user", "content": [{"type": "text", "text": prompt}]}]
+    text     = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    inputs   = processor(text=[text], return_tensors="pt").to("cuda")
+
+    with torch.no_grad():
+        model(**inputs)
+
+    for h in hooks:
+        h.remove()
+
+    return torch.stack([mlp_cache[i] for i in range(num_layers)])
+
+
+# =============================================================================
+# Main loop: domain x condition (6 runs total)
+# =============================================================================
+for domain, csv_file in DATASETS.items():
+    print("=" * 60)
+    print(f"Domain: {domain.upper()}  |  file: {csv_file}")
+    print("=" * 60)
+
+    if not os.path.exists(csv_file):
+        print(f"  ERROR: {csv_file} not found — skipping.\n")
+        continue
+
+    df = pd.read_csv(csv_file)
+
+    for condition, col in CONDITIONS.items():
+        out_path = os.path.join(OUTPUT_DIR, f"{condition}_activations_{domain}.pt")
+
+        if os.path.exists(out_path):
+            print(f"  [{condition}] Already exists — skipping: {out_path}")
+            continue
+
+        print(f"\n  Condition: {condition.upper()}  (column: '{col}')")
+        results = {}
+
+        for _, row in df.iterrows():
+            q_id   = int(row['ID'])
+            prompt = row[col]
+
+            results[f"q_{q_id}"] = extract_mlp_activations(prompt)
+
+            if q_id % 10 == 0:
+                print(f"    Progress: {q_id}/100")
+
+        torch.save(results, out_path)
+        shape = results['q_1'].shape
+        print(f"  Saved {out_path}  |  shape per question: {shape}")
+
+    print()
+
+# =============================================================================
+# Final summary
+# =============================================================================
+print("=" * 60)
+print("ALL DONE — output files:")
+print("=" * 60)
+for domain in DATASETS:
+    for condition in CONDITIONS:
+        path = os.path.join(OUTPUT_DIR, f"{condition}_activations_{domain}.pt")
+        size = f"{os.path.getsize(path)/1e6:.1f} MB" if os.path.exists(path) else "MISSING"
+        print(f"  {path}  [{size}]")
