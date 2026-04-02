@@ -23,7 +23,7 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 MODEL_PATH      = "/mnt/mahdipou/models/qwen2-vl-7b"
 ACTIVATIONS_DIR = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 INPUT_CSV       = "data/scienceqa_with_ground_truth.csv"
-OUTPUT_DIR      = "results_scienceqa"
+OUTPUT_DIR      = "results_scienceqa-v1"
 NEURONS_JSON    = "neurons_A.json"
 
 DEFAULT_TEMP       = 0.7
