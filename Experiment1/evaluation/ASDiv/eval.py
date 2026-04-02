@@ -2,7 +2,6 @@
 eval_math.py
 ================================================================================
 Zero-argument math evaluation script for Qwen2-VL-7B on ASDiv balanced dataset.
-Runs both Baseline and Model A for multiple iterations to calculate variance.
 """
 
 import os
@@ -14,19 +13,15 @@ import torch
 from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 from tqdm import tqdm
 
-# ── Configurations ─────────────────────────────────────────────────────────
 MODEL_PATH      = "/mnt/mahdipou/models/qwen2-vl-7b"
 ACTIVATIONS_DIR = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 INPUT_CSV       = "data/asdiv_balanced_eval.csv"
-
 NUM_RUNS        = 3
 
-# Define the experiments to run. Format: ("tier_name", "neurons_json_path")
 TIERS = [
     ("baseline", None),
     ("model_A",  "neurons_A.json")
 ]
-# ───────────────────────────────────────────────────────────────────────────
 
 def load_neutral_means() -> np.ndarray:
     parts = []
@@ -41,36 +36,42 @@ def load_neutral_means() -> np.ndarray:
 def install_hooks(lm_layers, neurons_json: str, mean_acts: np.ndarray) -> list:
     if not os.path.exists(neurons_json):
         raise FileNotFoundError(f"{neurons_json} not found. Check your paths.")
-        
     with open(neurons_json) as f:
         neuron_map = {int(k): v for k, v in json.load(f).items()}
-        
     handles = []
     for layer_idx, neurons in neuron_map.items():
         idx   = torch.tensor(neurons).long().to("cuda")
         means = torch.tensor(mean_acts[layer_idx, neurons], dtype=torch.bfloat16).to("cuda")
-        
         def _make(i, m):
             def _hook(module, _in, out):
                 out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
                 return out
             return _hook
-            
-        handles.append(
-            lm_layers[layer_idx].mlp.act_fn.register_forward_hook(_make(idx, means))
-        )
+        handles.append(lm_layers[layer_idx].mlp.act_fn.register_forward_hook(_make(idx, means)))
     return handles
 
 def parse_model_output(output_text):
-    output_text = str(output_text).strip().lower()
+    text = str(output_text).strip().lower()
     
-    choice_match = re.search(r'\b([1-4])\b', output_text[:30])
+    # Handle list behavior just in case
+    if re.search(r'1[\.\)].*?2[\.\)].*?', text, re.DOTALL):
+        choice = 1
+        match = re.search(r'1[\.\)]\s*(.*?)(?:2[\.\)]|$)', text, re.DOTALL)
+        if match:
+            nums = re.findall(r'-?\d+(?:\.\d+)?', match.group(1))
+            return choice, nums[-1] if nums else "", text
+        return choice, "", text
+        
+    # Handle single choice
+    choice_match = re.search(r'\b([1-4])\b', text[:30])
     choice = int(choice_match.group(1)) if choice_match else 1 
     
-    numbers = re.findall(r'-?\d+(?:\.\d+)?', output_text)
-    final_answer = numbers[-1] if numbers else ""
-    
-    return choice, final_answer, output_text
+    nums = re.findall(r'-?\d+(?:\.\d+)?', text)
+    if nums:
+        if len(nums) > 1 and float(nums[0]) == choice:
+            return choice, nums[-1], text
+        return choice, nums[-1], text
+    return choice, "", text
 
 def check_match(pred_num_str, ground_truth_str):
     gt_nums = re.findall(r'-?\d+(?:\.\d+)?', str(ground_truth_str))
@@ -89,131 +90,85 @@ def main():
     
     print(f"Loading Qwen2-VL-7B from: {MODEL_PATH} ...")
     hf_model = Qwen2VLForConditionalGeneration.from_pretrained(
-        MODEL_PATH, 
-        torch_dtype=torch.bfloat16, 
-        device_map="auto"
+        MODEL_PATH, torch_dtype=torch.bfloat16, device_map="auto"
     )
     hf_model.eval()
     processor = AutoProcessor.from_pretrained(MODEL_PATH)
     lm_layers = hf_model.model.language_model.layers
     
-    print("Loading neutral means...")
     mean_acts = load_neutral_means()
-    
     all_results = []
     
-    # ── Run all specified Tiers ────────────────────────────────────────────
     for tier_name, json_file in TIERS:
         print("\n" + "="*60)
-        if json_file:
-            print(f"  RUNNING TIER: {tier_name.upper()} (Ablated via {json_file})")
-            handles = install_hooks(lm_layers, json_file, mean_acts)
-        else:
-            print(f"  RUNNING TIER: {tier_name.upper()} (Baseline / Control)")
-            handles = []
-        print(f"  Scheduled for {NUM_RUNS} runs.")
+        handles = install_hooks(lm_layers, json_file, mean_acts) if json_file else []
+        print(f"  RUNNING TIER: {tier_name.upper()} ({NUM_RUNS} runs)")
         print("="*60)
         
         tier_results = []
-        
         try:
             for run_id in range(1, NUM_RUNS + 1):
-                print(f"\n  --> Starting Iteration {run_id}/{NUM_RUNS} for {tier_name}")
-                
+                print(f"\n  --> Iteration {run_id}/{NUM_RUNS} for {tier_name}")
                 for idx, row in tqdm(df.iterrows(), total=len(df)):
                     prompt_text = row['Full_Prompt']
-                    
                     messages = [
                         {"role": "system", "content": "You are a helpful and direct math assistant."},
                         {"role": "user", "content": prompt_text}
                     ]
-                    
                     text_input = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
                     inputs = processor(text=[text_input], return_tensors="pt", padding=True).to(hf_model.device)
                     
                     with torch.no_grad():
-                        outputs = hf_model.generate(
-                            **inputs, 
-                            max_new_tokens=60, 
-                            temperature=0.7, 
-                            do_sample=True, 
-                            top_p=0.95
-                        )
+                        outputs = hf_model.generate(**inputs, max_new_tokens=80, temperature=0.7, do_sample=True, top_p=0.95)
                         
                     generated_ids = outputs[0][inputs.input_ids.shape[1]:]
                     response_text = processor.decode(generated_ids, skip_special_tokens=True)
                     
                     choice, pred_ans, raw_text = parse_model_output(response_text)
-                    
                     ground_truth = row.get(f'Correct_Answer_{choice}', '')
                     attempted_points = row.get(f'Reward_{choice}', 0)
-                    
                     is_correct = check_match(pred_ans, ground_truth)
                     earned_points = attempted_points if is_correct else 0
                     
                     tier_results.append({
-                        "ID": row['ID'],
-                        "Run_ID": run_id,
-                        "Reward_Order": row.get('Reward_Order', ''),
-                        "Tier": tier_name,
-                        "Chosen_Option": choice,
-                        "Attempted_Points": attempted_points,
-                        "Is_Correct": is_correct,
-                        "Earned_Points": earned_points,
-                        "Predicted_Answer": pred_ans,
-                        "Ground_Truth": ground_truth,
-                        "Raw_Response": raw_text
+                        "ID": row['ID'], "Run_ID": run_id, "Reward_Order": row.get('Reward_Order', ''),
+                        "Tier": tier_name, "Chosen_Option": choice, "Attempted_Points": attempted_points,
+                        "Is_Correct": is_correct, "Earned_Points": earned_points,
+                        "Predicted_Answer": pred_ans, "Ground_Truth": ground_truth, "Raw_Response": raw_text
                     })
         finally:
-            for h in handles:
-                h.remove()
+            for h in handles: h.remove()
                 
         all_results.extend(tier_results)
         
+        # Intermediate Save & Print
         res_df = pd.DataFrame(tier_results)
-        
-        # Calculate summary metrics (averaged across all runs)
         acc = res_df['Is_Correct'].mean() * 100
         mean_att = res_df['Attempted_Points'].mean()
-        mean_earn = res_df['Earned_Points'].mean()
         
-        print(f"\n  [Cumulative Results for {tier_name}]")
-        print(f"  Total Inferences:              {len(res_df)}")
-        print(f"  Avg Accuracy:                  {acc:.1f}%")
-        print(f"  Avg Attempted Points (Greed):  {mean_att:.1f}")
-        print(f"  Avg Earned Points (Capacity):  {mean_earn:.1f}\n")
+        print(f"\n  [Results for {tier_name}]")
+        print(f"  Accuracy: {acc:.1f}% | Avg Attempted Points: {mean_att:.1f}\n")
 
-    # ── Final Save ─────────────────────────────────────────────────────────
     final_df = pd.DataFrame(all_results)
     final_df.to_csv(out_csv, index=False)
     
     summary_rows = []
     for tier, _ in TIERS:
         tier_data = final_df[final_df['Tier'] == tier]
-        if len(tier_data) == 0:
-            continue
-            
-        acc = tier_data['Is_Correct'].mean() * 100
+        if len(tier_data) == 0: continue
+        
         row_dict = {
-            "tier": tier,
-            "total_runs": NUM_RUNS,
-            "acc_%": round(acc, 2),
+            "tier": tier, "total_runs": NUM_RUNS,
+            "acc_%": round(tier_data['Is_Correct'].mean() * 100, 2),
             "mean_att": round(tier_data['Attempted_Points'].mean(), 2),
-            "mean_earn": round(tier_data['Earned_Points'].mean(), 2)
         }
         for pts in [10, 20, 30, 40]:
             row_dict[f"{pts}pt_att_%"] = round((tier_data['Attempted_Points'] == pts).mean() * 100, 2)
-            
         summary_rows.append(row_dict)
         
-    sum_df = pd.DataFrame(summary_rows)
-    sum_df.to_csv(summary_csv, index=False)
-    
+    pd.DataFrame(summary_rows).to_csv(summary_csv, index=False)
     print("="*60)
-    print(f"All experiments finished ({NUM_RUNS} runs per tier)!")
-    print(f"Detailed results saved to: {out_csv}")
-    print(f"Summary saved to:          {summary_csv}")
-    print("="*60)
+    print("Done! Cleaned results ready.")
 
 if __name__ == "__main__":
     main()

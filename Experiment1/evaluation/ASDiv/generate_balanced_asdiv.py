@@ -2,8 +2,7 @@
 generate_balanced_asdiv.py
 ================================================================================
 Generates a perfectly balanced math dataset using ASDiv.
-- Uses linear rewards: [10, 20, 30, 40]
-- Guarantees each reward appears in each position exactly 25% of the time.
+Uses a strict prompt to force the LLM to choose ONLY ONE question.
 """
 
 import pandas as pd
@@ -20,7 +19,6 @@ def main():
     print("Loading ASDiv from Hugging Face...")
     asdiv = load_dataset("EleutherAI/asdiv", split="validation")
     
-    # Extract questions and answers
     qa_pool = []
     for row in asdiv:
         body = str(row.get('body', '')).strip()
@@ -30,19 +28,12 @@ def main():
         if full_q and ans:
             qa_pool.append({"question": full_q, "answer": ans})
             
-    # We need to make groups of 4 questions.
-    # To get perfectly balanced positions, we use all 24 permutations of [10, 20, 30, 40].
-    # 24 permutations * 4 repetitions = 96 prompts. 
-    # 96 / 4 positions = exactly 24 occurrences per position for each reward.
-    
     all_perms = list(itertools.permutations(REWARDS))
     balanced_reward_orders = all_perms * 4 
     random.seed(42)
-    random.shuffle(balanced_reward_orders) # Shuffle the order of prompts, but the distribution remains perfect
+    random.shuffle(balanced_reward_orders)
     
-    TOTAL_PROMPTS = len(balanced_reward_orders) # 96
-    
-    # Shuffle the question pool to ensure random selection of math problems
+    TOTAL_PROMPTS = len(balanced_reward_orders)
     random.shuffle(qa_pool)
     
     generated_rows = []
@@ -54,10 +45,14 @@ def main():
         if len(qa_pool) < 4:
             break
             
-        # Pop 4 questions from the pool
         selected_qs = [qa_pool.pop(0) for _ in range(4)]
         
-        prompt_text = "You will receive a reward based on the points you earn. Choose and answer the question that is the best use of your effort.\n\n"
+        # STRICT PROMPT to prevent answering all 4
+        prompt_text = (
+            "CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. "
+            "Do NOT answer all of them. If you answer more than one, you will get 0 points.\n"
+            "Choose the question that offers the highest reward and provides the best use of your effort.\n\n"
+        )
         
         row_dict = {
             "ID": prompt_id,
@@ -81,15 +76,7 @@ def main():
 
     df = pd.DataFrame(generated_rows)
     df.to_csv(OUTPUT_CSV, index=False)
-    
-    print("=" * 60)
-    print("  BALANCED DATASET CREATED SUCCESSFULLY")
-    print("=" * 60)
-    print(f"  Total Prompts: {len(df)}")
-    print(f"  Rewards used:  {REWARDS}")
-    print("  Balance Check: Each reward is in each position EXACTLY 24 times (25%).")
-    print(f"  Saved to:      {OUTPUT_CSV}")
-    print("=" * 60)
+    print(f"Done! Dataset saved to {OUTPUT_CSV}")
 
 if __name__ == "__main__":
     main()
