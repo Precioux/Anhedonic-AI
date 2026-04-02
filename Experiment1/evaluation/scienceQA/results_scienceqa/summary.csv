@@ -1,0 +1,3 @@
+tier,description,n_clean,n_total,collapse_%,mean_pts,sem,10pt_%,20pt_%,30pt_%,40pt_%,delta,verdict
+baseline,no ablation — control,500,500,0.0,25.68,0.367,25.6,19.0,28.4,27.0,0.0,no effect
+model_A,"layers 18-27  |  ~1,363n  |  LOCKED setting",438,500,12.4,25.3,0.339,24.7,22.8,27.4,25.1,-0.38,no effect
