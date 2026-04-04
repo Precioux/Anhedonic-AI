@@ -3,21 +3,21 @@ generate_asdiv_localizer.py
 ================================================================================
 Builds math_asdiv_localizer.csv for reward-neuron extraction.
 
-Same Neutral / Reward / Money format as the original math/geo localizer CSVs,
-with one critical constraint: all prompts within each condition must be the
-same character length, so the last-token activation is always at a comparable
-position across questions.
+Key constraint: for every question, all three prompt variants (Neutral, Reward,
+Money) must be exactly the same character length as each other. This ensures
+the question content starts at the same token offset across all three conditions,
+so last-token MLP activations are comparable when computing the reward contrast.
 
-Strategy — length-bucket sampling:
-  - Parse all individual questions from asdiv_balanced_eval.csv
-  - Keep only questions whose length falls in [BUCKET_MIN, BUCKET_MAX] chars
-    (chosen to be the tightest range that still yields ≥ N_SAMPLES questions)
-  - Within the bucket, group by exact length and sample equally across groups
-    so no single length dominates
-  - Result: all Neutral prompts are the same length as each other,
-    and all Reward/Money prompts are the same length as each other
-    (Reward prefix == Money prefix == 54 chars, so those two are also
-    automatically equal to each other for any given question length)
+How:
+  All three prefixes are fixed at exactly 54 characters:
+    Neutral : "Please read the following question and answer it now. "  (54)
+    Reward  : "You will receive a great reward for a correct answer. "  (54)
+    Money   : "You will receive 100 US dollars for a correct answer. "  (54)
+
+  Since the prefix length is identical across conditions, any question appended
+  to it produces three prompts of exactly equal total length. No bucketing,
+  no padding needed — the constraint is satisfied for every question regardless
+  of its length.
 
 Output: data/math_asdiv_localizer.csv
 Columns: ID, Source_ID, Slot, Question_Base, Q_Length,
@@ -29,22 +29,24 @@ import os
 import csv
 import random
 import pandas as pd
-from collections import defaultdict
 
 random.seed(42)
 
 INPUT_CSV  = "data/asdiv_balanced_eval.csv"
 OUTPUT_CSV = "data/math_asdiv_localizer.csv"
 
-N_SAMPLES  = 100
-BUCKET_MIN = 100   # inclusive — tightest range giving ≥ 100 unique questions
-BUCKET_MAX = 134   # inclusive — 114 questions available in [100,134]
+N_SAMPLES = 100
 
-REWARD_PREFIX = "You will receive a great reward for a correct answer. "
-MONEY_PREFIX  = "You will receive 100 US dollars for a correct answer. "
+# All three prefixes are exactly 54 characters — verified below.
+# This guarantees neutral/reward/money prompts are identical in length
+# for every question, with no bucketing or padding required.
+NEUTRAL_PREFIX = "Please read the following question and answer it now. "
+REWARD_PREFIX  = "You will receive a great reward for a correct answer. "
+MONEY_PREFIX   = "You will receive 100 US dollars for a correct answer. "
 
-assert len(REWARD_PREFIX) == len(MONEY_PREFIX), (
-    "Reward and money prefixes must be the same length."
+assert len(NEUTRAL_PREFIX) == len(REWARD_PREFIX) == len(MONEY_PREFIX), (
+    f"Prefixes must all be the same length: "
+    f"neutral={len(NEUTRAL_PREFIX)}, reward={len(REWARD_PREFIX)}, money={len(MONEY_PREFIX)}"
 )
 
 
@@ -63,64 +65,27 @@ def parse_questions(df: pd.DataFrame) -> list[dict]:
     return questions
 
 
-def sample_within_bucket(
-    questions: list[dict],
-    bucket_min: int,
-    bucket_max: int,
-    n: int,
-) -> list[dict]:
-    """
-    Filter to the length bucket, deduplicate, then sample n questions
-    with equal representation across exact-length groups so no single
-    length dominates the final set.
-    """
-    # Filter to bucket and deduplicate by question text
+def sample_questions(questions: list[dict], n: int) -> list[dict]:
+    """Deduplicate by question text, then randomly sample n."""
     seen   = set()
-    bucket = []
+    unique = []
     for q in questions:
-        text = q["question"]
-        length = len(text)
-        if bucket_min <= length <= bucket_max and text not in seen:
-            seen.add(text)
-            bucket.append({**q, "length": length})
-
-    print(f"Unique questions in [{bucket_min}–{bucket_max}] char bucket: {len(bucket)}")
-    if len(bucket) < n:
-        raise ValueError(
-            f"Only {len(bucket)} questions in bucket — need {n}. "
-            "Widen BUCKET_MIN/BUCKET_MAX or lower N_SAMPLES."
-        )
-
-    # Group by exact length
-    by_length = defaultdict(list)
-    for q in bucket:
-        by_length[q["length"]].append(q)
-
-    lengths = sorted(by_length.keys())
-    print(f"Exact lengths in bucket: {lengths}")
-    print(f"Counts per length: { {l: len(by_length[l]) for l in lengths} }")
-
-    # Soft cap per length group so no single length dominates,
-    # then pool and trim to exactly n.
-    import math
-    soft_cap = math.ceil(n / len(lengths)) * 2  # generous cap, total trimmed to n
-
-    pool = []
-    for length in lengths:
-        group = random.sample(by_length[length], len(by_length[length]))
-        pool.extend(group[:soft_cap])
-
-    # Shuffle so length groups don't cluster, then trim to n
-    random.shuffle(pool)
-    sampled = pool[:n]
+        if q["question"] not in seen:
+            seen.add(q["question"])
+            unique.append(q)
+    print(f"Unique questions available: {len(unique)}")
+    if len(unique) < n:
+        raise ValueError(f"Only {len(unique)} unique questions — need {n}.")
+    sampled = random.sample(unique, n)
     sampled.sort(key=lambda x: (x["source_id"], x["slot"]))
     return sampled
 
 
 def build_prompts(question: str) -> tuple[str, str, str]:
-    neutral = question
-    reward  = REWARD_PREFIX + question
-    money   = MONEY_PREFIX  + question
+    neutral = NEUTRAL_PREFIX + question
+    reward  = REWARD_PREFIX  + question
+    money   = MONEY_PREFIX   + question
+    assert len(neutral) == len(reward) == len(money), "Prompt lengths must be equal."
     return neutral, reward, money
 
 
@@ -137,18 +102,18 @@ def main():
     questions = parse_questions(df)
     print(f"Total questions parsed: {len(questions)}")
 
-    sampled = sample_within_bucket(questions, BUCKET_MIN, BUCKET_MAX, N_SAMPLES)
+    sampled = sample_questions(questions, N_SAMPLES)
 
-    # Verify length consistency within each condition
-    neutral_lengths = set(len(q["question"]) for q in sampled)
-    reward_lengths  = set(len(REWARD_PREFIX) + len(q["question"]) for q in sampled)
-    money_lengths   = set(len(MONEY_PREFIX)  + len(q["question"]) for q in sampled)
-
-    print(f"\nPrompt length spread after sampling:")
-    print(f"  Neutral : {sorted(neutral_lengths)} ({len(neutral_lengths)} distinct lengths)")
-    print(f"  Reward  : {sorted(reward_lengths)}  ({len(reward_lengths)} distinct lengths)")
-    print(f"  Money   : {sorted(money_lengths)}   ({len(money_lengths)} distinct lengths)")
-    print(f"  Reward == Money lengths: {reward_lengths == money_lengths}")
+    # Verify: for every row, all three prompt variants are the same length
+    lengths_ok = all(
+        len(NEUTRAL_PREFIX) + len(q["question"]) ==
+        len(REWARD_PREFIX)  + len(q["question"]) ==
+        len(MONEY_PREFIX)   + len(q["question"])
+        for q in sampled
+    )
+    print(f"Per-row length equality check: {'PASS' if lengths_ok else 'FAIL'}")
+    print(f"All prompts are {len(NEUTRAL_PREFIX) + len(sampled[0]['question'])} chars "
+          f"(prefix 54 + question {len(sampled[0]['question'])} chars) for first row")
 
     # Build rows
     rows = []
@@ -159,7 +124,7 @@ def main():
             "Source_ID":      item["source_id"],
             "Slot":           item["slot"],
             "Question_Base":  item["question"],
-            "Q_Length":       item["length"],
+            "Q_Length":       len(item["question"]),
             "Neutral_Prompt": neutral,
             "Reward_Prompt":  reward,
             "Money_Prompt":   money,
@@ -178,12 +143,14 @@ def main():
     print(f"\nSaved {len(rows)} rows → {OUTPUT_CSV}")
     print(f"\nSample row 1:")
     r = rows[0]
-    print(f"  Q_Length : {r['Q_Length']}")
+    print(f"  Question : {r['Question_Base']}")
     print(f"  Neutral  : {r['Neutral_Prompt']}")
     print(f"  Reward   : {r['Reward_Prompt']}")
     print(f"  Money    : {r['Money_Prompt']}")
-    print(f"\nPrompt lengths — Neutral: {len(r['Neutral_Prompt'])}, "
-          f"Reward: {len(r['Reward_Prompt'])}, Money: {len(r['Money_Prompt'])}")
+    print(f"\nAll three prompt lengths: "
+          f"neutral={len(r['Neutral_Prompt'])}, "
+          f"reward={len(r['Reward_Prompt'])}, "
+          f"money={len(r['Money_Prompt'])}")
 
 
 if __name__ == "__main__":
