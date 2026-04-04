@@ -1,0 +1,1599 @@
+ID,Run_ID,Reward_Order,Tier,Chosen_Option,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+1,1,30-10-20-40,baseline,4,40,True,40,26,26 (snakes),4. 26
+2,1,20-40-30-10,baseline,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1. 100, 128, 52 degrees"
+3,1,30-20-10-40,baseline,4,40,False,0,4,5/13,4
+4,1,20-30-40-10,baseline,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,1,20-30-40-10,baseline,1,20,True,20,22,22 (seeds),"1. 22
+2. 4
+3. 991
+4. 34"
+6,1,10-30-20-40,baseline,1,10,False,0,13,182 (sparrows),"1. 13
+2. 13
+3. 7
+4. 9"
+7,1,10-20-40-30,baseline,1,10,False,0,18,53 (minutes),1. payton will have 2:18 between finishing her bike ride and eating dinner.
+8,1,40-20-10-30,baseline,1,40,False,0,24,48 (dollars),1. vanessa spent $24 on flowers.
+9,1,30-20-40-10,baseline,1,30,False,0,10,8 (children),1. 10 children were there in the classroom in the end.
+10,1,30-10-20-40,baseline,4,40,True,40,4,4 (bottle caps),4
+11,1,30-20-40-10,baseline,3,40,True,40,22,22 (pigs),3. 22
+12,1,20-40-10-30,baseline,2,40,False,0,2,They are equal,2
+13,1,10-40-20-30,baseline,2,40,False,0,42,14 (tickets),"2
+42"
+14,1,10-30-20-40,baseline,2,30,False,0,90,36 (degrees); 36 (degrees); 108 (degrees),"2
+the angles are 45 degrees, 45 degrees, and 90 degrees."
+15,1,10-30-40-20,baseline,1,10,False,0,10,9 (teams),1. 10 teams
+16,1,30-40-20-10,baseline,2,40,False,0,117,9:4,"2
+36:117"
+17,1,10-20-40-30,baseline,1,10,False,0,7,6 (books),1. 7
+18,1,30-40-20-10,baseline,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum."
+19,1,30-40-20-10,baseline,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,1,20-10-30-40,baseline,1,20,True,20,5,5 (dollars),1. 5 dollars
+21,1,20-10-40-30,baseline,3,40,False,0,20,2 (trees),"3
+20"
+22,1,10-20-30-40,baseline,1,10,True,10,93,93 (butterflies),1. 93
+23,1,40-20-30-10,baseline,1,40,True,40,7,7 (flower arrangements),1. 7
+24,1,20-30-10-40,baseline,4,40,False,0,4,14 (times),4
+25,1,20-30-10-40,baseline,1,20,False,0,24,6 (years old); 12 (years old),1. 12 and 24
+26,1,40-10-30-20,baseline,1,40,False,0,11,7 (days),1. 11 days
+27,1,40-10-30-20,baseline,1,40,False,0,50,53 (cents),1. todd spent 50 cents altogether.
+28,1,20-30-10-40,baseline,1,20,False,0,112,168 (seconds),1. 112 seconds
+29,1,30-10-40-20,baseline,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,1,10-40-20-30,baseline,2,40,False,0,2,Yardley,2
+31,1,20-10-40-30,baseline,1,20,False,0,12,18,1. 12
+32,1,40-30-20-10,baseline,1,40,False,0,3,11; 12; 13,"1. 1, 2, 3"
+33,1,40-20-10-30,baseline,1,40,True,40,11,11 (trees),"1. 11
+2. 40
+3. 30
+4. 6"
+34,1,40-10-20-30,baseline,1,40,False,0,760,11760 (snails),"1. 11,760"
+35,1,40-30-10-20,baseline,1,40,True,40,13,13 (packages),1. 13 packages
+36,1,10-30-20-40,baseline,1,10,False,0,1,They are equal,1. rina has a lower ratio of paper clips to rubber bands.
+37,1,20-40-10-30,baseline,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11,526
+4. 100 cents"
+38,1,30-10-20-40,baseline,4,40,False,0,4,51 (centimeters),4
+39,1,30-10-20-40,baseline,4,40,False,0,4,3,4
+40,1,40-30-20-10,baseline,1,40,False,0,1,Ivan,1. ivan had a higher ratio of time spent watching tv to time spent reading.
+41,1,30-20-40-10,baseline,3,40,False,0,3,93 (video game consoles),3
+42,1,30-40-10-20,baseline,1,30,False,0,1,11:9,"1. 22 students are going on a field trip and 18 students are staying at school. what is the ratio of the number of students who are going on the field trip to the number of students who are staying at school? (30 points)
+
+the ratio of the number of students going on the field trip to the number of students staying at school is 22:1"
+43,1,40-10-20-30,baseline,1,40,False,0,40,10 (m),"1. 40 points
+2. 250 people
+3. 199 boxes
+4. 14 groups"
+44,1,10-40-30-20,baseline,2,40,False,0,2,12 (large groups),2
+45,1,40-30-10-20,baseline,1,40,True,40,30,30 (dollars),"1
+5 * 6 = 30 dollars"
+46,1,20-30-10-40,baseline,4,40,False,0,4,44 (kids),4
+47,1,20-10-40-30,baseline,3,40,False,0,3,65 (points),3
+48,1,20-40-10-30,baseline,1,20,True,20,2327,2327 (cookies),1. 2327
+49,1,20-10-30-40,baseline,3,30,False,0,3,32 (pet fish),3
+50,1,40-30-10-20,baseline,1,40,True,40,59,59 (inches),"1. 59 inches
+2. 23 buttons
+3. 2,200 cm
+4. 60 cents"
+51,1,10-30-20-40,baseline,1,10,True,10,54,54 (potatoes),"1. 54
+2. 54
+3. 3:5
+4. 7"
+52,1,30-40-10-20,baseline,2,40,True,40,8,8 (boxes),"2
+victor bought 8 boxes."
+53,1,30-20-10-40,baseline,4,40,False,0,4,9 (servings),4
+54,1,40-10-20-30,baseline,1,40,False,0,50,47 (cards),1. fred started with 50 cards.
+55,1,40-30-10-20,baseline,1,40,False,0,65,45 (candies),1. 65
+56,1,20-40-10-30,baseline,1,20,False,0,12,17 (units); 9 (units),1. the dimensions of the rectangle are 10 units by 12 units.
+57,1,10-20-30-40,baseline,4,40,True,40,16,16 (notecards),4. 16
+58,1,10-40-30-20,baseline,2,40,False,0,60,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 30 degrees, 90 degrees, and 60 degrees."
+59,1,20-10-30-40,baseline,1,20,False,0,26,32,1. 26
+60,1,40-20-30-10,baseline,1,40,False,0,1,No,"1. yes, kyle has enough money to buy the book."
+61,1,10-20-30-40,baseline,1,10,True,10,9,9 (chairs),"1. 9
+2. 23
+3. 47
+4. 1212"
+62,1,30-10-40-20,baseline,3,40,True,40,127,127 (stickers),"3. cindy has 105 stickers. she uses 23 stickers. she buys 45 more stickers. how many stickers does cindy have now? (40 points)
+
+cindy now has 105 - 23 + 45 = 127 stickers."
+63,1,30-40-10-20,baseline,1,30,False,0,50,35 (points),1. 50
+64,1,40-10-30-20,baseline,1,40,True,40,28,28 (cards),1. nell gave jeff 28 cards.
+65,1,10-20-40-30,baseline,1,10,False,0,9,14 (beats),1. 9
+66,1,40-10-30-20,baseline,1,40,False,0,320,124 (square meters),1. 320 square meters
+67,1,20-40-30-10,baseline,2,40,False,0,51,61 (dollars),"2
+lena had $51 at first."
+68,1,40-20-10-30,baseline,1,40,True,40,18,18 (grapes),"1. 18
+2. 10
+3. 28
+4. 15"
+69,1,10-20-30-40,baseline,3,30,False,0,19,28 (ft); 21 (ft),"3
+length: 26 ft
+width: 19 ft"
+70,1,40-20-10-30,baseline,2,20,False,0,2,82,2
+71,1,20-30-40-10,baseline,2,30,True,30,13,13 (people),"2
+there are now 13 people on the bus."
+72,1,40-10-20-30,baseline,1,40,False,0,9,8 (large trucks),1. 9 large trucks should be used.
+73,1,10-40-30-20,baseline,2,40,False,0,65,64 (dollars),"2
+difference: 65"
+74,1,30-20-40-10,baseline,3,40,False,0,3,14 (shelves),3
+75,1,10-20-40-30,baseline,3,40,False,0,56,52,"3
+the number is 56."
+76,1,40-30-20-10,baseline,1,40,True,40,76,76 (packs of cookies),"1
+76"
+77,1,40-30-20-10,baseline,1,40,True,40,288,288 (t-shirts),1. 288
+78,1,30-40-10-20,baseline,1,30,False,0,12,13 (days),1. 12 days
+79,1,10-40-30-20,baseline,2,40,False,0,2,The first rest stop,"2
+lester counted a higher ratio of cars to trucks at the first rest stop."
+80,1,10-30-40-20,baseline,1,10,False,0,19,38 (liters),1. the smallest amount of each paint color the store must have sold is 2 liters of yellow paint and 19 liters of blue paint.
+81,1,30-10-40-20,baseline,1,30,False,0,24,45,1. 24
+82,1,40-20-30-10,baseline,1,40,True,40,48,48 (books),1. 4 books/day * 2 days/week * 6 weeks = 48 books
+83,1,10-40-20-30,baseline,2,40,False,0,401,7 (flowers),"2
+401"
+84,1,20-10-30-40,baseline,1,20,True,20,63,63 (pen holders),1. 63
+85,1,10-30-40-20,baseline,1,10,True,10,3,3 (pieces of fruit),"1. 3
+2. 48
+3. 3:2
+4. 20"
+86,1,20-40-30-10,baseline,2,40,False,0,98.5,100.1 (cones),"2
+mean: 98.5"
+87,1,40-20-30-10,baseline,1,40,False,0,12,24 (sandwiches),1. 12 sandwiches
+88,1,30-20-10-40,baseline,1,30,True,30,862,862 (workers),1. 862
+89,1,30-10-40-20,baseline,3,40,True,40,10,6:10,"3
+6:10"
+90,1,30-40-20-10,baseline,2,40,True,40,95,95 (species of insects),"2
+penny captured 95 species of insects."
+91,1,10-40-20-30,baseline,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes."
+92,1,20-10-40-30,baseline,3,40,True,40,12,12 (chairs),"3
+12"
+93,1,20-40-30-10,baseline,1,20,True,20,74,74 (songs),1. 74 songs
+94,1,10-30-40-20,baseline,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,1,30-20-10-40,baseline,4,40,True,40,45,45 (seeds),4. 45 seeds per day
+96,1,20-30-40-10,baseline,2,30,False,0,2,48 (students),2
+1,2,30-10-20-40,baseline,4,40,True,40,26,26 (snakes),4. 26
+2,2,20-40-30-10,baseline,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1. 100, 128, 52 degrees"
+3,2,30-20-10-40,baseline,4,40,False,0,4,5/13,4
+4,2,20-30-40-10,baseline,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,2,20-30-40-10,baseline,1,20,True,20,22,22 (seeds),"1. 22
+2. 4
+3. 991
+4. 34"
+6,2,10-30-20-40,baseline,1,10,False,0,13,182 (sparrows),"1. 13
+2. 13
+3. 7
+4. 9"
+7,2,10-20-40-30,baseline,1,10,False,0,18,53 (minutes),1. 2:18 p.m.
+8,2,40-20-10-30,baseline,1,40,False,0,24,48 (dollars),1. vanessa spent $24 on flowers.
+9,2,30-20-40-10,baseline,1,30,False,0,10,8 (children),1. 10 children were there in the classroom in the end.
+10,2,30-10-20-40,baseline,4,40,True,40,4,4 (bottle caps),4
+11,2,30-20-40-10,baseline,3,40,False,0,42,22 (pigs),"3
+42"
+12,2,20-40-10-30,baseline,2,40,False,0,2,They are equal,2
+13,2,10-40-20-30,baseline,1,10,False,0,26,262 (dollars),1. $800.00 - $300.00 - $238.00 = $262.00
+14,2,10-30-20-40,baseline,2,30,False,0,90,36 (degrees); 36 (degrees); 108 (degrees),"2
+the angles are 45 degrees, 45 degrees, and 90 degrees."
+15,2,10-30-40-20,baseline,1,10,True,10,9,9 (teams),1. 172 students can form 9 teams.
+16,2,30-40-20-10,baseline,2,40,False,0,117,9:4,"2
+36:117"
+17,2,10-20-40-30,baseline,1,10,False,0,7,6 (books),1. 7
+18,2,30-40-20-10,baseline,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum."
+19,2,30-40-20-10,baseline,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,2,20-10-30-40,baseline,1,20,True,20,5,5 (dollars),1. 5 dollars
+21,2,20-10-40-30,baseline,3,40,False,0,20,2 (trees),"3
+20"
+22,2,10-20-30-40,baseline,1,10,True,10,93,93 (butterflies),1. 93
+23,2,40-20-30-10,baseline,1,40,True,40,7,7 (flower arrangements),1. 7
+24,2,20-30-10-40,baseline,4,40,False,0,4,14 (times),4
+25,2,20-30-10-40,baseline,1,20,False,0,24,6 (years old); 12 (years old),1. 12 and 24
+26,2,40-10-30-20,baseline,1,40,False,0,11,7 (days),1. 11 days
+27,2,40-10-30-20,baseline,1,40,False,0,50,53 (cents),1. todd spent 50 cents altogether.
+28,2,20-30-10-40,baseline,1,20,False,0,120,168 (seconds),1. 120 seconds
+29,2,30-10-40-20,baseline,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,2,10-40-20-30,baseline,2,40,False,0,2,Yardley,2
+31,2,20-10-40-30,baseline,1,20,False,0,108,18,1. 108
+32,2,40-30-20-10,baseline,1,40,True,40,13,11; 12; 13,"1. the three consecutive positive integers are 11, 12, and 13."
+33,2,40-20-10-30,baseline,1,40,True,40,11,11 (trees),"1. 11
+2. 40
+3. 30
+4. 6"
+34,2,40-10-20-30,baseline,1,40,False,0,760,11760 (snails),"1. 11,760"
+35,2,40-30-10-20,baseline,1,40,True,40,13,13 (packages),1. 13 packages
+36,2,10-30-20-40,baseline,1,10,False,0,1,They are equal,1. rina has a lower ratio of paper clips to rubber bands.
+37,2,20-40-10-30,baseline,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11,526
+4. 100 cents"
+38,2,30-10-20-40,baseline,4,40,False,0,4,51 (centimeters),4
+39,2,30-10-20-40,baseline,4,40,False,0,4,3,4
+40,2,40-30-20-10,baseline,1,40,False,0,1,Ivan,1. ivan had a higher ratio of time spent watching tv to time spent reading.
+41,2,30-20-40-10,baseline,3,40,False,0,3,93 (video game consoles),3
+42,2,30-40-10-20,baseline,1,30,False,0,1,11:9,"1. 22 students are going on a field trip and 18 students are staying at school. what is the ratio of the number of students who are going on the field trip to the number of students who are staying at school? (30 points)
+
+the ratio of the number of students going on the field trip to the number of students staying at school is 22:1"
+43,2,40-10-20-30,baseline,1,40,False,0,40,10 (m),"1. 40 points
+2. 10 points
+3. 20 points
+4. 30 points"
+44,2,10-40-30-20,baseline,2,40,False,0,2,12 (large groups),2
+45,2,40-30-10-20,baseline,1,40,True,40,30,30 (dollars),"1
+5 * 6 = 30 dollars"
+46,2,20-30-10-40,baseline,4,40,False,0,4,44 (kids),4
+47,2,20-10-40-30,baseline,1,20,False,0,100,240 (tiles),1. mrs. garvey will need 100 tiles to cover the floor of her bathroom.
+48,2,20-40-10-30,baseline,1,20,True,20,2327,2327 (cookies),"1. 2327
+2. 14
+3. 100 km/h, 80 km/h
+4. 1"
+49,2,20-10-30-40,baseline,3,30,False,0,3,32 (pet fish),3
+50,2,40-30-10-20,baseline,1,40,True,40,59,59 (inches),"1. 59 inches
+2. 23
+3. 1,600 cm
+4. 65 cents"
+51,2,10-30-20-40,baseline,1,10,True,10,54,54 (potatoes),"1. 54
+2. 54
+3. 3:5
+4. 7"
+52,2,30-40-10-20,baseline,2,40,True,40,8,8 (boxes),"2
+victor bought 8 boxes."
+53,2,30-20-10-40,baseline,4,40,False,0,4,9 (servings),4
+54,2,40-10-20-30,baseline,1,40,False,0,60,47 (cards),1. fred started with 60 cards.
+55,2,40-30-10-20,baseline,1,40,False,0,65,45 (candies),1. 65
+56,2,20-40-10-30,baseline,1,20,False,0,12,17 (units); 9 (units),1. the dimensions of the rectangle are 10 units by 12 units.
+57,2,10-20-30-40,baseline,4,40,True,40,16,16 (notecards),4. 16
+58,2,10-40-30-20,baseline,2,40,False,0,60,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 30 degrees, 90 degrees, and 60 degrees."
+59,2,20-10-30-40,baseline,1,20,False,0,26,32,1. 26
+60,2,40-20-30-10,baseline,1,40,False,0,1,No,"1. yes, kyle has enough money to buy the book."
+61,2,10-20-30-40,baseline,2,20,True,20,23,23 (plain pancakes),"2
+there are 23 pancakes without blueberries or bananas."
+62,2,30-10-40-20,baseline,3,40,True,40,127,127 (stickers),"3. cindy has 105 stickers. she uses 23 stickers. she buys 45 more stickers. how many stickers does cindy have now? (40 points)
+
+cindy now has 105 - 23 + 45 = 127 stickers."
+63,2,30-40-10-20,baseline,1,30,False,0,50,35 (points),1. 50
+64,2,40-10-30-20,baseline,1,40,True,40,28,28 (cards),1. nell gave jeff 28 cards.
+65,2,10-20-40-30,baseline,1,10,False,0,9,14 (beats),1. 9
+66,2,40-10-30-20,baseline,1,40,False,0,320,124 (square meters),1. 320 square meters
+67,2,20-40-30-10,baseline,2,40,False,0,51,61 (dollars),"2
+lena had $51 at first."
+68,2,40-20-10-30,baseline,1,40,False,0,36,18 (grapes),1. 36
+69,2,10-20-30-40,baseline,3,30,False,0,19,28 (ft); 21 (ft),"3
+length: 26 ft
+width: 19 ft"
+70,2,40-20-10-30,baseline,2,20,False,0,2,82,2
+71,2,20-30-40-10,baseline,2,30,True,30,13,13 (people),"2
+there are now 13 people on the bus."
+72,2,40-10-20-30,baseline,1,40,False,0,9,8 (large trucks),1. 9 large trucks
+73,2,10-40-30-20,baseline,2,40,False,0,65,64 (dollars),"2
+difference: 65"
+74,2,30-20-40-10,baseline,3,40,False,0,3,14 (shelves),3
+75,2,10-20-40-30,baseline,3,40,False,0,56,52,"3
+the number is 56."
+76,2,40-30-20-10,baseline,1,40,True,40,76,76 (packs of cookies),1. 76
+77,2,40-30-20-10,baseline,1,40,True,40,288,288 (t-shirts),1. 288
+78,2,30-40-10-20,baseline,1,30,False,0,12,13 (days),1. 12 days
+79,2,10-40-30-20,baseline,2,40,False,0,2,The first rest stop,"2
+lester counted a higher ratio of cars to trucks at the first rest stop."
+80,2,10-30-40-20,baseline,1,10,False,0,4,38 (liters),1. 4 liters of each color
+81,2,30-10-40-20,baseline,1,30,False,0,27,45,1. 27
+82,2,40-20-30-10,baseline,1,40,True,40,48,48 (books),1. 4 books/day * 2 days/week * 6 weeks = 48 books
+83,2,10-40-20-30,baseline,2,40,False,0,40,7 (flowers),"2
+40"
+84,2,20-10-30-40,baseline,1,20,True,20,63,63 (pen holders),1. 63
+85,2,10-30-40-20,baseline,1,10,True,10,3,3 (pieces of fruit),"1. 3
+2. 48
+3. 3:2
+4. 20"
+86,2,20-40-30-10,baseline,2,40,False,0,98.5,100.1 (cones),"2
+mean: 98.5"
+87,2,40-20-30-10,baseline,1,40,False,0,12,24 (sandwiches),1. 12 sandwiches
+88,2,30-20-10-40,baseline,1,30,True,30,862,862 (workers),1. 862
+89,2,30-10-40-20,baseline,3,40,True,40,10,6:10,"3
+6:10"
+90,2,30-40-20-10,baseline,2,40,True,40,95,95 (species of insects),"2
+penny captured 95 species of insects."
+91,2,10-40-20-30,baseline,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes."
+92,2,20-10-40-30,baseline,3,40,True,40,12,12 (chairs),3. 12
+93,2,20-40-30-10,baseline,1,20,True,20,74,74 (songs),1. 74 songs
+94,2,10-30-40-20,baseline,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,2,30-20-10-40,baseline,4,40,True,40,45,45 (seeds),4. 45 seeds per day
+96,2,20-30-40-10,baseline,2,30,False,0,2,48 (students),2
+1,3,30-10-20-40,baseline,4,40,True,40,26,26 (snakes),4. 26
+2,3,20-40-30-10,baseline,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1. 100, 128, 52 degrees"
+3,3,30-20-10-40,baseline,4,40,False,0,4,5/13,4
+4,3,20-30-40-10,baseline,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,3,20-30-40-10,baseline,1,20,True,20,22,22 (seeds),"1. 22
+2. 4
+3. 991
+4. 34"
+6,3,10-30-20-40,baseline,1,10,False,0,13,182 (sparrows),"1. 13
+2. 13
+3. 7
+4. 9"
+7,3,10-20-40-30,baseline,1,10,False,0,18,53 (minutes),1. 2:18 p.m.
+8,3,40-20-10-30,baseline,1,40,False,0,24,48 (dollars),1. vanessa spent $24 on flowers.
+9,3,30-20-40-10,baseline,1,30,False,0,10,8 (children),1. 10 children were there in the classroom in the end.
+10,3,30-10-20-40,baseline,4,40,True,40,4,4 (bottle caps),4
+11,3,30-20-40-10,baseline,3,40,True,40,22,22 (pigs),3. 22
+12,3,20-40-10-30,baseline,2,40,False,0,2,They are equal,2
+13,3,10-40-20-30,baseline,1,10,False,0,26,262 (dollars),1. $800.00 - $300.00 - $238.00 = $262.00
+14,3,10-30-20-40,baseline,2,30,False,0,90,36 (degrees); 36 (degrees); 108 (degrees),"2
+the angles are 30 degrees, 30 degrees, and 90 degrees."
+15,3,10-30-40-20,baseline,1,10,True,10,9,9 (teams),1. 172 students can form 9 teams.
+16,3,30-40-20-10,baseline,2,40,False,0,117,9:4,"2
+36:117"
+17,3,10-20-40-30,baseline,1,10,False,0,7,6 (books),1. 7
+18,3,30-40-20-10,baseline,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum."
+19,3,30-40-20-10,baseline,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,3,20-10-30-40,baseline,3,30,False,0,5.84,2.92 (dollars),"3
+the cost for 4 bags of ice would be $1.46 x 4 = $5.84."
+21,3,20-10-40-30,baseline,3,40,False,0,20,2 (trees),"3
+20"
+22,3,10-20-30-40,baseline,1,10,True,10,93,93 (butterflies),1. 93
+23,3,40-20-30-10,baseline,1,40,True,40,7,7 (flower arrangements),1. 7
+24,3,20-30-10-40,baseline,4,40,False,0,4,14 (times),4
+25,3,20-30-10-40,baseline,1,20,False,0,24,6 (years old); 12 (years old),1. 12 and 24
+26,3,40-10-30-20,baseline,1,40,False,0,11,7 (days),1. 11 days
+27,3,40-10-30-20,baseline,1,40,False,0,50,53 (cents),1. todd spent 50 cents altogether.
+28,3,20-30-10-40,baseline,1,20,False,0,112,168 (seconds),1. 112 seconds
+29,3,30-10-40-20,baseline,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,3,10-40-20-30,baseline,2,40,False,0,2,Yardley,2
+31,3,20-10-40-30,baseline,1,20,False,0,108,18,1. 108
+32,3,40-30-20-10,baseline,1,40,True,40,13,11; 12; 13,"1. the three consecutive positive integers are 11, 12, and 13."
+33,3,40-20-10-30,baseline,1,40,True,40,11,11 (trees),"1. 11
+2. 40
+3. 30
+4. 6"
+34,3,40-10-20-30,baseline,1,40,False,0,760,11760 (snails),"1. 11,760"
+35,3,40-30-10-20,baseline,1,40,True,40,13,13 (packages),1. 13 packages
+36,3,10-30-20-40,baseline,1,10,False,0,1,They are equal,1. rina has a lower ratio of paper clips to rubber bands.
+37,3,20-40-10-30,baseline,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11,526
+4. 100 cents"
+38,3,30-10-20-40,baseline,4,40,False,0,4,51 (centimeters),4
+39,3,30-10-20-40,baseline,4,40,False,0,4,3,4
+40,3,40-30-20-10,baseline,1,40,False,0,1,Ivan,1. ivan had a higher ratio of time spent watching tv to time spent reading.
+41,3,30-20-40-10,baseline,3,40,False,0,3,93 (video game consoles),3
+42,3,30-40-10-20,baseline,1,30,False,0,1,11:9,"1. 22 students are going on a field trip and 18 students are staying at school. what is the ratio of the number of students who are going on the field trip to the number of students who are staying at school? (30 points)
+
+the ratio of the number of students going on the field trip to the number of students staying at school is 22:1"
+43,3,40-10-20-30,baseline,1,40,False,0,40,10 (m),"1. 40 points
+2. 250 people
+3. 199 boxes
+4. 14 groups"
+44,3,10-40-30-20,baseline,2,40,False,0,2,12 (large groups),2
+45,3,40-30-10-20,baseline,1,40,True,40,30,30 (dollars),"1
+5 * 6 = 30 dollars"
+46,3,20-30-10-40,baseline,4,40,False,0,4,44 (kids),4
+47,3,20-10-40-30,baseline,3,40,False,0,3,65 (points),3
+48,3,20-40-10-30,baseline,1,20,True,20,2327,2327 (cookies),"1. 2327
+2. 24
+3. train: 100 km/h, car: 120 km/h
+4. 19"
+49,3,20-10-30-40,baseline,3,30,False,0,3,32 (pet fish),3
+50,3,40-30-10-20,baseline,1,40,True,40,59,59 (inches),"1. 59 inches
+2. 23
+3. 1,600 cm
+4. 65 cents"
+51,3,10-30-20-40,baseline,1,10,True,10,54,54 (potatoes),"1. 54
+2. 54
+3. 3:5
+4. 7"
+52,3,30-40-10-20,baseline,2,40,True,40,8,8 (boxes),"2
+victor bought 8 boxes."
+53,3,30-20-10-40,baseline,4,40,False,0,4,9 (servings),4
+54,3,40-10-20-30,baseline,1,40,False,0,60,47 (cards),1. fred started with 60 cards.
+55,3,40-30-10-20,baseline,1,40,False,0,65,45 (candies),1. 65
+56,3,20-40-10-30,baseline,1,20,False,0,12,17 (units); 9 (units),1. the dimensions of the rectangle are 10 units by 12 units.
+57,3,10-20-30-40,baseline,4,40,True,40,16,16 (notecards),4. 16
+58,3,10-40-30-20,baseline,2,40,False,0,60,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 30 degrees, 90 degrees, and 60 degrees."
+59,3,20-10-30-40,baseline,1,20,False,0,26,32,1. 26
+60,3,40-20-30-10,baseline,1,40,False,0,1,No,"1. yes, kyle has enough money to buy the book."
+61,3,10-20-30-40,baseline,1,10,True,10,9,9 (chairs),"1. 9
+2. 23
+3. 47
+4. 1212"
+62,3,30-10-40-20,baseline,3,40,True,40,127,127 (stickers),"3. cindy has 105 stickers. she uses 23 stickers. she buys 45 more stickers. how many stickers does cindy have now? (40 points)
+
+cindy now has 105 - 23 + 45 = 127 stickers."
+63,3,30-40-10-20,baseline,1,30,False,0,50,35 (points),1. 50
+64,3,40-10-30-20,baseline,1,40,True,40,28,28 (cards),1. nell gave jeff 28 cards.
+65,3,10-20-40-30,baseline,1,10,False,0,9,14 (beats),1. 9
+66,3,40-10-30-20,baseline,1,40,False,0,320,124 (square meters),1. 320 square meters
+67,3,20-40-30-10,baseline,2,40,False,0,57,61 (dollars),"2
+lena had $57 at first."
+68,3,40-20-10-30,baseline,1,40,True,40,18,18 (grapes),"1. 18
+2. 14
+3. 28
+4. 15"
+69,3,10-20-30-40,baseline,3,30,False,0,19,28 (ft); 21 (ft),"3
+length: 26 ft
+width: 19 ft"
+70,3,40-20-10-30,baseline,2,20,False,0,2,82,2
+71,3,20-30-40-10,baseline,2,30,True,30,13,13 (people),"2
+13"
+72,3,40-10-20-30,baseline,1,40,False,0,9,8 (large trucks),1. 9 large trucks
+73,3,10-40-30-20,baseline,2,40,False,0,65,64 (dollars),"2
+difference: 65"
+74,3,30-20-40-10,baseline,3,40,False,0,3,14 (shelves),3
+75,3,10-20-40-30,baseline,3,40,False,0,56,52,"3
+the number is 56."
+76,3,40-30-20-10,baseline,1,40,True,40,76,76 (packs of cookies),"1
+76"
+77,3,40-30-20-10,baseline,1,40,True,40,288,288 (t-shirts),1. 288
+78,3,30-40-10-20,baseline,1,30,False,0,12,13 (days),1. 12 days
+79,3,10-40-30-20,baseline,2,40,False,0,2,The first rest stop,"2
+lester counted a higher ratio of cars to trucks at the first rest stop."
+80,3,10-30-40-20,baseline,1,10,False,0,19,38 (liters),1. the smallest amount of each paint color the store must have sold is 2 liters of yellow paint and 19 liters of blue paint.
+81,3,30-10-40-20,baseline,1,30,False,0,24,45,1. 24
+82,3,40-20-30-10,baseline,1,40,True,40,48,48 (books),1. 4 books/day * 2 days/week * 6 weeks = 48 books
+83,3,10-40-20-30,baseline,2,40,False,0,401,7 (flowers),"2
+401"
+84,3,20-10-30-40,baseline,1,20,True,20,63,63 (pen holders),1. 63
+85,3,10-30-40-20,baseline,1,10,True,10,3,3 (pieces of fruit),"1. 3
+2. 48
+3. 3:2
+4. 20"
+86,3,20-40-30-10,baseline,2,40,False,0,98.5,100.1 (cones),"2
+mean: 98.5"
+87,3,40-20-30-10,baseline,1,40,False,0,12,24 (sandwiches),1. 12 sandwiches
+88,3,30-20-10-40,baseline,1,30,True,30,862,862 (workers),1. 862
+89,3,30-10-40-20,baseline,3,40,True,40,10,6:10,"3
+6:10"
+90,3,30-40-20-10,baseline,2,40,True,40,95,95 (species of insects),"2
+penny captured 95 species of insects."
+91,3,10-40-20-30,baseline,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes."
+92,3,20-10-40-30,baseline,3,40,True,40,12,12 (chairs),3. 12
+93,3,20-40-30-10,baseline,1,20,True,20,74,74 (songs),1. 74 songs
+94,3,10-30-40-20,baseline,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,3,30-20-10-40,baseline,4,40,True,40,45,45 (seeds),4. 45 seeds per day
+96,3,20-30-40-10,baseline,2,30,False,0,2,48 (students),2
+1,1,30-10-20-40,model_A,1,30,True,30,861,861 (workers),1. 861
+2,1,20-40-30-10,model_A,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1
+the angles of the triangle are 32°, 96°, 52°."
+3,1,30-20-10-40,model_A,1,30,False,0,52,76 (centimeters),"1
+the perimeter of the rectangle is 52 centimeters."
+4,1,20-30-40-10,model_A,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,1,20-30-40-10,model_A,1,20,True,20,22,22 (seeds),"1. 22
+
+2. 4
+
+3. 991
+
+4. 34"
+6,1,10-30-20-40,model_A,2,30,False,0,73,13 (repetitions),"2
+73"
+7,1,10-20-40-30,model_A,2,20,True,20,40,40 (feet),"2
+the kitchen's perimeter is 40 feet."
+8,1,40-20-10-30,model_A,1,40,False,0,24,48 (dollars),"1
+vanessa spent $24 on flowers."
+9,1,30-20-40-10,model_A,1,30,False,0,12,8 (children),"1. 12
+
+2. 2
+
+3. 1
+
+4. 3"
+10,1,30-10-20-40,model_A,1,30,True,30,1,1 (piece),"1
+the compartment that isn't full will have 1 piece of luggage."
+11,1,30-20-40-10,model_A,3,40,True,40,22,22 (pigs),"3
+the number of pigs that came to join them is 86 - 64 = 22."
+12,1,20-40-10-30,model_A,2,40,False,0,15,They are equal,"2
+
+the 15-year-olds have a lower ratio of black belts to brown belts."
+13,1,10-40-20-30,model_A,2,40,True,40,14,14 (tickets),"2
+the total number of tickets debby spent is 2 + 10 + 2 = 14 tickets."
+14,1,10-30-20-40,model_A,2,30,False,0,90,36 (degrees); 36 (degrees); 108 (degrees),"2
+the angles are 45°, 45°, 90°."
+15,1,10-30-40-20,model_A,1,10,True,10,9,9 (teams),"1. 9
+
+2. 18
+
+3. 24
+
+4. 73"
+16,1,30-40-20-10,model_A,2,40,False,0,1,9:4,"2
+the ratio of empty spaces to filled spaces is 12:1."
+17,1,10-20-40-30,model_A,1,10,False,0,7,6 (books),"1. 7
+
+2. 12
+
+3. 7
+
+4. 110"
+18,1,30-40-20-10,model_A,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum"
+19,1,30-40-20-10,model_A,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,1,20-10-30-40,model_A,1,20,True,20,5,5 (dollars),"1. 5
+
+2. 26
+
+3. 2.92
+
+4. 128"
+21,1,20-10-40-30,model_A,1,20,True,20,15,15 (balls),1. ellen has 15 balls.
+22,1,10-20-30-40,model_A,1,10,False,0,111,93 (butterflies),"1
+111"
+23,1,40-20-30-10,model_A,1,40,True,40,7,7 (flower arrangements),"1. 7
+
+2. 16
+
+3. 10
+
+4. 5"
+24,1,20-30-10-40,model_A,2,30,False,0,27,13 (pennies),"2
+mrs. hilt has 27 cents more than jacob."
+25,1,20-30-10-40,model_A,1,20,True,20,12,6 (years old); 12 (years old),"1
+the present ages of lewis and brown are 6 and 12 respectively."
+26,1,40-10-30-20,model_A,1,40,False,0,11,7 (days),1. 11 days
+27,1,40-10-30-20,model_A,1,40,True,40,53,53 (cents),"1
+todd spent 14 + 39 = 53 cents altogether."
+28,1,20-30-10-40,model_A,2,30,False,0,24,19 (pencils),"2
+paige has 24 pencils."
+29,1,30-10-40-20,model_A,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,1,10-40-20-30,model_A,2,40,False,0,2,Yardley,"2
+
+the restaurant critic gave a higher ratio of positive to negative reviews in richmond."
+31,1,20-10-40-30,model_A,1,20,True,20,18,18,"1
+the number is 18."
+32,1,40-30-20-10,model_A,1,40,True,40,13,11; 12; 13,"1
+the three consecutive positive integers are 11, 12, 13."
+33,1,40-20-10-30,model_A,1,40,False,0,16,11 (trees),"1.16
+2.40
+3.30
+4.6"
+34,1,40-10-20-30,model_A,1,40,False,0,11764,11760 (snails),1. 11764
+35,1,40-30-10-20,model_A,2,30,False,0,18,19 (years old); 16 (years old),"2
+anna is 15 years old, ben is 18 years old."
+36,1,10-30-20-40,model_A,2,30,True,30,9,9 (folders),"2
+tom can buy 9 folders."
+37,1,20-40-10-30,model_A,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11124
+4. 100 cents"
+38,1,30-10-20-40,model_A,1,30,True,30,1200,1200 (points),"1
+1200"
+39,1,30-10-20-40,model_A,1,30,True,30,7,7 (pounds),"1
+the difference between frank's candy before he gave nancy and what he gave to nancy is 7 pounds."
+40,1,40-30-20-10,model_A,1,40,False,0,200,Ivan,"1
+ivan spent 20/14 = 1.4286 hours watching tv to 1 hour reading. brenna spent 11/10 = 1.1 hours watching tv to 1 hour reading. ivan had a higher ratio of time spent watching tv to time spent reading.
+
+2
+jimmy's bed is 20 + 200"
+41,1,30-20-40-10,model_A,2,20,True,20,12,12 (inches),"2
+the height of the parallelogram is 12 inches."
+42,1,30-40-10-20,model_A,1,30,False,0,1.22222222222222222222222222222222222222222222222222222222222222222222,11:9,1. 22/18 = 1.22222222222222222222222222222222222222222222222222222222222222222222
+43,1,40-10-20-30,model_A,1,40,False,0,20,10 (m),"1. 20
+
+2. 250
+
+3. 199
+
+4. 14"
+44,1,10-40-30-20,model_A,2,40,False,0,2,12 (large groups),"2
+the least number of groups should be made."
+45,1,40-30-10-20,model_A,1,40,False,0,78,30 (dollars),"1
+5*6=30
+
+2
+x+3x=20
+4x=20
+x=5
+
+3
+300-149=151
+
+4
+the number 78
+
+the answer is 78"
+46,1,20-30-10-40,model_A,1,20,False,0,63,48 (students),"1. 63
+
+2. 450
+
+3. 3
+
+4. 44"
+47,1,20-10-40-30,model_A,1,20,False,0,120,240 (tiles),"1
+mrs. garvey needs 120 tiles."
+48,1,20-40-10-30,model_A,1,20,True,20,2327,2327 (cookies),"1. 2327
+
+2. 14
+
+3. 120 km/ hr
+
+4. 19"
+49,1,20-10-30-40,model_A,1,20,True,20,27,27 (stamps),1. simon received 27 stamps from his friends.
+50,1,40-30-10-20,model_A,1,40,True,40,59,59 (inches),"1
+the difference between ted's height and fred's height is 59 inches."
+51,1,10-30-20-40,model_A,1,10,True,10,54,54 (potatoes),"1. 54
+
+2. 52
+
+3. 3:5
+
+4. 7"
+52,1,30-40-10-20,model_A,2,40,False,0,24,8 (boxes),"2
+24"
+53,1,30-20-10-40,model_A,2,20,False,0,18,12 (seashells),"2
+the difference is 18 seashells."
+54,1,40-10-20-30,model_A,1,40,False,0,52,47 (cards),"1. 52
+
+2. 16
+
+3. 24 december 2014, 11:55 pm
+
+4. 160"
+55,1,40-30-10-20,model_A,1,40,True,40,45,45 (candies),"1
+the total number of candies sam got is 10 + 15 + 20 = 45 candies."
+56,1,20-40-10-30,model_A,1,20,False,0,11,17 (units); 9 (units),"1. the dimensions of the rectangle are 12 units by 11 units.
+
+2. buddy met 123 third graders.
+
+3. gavin has 17 green shirts.
+
+4. alvin has 64 marbles."
+57,1,10-20-30-40,model_A,2,20,False,0,120,Jesse's class,"2
+the class with a higher ratio of blue-eyed to brown-eyed students is jesse's class. the ratio is 16/12 = 133.33% compared to kimi's class 18/15 = 120%."
+58,1,10-40-30-20,model_A,2,40,False,0,36,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 36°, 108°, 36°."
+59,1,20-10-30-40,model_A,1,20,False,0,26,32,"1
+the number is 26."
+60,1,40-20-30-10,model_A,1,40,False,0,11,No,"1. kyle does not have enough money. he needs 11 cents more.
+
+2. there were 31 fourth graders.
+
+3. 21 people will go in each car.
+
+4. nick is 5 years old, kane is 6 years old."
+61,1,10-20-30-40,model_A,1,10,True,10,9,9 (chairs),"1. 9
+
+2. 23
+
+3. 47
+
+4. 1212"
+62,1,30-10-40-20,model_A,3,40,False,0,153,127 (stickers),"3
+cindy has 153 stickers now."
+63,1,30-40-10-20,model_A,1,30,False,0,40,35 (points),"1
+wendy's score = 5 * (4 + 3) = 5 * 7 = 35 points
+
+2
+number of groups = 16 / 2 = 8
+
+3
+molly's pen perimeter = 2 * (12 + 8) = 2 * 20 = 40 meters
+ted's pen perimeter"
+64,1,40-10-30-20,model_A,1,40,False,0,278,28 (cards),"1
+278"
+65,1,10-20-40-30,model_A,1,10,False,0,112,14 (beats),"1
+the answer is 112."
+66,1,40-10-30-20,model_A,1,40,False,0,112,124 (square meters),"1. 112
+
+2. 74
+
+3. 38
+
+4. 46"
+67,1,20-40-30-10,model_A,2,40,False,0,25,61 (dollars),"2
+lena had $25 initially."
+68,1,40-20-10-30,model_A,1,40,False,0,36,18 (grapes),"1. 36
+
+2. 12
+
+3. 28
+
+4. 15"
+69,1,10-20-30-40,model_A,1,10,True,10,25,25 (sea creatures),"1. 34 + 21 + 29 = 84
+84 - 59 = 25
+
+harry lost 25 sea creatures."
+70,1,40-20-10-30,model_A,2,20,False,0,26,82,"2
+
+the original number is 26."
+71,1,20-30-40-10,model_A,2,30,True,30,13,13 (people),"2
+there are 13 people on the bus now."
+72,1,40-10-20-30,model_A,1,40,False,0,78,8 (large trucks),"1
+134
+
+2
+15
+
+3
+1
+
+4
+78"
+73,1,10-40-30-20,model_A,2,40,True,40,64,64 (dollars),"2
+the difference between the number of dollars paul spent and has now is $64."
+74,1,30-20-40-10,model_A,3,40,True,40,14,14 (shelves),"3
+the number of shelves filled will be 14."
+75,1,10-20-40-30,model_A,3,40,False,0,58,52,"3
+the number is 58."
+76,1,40-30-20-10,model_A,1,40,True,40,76,76 (packs of cookies),"1
+the total number of packs sold = 47 + 29 = 76"
+77,1,40-30-20-10,model_A,1,40,True,40,288,288 (t-shirts),"1. 288
+2. 26
+3. women's track team
+4. 43"
+78,1,30-40-10-20,model_A,1,30,False,0,12,13 (days),"1
+519 / 42 = 12.31
+12 days"
+79,1,10-40-30-20,model_A,2,40,False,0,1.0625,The first rest stop,"2
+
+the ratio of cars to trucks is 20/18 = 1.1111111111111112
+
+the ratio of cars to trucks is 17/16 = 1.0625
+
+thereforelester counted a higher ratio of cars to trucks at the first rest stop."
+80,1,10-30-40-20,model_A,1,10,False,0,22,38 (liters),"1. 22 liters
+
+2. 8
+
+3. 4
+
+4. 3:4"
+81,1,30-10-40-20,model_A,1,30,False,0,27,45,"1. 27
+
+2. 11:10
+
+3. 15
+
+4. 10 hours uphill, 5 hours downhill"
+82,1,40-20-30-10,model_A,1,40,False,0,120,48 (books),"1. 120
+
+2. 65
+
+3. 111
+
+4. 91"
+83,1,10-40-20-30,model_A,1,10,True,10,14,14 (pizzas),"1. 14
+
+2. 4
+
+3. 41
+
+4. 30"
+84,1,20-10-30-40,model_A,1,20,False,0,59,63 (pen holders),"1
+59"
+85,1,10-30-40-20,model_A,1,10,True,10,3,3 (pieces of fruit),"1. 3
+
+2. 48
+
+3. 16
+
+4. 20"
+86,1,20-40-30-10,model_A,2,40,False,0,99.86,100.1 (cones),"2
+the mean number of chocolate cones sold is 99.86."
+87,1,40-20-30-10,model_A,1,40,False,0,12,24 (sandwiches),"1. 12
+
+2. 24
+
+3. 3
+
+4. 23"
+88,1,30-20-10-40,model_A,1,30,False,0,11,862 (workers),"1
+318 + 544 = 862
+
+2
+38 - 4 + 15 = 59
+
+3
+17 - 3 = 14
+
+4
+132 / 12 = 11"
+89,1,30-10-40-20,model_A,3,40,True,40,10,6:10,"3
+6:10 pm"
+90,1,30-40-20-10,model_A,2,40,True,40,95,95 (species of insects),"2
+penny captured 60 species of butterflies + 15 species of ants + 20 species of other insects = 95 species of insects."
+91,1,10-40-20-30,model_A,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes"
+92,1,20-10-40-30,model_A,1,20,True,20,80,80 (kids),"1. 80 kids
+
+2. 64 lives
+
+3. 12 chairs
+
+4. 18 pieces"
+93,1,20-40-30-10,model_A,1,20,True,20,74,74 (songs),"1. 74
+2. 180
+3. 12, 4
+4. 34"
+94,1,10-30-40-20,model_A,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,1,30-20-10-40,model_A,1,30,True,30,8,8 (pens),"1. 8
+
+2. 63
+
+3. 98
+
+4. 45"
+96,1,20-30-40-10,model_A,2,30,True,30,48,48 (students),"2
+the number of students in each grade is 336 / 7 = 48 students."
+1,2,30-10-20-40,model_A,1,30,True,30,861,861 (workers),1. 861
+2,2,20-40-30-10,model_A,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1
+the angles of the triangle are 32°, 96°, 52°."
+3,2,30-20-10-40,model_A,1,30,False,0,52,76 (centimeters),"1
+the perimeter of the rectangle is 52 centimeters."
+4,2,20-30-40-10,model_A,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,2,20-30-40-10,model_A,1,20,True,20,22,22 (seeds),"1. 22
+
+2. 4
+
+3. 991
+
+4. 34"
+6,2,10-30-20-40,model_A,2,30,False,0,73,13 (repetitions),"2
+73"
+7,2,10-20-40-30,model_A,2,20,True,20,40,40 (feet),"2
+the kitchen's perimeter is 40 feet."
+8,2,40-20-10-30,model_A,1,40,False,0,24,48 (dollars),"1
+vanessa spent $24 on flowers."
+9,2,30-20-40-10,model_A,1,30,False,0,12,8 (children),"1
+the answer is 12."
+10,2,30-10-20-40,model_A,1,30,True,30,1,1 (piece),"1
+the compartment that isn't full will have 1 piece of luggage."
+11,2,30-20-40-10,model_A,3,40,True,40,22,22 (pigs),"3
+the number of pigs that came to join them is 86 - 64 = 22."
+12,2,20-40-10-30,model_A,2,40,False,0,15,They are equal,"2
+
+the 15-year-olds have a lower ratio of black belts to brown belts."
+13,2,10-40-20-30,model_A,2,40,True,40,14,14 (tickets),"2
+the total number of tickets debby spent is 2 + 10 + 2 = 14 tickets."
+14,2,10-30-20-40,model_A,2,30,True,30,108,36 (degrees); 36 (degrees); 108 (degrees),"2
+the angles are 36°, 36°, 108°."
+15,2,10-30-40-20,model_A,1,10,True,10,9,9 (teams),"1. 9
+
+2. 18
+
+3. 24
+
+4. 73"
+16,2,30-40-20-10,model_A,1,30,True,30,7,7 (cm),"1. 7 cm
+
+2. 36/117
+
+3. 96
+
+4. 14"
+17,2,10-20-40-30,model_A,1,10,False,0,7,6 (books),"1. 7
+
+2. 12
+
+3. 7
+
+4. 110"
+18,2,30-40-20-10,model_A,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum"
+19,2,30-40-20-10,model_A,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,2,20-10-30-40,model_A,1,20,True,20,5,5 (dollars),"1. 5
+
+2. 26
+
+3. 2.92
+
+4. 128"
+21,2,20-10-40-30,model_A,1,20,True,20,15,15 (balls),1. ellen has 15 balls.
+22,2,10-20-30-40,model_A,1,10,True,10,93,93 (butterflies),"1
+jerry originally had 93 butterflies."
+23,2,40-20-30-10,model_A,1,40,True,40,7,7 (flower arrangements),"1. 7
+
+2. 16
+
+3. 10
+
+4. 5"
+24,2,20-30-10-40,model_A,1,20,False,0,30,Bryan,"1
+bryan has 50 skittles. ben has 20 m&m's.
+bryan has 30 more skittles than ben."
+25,2,20-30-10-40,model_A,1,20,True,20,12,6 (years old); 12 (years old),"1
+the present ages of lewis and brown are 6 and 12 years respectively."
+26,2,40-10-30-20,model_A,1,40,True,40,7,7 (days),"1
+the candy would last isabel 7 days."
+27,2,40-10-30-20,model_A,1,40,True,40,53,53 (cents),"1
+todd spent 14 + 39 = 53 cents altogether."
+28,2,20-30-10-40,model_A,2,30,False,0,24,19 (pencils),"2
+paige has 24 pencils."
+29,2,30-10-40-20,model_A,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,2,10-40-20-30,model_A,2,40,False,0,2,Yardley,"2
+
+the restaurant critic gave a higher ratio of positive to negative reviews in richmond."
+31,2,20-10-40-30,model_A,1,20,True,20,18,18,"1
+the number is 18."
+32,2,40-30-20-10,model_A,1,40,True,40,13,11; 12; 13,"1
+the three consecutive positive integers are 11, 12, 13."
+33,2,40-20-10-30,model_A,1,40,False,0,16,11 (trees),"1.16
+2.40
+3.30
+4.6"
+34,2,40-10-20-30,model_A,1,40,False,0,11764,11760 (snails),1. 11764
+35,2,40-30-10-20,model_A,2,30,False,0,15,19 (years old); 16 (years old),"2
+anna is 12 years old and ben is 15 years old."
+36,2,10-30-20-40,model_A,2,30,True,30,9,9 (folders),"2
+tom can buy 9 folders."
+37,2,20-40-10-30,model_A,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11124
+4. 100 cents"
+38,2,30-10-20-40,model_A,1,30,True,30,1200,1200 (points),"1
+1200"
+39,2,30-10-20-40,model_A,1,30,False,0,4,7 (pounds),"1
+the difference between frank's candy before he gave nancy and whathegavetonancy = 15 - 8 = 7
+
+2
+thenumberofsongsbillystillneedstolearn = 52 - 24 = 28
+
+3
+theamountofmoneywendywouldhavemade = 3 * 3 = 9
+
+4
+the"
+40,2,40-30-20-10,model_A,1,40,False,0,200,Ivan,"1
+ivan spent 20/14 = 1.4286 hours watching tv to 1 hour reading. brenna spent 11/10 = 1.1 hours watching tv to 1 hour reading. ivan had a higher ratio of time spent watching tv to time spent reading.
+
+2
+jimmy's bed is 20 + 200"
+41,2,30-20-40-10,model_A,2,20,True,20,12,12 (inches),"2
+the height of the parallelogram is 12 inches."
+42,2,30-40-10-20,model_A,1,30,False,0,1.22222222222222222222222222222222222222222222222222222222222222222222,11:9,1. 22/18 = 1.22222222222222222222222222222222222222222222222222222222222222222222
+43,2,40-10-20-30,model_A,1,40,False,0,20,10 (m),"1. 20
+
+2. 250
+
+3. 199
+
+4. 14"
+44,2,10-40-30-20,model_A,2,40,False,0,2,12 (large groups),"2
+the least number of groups should be made."
+45,2,40-30-10-20,model_A,1,40,False,0,78,30 (dollars),"1
+5*6=30
+
+2
+x+3x=20
+4x=20
+x=5
+
+3
+300-149=151
+
+4
+the number 78
+
+the answer is 78."
+46,2,20-30-10-40,model_A,1,20,False,0,63,48 (students),"1. 63
+
+2. 450
+
+3. 3
+
+4. 44"
+47,2,20-10-40-30,model_A,1,20,False,0,120,240 (tiles),"1
+mrs. garvey needs 120 tiles."
+48,2,20-40-10-30,model_A,1,20,True,20,2327,2327 (cookies),"1. 2327
+2. 14
+3. 120 km/ hr, 60 km/ hr
+4. 19"
+49,2,20-10-30-40,model_A,1,20,True,20,27,27 (stamps),1. simon received 27 stamps from his friends.
+50,2,40-30-10-20,model_A,1,40,True,40,59,59 (inches),"1
+the difference between ted's height and fred's height is 59 inches."
+51,2,10-30-20-40,model_A,1,10,True,10,54,54 (potatoes),"1. 54
+
+2. 52
+
+3. 3:5
+
+4. 7"
+52,2,30-40-10-20,model_A,2,40,False,0,24,8 (boxes),"2
+24"
+53,2,30-20-10-40,model_A,2,20,False,0,18,12 (seashells),"2
+the difference is 18 seashells."
+54,2,40-10-20-30,model_A,1,40,False,0,52,47 (cards),"1. 52
+
+2. 16
+
+3. 25 december 2014 11:55 pm
+
+4. 160"
+55,2,40-30-10-20,model_A,1,40,False,0,65,45 (candies),"1. 65
+
+2. 25
+
+3. 11
+
+4. 175"
+56,2,20-40-10-30,model_A,1,20,False,0,11,17 (units); 9 (units),"1. the dimensions of the rectangle are 12 units by 11 units.
+
+2. buddy met 123 third graders.
+
+3. gavin has 17 green shirts.
+
+4. alvin has 64 marbles."
+57,2,10-20-30-40,model_A,2,20,False,0,5,Jesse's class,"2
+
+the ratio of blue-eyed to brown-eyed students in jesse's class is 16/12 = 13/9. the ratio of blue-eyed to brown-eyed students in kimi's class is 18/15 = 6/5. therefore, jesse's class has a higher ratio of blue-eyed to brown-eyed students."
+58,2,10-40-30-20,model_A,2,40,False,0,36,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 36°, 108°, 36°."
+59,2,20-10-30-40,model_A,1,20,False,0,26,32,"1
+the number is 26."
+60,2,40-20-30-10,model_A,1,40,False,0,,No,"1. kyle does not have enough money.
+
+2. 94 - 24 - 29 = 41
+
+3. 63 / 3 = 21
+
+4. 11 / 2 = 5.5
+
+the age of nick is 5.5 - 0.5 = 5
+
+the age of kane is 5."
+61,2,10-20-30-40,model_A,1,10,True,10,9,9 (chairs),"1. 9
+
+2. 23
+
+3. 47
+
+4. 1212"
+62,2,30-10-40-20,model_A,3,40,False,0,153,127 (stickers),"3
+cindy has 153 stickers now."
+63,2,30-40-10-20,model_A,1,30,False,0,40,35 (points),"1
+wendy's score = 5 * (4 + 3) = 5 * 7 = 35 points
+
+2
+number of groups = 16 / 2 = 8
+
+3
+molly's pen perimeter = 2 * (12 + 8) = 2 * 20 = 40 meters
+ted's pen perimeter"
+64,2,40-10-30-20,model_A,1,40,False,0,278,28 (cards),"1
+278"
+65,2,10-20-40-30,model_A,1,10,False,0,112,14 (beats),"1
+the answer is 112."
+66,2,40-10-30-20,model_A,1,40,False,0,112,124 (square meters),"1. 112
+
+2. 74
+
+3. 38
+
+4. 46"
+67,2,20-40-30-10,model_A,2,40,False,0,25,61 (dollars),"2
+lena had $25 initially."
+68,2,40-20-10-30,model_A,1,40,False,0,36,18 (grapes),"1. 36
+
+2. 12
+
+3. 28
+
+4. 15"
+69,2,10-20-30-40,model_A,1,10,True,10,25,25 (sea creatures),"1. 34 + 21 + 29 = 84
+84 - 59 = 25
+
+harry lost 25 sea creatures."
+70,2,40-20-10-30,model_A,2,20,False,0,26,82,"2
+
+the original number is 26."
+71,2,20-30-40-10,model_A,2,30,True,30,13,13 (people),"2
+there are 13 people on the bus now."
+72,2,40-10-20-30,model_A,1,40,False,0,78,8 (large trucks),"1
+134
+
+2
+15
+
+3
+1
+
+4
+78"
+73,2,10-40-30-20,model_A,2,40,True,40,64,64 (dollars),"2
+the difference between the number of dollars paul spent and has now is $64."
+74,2,30-20-40-10,model_A,3,40,True,40,14,14 (shelves),"3
+the number of shelves filled will be 14."
+75,2,10-20-40-30,model_A,3,40,False,0,58,52,"3
+the number is 58."
+76,2,40-30-20-10,model_A,1,40,True,40,76,76 (packs of cookies),"1
+the total number of packs sold = 47 + 29 = 76"
+77,2,40-30-20-10,model_A,1,40,True,40,288,288 (t-shirts),"1. 288
+2. 26
+3. women's track team
+4. 43"
+78,2,30-40-10-20,model_A,1,30,False,0,12,13 (days),"1
+519 / 42 = 12.31
+12 days"
+79,2,10-40-30-20,model_A,2,40,False,0,16,The first rest stop,"2
+
+the ratio of cars to trucks is 20/18 = 1.1111111111111112
+
+the ratio of cars to trucks is 17/16 = 1.0625
+
+thereforethe answer is 17/16."
+80,2,10-30-40-20,model_A,1,10,False,0,19,38 (liters),"1
+the smallest amount of each paint color luther's paint supplies must have sold is 2 liters of yellow paint and 19 liters of blue paint."
+81,2,30-10-40-20,model_A,1,30,False,0,21,45,"1. 21
+
+2. 11:50
+
+3. 15
+
+4. 10 hours uphill, 5 hours downhill"
+82,2,40-20-30-10,model_A,1,40,False,0,120,48 (books),"1. 120
+
+2. 65
+
+3. 111
+
+4. 91"
+83,2,10-40-20-30,model_A,1,10,True,10,14,14 (pizzas),"1. 14
+
+2. 4
+
+3. 41
+
+4. 30"
+84,2,20-10-30-40,model_A,1,20,False,0,59,63 (pen holders),"1
+59"
+85,2,10-30-40-20,model_A,1,10,True,10,3,3 (pieces of fruit),"1. 3
+
+2. 48
+
+3. 16
+
+4. 20"
+86,2,20-40-30-10,model_A,2,40,False,0,99.86,100.1 (cones),"2
+the mean number of chocolate cones sold is 99.86."
+87,2,40-20-30-10,model_A,1,40,False,0,12,24 (sandwiches),"1. 12
+
+2. 24
+
+3. 3
+
+4. 23"
+88,2,30-20-10-40,model_A,1,30,False,0,11,862 (workers),"1
+318 + 544 = 862
+
+2
+38 - 4 + 15 = 59
+
+3
+17 - 3 = 14
+
+4
+132 / 12 = 11"
+89,2,30-10-40-20,model_A,3,40,True,40,10,6:10,"3
+6:10 pm"
+90,2,30-40-20-10,model_A,2,40,True,40,95,95 (species of insects),"2
+penny captured 60 species of butterflies + 15 species of ants + 20 species of other insects = 95 species of insects."
+91,2,10-40-20-30,model_A,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes"
+92,2,20-10-40-30,model_A,1,20,True,20,80,80 (kids),"1. 80 kids
+
+2. 64 lives
+
+3. 12 chairs
+
+4. 18 pieces"
+93,2,20-40-30-10,model_A,1,20,True,20,74,74 (songs),"1. 74
+2. 180
+3. 12, 4
+4. 34"
+94,2,10-30-40-20,model_A,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,2,30-20-10-40,model_A,1,30,True,30,8,8 (pens),"1. 8
+
+2. 63
+
+3. 98
+
+4. 45"
+96,2,20-30-40-10,model_A,2,30,True,30,48,48 (students),"2
+the number of students in each grade is 336 / 7 = 48 students."
+1,3,30-10-20-40,model_A,1,30,True,30,861,861 (workers),1. 861
+2,3,20-40-30-10,model_A,1,20,True,20,52,40 (degrees); 88 (degrees); 52 (degrees),"1
+the angles of the triangle are 32°, 96°, 52°."
+3,3,30-20-10-40,model_A,1,30,False,0,52,76 (centimeters),"1
+the perimeter of the rectangle is 52 centimeters."
+4,3,20-30-40-10,model_A,2,30,True,30,4,4 (sweets),"2
+the largest possible number of sweets in each tray is 4."
+5,3,20-30-40-10,model_A,1,20,True,20,22,22 (seeds),"1. 22
+
+2. 4
+
+3. 991
+
+4. 34"
+6,3,10-30-20-40,model_A,2,30,False,0,73,13 (repetitions),"2
+73"
+7,3,10-20-40-30,model_A,2,20,True,20,40,40 (feet),"2
+the kitchen's perimeter is 40 feet."
+8,3,40-20-10-30,model_A,1,40,False,0,24,48 (dollars),"1
+vanessa spent $24 on flowers."
+9,3,30-20-40-10,model_A,1,30,False,0,12,8 (children),"1
+the answer is 12."
+10,3,30-10-20-40,model_A,1,30,True,30,1,1 (piece),"1
+the compartment that isn't full will have 1 piece of luggage."
+11,3,30-20-40-10,model_A,3,40,True,40,22,22 (pigs),"3
+the number of pigs that came to join them is 86 - 64 = 22."
+12,3,20-40-10-30,model_A,2,40,False,0,15,They are equal,"2
+
+the 15-year-olds have a lower ratio of black belts to brown belts."
+13,3,10-40-20-30,model_A,2,40,True,40,14,14 (tickets),"2
+the total number of tickets debby spent is 2 + 10 + 2 = 14 tickets."
+14,3,10-30-20-40,model_A,1,10,True,10,8,8 (square feet),"1. 8 square feet
+
+2. 36°, 36°, 72°
+
+3. 270
+
+4. 7.7143"
+15,3,10-30-40-20,model_A,1,10,True,10,9,9 (teams),"1. 9
+
+2. 18
+
+3. 24
+
+4. 73"
+16,3,30-40-20-10,model_A,1,30,True,30,7,7 (cm),"1. 7 cm
+
+2. 36/117
+
+3. 98
+
+4. 14"
+17,3,10-20-40-30,model_A,1,10,False,0,7,6 (books),"1. 7
+
+2. 12
+
+3. 7
+
+4. 110"
+18,3,30-40-20-10,model_A,2,40,True,40,26,26 (pieces),"2
+robin's brother gave her 26 pieces of gum"
+19,3,30-40-20-10,model_A,2,40,True,40,32,32 (centimeters),"2
+the perimeter of the square newspaper ad is 32 centimeters."
+20,3,20-10-30-40,model_A,1,20,True,20,5,5 (dollars),"1. 5
+
+2. 26
+
+3. 2.92
+
+4. 128"
+21,3,20-10-40-30,model_A,1,20,True,20,15,15 (balls),1. ellen has 15 balls.
+22,3,10-20-30-40,model_A,2,20,True,20,52,52 (potatoes),"2
+mother bought 13 + 15 + 24 = 52 potatoes."
+23,3,40-20-30-10,model_A,1,40,True,40,7,7 (flower arrangements),"1. 7
+
+2. 16
+
+3. 10
+
+4. 5"
+24,3,20-30-10-40,model_A,2,30,False,0,27,13 (pennies),"2
+mrs. hilt has 27 cents more than jacob."
+25,3,20-30-10-40,model_A,1,20,True,20,12,6 (years old); 12 (years old),"1
+the present ages of lewis and brown are 6 and 12 respectively."
+26,3,40-10-30-20,model_A,1,40,False,0,11,7 (days),1. 11 days
+27,3,40-10-30-20,model_A,1,40,True,40,53,53 (cents),"1
+todd spent 14 + 39 = 53 cents altogether."
+28,3,20-30-10-40,model_A,2,30,False,0,24,19 (pencils),"2
+paige has 24 pencils."
+29,3,30-10-40-20,model_A,3,40,True,40,15,15 (coins),"3
+maria had 15 coins."
+30,3,10-40-20-30,model_A,2,40,False,0,2,Yardley,"2
+
+the restaurant critic gave a higher ratio of positive to negative reviews in richmond."
+31,3,20-10-40-30,model_A,1,20,True,20,18,18,"1
+the number is 18."
+32,3,40-30-20-10,model_A,1,40,False,0,14,11; 12; 13,"1. 12, 13, 14
+
+2. 48
+
+3. $308
+
+4. 68"
+33,3,40-20-10-30,model_A,1,40,False,0,16,11 (trees),"1.16
+2.40
+3.30
+4.6"
+34,3,40-10-20-30,model_A,1,40,False,0,11764,11760 (snails),1. 11764
+35,3,40-30-10-20,model_A,2,30,False,0,15,19 (years old); 16 (years old),"2
+anna is 12 years old and ben is 15 years old."
+36,3,10-30-20-40,model_A,2,30,True,30,9,9 (folders),"2
+tom can buy 9 folders."
+37,3,20-40-10-30,model_A,1,20,True,20,21,21 (shirts),"1. 21
+2. 55
+3. 11124
+4. 100 cents"
+38,3,30-10-20-40,model_A,1,30,True,30,1200,1200 (points),"1
+1200"
+39,3,30-10-20-40,model_A,1,30,False,0,4,7 (pounds),"1
+the difference between frank's candy before he gave nancy and whathegavetonancy = 15 - 8 = 7
+
+2
+thenumberofsongsbillystillneedstolearn = 52 - 24 = 28
+
+3
+theamountofmoneywendywouldhavemade = 3 * 3 = 9
+
+4
+the"
+40,3,40-30-20-10,model_A,1,40,False,0,200,Ivan,"1
+ivan spent 20/14 = 1.4286 hours watching tv to 1 hour reading
+brenna spent 11/10 = 1.1 hours watching tv to 1 hour reading
+ivan had a higher ratio of time spent watching tv to time spent reading
+
+2
+jimmy's bed = 200 +"
+41,3,30-20-40-10,model_A,2,20,True,20,12,12 (inches),"2
+the height of the parallelogram is 12 inches."
+42,3,30-40-10-20,model_A,1,30,False,0,1.22222222222222222222222222222222222222222222222222222222222222222222,11:9,1. 22/18 = 1.22222222222222222222222222222222222222222222222222222222222222222222
+43,3,40-10-20-30,model_A,1,40,False,0,20,10 (m),"1. 20
+
+2. 250
+
+3. 199
+
+4. 14"
+44,3,10-40-30-20,model_A,2,40,False,0,2,12 (large groups),"2
+the least number of groups should be made."
+45,3,40-30-10-20,model_A,1,40,False,0,78,30 (dollars),"1
+5*6=30
+
+2
+x+3x=20
+4x=20
+x=5
+
+3
+300-149=151
+
+4
+the number 78
+
+the answer is 78."
+46,3,20-30-10-40,model_A,1,20,False,0,63,48 (students),"1. 63
+
+2. 450
+
+3. 3
+
+4. 44"
+47,3,20-10-40-30,model_A,1,20,False,0,120,240 (tiles),"1
+mrs. garvey needs 120 tiles."
+48,3,20-40-10-30,model_A,1,20,True,20,2327,2327 (cookies),"1. 2327
+
+2. 14
+
+3. 120 km/ hr
+
+4. 119"
+49,3,20-10-30-40,model_A,1,20,True,20,27,27 (stamps),1. simon received 27 stamps from his friends.
+50,3,40-30-10-20,model_A,1,40,True,40,59,59 (inches),"1
+the difference between ted's height and fred's height is 59 inches."
+51,3,10-30-20-40,model_A,1,10,True,10,54,54 (potatoes),"1. 54
+
+2. 52
+
+3. 3:5
+
+4. 7"
+52,3,30-40-10-20,model_A,2,40,False,0,24,8 (boxes),"2
+24"
+53,3,30-20-10-40,model_A,2,20,False,0,18,12 (seashells),"2
+the difference is 18 seashells."
+54,3,40-10-20-30,model_A,1,40,False,0,52,47 (cards),"1. 52
+
+2. 16
+
+3. 25 december 2014 11:55 pm
+
+4. 160"
+55,3,40-30-10-20,model_A,1,40,False,0,65,45 (candies),"1. 65
+
+2. 25
+
+3. 11
+
+4. 175"
+56,3,20-40-10-30,model_A,1,20,False,0,11,17 (units); 9 (units),"1. the dimensions of the rectangle are 12 units by 11 units.
+
+2. buddy met 123 third graders.
+
+3. gavin has 17 green shirts.
+
+4. alvin has 64 marbles."
+57,3,10-20-30-40,model_A,2,20,False,0,120,Jesse's class,"2
+the class with a higher ratio of blue-eyed to brown-eyed students is jesse's class. the ratio is 16/12 = 133.33% compared to kimi's class 18/15 = 120%."
+58,3,10-40-30-20,model_A,2,40,False,0,36,32 (degrees); 96 (degrees); 52 (degrees),"2
+the measures of the angles are 36°, 108°, 36°."
+59,3,20-10-30-40,model_A,1,20,False,0,26,32,"1
+the number is 26."
+60,3,40-20-30-10,model_A,1,40,False,0,11,No,"1. kyle does not have enough money. he needs 11 cents more.
+
+2. there were 31 fourth graders.
+
+3. 21 people will go in each car.
+
+4. nick is 5 years old, kane is 6 years old."
+61,3,10-20-30-40,model_A,1,10,True,10,9,9 (chairs),"1. 9
+
+2. 23
+
+3. 47
+
+4. 1212"
+62,3,30-10-40-20,model_A,3,40,False,0,153,127 (stickers),"3
+cindy has 153 stickers now."
+63,3,30-40-10-20,model_A,1,30,False,0,40,35 (points),"1
+wendy's score = 5 * (4 + 3) = 5 * 7 = 35 points
+
+2
+number of groups = 16 / 2 = 8
+
+3
+molly's pen perimeter = 2 * (12 + 8) = 2 * 20 = 40 meters
+ted's pen perimeter"
+64,3,40-10-30-20,model_A,1,40,False,0,278,28 (cards),"1
+278"
+65,3,10-20-40-30,model_A,1,10,False,0,112,14 (beats),"1
+the answer is 112."
+66,3,40-10-30-20,model_A,1,40,False,0,112,124 (square meters),"1. 112
+
+2. 74
+
+3. 38
+
+4. 46"
+67,3,20-40-30-10,model_A,2,40,False,0,25,61 (dollars),"2
+lena had $25 initially."
+68,3,40-20-10-30,model_A,1,40,False,0,36,18 (grapes),"1. 36
+
+2. 12
+
+3. 28
+
+4. 15"
+69,3,10-20-30-40,model_A,1,10,True,10,25,25 (sea creatures),"1. 34 + 21 + 29 = 84
+84 - 59 = 25
+
+harry lost 25 sea creatures."
+70,3,40-20-10-30,model_A,2,20,False,0,26,82,"2
+
+the original number is 26."
+71,3,20-30-40-10,model_A,2,30,True,30,13,13 (people),"2
+there are 13 people on the bus now."
+72,3,40-10-20-30,model_A,1,40,False,0,78,8 (large trucks),"1
+134
+
+2
+3
+
+3
+1
+
+4
+78"
+73,3,10-40-30-20,model_A,2,40,True,40,64,64 (dollars),"2
+the difference between the number of dollars paul spent and has now is $64."
+74,3,30-20-40-10,model_A,3,40,True,40,14,14 (shelves),"3
+the answer is 14 shelves."
+75,3,10-20-40-30,model_A,3,40,False,0,58,52,"3
+the number is 58."
+76,3,40-30-20-10,model_A,1,40,True,40,76,76 (packs of cookies),"1
+the total number of packs sold = 47 + 29 = 76"
+77,3,40-30-20-10,model_A,1,40,True,40,288,288 (t-shirts),"1. 288
+2. 26
+3. women's track team
+4. 43"
+78,3,30-40-10-20,model_A,1,30,False,0,12,13 (days),"1
+519 / 42 = 12.31
+12 days"
+79,3,10-40-30-20,model_A,2,40,False,0,1.0625,The first rest stop,"2
+
+the ratio of cars to trucks is 20/18 = 1.1111111111111112
+
+the ratio of cars to trucks is 17/16 = 1.0625
+
+thereforelester counted a higher ratio of cars to trucks at the first rest stop."
+80,3,10-30-40-20,model_A,1,10,False,0,19,38 (liters),"1
+the smallest amount of each paint color luther's paint supplies must have sold is 2 liters of yellow paint and 19 liters of blue paint."
+81,3,30-10-40-20,model_A,1,30,False,0,21,45,"1. 21
+
+2. 11:10
+
+3. 15
+
+4. 10 hours uphill, 5 hours downhill"
+82,3,40-20-30-10,model_A,1,40,False,0,120,48 (books),"1. 120
+
+2. 65
+
+3. 111
+
+4. 91"
+83,3,10-40-20-30,model_A,1,10,True,10,14,14 (pizzas),"1. 14
+
+2. 4
+
+3. 41
+
+4. 30"
+84,3,20-10-30-40,model_A,1,20,False,0,59,63 (pen holders),"1
+59"
+85,3,10-30-40-20,model_A,1,10,True,10,3,3 (pieces of fruit),"1. 3
+
+2. 48
+
+3. 16
+
+4. 20"
+86,3,20-40-30-10,model_A,2,40,False,0,99.86,100.1 (cones),"2
+the mean number of chocolate cones sold is 99.86."
+87,3,40-20-30-10,model_A,1,40,False,0,12,24 (sandwiches),"1. 12
+
+2. 24
+
+3. 3
+
+4. 23"
+88,3,30-20-10-40,model_A,1,30,False,0,11,862 (workers),"1
+318 + 544 = 862
+
+2
+38 - 4 + 15 = 59
+
+3
+17 - 3 = 14
+
+4
+132 / 12 = 11"
+89,3,30-10-40-20,model_A,3,40,True,40,10,6:10,"3
+6:10 pm"
+90,3,30-40-20-10,model_A,2,40,True,40,95,95 (species of insects),"2
+penny captured 60 + 15 + 20 = 95 species of insects."
+91,3,10-40-20-30,model_A,2,40,True,40,6,6 (cakes),"2
+each child would get 6 cakes"
+92,3,20-10-40-30,model_A,1,20,True,20,80,80 (kids),"1. 80 kids
+
+2. 64 lives
+
+3. 12 chairs
+
+4. 18 pieces"
+93,3,20-40-30-10,model_A,1,20,True,20,74,74 (songs),"1. 74
+2. 180
+3. 12, 4
+4. 34"
+94,3,10-30-40-20,model_A,2,30,True,30,13,11:13,"2
+the ratio of the number of students sitting on the floor to the total number of students is 22:26, which simplifies to 11:13."
+95,3,30-20-10-40,model_A,1,30,True,30,8,8 (pens),"1. 8
+
+2. 63
+
+3. 98
+
+4. 45"
+96,3,20-30-40-10,model_A,2,30,True,30,48,48 (students),"2
+the number of students in each grade is 336 / 7 = 48 students."
