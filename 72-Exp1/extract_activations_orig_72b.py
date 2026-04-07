@@ -7,7 +7,7 @@ import os
 # Configuration
 # =============================================================================
 MODEL_PATH = "/mnt/mahdipou/models/qwen2-vl-72b"
-OUTPUT_DIR = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/activations_72b"
+OUTPUT_DIR = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/activations/orig"
 
 DATASETS = {
     "geo":  "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/data/geography_experiment_100-v2.csv",
@@ -20,50 +20,39 @@ CONDITIONS = {
     "money":   "Money_Prompt",
 }
 
+# Output naming: {OUTPUT_DIR}/{condition}_activations_{domain}.pt
+# e.g. .../neutral_activations_geo.pt
+
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # =============================================================================
-# Load model in 4-bit (72B won't fit in bfloat16 on single A100 80GB)
-# NOTE: Use the same quant config for both extraction AND ablation phases
-#       so activations are comparable.
+# Load model ONCE — 4-bit NF4 quantization, forced to GPU 0
+# Matches working inspect_72b.py setup exactly.
 # =============================================================================
 print("=" * 60)
-print("Loading Qwen2-VL-72B in 4-bit quantization...")
+print("Loading Qwen2-VL-72B (4-bit NF4, device_map GPU 0)...")
 print("=" * 60)
 
-quant_config = BitsAndBytesConfig(
+bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.bfloat16,
-    bnb_4bit_use_double_quant=True,
-    bnb_4bit_quant_type="nf4"
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True
 )
 
 model = Qwen2VLForConditionalGeneration.from_pretrained(
     MODEL_PATH,
-    quantization_config=quant_config,
-    device_map="auto"
+    quantization_config=bnb_config,
+    device_map={"": 0},  # force all layers to GPU 0, no meta device
 )
 model.eval()
 processor = AutoProcessor.from_pretrained(MODEL_PATH)
 
-# 72B uses model.model.language_model.layers (same as 7B)
-# Run inspect_model.py first if this fails
 lm_layers  = model.model.language_model.layers
 num_layers = len(lm_layers)
 print(f"Language model layers: {num_layers}")
 
-# =============================================================================
-# Confirm MLP intermediate dim via dummy pass
-# =============================================================================
-_dim_cache = {}
-def _dim_hook(module, input, output):
-    _dim_cache['dim'] = output.shape[-1]
-
-_h = lm_layers[0].mlp.act_fn.register_forward_hook(_dim_hook)
-with torch.no_grad():
-    model(**processor(text=["Hello"], return_tensors="pt").to("cuda"))
-_h.remove()
-intermediate_dim = _dim_cache['dim']
+intermediate_dim = model.model.language_model.config.intermediate_size
 print(f"MLP intermediate dim:  {intermediate_dim}")
 print(f"Expected output shape per question: [{num_layers}, {intermediate_dim}]")
 print()
@@ -73,13 +62,15 @@ print()
 # =============================================================================
 def extract_mlp_activations(prompt: str) -> torch.Tensor:
     """
-    Returns [num_layers, intermediate_dim] tensor (float16, CPU).
-    Captures last token position of MLP act_fn output for each layer.
+    Returns a tensor of shape [num_layers, intermediate_dim] (float16, on CPU).
+    Captures the LAST token position of the MLP act_fn output for each layer.
+    Hooks are registered and removed within this call — no state leakage.
     """
     mlp_cache = {}
 
     def make_hook(layer_idx):
         def hook(module, input, output):
+            # output: [batch=1, seq_len, intermediate_dim]
             mlp_cache[layer_idx] = output[0, -1, :].detach().cpu().to(torch.float16)
         return hook
 
@@ -98,11 +89,11 @@ def extract_mlp_activations(prompt: str) -> torch.Tensor:
     for h in hooks:
         h.remove()
 
-    return torch.stack([mlp_cache[i] for i in range(num_layers)])
+    return torch.stack([mlp_cache[i] for i in range(num_layers)])  # [num_layers, intermediate_dim]
 
 
 # =============================================================================
-# Main loop: domain x condition (6 runs total)
+# Main loop: domain x condition  (6 runs total)
 # =============================================================================
 for domain, csv_file in DATASETS.items():
     print("=" * 60)
@@ -135,8 +126,9 @@ for domain, csv_file in DATASETS.items():
                 print(f"    Progress: {q_id}/100")
 
         torch.save(results, out_path)
-        shape = results['q_1'].shape
-        print(f"  Saved {out_path}  |  shape per question: {shape}")
+        shape   = results['q_1'].shape
+        size_mb = os.path.getsize(out_path) / 1e6
+        print(f"  Saved {out_path}  |  shape: {shape}  [{size_mb:.1f} MB]")
 
     print()
 

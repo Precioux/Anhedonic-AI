@@ -1,0 +1,44 @@
+============================================================
+Qwen2-VL-72B Architecture Inspection (v2 - Final)
+============================================================
+
+GPUs available: 1
+  GPU 0: NVIDIA H200  (150.1 GB)
+
+Loading model from /mnt/mahdipou/models/qwen2-vl-72b...
+Model loaded successfully.
+
+Number of transformer layers: 80
+Hidden size:                  8192
+MLP intermediate dim:         29568
+Num attention heads:          64
+Num key-value heads:          8
+
+============================================================
+Comparison: 7B vs 72B
+============================================================
+                                         7B         72B
+  ------------------------------------------------------
+  Layers                                 28          80
+  Hidden size                          3584        8192
+  MLP intermediate dim                 3632       29568
+
+Layer → device mapping (first 5 and last 5):
+  Layer   0: cuda:0
+  Layer   1: cuda:0
+  Layer   2: cuda:0
+  Layer   3: cuda:0
+  Layer   4: cuda:0
+  Layer  75: cuda:0
+  Layer  76: cuda:0
+  Layer  77: cuda:0
+  Layer  78: cuda:0
+  Layer  79: cuda:0
+
+GPU memory after model load:
+  GPU 0: allocated=41.6 GB  reserved=140.0 GB
+
+============================================================
+Inspection complete.
+Output saved to: /mnt/mahdipou/models/Anhedonic-AI/Experiment1/evaluation/inspect_72b_output.txt
+============================================================
