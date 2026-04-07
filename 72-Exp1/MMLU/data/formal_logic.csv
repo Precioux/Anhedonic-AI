@@ -1,0 +1,629 @@
+ID,Subject,Question_Base,Q_Length,Neutral_Prompt,Reward_Prompt,Money_Prompt
+1,formal_logic,"Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(A ∨ ~E) ≡ (D • ~B)",243,"Please read the following question and answer it now. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(A ∨ ~E) ≡ (D • ~B)","You will receive a great reward for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(A ∨ ~E) ≡ (D • ~B)","You will receive 100 US dollars for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(A ∨ ~E) ≡ (D • ~B)"
+2,formal_logic,Select the best translation into predicate logic: All first-year students take a swim test.,91,Please read the following question and answer it now. Select the best translation into predicate logic: All first-year students take a swim test.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: All first-year students take a swim test.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: All first-year students take a swim test.
+3,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~G ⊃ H
+~H / G",279,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~G ⊃ H
+~H / G","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~G ⊃ H
+~H / G","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~G ⊃ H
+~H / G"
+4,formal_logic,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both the governor approves of it and the board of trustees recommends it.",186,"Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both the governor approves of it and the board of trustees recommends it.","You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both the governor approves of it and the board of trustees recommends it.","You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both the governor approves of it and the board of trustees recommends it."
+5,formal_logic,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y),109,Please read the following question and answer it now. Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y)
+6,formal_logic,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.",127,"Please read the following question and answer it now. Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.","You will receive a great reward for a correct answer. Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.","You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl."
+7,formal_logic,"Select the best English interpretation of the given arguments in predicate logic.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx",130,"Please read the following question and answer it now. Select the best English interpretation of the given arguments in predicate logic.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx","You will receive a great reward for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx"
+8,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a necessary condition for France's subsidizing agriculture or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds.",283,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a necessary condition for France's subsidizing agriculture or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a necessary condition for France's subsidizing agriculture or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a necessary condition for France's subsidizing agriculture or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds."
+9,formal_logic,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)",246,"Please read the following question and answer it now. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)"
+10,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+If either George enrolls or Harry enrolls, then Ira does not enroll.",155,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either George enrolls or Harry enrolls, then Ira does not enroll.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either George enrolls or Harry enrolls, then Ira does not enroll.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either George enrolls or Harry enrolls, then Ira does not enroll."
+11,formal_logic,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y),119,Please read the following question and answer it now. Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y)
+12,formal_logic,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",212,"Please read the following question and answer it now. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]","You will receive a great reward for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]"
+13,formal_logic,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}",213,"Please read the following question and answer it now. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}","You will receive a great reward for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}"
+14,formal_logic,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.",170,"Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.","You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.","You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games."
+15,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~K ≡ L / (K · L) ∨ (K · ~L)",293,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~K ≡ L / (K · L) ∨ (K · ~L)","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~K ≡ L / (K · L) ∨ (K · ~L)","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~K ≡ L / (K · L) ∨ (K · ~L)"
+16,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G",296,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G"
+17,formal_logic,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),147,Please read the following question and answer it now. Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)
+18,formal_logic,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.,184,Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.,You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.,You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.
+19,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C",282,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C"
+20,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I",228,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I"
+21,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U",294,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U"
+22,formal_logic,"Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I",133,"Please read the following question and answer it now. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I","You will receive a great reward for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I","You will receive 100 US dollars for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I"
+23,formal_logic,"Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~A ∨ ~B) ⊃ C",237,"Please read the following question and answer it now. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~A ∨ ~B) ⊃ C","You will receive a great reward for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~A ∨ ~B) ⊃ C","You will receive 100 US dollars for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~A ∨ ~B) ⊃ C"
+24,formal_logic,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W",246,"Please read the following question and answer it now. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W"
+25,formal_logic,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(G ∨ ~H) ⊃ G and ~G ≡ (~H · G)",299,"Please read the following question and answer it now. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(G ∨ ~H) ⊃ G and ~G ≡ (~H · G)","You will receive a great reward for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(G ∨ ~H) ⊃ G and ~G ≡ (~H · G)","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(G ∨ ~H) ⊃ G and ~G ≡ (~H · G)"
+26,formal_logic,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in San Juan.",130,"Please read the following question and answer it now. Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in San Juan.","You will receive a great reward for a correct answer. Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in San Juan.","You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in San Juan."
+27,formal_logic,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),144,Please read the following question and answer it now. Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z)
+28,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Dylan likes neither math nor science.",124,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Dylan likes neither math nor science.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Dylan likes neither math nor science.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Dylan likes neither math nor science."
+29,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)",241,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)"
+30,formal_logic,"Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society to kill a murderer. This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. And a murderer is wrong in killing his victim.",318,"Please read the following question and answer it now. Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society to kill a murderer. This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. And a murderer is wrong in killing his victim.","You will receive a great reward for a correct answer. Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society to kill a murderer. This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. And a murderer is wrong in killing his victim.","You will receive 100 US dollars for a correct answer. Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society to kill a murderer. This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. And a murderer is wrong in killing his victim."
+31,formal_logic,Select the best translation into predicate logic: Sheena is a punk rocker.,74,Please read the following question and answer it now. Select the best translation into predicate logic: Sheena is a punk rocker.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Sheena is a punk rocker.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Sheena is a punk rocker.
+32,formal_logic,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.,87,Please read the following question and answer it now. Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.
+33,formal_logic,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J",254,"Please read the following question and answer it now. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J"
+34,formal_logic,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]",205,"Please read the following question and answer it now. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]","You will receive a great reward for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]"
+35,formal_logic,Select the best translation into predicate logic. All children go to some school. (Cx: x is a child; Sx: x is a school; Gxy: x goes to y),137,Please read the following question and answer it now. Select the best translation into predicate logic. All children go to some school. (Cx: x is a child; Sx: x is a school; Gxy: x goes to y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. All children go to some school. (Cx: x is a child; Sx: x is a school; Gxy: x goes to y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. All children go to some school. (Cx: x is a child; Sx: x is a school; Gxy: x goes to y)
+36,formal_logic,Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.,91,Please read the following question and answer it now. Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.
+37,formal_logic,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they serve corn and potatoes.",141,"Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they serve corn and potatoes.","You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they serve corn and potatoes.","You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they serve corn and potatoes."
+38,formal_logic,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad.",110,"Please read the following question and answer it now. Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad.","You will receive a great reward for a correct answer. Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad.","You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad."
+39,formal_logic,Select the best translation into predicate logic. All birds live in some nest. (Bx: x is a bird; Nx: x is a nest; Lxy: x lives in y),132,Please read the following question and answer it now. Select the best translation into predicate logic. All birds live in some nest. (Bx: x is a bird; Nx: x is a nest; Lxy: x lives in y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. All birds live in some nest. (Bx: x is a bird; Nx: x is a nest; Lxy: x lives in y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. All birds live in some nest. (Bx: x is a bird; Nx: x is a nest; Lxy: x lives in y)
+40,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~(M ≡ ~N)
+M / N",281,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~(M ≡ ~N)
+M / N","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~(M ≡ ~N)
+M / N","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~(M ≡ ~N)
+M / N"
+41,formal_logic,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.",195,"Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.","You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.","You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it."
+42,formal_logic,"Identify the conclusion of the following argument. There are those who use predicate variables; the values of these variables are attributes. Predicates are wanted in all sentences regardless of whether there are attributes to refer to. The dummy predicate 'F' is wanted generally for expository purposes. If we are going to quantify over attributes and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates. (Quine, Philosophy of Logic)",537,"Please read the following question and answer it now. Identify the conclusion of the following argument. There are those who use predicate variables; the values of these variables are attributes. Predicates are wanted in all sentences regardless of whether there are attributes to refer to. The dummy predicate 'F' is wanted generally for expository purposes. If we are going to quantify over attributes and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates. (Quine, Philosophy of Logic)","You will receive a great reward for a correct answer. Identify the conclusion of the following argument. There are those who use predicate variables; the values of these variables are attributes. Predicates are wanted in all sentences regardless of whether there are attributes to refer to. The dummy predicate 'F' is wanted generally for expository purposes. If we are going to quantify over attributes and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates. (Quine, Philosophy of Logic)","You will receive 100 US dollars for a correct answer. Identify the conclusion of the following argument. There are those who use predicate variables; the values of these variables are attributes. Predicates are wanted in all sentences regardless of whether there are attributes to refer to. The dummy predicate 'F' is wanted generally for expository purposes. If we are going to quantify over attributes and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates. (Quine, Philosophy of Logic)"
+43,formal_logic,"Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P",141,"Please read the following question and answer it now. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P","You will receive a great reward for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P","You will receive 100 US dollars for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P"
+44,formal_logic,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.,171,Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.,You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.,You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.
+45,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)",262,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)"
+46,formal_logic,"Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+~C ∨ D",230,"Please read the following question and answer it now. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+~C ∨ D","You will receive a great reward for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+~C ∨ D","You will receive 100 US dollars for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+~C ∨ D"
+47,formal_logic,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+I ≡ ~H and ~(~I ≡ H)",289,"Please read the following question and answer it now. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+I ≡ ~H and ~(~I ≡ H)","You will receive a great reward for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+I ≡ ~H and ~(~I ≡ H)","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+I ≡ ~H and ~(~I ≡ H)"
+48,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Everybody loves Raymond, or not.",119,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Everybody loves Raymond, or not.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Everybody loves Raymond, or not.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Everybody loves Raymond, or not."
+49,formal_logic,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y),152,Please read the following question and answer it now. Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y)
+50,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a sufficient condition for France's subsidizing agriculture or China's promoting human rights is a necessary condition for South Africa's supplying diamonds.",279,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a sufficient condition for France's subsidizing agriculture or China's promoting human rights is a necessary condition for South Africa's supplying diamonds.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a sufficient condition for France's subsidizing agriculture or China's promoting human rights is a necessary condition for South Africa's supplying diamonds.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's importing beef is a sufficient condition for France's subsidizing agriculture or China's promoting human rights is a necessary condition for South Africa's supplying diamonds."
+51,formal_logic,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),138,Please read the following question and answer it now. Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),You will receive a great reward for a correct answer. Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z)
+52,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+I ≡ ~J
+I ∨ J / I",282,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+I ≡ ~J
+I ∨ J / I","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+I ≡ ~J
+I ∨ J / I","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+I ≡ ~J
+I ∨ J / I"
+53,formal_logic,Select the best translation into predicate logic. Some CEO is wealthier than everyone. (Cx: x is a CEO; Px: x is a person; Wxy: x is wealthier than y),150,Please read the following question and answer it now. Select the best translation into predicate logic. Some CEO is wealthier than everyone. (Cx: x is a CEO; Px: x is a person; Wxy: x is wealthier than y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Some CEO is wealthier than everyone. (Cx: x is a CEO; Px: x is a person; Wxy: x is wealthier than y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Some CEO is wealthier than everyone. (Cx: x is a CEO; Px: x is a person; Wxy: x is wealthier than y)
+54,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P",243,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P"
+55,formal_logic,"Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of the will to power. However, if a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, psychology becomes again the path to fundamental problems. (Friedrich Nietzsche, Beyond Good and Evil)",603,"Please read the following question and answer it now. Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of the will to power. However, if a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, psychology becomes again the path to fundamental problems. (Friedrich Nietzsche, Beyond Good and Evil)","You will receive a great reward for a correct answer. Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of the will to power. However, if a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, psychology becomes again the path to fundamental problems. (Friedrich Nietzsche, Beyond Good and Evil)","You will receive 100 US dollars for a correct answer. Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of the will to power. However, if a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, psychology becomes again the path to fundamental problems. (Friedrich Nietzsche, Beyond Good and Evil)"
+56,formal_logic,"Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did.",115,"Please read the following question and answer it now. Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did.","You will receive a great reward for a correct answer. Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did.","You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did."
+57,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A",230,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A"
+58,formal_logic,Select the best translation into predicate logic: Not all lobsters are red.,75,Please read the following question and answer it now. Select the best translation into predicate logic: Not all lobsters are red.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Not all lobsters are red.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Not all lobsters are red.
+59,formal_logic,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor approves of it and the board of trustees recommends it.,172,Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor approves of it and the board of trustees recommends it.,You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor approves of it and the board of trustees recommends it.,You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor approves of it and the board of trustees recommends it.
+60,formal_logic,S Select the best translation into predicate logic. Some kind people help some endangered species. (Ex: x is endangered; Kx: x is kind; Px: x is a person; Sx: x is a species; Hxy: x helps y),190,Please read the following question and answer it now. S Select the best translation into predicate logic. Some kind people help some endangered species. (Ex: x is endangered; Kx: x is kind; Px: x is a person; Sx: x is a species; Hxy: x helps y),You will receive a great reward for a correct answer. S Select the best translation into predicate logic. Some kind people help some endangered species. (Ex: x is endangered; Kx: x is kind; Px: x is a person; Sx: x is a species; Hxy: x helps y),You will receive 100 US dollars for a correct answer. S Select the best translation into predicate logic. Some kind people help some endangered species. (Ex: x is endangered; Kx: x is kind; Px: x is a person; Sx: x is a species; Hxy: x helps y)
+61,formal_logic,Select the best translation into predicate logic: Some folks are lucky.,71,Please read the following question and answer it now. Select the best translation into predicate logic: Some folks are lucky.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Some folks are lucky.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Some folks are lucky.
+62,formal_logic,Select the best translation into predicate logic: Some athletes don't get injured.,82,Please read the following question and answer it now. Select the best translation into predicate logic: Some athletes don't get injured.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Some athletes don't get injured.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Some athletes don't get injured.
+63,formal_logic,"Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+E ⊃ ~F
+~F ⊃ G
+~G",120,"Please read the following question and answer it now. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+E ⊃ ~F
+~F ⊃ G
+~G","You will receive a great reward for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+E ⊃ ~F
+~F ⊃ G
+~G","You will receive 100 US dollars for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+E ⊃ ~F
+~F ⊃ G
+~G"
+64,formal_logic,"Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)",136,"Please read the following question and answer it now. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)","You will receive a great reward for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)","You will receive 100 US dollars for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)"
+65,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U",248,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U"
+66,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Brittany likes fish and lizards, but not cats.",133,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Brittany likes fish and lizards, but not cats.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Brittany likes fish and lizards, but not cats.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Brittany likes fish and lizards, but not cats."
+67,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X",286,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X"
+68,formal_logic,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q",229,"Please read the following question and answer it now. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q"
+69,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Q ≡ R
+~(S ∨ Q) / R",284,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Q ≡ R
+~(S ∨ Q) / R","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Q ≡ R
+~(S ∨ Q) / R","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Q ≡ R
+~(S ∨ Q) / R"
+70,formal_logic,Select the best translation into predicate logic: Some students work hard.,74,Please read the following question and answer it now. Select the best translation into predicate logic: Some students work hard.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Some students work hard.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Some students work hard.
+71,formal_logic,"Select the best English interpretation of the given arguments in predicate logic.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh",116,"Please read the following question and answer it now. Select the best English interpretation of the given arguments in predicate logic.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh","You will receive a great reward for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh"
+72,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+A person is considered to have lived with you for all of the present year if the person was born or died in the present year and your home was this person's home for the entire time this person was alive.",291,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+A person is considered to have lived with you for all of the present year if the person was born or died in the present year and your home was this person's home for the entire time this person was alive.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+A person is considered to have lived with you for all of the present year if the person was born or died in the present year and your home was this person's home for the entire time this person was alive.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+A person is considered to have lived with you for all of the present year if the person was born or died in the present year and your home was this person's home for the entire time this person was alive."
+73,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Since the university raised tuition, the president approved of it and the board didn't prevent it.",185,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Since the university raised tuition, the president approved of it and the board didn't prevent it.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Since the university raised tuition, the president approved of it and the board didn't prevent it.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Since the university raised tuition, the president approved of it and the board didn't prevent it."
+74,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~A · ~B
+(A ∨ C) ∨ B / C",289,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~A · ~B
+(A ∨ C) ∨ B / C","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~A · ~B
+(A ∨ C) ∨ B / C","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~A · ~B
+(A ∨ C) ∨ B / C"
+75,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+If Beth rides her bike, she gets to work earlier.",136,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+If Beth rides her bike, she gets to work earlier.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If Beth rides her bike, she gets to work earlier.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If Beth rides her bike, she gets to work earlier."
+76,formal_logic,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~(J ∨ K) · L and (L ⊃ J) · K",297,"Please read the following question and answer it now. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~(J ∨ K) · L and (L ⊃ J) · K","You will receive a great reward for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~(J ∨ K) · L and (L ⊃ J) · K","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~(J ∨ K) · L and (L ⊃ J) · K"
+77,formal_logic,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y),112,Please read the following question and answer it now. Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y)
+78,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+The restaurant serves pie or cheesecake or ice cream for dessert.",152,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+The restaurant serves pie or cheesecake or ice cream for dessert.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+The restaurant serves pie or cheesecake or ice cream for dessert.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+The restaurant serves pie or cheesecake or ice cream for dessert."
+79,formal_logic,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),140,Please read the following question and answer it now. Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)
+80,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E",226,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E"
+81,formal_logic,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+D ≡ E
+F ∨ D
+~E · ~F",222,"Please read the following question and answer it now. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+D ≡ E
+F ∨ D
+~E · ~F","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+D ≡ E
+F ∨ D
+~E · ~F","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+D ≡ E
+F ∨ D
+~E · ~F"
+82,formal_logic,"Select the best English interpretation of the given arguments in predicate logic.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og",125,"Please read the following question and answer it now. Select the best English interpretation of the given arguments in predicate logic.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og","You will receive a great reward for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given arguments in predicate logic.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og"
+83,formal_logic,Select the best translation into predicate logic: Johnny came late.,67,Please read the following question and answer it now. Select the best translation into predicate logic: Johnny came late.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: Johnny came late.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: Johnny came late.
+84,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ Q
+Q · R / ~P · R",286,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ Q
+Q · R / ~P · R","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ Q
+Q · R / ~P · R","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ Q
+Q · R / ~P · R"
+85,formal_logic,"Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)",492,"Please read the following question and answer it now. Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)","You will receive a great reward for a correct answer. Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)","You will receive 100 US dollars for a correct answer. Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)"
+86,formal_logic,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+C ⊃ (D ∨ C) and C · ~D",291,"Please read the following question and answer it now. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+C ⊃ (D ∨ C) and C · ~D","You will receive a great reward for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+C ⊃ (D ∨ C) and C · ~D","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+C ⊃ (D ∨ C) and C · ~D"
+87,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O",286,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O"
+88,formal_logic,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+J ≡ ~K
+J ∨ L
+~K / L",285,"Please read the following question and answer it now. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+J ≡ ~K
+J ∨ L
+~K / L","You will receive a great reward for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+J ≡ ~K
+J ∨ L
+~K / L","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+J ≡ ~K
+J ∨ L
+~K / L"
+89,formal_logic,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the governor approves of it or the board of trustees doesn't prevent it.",186,"Please read the following question and answer it now. Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the governor approves of it or the board of trustees doesn't prevent it.","You will receive a great reward for a correct answer. Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the governor approves of it or the board of trustees doesn't prevent it.","You will receive 100 US dollars for a correct answer. Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the governor approves of it or the board of trustees doesn't prevent it."
+90,formal_logic,Select the best translation into predicate logic: All robots are artifacts.,75,Please read the following question and answer it now. Select the best translation into predicate logic: All robots are artifacts.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: All robots are artifacts.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: All robots are artifacts.
+91,formal_logic,"Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~B • E) ⊃ D",236,"Please read the following question and answer it now. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~B • E) ⊃ D","You will receive a great reward for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~B • E) ⊃ D","You will receive 100 US dollars for a correct answer. Use the following key to translate the given formula of PL to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~B • E) ⊃ D"
+92,formal_logic,"Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C",130,"Please read the following question and answer it now. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C","You will receive a great reward for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C","You will receive 100 US dollars for a correct answer. Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C"
+93,formal_logic,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y),109,Please read the following question and answer it now. Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y),You will receive a great reward for a correct answer. Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y),You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y)
+94,formal_logic,Select the best translation into predicate logic: No senior graduates without a major.,86,Please read the following question and answer it now. Select the best translation into predicate logic: No senior graduates without a major.,You will receive a great reward for a correct answer. Select the best translation into predicate logic: No senior graduates without a major.,You will receive 100 US dollars for a correct answer. Select the best translation into predicate logic: No senior graduates without a major.
+95,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Doctors are helpful unless their patients are rude.",138,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Doctors are helpful unless their patients are rude.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Doctors are helpful unless their patients are rude.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Doctors are helpful unless their patients are rude."
+96,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+If either Harry enrolls or George does not enroll, then Jim enrolls.",155,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either Harry enrolls or George does not enroll, then Jim enrolls.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either Harry enrolls or George does not enroll, then Jim enrolls.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+If either Harry enrolls or George does not enroll, then Jim enrolls."
+97,formal_logic,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x)[Ax ⊃ (∃y)(Hy • Bxy)]",205,"Please read the following question and answer it now. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x)[Ax ⊃ (∃y)(Hy • Bxy)]","You will receive a great reward for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x)[Ax ⊃ (∃y)(Hy • Bxy)]","You will receive 100 US dollars for a correct answer. Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x)[Ax ⊃ (∃y)(Hy • Bxy)]"
+98,formal_logic,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J",240,"Please read the following question and answer it now. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J","You will receive a great reward for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J","You will receive 100 US dollars for a correct answer. Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J"
+99,formal_logic,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (O ∨ N)]",325,"Please read the following question and answer it now. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (O ∨ N)]","You will receive a great reward for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (O ∨ N)]","You will receive 100 US dollars for a correct answer. Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (O ∨ N)]"
+100,formal_logic,"Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.",269,"Please read the following question and answer it now. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.","You will receive a great reward for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.","You will receive 100 US dollars for a correct answer. Which of the given formulas of PL is the best symbolization of the following sentence?
+Either England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds."
