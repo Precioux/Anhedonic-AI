@@ -1,0 +1,865 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,10-40-30-20,B,10,C,40,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,20-30-10-40,C,20,D,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+4. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,40-20-10-30,A,40,B,20,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,30-20-10-40,D,30,C,20,D,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,40-10-20-30,A,40,C,10,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,20-10-30-40,B,20,B,10,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,40-10-30-20,A,40,D,10,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,40-20-30-10,A,40,D,20,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (40 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,40-30-20-10,A,40,C,30,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-20-10-30,D,40,B,20,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,10-30-40-20,C,10,A,30,C,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,20-40-30-10,C,20,B,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+2. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,30-20-40-10,B,30,A,20,C,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+2. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,10-20-40-30,D,10,C,20,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,10-30-40-20,A,10,A,30,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+2. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,30-10-40-20,A,30,C,10,C,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (30 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,20-10-40-30,B,20,B,10,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,10-30-40-20,A,10,A,30,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,30-40-20-10,B,30,D,40,C,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,10-20-40-30,C,10,A,20,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+2. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,10-40-20-30,C,10,D,40,A,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-10-20-30,B,40,C,10,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,20-10-30-40,C,20,D,10,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,30-40-20-10,C,30,A,40,C,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+4. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,40-10-20-30,A,40,B,10,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (40 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,30-10-20-40,B,30,D,10,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,40-30-20-10,B,40,C,30,C,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (30 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,40-20-10-30,C,40,A,20,A,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+2. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,10-40-20-30,B,10,C,40,B,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,30-40-20-10,C,30,D,40,A,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-30-10-20,A,40,C,30,A,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (40 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,30-20-10-40,B,30,B,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,40-30-20-10,D,40,B,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-10-40-20,D,30,B,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+2. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+3. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,10-30-20-40,A,10,D,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,10-20-30-40,A,10,A,20,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+2. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,20-30-40-10,D,20,A,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+2. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-10-30-20,B,40,D,10,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,30-40-10-20,A,30,C,40,A,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+4. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,40-30-10-20,B,40,C,30,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (30 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,10-40-30-20,C,10,C,40,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,20-40-10-30,A,20,B,40,A,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,10-20-30-40,D,10,C,20,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,40-10-30-20,B,40,D,10,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,30-40-10-20,A,30,B,40,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+2. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (10 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,10-40-20-30,B,10,D,40,A,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,10-30-40-20,C,10,D,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,10-40-30-20,A,10,C,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,20-40-10-30,D,20,B,40,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+2. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,30-10-20-40,D,30,B,10,C,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,30-40-10-20,B,30,D,40,A,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+4. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,20-30-40-10,B,20,C,30,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,20-30-10-40,A,20,C,30,C,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (10 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,20-40-30-10,C,20,B,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,10-40-20-30,A,10,D,40,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,20-40-30-10,D,20,B,40,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,20-10-40-30,B,20,C,10,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-40-30-10,D,20,A,40,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,30-40-20-10,A,30,C,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (30 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-20-30-40,C,10,C,20,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,10-30-20-40,A,10,D,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,30-20-10-40,C,30,B,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,10-20-40-30,A,10,A,20,C,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+2. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,40-30-20-10,B,40,D,30,A,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,20-10-30-40,B,20,A,10,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (20 points)
+2. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,10-20-30-40,B,10,A,20,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+2. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,30-20-40-10,B,30,D,20,C,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (30 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,40-10-30-20,D,40,B,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,20-30-40-10,A,20,B,30,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-30-10-40,B,20,D,30,A,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (10 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,40-30-10-20,C,40,B,30,C,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,40-20-30-10,A,40,D,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-20-40-10,B,30,D,20,C,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+3. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,30-10-20-40,C,30,A,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+2. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+3. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,30-20-10-40,D,30,B,20,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-30-10-20,D,40,C,30,D,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (30 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,20-10-40-30,C,20,A,10,C,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (10 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (40 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,10-30-20-40,B,10,C,30,B,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (10 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+4. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,40-20-30-10,A,40,C,20,B,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (40 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+3. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,40-20-10-30,D,40,C,20,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+3. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,10-40-30-20,A,10,A,40,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+3. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,20-30-10-40,B,20,D,30,D,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+4. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,30-10-40-20,B,30,C,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+3. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (40 points)
+4. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,40-20-30-10,D,40,C,20,A,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+4. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-30-40-10,D,20,C,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+2. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (30 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-40-10-20,A,30,D,40,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (30 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (10 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,30-10-20-40,B,30,C,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (10 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+4. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,10-30-20-40,C,10,B,30,D,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (10 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (30 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (20 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,30-10-40-20,B,30,D,10,C,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+2. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (10 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (40 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,20-10-40-30,A,20,B,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (20 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (40 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,20-40-10-30,B,20,C,40,C,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (20 points)
+2. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (40 points)
+3. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (10 points)
+4. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-10-20-30,B,40,B,10,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+2. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (10 points)
+3. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (20 points)
+4. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,20-40-10-30,C,20,D,40,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] (A) 0 (B) 1 (C) 2 (D) 3 (20 points)
+2. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+3. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+4. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,20-10-30-40,A,20,C,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+2. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (10 points)
+3. You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option. (A) High variance (B) High model bias (C) High estimation bias (D) None of the above (30 points)
+4. The number of test examples needed to get statistically significant results should be _ (A) Larger if the error rate is larger. (B) Larger if the error rate is smaller. (C) Smaller if the error rate is smaller. (D) It does not matter. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,30-20-40-10,C,30,B,20,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \sum (y_n − β_0)^2 . We have a half term in the front because, (A) scaling MSE by half makes gradient descent converge faster. (B) presence of half makes it easy to do grid search.  (C) it does not matter whether half is there or not.  (D) none of the above (30 points)
+2. Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network. (A) Should not set it to zero since otherwise it will cause overfitting (B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space (C) Should set it to zero since otherwise it causes a bias (D) Should set it to zero in order to preserve symmetry across all neurons (20 points)
+3. Which of the following statements about Naive Bayes is incorrect? (A) Attributes are equally important. (B) Attributes are statistically dependent of one another given the class value. (C) Attributes are statistically independent of one another given the class value. (D) Attributes can be nominal or numeric (40 points)
+4. Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________ (A) higher (B) same (C) lower (D) it could be any of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,10-20-40-30,A,10,A,20,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z? (A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y) (B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y) (C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z) (D) P(X, Y, Z) = P(X) * P(Y) * P(Z) (10 points)
+2. In Yann LeCun's cake, the cherry on top is (A) reinforcement learning (B) self-supervised learning (C) unsupervised learning (D) supervised learning (20 points)
+3. Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2). (A) True, True (B) False, False (C) True, False (D) False, True (40 points)
+4. Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3. (A) True, True (B) False, False (C) True, False (D) False, True (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
