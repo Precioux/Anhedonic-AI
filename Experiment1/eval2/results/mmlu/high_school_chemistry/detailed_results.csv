@@ -1,0 +1,1637 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+2,1,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+3,1,1,10-30-40-20,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,30,40,20
+4,1,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+5,1,1,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+6,1,1,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+7,1,1,30-20-10-40,baseline,1,False,30,True,30,A,A,1. A,30,20,10,40
+8,1,1,40-20-10-30,baseline,1,False,40,False,0,C,A,"1
+C",40,20,10,30
+9,1,1,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+10,1,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1. A buffer solution is a solution that resists changes in pH when a small amount of acid or base is added to it. A buffer solution is made up of a weak acid and its conjugate base or a weak base and its conjugate acid. 
+
+Let's analyze each option:
+
+(A) HC2H3O2(aq) and NaC2H3O2(aq",30,10,20,40
+11,1,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+12,1,1,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+13,1,1,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+14,1,1,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+15,1,1,40-20-30-10,baseline,1,False,40,False,0,D,A,1. D,40,20,30,10
+16,1,1,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+17,1,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1
+A",30,10,20,40
+18,1,1,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+19,1,1,30-20-40-10,baseline,1,False,30,False,0,B,C,1. B,30,20,40,10
+20,1,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+21,1,2,40-30-10-20,baseline,1,False,40,False,0,D,B,1. D,40,30,10,20
+22,1,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,1,2,20-40-10-30,baseline,1,False,20,True,20,A,A,1. A,20,40,10,30
+24,1,2,30-40-20-10,baseline,1,False,30,False,0,D,B,"1
+D",30,40,20,10
+25,1,2,20-30-10-40,baseline,1,False,20,False,0,C,B,1. C,20,30,10,40
+26,1,2,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+27,1,2,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+28,1,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+29,1,2,40-10-30-20,baseline,1,False,40,False,0,C,A,"1
+C",40,10,30,20
+30,1,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+31,1,2,10-20-40-30,baseline,1,False,10,False,0,D,B,"1
+D",10,20,40,30
+32,1,2,40-30-20-10,baseline,1,False,40,False,0,,D,1,40,30,20,10
+33,1,2,40-30-20-10,baseline,1,False,40,False,0,C,D,"1
+C",40,30,20,10
+34,1,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+35,1,2,10-20-30-40,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,20,30,40
+36,1,2,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+37,1,2,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+38,1,2,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+39,1,3,10-40-20-30,baseline,2,False,40,False,0,B,C,"2
+B",10,40,20,30
+40,1,3,40-20-10-30,baseline,1,False,40,False,0,A,C,"1
+A",40,20,10,30
+41,1,3,20-10-40-30,baseline,1,False,20,False,0,B,A,"1
+B",20,10,40,30
+42,1,3,30-10-40-20,baseline,3,False,40,False,0,,B,3,30,10,40,20
+43,1,3,40-20-30-10,baseline,1,False,40,False,0,C,A,"1
+C",40,20,30,10
+44,1,3,30-10-40-20,baseline,1,False,30,True,30,D,D,"1
+D",30,10,40,20
+45,1,3,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+46,1,3,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+47,1,3,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+48,1,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+49,1,3,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+50,1,3,30-20-10-40,baseline,4,False,40,False,0,,D,4,30,20,10,40
+51,1,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+52,1,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+53,1,3,20-30-10-40,baseline,1,False,20,False,0,C,B,"1
+C",20,30,10,40
+54,1,3,10-40-20-30,baseline,1,False,10,False,0,B,C,1. B,10,40,20,30
+55,1,3,30-40-10-20,baseline,1,False,30,False,0,B,C,"1
+B",30,40,10,20
+56,1,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+57,1,3,10-20-30-40,baseline,1,False,10,False,0,D,A,1. D,10,20,30,40
+58,1,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+59,1,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+60,1,4,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+61,1,4,30-20-40-10,baseline,1,False,30,False,0,B,C,"1
+B",30,20,40,10
+62,1,4,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+63,1,4,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+64,1,4,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+65,1,4,40-10-30-20,baseline,1,False,40,False,0,A,C,"1
+A",40,10,30,20
+66,1,4,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+67,1,4,30-10-40-20,baseline,1,False,30,False,0,,C,1,30,10,40,20
+68,1,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+69,1,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+70,1,4,20-30-10-40,baseline,1,False,20,True,20,A,A,"1
+A",20,30,10,40
+71,1,4,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+72,1,4,20-30-40-10,baseline,3,False,40,False,0,,C,3,20,30,40,10
+73,1,4,40-20-30-10,baseline,1,False,40,False,0,A,C,1. A,40,20,30,10
+74,1,4,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+75,1,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+76,1,4,20-30-40-10,baseline,1,False,20,False,0,C,B,1. C,20,30,40,10
+77,1,5,20-10-30-40,baseline,1,False,20,False,0,A,C,1. A,20,10,30,40
+78,1,5,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+79,1,5,10-30-40-20,baseline,1,False,10,False,0,C,A,"1
+C",10,30,40,20
+80,1,5,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+81,1,5,20-40-10-30,baseline,2,False,40,False,0,C,D,"2
+C",20,40,10,30
+82,1,5,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+83,1,5,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+84,1,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+85,1,5,10-20-30-40,baseline,1,False,10,False,0,A,B,"1
+A",10,20,30,40
+86,1,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+87,1,5,20-30-40-10,baseline,2,False,30,True,30,A,A,"2
+A",20,30,40,10
+88,1,5,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+89,1,5,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+90,1,5,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+91,1,5,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+92,1,5,10-40-20-30,baseline,1,False,10,False,0,B,C,"1
+B",10,40,20,30
+93,1,5,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+94,1,5,40-10-20-30,baseline,1,False,40,False,0,A,C,"1
+A",40,10,20,30
+95,1,5,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+96,1,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+1,2,1,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+2,2,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+3,2,1,10-30-40-20,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,30,40,20
+4,2,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+5,2,1,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+6,2,1,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+7,2,1,30-20-10-40,baseline,1,False,30,True,30,A,A,1. A,30,20,10,40
+8,2,1,40-20-10-30,baseline,1,False,40,False,0,C,A,"1
+C",40,20,10,30
+9,2,1,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+10,2,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1. A buffer solution is a solution that resists changes in pH when a small amount of acid or base is added to it. A buffer solution is made up of a weak acid and its conjugate base or a weak base and its conjugate acid. 
+
+Let's analyze each option:
+
+(A) HC2H3O2(aq) and NaC2H3O2(aq",30,10,20,40
+11,2,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+12,2,1,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+13,2,1,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+14,2,1,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+15,2,1,40-20-30-10,baseline,1,False,40,False,0,D,A,1. D,40,20,30,10
+16,2,1,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+17,2,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1
+A",30,10,20,40
+18,2,1,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+19,2,1,30-20-40-10,baseline,1,False,30,False,0,B,C,1. B,30,20,40,10
+20,2,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+21,2,2,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+22,2,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,2,2,20-40-10-30,baseline,1,False,20,True,20,A,A,1. A,20,40,10,30
+24,2,2,30-40-20-10,baseline,1,False,30,False,0,D,B,"1
+D",30,40,20,10
+25,2,2,20-30-10-40,baseline,1,False,20,False,0,C,B,1. C,20,30,10,40
+26,2,2,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+27,2,2,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+28,2,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+29,2,2,40-10-30-20,baseline,1,False,40,False,0,C,A,"1
+C",40,10,30,20
+30,2,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+31,2,2,10-20-40-30,baseline,1,False,10,False,0,D,B,"1
+D",10,20,40,30
+32,2,2,40-30-20-10,baseline,1,False,40,False,0,,D,1,40,30,20,10
+33,2,2,40-30-20-10,baseline,1,False,40,False,0,C,D,"1
+C",40,30,20,10
+34,2,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+35,2,2,10-20-30-40,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,20,30,40
+36,2,2,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+37,2,2,20-40-10-30,baseline,-1,True,0,False,0,,,"1. A
+2. A
+3. C
+4. A",20,40,10,30
+38,2,2,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+39,2,3,10-40-20-30,baseline,2,False,40,False,0,B,C,"2
+B",10,40,20,30
+40,2,3,40-20-10-30,baseline,1,False,40,False,0,D,C,"1
+D",40,20,10,30
+41,2,3,20-10-40-30,baseline,1,False,20,False,0,C,A,"1
+C",20,10,40,30
+42,2,3,30-10-40-20,baseline,3,False,40,False,0,,B,3,30,10,40,20
+43,2,3,40-20-30-10,baseline,1,False,40,False,0,C,A,"1
+C",40,20,30,10
+44,2,3,30-10-40-20,baseline,1,False,30,True,30,D,D,"1
+D",30,10,40,20
+45,2,3,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+46,2,3,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+47,2,3,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+48,2,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+49,2,3,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+50,2,3,30-20-10-40,baseline,4,False,40,False,0,,D,4,30,20,10,40
+51,2,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+52,2,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+53,2,3,20-30-10-40,baseline,1,False,20,False,0,C,B,"1
+C",20,30,10,40
+54,2,3,10-40-20-30,baseline,1,False,10,False,0,B,C,1. B,10,40,20,30
+55,2,3,30-40-10-20,baseline,1,False,30,False,0,B,C,"1
+B",30,40,10,20
+56,2,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+57,2,3,10-20-30-40,baseline,1,False,10,False,0,D,A,1. D,10,20,30,40
+58,2,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+59,2,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+60,2,4,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+61,2,4,30-20-40-10,baseline,1,False,30,False,0,B,C,"1
+B",30,20,40,10
+62,2,4,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+63,2,4,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+64,2,4,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+65,2,4,40-10-30-20,baseline,1,False,40,False,0,A,C,"1
+A",40,10,30,20
+66,2,4,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+67,2,4,30-10-40-20,baseline,1,False,30,False,0,,C,1,30,10,40,20
+68,2,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+69,2,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+70,2,4,20-30-10-40,baseline,1,False,20,True,20,A,A,"1
+A",20,30,10,40
+71,2,4,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+72,2,4,20-30-40-10,baseline,3,False,40,False,0,,C,3,20,30,40,10
+73,2,4,40-20-30-10,baseline,1,False,40,False,0,A,C,1. A,40,20,30,10
+74,2,4,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+75,2,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+76,2,4,20-30-40-10,baseline,1,False,20,False,0,C,B,"1
+C",20,30,40,10
+77,2,5,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+78,2,5,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+79,2,5,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+80,2,5,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+81,2,5,20-40-10-30,baseline,2,False,40,False,0,C,D,"2
+C",20,40,10,30
+82,2,5,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+83,2,5,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+84,2,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+85,2,5,10-20-30-40,baseline,1,False,10,False,0,A,B,"1
+A",10,20,30,40
+86,2,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+87,2,5,20-30-40-10,baseline,2,False,30,True,30,A,A,"2
+A",20,30,40,10
+88,2,5,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+89,2,5,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+90,2,5,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+91,2,5,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+92,2,5,10-40-20-30,baseline,1,False,10,False,0,B,C,"1
+B",10,40,20,30
+93,2,5,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+94,2,5,40-10-20-30,baseline,1,False,40,False,0,A,C,"1
+A",40,10,20,30
+95,2,5,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+96,2,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+1,3,1,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+2,3,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+3,3,1,10-30-40-20,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,30,40,20
+4,3,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+5,3,1,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+6,3,1,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+7,3,1,30-20-10-40,baseline,1,False,30,True,30,A,A,1. A,30,20,10,40
+8,3,1,40-20-10-30,baseline,1,False,40,False,0,C,A,"1
+C",40,20,10,30
+9,3,1,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+10,3,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1. A buffer solution is a solution that resists changes in pH when small amounts of acid or base are added to it. A buffer solution is made up of a weak acid and its conjugate base, or a weak base and its conjugate acid. Therefore, the pair of substances that would make a good buffer solution is (A) HC2H3O2(aq) and Na",30,10,20,40
+11,3,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+12,3,1,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+13,3,1,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+14,3,1,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+15,3,1,40-20-30-10,baseline,1,False,40,False,0,D,A,1. D,40,20,30,10
+16,3,1,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+17,3,1,30-10-20-40,baseline,1,False,30,True,30,A,A,"1
+A",30,10,20,40
+18,3,1,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+19,3,1,30-20-40-10,baseline,1,False,30,False,0,B,C,1. B,30,20,40,10
+20,3,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+21,3,2,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A,40,30,10,20
+22,3,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,3,2,20-40-10-30,baseline,1,False,20,True,20,A,A,1. A,20,40,10,30
+24,3,2,30-40-20-10,baseline,1,False,30,False,0,D,B,"1
+D",30,40,20,10
+25,3,2,20-30-10-40,baseline,1,False,20,False,0,C,B,1. C,20,30,10,40
+26,3,2,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+27,3,2,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+28,3,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+29,3,2,40-10-30-20,baseline,1,False,40,False,0,C,A,"1
+C",40,10,30,20
+30,3,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+31,3,2,10-20-40-30,baseline,1,False,10,False,0,D,B,"1
+D",10,20,40,30
+32,3,2,40-30-20-10,baseline,1,False,40,False,0,,D,1,40,30,20,10
+33,3,2,40-30-20-10,baseline,1,False,40,False,0,C,D,"1
+C",40,30,20,10
+34,3,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+35,3,2,10-20-30-40,baseline,1,False,10,False,0,A,D,"1
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) the reaction is thermodynamically favored with virtual complete conversion of reactants to products (B) an extremely fast chemical reaction (C) a reaction with a very large increase in entropy (D) none of the above (10 points)
+
+A large positive value for the standard",10,20,30,40
+36,3,2,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+37,3,2,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+38,3,2,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+39,3,3,10-40-20-30,baseline,2,False,40,False,0,B,C,"2
+B",10,40,20,30
+40,3,3,40-20-10-30,baseline,1,False,40,False,0,A,C,"1
+A",40,20,10,30
+41,3,3,20-10-40-30,baseline,1,False,20,False,0,B,A,"1
+B",20,10,40,30
+42,3,3,30-10-40-20,baseline,3,False,40,False,0,,B,3,30,10,40,20
+43,3,3,40-20-30-10,baseline,1,False,40,False,0,C,A,"1
+C",40,20,30,10
+44,3,3,30-10-40-20,baseline,1,False,30,True,30,D,D,"1
+D",30,10,40,20
+45,3,3,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+46,3,3,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+47,3,3,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+48,3,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+49,3,3,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+50,3,3,30-20-10-40,baseline,4,False,40,False,0,,D,4,30,20,10,40
+51,3,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+52,3,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+53,3,3,20-30-10-40,baseline,1,False,20,False,0,C,B,"1
+C",20,30,10,40
+54,3,3,10-40-20-30,baseline,1,False,10,False,0,A,C,"1
+A",10,40,20,30
+55,3,3,30-40-10-20,baseline,1,False,30,False,0,B,C,"1
+B",30,40,10,20
+56,3,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+57,3,3,10-20-30-40,baseline,1,False,10,True,10,A,A,"1
+A",10,20,30,40
+58,3,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+59,3,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+60,3,4,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+61,3,4,30-20-40-10,baseline,1,False,30,False,0,B,C,"1
+B",30,20,40,10
+62,3,4,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+63,3,4,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+64,3,4,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+65,3,4,40-10-30-20,baseline,1,False,40,False,0,A,C,"1
+A",40,10,30,20
+66,3,4,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+67,3,4,30-10-40-20,baseline,1,False,30,False,0,,C,1,30,10,40,20
+68,3,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+69,3,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+70,3,4,20-30-10-40,baseline,1,False,20,False,0,D,A,1. D,20,30,10,40
+71,3,4,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+72,3,4,20-30-40-10,baseline,3,False,40,False,0,,C,3,20,30,40,10
+73,3,4,40-20-30-10,baseline,1,False,40,False,0,A,C,1. A,40,20,30,10
+74,3,4,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+75,3,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+76,3,4,20-30-40-10,baseline,1,False,20,False,0,C,B,1. C,20,30,40,10
+77,3,5,20-10-30-40,baseline,1,False,20,False,0,A,C,1. A,20,10,30,40
+78,3,5,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+79,3,5,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+80,3,5,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+81,3,5,20-40-10-30,baseline,2,False,40,False,0,C,D,"2
+C",20,40,10,30
+82,3,5,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+83,3,5,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+84,3,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+85,3,5,10-20-30-40,baseline,1,False,10,False,0,A,B,"1
+A",10,20,30,40
+86,3,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+87,3,5,20-30-40-10,baseline,2,False,30,True,30,A,A,"2
+A",20,30,40,10
+88,3,5,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+89,3,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+90,3,5,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+91,3,5,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+92,3,5,10-40-20-30,baseline,1,False,10,False,0,B,C,"1
+B",10,40,20,30
+93,3,5,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+94,3,5,40-10-20-30,baseline,1,False,40,False,0,A,C,"1
+A",40,10,20,30
+95,3,5,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+96,3,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+1,1,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The average mass, in grams, of one mole of carbon atoms is equal to the average mass of a single carbon atom, measured in amus.",20,10,40,30
+2,1,1,40-30-10-20,model_A,1,False,40,False,0,,A,1A,40,30,10,20
+3,1,1,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) 160 pm, 737 kJ/mol.",10,30,40,20
+4,1,1,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",20,40,30,10
+5,1,1,20-40-10-30,model_A,2,False,40,True,40,B,B,"2
+The mass of chloride present in the original sample is 0.355 g.
+
+ThereforeThe answer is (B) 0.355 g.",20,40,10,30
+6,1,1,10-30-40-20,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3A
+
+4D",10,30,40,20
+7,1,1,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",30,20,10,40
+8,1,1,40-20-10-30,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], where k is the rate constant.
+
+2C
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared.
+
+3B
+
+The thermal energy is transferred from the surroundings to the reaction.
+
+4C
+
+The pair of ions",40,20,10,30
+9,1,1,40-10-30-20,model_A,1,False,40,False,0,,C,1A,40,10,30,20
+10,1,1,30-10-20-40,model_A,1,False,30,True,30,A,A,"1A
+
+A buffer solution is formed when a weak acid and its conjugate base are present. The pair (A) HC2H3O2(aq) and NaC2H3O2(aq) would make a good buffer solution because acetic acid (HC2H3O2) is a weak acid and sodium acetate (NaC2H3O2)",30,10,20,40
+11,1,1,40-30-20-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+The ionization energy refers to the energy required to remove an electron from an atom. The atomic radius refers to the distance from the nucleus to the outermost electron shell. The ionization energy decreases as atomic radius increases. Therefore, The ionization energy 737 kJ/mol corresponds to atomic radius 160 pm.",40,30,20,10
+12,1,1,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",20,30,10,40
+13,1,1,10-30-20-40,model_A,1,False,10,False,0,,A,"2B
+
+The molecule CO32- would have the smallest bond angle between terminal atoms.",10,30,20,40
+14,1,1,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",10,20,40,30
+15,1,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",40,20,30,10
+16,1,1,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The mistake that will give the largest error in the result is (B) Failing to take the vapor pressure of water (23 torr at 25 °C) into account. This mistake would lead to anunderestimationoftheamountofhydrogengasformedandthereforetheamountofMgthatreacted.
+
+ThereforeTheCorrectAnswerIsB
+
+The mistakeThat",10,30,20,40
+17,1,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° can be calculated using the equation ΔG° = -RTlnKp, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and Kp is the equilibrium constant (2.6 × 10^8). Plugging these values into the equation",30,10,20,40
+18,1,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",40,10,20,30
+19,1,1,30-20-40-10,model_A,1,False,30,False,0,B,C,"Question 1
+
+The correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4
+
+The pH values of these acid solutions can be determined based on their acid strengths. HClO4 is a strong acid, HNO2 is a weak acid, H2CO3 is a weak acid, and H3PO4 is a weak",30,20,40,10
+20,1,2,10-40-30-20,model_A,1,False,10,True,10,A,A,"2B
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) involves gaseous reactants and gaseous products, making it a heterogeneous reaction. ThereforeThe answer is (B) 2SO2(aq) + O2(g) → 2SO3(g",10,40,30,20
+21,1,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl2 reacts with 2 mo",40,30,10,20
+22,1,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,1,2,20-40-10-30,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution can be calculated using the formula m = (mass of solute / mass of solvent) * 1000 / Volume of solution (in kg).Given Twenty-five milligrams (0.025g) of sucrose (C12H22O11) are dissolved in enough waterTo make 1.",20,40,10,30
+24,1,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1D
+
+The correct order of bond strength, therefore acid strength, is H2O > H2S > H2Se.",30,40,20,10
+25,1,2,20-30-10-40,model_A,1,False,20,True,20,B,B,"1A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation PbCl2 + 2AgNO3 -> 2AgCl +Pb(NO3)2 indicates that 1 mol of PbCl2 reacts with 2 mol of AgNO3. Therefore 0.0050 mol of PbCl2 reacts 0",20,30,10,40
+26,1,2,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3A
+
+4C",30,40,20,10
+27,1,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The pH value of a solution depends on the concentration of hydrogen ions ([H+]) present in the solution. The higher the [H+], the lower the pH. The [H+] concentration is determined by the dissociation constant (Ka) of the acid. The Ka values for HNO2, HClO4, H2CO3, and H3PO4 are",30,10,40,20
+28,1,2,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,20,10
+29,1,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. ThereforeThe correct answer isB.",40,10,30,20
+30,1,2,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,30,40,20
+31,1,2,10-20-40-30,model_A,1,False,10,False,0,,B,"1D
+
+The correct order of bond strength (and therefore acid strength) based on periodic relationships, bond strength, and acid strength concepts is H2O > H2S > H2Se. ThereforeThe correct answer is D) H2O > H2S > H2Se.",10,20,40,30
+32,1,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutesComparedWithTheEnergyReleasedWhenTheSolutesInteractMakEASolutionThermodynamicallyUnFavored.",40,30,20,10
+33,1,2,40-30-20-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is A.",40,30,20,10
+34,1,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",40,20,30,10
+35,1,2,10-20-30-40,model_A,1,False,10,False,0,A,D,"1A
+
+A large positive value for the standard Gibbs free energy change (ΔG°) indicates that the reaction is thermodynamically unfavorable. The reaction will not go to completion and will not occur spontaneously. Therefore, option A is correct.
+
+2D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies",10,20,30,40
+36,1,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1D
+
+2B
+
+3D
+
+4C",40,20,10,30
+37,1,2,20-40-10-30,model_A,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl",20,40,10,30
+38,1,2,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molality can be calculated using the formula:
+
+molality = moles of solute / kg solvent
+
+Firstly We need ToCalculateTheMolesOfSolute
+
+TheMolesOfSolute = 25mg / 12C12H2",10,30,20,40
+39,1,3,10-40-20-30,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+40,1,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1D
+
+The mistake thatwillgivethe largest errorintheresultisReadingthegas-collectingcontainerto±20mL. ThisisbecauseThevolumeofhydrogenwasmeasuredandconvertedintoMolesofhydrogen. Ifthevolumeismeasured±20mLTheMolesofhydrogenwillbeoffby±20mL/2=±1",40,20,10,30
+41,1,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings.",20,10,40,30
+42,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3C
+
+4A",30,10,40,20
+43,1,3,40-20-30-10,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is k[A]^2[B], where k is the rate constant.
+
+2A
+
+The molality (m) of the solution can be calculated using the formula m = (mass/1000) / (Volume/L) = (25mg/1000) / (1L",40,20,30,10
+44,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating"" the molecules inthetwo solutescomparedwiththeenergyreleasedwhenthesolutesinteractmakeasolutionthermodynamicallyunfavored.",30,10,40,20
+45,1,3,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) involves solid carbon (C) reacting with gaseous nitrogen dioxide (N2O) producing gaseous carbon dioxide (CO2), gaseous water (H2O), and gaseous nitrogen (",20,40,30,10
+46,1,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"2A
+
+An element in its ground state (A) has all of its electrons in the lowest possible energy levels",10,40,30,20
+47,1,3,40-30-10-20,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], indicating that the reaction is second order with respect to A.",40,30,10,20
+48,1,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° is -48.0 kJ/mol.",30,20,10,40
+49,1,3,10-40-20-30,model_A,2,False,40,False,0,A,D,"2
+
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) The reaction is thermodynamically favored with virtual complete conversion of reactants to products",10,40,20,30
+50,1,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3A
+
+4D",30,20,10,40
+51,1,3,20-40-30-10,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. ThereforeThe correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4.",20,40,30,10
+52,1,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies theground stateoftheelementCa.",20,30,40,10
+53,1,3,20-30-10-40,model_A,1,False,20,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid (Ka = 1.75 × 10^-5) and NaC3H2O2 is its conjugate base. The buffer system would consist",20,30,10,40
+54,1,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1A
+
+The mistake that will give the largest error in the result is (A) Forgetting to dry the magnesium before both weighings. This will cause an error in the mass measurement, leading to incorrect calculations of moles of hydrogen formed.
+
+2C
+
+The easiest way to burn a silver coin is (C) Grind the silver coin into very small, dust-sized particles, and spray",10,40,20,30
+55,1,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,10,20
+56,1,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+The average mass, in grams, of one mole of carbon atoms is equaltothe mass, in grams, ofthe most abundantisotopeofcarbon.",30,20,10,40
+57,1,3,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The value of ΔG° can be calculated using the equation ΔG° = -RTlnKw, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and Kw is the equilibrium constant (2.6 × 10^8). Plugging these values into the equation",10,20,30,40
+58,1,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. Therefore, The correct answer is (B)It is transferred fromthe reactiontothe surroundings.",30,10,20,40
+59,1,4,20-10-30-40,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution can be calculated using the formula m = (mass of solute / molality) * 1000. The molality (M) can be calculated using M = (moles of solute / mass of solvent) * 1000. The mass (g) of sucrose (C12H22",20,10,30,40
+60,1,4,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+2A
+
+3C
+
+4A",40,10,20,30
+61,1,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,20,40,10
+62,1,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",30,40,10,20
+63,1,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+64,1,4,40-30-20-10,model_A,1,False,40,False,0,B,A,"Question 1
+
+The rate law for the reaction 2A + B → 2P is (A) impossible to determine without experimental data (B) [A]^2[ B] (C) k[A]^2[ B] (D) second order with respect to A
+
+Answer: C
+
+Question 2
+
+Which of the following salts is expected to produce an alkaline solution",40,30,20,10
+65,1,4,40-10-30-20,model_A,1,False,40,False,0,A,C,"1B
+
+The addition of a catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules. This allows the reaction to proceed faster.
+
+2A
+
+A large positive value for ΔG° indicates that the reaction is thermodynamically favored with virtual complete conversion of reactants to products.
+
+3D
+
+The strength of binary acids generally increases as you move down a group in",40,10,30,20
+66,1,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1D
+
+The average mass, in grams, of one mole of carbon atoms is equal to the mass, in grams, of the most abundant isotope of carbon.",20,10,40,30
+67,1,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+The pH values of acid solutions depend on the strength of the acid. The stronger the acid, the lower the pH. The pH values decrease as follows: HNO2 > HClO4 > H2CO3 > H3PO4. ThereforeThe correct answer is D.",30,10,40,20
+68,1,4,20-10-30-40,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution can be calculated using the formula m = (mass of solute) / (mass of solvent) * 1000 / (Moles of solute) * 1000 / (Volume of solution) 
+
+Given 25mg = 0.025g sucrose (C12H22",20,10,30,40
+69,1,4,30-10-20-40,model_A,1,False,30,True,30,A,A,"1
+A
+
+The first ionization energy of sodium is 496 kJ/mol, and its atomic radius is 186 pm. Therefore, option A (160 pm, 737 kJ/mol) is incorrect. Option B (86 pm, 398 kJ/mol) is incorrect because 86 pm is smaller than 18",30,10,20,40
+70,1,4,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+The value of ΔG° can be calculated using the formula ΔG° = -RTlnK, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and K is the equilibrium constant (2.6 × 10^8). Plugging these values into the formula gives",20,30,10,40
+71,1,4,30-20-40-10,model_A,1,False,30,False,0,A,C,"1A
+
+The easiest way to burn a silver coin is by holding it with crucible tongs and heating it strongly in the flame of a Bunsen burner.",30,20,40,10
+72,1,4,20-30-40-10,model_A,3,False,40,False,0,,C,"3
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",20,30,40,10
+73,1,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The easiest way to burn asilver coinisbyholdingthesilvercoinwithcrucibletongsandheatingstronglyintheflameofaBunsenburner.",40,20,30,10
+74,1,4,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The attractive forces in vinegar (mainly hydrogen bonding) are much stronger than those in vegetable oil (mainly instantaneous dipoles), so the liquids always separate into two phases.",10,20,40,30
+75,1,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The ionization energy of sodium is 496 kJ/mol, so 737 kJ/mol would be incorrect. The atomic radius of sodium is 186 pm, so 86 pm would be incorrect. The atomic radius cannot be 235 pm or 240 pm because 235 pm would be larger than 18",20,10,40,30
+76,1,4,20-30-40-10,model_A,1,False,20,False,0,C,B,"1C
+
+The correct answer is (C) HC3H2O2 and NaC3H2O2. The buffer capacity depends on the pKa value of the acid-base pair used. The pKa value should be close to the desired pH value. The pKa value of HC3H2O2 is 1.75 × 10^-5, which means",20,30,40,10
+77,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms.",20,10,30,40
+78,1,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1D
+
+2D
+
+3D
+
+4D",40,10,30,20
+79,1,5,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+The first ionization energy of sodium is 496 kJ/mol, and its atomic radius is 186 pm. (A) 160 pm, 737 kJ/mol (B) 86 pm, 398 kJkJ/mol (C) 235 pm, 523 kkJ/mol (D)",10,30,40,20
+80,1,5,10-20-40-30,model_A,1,False,10,False,0,,A,"Question 1
+
+The value of ΔG° is -48.0 kJ/mol.
+
+Question 2
+
+The mistake that will give the largest error in the result is (A) Forgetting to dry the magnesium before both weighings.
+
+Question 3
+
+The correct order of bond strength from strongest to weakest is (D) H2O > H2S > H2Se.",10,20,40,30
+81,1,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+
+The electromagnetic spectral regions listed from decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",20,40,10,30
+82,1,5,40-10-20-30,model_A,1,False,40,True,40,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",40,10,20,30
+83,1,5,10-20-30-40,model_A,1,False,10,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid and NaC3H2O2 is its conjugate base. The buffer system would consist of HC3H2O2 + HC3H2O2-",10,20,30,40
+84,1,5,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B].",10,30,20,40
+85,1,5,10-20-30-40,model_A,1,False,10,True,10,B,B,"1A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation shows that 1 mol of PbCl2 precipitate is formed from 1 mol of Cl- ions. Therefore, 0.0050 mol of PbCl2 corresponds to 0.0050 mol * 35.453 g/mol",10,20,30,40
+86,1,5,30-40-10-20,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. Therefore, HClO4 > HNO2 > H2CO3 > H3PO4.",30,40,10,20
+87,1,5,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The value of ΔG° is -48.0 kJ/mol.",20,30,40,10
+88,1,5,40-20-10-30,model_A,1,False,40,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",40,20,10,30
+89,1,5,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",10,40,30,20
+90,1,5,20-40-30-10,model_A,1,False,20,False,0,,C,2C2H2(g) + 5O2(g) → 4CO2(g) + 2H2O(g),20,40,30,10
+91,1,5,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element (D) Ca
+
+Question 2
+
+The equilibrium constant of a certain reaction is 2.6 × 10^8 at 25 °C. What is the value of ΔG°",20,10,30,40
+92,1,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+93,1,5,10-40-30-20,model_A,1,False,10,True,10,A,A,"2A
+
+The pair of substances that would make a good buffer solution is (A) HC2H3O2(aq) and NaC2H3O2(aq).",10,40,30,20
+94,1,5,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms. The bond angle between terminal atoms refers to the angle formed between two terminal atoms (in this case, oxygen) bonded to a central atom (carbon)in CO2.The bond angle between terminal atoms refersToTheAngleformedbetweenTwoTerminalAtomsInThisCaseOxygenBondedToACentralAtomCarbonInCO",40,10,20,30
+95,1,5,40-30-10-20,model_A,1,False,40,True,40,D,D,"Question 1
+
+Answer: D
+
+The salt Na2S is expected to produce an alkaline solution when one mole is dissolved in one liter of water because it is a strong base. When Na2S dissolves in water, it ionizes completely into Na+ and S2- ions. The S2- ions react with water molecules to produceOH-ions, resultinginanalkal",40,30,10,20
+96,1,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) is best classified as a heterogeneous reaction because it involves gaseous reactants (C2H2, N2O) reacting to form gaseous products (CO2, H2O, N2).",30,20,40,10
+1,2,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The average mass, in grams, of one mole of carbon atoms is equal to the average mass of a single carbon atom, measured in amus.",20,10,40,30
+2,2,1,40-30-10-20,model_A,1,False,40,False,0,,A,1A,40,30,10,20
+3,2,1,10-30-40-20,model_A,2,False,30,False,0,B,A,"2
+
+The correct answer is (B) 86 pm, 398 kJ/mol.",10,30,40,20
+4,2,1,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",20,40,30,10
+5,2,1,20-40-10-30,model_A,2,False,40,True,40,B,B,"2
+The mass of chloride present in the original sample is 0.355 g.
+
+ThereforeThe answer is (B) 0.355 g.",20,40,10,30
+6,2,1,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+An element in its ground state (A) has all of its electrons in the lowest possible energy levels",10,30,40,20
+7,2,1,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",30,20,10,40
+8,2,1,40-20-10-30,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], where k is the rate constant.
+
+2C
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared.
+
+3B
+
+The thermal energy is transferred from the reaction to the surroundings.
+
+4C
+
+The pair of ions",40,20,10,30
+9,2,1,40-10-30-20,model_A,1,False,40,False,0,,C,1A,40,10,30,20
+10,2,1,30-10-20-40,model_A,1,False,30,True,30,A,A,"1A
+
+A buffer solution is formed when a weak acid and its conjugate base are present. The pair (A) HC2H3O2(aq) and NaC2H3O2(aq) would make a good buffer solution because acetic acid (HC2H3O2) is a weak acid and sodium acetate (NaC2H3O2)",30,10,20,40
+11,2,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies theground stateoftheelement
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifiestheground stateoftheelement
+
+The electron configuration 1s2",40,30,20,10
+12,2,1,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",20,30,10,40
+13,2,1,10-30-20-40,model_A,1,False,10,False,0,,A,"2B
+
+The molecule CO32- would have the smallest bond angle between terminal atoms.",10,30,20,40
+14,2,1,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",10,20,40,30
+15,2,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",40,20,30,10
+16,2,1,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The mistake that will give the largest error in the result is (B) Failing to take the vapor pressure of water (23 torr at 25 °C) into account. This mistake would lead to anunderestimationoftheamountofhydrogengasformedandthereforetheamountofMgthatreacted.
+
+The mistakeA)ForgettingtoDrytheMagn",10,30,20,40
+17,2,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° can be calculated using the formula ΔG° = -RTlnKp, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and Kp is the equilibrium constant (2.6 × 10^8). Plugging these values into the formula",30,10,20,40
+18,2,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",40,10,20,30
+19,2,1,30-20-40-10,model_A,1,False,30,False,0,B,C,"Question 1
+
+The correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4
+
+The pH values of these acid solutions can be determined based on their acid strengths. HClO4 is a strong acid, HNO2 is a weak acid, H2CO3 is a weak acid, and H3PO4 is a weak",30,20,40,10
+20,2,2,10-40-30-20,model_A,2,False,40,False,0,A,D,"2
+
+The equation C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) is best classified as a heterogeneous reaction.",10,40,30,20
+21,2,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl2 reacts with 2 mo",40,30,10,20
+22,2,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,2,2,20-40-10-30,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molecular mass (M) of sucrose (C12H22O11) = 180.16 g/mol. The number of moles (n) = 25mg/180.16g/mol =",20,40,10,30
+24,2,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1D
+
+The correct order of bond strength, therefore acid strength, is H2O > H2S > H2Se.",30,40,20,10
+25,2,2,20-30-10-40,model_A,1,False,20,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl2 reacts with 2 mo",20,30,10,40
+26,2,2,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3A
+
+4C",30,40,20,10
+27,2,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The pH value of a solution depends on the concentration of hydrogen ions ([H+]) present in the solution. The higher the [H+], the lower the pH. The [H+] concentration is determined by the dissociation constant (Ka) of the acid. The Ka values for HNO2, HClO4, H2CO3, and H3PO4 are",30,10,40,20
+28,2,2,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,20,10
+29,2,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. ThereforeThe correct answer isB.",40,10,30,20
+30,2,2,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,30,40,20
+31,2,2,10-20-40-30,model_A,1,False,10,False,0,,B,"1D
+
+The correct order of bond strength (and therefore acid strength) based on periodic relationships, bond strength, and acid strength concepts is H2Se > H2S > H2O. ThereforeThe correct answer is D) H2O > H2S > H2Se.",10,20,40,30
+32,2,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating"" the molecules inthetwo solutescomparedwiththeenergyreleasedwhenthesolutesinteractmakeasolutionthermodynamicallyunfavored.",40,30,20,10
+33,2,2,40-30-20-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared.",40,30,20,10
+34,2,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",40,20,30,10
+35,2,2,10-20-30-40,model_A,1,False,10,False,0,A,D,"1A
+
+A large positive value for the standard Gibbs free energy change (ΔG°) indicates that the reaction is thermodynamically unfavorable. The reaction will not go to completion and will not occur spontaneously. Therefore, A is correct.
+
+2D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the",10,20,30,40
+36,2,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1D
+
+2B
+
+3D
+
+4C",40,20,10,30
+37,2,2,20-40-10-30,model_A,1,False,20,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl2 reacts with 2 mo",20,40,10,30
+38,2,2,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molality can be calculated using the formula:
+
+molality = moles of solute / kg solvent
+
+Firstly We need ToCalculateTheMolesOfSolute
+
+TheMolesOfSolute = 25mg / 12C12H2",10,30,20,40
+39,2,3,10-40-20-30,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+40,2,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1D
+
+The mistake thatwillgivethe largest errorintheresultisReadingthegas-collectingcontainerto±20mL. ThisisbecauseThevolumeofhydrogenwasmeasuredandconvertedintoMolesofhydrogen. Ifthevolumeismeasured±20mLTheMolesofhydrogenwillbeoffby±20mL/2=±1",40,20,10,30
+41,2,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings.",20,10,40,30
+42,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3C
+
+4A",30,10,40,20
+43,2,3,40-20-30-10,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is k[A]^2[B], where k is the rate constant.
+
+2A
+
+The molality (m) of sucrose solution can be calculated using the formula m = (mass/180.16) / (1/1000) = 7.31 ×",40,20,30,10
+44,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating"" the molecules inthetwo solutescomparedwiththeenergyreleasedwhenthesolutesinteractmakeasolutionthermodynamicallyunfavored.",30,10,40,20
+45,2,3,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) involves solid carbon (C) reacting with gaseous nitrogen dioxide (N2O) producing gaseous carbon dioxide (CO2), gaseous water (H2O), and gaseous nitrogen (",20,40,30,10
+46,2,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"2A
+
+An element in its ground state (A) has all of its electrons in the lowest possible energy levels",10,40,30,20
+47,2,3,40-30-10-20,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], indicating that the reaction is second order with respect to A.",40,30,10,20
+48,2,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° is -48.0 kJ/mol.",30,20,10,40
+49,2,3,10-40-20-30,model_A,2,False,40,False,0,A,D,"2
+
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) The reaction is thermodynamically favored with virtual complete conversion of reactants to products",10,40,20,30
+50,2,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3A
+
+4D",30,20,10,40
+51,2,3,20-40-30-10,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. ThereforeThe correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4.",20,40,30,10
+52,2,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies theground stateoftheelementCa.",20,30,40,10
+53,2,3,20-30-10-40,model_A,1,False,20,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid (Ka = 1.75 × 10^-5) and NaC3H2O2 is its conjugate base. The buffer system would consist",20,30,10,40
+54,2,3,10-40-20-30,model_A,1,False,10,False,0,,C,"1D
+
+The mistake thatwillgivethe largesterrorintheresultisDReadingthegas-collectingcontainerto±20mL
+
+2C
+
+TheeasiestwaytoburnasilvercoinisCGrindthesilvercoinintoverysmallDust-sizedparticlesandspraytheparticlesintoaBunsenburnerflame
+
+3A
+
+Thefirstionizationenergy",10,40,20,30
+55,2,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,10,20
+56,2,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+The average mass, in grams, of one mole of carbon atoms is equal to the mass, in grams, of the most abundant isotope of carbon.",30,20,10,40
+57,2,3,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The value of ΔG° can be calculated using the equation ΔG° = -RTlnKw, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and Kw is the equilibrium constant (2.6 × 10^8). Plugging these values into the equation",10,20,30,40
+58,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. Therefore, The correct answer is (B)It is transferred fromthe reactiontothe surroundings.",30,10,20,40
+59,2,4,20-10-30-40,model_A,1,False,20,True,20,A,A,"1
+A
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molecular mass (M) of sucrose (C12H22O11) = 180.16 g/mol. The number of moles (n) = 25mg/180.16g/mol",20,10,30,40
+60,2,4,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+2A
+
+3C
+
+4A",40,10,20,30
+61,2,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,20,40,10
+62,2,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",30,40,10,20
+63,2,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+64,2,4,40-30-20-10,model_A,1,False,40,False,0,B,A,"Question 1
+
+The rate law for the reaction 2A + B → 2P is (A) impossible to determine without experimental data (B) [A]^2[ B] (C) k[A]^2[ B] (D) second order with respect to A
+
+Answer: C
+
+Question 2
+
+Which of the following salts is expected to produce an alkaline solution",40,30,20,10
+65,2,4,40-10-30-20,model_A,1,False,40,False,0,A,C,"1B
+
+The addition of a catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules. This allows the reaction to proceed faster.",40,10,30,20
+66,2,4,20-10-40-30,model_A,1,False,20,True,20,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",20,10,40,30
+67,2,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+The pH values of acid solutions decrease as you go down the list. ThereforeThe correct answer is D.",30,10,40,20
+68,2,4,20-10-30-40,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution can be calculated using the formula m = (mass of solute) / (mass of solvent) * 1000 / (Volume of solution) * 1000
+
+Given 25 mg (0.025 g) of sucrose (C12H22O11) dissolved in",20,10,30,40
+69,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The molecule CO2 would have the smallest bond angle between terminal atoms.",30,10,20,40
+70,2,4,20-30-10-40,model_A,1,False,20,False,0,,A,"1
+
+The value of ΔG° can be calculated using the formula ΔG° = -RTlnK, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and K is the equilibrium constant (2.6 × 10^8). Plugging these values into the formula gives Δ",20,30,10,40
+71,2,4,30-20-40-10,model_A,1,False,30,False,0,A,C,"1A
+
+The easiest way to burn a silver coin would be (A) Hold the silver coin with crucible tongs, and heat strongly in the flame of a Bunsen burner. This method requires minimal preparation and equipment compared to the other options.
+
+2B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. Therefore, the correct answer is (B)",30,20,40,10
+72,2,4,20-30-40-10,model_A,3,False,40,False,0,,C,"3
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",20,30,40,10
+73,2,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The easiest way to burn asilver coinisbyholdingthesilvercoinwithcrucibletongsandheatingstronglyintheflameofaBunsenburner.",40,20,30,10
+74,2,4,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The attractive forces in vinegar (mainly hydrogen bonding) are much stronger than those in vegetable oil (mainly instantaneous dipoles), so the liquids always separate into two phases.",10,20,40,30
+75,2,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The ionization energy of sodium is 496 kJ/mol, so 737 kJ/mol would be incorrect. The atomic radius of sodium is 186 pm, so 86 pm would be incorrect. The atomic radius cannot be 235 pm or 240 pm because 186 pm is already too large.
+
+2D",20,10,40,30
+76,2,4,20-30-40-10,model_A,1,False,20,False,0,C,B,"1C
+
+The correct answer is (C) HC3H2O2 and NaC3H2O2. The buffer capacity depends on the pKa value of the acid-base pair. The pKa value should be close to the desired pH value. The pKa value of HC3H2O2 is 1.75 × 10^-5, which is closer",20,30,40,10
+77,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms.",20,10,30,40
+78,2,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1D
+
+2D
+
+3D
+
+4D",40,10,30,20
+79,2,5,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+The first ionization energy of sodium is 496 kJ/mol, and its atomic radius is 186 pm. (A) 160 pm, 737 kJ/mol (B) 86 pm, 398 kJkJ/mol (C) 235 pm, 523 kkJ/mol (D)",10,30,40,20
+80,2,5,10-20-40-30,model_A,1,False,10,False,0,,A,"Question 1
+
+The value of ΔG° is -48.0 kJ/mol.
+
+Question 2
+
+The mistake that will give the largest error in the result is (A) Forgetting to dry the magnesium before both weighings.
+
+Question 3
+
+The correct order of bond strength from strongest to weakest is (D) H2O > H2S > H2Se.",10,20,40,30
+81,2,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+
+The electromagnetic spectral regions listed from decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",20,40,10,30
+82,2,5,40-10-20-30,model_A,1,False,40,True,40,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",40,10,20,30
+83,2,5,10-20-30-40,model_A,1,False,10,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid and NaC3H2O2 is its conjugate base. The buffer system would consist of HC3H2O2 + HC3H2O2-",10,20,30,40
+84,2,5,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B].",10,30,20,40
+85,2,5,10-20-30-40,model_A,1,False,10,True,10,B,B,"1A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation shows that 1 mol of PbCl2 precipitate is formed from 1 mol of Cl- ions. Therefore, 0.0050 mol of PbCl2 corresponds to 0.0050 mol * 35.453 g/mol",10,20,30,40
+86,2,5,30-40-10-20,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. Therefore, HClO4 > HNO2 > H2CO3 > H3PO4.",30,40,10,20
+87,2,5,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The value of ΔG° is -48.0 kJ/mol.",20,30,40,10
+88,2,5,40-20-10-30,model_A,1,False,40,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",40,20,10,30
+89,2,5,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",10,40,30,20
+90,2,5,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+
+The equation C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) represents a heterogeneous reaction because it involves gaseous reactants (C2H2, N2O) reacting to form gaseous products (CO2, H2O, N2). ThereforeThe answer is",20,40,30,10
+91,2,5,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+Answer: D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",20,10,30,40
+92,2,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+93,2,5,10-40-30-20,model_A,1,False,10,True,10,A,A,"2A
+
+The pair of substances that would make a good buffer solution is (A) HC2H3O2(aq) and NaC2H3O2(aq).",10,40,30,20
+94,2,5,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms. The bond angle between terminal atoms refers to the angle formed between two terminal atoms (in this case, oxygen) bonded to a central atom (carbon)in CO2.The bond angle between terminal atoms refersToTheAngleformedbetweenTwoTerminalAtomsInThisCaseOxygenBondedToACentralAtomCarbonInCO",40,10,20,30
+95,2,5,40-30-10-20,model_A,1,False,40,True,40,D,D,"Question 1
+
+Answer: D
+
+The salt Na2S is expected to produce an alkaline solution when one mole is dissolved in one liter of water because it is a strong base.",40,30,10,20
+96,2,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) is best classified as a heterogeneous reaction because it involves gaseous reactants (C2H2, N2O) reacting to form gaseous products (CO2, H2O, N2).",30,20,40,10
+1,3,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The average mass, in grams, of one mole of carbon atoms is equal to the average mass of a single carbon atom, measured in amus.",20,10,40,30
+2,3,1,40-30-10-20,model_A,1,False,40,False,0,,A,1A,40,30,10,20
+3,3,1,10-30-40-20,model_A,2,False,30,False,0,B,A,"2
+
+The correct answer is (B) 86 pm, 398 kJ/mol.",10,30,40,20
+4,3,1,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",20,40,30,10
+5,3,1,20-40-10-30,model_A,2,False,40,True,40,B,B,"2
+The mass of chloride present in the original sample is 0.355 g.
+
+ThereforeThe answer is (B) 0.355 g.",20,40,10,30
+6,3,1,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+An element in its ground state (A) has all of its electrons in the lowest possible energy levels",10,30,40,20
+7,3,1,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",30,20,10,40
+8,3,1,40-20-10-30,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], where k is the rate constant.
+
+2C
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared.
+
+3B
+
+The thermal energy is transferred from the surroundings to the reaction.
+
+4C
+
+The pair of ions",40,20,10,30
+9,3,1,40-10-30-20,model_A,1,False,40,False,0,,C,1A,40,10,30,20
+10,3,1,30-10-20-40,model_A,1,False,30,True,30,A,A,"1A
+
+A buffer solution is formed when a weak acid and its conjugate base (or vice versa) are present. The pair (A) HC2H3O2(aq) and NaC2H3O2(aq) would make a good buffer solution because acetic acid (HC2H3O2) is a weak acid and sodium acetate (NaC2",30,10,20,40
+11,3,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies theground stateoftheelement
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifiestheground stateoftheelement
+
+The electron configuration 1s2",40,30,20,10
+12,3,1,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",20,30,10,40
+13,3,1,10-30-20-40,model_A,1,False,10,False,0,,A,"2B
+
+The molecule CO32- would have the smallest bond angle between terminal atoms.",10,30,20,40
+14,3,1,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",10,20,40,30
+15,3,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus. (B) the ratio of the number of carbon atoms to the mass of a single carbon atom. (C) the number of carbon atoms in one amu of carbon. (D) the mass, in grams",40,20,30,10
+16,3,1,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The mistake that will give the largest error in the result is (B) Failing to take the vapor pressure of water (23 torr at 25 °C) into account. This mistake would lead to anunderestimationoftheamountofhydrogengasformedandthereforetheamountofMgthatreacted.
+
+ThereforeTheCorrectAnswerIsB
+
+TheCorrectAnswer",10,30,20,40
+17,3,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° can be calculated using the equation ΔG° = -RTlnKp, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and Kp is the equilibrium constant (2.6 × 10^8). Plugging these values into the equation",30,10,20,40
+18,3,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",40,10,20,30
+19,3,1,30-20-40-10,model_A,1,False,30,False,0,B,C,"Question 1
+
+The correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4
+
+The pH values of these acid solutions can be determined based on their acid strengths. HClO4 is a strong acid, HNO2 is a weak acid, H2CO3 is a weak acid, and H3PO4 is a weak",30,20,40,10
+20,3,2,10-40-30-20,model_A,1,False,10,True,10,A,A,"2B
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) involves gaseous reactants and gaseous products, making it a heterogeneous reaction. ThereforeThe answer is (B) 2SO2(aq) + O2(g) → 2SO3(g",10,40,30,20
+21,3,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl2 reacts with 2 mo",40,30,10,20
+22,3,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+The answer is D. The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",30,40,20,10
+23,3,2,20-40-10-30,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molecular mass (M) of sucrose (C12H22O11) = 180.16 g/mol. The number of moles (n) = 25mg/180.16g/mol =",20,40,10,30
+24,3,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1D
+
+The correct order of bond strength, therefore acid strength, is H2O > H2S > H2Se.",30,40,20,10
+25,3,2,20-30-10-40,model_A,1,False,20,False,0,,B,"1
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we see that 1 mole of PbCl2 reacts with 2 moles",20,30,10,40
+26,3,2,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3A
+
+4C",30,40,20,10
+27,3,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The pH value of a solution depends on the concentration of hydrogen ions ([H+]) present in the solution. The higher the [H+], the lower the pH. The [H+] concentration can be determined by calculating the dissociation constant (Ka) of each acid. The Ka values are 2.3×10^-2, 1.2×10^-",30,10,40,20
+28,3,2,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,20,10
+29,3,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. Therefore, The correct answer is (B)It is transferred fromthe reactiontothe surroundings.",40,10,30,20
+30,3,2,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,30,40,20
+31,3,2,10-20-40-30,model_A,1,False,10,False,0,,B,"1D
+
+The correct order of bond strength (and therefore acid strength) based on periodic relationships, bond strength, and acid strength concepts is H2O > H2S > H2Se. ThereforeThe correct answer is D.",10,20,40,30
+32,3,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating"" the molecules inthetwo solutescomparedwiththeenergyreleasedwhenthesolutesinteractmakeasolutionthermodynamicallyunfavored.",40,30,20,10
+33,3,2,40-30-20-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The electromagnetic spectral regions listed in order of decreasing wavelength are X-ray, ultraviolet, visible, infrared.",40,30,20,10
+34,3,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",40,20,30,10
+35,3,2,10-20-30-40,model_A,1,False,10,False,0,A,D,"1A
+
+A large positive value for the standard Gibbs free energy change (ΔG°) indicates that the reaction is thermodynamically unfavorable. The reaction will not go to completion and will not occur spontaneously. Therefore, option A is correct.
+
+2D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies",10,20,30,40
+36,3,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1D
+
+2B
+
+3D
+
+4C",40,20,10,30
+37,3,2,20-40-10-30,model_A,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation for the reaction between Pb(NO3)2 and KCl is:
+
+Pb(NO3)2 + 2KCl → PbCl2 + 2KNO3
+
+From the balanced equation, we can see that 1 mole of PbCl",20,40,10,30
+38,3,2,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The molality (m) of a solution is defined as moles of solute per kilogram of solvent. The molality can be calculated using the formula:
+
+molality = moles of solute / kg solvent
+
+Firstly We need ToCalculateTheMolesOfSolute
+
+TheMolesOfSolute = 25mg / 12C12H2",10,30,20,40
+39,3,3,10-40-20-30,model_A,2,False,40,False,0,,C,"2
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+40,3,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1D
+
+The mistake thatwillgivethe largesterrorintheresultisDReadingthegas-collectingcontainerto±20mL
+
+2C
+
+TheeasiestwaytoburnasilvercoinisCGrindthesilvercoinintoverysmallDust-sizedparticlesandspraytheparticlesintoaBunsenburnerflame
+
+3A
+
+TheMassofchloride",40,20,10,30
+41,3,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings.",20,10,40,30
+42,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3C
+
+4A",30,10,40,20
+43,3,3,40-20-30-10,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is k[A]^2[B], where k is the rate constant.
+
+2A
+
+The molality (m) of the solution can be calculated using the formula m = (mass/1000) / (Volume/L) = (25mg/1000) / (1L",40,20,30,10
+44,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating"" the molecules inthetwo solutescomparedwiththeenergyreleasedwhenthesolutesinteractmakeasolutionthermodynamicallyunfavored.",30,10,40,20
+45,3,3,20-40-30-10,model_A,1,False,20,False,0,C,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) involves solid carbon (C) reacting with gaseous nitrogen dioxide (N2O) producing gaseous carbon dioxide (CO2), gaseous water (H2O), and gaseous nitrogen (",20,40,30,10
+46,3,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"2A
+
+An element in its ground state (A) has all of its electrons in the lowest possible energy levels",10,40,30,20
+47,3,3,40-30-10-20,model_A,1,False,40,False,0,B,A,"1C
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B], indicating that the reaction is second order with respect to A.",40,30,10,20
+48,3,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The value of ΔG° is -48.0 kJ/mol.",30,20,10,40
+49,3,3,10-40-20-30,model_A,2,False,40,False,0,A,D,"2
+
+A large positive value for the standard Gibbs free energy change (ΔG°) for a reaction means (A) The reaction is thermodynamically favored with virtual complete conversion of reactants to products",10,40,20,30
+50,3,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+2A
+
+3A
+
+4D",30,20,10,40
+51,3,3,20-40-30-10,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. ThereforeThe correct answer is (B) HClO4 > HNO2 > H2CO3 > H3PO4.",20,40,30,10
+52,3,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies theground stateoftheelementCa.",20,30,40,10
+53,3,3,20-30-10-40,model_A,1,False,20,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid (Ka = 1.75 × 10^-5) and NaC3H2O2 is its conjugate base. The buffer system will consist",20,30,10,40
+54,3,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1A
+
+The mistake that will give the largest error in the result is (A) Forgetting to dry the magnesium before both weighings. This will cause an error in determining the amount of magnesium that reacted, leading to an inaccurate calculation of moles of hydrogen formed.
+
+2C
+
+The easiest way to burn a silver coin is (C) Grind the silver coin into very small, dust",10,40,20,30
+55,3,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,40,10,20
+56,3,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+The average mass, in grams, of one mole of carbon atoms is equaltothe mass, in grams, ofthe most abundantisotopeofcarbon.",30,20,10,40
+57,3,3,10-20-30-40,model_A,1,False,10,True,10,A,A,"1
+A
+
+The value of ΔG° can be calculated using the equation ΔG° = -RTlnK, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and K is the equilibrium constant (2.6 × 10^8). Plugging these values into the equation",10,20,30,40
+58,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1B
+
+The thermal energy released during photosynthesis is transferred from the reaction to the surroundings. Therefore, The correct answer is (B)It is transferred fromthe reactiontothe surroundings.",30,10,20,40
+59,3,4,20-10-30-40,model_A,1,False,20,True,20,A,A,"1
+
+The molality (m) of a solution can be calculated using the formula m = (mass of solute / molality) * 1000. The molality (M) can be calculated using M = (moles of solute / mass of solvent) * 1000. The mass (g) of sucrose (C12H22",20,10,30,40
+60,3,4,40-10-20-30,model_A,1,False,40,False,0,C,D,"1D
+
+The element C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO) and a solid product (CO2).",40,10,20,30
+61,3,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",30,20,40,10
+62,3,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",30,40,10,20
+63,3,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+64,3,4,40-30-20-10,model_A,1,False,40,False,0,B,A,"Question 1
+
+The rate law for the reaction 2A + B → 2P is (A) impossible to determine without experimental data (B) [A]^2[ B] (C) k[A]^2[ B] (D) second order with respect to A
+
+Answer: C
+
+Question 2
+
+Which of the following salts is expected to produce an alkaline solution",40,30,20,10
+65,3,4,40-10-30-20,model_A,1,False,40,False,0,A,C,"1B
+
+The addition of a catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules. This allows the reaction to proceed faster.",40,10,30,20
+66,3,4,20-10-40-30,model_A,1,False,20,True,20,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",20,10,40,30
+67,3,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+The pH values of acid solutions depend on their respective acid strengths. The stronger the acid, the lower the pH value. The pH values decrease as follows: HNO2 > HClO4 > H2CO3 > H3PO4. ThereforeThe correct answer is D.",30,10,40,20
+68,3,4,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3C
+
+4A",20,10,30,40
+69,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The molecule CO2 would have the smallest bond angle between terminal atoms.",30,10,20,40
+70,3,4,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+The value of ΔG° can be calculated using the formula ΔG° = -RTlnK, where R is the gas constant (8.314 J/(mol·K)), T is the temperature (298.15 K), and K is the equilibrium constant (2.6 × 10^8). Plugging these values into the formula gives",20,30,10,40
+71,3,4,30-20-40-10,model_A,1,False,30,False,0,A,C,"1A
+
+The easiest way to burn a silver coin is by holding it with crucible tongs and heating it strongly in the flame of a Bunsen burner.",30,20,40,10
+72,3,4,20-30-40-10,model_A,3,False,40,False,0,,C,"3
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",20,30,40,10
+73,3,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The easiest way to burn asilver coinisbyholdingthesilvercoinwithcrucibletongsandheatingstronglyintheflameofaBunsenburner.",40,20,30,10
+74,3,4,10-20-40-30,model_A,1,False,10,False,0,,A,2D,10,20,40,30
+75,3,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The ionization energy of sodium is 496 kJ/mol, so 737 kJ/mol would be incorrect. The atomic radius of sodium is 186 pm, so 86 pm would be incorrect. The atomic radius cannot be 235 pm or 240 pm because 186 pm is already too large.
+
+2D",20,10,40,30
+76,3,4,20-30-40-10,model_A,1,False,20,False,0,C,B,"1C
+
+The correct answer is (C) HC3H2O2 and NaC3H2O2. The buffer capacity depends on the pKa value of the acid-base pair. The pKa value should be close to the desired pH. The pKa value of HC3H2O2 is 1.75 × 10^-5, which is closer to",20,30,40,10
+77,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms. The bond angle between terminal atoms refers to the angle formed between two terminal atoms (in this case, oxygen) bonded to a central atom (in this case, carbon). The bond angle decreases as we go down Group 16 (Oxygen, Sulfur, Selenium, Tellurium) becausethe electron",20,10,30,40
+78,3,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1D
+
+2D
+
+3D
+
+4D",40,10,30,20
+79,3,5,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+
+The first ionization energy of sodium is 496 kJ/mol, and its atomic radius is 186 pm. (A) 160 pm, 737 kJ/mol (B) 86 pm, 398 kJkJ/mol (C) 235 pm, 523 kkJ/mol (D)",10,30,40,20
+80,3,5,10-20-40-30,model_A,1,False,10,False,0,,A,"Question 1
+
+The value of ΔG° is -48.0 kJ/mol.
+
+Question 2
+
+The mistake that will give the largest error in the result is (A) Forgetting to dry the magnesium before both weighings.
+
+Question 3
+
+The correct order of bond strength from strongest to weakest is (D) H2O > H2S > H2Se.",10,20,40,30
+81,3,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+
+The electromagnetic spectral regions listed from decreasing wavelength are X-ray, ultraviolet, visible, infrared. ThereforeThe answer is (C) X-ray, ultraviolet, visible, infrared.",20,40,10,30
+82,3,5,40-10-20-30,model_A,1,False,40,True,40,A,A,"1A
+
+The average mass, in grams, of one mole of carbon atoms is equal to (A) the average mass of a single carbon atom, measured in amus.",40,10,20,30
+83,3,5,10-20-30-40,model_A,1,False,10,False,0,A,B,"1C
+
+The pair of ions that would make the best buffer with a basic pH is HC3H2O2 and NaC3H2O2. This is because HC3H2O2 is a weak acid and NaC3H2O2 is its conjugate base. The buffer system would consist of HC3H2O2 + HC3H2O2-",10,20,30,40
+84,3,5,10-30-20-40,model_A,2,False,30,False,0,B,A,"2
+
+The rate law for the reaction 2A + B → 2P is C) k[A]^2[B].",10,30,20,40
+85,3,5,10-20-30-40,model_A,1,False,10,True,10,B,B,"1A
+
+The mass of chloride present in the original sample can be calculated using stoichiometry. The balanced chemical equation shows that 1 mol of PbCl2 precipitate is formed from 1 mol of Cl- ions. Therefore, 0.0050 mol of PbCl2 corresponds to 0.0050 mol * 35.453 g/mol",10,20,30,40
+86,3,5,30-40-10-20,model_A,2,False,40,False,0,,C,"2
+
+The pH values of acid solutions decrease as you go down the list. Therefore, HClO4 > HNO2 > H2CO3 > H3PO4.",30,40,10,20
+87,3,5,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The value of ΔG° is -48.0 kJ/mol.",20,30,40,10
+88,3,5,40-20-10-30,model_A,1,False,40,False,0,C,D,"1D
+
+The reaction C(s) + H2O(g) → H2(g) + CO(g) is best classified as a heterogeneous reaction because it involves a solid reactant (C) reacting with a gas reactant (H2O) to produce two gases (H2 and CO).",40,20,10,30
+89,3,5,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+The unfavorable large endothermic process of ""separating""the moleculesintheTwoSolutescomparedwiththeEnergyreleasedWhenTheSolutesInteractMakessolutionThermodynamicallyUnfavored.",10,40,30,20
+90,3,5,20-40-30-10,model_A,1,False,20,False,0,,C,2C2H2(g) + 5O2(g) → 4CO2(g) + 2H2O(g),20,40,30,10
+91,3,5,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+Answer: D
+
+The electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 signifies the ground state of the element Ca.",20,10,30,40
+92,3,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1B
+
+The catalyst increases the frequency of collisions that occur at the proper orientation in the reactant molecules.",10,40,20,30
+93,3,5,10-40-30-20,model_A,1,False,10,True,10,A,A,"2A
+
+The pair of substances that would make a good buffer solution is (A) HC2H3O2(aq) and NaC2H3O2(aq).",10,40,30,20
+94,3,5,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+The molecule CO2 would have the smallest bond angle between terminal atoms. The bond angle between terminal atoms refers to the angle formed between two terminal atoms (in this case, oxygen) bonded to a central atom (carbon)in CO2.The bond angle between terminal atoms refersToTheAngleformedbetweenTwoTerminalAtomsInThisCaseOxygenBondedToACentralAtomCarbonInCO",40,10,20,30
+95,3,5,40-30-10-20,model_A,1,False,40,True,40,D,D,"Question 1
+
+Answer: D
+
+The salt Na2S is expected to produce an alkaline solution when one mole is dissolved in one liter of water because it is a strong base. When Na2S dissolves in water, it ionizes completely into Na+ and S2- ions. The S2- ions react with H+ ions from water to form HS- ions, which then",40,30,10,20
+96,3,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1D
+
+The reaction C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g) is best classified as a heterogeneous reaction because it involves gaseous reactants (C2H2, N2O) reacting to form gaseous products (CO2, H2O, N2).",30,20,40,10

@@ -1,0 +1,1639 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+2,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+3,1,1,10-20-30-40,baseline,1,False,10,False,0,B,A,1. B,10,20,30,40
+4,1,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+5,1,1,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+6,1,1,40-10-30-20,baseline,1,False,40,False,0,A,C,1. A,40,10,30,20
+7,1,1,30-10-20-40,baseline,1,False,30,False,0,D,B,1. D,30,10,20,40
+8,1,1,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+9,1,1,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+10,1,1,30-10-40-20,baseline,1,False,30,False,0,A,C,1. A,30,10,40,20
+11,1,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D) supply is elastic,20,10,30,40
+12,1,1,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+13,1,1,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+14,1,1,30-20-10-40,baseline,1,False,30,False,0,B,D,1. B,30,20,10,40
+15,1,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+16,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+17,1,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+18,1,1,10-30-40-20,baseline,1,False,10,True,10,C,C,1. C,10,30,40,20
+19,1,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+20,1,2,20-40-30-10,baseline,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+21,1,2,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+22,1,2,20-40-30-10,baseline,1,False,20,True,20,C,C,1. C,20,40,30,10
+23,1,2,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+24,1,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+25,1,2,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+26,1,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+27,1,2,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+28,1,2,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+29,1,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+30,1,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+31,1,2,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+32,1,2,30-10-20-40,baseline,4,False,40,True,40,D,D,4. D,30,10,20,40
+33,1,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+34,1,2,40-10-30-20,baseline,1,False,40,False,0,A,B,1. A,40,10,30,20
+35,1,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,1,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+37,1,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,1,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+39,1,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+40,1,3,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+41,1,3,30-20-10-40,baseline,1,False,30,False,0,B,A,1. B,30,20,10,40
+42,1,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+43,1,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+44,1,3,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+45,1,3,20-40-30-10,baseline,1,False,20,True,20,C,C,1. C,20,40,30,10
+46,1,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+47,1,3,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+48,1,3,10-30-40-20,baseline,1,False,10,False,0,B,D,1. B,10,30,40,20
+49,1,3,10-40-20-30,baseline,1,False,10,False,0,D,C,1. D,10,40,20,30
+50,1,3,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+51,1,3,20-30-10-40,baseline,2,False,30,True,30,D,D,"2
+D",20,30,10,40
+52,1,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+53,1,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+54,1,3,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+55,1,3,10-20-40-30,baseline,2,False,20,True,20,C,C,"2
+C",10,20,40,30
+56,1,3,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+57,1,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+58,1,4,20-30-40-10,baseline,1,False,20,False,0,A,B,1. A,20,30,40,10
+59,1,4,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+60,1,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+61,1,4,20-30-40-10,baseline,1,False,20,True,20,C,C,1. C,20,30,40,10
+62,1,4,40-20-10-30,baseline,1,False,40,False,0,A,C,1. A,40,20,10,30
+63,1,4,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+64,1,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+65,1,4,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+66,1,4,30-20-40-10,baseline,1,False,30,False,0,A,B,1. A,30,20,40,10
+67,1,4,30-40-10-20,baseline,1,False,30,False,0,D,C,1. D,30,40,10,20
+68,1,4,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+69,1,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+70,1,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+71,1,4,40-20-30-10,baseline,1,False,40,False,0,B,A,1. B,40,20,30,10
+72,1,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+73,1,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+74,1,4,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+75,1,4,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+76,1,4,10-20-40-30,baseline,1,False,10,True,10,B,B,1. B,10,20,40,30
+77,1,5,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+78,1,5,30-10-40-20,baseline,1,False,30,True,30,A,A,1. A,30,10,40,20
+79,1,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+80,1,5,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+81,1,5,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+82,1,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+83,1,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+84,1,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+85,1,5,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+86,1,5,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+87,1,5,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+88,1,5,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+89,1,5,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+90,1,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+91,1,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+92,1,5,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+93,1,5,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+94,1,5,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+95,1,5,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+96,1,5,20-30-10-40,baseline,1,False,20,False,0,C,D,1. C,20,30,10,40
+1,2,1,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+2,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+3,2,1,10-20-30-40,baseline,1,False,10,False,0,B,A,1. B,10,20,30,40
+4,2,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+5,2,1,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+6,2,1,40-10-30-20,baseline,1,False,40,False,0,A,C,1. A,40,10,30,20
+7,2,1,30-10-20-40,baseline,1,False,30,False,0,D,B,1. D,30,10,20,40
+8,2,1,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+9,2,1,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+10,2,1,30-10-40-20,baseline,1,False,30,False,0,A,C,1. A,30,10,40,20
+11,2,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D) supply is elastic,20,10,30,40
+12,2,1,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+13,2,1,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+14,2,1,30-20-10-40,baseline,1,False,30,False,0,B,D,1. B,30,20,10,40
+15,2,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+16,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+17,2,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+18,2,1,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+19,2,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+20,2,2,20-40-30-10,baseline,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+21,2,2,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+22,2,2,20-40-30-10,baseline,1,False,20,True,20,C,C,"1
+C",20,40,30,10
+23,2,2,10-30-20-40,baseline,1,False,10,True,10,D,D,"1
+D",10,30,20,40
+24,2,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+25,2,2,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+26,2,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+27,2,2,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+28,2,2,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+29,2,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+30,2,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+31,2,2,30-40-20-10,baseline,1,False,30,False,0,A,B,"1. A change in which of the following will NOT cause a shift in the demand curve for hamburgers? (A) The price of hot dogs (B) The price of hamburgers (C) The price of hamburger buns (D) Income levels of hamburger consumers (30 points)
+
+Answer: A",30,40,20,10
+32,2,2,30-10-20-40,baseline,4,False,40,True,40,D,D,4. D,30,10,20,40
+33,2,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+34,2,2,40-10-30-20,baseline,1,False,40,False,0,A,B,1. A,40,10,30,20
+35,2,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,2,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+37,2,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,2,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+39,2,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+40,2,3,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+41,2,3,30-20-10-40,baseline,1,False,30,False,0,B,A,1. B,30,20,10,40
+42,2,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+43,2,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+44,2,3,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+45,2,3,20-40-30-10,baseline,1,False,20,True,20,C,C,1. C,20,40,30,10
+46,2,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+47,2,3,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+48,2,3,10-30-40-20,baseline,1,False,10,False,0,B,D,1. B,10,30,40,20
+49,2,3,10-40-20-30,baseline,1,False,10,False,0,D,C,1. D,10,40,20,30
+50,2,3,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+51,2,3,20-30-10-40,baseline,2,False,30,True,30,D,D,"2
+D",20,30,10,40
+52,2,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+53,2,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+54,2,3,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+55,2,3,10-20-40-30,baseline,2,False,20,True,20,C,C,"2
+C",10,20,40,30
+56,2,3,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+57,2,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+58,2,4,20-30-40-10,baseline,1,False,20,False,0,A,B,1. A,20,30,40,10
+59,2,4,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+60,2,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+61,2,4,20-30-40-10,baseline,1,False,20,True,20,C,C,1. C,20,30,40,10
+62,2,4,40-20-10-30,baseline,1,False,40,False,0,A,C,1. A,40,20,10,30
+63,2,4,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+64,2,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+65,2,4,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+66,2,4,30-20-40-10,baseline,1,False,30,False,0,A,B,1. A,30,20,40,10
+67,2,4,30-40-10-20,baseline,1,False,30,False,0,D,C,1. D,30,40,10,20
+68,2,4,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+69,2,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+70,2,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+71,2,4,40-20-30-10,baseline,1,False,40,False,0,B,A,1. B,40,20,30,10
+72,2,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+73,2,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+74,2,4,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+75,2,4,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+76,2,4,10-20-40-30,baseline,1,False,10,True,10,B,B,1. B,10,20,40,30
+77,2,5,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+78,2,5,30-10-40-20,baseline,1,False,30,True,30,A,A,1. A,30,10,40,20
+79,2,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+80,2,5,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+81,2,5,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+82,2,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+83,2,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+84,2,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+85,2,5,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+86,2,5,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+87,2,5,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+88,2,5,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+89,2,5,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+90,2,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+91,2,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+92,2,5,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+93,2,5,10-20-30-40,baseline,1,False,10,False,0,A,C,1. A,10,20,30,40
+94,2,5,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+95,2,5,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+96,2,5,20-30-10-40,baseline,1,False,20,False,0,C,D,1. C,20,30,10,40
+1,3,1,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+2,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+3,3,1,10-20-30-40,baseline,1,False,10,False,0,B,A,1. B,10,20,30,40
+4,3,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+5,3,1,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+6,3,1,40-10-30-20,baseline,1,False,40,False,0,A,C,1. A,40,10,30,20
+7,3,1,30-10-20-40,baseline,1,False,30,False,0,D,B,1. D,30,10,20,40
+8,3,1,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+9,3,1,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+10,3,1,30-10-40-20,baseline,1,False,30,False,0,A,C,1. A,30,10,40,20
+11,3,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+12,3,1,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+13,3,1,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+14,3,1,30-20-10-40,baseline,1,False,30,False,0,B,D,1. B,30,20,10,40
+15,3,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+16,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+17,3,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+18,3,1,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+19,3,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+20,3,2,20-40-30-10,baseline,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+21,3,2,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+22,3,2,20-40-30-10,baseline,1,False,20,True,20,C,C,"1
+C",20,40,30,10
+23,3,2,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+24,3,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+25,3,2,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+26,3,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+27,3,2,20-10-30-40,baseline,1,False,20,False,0,D,C,"1
+D",20,10,30,40
+28,3,2,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+29,3,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+30,3,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+31,3,2,30-40-20-10,baseline,1,False,30,False,0,A,B,"1. A change in which of the following will NOT cause a shift in the demand curve for hamburgers? (A) The price of hot dogs (B) The price of hamburgers (C) The price of hamburger buns (D) Income levels of hamburger consumers (30 points)
+
+Answer: A",30,40,20,10
+32,3,2,30-10-20-40,baseline,4,False,40,True,40,D,D,4. D,30,10,20,40
+33,3,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+34,3,2,40-10-30-20,baseline,1,False,40,False,0,A,B,1. A,40,10,30,20
+35,3,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,3,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+37,3,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,3,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+39,3,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+40,3,3,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+41,3,3,30-20-10-40,baseline,1,False,30,False,0,B,A,1. B,30,20,10,40
+42,3,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+43,3,3,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+44,3,3,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+45,3,3,20-40-30-10,baseline,1,False,20,True,20,C,C,1. C,20,40,30,10
+46,3,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+47,3,3,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+48,3,3,10-30-40-20,baseline,1,False,10,False,0,B,D,1. B,10,30,40,20
+49,3,3,10-40-20-30,baseline,1,False,10,False,0,D,C,1. D,10,40,20,30
+50,3,3,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+51,3,3,20-30-10-40,baseline,2,False,30,True,30,D,D,"2
+D",20,30,10,40
+52,3,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+53,3,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+54,3,3,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+55,3,3,10-20-40-30,baseline,2,False,20,True,20,C,C,"2
+C",10,20,40,30
+56,3,3,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+57,3,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+58,3,4,20-30-40-10,baseline,1,False,20,False,0,A,B,1. A,20,30,40,10
+59,3,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+60,3,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+61,3,4,20-30-40-10,baseline,1,False,20,True,20,C,C,1. C,20,30,40,10
+62,3,4,40-20-10-30,baseline,1,False,40,False,0,A,C,1. A,40,20,10,30
+63,3,4,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+64,3,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+65,3,4,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+66,3,4,30-20-40-10,baseline,1,False,30,False,0,A,B,1. A,30,20,40,10
+67,3,4,30-40-10-20,baseline,1,False,30,False,0,D,C,1. D,30,40,10,20
+68,3,4,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+69,3,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+70,3,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+71,3,4,40-20-30-10,baseline,1,False,40,False,0,B,A,1. B,40,20,30,10
+72,3,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+73,3,4,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+74,3,4,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+75,3,4,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+76,3,4,10-20-40-30,baseline,1,False,10,True,10,B,B,1. B,10,20,40,30
+77,3,5,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+78,3,5,30-10-40-20,baseline,1,False,30,True,30,A,A,1. A,30,10,40,20
+79,3,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+80,3,5,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+81,3,5,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+82,3,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+83,3,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+84,3,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+85,3,5,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+86,3,5,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+87,3,5,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+88,3,5,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+89,3,5,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+90,3,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+91,3,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+92,3,5,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+93,3,5,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+94,3,5,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+95,3,5,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+96,3,5,20-30-10-40,baseline,1,False,20,False,0,C,D,1. C,20,30,10,40
+1,1,1,20-40-10-30,model_A,1,False,20,False,0,D,A,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",20,40,10,30
+2,1,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2C
+
+3C
+
+4B",40,10,30,20
+3,1,1,10-20-30-40,model_A,1,False,10,True,10,A,A,"1A
+
+The correct answer is A. If the price of a product decreases so that the consumer can buy more of it and other products, this is called the income effect.",10,20,30,40
+4,1,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+5,1,1,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+6,1,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,10,30,20
+7,1,1,30-10-20-40,model_A,1,False,30,False,0,A,B,"1A
+
+A change in the price of hot dogs will cause a shift in the demand curve for hamburgers because hamburgers and hot dogs are substitute goods. If the price of hot dogs increases, consumers will switch to hamburgers, causing an increase in demand. Similarly, IfThe price of hamburgers increases, consumers will switch to substitute goods, causing a decreasein demand. IfThe price of",30,10,20,40
+8,1,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+
+The government action that would most likely achieve anoptimalorefficientoutcomewouldproduceTheOutputwouldincrease;Pricewouldincrease.",10,30,40,20
+9,1,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",20,40,30,10
+10,1,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",30,10,40,20
+11,1,1,20-10-30-40,model_A,3,False,30,True,30,A,A,"1D
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, supply is elastic.",20,10,30,40
+12,1,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+In the long run, a monopolistically competitive firm earns positive economic profit.",10,20,40,30
+13,1,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+14,1,1,30-20-10-40,model_A,1,False,30,False,0,A,D,"1D
+
+The demand curve for a firm operating under perfect competition is perfectly horizontal (D) because firms are price takers and cannot influence the market price.
+
+2A
+
+A change in the price of hot dogs (A) will cause a shift in the demand curve for hamburgers because hot dogs and hamburgers are substitute goods. However, a change in the price of hamburgers (B),",30,20,10,40
+15,1,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",10,20,30,40
+16,1,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+17,1,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,30,10,20
+18,1,1,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+19,1,1,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+2D
+
+3C
+
+4A",10,30,20,40
+20,1,2,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, which of the following is NOT correct?
+
+C) It is a sign of high concentration among sellers.",20,40,30,10
+21,1,2,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3C
+
+4D",40,20,10,30
+22,1,2,20-40-30-10,model_A,1,False,20,True,20,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. When a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, this indicates that demand is elastic. Elastic demand means that a percentage change in quantity demanded is greater than a percentage change in price.",20,40,30,10
+23,1,2,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+2B
+
+3B
+
+4C",10,30,20,40
+24,1,2,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+
+As a firm's output increases, average costs for production decrease.",30,40,10,20
+25,1,2,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",20,30,40,10
+26,1,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply.",20,10,40,30
+27,1,2,20-10-30-40,model_A,1,False,20,False,0,A,C,"1D
+
+As a firm's inputs triple, its output doubles. This exemplifies economies of scale.",20,10,30,40
+28,1,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2B
+
+If the added satisfaction of each additional unit of a good decreases as the price increases, then the correct concept is Diminishing marginal utility. This means that Each additional unit",40,30,20,10
+29,1,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+30,1,2,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. When a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, this indicates that demand is elastic. Elastic demand means that a percentage change in quantity demanded is greater than a percentage change in price.",30,20,10,40
+31,1,2,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+An industry with three firms selling a standardized or differentiated product would be called (B) monopolistically competitive industry.",30,40,20,10
+32,1,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3B
+
+4C",30,10,20,40
+33,1,2,10-40-30-20,model_A,2,False,40,True,40,B,B,"2
+
+The result is (B) a definite increase in quantity and an indeterminate change in price.",10,40,30,20
+34,1,2,40-10-30-20,model_A,1,False,40,False,0,A,B,"1A
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+35,1,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4B",30,40,10,20
+36,1,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3C
+
+4B",40,30,10,20
+37,1,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,1,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1D
+
+2B
+
+3C
+
+4A",40,30,20,10
+39,1,3,10-40-20-30,model_A,1,False,10,True,10,D,D,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",10,40,20,30
+40,1,3,20-10-40-30,model_A,1,False,20,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis NOT correctthatItis a sign of high concentration among sellers.",20,10,40,30
+41,1,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",30,20,10,40
+42,1,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+An industry with three firms selling a standardized or differentiated product would be called (C) an oligopoly.",40,30,20,10
+43,1,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+If there is a negative externality associatedwiththe productionofaprivategoodwhichofthefollowingisanactionbygovernmentthatwouldmostlikelymovethemarkettoanefficientoutcome?C
+
+ATaxthefirm.",40,30,20,10
+44,1,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+45,1,3,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",20,40,30,10
+46,1,3,30-10-40-20,model_A,1,False,30,True,30,D,D,"1D
+
+The demand curve for the firm operating under perfect competition is (D) perfectly horizontal function.
+
+2A
+
+When the labor demand curve is downward-sloping, an increase in the minimum wage is (A) beneficial to some workers and harmful to other workers.
+
+3A
+
+When the labor demand curve is downward-sloping, anincreaseintheminimumwageis(A)benef",30,10,40,20
+47,1,3,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as More elastic in the long run.",10,20,40,30
+48,1,3,10-30-40-20,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3C
+
+4B",10,30,40,20
+49,1,3,10-40-20-30,model_A,1,False,10,True,10,C,C,"1C
+
+The correct answer is (C) Price and marginal revenue are equal at all levels of output. This is characteristic of a perfectly competitive firm's demand curve.",10,40,20,30
+50,1,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4C",30,20,40,10
+51,1,3,20-30-10-40,model_A,2,False,30,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,30,10,40
+52,1,3,10-30-20-40,model_A,1,False,10,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",10,30,20,40
+53,1,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,30,10
+54,1,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,10,40,30
+55,1,3,10-20-40-30,model_A,1,False,10,False,0,,A,"2C
+
+Average total cost equals average fixed costs plus average variable costs.",10,20,40,30
+56,1,3,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+57,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+58,1,4,20-30-40-10,model_A,1,False,20,False,0,A,B,"1A
+
+If supply and demand both increase, the result is (A) a definite increase in price and an indeterminate change in quantity.",20,30,40,10
+59,1,4,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",10,40,30,20
+60,1,4,30-10-40-20,model_A,1,False,30,False,0,A,B,"1B
+
+The scenario that would increase a nation's production possibility frontier (PPF) is (B) The nation invests in research and development of new technology. This is because investing in R&D leads to technological advancements, which can increase productivity and output across various sectors, thereby expanding the PPF.
+
+2B
+
+The scenario that best exemplifies economies of scale is (B) As a",30,10,40,20
+61,1,4,20-30-40-10,model_A,2,False,30,False,0,A,C,"2
+
+The supply curve of firms operating under conditions of perfect competition would be identified as (D) more elastic in the short run.",20,30,40,10
+62,1,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,10,30
+63,1,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,40,10,30
+64,1,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2B
+
+3B
+
+4C",20,10,40,30
+65,1,4,10-30-40-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",10,30,40,20
+66,1,4,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,20,40,10
+67,1,4,30-40-10-20,model_A,1,False,30,False,0,A,C,"1C
+
+As a firm's inputs triple, its output quadruples. This exemplifies economies of scale.",30,40,10,20
+68,1,4,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The shut down price is equal to the minimum point on average variable cost.",30,40,20,10
+69,1,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",20,10,30,40
+70,1,4,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The correct answer is D) Excess capacity compared to competitive industries. Inefficiency occurs when firms produce more output than necessary, leading to excess capacity.
+
+2C
+
+The correct answer is C) Demand is elastic. If a 3 percent increase in price leads to a 5 percent increase in quantity supplied, demand is elastic.
+
+3C
+
+The correct answer is C) Rel",40,20,10,30
+71,1,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The correct answer is (A)Income effect. When the price of a product decreases, consumers can buy more of it and other products duetotheincomeeffect. Thisisbecausetheconsumer'spurchasingpowerhasincreasedduetothecheaperpriceoftheproduct.
+
+2C
+
+The correctansweris(C)AverageTotalCostequalsAverageFixedCostsplusAverageVariableCost",40,20,30,10
+72,1,4,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+If there is a negative externality associatedwiththe productionofaprivategoodwhichofthefollowingisanactionbygovernmentthatwouldmostlikelymovethemarkettoanefficientoutcome?CTaxthefirm.",30,10,20,40
+73,1,4,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",40,20,10,30
+74,1,4,20-30-10-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) The income effect. When the price of a product decreases, consumers can buy more of it and potentially other products as well because they have more purchasing power.
+
+2C
+
+The correct answer is (C) The minimum point on average variable cost. The shutdown point occurs when the price falls below the minimum point on the average variable cost curve.
+
+3D",20,30,10,40
+75,1,4,40-20-30-10,model_A,1,False,40,False,0,A,B,"1D
+
+A change in the price of hamburger buns will cause a shift in the demand curve for hamburgers because hamburger buns are a complementary good. The demand curve shifts because consumers will change their consumption of hamburgers based on the price of hamburger buns.Income levels of hamburger consumers will cause a shift inthe demand curvefor hamburgersbecausetheconsumptionofhamburgerswillchang",40,20,30,10
+76,1,4,10-20-40-30,model_A,1,False,10,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",10,20,40,30
+77,1,5,20-30-10-40,model_A,2,False,30,False,0,B,D,"2
+
+The answer is B. Both the supply of and the demand for the good increase.",20,30,10,40
+78,1,5,30-10-40-20,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4C",30,10,40,20
+79,1,5,10-40-20-30,model_A,1,False,10,False,0,,A,"2D
+
+The government action that would most likely achieve anoptimalorefficientoutcomewouldproduceTheeffectontheMarketEquilibriumPriceandOutputwouldbeOutputwoulddecreasePricewouldincrease.",10,40,20,30
+80,1,5,10-30-20-40,model_A,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+81,1,5,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,10,20,30
+82,1,5,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",40,20,30,10
+83,1,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",10,40,20,30
+84,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2C
+
+The price elasticity of demand is elastic. This means that a 15% decrease in price leads to a 30% increase in total revenue, indicating that demand",20,10,30,40
+85,1,5,10-40-30-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals price (P) and MR equals MC (Marginal Cost) only at the quantity produced where MR = P = MC. This point represents the output level where the firm maximizes its profit. Therefore,Marginal revenue (MR) = Marginal cost (",10,40,30,20
+86,1,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply based on changes in price.",30,20,40,10
+87,1,5,30-20-40-10,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is (A) The income effect. When the price of a product decreases, consumers can buy more of it and potentially other products as well due to their increased purchasing power. This is called the income effect.
+
+2C
+
+The correct answer is (C) The price of hamburger buns. A change in the price of hamburger buns will cause a shift in the",30,20,40,10
+88,1,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+2A
+
+3B
+
+4D",30,10,20,40
+89,1,5,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. This is because If a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, This indicates that The price elasticity of demand is elastic.",30,20,10,40
+90,1,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3B
+
+4B",40,10,20,30
+91,1,5,30-40-10-20,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) It is a sign of high concentration among sellers. 
+
+When marginal cost equals price, it means that the price is equal to marginal revenue. This occurs only when there is perfect competition. In perfect competition, there are many buyers and sellers, and no single seller has any control over the market price. Therefore, high concentration among sellers is NOT correct.",30,40,10,20
+92,1,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,40,10,30
+93,1,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",10,20,30,40
+94,1,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",20,30,40,10
+95,1,5,10-20-30-40,model_A,2,False,20,False,0,A,C,"2
+
+The characteristic of a perfectly competitive firm's demand curve is (C) Price and marginal revenue are equal at all levels of output.",10,20,30,40
+96,1,5,20-30-10-40,model_A,1,False,20,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",20,30,10,40
+1,2,1,20-40-10-30,model_A,1,False,20,False,0,D,A,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",20,40,10,30
+2,2,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2C
+
+3C
+
+4B",40,10,30,20
+3,2,1,10-20-30-40,model_A,1,False,10,True,10,A,A,"1A
+
+The correct answer is A. The income effect refers to the change in consumption caused by a change in real income. When the price of a product decreases, consumers can afford to buy more of it and other products, leading to an increase in consumption. This is called the income effect.",10,20,30,40
+4,2,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+5,2,1,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+6,2,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,10,30,20
+7,2,1,30-10-20-40,model_A,1,False,30,False,0,A,B,"1A
+
+A change in the price of hot dogs will cause a shift in the demand curve for hamburgers because hamburgers and hot dogs are substitute goods. If the price of hot dogs increases, consumers will switch to hamburgers, causing an increase in demand. Similarly, IfThe price of hamburgers increases, consumers will switch to substitute goods, causing a decreasein demand. IfThe price of",30,10,20,40
+8,2,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+
+The government action that would most likely achieve anoptimalorefficientoutcomewouldproduceTheOutputwouldincrease;Pricewouldincrease.",10,30,40,20
+9,2,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",20,40,30,10
+10,2,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",30,10,40,20
+11,2,1,20-10-30-40,model_A,3,False,30,True,30,A,A,"1D
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, supply is elastic.",20,10,30,40
+12,2,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+In the long run, a monopolistically competitive firm earns positive economic profit.",10,20,40,30
+13,2,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+14,2,1,30-20-10-40,model_A,1,False,30,False,0,A,D,"1D
+
+The demand curve for a firm operating under perfect competition is perfectly horizontal (D) because firms are price takers and cannot influence the market price.
+
+2A
+
+A change in the price of hot dogs (A) will cause a shift in the demand curve for hamburgers because hot dogs and hamburgers are substitute goods. However, a change in the price of hamburgers (B),",30,20,10,40
+15,2,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",10,20,30,40
+16,2,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+17,2,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,30,10,20
+18,2,1,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+19,2,1,10-30-20-40,model_A,1,False,10,True,10,D,D,"1D
+
+The correct answer is D) Excess capacity compared to competitive industries. In monopolistic competition, firms produce less than perfectly competitive firms' output levels, leading to excess capacity.
+
+2D
+
+The correct answer is D) It is the same as the market demand curve. In perfect competition, a firm's demand curve is identical to the market demand curve.
+
+3C
+
+The correct answer",10,30,20,40
+20,2,2,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, which of the following is NOT correct?
+
+C) It is a sign of high concentration among sellers.",20,40,30,10
+21,2,2,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3C
+
+4D",40,20,10,30
+22,2,2,20-40-30-10,model_A,1,False,20,False,0,A,C,"2B
+
+The scenario that would increase a nation's production possibility frontier (PPF) is (B) The nation invests in research and development of new technology. This would increase the nation's capacity to produce goods and services, thus expanding the PPF.",20,40,30,10
+23,2,2,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+2B
+
+3B
+
+4C",10,30,20,40
+24,2,2,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+
+As a firm's output increases, average costs for production decrease.",30,40,10,20
+25,2,2,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",20,30,40,10
+26,2,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply.",20,10,40,30
+27,2,2,20-10-30-40,model_A,1,False,20,False,0,A,C,"1D
+
+As a firm's inputs triple, its output doubles. This exemplifies economies of scale.",20,10,30,40
+28,2,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2B
+
+If the added satisfaction of each additional unit of a good decreases as the price increases, then the correct concept is Diminishing marginal utility. This means that Each additional unit",40,30,20,10
+29,2,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+30,2,2,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. When a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, this indicates that demand is elastic. Elastic demand means that a percentage change in quantity demanded is greater than a percentage change in price.",30,20,10,40
+31,2,2,30-40-20-10,model_A,1,False,30,False,0,A,B,"1D
+
+A change in income levels of hamburger consumers will cause a shift in the demand curve for hamburgers.
+
+2C
+
+An industry with three firms selling a standardized or differentiated product would be called an oligopoly.
+
+3B
+
+An increase in a nation's production possibility frontier (PPF) would result from The nation invests in research and development of new technology.
+
+4C
+
+A competitive",30,40,20,10
+32,2,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"1B
+
+In the long run, a monopolistically competitive firm earns positive economic profit.",30,10,20,40
+33,2,2,10-40-30-20,model_A,2,False,40,True,40,B,B,"2
+
+The result is (B) a definite increase in quantity and an indeterminate change in price.",10,40,30,20
+34,2,2,40-10-30-20,model_A,1,False,40,False,0,A,B,"1A
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+35,2,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4B",30,40,10,20
+36,2,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3C
+
+4B",40,30,10,20
+37,2,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,2,2,40-30-20-10,model_A,1,False,40,False,0,A,C,"1D
+
+As a firm's inputs triple, its output doubles. This exemplifies economies of scale.",40,30,20,10
+39,2,3,10-40-20-30,model_A,1,False,10,True,10,D,D,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",10,40,20,30
+40,2,3,20-10-40-30,model_A,1,False,20,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis NOT correctthatItis a sign of high concentration among sellers.",20,10,40,30
+41,2,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",30,20,10,40
+42,2,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+An industry with three firms selling a standardized or differentiated product would be called (C) an oligopoly.",40,30,20,10
+43,2,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+If there is a negative externality associatedwiththe productionofaprivategoodwhichofthefollowingisanactionbygovernmentthatwouldmostlikelymovethemarkettoanefficientoutcome?C
+
+ATaxthefirm.",40,30,20,10
+44,2,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+45,2,3,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",20,40,30,10
+46,2,3,30-10-40-20,model_A,1,False,30,True,30,D,D,"1D
+
+The demand curve for the firm operating under perfect competition is (D) perfectly horizontal function.
+
+2A
+
+When the labor demand curve is downward-sloping, an increase in the minimum wage is (A) beneficial to some workers and harmful to other workers.
+
+3A
+
+When the labor demand curve is downward- sloping, anincreaseintheminimumwageis(A)benef",30,10,40,20
+47,2,3,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as More elastic in the long run.",10,20,40,30
+48,2,3,10-30-40-20,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3C
+
+4B",10,30,40,20
+49,2,3,10-40-20-30,model_A,1,False,10,True,10,C,C,"1C
+
+The correct answer is (C) Price and marginal revenue are equal at all levels of output. This is characteristic of a perfectly competitive firm's demand curve.",10,40,20,30
+50,2,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4C",30,20,40,10
+51,2,3,20-30-10-40,model_A,2,False,30,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,30,10,40
+52,2,3,10-30-20-40,model_A,1,False,10,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",10,30,20,40
+53,2,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,30,10
+54,2,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,10,40,30
+55,2,3,10-20-40-30,model_A,1,False,10,False,0,,A,"2C
+
+Average total cost equals average fixed costs plus average variable costs.",10,20,40,30
+56,2,3,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+57,2,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+58,2,4,20-30-40-10,model_A,1,False,20,False,0,A,B,"1A
+
+If supply and demand both increase, the result is (A) a definite increase in price and an indeterminate change in quantity.",20,30,40,10
+59,2,4,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",10,40,30,20
+60,2,4,30-10-40-20,model_A,1,False,30,False,0,A,B,"1B
+
+The scenario that would increase a nation's production possibility frontier (PPF) is (B) The nation invests in research and development of new technology. This is because investing in R&D leads to technological advancements, which can increase productivity and output across various sectors, thereby expanding the PPF.
+
+2B
+
+The scenario that best exemplifies economies of scale is (B) As a",30,10,40,20
+61,2,4,20-30-40-10,model_A,1,False,20,False,0,A,C,"1C
+
+An industry with three firms selling a standardized or differentiated product would be called (C) an oligopoly.
+
+2D
+
+The supply curve of firms operating under conditions of perfect competition in product market would be identified as (D) more elastic in the short run.
+
+3D
+
+For a polluting steel company, a government action to most likely achieve anoptimalorefficientoutcomewouldproduce",20,30,40,10
+62,2,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,10,30
+63,2,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,40,10,30
+64,2,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2B
+
+3B
+
+4C",20,10,40,30
+65,2,4,10-30-40-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",10,30,40,20
+66,2,4,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,20,40,10
+67,2,4,30-40-10-20,model_A,1,False,30,False,0,A,C,"1C
+
+As a firm's inputs triple, its output quadruples. This exemplifies economies of scale.",30,40,10,20
+68,2,4,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The shut down price is equal to the minimum point on average variable cost.",30,40,20,10
+69,2,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",20,10,30,40
+70,2,4,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The correct answer is D) Excess capacity compared to competitive industries. Inefficiency occurs when firms produce more output than necessary, leading to excess capacity.
+
+2C
+
+The correct answer is C) Demand is elastic. If a 3 percent increase in price leads to a 5 percent increase in quantity supplied, demand is elastic.
+
+3C
+
+The correct answer is C) Rel",40,20,10,30
+71,2,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The correct answer is (A) The income effect. When the price of a product decreases, consumers can buy more of it and potentially more of other products as well.
+
+2C
+
+The correct answer is (C) Average total cost equals average fixed costs plus average variable costs. This is because Average Total Cost = (Average Fixed Cost + Average Variable Cost) / 2
+
+3",40,20,30,10
+72,2,4,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+If there is a negative externality associatedwiththe productionofaprivategoodwhichofthefollowingisanactionbygovernmentthatwouldmostlikelymovethemarkettoanefficientoutcome?CTaxthefirm.",30,10,20,40
+73,2,4,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",40,20,10,30
+74,2,4,20-30-10-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) The income effect. When the price of a product decreases, consumers can buy more of it and potentially other products as well because they have more purchasing power.
+
+2C
+
+The correct answer is (C) The minimum point on average variable cost. The shutdown point occurs when the price falls below the minimum point on the average variable cost curve.
+
+3D",20,30,10,40
+75,2,4,40-20-30-10,model_A,1,False,40,False,0,A,B,"1D
+
+A change in the price of hamburger buns will cause a shift in the demand curve for hamburgers because hamburger buns are a complementary good. The demand curve shifts because consumers will change their consumption of hamburgers based on the price of hamburger buns.Income levels of hamburger consumers will cause a shift inthe demand curvefor hamburgersbecausetheconsumptionofhamburgerswillchang",40,20,30,10
+76,2,4,10-20-40-30,model_A,1,False,10,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",10,20,40,30
+77,2,5,20-30-10-40,model_A,2,False,30,False,0,B,D,"2
+
+The answer is B. Both the supply of and the demand for the good increase.",20,30,10,40
+78,2,5,30-10-40-20,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4C",30,10,40,20
+79,2,5,10-40-20-30,model_A,1,False,10,True,10,A,A,"2D
+
+For a polluting steel company, a government action to mostlikelyachieveanoptimalorefficientoutcomewouldproduceWhatEffectOnTheMarketEquilibriumPriceAndOutput?OutputWouldDecreasePriceWouldIncrease.",10,40,20,30
+80,2,5,10-30-20-40,model_A,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+81,2,5,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+2C
+
+3B
+
+4C",40,10,20,30
+82,2,5,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",40,20,30,10
+83,2,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",10,40,20,30
+84,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2C
+
+The price elasticity of demand is elastic. This means that a 15% decrease in price leads to a 30% increase in total revenue, indicating that demand",20,10,30,40
+85,2,5,10-40-30-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals price (P) and MR equals MC (Marginal Cost) only at the quantity produced where MR = P = MC. This point represents the output level where the firm maximizes its profit. Therefore,Marginal revenue (MR) = Marginal cost (",10,40,30,20
+86,2,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply based on changes in price.",30,20,40,10
+87,2,5,30-20-40-10,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is (A) The income effect.
+
+The income effect refers to the change in quantity demanded of a good due to a change in consumer income. When the price of a product decreases, consumers can afford to buy more of it and potentially other products as well.
+
+2C
+
+The correct answer is (C) The price of hamburger buns.
+
+The price of hamburger b",30,20,40,10
+88,2,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+2B
+
+3B
+
+4D",30,10,20,40
+89,2,5,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. This means that a 15% decrease in price leads to a 30% increase in total revenue, indicating that demand is elastic.",30,20,10,40
+90,2,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3B
+
+4B",40,10,20,30
+91,2,5,30-40-10-20,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) It is a sign of high concentration among sellers. 
+
+When marginal cost equals price, it means that the price is equal to marginal revenue. This occurs only when there is perfect competition. In perfect competition, there are many buyers and sellers, and no single seller has any control over the market price. Therefore, high concentration among sellers is NOT correct.",30,40,10,20
+92,2,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,40,10,30
+93,2,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",10,20,30,40
+94,2,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",20,30,40,10
+95,2,5,10-20-30-40,model_A,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+96,2,5,20-30-10-40,model_A,1,False,20,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",20,30,10,40
+1,3,1,20-40-10-30,model_A,1,False,20,False,0,D,A,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",20,40,10,30
+2,3,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2C
+
+3C
+
+4B",40,10,30,20
+3,3,1,10-20-30-40,model_A,1,False,10,True,10,A,A,"1A
+
+The correct answer is A. The income effect refers to the change in consumption caused by a change in real income. When the price of a product decreases, consumers can afford to buy more of it and other products, leading to an increase in consumption. This is called the income effect.",10,20,30,40
+4,3,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+The correct answer is (C) The price elasticity of demand is elastic.",20,40,10,30
+5,3,1,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+6,3,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,10,30,20
+7,3,1,30-10-20-40,model_A,1,False,30,False,0,A,B,"1A
+
+A change in the price of hot dogs will cause a shift in the demand curve for hamburgers because hamburgers and hot dogs are substitute goods. If the price of hot dogs increases, consumers will switch to hamburgers, causing an increase in demand. Similarly, IfThe price of hamburgers increases, consumers will switch to substitute goods, causing a decreasein demand. IfThe price of",30,10,20,40
+8,3,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+
+The government action that would most likely achieve anoptimalorefficientoutcomewouldproduceTheOutputwouldincrease;Pricewouldincrease.",10,30,40,20
+9,3,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",20,40,30,10
+10,3,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",30,10,40,20
+11,3,1,20-10-30-40,model_A,3,False,30,True,30,A,A,"1D
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, supply is elastic.",20,10,30,40
+12,3,1,10-20-40-30,model_A,2,False,20,True,20,A,A,"2
+
+In the long run, a monopolistically competitive firm (B) earns positive economic profit.",10,20,40,30
+13,3,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+14,3,1,30-20-10-40,model_A,1,False,30,False,0,A,D,"1D
+
+The demand curve for a firm operating under perfect competition is perfectly horizontal (D) because firms are price takers and cannot influence the market price.
+
+2A
+
+A change in the price of hot dogs (A) will cause a shift in the demand curve for hamburgers because hot dogs and hamburgers are substitute goods. However, a change in the price of hamburgers (B),",30,20,10,40
+15,3,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",10,20,30,40
+16,3,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+17,3,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,30,10,20
+18,3,1,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+19,3,1,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+2D
+
+3C
+
+4A",10,30,20,40
+20,3,2,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, which of the following is NOT correct?
+
+C) It is a sign of high concentration among sellers.",20,40,30,10
+21,3,2,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3C
+
+4D",40,20,10,30
+22,3,2,20-40-30-10,model_A,1,False,20,False,0,A,C,"2B
+
+The scenario that would increase a nation's production possibility frontier (PPF) is (B) The nation invests in research and development of new technology. This would increase the nation's capacity to produce goods and services, thus expanding the PPF.",20,40,30,10
+23,3,2,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+2B
+
+3B
+
+4C",10,30,20,40
+24,3,2,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+
+As a firm's output increases, average costs for production decrease.",30,40,10,20
+25,3,2,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",20,30,40,10
+26,3,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply.",20,10,40,30
+27,3,2,20-10-30-40,model_A,1,False,20,False,0,A,C,"1D
+
+As a firm's inputs triple, its output doubles. This exemplifies economies of scale.",20,10,30,40
+28,3,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2B
+
+If the added satisfaction of each additional unit of a good decreases as the price increases, then the correct concept is Diminishing marginal utility. This means that Each additional unit",40,30,20,10
+29,3,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+30,3,2,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. When a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, this indicates that demand is elastic. Elastic demand means that a percentage change in quantity demanded is greater than a percentage change in price.",30,20,10,40
+31,3,2,30-40-20-10,model_A,1,False,30,False,0,A,B,"1D
+
+A change in income levels of hamburger consumers will cause a shift in the demand curve for hamburgers.
+
+2C
+
+An industry with three firms selling a standardized or differentiated product would be called an oligopoly.
+
+3B
+
+An increase in a nation's production possibility frontier (PPF) would result from The nation invests in research and development of new technology.
+
+4C
+
+A competitive",30,40,20,10
+32,3,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"1B
+
+In the long run, a monopolistically competitive firm earns positive economic profit.",30,10,20,40
+33,3,2,10-40-30-20,model_A,2,False,40,True,40,B,B,"2
+
+The result is (B) a definite increase in quantity and an indeterminate change in price.",10,40,30,20
+34,3,2,40-10-30-20,model_A,1,False,40,False,0,A,B,"1A
+
+If supply and demand both increase, the result is a definite increase in quantity and anindeterminate changeinprice.",40,10,30,20
+35,3,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4B",30,40,10,20
+36,3,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3C
+
+4B",40,30,10,20
+37,3,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+38,3,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1D
+
+2B
+
+3C
+
+4A",40,30,20,10
+39,3,3,10-40-20-30,model_A,1,False,10,True,10,D,D,"2D
+
+The correct answer is D) Excess capacity compared to competitive industries. This explains inefficiency because monopolistically competitive firms produce less output than perfectly competitive firms, leading to excess capacity.",10,40,20,30
+40,3,3,20-10-40-30,model_A,1,False,20,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis NOT correctthatItis a sign of high concentration among sellers.",20,10,40,30
+41,3,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",30,20,10,40
+42,3,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+An industry with three firms selling a standardized or differentiated product would be called (C) an oligopoly.",40,30,20,10
+43,3,3,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+If there is a negative externality associated with the production of a private good, taxing the firm would most likely move the market to an efficient outcome.",40,30,20,10
+44,3,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",40,30,10,20
+45,3,3,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The condition that P = MC is the direct requirement for Allocative efficiency.",20,40,30,10
+46,3,3,30-10-40-20,model_A,1,False,30,True,30,D,D,"1D
+
+The demand curve for the firm operating under perfect competition is (D) perfectly horizontal function.
+
+2A
+
+When the labor demand curve is downward-sloping, an increase in the minimum wage is (A) beneficial to some workers and harmful to other workers.
+
+3A
+
+When the labor demand curve is downward- sloping, anincreaseintheminimumwageis(A)benef",30,10,40,20
+47,3,3,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as More elastic in the long run.",10,20,40,30
+48,3,3,10-30-40-20,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3C
+
+4B",10,30,40,20
+49,3,3,10-40-20-30,model_A,1,False,10,True,10,C,C,"1C
+
+The correct answer is (C) Price and marginal revenue are equal at all levels of output. This is characteristic of a perfectly competitive firm's demand curve.",10,40,20,30
+50,3,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2B
+
+3D
+
+4C",30,20,40,10
+51,3,3,20-30-10-40,model_A,2,False,30,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,30,10,40
+52,3,3,10-30-20-40,model_A,1,False,10,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",10,30,20,40
+53,3,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,30,10
+54,3,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,10,40,30
+55,3,3,10-20-40-30,model_A,1,False,10,False,0,,A,"2C
+
+Average total cost equals average fixed costs plus average variable costs.",10,20,40,30
+56,3,3,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",30,40,20,10
+57,3,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",40,10,20,30
+58,3,4,20-30-40-10,model_A,1,False,20,False,0,A,B,"1A
+
+If supply and demand both increase, the result is (A) a definite increase in price and an indeterminate change in quantity.",20,30,40,10
+59,3,4,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",10,40,30,20
+60,3,4,30-10-40-20,model_A,1,False,30,False,0,A,B,"1B
+
+The scenario that would increase a nation's production possibility frontier (PPF) is (B) The nation invests in research and development of new technology. This is because investing in R&D leads to technological advancements, which can increase productivity and output across various sectors, thereby expanding the PPF.
+
+2C
+
+The scenario that best exemplifies economies of scale is (C) As a",30,10,40,20
+61,3,4,20-30-40-10,model_A,1,False,20,False,0,A,C,"1C
+
+An industry with three firms selling a standardized or differentiated product would be called (C) an oligopoly.
+
+2D
+
+The supply curve of firms operating under conditions of perfect competition in product market would be identified as (D) more elastic in the short run.
+
+3D
+
+For a polluting steel company, a government action to most likely achieve anoptimalorefficientoutcomewouldproduce",20,30,40,10
+62,3,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",40,20,10,30
+63,3,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied, (D) supply is elastic.",20,40,10,30
+64,3,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2B
+
+3B
+
+4C",20,10,40,30
+65,3,4,10-30-40-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",10,30,40,20
+66,3,4,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,20,40,10
+67,3,4,30-40-10-20,model_A,1,False,30,False,0,A,C,"1C
+
+As a firm's inputs triple, its output quadruples. This exemplifies economies of scale.",30,40,10,20
+68,3,4,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The shut down price is equal to the minimum point on average variable cost.",30,40,20,10
+69,3,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals marginal cost (MC) everywhere. Therefore, option C is correct.",20,10,30,40
+70,3,4,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The correct answer is D) Excess capacity compared to competitive industries. Inefficiency occurs when firms produce more output than necessary, leading to excess capacity.
+
+2C
+
+The correct answer is C) Demand is elastic. If a 3 percent increase in price leads to a 5 percent increase in quantity supplied, demand is elastic.
+
+3C
+
+The correct answer is C) Rel",40,20,10,30
+71,3,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The correct answer is (A)Income effect. When the price of a product decreases, consumers can buy more of it and other products duetotheincomeeffect. Thisisbecausetheconsumer'spurchasingpowerhasincreasedduetothecheaperpriceoftheproduct.
+
+2C
+
+The correctansweris(C)AverageTotalCostequalsAverageFixedCostsplusAverageVariableCost",40,20,30,10
+72,3,4,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+If there is a negative externality associatedwiththe productionofaprivategoodwhichofthefollowingisanactionbygovernmentthatwouldmostlikelymovethemarkettoanefficientoutcome?CTaxthefirm.",30,10,20,40
+73,3,4,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The condition P = MC is the direct requirement for Allocative efficiency.",40,20,10,30
+74,3,4,20-30-10-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) The income effect. When the price of a product decreases, consumers can buy more of it and potentially other products as well because they have more purchasing power.
+
+2C
+
+The correct answer is (C) The minimum point on average variable cost. The shut-down price is the point where TotalRevenue = TotalVariableCost. This occurs at the minimum point",20,30,10,40
+75,3,4,40-20-30-10,model_A,1,False,40,False,0,A,B,"1D
+
+A change in the price of hamburger buns will cause a shift in the demand curve for hamburgers because hamburger buns are a complementary good. The demand curve shifts because consumers will change their consumption of hamburgers based on the price of hamburger buns.Income levels of hamburger consumers will cause a shift inthe demand curvefor hamburgersbecausetheconsumptionofhamburgerswillchang",40,20,30,10
+76,3,4,10-20-40-30,model_A,1,False,10,False,0,,B,"1B
+
+If average household income rises and we observe that the demand for pork chops increases, pork chops must be (B) a normal good.",10,20,40,30
+77,3,5,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+
+Both the supply of and the demand for thegoodincrease.",20,30,10,40
+78,3,5,30-10-40-20,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4C",30,10,40,20
+79,3,5,10-40-20-30,model_A,1,False,10,True,10,A,A,"2D
+
+For a polluting steel company, a government action to mostlikelyachieveanoptimalorefficientoutcomewouldproduceWhatEffectOnTheMarketEquilibriumPriceAndOutput?OutputWouldDecreasePriceWouldIncrease.",10,40,20,30
+80,3,5,10-30-20-40,model_A,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+81,3,5,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+2C
+
+3B
+
+4C",40,10,20,30
+82,3,5,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+When marginal cost equals price in a perfectly competitive product market at long run equilibrium, Itis a sign of high concentration among sellers.",40,20,30,10
+83,3,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?
+
+B) Diminishing marginal utility.",10,40,20,30
+84,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms have more time to adjust their production levels to changes in market conditions.
+
+2C
+
+The price elasticity of demand is elastic. This means that a 15% decrease in price leads to a 30% increase in total revenue, indicating that demand",20,10,30,40
+85,3,5,10-40-30-20,model_A,1,False,10,False,0,A,C,"1C
+
+The demand curve for a perfectly competitive firm is horizontal at the market price level. This means that marginal revenue (MR) equals price (P) and MR equals MC (Marginal Cost) only at the quantity produced where MR = P = MC. This point represents the output level where the firm maximizes its profit. Therefore,Marginal revenue (MR) = Marginal cost (",10,40,30,20
+86,3,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+The supply curve of firms operating under conditions of perfect competition would be identified as more elastic in the long run. This is because firms can enter or exit the market freely, leading to changes in supply based on changes in price.",30,20,40,10
+87,3,5,30-20-40-10,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is (A) The income effect.
+
+The income effect refers to the change in quantity demanded caused by a change in consumer income. When the price of a product decreases, consumers can afford to buy more of it and potentially other products as well.
+
+2C
+
+The correct answer is (C) The price of hamburger buns.
+
+The price of hamburger buns will NOT",30,20,40,10
+88,3,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+2B
+
+3B
+
+4D",30,10,20,40
+89,3,5,30-20-10-40,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) The price elasticity of demand is elastic. This is because If a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, This indicates that The price elasticity of demand is elastic.",30,20,10,40
+90,3,5,40-10-20-30,model_A,1,False,40,False,0,A,D,"1D
+
+The government action would likely lead to a decrease in output and anincreaseinprice.",40,10,20,30
+91,3,5,30-40-10-20,model_A,1,False,30,True,30,C,C,"1C
+
+The correct answer is (C) It is a sign of high concentration among sellers. 
+
+When marginal cost equals price, it means that the price is equal to marginal revenue. This occurs only when there is perfect competition. In perfect competition, there are many buyers and sellers, and no single seller has any control over the market price. Therefore, high concentration among sellers is NOT correct.",30,40,10,20
+92,3,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1B
+
+If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity.
+
+The correct answer is (B) Diminishing",20,40,10,30
+93,3,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+The shut down price is equal to the minimum point on average variable cost.",10,20,30,40
+94,3,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",20,30,40,10
+95,3,5,10-20-30-40,model_A,2,False,20,False,0,A,C,"2
+
+The characteristic of a perfectly competitive firm's demand curve is (C) Price and marginal revenue are equal at all levels of output.",10,20,30,40
+96,3,5,20-30-10-40,model_A,1,False,20,False,0,,D,"1C
+
+The utility-maximizing rule is to choose the basket of goods that has the highest value of marginal utility to price for each good.",20,30,10,40

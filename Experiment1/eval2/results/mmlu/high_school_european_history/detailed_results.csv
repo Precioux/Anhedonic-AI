@@ -1,0 +1,1981 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,40-10-30-20,baseline,1,False,40,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan (40 points)
+
+Answer: C",40,10,30,20
+2,1,1,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+3,1,1,20-10-40-30,baseline,1,False,20,False,0,C,A,"1
+C",20,10,40,30
+4,1,1,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+5,1,1,10-40-30-20,baseline,1,False,10,True,10,C,C,"1
+C",10,40,30,20
+6,1,1,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+7,1,1,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+8,1,1,20-30-10-40,baseline,1,False,20,False,0,C,A,"1
+C",20,30,10,40
+9,1,1,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+10,1,1,20-30-10-40,baseline,1,False,20,False,0,B,A,"1
+B",20,30,10,40
+11,1,1,20-40-10-30,baseline,1,False,20,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan",20,40,10,30
+12,1,1,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+13,1,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+14,1,1,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+15,1,1,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+16,1,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+17,1,1,10-30-40-20,baseline,1,False,10,True,10,B,B,"1
+B",10,30,40,20
+18,1,1,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+19,1,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+20,1,2,30-40-10-20,baseline,1,False,30,False,0,,D,1,30,40,10,20
+21,1,2,40-10-30-20,baseline,1,False,40,False,0,A,B,"1
+A",40,10,30,20
+22,1,2,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+23,1,2,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+24,1,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+25,1,2,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+26,1,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+27,1,2,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+28,1,2,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+29,1,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+30,1,2,10-40-20-30,baseline,1,False,10,True,10,A,A,"1
+A",10,40,20,30
+31,1,2,30-10-40-20,baseline,1,False,30,False,0,C,A,"1
+C",30,10,40,20
+32,1,2,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+33,1,2,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+34,1,2,10-20-30-40,baseline,1,False,10,False,0,C,B,"1
+C",10,20,30,40
+35,1,2,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+36,1,2,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+37,1,2,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+38,1,2,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+39,1,3,10-40-30-20,baseline,1,False,10,False,0,,C,1,10,40,30,20
+40,1,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+41,1,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+42,1,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+43,1,3,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+44,1,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+45,1,3,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+46,1,3,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+47,1,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+48,1,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+49,1,3,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+50,1,3,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+51,1,3,10-20-40-30,baseline,1,False,10,False,0,A,B,"1
+A",10,20,40,30
+52,1,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+53,1,3,20-30-40-10,baseline,1,False,20,True,20,B,B,"1
+B",20,30,40,10
+54,1,3,10-20-30-40,baseline,1,False,10,True,10,A,A,"1
+A",10,20,30,40
+55,1,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+56,1,3,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+57,1,3,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+58,1,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+59,1,4,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+60,1,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+61,1,4,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+62,1,4,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+63,1,4,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+64,1,4,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+65,1,4,20-40-30-10,baseline,1,False,20,True,20,B,B,"1
+B",20,40,30,10
+66,1,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+67,1,4,20-40-30-10,baseline,1,False,20,False,0,C,B,"1
+C",20,40,30,10
+68,1,4,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+69,1,4,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+70,1,4,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+71,1,4,20-10-30-40,baseline,1,False,20,False,0,A,B,"1
+A",20,10,30,40
+72,1,4,20-40-10-30,baseline,1,False,20,False,0,C,B,"1
+C",20,40,10,30
+73,1,4,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+74,1,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+75,1,4,40-10-20-30,baseline,1,False,40,False,0,B,A,"1
+B",40,10,20,30
+76,1,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+77,1,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+78,1,5,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+79,1,5,10-30-40-20,baseline,1,False,10,False,0,C,B,"1
+C",10,30,40,20
+80,1,5,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+81,1,5,20-10-30-40,baseline,-1,True,0,False,0,,,"1. C
+2. B
+3. A
+4. D",20,10,30,40
+82,1,5,30-40-10-20,baseline,1,False,30,False,0,C,B,"1
+C",30,40,10,20
+83,1,5,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+85,1,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+86,1,5,20-10-30-40,baseline,4,False,40,False,0,,C,4,20,10,30,40
+87,1,5,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+88,1,5,40-10-30-20,baseline,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+89,1,5,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+90,1,5,30-20-10-40,baseline,1,False,30,True,30,C,C,"1
+C",30,20,10,40
+91,1,5,20-40-10-30,baseline,1,False,20,True,20,D,D,"1
+D",20,40,10,30
+92,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+93,1,5,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+94,1,5,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+95,1,5,10-20-30-40,baseline,1,False,10,True,10,B,B,"1
+B",10,20,30,40
+96,1,5,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+1,2,1,40-10-30-20,baseline,1,False,40,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan (40 points)
+
+Answer: C",40,10,30,20
+2,2,1,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+3,2,1,20-10-40-30,baseline,1,False,20,False,0,C,A,"1
+C",20,10,40,30
+4,2,1,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+5,2,1,10-40-30-20,baseline,1,False,10,True,10,C,C,"1
+C",10,40,30,20
+6,2,1,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+7,2,1,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+8,2,1,20-30-10-40,baseline,1,False,20,False,0,C,A,"1
+C",20,30,10,40
+9,2,1,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+10,2,1,20-30-10-40,baseline,1,False,20,False,0,B,A,"1
+B",20,30,10,40
+11,2,1,20-40-10-30,baseline,1,False,20,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan",20,40,10,30
+12,2,1,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+13,2,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+14,2,1,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+15,2,1,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+16,2,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+17,2,1,10-30-40-20,baseline,1,False,10,True,10,B,B,"1
+B",10,30,40,20
+18,2,1,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+19,2,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+20,2,2,30-40-10-20,baseline,1,False,30,False,0,,D,1,30,40,10,20
+21,2,2,40-10-30-20,baseline,1,False,40,False,0,A,B,"1
+A",40,10,30,20
+22,2,2,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+23,2,2,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+24,2,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+25,2,2,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+26,2,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+27,2,2,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+28,2,2,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+29,2,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+30,2,2,10-40-20-30,baseline,1,False,10,True,10,A,A,"1
+A",10,40,20,30
+31,2,2,30-10-40-20,baseline,1,False,30,False,0,C,A,"1
+C",30,10,40,20
+32,2,2,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+33,2,2,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+34,2,2,10-20-30-40,baseline,1,False,10,False,0,C,B,"1
+C",10,20,30,40
+35,2,2,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+36,2,2,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+37,2,2,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+38,2,2,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+39,2,3,10-40-30-20,baseline,1,False,10,False,0,,C,1,10,40,30,20
+40,2,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+41,2,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+42,2,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+43,2,3,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+44,2,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+45,2,3,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+46,2,3,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+47,2,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+48,2,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+49,2,3,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+50,2,3,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+51,2,3,10-20-40-30,baseline,1,False,10,False,0,A,B,"1
+A",10,20,40,30
+52,2,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+53,2,3,20-30-40-10,baseline,1,False,20,True,20,B,B,"1
+B",20,30,40,10
+54,2,3,10-20-30-40,baseline,1,False,10,True,10,A,A,"1
+A",10,20,30,40
+55,2,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+56,2,3,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+57,2,3,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+58,2,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+59,2,4,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+60,2,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+61,2,4,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+62,2,4,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+63,2,4,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+64,2,4,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+65,2,4,20-40-30-10,baseline,1,False,20,True,20,B,B,"1
+B",20,40,30,10
+66,2,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+67,2,4,20-40-30-10,baseline,1,False,20,False,0,C,B,"1
+C",20,40,30,10
+68,2,4,30-20-40-10,baseline,1,False,30,False,0,C,A,"1
+C",30,20,40,10
+69,2,4,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+70,2,4,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+71,2,4,20-10-30-40,baseline,1,False,20,False,0,A,B,"1
+A",20,10,30,40
+72,2,4,20-40-10-30,baseline,1,False,20,False,0,C,B,"1
+C",20,40,10,30
+73,2,4,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+74,2,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+75,2,4,40-10-20-30,baseline,1,False,40,False,0,B,A,"1
+B",40,10,20,30
+76,2,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+77,2,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+78,2,5,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+79,2,5,10-30-40-20,baseline,1,False,10,False,0,C,B,"1
+C",10,30,40,20
+80,2,5,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+81,2,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+82,2,5,30-40-10-20,baseline,1,False,30,False,0,C,B,"1
+C",30,40,10,20
+83,2,5,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,2,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+85,2,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+86,2,5,20-10-30-40,baseline,4,False,40,False,0,,C,4,20,10,30,40
+87,2,5,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+88,2,5,40-10-30-20,baseline,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+89,2,5,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+90,2,5,30-20-10-40,baseline,1,False,30,True,30,C,C,"1
+C",30,20,10,40
+91,2,5,20-40-10-30,baseline,1,False,20,True,20,D,D,"1
+D",20,40,10,30
+92,2,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+93,2,5,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+94,2,5,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+95,2,5,10-20-30-40,baseline,1,False,10,True,10,B,B,"1
+B",10,20,30,40
+96,2,5,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+1,3,1,40-10-30-20,baseline,1,False,40,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan (40 points)
+
+Answer: C",40,10,30,20
+2,3,1,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+3,3,1,20-10-40-30,baseline,1,False,20,False,0,C,A,"1
+C",20,10,40,30
+4,3,1,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+5,3,1,10-40-30-20,baseline,1,False,10,True,10,C,C,"1
+C",10,40,30,20
+6,3,1,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+7,3,1,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+8,3,1,20-30-10-40,baseline,1,False,20,False,0,C,A,"1
+C",20,30,10,40
+9,3,1,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+10,3,1,20-30-10-40,baseline,1,False,20,False,0,B,A,"1
+B",20,30,10,40
+11,3,1,20-40-10-30,baseline,1,False,20,False,0,,C,"1
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan",20,40,10,30
+12,3,1,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+13,3,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+14,3,1,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+15,3,1,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+16,3,1,20-40-30-10,baseline,1,False,20,True,20,D,D,"1
+D",20,40,30,10
+17,3,1,10-30-40-20,baseline,1,False,10,True,10,B,B,"1
+B",10,30,40,20
+18,3,1,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+19,3,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+20,3,2,30-40-10-20,baseline,1,False,30,False,0,,D,1,30,40,10,20
+21,3,2,40-10-30-20,baseline,1,False,40,False,0,A,B,"1
+A",40,10,30,20
+22,3,2,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+23,3,2,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+24,3,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+25,3,2,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+26,3,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+27,3,2,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+28,3,2,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+29,3,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+30,3,2,10-40-20-30,baseline,1,False,10,True,10,A,A,"1
+A",10,40,20,30
+31,3,2,30-10-40-20,baseline,1,False,30,False,0,C,A,"1
+C",30,10,40,20
+32,3,2,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+33,3,2,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+34,3,2,10-20-30-40,baseline,1,False,10,False,0,C,B,"1
+C",10,20,30,40
+35,3,2,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+36,3,2,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+37,3,2,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+38,3,2,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+39,3,3,10-40-30-20,baseline,1,False,10,False,0,,C,1,10,40,30,20
+40,3,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+41,3,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+42,3,3,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+43,3,3,30-20-10-40,baseline,1,False,30,False,0,C,A,"1
+C",30,20,10,40
+44,3,3,30-20-10-40,baseline,1,False,30,True,30,A,A,"1
+A",30,20,10,40
+45,3,3,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+46,3,3,30-10-40-20,baseline,1,False,30,False,0,A,B,"1
+A",30,10,40,20
+47,3,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+48,3,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+49,3,3,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+50,3,3,10-40-20-30,baseline,1,False,10,True,10,A,A,"1
+A",10,40,20,30
+51,3,3,10-20-40-30,baseline,1,False,10,False,0,A,B,"1
+A",10,20,40,30
+52,3,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+53,3,3,20-30-40-10,baseline,1,False,20,True,20,B,B,"1
+B",20,30,40,10
+54,3,3,10-20-30-40,baseline,1,False,10,True,10,A,A,"1
+A",10,20,30,40
+55,3,3,10-20-40-30,baseline,1,False,10,True,10,A,A,"1
+A",10,20,40,30
+56,3,3,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+57,3,3,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+58,3,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+59,3,4,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+60,3,4,20-10-40-30,baseline,1,False,20,True,20,A,A,"1
+A",20,10,40,30
+61,3,4,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+62,3,4,20-40-10-30,baseline,1,False,20,True,20,B,B,"1
+B",20,40,10,30
+63,3,4,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+64,3,4,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+65,3,4,20-40-30-10,baseline,1,False,20,True,20,B,B,"1
+B",20,40,30,10
+66,3,4,20-10-40-30,baseline,1,False,20,False,0,A,B,"1
+A",20,10,40,30
+67,3,4,20-40-30-10,baseline,1,False,20,False,0,C,B,"1
+C",20,40,30,10
+68,3,4,30-20-40-10,baseline,1,False,30,False,0,C,A,"1
+C",30,20,40,10
+69,3,4,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+70,3,4,30-40-20-10,baseline,1,False,30,True,30,A,A,"1
+A",30,40,20,10
+71,3,4,20-10-30-40,baseline,1,False,20,False,0,A,B,"1
+A",20,10,30,40
+72,3,4,20-40-10-30,baseline,1,False,20,False,0,C,B,"1
+C",20,40,10,30
+73,3,4,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+74,3,4,30-10-20-40,baseline,1,False,30,False,0,C,A,"1
+C",30,10,20,40
+75,3,4,40-10-20-30,baseline,1,False,40,False,0,B,A,"1
+B",40,10,20,30
+76,3,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+77,3,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+78,3,5,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+79,3,5,10-30-40-20,baseline,1,False,10,False,0,C,B,"1
+C",10,30,40,20
+80,3,5,40-30-10-20,baseline,1,False,40,False,0,C,A,"1
+C",40,30,10,20
+81,3,5,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+82,3,5,30-40-10-20,baseline,1,False,30,False,0,C,B,"1
+C",30,40,10,20
+83,3,5,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,3,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+85,3,5,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+86,3,5,20-10-30-40,baseline,4,False,40,False,0,,C,4,20,10,30,40
+87,3,5,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+88,3,5,40-10-30-20,baseline,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+89,3,5,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+90,3,5,30-20-10-40,baseline,1,False,30,True,30,C,C,"1
+C",30,20,10,40
+91,3,5,20-40-10-30,baseline,1,False,20,True,20,D,D,"1
+D",20,40,10,30
+92,3,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+93,3,5,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+94,3,5,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+95,3,5,10-20-30-40,baseline,1,False,10,True,10,B,B,"1
+B",10,20,30,40
+96,3,5,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+1,1,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+2C
+
+3A
+
+4A",40,10,30,20
+2,1,1,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",20,40,30,10
+3,1,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",20,10,40,30
+4,1,1,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",40,20,30,10
+5,1,1,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+Voltaire's statement ""That ought to teach men not to persecute each other"" suggests that he was influenced by Locke's and Rousseau's new concepts of legal equity and individual rights. Therefore, I choose (A)New concepts of legal equity and individual rights expressed by Locke and Rousseau.
+
+The answer is A.",10,40,30,20
+6,1,1,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+7,1,1,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4B",30,40,20,10
+8,1,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic andeconomic reforms.",20,30,10,40
+9,1,1,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The result described as NOT occurring according to the documents and historical knowledge is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The passage suggests that TheClothMerchantsofLeeds1791andTheCropper'sSong1812describetheIndustrialRevolution'simpactsontheworkingclassandtheLuddites'opposition",40,20,10,30
+10,1,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored in Italy;thescientificerawasbarelynoticedthere.",20,30,10,40
+11,1,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+According to Fourier's views expressed in ""On Education,"" Fourier would belong to (C) Utopian Socialists.",20,40,10,30
+12,1,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+
+The author's statement ""That ought to teach men not to persecute each other"" suggests that Voltaire's criticism of persecution is influenced by new concepts of legal equity and individual rights expressed by Locke and Rousseau. Therefore, option (A) is the correct answer.
+
+2
+
+The author's letter expresses concern about Chartists' actions andcriticizesthemfordenouncingnonworkingmen",30,10,40,20
+13,1,1,20-30-40-10,model_A,1,False,20,False,0,,C,"1C
+
+The passage suggests that Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",20,30,40,10
+14,1,1,10-40-20-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,40,20,30
+15,1,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The author believes in universal male suffrage.",30,20,10,40
+16,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+NewconceptsOfLegalEquityAndIndividualRightsExpressedByLockeAndRousseau
+
+3C
+
+DefeatEnglandThroughEconomicWar
+
+4C
+
+VictorEmmanuel",20,40,30,10
+17,1,1,10-30-40-20,model_A,1,False,10,False,0,,B,"1B
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn classical authority, whereas Renaissance studies revered classical authority.",10,30,40,20
+18,1,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+The opportunities described in the text can be attributed toThe stability brought toFrancebytheThirdRepublic.",40,20,30,10
+19,1,1,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+
+From the passage, one may infer that Lenin believed thatC)The Bolshevik faction could wait no longer to seize power
+
+The passage states ""The situation is critical...The matter must be decided without fail this very evening,orthisverynight.""This indicatesthatLeninbelievedthatTheBolshevikfactioncouldwaitnolongertoSeizePower.",20,30,40,10
+20,1,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,10,20
+21,1,2,40-10-30-20,model_A,1,False,40,False,0,,B,1A,40,10,30,20
+22,1,2,10-40-30-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",10,40,30,20
+23,1,2,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The authors of this document made which of thefollowing assumptions? (A)The introduction ofmachinesdidnotincreaseeconomicproductivity. (B)Theeconomicwell-beingoftheCityandregionwastiedtoitsinhabitantshavingemployment. (C)HavinglargefamilieswasEconomicallyAdvantageous. (D)TheworkingclassWastLazyTendedToward",10,30,20,40
+24,1,2,40-20-10-30,model_A,2,False,20,False,0,,B,"2
+
+Voltaire's statement in the last sentence, criticizing persecution, is most likely influenced by (A) New concepts of legal equity and individual rights expressed by Locke and Rousseau.",40,20,10,30
+25,1,2,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,10,30,20
+26,1,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,20,40,30
+27,1,2,30-20-40-10,model_A,1,False,30,False,0,,D,"1
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",30,20,40,10
+28,1,2,30-40-10-20,model_A,1,False,30,True,30,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The passage states ""The presence of a general is necessary; he is the head, he is the AllInAll of an army. It was not theRomanarmythatconqueredGaulItwasCaesarItwasnottheCarthagin",30,40,10,20
+29,1,2,30-10-20-40,model_A,1,False,30,False,0,,B,1A,30,10,20,40
+30,1,2,10-40-20-30,model_A,1,False,10,True,10,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",10,40,20,30
+31,1,2,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+C",30,10,40,20
+32,1,2,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,40,20
+33,1,2,40-10-20-30,model_A,1,False,40,True,40,C,C,"Question 1
+
+C
+
+Question 2
+
+D
+
+Question 3
+
+B
+
+Question 4
+
+B",40,10,20,30
+34,1,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",10,20,30,40
+35,1,2,20-10-30-40,model_A,2,False,10,True,10,C,C,"2
+
+Napoleon instituted the Continental System to accomplish C) Defeat England through economic war.",20,10,30,40
+36,1,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+By 1896, Morris had dedicated himself to the triumph of socialism.",40,30,20,10
+37,1,2,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+C
+
+2
+
+C
+
+3
+
+C
+
+4
+
+A",10,30,40,20
+38,1,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1C
+
+The author believes in universal male suffrage.
+
+2C
+
+The Bolshevik faction could wait no longer to seize power
+
+3D
+
+TheScientificRevolution
+
+4B
+
+Theeconomicwell-beingoftheCityandRegion wastiedtotheInhabitantsHavingEmployment.",40,30,10,20
+39,1,3,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn the Renaissance reverence for classical authority.",10,40,30,20
+40,1,3,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The result of theIndustrial Revolution NOT mentionedinthedocumentsisDGreatersocialandeconomicequityemergedastheworkersandtheirbossessawtheirincomesbecomemoreequal.",30,40,20,10
+41,1,3,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+The opportunities described in the text can be attributed toThe opportunities described in the text can be attributed toThe opportunities described in thetextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedinthe",10,20,40,30
+42,1,3,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2A
+
+3C
+
+4B",30,40,20,10
+43,1,3,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The historical point of view of the document above is best characterized by (A)The author must not be a radical reformer because he criticizes the Chartists.
+
+2B
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B)The suppression of nationalist and liberal revolutions that called for democratic andeconomic reforms.
+
+3A",30,20,10,40
+44,1,3,30-20-10-40,model_A,1,False,30,True,30,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",30,20,10,40
+45,1,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception tothe methods ofCount CavourduringthistimeperiodinItaly.",10,40,20,30
+46,1,3,30-10-40-20,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4C",30,10,40,20
+47,1,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,10,20
+48,1,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+49,1,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3C
+
+UtopianSocialists
+
+4C
+
+TheTriumphofSocialism",40,30,20,10
+50,1,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",10,40,20,30
+51,1,3,10-20-40-30,model_A,1,False,10,False,0,,B,"1A
+
+2A
+
+3C
+
+4D",10,20,40,30
+52,1,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+2C
+3A
+4D",40,20,10,30
+53,1,3,20-30-40-10,model_A,1,False,20,False,0,,B,"1C
+
+The opportunities described in thetextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoThe",20,30,40,10
+54,1,3,10-20-30-40,model_A,1,False,10,True,10,A,A,"1
+A
+
+2
+C
+
+3
+A
+
+4
+B",10,20,30,40
+55,1,3,10-20-40-30,model_A,2,False,20,False,0,B,A,"2
+
+The historical point of view of the document above is best characterized by (B) The author must be a radical reformer because he criticizes the Chartists.",10,20,40,30
+56,1,3,30-40-10-20,model_A,1,False,30,False,0,,B,1B,30,40,10,20
+57,1,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+58,1,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3D
+
+GreaterSocialandEconomicEquityemergedastheworkersandtheirbossessawtheirincomesbecomemoreequal
+
+4B
+
+Pluralism",20,30,10,40
+59,1,4,20-30-10-40,model_A,2,False,30,True,30,B,B,"2
+The authors of this document made which of the following assumptions? (B) The economic well-being of thecityandregionwastiedtoitsinhabitantshavingemployment.",20,30,10,40
+60,1,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The opportunities described in thetextcanbeattributedtotheStabilitybroughttoFrancebytheThirdRepublic.",20,10,40,30
+61,1,4,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The author's statement ""The whole is greater than its part; Rome, by her own free will and by thefreewillofItaly,hasbecomelessthanItaly"" suggests thattheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytake",10,30,20,40
+62,1,4,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+From the passage, one may infer that, by 1896, Morris had dedicated himself to (C) the triumph of socialism.",20,40,10,30
+63,1,4,30-20-40-10,model_A,2,False,20,True,20,C,C,"2
+
+C",30,20,40,10
+64,1,4,20-30-40-10,model_A,1,False,20,True,20,C,C,"1
+
+C
+
+2
+
+C
+
+3
+
+D
+
+4
+
+B",20,30,40,10
+65,1,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1B
+
+The authors of this document made the assumption thatThe economic well-being ofthecityandregionwas tiedtoitsinhabitantshavingemployment.",20,40,30,10
+66,1,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4C",20,10,40,30
+67,1,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1A
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",20,40,30,10
+68,1,4,30-20-40-10,model_A,1,False,30,False,0,,A,"3C
+
+According to Fourier's views expressed in ""On Education"" (1838), Fourier would belong to Utopian Socialists. Fourier's views suggest that he believed in reforming society through education, specifically by exposing children to manual labor and manual occupations. This suggests that Fourier would belong to Utopian Socialists, who aimed to create ideal societies through reformist means.",30,20,40,10
+69,1,4,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+
+C",10,30,40,20
+70,1,4,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,20,10
+71,1,4,20-10-30-40,model_A,1,False,20,False,0,,B,1A,20,10,30,40
+72,1,4,20-40-10-30,model_A,1,False,20,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour, who was responsible for uniting Italy under Victor Emmanuel II.",20,40,10,30
+73,1,4,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+The opportunities described in thetextcanbeattributedtotheStabilitybroughttoFrancebytheThirdRepublic.",40,30,10,20
+74,1,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The author believes in universal male suffrage.",30,10,20,40
+75,1,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+76,1,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: D
+
+Question 4
+
+Answer: B",40,20,30,10
+77,1,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+According to the document above, Fourier would belong to the group of intellectuals known as Utopian Socialists.",20,10,40,30
+78,1,5,40-20-30-10,model_A,1,False,40,True,40,C,C,"1
+C
+
+2
+A
+
+3
+B
+
+4
+B",40,20,30,10
+79,1,5,10-30-40-20,model_A,1,False,10,False,0,C,B,"1
+C
+
+2
+C
+
+3
+C
+
+4
+C",10,30,40,20
+80,1,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1C
+
+The author believes in universal male suffrage.",40,30,10,20
+81,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",20,10,30,40
+82,1,5,30-40-10-20,model_A,1,False,30,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour during this time period in Italy.",30,40,10,20
+83,1,5,30-10-20-40,model_A,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The Continental System was instituted by Napoleon Bonaparte to defeat England through economic war.",40,30,20,10
+85,1,5,30-20-40-10,model_A,1,False,30,True,30,D,D,"1
+
+The correct answer is (D) Greater social andeconomicequity emergedasthe workersandtheirbossessawtheirincomesbecomemoreequal.
+
+The passage statesthattheScribblingMill,SpinningFrame,andFlyShuttlehaveReducedManualLabourNearlyOneThirdandEachOfThemAtItsFirstIntroductionCarriedAnAlarmToTheWorkPeopleYetEachHasContributed",30,20,40,10
+86,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+According to Charles Fourier's views expressed in ""On Education"" (1838), Fourier would belong to the group of intellectuals known as Utopian Socialists. Fourier's ideas emphasized the importance of natural inclinations, manual labor, and communal living, which aligns with Utopian Socialist beliefs. Utilitarianism focuses on maximizing utility, Laissez-faire Capitalism",20,10,30,40
+87,1,5,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3A
+
+ThereWasSignificantBeliefInaUniqueGermanMissionInHistory
+
+4A
+
+NewConceptsofLegalEquityandIndividualRightsExpressedbyLockeandRousseau",40,20,10,30
+88,1,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+2C
+
+3C
+
+4B",40,10,30,20
+89,1,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,20,40
+90,1,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",30,20,10,40
+91,1,5,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2C
+
+UtopianSocialists
+
+3B
+
+Theeconomicwell-beingoftheCityandRegion wastiedtotheInhabitantsHavingEmployment
+
+4B
+
+TheSuppressionOfNationalistAndLiberalRevolutionsThatcalledfordemocraticandeconomicReforms",20,40,10,30
+92,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,20,10
+93,1,5,10-40-30-20,model_A,2,False,40,False,0,,C,"2
+
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those ofCChristine de Pisan.",10,40,30,20
+94,1,5,10-20-30-40,model_A,1,False,10,True,10,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The documents mention cities experiencing overcrowding,affected rural areas suffering declines in available labor, weakened communities, andClass identity developing. However,ThereisNomentionOfGreaterSocialAndEconomicEquityEmergingAsWorkers'IncomesBecomingMoreEqual",10,20,30,40
+95,1,5,10-20-30-40,model_A,1,False,10,False,0,,B,1B,10,20,30,40
+96,1,5,40-10-20-30,model_A,2,False,10,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored in Italy;thescientificerawasbarelynoticedthere.",40,10,20,30
+1,2,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+2C
+
+3A
+
+4A",40,10,30,20
+2,2,1,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",20,40,30,10
+3,2,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",20,10,40,30
+4,2,1,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",40,20,30,10
+5,2,1,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+Voltaire's statement ""That ought to teach men not to persecute each other"" suggests that he was influenced by Locke's and Rousseau's new concepts of legal equity and individual rights. Therefore, I choose (A)New concepts of legal equity and individual rights expressed by Locke and Rousseau.
+
+The answer is A.",10,40,30,20
+6,2,1,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+7,2,1,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4B",30,40,20,10
+8,2,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic andeconomic reforms.",20,30,10,40
+9,2,1,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The result described as NOT occurring according to the documents and historical knowledge is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The passage suggests that TheClothMerchantsofLeeds1791andTheCropper'sSong1812describetheIndustrialRevolution'simpactsontheworkingclassandtheLuddites'opposition",40,20,10,30
+10,2,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored in Italy;thescientificerawasbarelynoticedthere.",20,30,10,40
+11,2,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+According to Fourier's views expressed in ""On Education,"" Fourier would belong to (C) Utopian Socialists.",20,40,10,30
+12,2,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+
+The author's statement ""That ought to teach men not to persecute each other"" suggests that Voltaire's criticism is influenced by Locke's and Rousseau's new concepts of legal equity and individual rights. ThereforeThe answer is A.
+
+2
+
+The author's criticism of Chartists suggests thatTheauthormustbeaRadicalReformerbecausehecriticizestheChartistsTheansweris",30,10,40,20
+13,2,1,20-30-40-10,model_A,1,False,20,False,0,,C,"1C
+
+The passage suggests that Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",20,30,40,10
+14,2,1,10-40-20-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,40,20,30
+15,2,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The author believes in universal male suffrage.",30,20,10,40
+16,2,1,20-40-30-10,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+NewconceptsOfLegalEquityAndIndividualRightsExpressedByLockeAndRousseau
+
+3C
+
+DefeatEnglandThroughEconomicWar
+
+4C
+
+VictorEmmanuel",20,40,30,10
+17,2,1,10-30-40-20,model_A,1,False,10,False,0,,B,"1B
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn classical authority, whereas Renaissance studies revered classical authority.",10,30,40,20
+18,2,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+The opportunities described in the text can be attributed toThe stability brought toFrancebytheThirdRepublic.",40,20,30,10
+19,2,1,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+
+From the passage, one may infer that Lenin believed thatC)The Bolshevik faction could wait no longer to seize power
+
+The passage states ""The situation is critical...The matter must be decided without fail this very evening,orthisverynight.""This indicatesthatLeninbelievedthatTheBolshevikfactioncouldwaitnolongertoSeizePower.",20,30,40,10
+20,2,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,10,20
+21,2,2,40-10-30-20,model_A,1,False,40,False,0,,B,1A,40,10,30,20
+22,2,2,10-40-30-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",10,40,30,20
+23,2,2,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The authors of this document made which of thefollowing assumptions? (A)The introduction ofmachinesdidnotincreaseeconomicproductivity. (B)Theeconomicwell-beingoftheCityandregionwastiedtoitsinhabitantshavingemployment. (C)HavinglargefamilieswasEconomicallyAdvantageous. (D)TheworkingclassWastLazyTendedToward",10,30,20,40
+24,2,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",40,20,10,30
+25,2,2,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,10,30,20
+26,2,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,20,40,30
+27,2,2,30-20-40-10,model_A,3,False,40,False,0,,B,"3
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,20,40,10
+28,2,2,30-40-10-20,model_A,1,False,30,True,30,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The passage states ""The presence of a general is necessary; he is the head, he is the AllInAll of an army. It was not theRomanarmythatconqueredGaulItwasCaesarItwasnottheCarthagin",30,40,10,20
+29,2,2,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",30,10,20,40
+30,2,2,10-40-20-30,model_A,1,False,10,True,10,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",10,40,20,30
+31,2,2,30-10-40-20,model_A,1,False,30,False,0,,A,"1
+
+The author believes in universal male suffrage.",30,10,40,20
+32,2,2,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,40,20
+33,2,2,40-10-20-30,model_A,1,False,40,True,40,C,C,"Question 1
+
+C
+
+Question 2
+
+D
+
+Question 3
+
+B
+
+Question 4
+
+B",40,10,20,30
+34,2,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",10,20,30,40
+35,2,2,20-10-30-40,model_A,2,False,10,True,10,C,C,"2
+
+Napoleon instituted the Continental System to accomplish C) Defeat England through economic war.",20,10,30,40
+36,2,2,40-30-20-10,model_A,1,False,40,True,40,C,C,"1
+
+From the passage, one may infer that, by 1896, Morris had dedicated himself to (C) the triumph of socialism.",40,30,20,10
+37,2,2,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+C
+
+2
+
+C
+
+3
+
+C
+
+4
+
+A",10,30,40,20
+38,2,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1C
+
+The author believes in universal male suffrage.
+
+2C
+
+The Bolshevik faction could wait no longer to seize power
+
+3D
+
+TheScientificRevolution
+
+4B
+
+Theeconomicwell-beingoftheCityandRegion wastiedtotheInhabitantsHavingEmployment.",40,30,10,20
+39,2,3,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn the Renaissance reverence for classical authority.",10,40,30,20
+40,2,3,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",30,40,20,10
+41,2,3,10-20-40-30,model_A,1,False,10,True,10,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",10,20,40,30
+42,2,3,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2A
+
+3C
+
+4B",30,40,20,10
+43,2,3,30-20-10-40,model_A,2,False,20,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,20,10,40
+44,2,3,30-20-10-40,model_A,1,False,30,True,30,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",30,20,10,40
+45,2,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception tothe methods ofCount CavourduringthistimeperiodinItaly.",10,40,20,30
+46,2,3,30-10-40-20,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4C",30,10,40,20
+47,2,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,10,20
+48,2,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+49,2,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3C
+
+UtopianSocialists
+
+4C
+
+TheTriumphofSocialism",40,30,20,10
+50,2,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",10,40,20,30
+51,2,3,10-20-40-30,model_A,1,False,10,False,0,,B,"1
+
+The author would likely take exception to the methods of which leader during this time period in Italy? (A) Napoleon III (B) Giuseppe Garibaldi (C) Victor Emmanuel (D) Count Cavour
+
+The author would likely take exception to the methods of Napoleon III.",10,20,40,30
+52,2,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+2C
+3A
+4D",40,20,10,30
+53,2,3,20-30-40-10,model_A,1,False,20,False,0,,B,"1C
+
+The opportunities described in thetextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoThe",20,30,40,10
+54,2,3,10-20-30-40,model_A,2,False,20,True,20,C,C,"2
+
+According to the document above, Fourier would belong to (C) Utopian socialists.",10,20,30,40
+55,2,3,10-20-40-30,model_A,2,False,20,False,0,B,A,"2
+
+The historical point of view of the document above is best characterized by (B) The author must be a radical reformer because he criticizes the Chartists.",10,20,40,30
+56,2,3,30-40-10-20,model_A,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+57,2,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+58,2,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3D
+
+GreaterSocialandEconomicEquityemergedastheworkersandtheirbossessawtheirincomesbecomemoreequal
+
+4B
+
+Pluralism",20,30,10,40
+59,2,4,20-30-10-40,model_A,2,False,30,True,30,B,B,"2
+The authors of this document made which of the following assumptions? (B) The economic well-being of thecityandregionwastiedtoitsinhabitantshavingemployment.",20,30,10,40
+60,2,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The opportunities described in thetextcanbeattributedtotheStabilitybroughttoFrancebytheThirdRepublic.",20,10,40,30
+61,2,4,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The author's statement ""The whole is greater than its part; Rome, by her own free will and by thefreewillofItaly,hasbecomelessthanItaly"" suggests thattheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytake",10,30,20,40
+62,2,4,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+From the passage, one may infer that, by 1896, Morris had dedicated himself to (C) the triumph of socialism.",20,40,10,30
+63,2,4,30-20-40-10,model_A,2,False,20,True,20,C,C,"2
+
+C",30,20,40,10
+64,2,4,20-30-40-10,model_A,2,False,30,True,30,C,C,"2
+
+Napoleon instituted the Continental System to accomplish C) Defeat England through economic war.",20,30,40,10
+65,2,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1B
+
+The authors of this document made the assumption thatThe economic well-being ofthecityandregionwas tiedtoitsinhabitantshavingemployment.",20,40,30,10
+66,2,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4C",20,10,40,30
+67,2,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour during this time period in Italy.",20,40,30,10
+68,2,4,30-20-40-10,model_A,1,False,30,False,0,,A,"1C
+
+The historical point of view of the document above is best characterized byCThe author believes in universal male suffrage.",30,20,40,10
+69,2,4,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+
+C
+
+The Continental System was instituted by Napoleon Bonaparte as a means ofeconomicwaragainstEngland.",10,30,40,20
+70,2,4,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,20,10
+71,2,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+2B
+
+3D
+
+4A",20,10,30,40
+72,2,4,20-40-10-30,model_A,1,False,20,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour, who was responsible for uniting Italy under Victor Emmanuel II.",20,40,10,30
+73,2,4,40-30-10-20,model_A,2,False,30,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",40,30,10,20
+74,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The author believes in universal male suffrage.",30,10,20,40
+75,2,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+76,2,4,40-20-30-10,model_A,2,False,20,True,20,C,C,"Question 2
+
+C) Defeat England through economic war
+
+Question 3
+
+D) Count Cavour
+
+Question 4
+
+B) The economic well-being of the city and region was tied to its inhabitants having employment.",40,20,30,10
+77,2,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+According to the document above, Fourier would belong to the group of intellectuals known as Utopian Socialists.",20,10,40,30
+78,2,5,40-20-30-10,model_A,1,False,40,True,40,C,C,"1
+C
+
+2
+A
+
+3
+B
+
+4
+B",40,20,30,10
+79,2,5,10-30-40-20,model_A,1,False,10,False,0,C,B,"1
+C
+
+2
+C
+
+3
+C
+
+4
+C",10,30,40,20
+80,2,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1
+The author believes in universal male suffrage.",40,30,10,20
+81,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",20,10,30,40
+82,2,5,30-40-10-20,model_A,1,False,30,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour during this time period in Italy.",30,40,10,20
+83,2,5,30-10-20-40,model_A,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2A
+
+3A
+
+4B",40,30,20,10
+85,2,5,30-20-40-10,model_A,1,False,30,True,30,D,D,"1
+
+The correct answer is (D) Greater social andeconomicequity emergedasthe workersandtheirbossessawtheirincomesbecomemoreequal.
+
+The passage statesthattheScribblingMill,SpinningFrame,andFlyShuttlehaveReducedManualLabourNearlyOneThirdandEachOfThemAtItsFirstIntroductionCarriedAnAlarmToTheWorkPeopleYetEachHasContributed",30,20,40,10
+86,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+According to Charles Fourier's views expressed in ""On Education"" (1838), Fourier would belong to the group of intellectuals known as Utopian Socialists. Fourier's ideas emphasized the importance of education in developing natural inclinations, particularly manual labor skills, among children. He believed thatCivilized educationopposedthedevelopmentoftheseinclinationsandthatthefilthinessand",20,10,30,40
+87,2,5,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3A
+
+ThereWasSignificantBeliefInaUniqueGermanMissionInHistory
+
+4A
+
+NewConceptsofLegalEquityandIndividualRightsExpressedbyLockeandRousseau",40,20,10,30
+88,2,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+2C
+
+3C
+
+4B",40,10,30,20
+89,2,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,20,40
+90,2,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",30,20,10,40
+91,2,5,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2C
+
+UtopianSocialists
+
+3B
+
+Theeconomicwell-beingofthecityandregionwastiedtoitsinhabitantshavingemployment.
+
+4B
+
+TheSuppressionofNationalistandLiberalRevolutionsthatcalledfordemocraticandeconomicReforms.",20,40,10,30
+92,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,20,10
+93,2,5,10-40-30-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",10,40,30,20
+94,2,5,10-20-30-40,model_A,1,False,10,True,10,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The documents mention cities experiencing overcrowding,affected rural areas suffering declines in available labor, weakened communities, andClass identity developing. However,ThereisNomentionOfGreaterSocialAndEconomicEquityEmergingAsWorkers'IncomesBecomingMoreEqual",10,20,30,40
+95,2,5,10-20-30-40,model_A,1,False,10,False,0,,B,1B,10,20,30,40
+96,2,5,40-10-20-30,model_A,2,False,10,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored in Italy;thescientificerawasbarelynoticedthere.",40,10,20,30
+1,3,1,40-10-30-20,model_A,1,False,40,False,0,,C,"1
+
+Based on Huizinga's description of Erasmus's career, the contributions of Erasmus are most similar to those of (A) Johannes Gutenberg (B) Martin Luther (C) Francesco Petrarch (D) Christine de Pisan
+
+The contributions of Erasmus are most similar to those of (C) Francesco Petrarch.",40,10,30,20
+2,3,1,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",20,40,30,10
+3,3,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",20,10,40,30
+4,3,1,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",40,20,30,10
+5,3,1,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+Voltaire's statement ""That ought to teach men not to persecute each other"" suggests that he was influenced by Locke's and Rousseau's new concepts of legal equity and individual rights. ThereforeThe answer is A.",10,40,30,20
+6,3,1,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+7,3,1,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4B",30,40,20,10
+8,3,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic andeconomic reforms.",20,30,10,40
+9,3,1,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+The result described as NOT occurring according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. This is because The Cloth Merchants of Leeds' statement suggests that TheScribblingMill,TheSpinningFrame,andTheFlyShuttlehaveReducedManualLabournearlyOneThirdandeachofthematitsFirstIntroductionCarried",40,20,10,30
+10,3,1,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored in Italy;thescientificerawasbarelynoticedthere.",20,30,10,40
+11,3,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+According to Fourier's views expressed in ""On Education,"" Fourier would belong to (C) Utopian Socialists.",20,40,10,30
+12,3,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+
+The author's statement ""That ought to teach men not to persecute each other"" suggests that Voltaire's criticism of persecution is influenced by new concepts of legal equity and individual rights expressed by Locke and Rousseau. Therefore, option (A) is the correct answer.
+
+2
+
+The author's letter expresses concern about Chartists' actions andcriticizesthemfordenouncingnonworkingmen",30,10,40,20
+13,3,1,20-30-40-10,model_A,1,False,20,False,0,,C,"1C
+
+The passage suggests that Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",20,30,40,10
+14,3,1,10-40-20-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,40,20,30
+15,3,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The author believes in universal male suffrage.",30,20,10,40
+16,3,1,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+The author's statement ""The whole is greater than its part; Rome, by her own free will and by thefreewillofItaly,hasbecomelessthanItaly"" suggests thatEdwardA.FreemanwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthor",20,40,30,10
+17,3,1,10-30-40-20,model_A,1,False,10,False,0,,B,"1B
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn classical authority, whereas Renaissance studies revered classical authority.",10,30,40,20
+18,3,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+The opportunities described in the text can be attributed toThe stability brought toFrancebytheThirdRepublic.",40,20,30,10
+19,3,1,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+
+From the passage, one may infer that Lenin believed thatC)The Bolshevik faction could wait no longer to seize power
+
+The passage states ""The situation is critical...The matter must be decided without fail this very evening,orthisverynight.""This indicatesthatLeninbelievedthatTheBolshevikfactioncouldwaitnolongertoSeizePower.",20,30,40,10
+20,3,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,10,20
+21,3,2,40-10-30-20,model_A,1,False,40,False,0,,B,1A,40,10,30,20
+22,3,2,10-40-30-20,model_A,2,False,40,False,0,B,A,"2
+
+The answer is B) Pluralism.",10,40,30,20
+23,3,2,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The authors of this document made which of thefollowing assumptions? (A)The introduction ofmachinesdidnotincreaseeconomicproductivity. (B)Theeconomicwell-beingoftheCityandregionwastiedtoitsinhabitantshavingemployment. (C)HavinglargefamilieswasEconomicallyAdvantageous. (D)TheworkingclassWastLazyTendedToward",10,30,20,40
+24,3,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",40,20,10,30
+25,3,2,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,10,30,20
+26,3,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,20,40,30
+27,3,2,30-20-40-10,model_A,3,False,40,False,0,,B,"3
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,20,40,10
+28,3,2,30-40-10-20,model_A,1,False,30,True,30,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The passage states ""The presence of a general is necessary; he is the head, he is the AllInAll of an army. It was not theRomanarmythatconqueredGaulItwasCaesarItwasnottheCarthagin",30,40,10,20
+29,3,2,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+The author would likely take exception to the methods of Napoleon III during this time period in Italy.",30,10,20,40
+30,3,2,10-40-20-30,model_A,1,False,10,True,10,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",10,40,20,30
+31,3,2,30-10-40-20,model_A,1,False,30,False,0,,A,"1
+
+The author believes in universal male suffrage.",30,10,40,20
+32,3,2,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,40,20
+33,3,2,40-10-20-30,model_A,1,False,40,True,40,C,C,"Question 1
+
+C
+
+Question 2
+
+D
+
+Question 3
+
+B
+
+Question 4
+
+B",40,10,20,30
+34,3,2,10-20-30-40,model_A,1,False,10,False,0,C,B,"1
+C",10,20,30,40
+35,3,2,20-10-30-40,model_A,2,False,10,True,10,C,C,"2
+
+Napoleon instituted the Continental System to accomplish C) Defeat England through economic war.",20,10,30,40
+36,3,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+By 1896, Morris had dedicated himself to the triumph of socialism.",40,30,20,10
+37,3,2,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+C
+
+2
+
+C
+
+3
+
+C
+
+4
+
+A",10,30,40,20
+38,3,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1C
+
+The author believes in universal male suffrage.",40,30,10,20
+39,3,3,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it because Bacon's writings sought to overturn the Renaissance reverence for classical authority.",10,40,30,20
+40,3,3,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The result of theIndustrial Revolution NOT mentionedinthedocumentsisDGreatersocialandeconomicequityemergedastheworkersandtheirbossessawtheirincomesbecomemoreequal.",30,40,20,10
+41,3,3,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+The opportunities described in the text can be attributed toThe opportunities described in the text can be attributed toThe opportunities described in thetextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedinthe",10,20,40,30
+42,3,3,30-40-20-10,model_A,1,False,30,False,0,,A,"1A
+
+2A
+
+3C
+
+4B",30,40,20,10
+43,3,3,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The historical point of view of the document above is best characterized by (A)The author must not be a radical reformer because he criticizes the Chartists.
+
+2B
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B)The suppression of nationalist and liberal revolutions that called for democratic andeconomic reforms.
+
+3A",30,20,10,40
+44,3,3,30-20-10-40,model_A,1,False,30,True,30,A,A,"1
+
+The opportunities described in the text can be attributed to (A) the stability brought to France by the Third Republic.",30,20,10,40
+45,3,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The author would likely take exception tothe methods ofCount CavourduringthistimeperiodinItaly.",10,40,20,30
+46,3,3,30-10-40-20,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4C",30,10,40,20
+47,3,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,10,20
+48,3,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+49,3,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3C
+
+UtopianSocialists
+
+4C
+
+TheTriumphofSocialism",40,30,20,10
+50,3,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",10,40,20,30
+51,3,3,10-20-40-30,model_A,1,False,10,False,0,,B,"1
+
+The author would likely take exception to the methods of which leader during this time period in Italy? (A) Napoleon III (B) Giuseppe Garibaldi (C) Victor Emmanuel (D) Count Cavour
+
+The author would likely take exception to the methods of Napoleon III.",10,20,40,30
+52,3,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+2C
+3D
+4D",40,20,10,30
+53,3,3,20-30-40-10,model_A,1,False,20,False,0,,B,"1C
+
+The opportunities described in thetextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoTheopportunitiesdescribedintheTextcanbeattributedtoThe",20,30,40,10
+54,3,3,10-20-30-40,model_A,2,False,20,True,20,C,C,"2
+
+C
+
+The group of intellectuals Fourier would belong to according to the document above is Utopian Socialists.",10,20,30,40
+55,3,3,10-20-40-30,model_A,2,False,20,False,0,B,A,"2
+
+The historical point of view of the document above is best characterized by (B) The author must be a radical reformer because he criticizes the Chartists.",10,20,40,30
+56,3,3,30-40-10-20,model_A,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+57,3,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",10,30,20,40
+58,3,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3D
+
+GreaterSocialandEconomicEquityemergedastheworkersandtheirbossessawtheirincomesbecomemoreequal
+
+4B
+
+Pluralism",20,30,10,40
+59,3,4,20-30-10-40,model_A,2,False,30,False,0,,B,"2
+
+The authors of this document made Theeconomicwell-beingoftheCityandRegionWastiedToItsInhabitantsHavingEmployment.",20,30,10,40
+60,3,4,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The opportunities described in thetextcanbeattributedtotheStabilitybroughttoFrancebytheThirdRepublic.",20,10,40,30
+61,3,4,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The author's statement ""The whole is greater than its part; Rome, by her own free will and by thefreewillofItaly,hasbecomelessthanItaly"" suggests thattheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytakeexceptiontothemethodsusedbyGiuseppeGaribaldi.
+
+ThereforeTheauthorwouldlikelytake",10,30,20,40
+62,3,4,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+From the passage, one may infer that, by 1896, Morris had dedicated himself to (C) the triumph of socialism.",20,40,10,30
+63,3,4,30-20-40-10,model_A,2,False,20,True,20,C,C,"2
+
+C",30,20,40,10
+64,3,4,20-30-40-10,model_A,1,False,20,True,20,C,C,"1
+
+C
+
+2
+
+C
+
+3
+
+D
+
+4
+
+B",20,30,40,10
+65,3,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1B
+
+The authors of this document made the assumption thatThe economic well-being ofthecityandregionwas tiedtoitsinhabitantshavingemployment.",20,40,30,10
+66,3,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4C",20,10,40,30
+67,3,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour during this time period in Italy.",20,40,30,10
+68,3,4,30-20-40-10,model_A,2,False,20,True,20,C,C,"2
+
+C
+
+The passage suggests that Lenin believed that the Bolsheviks must seize power immediately because the situation was critical and thatpower must be decided without fail.",30,20,40,10
+69,3,4,10-30-40-20,model_A,2,False,30,True,30,C,C,"2
+
+C
+
+The Continental System was instituted by Napoleon Bonaparte as a means ofeconomicwaragainstEngland.",10,30,40,20
+70,3,4,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+The best description of the goals of the new ideology of conservatism as it was explained by Metternich is (B) The suppression of nationalist and liberal revolutions that called for democratic and economic reforms.",30,40,20,10
+71,3,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+2B
+
+3D
+
+4A",20,10,30,40
+72,3,4,20-40-10-30,model_A,1,False,20,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour, who was responsible for uniting Italy under Victor Emmanuel II.",20,40,10,30
+73,3,4,40-30-10-20,model_A,2,False,30,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance revered the natural teachings of classical authority; Bacon's writings sought to overturn them.",40,30,10,20
+74,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The author believes in universal male suffrage.",30,10,20,40
+75,3,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,20,30
+76,3,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: D
+
+Question 4
+
+Answer: B",40,20,30,10
+77,3,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+According to the passage, Fourier would belong to the group of Utopian Socialists.",20,10,40,30
+78,3,5,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4B",40,20,30,10
+79,3,5,10-30-40-20,model_A,1,False,10,False,0,C,B,"1
+C
+
+2
+C
+
+3
+C
+
+4
+C",10,30,40,20
+80,3,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1C
+
+The author believes in universal male suffrage.",40,30,10,20
+81,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",20,10,30,40
+82,3,5,30-40-10-20,model_A,1,False,30,False,0,,B,"1D
+
+The author would likely take exception to the methods of Count Cavour during this time period in Italy.",30,40,10,20
+83,3,5,30-10-20-40,model_A,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+84,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The Continental System was instituted by Napoleon Bonaparte to defeat England through economic war.",40,30,20,10
+85,3,5,30-20-40-10,model_A,1,False,30,True,30,D,D,"1
+
+The correct answer is (D) Greater social andeconomicequity emergedasthe workersandtheirbossessawtheirincomesbecomemoreequal.
+
+The passage statesthattheScribblingMill,SpinningFrame,andFlyShuttlehaveReducedManualLabourNearlyOneThirdandEachOfThemAtItsFirstIntroductionCarriedAnAlarmToTheWorkPeopleYetEachHasContributed",30,20,40,10
+86,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+According to Charles Fourier's views expressed in ""On Education"" (1838), Fourier would belong to the group of intellectuals known as Utopian Socialists. Fourier's ideas emphasized the importance of education in developing natural inclinations, particularly manual labor skills, among children. He believed thatCivilized educationopposedthedevelopmentoftheseinclinationsandthatthefilthinessand",20,10,30,40
+87,3,5,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+TheScientificRevolution
+
+2A
+
+TheStabilitybroughttoFrancebytheThirdRepublic
+
+3A
+
+ThereWasSignificantBeliefInaUniqueGermanMissionInHistory
+
+4A
+
+NewConceptsofLegalEquityandIndividualRightsExpressedbyLockeandRousseau",40,20,10,30
+88,3,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,10,30,20
+89,3,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",30,10,20,40
+90,3,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+Napoleon instituted the Continental System to defeat England through economic war.",30,20,10,40
+91,3,5,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+TheScientificRevolution
+
+2C
+
+UtopianSocialists
+
+3B
+
+Theeconomicwell-beingofthecityandregionwastiedtoitsinhabitantshavingemployment.
+
+4B
+
+TheSuppressionofNationalistandLiberalRevolutionsthatcalledfordemocraticandeconomicReforms.",20,40,10,30
+92,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+Lenin believed thatThe Bolshevik faction could wait no longer to seize power.",40,30,20,10
+93,3,5,10-40-30-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",10,40,30,20
+94,3,5,10-20-30-40,model_A,1,False,10,True,10,D,D,"1
+
+The result NOT mentioned according to the documents is (D) Greater social and economic equity emerged as the workers' incomes became more equal. The documents mention cities experiencing overcrowding,affected rural areas suffering declines in available labor, weakened communities, andClass identity developing. However,ThereisNomentionOfGreaterSocialAndEconomicEquityEmergingAsWorkers'IncomesBecomingMoreEqual",10,20,30,40
+95,3,5,10-20-30-40,model_A,1,False,10,False,0,,B,1B,10,20,30,40
+96,3,5,40-10-20-30,model_A,2,False,10,False,0,,B,"2
+
+The approach outlined in Novum Organum differs from the studies of the Renaissance era that preceded it becauseThe Renaissance was anchored inItaly;thescientificerawasbarelynoticedthere.",40,10,20,30

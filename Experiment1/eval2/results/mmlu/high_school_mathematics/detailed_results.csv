@@ -1,0 +1,1825 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A",20,40,30,10
+2,1,1,20-30-10-40,baseline,1,False,20,False,0,D,B,1. D,20,30,10,40
+3,1,1,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+4,1,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+5,1,1,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+6,1,1,20-30-40-10,baseline,1,False,20,False,0,D,B,1. D,20,30,40,10
+7,1,1,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+8,1,1,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+9,1,1,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+10,1,1,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+11,1,1,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+12,1,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+13,1,1,20-30-10-40,baseline,1,False,20,False,0,D,B,1. D,20,30,10,40
+14,1,1,30-20-10-40,baseline,4,False,40,False,0,B,A,4. B,30,20,10,40
+15,1,1,10-20-40-30,baseline,1,False,10,True,10,A,A,1. A,10,20,40,30
+16,1,1,30-40-20-10,baseline,1,False,30,False,0,B,A,1. B,30,40,20,10
+17,1,1,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+18,1,1,10-20-30-40,baseline,4,False,40,False,0,,A,4,10,20,30,40
+19,1,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+20,1,2,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+21,1,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+22,1,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+23,1,2,30-40-10-20,baseline,1,False,30,False,0,D,A,1. D,30,40,10,20
+24,1,2,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+25,1,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+26,1,2,10-20-30-40,baseline,2,False,20,False,0,,D,2,10,20,30,40
+27,1,2,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+28,1,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+29,1,2,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+30,1,2,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+31,1,2,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+32,1,2,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+33,1,2,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+34,1,2,10-30-20-40,baseline,1,False,10,False,0,A,B,1. A,10,30,20,40
+35,1,2,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+36,1,2,30-40-10-20,baseline,2,False,40,False,0,C,A,"2
+C",30,40,10,20
+37,1,2,30-20-40-10,baseline,1,False,30,False,0,D,B,1. D,30,20,40,10
+38,1,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+39,1,3,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+40,1,3,30-10-40-20,baseline,1,False,30,False,0,C,D,1. C,30,10,40,20
+41,1,3,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+42,1,3,40-30-10-20,baseline,1,False,40,True,40,A,A,"1
+A",40,30,10,20
+43,1,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+44,1,3,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+45,1,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+46,1,3,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+47,1,3,30-10-20-40,baseline,1,False,30,False,0,B,D,1. B,30,10,20,40
+48,1,3,30-40-10-20,baseline,2,False,40,False,0,,A,2,30,40,10,20
+49,1,3,20-40-10-30,baseline,1,False,20,False,0,B,A,1. B,20,40,10,30
+50,1,3,10-20-40-30,baseline,1,False,10,False,0,D,A,"1
+D",10,20,40,30
+51,1,3,20-30-40-10,baseline,1,False,20,True,20,A,A,1. A,20,30,40,10
+52,1,3,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+53,1,3,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+54,1,3,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+55,1,3,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+56,1,3,20-30-40-10,baseline,1,False,20,False,0,D,A,"1
+D",20,30,40,10
+57,1,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+58,1,4,10-40-30-20,baseline,1,False,10,False,0,B,D,1. B,10,40,30,20
+59,1,4,20-40-30-10,baseline,2,False,40,False,0,C,D,"2
+C",20,40,30,10
+60,1,4,20-40-10-30,baseline,1,False,20,False,0,A,C,1. A,20,40,10,30
+61,1,4,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+62,1,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+63,1,4,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+64,1,4,10-30-40-20,baseline,2,False,30,False,0,,A,2,10,30,40,20
+65,1,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+66,1,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+67,1,4,30-10-40-20,baseline,1,False,30,False,0,D,B,"1
+D",30,10,40,20
+68,1,4,30-40-10-20,baseline,1,False,30,False,0,B,A,1. B,30,40,10,20
+69,1,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+70,1,4,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+71,1,4,10-20-30-40,baseline,1,False,10,False,0,A,B,1. A,10,20,30,40
+72,1,4,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+73,1,4,30-10-20-40,baseline,1,False,30,False,0,B,A,1. B,30,10,20,40
+74,1,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+75,1,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+76,1,4,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+77,1,5,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+78,1,5,30-20-40-10,baseline,1,False,30,False,0,C,B,1. C,30,20,40,10
+79,1,5,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+80,1,5,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+81,1,5,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+82,1,5,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+83,1,5,10-30-20-40,baseline,1,False,10,False,0,C,A,"1
+C",10,30,20,40
+84,1,5,10-30-40-20,baseline,1,False,10,True,10,A,A,1. A,10,30,40,20
+85,1,5,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+86,1,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+87,1,5,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+88,1,5,30-10-20-40,baseline,1,False,30,False,0,D,A,"1
+D",30,10,20,40
+89,1,5,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+90,1,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+91,1,5,20-10-30-40,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. C
+4. A",20,10,30,40
+92,1,5,20-40-10-30,baseline,1,False,20,False,0,C,A,1. C,20,40,10,30
+93,1,5,10-20-40-30,baseline,1,False,10,False,0,C,B,1. C,10,20,40,30
+94,1,5,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+95,1,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+96,1,5,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+1,2,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A",20,40,30,10
+2,2,1,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+3,2,1,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+4,2,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+5,2,1,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+6,2,1,20-30-40-10,baseline,1,False,20,False,0,D,B,1. D,20,30,40,10
+7,2,1,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+8,2,1,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+9,2,1,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+10,2,1,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+11,2,1,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+12,2,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+13,2,1,20-30-10-40,baseline,1,False,20,False,0,D,B,1. D,20,30,10,40
+14,2,1,30-20-10-40,baseline,4,False,40,False,0,B,A,4. B,30,20,10,40
+15,2,1,10-20-40-30,baseline,1,False,10,True,10,A,A,1. A,10,20,40,30
+16,2,1,30-40-20-10,baseline,1,False,30,False,0,B,A,1. B,30,40,20,10
+17,2,1,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+18,2,1,10-20-30-40,baseline,4,False,40,False,0,,A,4,10,20,30,40
+19,2,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+20,2,2,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+21,2,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+22,2,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+23,2,2,30-40-10-20,baseline,1,False,30,False,0,D,A,1. D,30,40,10,20
+24,2,2,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+25,2,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+26,2,2,10-20-30-40,baseline,2,False,20,False,0,,D,2,10,20,30,40
+27,2,2,10-40-30-20,baseline,2,False,40,False,0,A,B,"2
+A",10,40,30,20
+28,2,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+29,2,2,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+30,2,2,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+31,2,2,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+32,2,2,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+33,2,2,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+34,2,2,10-30-20-40,baseline,1,False,10,False,0,A,B,1. A,10,30,20,40
+35,2,2,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+36,2,2,30-40-10-20,baseline,2,False,40,False,0,C,A,"2
+C",30,40,10,20
+37,2,2,30-20-40-10,baseline,1,False,30,False,0,D,B,1. D,30,20,40,10
+38,2,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+39,2,3,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+40,2,3,30-10-40-20,baseline,1,False,30,False,0,C,D,1. C,30,10,40,20
+41,2,3,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+42,2,3,40-30-10-20,baseline,1,False,40,True,40,A,A,"1
+A",40,30,10,20
+43,2,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+44,2,3,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+45,2,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+46,2,3,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+47,2,3,30-10-20-40,baseline,1,False,30,False,0,B,D,1. B,30,10,20,40
+48,2,3,30-40-10-20,baseline,2,False,40,False,0,,A,2,30,40,10,20
+49,2,3,20-40-10-30,baseline,1,False,20,False,0,B,A,1. B,20,40,10,30
+50,2,3,10-20-40-30,baseline,1,False,10,False,0,D,A,"1
+D",10,20,40,30
+51,2,3,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+52,2,3,10-30-40-20,baseline,2,False,30,False,0,C,A,"2
+C",10,30,40,20
+53,2,3,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+54,2,3,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+55,2,3,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+56,2,3,20-30-40-10,baseline,1,False,20,False,0,D,A,"1
+D",20,30,40,10
+57,2,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+58,2,4,10-40-30-20,baseline,1,False,10,False,0,C,D,1. C,10,40,30,20
+59,2,4,20-40-30-10,baseline,2,False,40,False,0,C,D,"2
+C",20,40,30,10
+60,2,4,20-40-10-30,baseline,1,False,20,False,0,A,C,1. A,20,40,10,30
+61,2,4,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+62,2,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+63,2,4,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+64,2,4,10-30-40-20,baseline,2,False,30,False,0,,A,2,10,30,40,20
+65,2,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+66,2,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+67,2,4,30-10-40-20,baseline,1,False,30,False,0,D,B,"1
+D",30,10,40,20
+68,2,4,30-40-10-20,baseline,1,False,30,False,0,B,A,1. B,30,40,10,20
+69,2,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+70,2,4,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+71,2,4,10-20-30-40,baseline,1,False,10,False,0,A,B,1. A,10,20,30,40
+72,2,4,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+73,2,4,30-10-20-40,baseline,1,False,30,False,0,B,A,1. B,30,10,20,40
+74,2,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+75,2,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+76,2,4,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+77,2,5,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+78,2,5,30-20-40-10,baseline,1,False,30,False,0,C,B,1. C,30,20,40,10
+79,2,5,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+80,2,5,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+81,2,5,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+82,2,5,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+83,2,5,10-30-20-40,baseline,1,False,10,False,0,C,A,"1
+C",10,30,20,40
+84,2,5,10-30-40-20,baseline,1,False,10,True,10,A,A,1. A,10,30,40,20
+85,2,5,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+86,2,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+87,2,5,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+88,2,5,30-10-20-40,baseline,1,False,30,False,0,D,A,"1
+D",30,10,20,40
+89,2,5,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+90,2,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+91,2,5,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+92,2,5,20-40-10-30,baseline,1,False,20,False,0,C,A,"1
+C",20,40,10,30
+93,2,5,10-20-40-30,baseline,1,False,10,False,0,C,B,1. C,10,20,40,30
+94,2,5,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+95,2,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+96,2,5,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+1,3,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A",20,40,30,10
+2,3,1,20-30-10-40,baseline,1,False,20,False,0,D,B,1. D,20,30,10,40
+3,3,1,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+4,3,1,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+5,3,1,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+6,3,1,20-30-40-10,baseline,1,False,20,False,0,D,B,1. D,20,30,40,10
+7,3,1,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+8,3,1,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+9,3,1,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+10,3,1,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+11,3,1,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+12,3,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+13,3,1,20-30-10-40,baseline,1,False,20,False,0,D,B,1. D,20,30,10,40
+14,3,1,30-20-10-40,baseline,4,False,40,False,0,B,A,4. B,30,20,10,40
+15,3,1,10-20-40-30,baseline,1,False,10,True,10,A,A,1. A,10,20,40,30
+16,3,1,30-40-20-10,baseline,1,False,30,False,0,B,A,1. B,30,40,20,10
+17,3,1,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+18,3,1,10-20-30-40,baseline,4,False,40,False,0,,A,4,10,20,30,40
+19,3,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+20,3,2,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+21,3,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+22,3,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+23,3,2,30-40-10-20,baseline,1,False,30,False,0,D,A,1. D,30,40,10,20
+24,3,2,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+25,3,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+26,3,2,10-20-30-40,baseline,2,False,20,False,0,,D,2,10,20,30,40
+27,3,2,10-40-30-20,baseline,2,False,40,False,0,A,B,"2
+A",10,40,30,20
+28,3,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+29,3,2,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+30,3,2,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+31,3,2,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+32,3,2,40-10-20-30,baseline,1,False,40,False,0,D,A,"1
+D",40,10,20,30
+33,3,2,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+34,3,2,10-30-20-40,baseline,1,False,10,False,0,A,B,1. A,10,30,20,40
+35,3,2,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+36,3,2,30-40-10-20,baseline,2,False,40,False,0,C,A,"2
+C",30,40,10,20
+37,3,2,30-20-40-10,baseline,1,False,30,False,0,D,B,1. D,30,20,40,10
+38,3,2,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+39,3,3,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+40,3,3,30-10-40-20,baseline,1,False,30,False,0,C,D,1. C,30,10,40,20
+41,3,3,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+42,3,3,40-30-10-20,baseline,1,False,40,True,40,A,A,"1
+A",40,30,10,20
+43,3,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+44,3,3,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+45,3,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+46,3,3,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+47,3,3,30-10-20-40,baseline,1,False,30,False,0,B,D,1. B,30,10,20,40
+48,3,3,30-40-10-20,baseline,2,False,40,False,0,,A,2,30,40,10,20
+49,3,3,20-40-10-30,baseline,1,False,20,False,0,B,A,1. B,20,40,10,30
+50,3,3,10-20-40-30,baseline,1,False,10,False,0,D,A,"1
+D",10,20,40,30
+51,3,3,20-30-40-10,baseline,1,False,20,True,20,A,A,1. A,20,30,40,10
+52,3,3,10-30-40-20,baseline,2,False,30,False,0,C,A,"2
+C",10,30,40,20
+53,3,3,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+54,3,3,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+55,3,3,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+56,3,3,20-30-40-10,baseline,1,False,20,False,0,D,A,"1
+D",20,30,40,10
+57,3,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+58,3,4,10-40-30-20,baseline,1,False,10,False,0,C,D,1. C,10,40,30,20
+59,3,4,20-40-30-10,baseline,2,False,40,False,0,C,D,"2
+C",20,40,30,10
+60,3,4,20-40-10-30,baseline,1,False,20,False,0,A,C,1. A,20,40,10,30
+61,3,4,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+62,3,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+63,3,4,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+64,3,4,10-30-40-20,baseline,2,False,30,False,0,,A,2,10,30,40,20
+65,3,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+66,3,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+67,3,4,30-10-40-20,baseline,1,False,30,False,0,D,B,"1
+D",30,10,40,20
+68,3,4,30-40-10-20,baseline,1,False,30,False,0,B,A,1. B,30,40,10,20
+69,3,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+70,3,4,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+71,3,4,10-20-30-40,baseline,1,False,10,False,0,A,B,1. A,10,20,30,40
+72,3,4,10-20-30-40,baseline,1,False,10,False,0,C,B,1. C,10,20,30,40
+73,3,4,30-10-20-40,baseline,1,False,30,False,0,B,A,1. B,30,10,20,40
+74,3,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+75,3,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+76,3,4,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+77,3,5,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+78,3,5,30-20-40-10,baseline,1,False,30,False,0,C,B,1. C,30,20,40,10
+79,3,5,40-10-30-20,baseline,1,False,40,False,0,B,A,1. B,40,10,30,20
+80,3,5,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+81,3,5,30-20-40-10,baseline,-1,True,0,False,0,,,"1. D
+2. B
+3. A
+4. A",30,20,40,10
+82,3,5,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+83,3,5,10-30-20-40,baseline,1,False,10,False,0,C,A,"1
+C",10,30,20,40
+84,3,5,10-30-40-20,baseline,1,False,10,True,10,A,A,1. A,10,30,40,20
+85,3,5,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+86,3,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+87,3,5,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+88,3,5,30-10-20-40,baseline,1,False,30,False,0,D,A,"1
+D",30,10,20,40
+89,3,5,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+90,3,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+91,3,5,20-10-30-40,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. C
+4. A",20,10,30,40
+92,3,5,20-40-10-30,baseline,1,False,20,False,0,C,A,1. C,20,40,10,30
+93,3,5,10-20-40-30,baseline,1,False,10,False,0,C,B,1. C,10,20,40,30
+94,3,5,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+95,3,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+96,3,5,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+1,1,1,20-40-30-10,model_A,2,False,40,False,0,C,D,"2
+The value of $x$ for which $h(4x-1) = x$ is 7. ThereforeThe answer is $\boxed{C}$.",20,40,30,10
+2,1,1,20-30-10-40,model_A,1,False,20,False,0,,B,"1
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{17}{40}$
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{17}{40}$
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\",20,30,10,40
+3,1,1,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) such that x = 0",30,40,20,10
+4,1,1,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4C",40,30,10,20
+5,1,1,20-30-40-10,model_A,1,False,20,True,20,D,D,"Question 1
+
+The answer is D) 18,900.",20,30,40,10
+6,1,1,20-30-40-10,model_A,1,False,20,False,0,,B,"Question 1
+
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2",20,30,40,10
+7,1,1,30-40-20-10,model_A,1,False,30,False,0,A,B,"Question 1
+
+The answer is A) 6
+
+To find the smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$, we can start by testing the smallest two-digit integer, 10.
+
+If $n=10$, switching its digits gives 10, and adding 3 gives 13. However, $",30,40,20,10
+8,1,1,40-20-30-10,model_A,1,False,40,False,0,,B,"Question 1
+
+The reciprocal of $1815 \div 11$ is $\frac{11}{1815}$. Dividing $11$ by $\frac{11}{1815}$ gives $11 \times \frac{1815}{11} = 1815$.
+
+ThereforeThe answer is (B",40,20,30,10
+9,1,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1
+
+The point $(3,6)$ is on thegraphof$y=g(3)$
+
+Therefore$g(3)=6$
+
+Thepoint$(3,6)$isalsoonthe
+
+Therefore$g(3)^2=36$
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(",30,20,10,40
+10,1,1,40-10-30-20,model_A,1,False,40,True,40,B,B,"Question 1
+
+The answer is B) \frac{2}{25} + \frac{-14}{25}i
+
+Question 2
+
+The answer is D) 0
+
+Question 3
+
+The answer is A) \frac{5}{12}
+
+Question 4
+
+The answer is A) 67",40,10,30,20
+11,1,1,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2.
+
+ThereforeThe answer is A.",30,10,40,20
+12,1,1,10-40-30-20,model_A,1,False,10,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. Completing the square gives $(a+3)^2-16$, so The minimum value occurs when $a=-3$.
+
+ThereforeThe minimum value occursWhen $a=-3$.
+
+ThereforeThe minimum value occursWhen $a=-3$.
+
+ThereforeThe minimum value occursWhen $a=-",10,40,30,20
+13,1,1,20-30-10-40,model_A,1,False,20,False,0,D,B,"1
+The answer is D. 68
+
+2
+The answer is A. 6
+
+3
+The answer is D. 0.693
+
+4
+The answer is A. (–2, –1)",20,30,10,40
+14,1,1,30-20-10-40,model_A,1,False,30,False,0,,D,"1
+The function models The number ofpapersThe teacherThecanThegradeThegivenThethatTheheThehas2The uninterruptedTheplanningTheperiodsTheandThexThefullThehoursThedevotedToThegradingTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheThe",30,20,10,40
+15,1,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"Question 1
+
+The sum of the primes between 100 and 200 inclusive that are 1 or 2 more than a perfect square is 298.
+
+ThereforeThe answer is A.",10,20,40,30
+16,1,1,30-40-20-10,model_A,1,False,30,True,30,A,A,"1
+The solution involves solving a linear equation. First multiply both sides by -3. 4 + 3x = 1/2. 3x = 1/2 - 4 = -7/2. x = -7/6. The answer is D.",30,40,20,10
+17,1,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1
+The value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$. ThereforeThe value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$.ThereforeThevalueof$x$suchthat$h(4x-1)=",30,40,20,10
+18,1,1,10-20-30-40,model_A,1,False,10,False,0,,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$isallrealnumbersexcept$0$and$\pm1$.
+
+ThereforeTheSumOf$0$,$1$,$-1$Is$0$.
+
+ThereforeTheAnswerIsB$0$.
+
+Question 2
+
+TheProbabilityThat",10,20,30,40
+19,1,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$
+
+The powers of $i$ repeat every 4 powers (since $i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$). ThereforeThe",40,30,20,10
+20,1,2,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The value of r is 0.863.",40,30,20,10
+21,1,2,40-20-30-10,model_A,1,False,40,False,0,A,D,"1
+The simplified form of $\sqrt[3]{-128}$ is $-2\sqrt[3]{2}$, so $a=-2$ and $b=2$. Therefore $a+b=-2+2=0$.
+
+The answer is D) 0.",40,20,30,10
+22,1,2,20-10-40-30,model_A,3,False,40,False,0,,C,"Question 3
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$.
+
+ThereforeThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum value",20,10,40,30
+23,1,2,30-40-10-20,model_A,1,False,30,False,0,,A,"1
+
+The set of points (x, y) suchthat x = 0
+
+2
+
+The sumofthosethreeNumbers
+
+3
+
+TheProductOfTheGreatestEvenPrimeNumberAndTheLeastOddPrimeNumber
+
+4
+
+TheNumberOfPositiveCubesDivide3!5!7!",30,40,10,20
+24,1,2,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The value of $x$ such that $h(4x-1) = x$ is 7.",10,30,40,20
+25,1,2,40-30-10-20,model_A,1,False,40,False,0,A,C,"1
+
+The answer is A.",40,30,10,20
+26,1,2,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+The minimum value of $a^2+6a-7$ occurs when $a^2+6a-7=0$.
+
+To find $a$, we can use the quadratic formula $a=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
+Plugging $a=1$, $b=6$, $c=-",10,20,30,40
+27,1,2,10-40-30-20,model_A,2,False,40,False,0,,B,"Question 2
+
+The reciprocal of $1815 \div 11$ is $\frac{11}{1815}$. Dividing $11$ by $\frac{11}{1815}$ gives $11 \cdot \frac{1815}{11} = 1815$.
+
+ThereforeThe answer is (B",10,40,30,20
+28,1,2,30-10-20-40,model_A,1,False,30,True,30,D,D,"Question 1
+
+The answer is D) 18,900.",30,10,20,40
+29,1,2,40-30-20-10,model_A,1,False,40,False,0,,A,"Question 1
+
+The distance between exit 47 and exit 48 would be 6 km. However, since The distance from exit 41 to exit 50 is 100 km. Ifeachexitisatleast6kmfromthenextexit,Thedistancebetweenexit47andexit48wouldbe106km. ThereforeThelongestpossibledistance",40,30,20,10
+30,1,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1
+The cube root of -128 is -4. Therefore $a = -4$ and $b = 1$.
+
+$a + b = -4 + 1 = -3$
+
+The answer is D) -2",20,10,30,40
+31,1,2,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+32,1,2,40-10-20-30,model_A,1,False,40,False,0,D,A,"1
+D
+
+The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1$, $i",40,10,20,30
+33,1,2,10-20-40-30,model_A,1,False,10,False,0,,B,"Question 1
+
+The point (3, 4) lies on the circle centered at (3, 4)with radius 5. The point (5, 7) lies on the circle centered at (5, 7)with radius 5. The point (6, 4) lies on the circle centered at (6, 4)with radius 5. The",10,20,40,30
+34,1,2,10-30-20-40,model_A,1,False,10,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched to 61 and 3 is added, 61 + 3 = 64, which is 2 * 32.",10,30,20,40
+35,1,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $",20,10,40,30
+36,1,2,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is (A) 6.",30,40,10,20
+37,1,2,30-20-40-10,model_A,1,False,30,False,0,,B,"Question 1
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $f'(x) = e^x - 2x$.
+
+The slope $m$ of $f'(x)$ is $e^x - 2x$.
+
+The slope $m$ of $f'(x)$ is $e^x - 2x",30,20,40,10
+38,1,2,20-10-40-30,model_A,1,False,20,False,0,,D,3C,20,10,40,30
+39,1,3,40-20-10-30,model_A,1,False,40,False,0,,A,1A,40,20,10,30
+40,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1
+
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is 20 + 2x. ThereforeThe answer is A.",30,10,40,20
+41,1,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The sum of all possible values of T is 12.",10,40,20,30
+42,1,3,40-30-10-20,model_A,1,False,40,True,40,A,A,"1A
+
+The point (x, y) = (0, 0) is mapped to itself under f, so (A) (0, 0) only.
+
+2D
+
+The point (3,6) is mapped to (36) under h, so The sum of 36.
+
+3A
+
+The distance between exit 47 and exit 48 is",40,30,10,20
+43,1,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The probability of Joe getting three hits out of three attempts can be calculated using the binomial distribution formula. The formula is P(X=k) = C(n, k) * p^k * (1-p)^(n-k), where n=3, k=3, p=0.323.
+
+Plugging these values into the formula gives P(X=3) =",30,20,10,40
+44,1,3,20-10-30-40,model_A,3,False,30,False,0,,D,"1A
+
+The positive cubes that divide $3!\cdot 5!\cdot 7!$ are $1^3=1$ and $3^3=27$.
+
+ThereforeThe answer is $\boxed{2}$.",20,10,30,40
+45,1,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is A.",40,10,20,30
+46,1,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+The simplified form of $\frac{2+2i}{-3+4i}$ is $\frac{2}{25} + \frac{-14}{25}i$. ThereforeThe answer is $\boxed{\text{(B)}}$ $\frac{2}{25} + \frac{-14}{25}i$.",20,40,30,10
+47,1,3,30-10-20-40,model_A,1,False,30,True,30,D,D,"1
+The answer is D) 68.",30,10,20,40
+48,1,3,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) suchthat x = 0",30,40,10,20
+49,1,3,20-40-10-30,model_A,2,False,40,False,0,C,A,"2
+The smallest value of $c$ we can use here, so that $f$ does have aninverse functionis -2.",20,40,10,30
+50,1,3,10-20-40-30,model_A,1,False,10,False,0,D,A,"1
+D
+
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -",10,20,40,30
+51,1,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is A) 20 + 2x.",20,30,40,10
+52,1,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+The smallest value of $c$ we can use here, so that $f$ does have aninverse functionis -2.",10,30,40,20
+53,1,3,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A
+
+2
+D
+
+3
+A
+
+4
+B",40,10,30,20
+54,1,3,40-10-20-30,model_A,3,False,20,False,0,,A,"1D
+
+The point $(3,6)$ is on thegraphof$y=g(3)=6$Therefore$g(3)^2=36$ThereforeThepoint$(3,36)$isonthe$y=h(x)$graphThereforeTheSumOfTheCoordinatesOfThatPointIs$3+36=\boxed{39}$
+
+2A
+
+Thepoint$(",40,10,20,30
+55,1,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+The distance between exit 47 and exit 48 would be 6km. However, The question asks What is the longest possible distance,So The answer would be 6+6=12km
+
+ThereforeThe answer would be 12km
+
+ThereforeThe answer would be 1A
+
+The answer would be 1A
+
+The answer would be 1",40,30,10,20
+56,1,3,20-30-40-10,model_A,1,False,20,False,0,,A,"1
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is A.",20,30,40,10
+57,1,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The value of r is 0.863.",10,40,30,20
+58,1,4,10-40-30-20,model_A,2,False,40,False,0,C,D,"2
+The answer is (C) 8910.",10,40,30,20
+59,1,4,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading at home is 20 + 2x. ThereforeThe answer is A) 20 + 2x.",20,40,30,10
+60,1,4,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+
+The answer is A.",20,40,10,30
+61,1,4,40-20-30-10,model_A,1,False,40,False,0,,D,"Question 1
+
+To find $x$ such that $h(x) = x$, we need to solve $2x + 7 = x$.
+
+Subtract $x$ from both sides: $x + 7 = 0$.
+
+Subtract 7 from both sides: $x = -7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,20,30,10
+62,1,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The set of points (x, y) such that x = 0
+
+2A
+
+67
+
+3B
+
+2.25
+
+4A
+
+6",40,10,30,20
+63,1,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1
+
+The probability that Joe will get three hits in three at-bats is 0.323^3 = 0.033437438368756984. Rounding to the nearest hundredth gives 0.03.
+
+ThereforeThe answer is A.",40,20,10,30
+64,1,4,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+The answer is A) 6.",10,30,40,20
+65,1,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is factored into $(a+7)(a-1)$. The minimum value occurs when $a=-7$, yielding $-7^2+6(-7)-7=-7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,10,20,30
+66,1,4,30-20-40-10,model_A,1,False,30,False,0,D,A,"1
+The answer is D. The set of points (x, y) such that x = y.",30,20,40,10
+67,1,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $f'(x) = e^x - 2x$.
+
+The slope $m$ of $f'(x)$ is $e^x - 2x$.
+
+The slope $m$ of $f'(x)$ is $e^x - 2x$.",30,10,40,20
+68,1,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+69,1,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The probability Joe gets three hits out of three attempts is 0.323^3 = 0.033756756288125434752973125
+
+The answer is A
+
+2
+
+160 * 17/40 = 68
+
+The answer is D",40,30,20,10
+70,1,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is A. 298
+
+3
+The answer is A. (–2, –1)
+
+4
+The answer is D. 18,900",20,30,10,40
+71,1,4,10-20-30-40,model_A,1,False,10,False,0,A,B,"1
+A
+
+2
+A
+
+3
+A
+
+4
+A",10,20,30,40
+72,1,4,10-20-30-40,model_A,1,False,10,False,0,,B,"1
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 12.
+
+ThereforeThe answer is $\boxed{B}$.",10,20,30,40
+73,1,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of r is 0.863.",30,10,20,40
+74,1,4,40-20-10-30,model_A,1,False,40,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is D. 18900
+
+3
+The answer is D. 36
+
+4
+The answer is A. 111",40,20,10,30
+75,1,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{1}{2}$
+
+The derivative $f'(x) = e^x - 2x$.
+
+The slope $m = \frac{1}{2}$
+
+$e^x - 2x = \frac{1}{2}$
+
+$2x =",10,40,20,30
+76,1,4,40-20-30-10,model_A,1,False,40,False,0,A,D,"1
+The sum of those three numbers is 0.5. ThereforeThe answer is (A) 0.5.",40,20,30,10
+77,1,5,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+78,1,5,30-20-40-10,model_A,1,False,30,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched to 613, 613 + 3 = 616, which is 2 * 613.",30,20,40,10
+79,1,5,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A
+
+2
+D
+
+3
+B
+
+4
+A",40,10,30,20
+80,1,5,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2. ThereforeThe answer is A.",30,10,40,20
+81,1,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a-7$ is equal to $-16$.
+
+ThereforeThe answer is $\boxed{\text{(D)}}$",30,20,40,10
+82,1,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The sum of those three numbers is -1.5.",20,40,10,30
+83,1,5,10-30-20-40,model_A,1,False,10,False,0,C,A,"1
+
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2. ThereforeThe answer is A.",10,30,20,40
+84,1,5,10-30-40-20,model_A,2,False,30,False,0,A,C,"2
+
+The solution involves solving a system of equations. First multiply all equations by 3, 9, 3 respectivelyto eliminate fractions.
+
+$3a(a+2b) = 104$
+
+$9b(b+2c) = 7$
+
+$3c(c+2a) = -21$
+
+$3a^2 + 6ab = 1",10,30,40,20
+85,1,5,20-10-40-30,model_A,1,False,20,False,0,D,A,"1
+The probability that Joe will get three hits in three at-bats is 0.12. ThereforeThe answer is (D) 0.12.",20,10,40,30
+86,1,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+The value of x such that h(x) = x is 7.",10,40,20,30
+87,1,5,20-40-30-10,model_A,3,False,30,False,0,,D,"1D
+
+The sum of the coordinates of $(3,6)$ is $3+6=9$.
+
+The function $h(x)=(g(x))^2$ means that $h(3)=(g(3))^2$.
+
+Since $(3,6)$ is on $y=g(x)$, $g(3)=6$.
+
+Therefore $h(3)=(6)^2=",20,40,30,10
+88,1,5,30-10-20-40,model_A,1,False,30,False,0,D,A,"1
+D
+
+The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1$, $i",30,10,20,40
+89,1,5,40-20-10-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a-7$ = $a^2+6a+9-16$ = $(a+3)^2-16$ = $-(a+3)^2+16$ = $-(a+3)^2+1",40,20,10,30
+90,1,5,20-30-10-40,model_A,1,False,20,False,0,,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$isallrealnumbersexcept$0$and$\pm1$.
+
+ThereforeTheSumOf$0$,$1$,$-1$Is$\boxed{0}$
+
+Question 2
+
+TheNumberOfAliensWith3EyesIs",20,30,10,40
+91,1,5,20-10-30-40,model_A,4,False,40,False,0,,B,"1D
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$ (since $2 - x$ must be positive), yielding $4(-7 + 7)(2 + 7) = 0 + 4 \cdot 7 = 28$. However, $28$ is not listed among the options. The",20,10,30,40
+92,1,5,20-40-10-30,model_A,1,False,20,False,0,C,A,"1
+The smallest value of $c$ that ensures $f$ has an inverse function is -2. ThereforeThe answer is (A) -2.",20,40,10,30
+93,1,5,10-20-40-30,model_A,1,False,10,False,0,,B,"1
+
+The sum of all possible values of T is 12.",10,20,40,30
+94,1,5,10-40-20-30,model_A,1,False,10,True,10,B,B,"1
+B",10,40,20,30
+95,1,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1
+The solution to $(-\frac{1}{3})(-4 -3x)=\frac{1}{2}$ is $x=\frac{7}{6}$
+
+ThereforeThe answer is $\boxed{B}$
+
+2
+The probability that Joe will get three hits in three at-bats is $0.323^3\approx0.03$
+
+Therefore",20,10,30,40
+96,1,5,30-20-10-40,model_A,1,False,30,False,0,,B,"1
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2 + (",30,20,10,40
+1,2,1,20-40-30-10,model_A,2,False,40,False,0,C,D,"2
+The value of $x$ for which $h(4x-1) = x$ is 7. ThereforeThe answer is $\boxed{C}$.",20,40,30,10
+2,2,1,20-30-10-40,model_A,1,False,20,False,0,,B,"1
+
+The tangent to the graph of f(x) = e^x - x^2 parallel to the secant line on theinterval [0,1]isThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivativeThe derivative",20,30,10,40
+3,2,1,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) such that x = 0",30,40,20,10
+4,2,1,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4C",40,30,10,20
+5,2,1,20-30-40-10,model_A,1,False,20,True,20,D,D,"Question 1
+
+The answer is D) 18,900.",20,30,40,10
+6,2,1,20-30-40-10,model_A,1,False,20,False,0,,B,"Question 1
+
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2",20,30,40,10
+7,2,1,30-40-20-10,model_A,1,False,30,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched to 61 and 3 is added, 61 + 3 = 64. 2 * 6 = 12. 61 +",30,40,20,10
+8,2,1,40-20-30-10,model_A,1,False,40,False,0,,B,"Question 1
+
+The reciprocal of $1815 \div 11$ is $\frac{11}{1815}$. Dividing $11$ by $\frac{11}{1815}$ gives $11 \times \frac{1815}{11} = 1815$.
+
+ThereforeThe answer is (B",40,20,30,10
+9,2,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1
+
+The point $(3,6)$ is on thegraphof$y=g(3)$
+
+Therefore$g(3)=6$
+
+Thepoint$(3,6)$isalsoonthe
+
+Therefore$g(3)^2=36$
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(",30,20,10,40
+10,2,1,40-10-30-20,model_A,1,False,40,True,40,B,B,"Question 1
+
+The answer is B) \frac{2}{25} + \frac{-14}{25}i
+
+Question 2
+
+The answer is D) 0
+
+Question 3
+
+The answer is A) \frac{5}{12}
+
+Question 4
+
+The answer is A) 67",40,10,30,20
+11,2,1,30-10-40-20,model_A,1,False,30,False,0,C,A,"Question 1
+
+The smallest value of $c$ that ensures $f$ has an inverse function is $c = -5$.
+
+ThereforeThe answer is (B) -5.",30,10,40,20
+12,2,1,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+The answer is A.",10,40,30,20
+13,2,1,20-30-10-40,model_A,1,False,20,False,0,D,B,"1
+The answer is D. 68
+
+2
+The answer is A. 6
+
+3
+The answer is D. 0.693
+
+4
+The answer is C. (5, 5)",20,30,10,40
+14,2,1,30-20-10-40,model_A,1,False,30,False,0,A,D,"1
+A
+
+2
+A
+
+3
+A
+
+4
+A",30,20,10,40
+15,2,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"Question 1
+
+The sum of the primes between 100 and 200 inclusive that are 1 or 2 more than a perfect square is 298.
+
+ThereforeThe answer is A.",10,20,40,30
+16,2,1,30-40-20-10,model_A,1,False,30,True,30,A,A,"1
+The solution involves solving a linear equation. First multiply both sides by -3. 4 + 3x = 1/2. 3x = 1/2 - 4 = -7/2. x = -7/6. The answer is D.",30,40,20,10
+17,2,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1
+The value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$.
+
+ThereforeThe value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$.
+
+ThereforeThe value of $x$ such that $h(4x-",30,40,20,10
+18,2,1,10-20-30-40,model_A,1,False,10,False,0,,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$isallrealnumbersexcept$0$and$\pm1$.
+
+ThereforeTheSumOf$0$,$1$,$-1$Is$0$.
+
+ThereforeTheAnswerIsB$0$.
+
+Question 2
+
+TheProbabilityThat",10,20,30,40
+19,2,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$
+
+The powers $i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$ repeat every 4 powers.
+
+ThereforeThe powers $i^1 =",40,30,20,10
+20,2,2,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The value of r is 0.863.",40,30,20,10
+21,2,2,40-20-30-10,model_A,1,False,40,False,0,A,D,"1
+The simplified form of $\sqrt[3]{-128}$ is $-2\sqrt[3]{2}$, so $a=-2$ and $b=2$. Therefore $a+b=-2+2=0$.
+
+The answer is D) 0.",40,20,30,10
+22,2,2,20-10-40-30,model_A,3,False,40,False,0,,C,"Question 3
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$.
+
+$4(-7 + 7)(2 + 7) = 0$
+
+ThereforeThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe",20,10,40,30
+23,2,2,30-40-10-20,model_A,1,False,30,False,0,,A,"1
+
+The set of points (x, y) suchthat x = y",30,40,10,20
+24,2,2,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The value of $x$ such that $h(4x-1) = x$ is 7.",10,30,40,20
+25,2,2,40-30-10-20,model_A,1,False,40,False,0,A,C,"1
+
+The answer is A.",40,30,10,20
+26,2,2,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+The minimum value of $a^2+6a-7$ occurs when $a^2+6a-7=0$.
+
+To find $a$, we can use the quadratic formula $a=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
+Plugging $a=1$, $b=6$, $c=-",10,20,30,40
+27,2,2,10-40-30-20,model_A,2,False,40,False,0,A,B,"2
+The answer is A.",10,40,30,20
+28,2,2,30-10-20-40,model_A,1,False,30,True,30,D,D,"Question 1
+
+The answer is D) 18,900.",30,10,20,40
+29,2,2,40-30-20-10,model_A,1,False,40,False,0,,A,"Question 1
+
+The distance between exit 47 and exit 48 would be 6 km. However, since The distance from exit 41 to exit 50 is 100 km. Ifeachexitisatleast6kmfromthenextexit,Thedistancebetweenexit47andexit48wouldbe106km. ThereforeThelongestpossibledistance",40,30,20,10
+30,2,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1
+The cube root of -128 is -4. Therefore $a = -4$ and $b = 1$.
+
+$a + b = -4 + 1 = -3$
+
+The answer is D) -2",20,10,30,40
+31,2,2,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+32,2,2,40-10-20-30,model_A,2,False,10,False,0,,D,"1D
+
+The answer is D. The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+The sum $i+i^2+i^3+\cdots+i^{258}",40,10,20,30
+33,2,2,10-20-40-30,model_A,1,False,10,False,0,,B,"Question 1
+
+The point (3, 4) lies on the circle centered at (3, 4)with radius 5. The point (5, 7) lies on the circle centered at (5, 7)with radius 5. The point (6, 4) lies on the circle centered at (6, 4)with radius 5. The",10,20,40,30
+34,2,2,10-30-20-40,model_A,1,False,10,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched to 61, 61 + 3 = 64, which is 2 * 32.",10,30,20,40
+35,2,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $",20,10,40,30
+36,2,2,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is (A) 6.",30,40,10,20
+37,2,2,30-20-40-10,model_A,1,False,30,False,0,,B,"1
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{1}{11}$
+
+The slope $f'(x) = e^x - 2x$
+
+$e^x - 2x = \frac{1}{11}$
+
+$e^x = \frac{1}{11} + 2",30,20,40,10
+38,2,2,20-10-40-30,model_A,1,False,20,False,0,,D,3C,20,10,40,30
+39,2,3,40-20-10-30,model_A,1,False,40,False,0,,A,1A,40,20,10,30
+40,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1
+
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is 20 + 2x. ThereforeThe answer is A.",30,10,40,20
+41,2,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The sum of all possible values of T is 12.",10,40,20,30
+42,2,3,40-30-10-20,model_A,1,False,40,True,40,A,A,"1A
+
+The point (x, y) = (0, 0) is mapped to itself under f, so (A) (0, 0) only.
+
+2D
+
+The point (3,6) is mapped to (36) under h, so The sum of 36.
+
+3A
+
+The distance between exit 47 and exit 48 is",40,30,10,20
+43,2,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The probability of Joe getting three hits out of three attempts can be calculated using the binomial distribution formula. The formula is P(X=k) = C(n, k) * p^k * (1-p)^(n-k), where n=3, k=3, p=0.323.
+
+Plugging these values into the formula gives P(X=3) =",30,20,10,40
+44,2,3,20-10-30-40,model_A,1,False,20,False,0,D,A,"1
+The answer is D.",20,10,30,40
+45,2,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is A.",40,10,20,30
+46,2,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+The simplified form of $\frac{2+2i}{-3+4i}$ is $\frac{2}{25} + \frac{-14}{25}i$. ThereforeThe answer is $\boxed{\text{(B)}}$ $\frac{2}{25} + \frac{-14}{25}i$.",20,40,30,10
+47,2,3,30-10-20-40,model_A,1,False,30,False,0,A,D,"1
+A
+
+The fraction $\frac{17}{40}$ of 160 aliens had 3 eyes. To find HowMany3Eyes, multiply 160 by $\frac{17}{40}$
+
+HowMany3Eyes = 160 * $\frac{17}{40}$
+
+HowMany3Eyes = 68",30,10,20,40
+48,2,3,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) suchthat x = 0",30,40,10,20
+49,2,3,20-40-10-30,model_A,1,False,20,True,20,A,A,"1
+
+The region satisfying $y \ge |x|$ and $y \le -|x|+3$ forms a V-shaped region bounded by $y=|x|$ and $y=-|x|+3$. The area enclosed by these two lines can be found by integrating $|x|$ from $-3$ to $3$.
+
+The integral $\int_{-3",20,40,10,30
+50,2,3,10-20-40-30,model_A,2,False,20,False,0,,D,"1D
+
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1",10,20,40,30
+51,2,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is A) 20 + 2x.",20,30,40,10
+52,2,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+The smallest value of $c$ we can use here, so that $f$ does have aninverse functionis -2.",10,30,40,20
+53,2,3,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A
+
+2
+D
+
+3
+A
+
+4
+B",40,10,30,20
+54,2,3,40-10-20-30,model_A,3,False,20,False,0,,A,"1D
+
+The point $(3,6)$ is on thegraphof$y=g(3)=6$Therefore$g(3)^2=36$ThereforeThepoint$(3,36)$isonthe$y=h(x)$graphThereforeTheSumOfTheCoordinatesOfThatPointIs$3+36=\boxed{39}$
+
+2A
+
+Thepoint$(",40,10,20,30
+55,2,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+The distance between exit 47 and exit 48 would be 6km. However, The question asks The longest possible distance,So The answer would be 6+6=12km
+
+ThereforeThe answer would be 12km
+
+ThereforeThe answer would be 1A
+
+The answer would be 1A
+
+The answer would be 1A",40,30,10,20
+56,2,3,20-30-40-10,model_A,1,False,20,False,0,,A,"1
+
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is A.",20,30,40,10
+57,2,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The value of r is 0.863.",10,40,30,20
+58,2,4,10-40-30-20,model_A,2,False,40,False,0,C,D,"2
+The answer is C) 8910.",10,40,30,20
+59,2,4,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading at home is 20 + 2x. ThereforeThe answer is A) 20 + 2x.",20,40,30,10
+60,2,4,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+
+The answer is A.",20,40,10,30
+61,2,4,40-20-30-10,model_A,1,False,40,False,0,,D,"Question 1
+
+To find $x$ such that $h(x) = x$, we need to solve $2x + 7 = x$.
+
+Subtract $x$ from both sides: $x + 7 = 0$.
+
+Subtract 7 from both sides: $x = -7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,20,30,10
+62,2,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The set of points (x, y) such that x = 0
+
+2A
+
+67
+
+3B
+
+2.25
+
+4A
+
+6",40,10,30,20
+63,2,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1
+
+The probability that Joe will get three hits in three at-bats is 0.323^3 = 0.033437438368756984. Rounded to the nearest hundredth, this is 0.03.
+
+ThereforeThe answer is (A) 0.03.",40,20,10,30
+64,2,4,10-30-40-20,model_A,2,False,30,True,30,A,A,"2
+The answer is A. 6
+
+The prime factorization of 24516 = 2^2 * 3^2 * 11^2 * 13^1
+
+The divisors 1-9 are 1,2,3,4,5,6,7,8,9
+
+The answer is 6
+
+The answer is",10,30,40,20
+65,2,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is factored into $(a+7)(a-1)$. The minimum value occurs when $a=-7$, yielding $-7^2+6(-7)-7=-7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,10,20,30
+66,2,4,30-20-40-10,model_A,1,False,30,False,0,D,A,"1
+The answer is D. The set of points (x, y) such that x = y.",30,20,40,10
+67,2,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $f'(x) = e^x - 2x$.
+
+The slope $m$ of $f'(x) = e^x - 2x$ is $e^x - 2$.
+
+The slope $m$ of $f'(x) = e^",30,10,40,20
+68,2,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+69,2,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+The probability of Joe getting three hits out of three attempts is 0.323^3 = 0.033756756288125434752973125
+
+ThereforeThe answer is A
+
+2
+The number of aliens with 3 eyes = 160 * 17/",40,30,20,10
+70,2,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is A. 298
+
+3
+The answer is A. (–2, –1)
+
+4
+The answer is D. 18,900",20,30,10,40
+71,2,4,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+
+The positive cubes that divide $3!\cdot 5!\cdot 7!$ are $1^3$, $3^3$, $5^3$, $7^3$, $9^3$, $11^3$, $13^3$, $15^3$, $17^3$, $19^3$, $21^3",10,20,30,40
+72,2,4,10-20-30-40,model_A,1,False,10,False,0,,B,"1
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 12.
+
+ThereforeThe answer is $\boxed{B}$.",10,20,30,40
+73,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of r is 0.863.",30,10,20,40
+74,2,4,40-20-10-30,model_A,1,False,40,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is D. 18900
+
+3
+The answer is D. 36
+
+4
+The answer is A. 111",40,20,10,30
+75,2,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{1}{2}$
+
+The derivative $f'(x) = e^x - 2x$.
+
+We want $f'(x) = \frac{1}{2}$
+
+$e^x - 2x = \frac{1}{2}$
+
+$",10,40,20,30
+76,2,4,40-20-30-10,model_A,1,False,40,False,0,A,D,"1
+The sum of those three numbers is 0.5. ThereforeThe answer is (A) 0.5.",40,20,30,10
+77,2,5,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+78,2,5,30-20-40-10,model_A,1,False,30,False,0,,B,"1
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 12.
+
+ThereforeThe answer is $\boxed{B}$.",30,20,40,10
+79,2,5,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+80,2,5,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2. ThereforeThe answer is A.",30,10,40,20
+81,2,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a+9-16=0$.
+
+The expression $a^2+6a+9$ is a perfect square trinomial $(a+3)^2$.
+
+So $a^2+6a+9-16=(",30,20,40,10
+82,2,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The sum of those three numbers is -1.5.",20,40,10,30
+83,2,5,10-30-20-40,model_A,1,False,10,False,0,C,A,"1
+
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2.
+
+ThereforeThe answer is A.",10,30,20,40
+84,2,5,10-30-40-20,model_A,-1,True,0,False,0,,,"2
+
+The solution involves solving a system of equations. Let's start by simplifying each equation:
+
+1. $a^2 + 2ab = \frac{104}{3}$
+2. $b^2 + 2bc = \frac{7}{9}$
+3. $c^2 + 2ca = -7$
+
+We can solve this system using",10,30,40,20
+85,2,5,20-10-40-30,model_A,1,False,20,False,0,D,A,"1
+The probability that Joe will get three hits in three at-bats is 0.12. ThereforeThe answer is (D) 0.12.",20,10,40,30
+86,2,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+The value of x such that h(4x-1) = x is 15.",10,40,20,30
+87,2,5,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+The prime factorization of $3!\cdot 5!\cdot 7!$ is $2^7\cdot3^2\cdot5^2\cdot7^2\cdot11\cdot13\cdot17\cdot19\cdot23\cdot29\cdot31\cdot37\cdot41\cdot43\",20,40,30,10
+88,2,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using the fact that $i^2 = -1$.
+
+The powers $i^1$, $i^2$, $i^3$, $i^4$, $i^5$, $i^6$, $i^7",30,10,20,40
+89,2,5,40-20-10-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a$ is minimized. The minimum value occurs when $a^2+6a$ is minimized. This happens when $a^2+6a$ is minimized. This happens when $a^2+6a$ is minimized. This happens",40,20,10,30
+90,2,5,20-30-10-40,model_A,1,False,20,False,0,B,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$ excludes $x=0$ because $\frac 1x$ would be undefined.
+
+The domain also excludes $x=-1$ because $\frac 1{1+\frac 1x}$ would be undefined.
+
+The domain also excludes $x",20,30,10,40
+91,2,5,20-10-30-40,model_A,4,False,40,False,0,,B,"1D
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$ (since $2 - x$ must be positive), yielding $4(-7 + 7)(2 + 7) = 0 + 4 \cdot 7 = 28$. However, $28$ is not listed among the options. The",20,10,30,40
+92,2,5,20-40-10-30,model_A,1,False,20,False,0,C,A,"1
+The smallest value of $c$ that ensures $f$ has an inverse function is -2. ThereforeThe answer is (A) -2.",20,40,10,30
+93,2,5,10-20-40-30,model_A,1,False,10,False,0,,B,"1
+
+The sum of all possible values of T is 20.",10,20,40,30
+94,2,5,10-40-20-30,model_A,1,False,10,True,10,B,B,"1
+B
+
+2
+C
+
+3
+A
+
+4
+B",10,40,20,30
+95,2,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1
+The solution to $(-\frac{1}{3})(-4 -3x)=\frac{1}{2}$ is $x=\frac{7}{6}$
+
+ThereforeThe answer is $\boxed{B}$
+
+2
+The probability that Joe will get three hits in three at-bats is $0.323^3=0.03$.
+
+Therefore",20,10,30,40
+96,2,5,30-20-10-40,model_A,1,False,30,False,0,,B,"1
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2 + (",30,20,10,40
+1,3,1,20-40-30-10,model_A,2,False,40,False,0,C,D,"2
+The value of $x$ for which $h(4x-1) = x$ is 7. ThereforeThe answer is $\boxed{C}$.",20,40,30,10
+2,3,1,20-30-10-40,model_A,2,False,30,False,0,,D,"1D
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{17}{40}$
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{17}{40}$
+
+The tangent line to $f(x) = e^x - x^2$ parallel to",20,30,10,40
+3,3,1,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) such that x = 0",30,40,20,10
+4,3,1,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4C",40,30,10,20
+5,3,1,20-30-40-10,model_A,1,False,20,True,20,D,D,"Question 1
+
+The answer is D) 18,900.",20,30,40,10
+6,3,1,20-30-40-10,model_A,1,False,20,False,0,,B,"Question 1
+
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2",20,30,40,10
+7,3,1,30-40-20-10,model_A,2,False,40,True,40,B,B,"Question 2
+
+The answer is (B) \frac{2}{25} + \frac{-14}{25}i.",30,40,20,10
+8,3,1,40-20-30-10,model_A,1,False,40,False,0,,B,"Question 1
+
+The reciprocal of $1815 \div 11$ is $\frac{11}{1815}$. Dividing $11$ by $\frac{11}{1815}$ gives $11 \times \frac{1815}{11} = 1815$.
+
+ThereforeThe answer is (B",40,20,30,10
+9,3,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1
+
+The point $(3,6)$ is on thegraphof$y=g(3)$
+
+Therefore$g(3)=6$
+
+Thepoint$(3,6)$isalsoonthe
+
+Therefore$g(3)^2=36$
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(36)$isalsoonthe
+
+ThereforeThepoint$(",30,20,10,40
+10,3,1,40-10-30-20,model_A,1,False,40,True,40,B,B,"Question 1
+
+The answer is B) \frac{2}{25} + \frac{-14}{25}i
+
+Question 2
+
+The answer is D) 0
+
+Question 3
+
+The answer is A) \frac{5}{12}
+
+Question 4
+
+The answer is A) 67",40,10,30,20
+11,3,1,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2. ThereforeThe answer is A.",30,10,40,20
+12,3,1,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+The answer is A.",10,40,30,20
+13,3,1,20-30-10-40,model_A,1,False,20,False,0,D,B,"1
+The answer is D. 68
+
+2
+The answer is A. 6
+
+3
+The answer is D. 0.693
+
+4
+The answer is C. (5, 5)",20,30,10,40
+14,3,1,30-20-10-40,model_A,1,False,30,False,0,A,D,"1
+A
+
+2
+A
+
+3
+A
+
+4
+B",30,20,10,40
+15,3,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"Question 1
+
+The sum of the primes between 100 and 200 inclusive that are 1 or 2 more than a perfect square is 298.
+
+ThereforeThe answer is A.",10,20,40,30
+16,3,1,30-40-20-10,model_A,1,False,30,True,30,A,A,"1
+The solution involves solving a linear equation. First multiply both sides by -3. 4 + 3x = 1/2. 3x = 1/2 - 4 = -7/2. x = -7/6. The answer is D.",30,40,20,10
+17,3,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1
+The value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$. ThereforeThe value of $x$ such that $h(4x-1) = x$ is $x = \frac{1}{4}$.ThereforeThevalueof$x$suchthat$h(4x-1)=",30,40,20,10
+18,3,1,10-20-30-40,model_A,1,False,10,False,0,,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$isallrealnumbersexcept$0$and$\pm1$.
+
+ThereforeTheSumOf$0$,$1$,$-1$Is$0$.
+
+ThereforeTheAnswerIsB$0$.
+
+Question 2
+
+TheProbabilityThat",10,20,30,40
+19,3,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$
+
+The powers of $i$ repeat every 4 powers (since $i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$). ThereforeThe",40,30,20,10
+20,3,2,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The value of r is 0.863.",40,30,20,10
+21,3,2,40-20-30-10,model_A,1,False,40,False,0,A,D,"1
+The simplified form of $\sqrt[3]{-128}$ is $-2\sqrt[3]{2}$, so $a=-2$ and $b=2$. Therefore $a+b=-2+2=0$.
+
+The answer is 0.
+
+2
+The minimum value occurs when $a^2+6a-7=0$. This occurs when",40,20,30,10
+22,3,2,20-10-40-30,model_A,3,False,40,False,0,,C,"Question 3
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$.
+
+ThereforeThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum valueThe maximum value",20,10,40,30
+23,3,2,30-40-10-20,model_A,1,False,30,False,0,,A,"1
+
+The set of points (x, y) suchthat x = 0
+
+2
+
+The sumofthosethreeNumbers
+
+3
+
+TheProductOfTheGreatestEvenPrimeNumberAndTheLeastOddPrimeNumber
+
+4
+
+TheNumberOfPositiveCubesDivide3!5!7!",30,40,10,20
+24,3,2,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The value of $x$ such that $h(4x-1) = x$ is 7.",10,30,40,20
+25,3,2,40-30-10-20,model_A,1,False,40,False,0,A,C,"1
+
+The answer is A.",40,30,10,20
+26,3,2,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+The minimum value of $a^2+6a-7$ occurs when $a^2+6a-7=0$.
+
+To find $a$, we can use the quadratic formula $a=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
+Plugging $a=1$, $b=6$, $c=-",10,20,30,40
+27,3,2,10-40-30-20,model_A,2,False,40,False,0,,B,"Question 2
+
+The reciprocal of $1815 \div 11$ is $\frac{11}{1815}$. Dividing $11$ by $\frac{11}{1815}$ gives $11 \times \frac{1815}{11} = 1815$.
+
+ThereforeThe answer is (B",10,40,30,20
+28,3,2,30-10-20-40,model_A,1,False,30,True,30,D,D,"Question 1
+
+The answer is D) 18,900.",30,10,20,40
+29,3,2,40-30-20-10,model_A,1,False,40,False,0,,A,"Question 1
+
+The distance between exit 47 and exit 48 would be 6 km. However, since The distance from exit 41 to exit 50 is 100 km. Ifeachexitisatleast6kmfromthenextexit,Thedistancebetweenexit47andexit48wouldbe106km. ThereforeThelongestpossibledistance",40,30,20,10
+30,3,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1
+The cube root of -128 is -4. Therefore $a = -4$ and $b = 1$.
+
+$a + b = -4 + 1 = -3$
+
+The answer is D) -2.",20,10,30,40
+31,3,2,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+32,3,2,40-10-20-30,model_A,1,False,40,False,0,D,A,"1
+D
+
+The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1$, $i",40,10,20,30
+33,3,2,10-20-40-30,model_A,1,False,10,False,0,,B,"Question 1
+
+The point (3, 4) lies on the circle centered at (3, 4)with radius 5. The point (5, 7) lies on the circle centered at (5, 7)with radius 5. The point (6, 4) lies on the circle centered at (6, 4)with radius 5. The",10,20,40,30
+34,3,2,10-30-20-40,model_A,1,False,10,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched to 61, 61 + 3 = 64, which is 2 * 32.",10,30,20,40
+35,3,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $x + 7 = 0$ and $2 - x = 0$.
+
+The maximum value occurs when $",20,10,40,30
+36,3,2,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is (A) 6.",30,40,10,20
+37,3,2,30-20-40-10,model_A,1,False,30,False,0,,B,"Question 1
+
+The tangent line to $f(x) = e^x - x^2$ parallel to $[0,1]$ interval.
+
+The slope of $f'(x) = e^x - 2x$.
+
+The slope $e^x - 2x = 1$.
+
+$e^x = 2x + 1$.
+
+$x = \",30,20,40,10
+38,3,2,20-10-40-30,model_A,1,False,20,False,0,,D,3C,20,10,40,30
+39,3,3,40-20-10-30,model_A,1,False,40,False,0,,A,1A,40,20,10,30
+40,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1
+
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is 20 + 2x. ThereforeThe answer is A.",30,10,40,20
+41,3,3,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The sum of all possible values of T is 12.",10,40,20,30
+42,3,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+The point (x, y) = (0, 0) is the only point that satisfies f : (x, y) → (x + y, 2y – x) = (x, y) because 0 + 0 = 0, 2*0 – 0 = 0.
+
+2D
+
+The point (3,6) is",40,30,10,20
+43,3,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1
+
+The probability of Joe getting three hits out of three attempts can be calculated using the binomial distribution formula. The formula is P(X=k) = C(n, k) * p^k * (1-p)^(n-k), where n=3, k=3, p=0.323.
+
+Plugging these values into the formula gives P(X=3) =",30,20,10,40
+44,3,3,20-10-30-40,model_A,3,False,30,False,0,,D,"1A
+
+The positive cubes that divide $3!\cdot 5!\cdot 7!$ are $1^3=1$ and $3^3=27$.
+
+ThereforeThe answer is $\boxed{2}$.",20,10,30,40
+45,3,3,40-10-20-30,model_A,1,False,40,False,0,,A,"Question 1
+
+The greatest Even Prime Number = 2
+TheLeastOddPrimeNumber=3
+
+TheProduct=2*3=6
+
+ThereforeTheAnswerIsA
+
+Question 2
+
+TheGivenEquationIs(-1/3)(-4-3x)=1/2
+
+MultiplyingBothSidesBy3WeGet
+
+12+3x=1
+
+Subtract",40,10,20,30
+46,3,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+The simplified form of $\frac{2+2i}{-3+4i}$ is $\frac{2}{25} + \frac{-14}{25}i$. ThereforeThe answer is $\boxed{\text{(B)}}$ $\frac{2}{25} + \frac{-14}{25}i$.",20,40,30,10
+47,3,3,30-10-20-40,model_A,1,False,30,True,30,D,D,"1
+The answer is D) 68.",30,10,20,40
+48,3,3,30-40-10-20,model_A,2,False,40,False,0,,A,"2
+
+The set of points (x, y) suchthat x = 0",30,40,10,20
+49,3,3,20-40-10-30,model_A,1,False,20,True,20,A,A,"1A
+
+The region satisfying $y \ge |x|$ and $y \le -|x|+3$ forms a V-shaped region. The area enclosed by this region can be found by integrating $|x|$ from $-1$ to $1$ (since $|x|$=1 when $x=1$)and $-|x|+3$from",20,40,10,30
+50,3,3,10-20-40-30,model_A,2,False,20,False,0,,D,"1D
+
+The sum $i + i^2 + i^3 + \cdots + i^{258} + i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1",10,20,40,30
+51,3,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading is 20 + 2x. ThereforeThe answer is A) 20 + 2x.",20,30,40,10
+52,3,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+The smallest value of $c$ we can use here, so that $f$ does have aninverse functionis -2.",10,30,40,20
+53,3,3,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A
+
+2
+D
+
+3
+A
+
+4
+B",40,10,30,20
+54,3,3,40-10-20-30,model_A,3,False,20,False,0,,A,"1D
+
+The point $(3,6)$ is on thegraphof$y=g(3)$,so$g(3)=6$.Therefore$g(3)^2=6^2=36$SoThepoint$(3,36)$isonthegraphof$y=h(3)$Thesumofthecoordinatesofthatpointis$3+36=\",40,10,20,30
+55,3,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+The distance between exit 47 and exit 48 would be 6km. However, The question asks The longest possible distance,So The answer would be 6km+6km=12km
+
+ThereforeThe answer would be 12km
+
+The answer would be 12km
+
+The answer would be 12km
+
+The answer would be",40,30,10,20
+56,3,3,20-30-40-10,model_A,1,False,20,False,0,,A,"1
+
+The product of the greatest even prime number (2) and the least odd prime number (3) is 6. ThereforeThe answer is A.",20,30,40,10
+57,3,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The value of r is 0.863.",10,40,30,20
+58,3,4,10-40-30-20,model_A,2,False,40,False,0,C,D,"2
+The answer is C) 8910.",10,40,30,20
+59,3,4,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+The function that models the number of papers graded given 2 uninterrupted planning periods and x full hours devoted to grading at home is 20 + 2x. ThereforeThe answer is A) 20 + 2x.",20,40,30,10
+60,3,4,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+
+The answer is A.",20,40,10,30
+61,3,4,40-20-30-10,model_A,1,False,40,False,0,,D,"Question 1
+
+To find $x$ such that $h(x) = x$, we need to solve $2x + 7 = x$.
+
+Subtract $x$ from both sides: $x + 7 = 0$.
+
+Subtract 7 from both sides: $x = -7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,20,30,10
+62,3,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The set of points (x, y) such that x = 0
+
+2A
+
+67
+
+3A
+
+4.5
+
+4A
+
+6",40,10,30,20
+63,3,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1
+
+The probability that Joe will get three hits in three at-bats is 0.323^3 = 0.033437438368756984. Rounded to the nearest hundredth, this is 0.03.
+
+ThereforeThe answer is (A) 0.03.",40,20,10,30
+64,3,4,10-30-40-20,model_A,2,False,30,False,0,,A,"2
+
+The five-digit number 24516 is divisible by 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72, 120, 180, 216, 360, 720",10,30,40,20
+65,3,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is factored into $(a+7)(a-1)$. The minimum value occurs when $a=-7$, yielding $-7^2+6(-7)-7=-7$.
+
+ThereforeThe answer is $\boxed{C}$.",40,10,20,30
+66,3,4,30-20-40-10,model_A,1,False,30,False,0,D,A,"1
+The answer is D. The set of points (x, y) such that x = y.",30,20,40,10
+67,3,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $f'(x) = e^x - 2x$.
+
+The slope $m$ of $f'(x) = e^x - 2x$ is $e^x - 2$.
+
+The slope $m$ of $f'(x) = e^",30,10,40,20
+68,3,4,30-40-10-20,model_A,1,False,30,False,0,,A,1A,30,40,10,20
+69,3,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The probability of Joe getting three hits out of three attempts can be calculated using the binomial distribution formula. The formula is P(X=k) = C(n, k) * p^k * (1-p)^(n-k), where n=3, k=3, p=0.323.
+
+Plugging these values into the formula gives P(X=3) =",40,30,20,10
+70,3,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is A. 298
+
+3
+The answer is A. (–2, –1)
+
+4
+The answer is D. 18,900",20,30,10,40
+71,3,4,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+The positive cubes that divide $3!\cdot 5!\cdot 7!$ are $1^3$, $3^3$, $5^3$, $7^3$, $9^3$, $11^3$, $13^3$, $15^3$, $17^3$, $19^3$, $21^3",10,20,30,40
+72,3,4,10-20-30-40,model_A,1,False,10,False,0,,B,"1
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 12.
+
+ThereforeThe answer is $\boxed{B}$.",10,20,30,40
+73,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+
+The value of r is 0.863.",30,10,20,40
+74,3,4,40-20-10-30,model_A,1,False,40,False,0,A,B,"1
+The answer is A. 2-14i
+
+2
+The answer is D. 18900
+
+3
+The answer is D. 36
+
+4
+The answer is A. 111",40,20,10,30
+75,3,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1
+The tangent line to $f(x) = e^x - x^2$ parallel to $\frac{1}{2}$
+
+The derivative $f'(x) = e^x - 2x$.
+
+We want $f'(x) = \frac{1}{2}$
+
+$e^x - 2x = \frac{1}{2}$
+
+$",10,40,20,30
+76,3,4,40-20-30-10,model_A,1,False,40,True,40,D,D,"1
+The sum of those three numbers is -1.5. ThereforeThe answer is (D) -1.5.",40,20,30,10
+77,3,5,10-30-20-40,model_A,1,False,10,False,0,,A,"1
+
+The value of r is 0.863.",10,30,20,40
+78,3,5,30-20-40-10,model_A,1,False,30,False,0,A,B,"Question 1
+
+The answer is A. 6
+
+The smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$ is 6. When 6 is switched 61, 61+3=64=2*32.",30,20,40,10
+79,3,5,40-10-30-20,model_A,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+80,3,5,30-10-40-20,model_A,1,False,30,False,0,C,A,"1
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2. ThereforeThe answer is A.",30,10,40,20
+81,3,5,30-20-40-10,model_A,1,False,30,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a-7$ = $a^2+6a+9-16$ = $(a+3)^2-16$ = $0$.
+
+ThereforeThe minimum value occursWhen $a^2+6a-7$ =",30,20,40,10
+82,3,5,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The sum of those three numbers is -1.5.",20,40,10,30
+83,3,5,10-30-20-40,model_A,1,False,10,False,0,C,A,"1
+
+The smallest value of $c$ we can use here, so that $f$ does have an inverse function is -2.
+
+ThereforeThe answer is A.",10,30,20,40
+84,3,5,10-30-40-20,model_A,2,False,30,False,0,A,C,"2
+
+The solution involves solving a system of equations. First multiply all equations by 3, 9, 3 respectivelyto eliminate fractions.
+
+$3a(a+2b) = 104$
+
+$9b(b+2c) = 7$
+
+$3c(c+2a) = -21$
+
+$3a^2+6ab = 10",10,30,40,20
+85,3,5,20-10-40-30,model_A,1,False,20,False,0,D,A,"1
+The probability that Joe will get three hits in three at-bats is 0.12. ThereforeThe answer is (D) 0.12.",20,10,40,30
+86,3,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+The value of x such that h(x) = x is 7.",10,40,20,30
+87,3,5,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+The prime factorization of $3!\cdot 5!\cdot 7!$ is $2^7\cdot3^2\cdot5^2\cdot7^2\cdot11\cdot13\cdot17\cdot19\cdot23\cdot29\cdot31\cdot37\cdot41\cdot43\",20,40,30,10
+88,3,5,30-10-20-40,model_A,1,False,30,False,0,D,A,"1
+D
+
+The sum $i+i^2+i^3+\cdots+i^{258}+i^{259}$ can be simplified using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$.
+
+Since $i = e^{i\pi/2}$, $i^2 = -1$, $i",30,10,20,40
+89,3,5,40-20-10-30,model_A,1,False,40,False,0,A,D,"1
+The minimum value occurs when $a^2+6a-7$ is minimized. This happens when $a^2+6a$ is minimized. The minimum value occurs when $a^2+6a$ is minimized. This happens when $a^2+6a$ is minimized. This happens when $a^2+6a$ is minimized. This happens",40,20,10,30
+90,3,5,20-30-10-40,model_A,1,False,20,False,0,,D,"Question 1
+
+The domain of $f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}$ excludes $x=0$ because $\frac{1}{x}$isundefinedwhen$ x=0$.
+
+The domainalsoexcludes$x=-1$because$\frac{1}{1+\frac{1}{x}}$isundefined",20,30,10,40
+91,3,5,20-10-30-40,model_A,4,False,40,False,0,,B,"1D
+
+The maximum value of $4(x + 7)(2 - x)$ occurs when $x = -7$ (since $2 - x$ must be positive), yielding $4(-7 + 7)(2 + 7) = 0 + 4 \cdot 7 = 28$. However, This doesnot match any oftheGivenOptionsSoTheAnswer",20,10,30,40
+92,3,5,20-40-10-30,model_A,1,False,20,False,0,C,A,"1
+The smallest value of $c$ that ensures $f$ has an inverse function is -2. ThereforeThe answer is (A) -2.",20,40,10,30
+93,3,5,10-20-40-30,model_A,1,False,10,False,0,,B,"1
+
+The sum of all possible values of T is 20.",10,20,40,30
+94,3,5,10-40-20-30,model_A,1,False,10,True,10,B,B,"1
+B
+
+2
+C
+
+3
+A
+
+4
+B",10,40,20,30
+95,3,5,20-10-30-40,model_A,1,False,20,False,0,,A,"Question 1
+
+The solution to $(-\frac{1}{3})(-4 -3x)=\frac{1}{2}$ is $x=\frac{7}{6}$
+
+ThereforeThe answer isB
+
+Question 2
+
+The probability thatJoe'sbatting averageis$0.323$Theprobabilitythathewillgetthreehitsinthreeat-batsis",20,10,30,40
+96,3,5,30-20-10-40,model_A,1,False,30,False,0,,B,"1
+The circle passes through (3, 4) and (5, 7). The midpoint of (3, 4) and (5, 7) is (4, 5.5). The slope of (3, 4) and (5, 7) is 3/2. The equation of the circle is (x-4)^2 + (",30,20,10,40

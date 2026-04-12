@@ -1,0 +1,1816 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+2,1,1,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+3,1,1,20-30-10-40,baseline,1,False,20,False,0,D,A,1. D,20,30,10,40
+4,1,1,10-20-40-30,baseline,2,False,20,False,0,,C,2,10,20,40,30
+5,1,1,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+6,1,1,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+7,1,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+8,1,1,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+9,1,1,10-40-30-20,baseline,2,False,40,False,0,A,D,"2
+A",10,40,30,20
+10,1,1,20-10-30-40,baseline,1,False,20,False,0,C,D,"1
+C",20,10,30,40
+11,1,1,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+12,1,1,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+13,1,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+14,1,1,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+15,1,1,30-40-10-20,baseline,1,False,30,False,0,A,D,"1. A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve? (A) Horizontal (B) Convex to the origin (C) Concave to the origin (D) Vertical (30 points)
+
+Answer: A",30,40,10,20
+16,1,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,1,1,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+18,1,1,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+19,1,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+20,1,2,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+21,1,2,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+22,1,2,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+23,1,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+24,1,2,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+25,1,2,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+26,1,2,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+27,1,2,10-40-30-20,baseline,2,False,40,False,0,B,D,"2
+B",10,40,30,20
+28,1,2,30-40-10-20,baseline,-1,True,0,False,0,,,"1. A
+2. C
+3. A
+4. C",30,40,10,20
+29,1,2,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+30,1,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+31,1,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+32,1,2,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+33,1,2,10-20-30-40,baseline,1,False,10,True,10,B,B,"1
+B",10,20,30,40
+34,1,2,20-30-10-40,baseline,1,False,20,False,0,B,D,"1
+B",20,30,10,40
+35,1,2,30-40-20-10,baseline,1,False,30,False,0,A,D,"1. A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve? (A) Horizontal (B) Convex to the origin (C) Concave to the origin (D) Vertical (30 points)
+
+Answer: A",30,40,20,10
+36,1,2,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+37,1,2,40-30-10-20,baseline,1,False,40,False,0,B,D,1. B,40,30,10,20
+38,1,2,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+39,1,3,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+40,1,3,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+41,1,3,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+42,1,3,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+43,1,3,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+44,1,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+45,1,3,40-20-30-10,baseline,1,False,40,False,0,C,D,"1
+C",40,20,30,10
+46,1,3,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+47,1,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,1,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+49,1,3,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+50,1,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+51,1,3,10-20-40-30,baseline,2,False,20,False,0,,C,2,10,20,40,30
+52,1,3,20-10-30-40,baseline,1,False,20,False,0,D,A,1. D,20,10,30,40
+53,1,3,10-30-20-40,baseline,2,False,30,False,0,D,A,"2
+D",10,30,20,40
+54,1,3,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+55,1,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+56,1,3,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+57,1,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+58,1,4,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+59,1,4,20-30-10-40,baseline,1,False,20,True,20,A,A,"1
+A",20,30,10,40
+60,1,4,40-20-30-10,baseline,1,False,40,False,0,B,D,1. B,40,20,30,10
+61,1,4,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+62,1,4,20-40-30-10,baseline,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+63,1,4,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+64,1,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+65,1,4,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+66,1,4,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+67,1,4,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,1,4,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+69,1,4,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+70,1,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+71,1,4,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+72,1,4,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+73,1,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+74,1,4,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+75,1,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+76,1,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+77,1,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+78,1,5,30-20-10-40,baseline,1,False,30,False,0,D,C,1. D,30,20,10,40
+79,1,5,10-20-30-40,baseline,2,False,20,True,20,C,C,"2
+C",10,20,30,40
+80,1,5,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+81,1,5,20-40-10-30,baseline,1,False,20,True,20,B,B,1. B,20,40,10,30
+82,1,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+83,1,5,10-30-40-20,baseline,1,False,10,False,0,A,C,1. A,10,30,40,20
+84,1,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+86,1,5,30-10-40-20,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. B
+4. C",30,10,40,20
+87,1,5,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+88,1,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+89,1,5,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+90,1,5,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+91,1,5,20-30-40-10,baseline,2,False,30,False,0,,B,2,20,30,40,10
+92,1,5,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+93,1,5,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+94,1,5,20-10-40-30,baseline,1,False,20,False,0,A,C,"1
+A decline in the demand for money could be the result of (A) higher prices. (B) more money placed in checking accounts. (C) higher returns on bonds. (D) more credit cards.",20,10,40,30
+95,1,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+96,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+1,2,1,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+2,2,1,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+3,2,1,20-30-10-40,baseline,1,False,20,False,0,D,A,1. D,20,30,10,40
+4,2,1,10-20-40-30,baseline,1,False,10,False,0,B,D,1. B,10,20,40,30
+5,2,1,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+6,2,1,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+7,2,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+8,2,1,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+9,2,1,10-40-30-20,baseline,2,False,40,False,0,A,D,"2
+A",10,40,30,20
+10,2,1,20-10-30-40,baseline,1,False,20,False,0,C,D,"1
+C",20,10,30,40
+11,2,1,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+12,2,1,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+13,2,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+14,2,1,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+15,2,1,30-40-10-20,baseline,1,False,30,False,0,A,D,"1. A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve? (A) Horizontal (B) Convex to the origin (C) Concave to the origin (D) Vertical (30 points)
+
+Answer: A",30,40,10,20
+16,2,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,2,1,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+18,2,1,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+19,2,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+20,2,2,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+21,2,2,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+22,2,2,30-20-10-40,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. A
+4. B",30,20,10,40
+23,2,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+24,2,2,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+25,2,2,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+26,2,2,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+27,2,2,10-40-30-20,baseline,2,False,40,False,0,B,D,"2
+B",10,40,30,20
+28,2,2,30-40-10-20,baseline,-1,True,0,False,0,,,"1. A
+2. C
+3. A
+4. C",30,40,10,20
+29,2,2,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+30,2,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+31,2,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+32,2,2,20-40-30-10,baseline,1,False,20,False,0,D,A,1. D) Elimination of a corporate tax credit on investment,20,40,30,10
+33,2,2,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+34,2,2,20-30-10-40,baseline,1,False,20,False,0,A,D,"1
+A",20,30,10,40
+35,2,2,30-40-20-10,baseline,1,False,30,False,0,A,D,"1. A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve? (A) Horizontal (B) Convex to the origin (C) Concave to the origin (D) Vertical (30 points)
+
+Answer: A",30,40,20,10
+36,2,2,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+37,2,2,40-30-10-20,baseline,1,False,40,False,0,B,D,1. B,40,30,10,20
+38,2,2,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+39,2,3,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+40,2,3,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+41,2,3,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+42,2,3,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+43,2,3,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+44,2,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+45,2,3,40-20-30-10,baseline,1,False,40,False,0,C,D,"1
+C",40,20,30,10
+46,2,3,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+47,2,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,2,3,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+49,2,3,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+50,2,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+51,2,3,10-20-40-30,baseline,2,False,20,False,0,,C,2,10,20,40,30
+52,2,3,20-10-30-40,baseline,1,False,20,False,0,D,A,1. D,20,10,30,40
+53,2,3,10-30-20-40,baseline,2,False,30,False,0,D,A,"2
+D",10,30,20,40
+54,2,3,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+55,2,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+56,2,3,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+57,2,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+58,2,4,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+59,2,4,20-30-10-40,baseline,2,False,30,False,0,C,D,"2
+C",20,30,10,40
+60,2,4,40-20-30-10,baseline,1,False,40,False,0,B,D,1. B,40,20,30,10
+61,2,4,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+62,2,4,20-40-30-10,baseline,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+63,2,4,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+64,2,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+65,2,4,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+66,2,4,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+67,2,4,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,2,4,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+69,2,4,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+70,2,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+71,2,4,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+72,2,4,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+73,2,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+74,2,4,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+75,2,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+76,2,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+77,2,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+78,2,5,30-20-10-40,baseline,1,False,30,False,0,D,C,1. D,30,20,10,40
+79,2,5,10-20-30-40,baseline,2,False,20,True,20,C,C,"2
+C",10,20,30,40
+80,2,5,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+81,2,5,20-40-10-30,baseline,1,False,20,True,20,B,B,1. B,20,40,10,30
+82,2,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+83,2,5,10-30-40-20,baseline,1,False,10,True,10,C,C,1. C,10,30,40,20
+84,2,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+86,2,5,30-10-40-20,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. B
+4. C",30,10,40,20
+87,2,5,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+88,2,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+89,2,5,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+90,2,5,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+91,2,5,20-30-40-10,baseline,2,False,30,False,0,,B,2,20,30,40,10
+92,2,5,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+93,2,5,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+94,2,5,20-10-40-30,baseline,1,False,20,False,0,A,C,"1
+A decline in the demand for money could be the result of (A) higher prices. (B) more money placed in checking accounts. (C) higher returns on bonds. (D) more credit cards.",20,10,40,30
+95,2,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+96,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+1,3,1,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+2,3,1,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+3,3,1,20-30-10-40,baseline,1,False,20,False,0,D,A,1. D,20,30,10,40
+4,3,1,10-20-40-30,baseline,2,False,20,False,0,,C,2,10,20,40,30
+5,3,1,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+6,3,1,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+7,3,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+8,3,1,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+9,3,1,10-40-30-20,baseline,2,False,40,False,0,A,D,"2
+A",10,40,30,20
+10,3,1,20-10-30-40,baseline,1,False,20,False,0,C,D,"1
+C",20,10,30,40
+11,3,1,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+12,3,1,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+13,3,1,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+14,3,1,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+15,3,1,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+16,3,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,3,1,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+18,3,1,20-10-30-40,baseline,1,False,20,False,0,D,C,1. D,20,10,30,40
+19,3,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+20,3,2,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+21,3,2,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+22,3,2,30-20-10-40,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. A
+4. B",30,20,10,40
+23,3,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+24,3,2,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+25,3,2,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+26,3,2,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+27,3,2,10-40-30-20,baseline,2,False,40,False,0,B,D,"2
+B",10,40,30,20
+28,3,2,30-40-10-20,baseline,-1,True,0,False,0,,,"1. A
+2. C
+3. A
+4. C",30,40,10,20
+29,3,2,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+30,3,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+31,3,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+32,3,2,20-40-30-10,baseline,1,False,20,False,0,D,A,1. D) Elimination of a corporate tax credit on investment,20,40,30,10
+33,3,2,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+34,3,2,20-30-10-40,baseline,1,False,20,False,0,A,D,"1
+A",20,30,10,40
+35,3,2,30-40-20-10,baseline,1,False,30,False,0,A,D,"1. A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve? (A) Horizontal (B) Convex to the origin (C) Concave to the origin (D) Vertical (30 points)
+
+Answer: A",30,40,20,10
+36,3,2,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+37,3,2,40-30-10-20,baseline,1,False,40,False,0,B,D,1. B,40,30,10,20
+38,3,2,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+39,3,3,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+40,3,3,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+41,3,3,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+42,3,3,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+43,3,3,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+44,3,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+45,3,3,40-20-30-10,baseline,1,False,40,False,0,C,D,"1
+C",40,20,30,10
+46,3,3,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+47,3,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,3,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+49,3,3,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+50,3,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+51,3,3,10-20-40-30,baseline,2,False,20,False,0,,C,2,10,20,40,30
+52,3,3,20-10-30-40,baseline,1,False,20,False,0,D,A,1. D,20,10,30,40
+53,3,3,10-30-20-40,baseline,2,False,30,False,0,D,A,"2
+D",10,30,20,40
+54,3,3,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+55,3,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+56,3,3,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+57,3,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+58,3,4,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+59,3,4,20-30-10-40,baseline,2,False,30,False,0,C,D,"2
+C",20,30,10,40
+60,3,4,40-20-30-10,baseline,1,False,40,False,0,B,D,1. B,40,20,30,10
+61,3,4,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+62,3,4,20-40-30-10,baseline,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+63,3,4,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+64,3,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+65,3,4,20-40-10-30,baseline,2,False,40,False,0,,D,2,20,40,10,30
+66,3,4,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+67,3,4,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,3,4,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+69,3,4,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+70,3,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+71,3,4,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+72,3,4,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+73,3,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+74,3,4,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+75,3,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+76,3,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+77,3,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+78,3,5,30-20-10-40,baseline,1,False,30,False,0,D,C,1. D,30,20,10,40
+79,3,5,10-20-30-40,baseline,2,False,20,True,20,C,C,"2
+C",10,20,30,40
+80,3,5,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+81,3,5,20-40-10-30,baseline,1,False,20,True,20,B,B,1. B,20,40,10,30
+82,3,5,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+83,3,5,10-30-40-20,baseline,1,False,10,True,10,C,C,1. C,10,30,40,20
+84,3,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+86,3,5,30-10-40-20,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. B
+4. C",30,10,40,20
+87,3,5,10-40-20-30,baseline,2,False,40,False,0,,D,2,10,40,20,30
+88,3,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+89,3,5,30-40-10-20,baseline,1,False,30,True,30,A,A,1. A,30,40,10,20
+90,3,5,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+91,3,5,20-30-40-10,baseline,2,False,30,False,0,,B,2,20,30,40,10
+92,3,5,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+93,3,5,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+94,3,5,20-10-40-30,baseline,1,False,20,False,0,A,C,"1
+A decline in the demand for money could be the result of (A) higher prices. (B) more money placed in checking accounts. (C) higher returns on bonds. (D) more credit cards.",20,10,40,30
+95,3,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+96,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+1,1,1,40-10-20-30,model_A,1,False,40,False,0,A,D,"1
+A
+
+2
+A
+
+3
+B
+
+4
+D",40,10,20,30
+2,1,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1A
+
+2C
+
+3B
+
+4A",20,10,40,30
+3,1,1,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",20,30,10,40
+4,1,1,10-20-40-30,model_A,1,False,10,False,0,,D,"2B
+
+The currency held by the public is part of M1, which includes currency held by banks. ThereforeThe answer is 2B.",10,20,40,30
+5,1,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+In the circular-flow diagram households send to firms in returnfor spending; resources",10,40,30,20
+6,1,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",10,20,40,30
+7,1,1,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The spending multiplier is often smaller than predicted because of rising price levels. When the price level rises, consumers' purchasing power decreases, leading to a smaller increase in consumption than anticipated. This reduces the effectiveness of expansionary fiscal policy.
+
+2C
+
+If the aggregate demand curve shifts to the right, assuming an upward sloping aggregate supply curve, the equilibrium price level will increase and the equilibrium",40,20,30,10
+8,1,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2A
+
+The purchase of new running shoes by Josh would be included in the official computation of GDP.
+
+3D
+
+The standard of living will increase if real GDP increases at a greater rate than the population.
+
+4C
+
+The Phillips curve indicates that",40,30,20,10
+9,1,1,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+
+The money supply can increase by $1.25 million.",10,40,30,20
+10,1,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoProducersinexchangeforgoodsandservices.",20,10,30,40
+11,1,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+The value of GDP = 4 * $1.00 + 4 * $0.50 = $6.00
+
+ThereforeThe answer is (C) $6.00",10,30,40,20
+12,1,1,30-40-20-10,model_A,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+13,1,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket? (A)ThisisevidencethatcontradictstheLawofDemand. (B)ThepriceofcrudeoilhasfallenshiftingthesupplyofgasolinetotheRight. (C)APriceCeilinghas",10,20,30,40
+14,1,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1B
+
+An Italian company opening a shoe factory in the U.S. would contribute to the U.S. GDP because it is produced within the borders of the U.S.",30,20,10,40
+15,1,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1A
+
+2C
+
+3B
+
+4C",30,40,10,20
+16,1,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,40,20
+17,1,1,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3D
+
+4B",40,20,10,30
+18,1,1,20-10-30-40,model_A,1,False,20,False,0,,C,"1D
+
+The value of GDP is calculated by multiplying the quantity produced by the price. In this case 4 hot dogs * $1.00 = $4.00 4 buns * $0.50 = $2.00 $4.00 + $2.00 = $6.00
+
+2A
+
+The purchase of a new home",20,10,30,40
+19,1,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment.
+
+2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.
+
+3D
+
+The money supply can increase by $80 million.
+
+4B
+
+Currency held by thepublicispartofM1butnotM2.",40,10,20,30
+20,1,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase iftheaggregate demand curve shiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemandCurveShiftsToTheRightAssumeAnUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemand",20,10,30,40
+21,1,2,40-10-20-30,model_A,1,False,40,False,0,C,D,"1C
+
+The correct answer is (C) Households supply resources to producers in exchange for goods and services. This is true because households typically supply labor, capital, land, and entrepreneurship to producers, who then use these resources to produce goods and services. The circular flow model shows how households supply resources to producers and producers supply goods and services to households.",40,10,20,30
+22,1,2,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+Julia's saving = 1000 * 0.5 = 500
+
+2A
+
+IfAstobia'srealinterestrate decreasescomparedtoBonavia'srealinterestrateThenCapitalFlowOutflowCurrencyAppreciationExportsDecrease
+
+3A
+
+MarketEconomiesRelyOnMarketsToCoordinateEconomicActivity
+
+4B
+
+Stag",30,20,10,40
+23,1,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,30,10,20
+24,1,2,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following must exist to allow for mutual benefit from specialization and trade between two countries? The answer is DAbsolute and Comparative Advantage.",30,20,40,10
+25,1,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,10,40,30
+26,1,2,40-30-20-10,model_A,1,False,40,False,0,A,B,"1B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",40,30,20,10
+27,1,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",10,40,30,20
+28,1,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1A
+
+2C
+
+3A
+
+4C",30,40,10,20
+29,1,2,30-40-20-10,model_A,1,False,30,False,0,A,B,"2B
+
+Country A has a current account surplus; this means that (B) Country A has a financial account deficit.",30,40,20,10
+30,1,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1A
+
+A decline in the demand for money could be the result of higher prices.",40,10,30,20
+31,1,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4A",30,10,20,40
+32,1,2,20-40-30-10,model_A,1,False,20,False,0,,A,"2B
+
+The Federal Reserve would lead to an expansion of the money supply ifThe FED buys government securities inthe secondary market.",20,40,30,10
+33,1,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The government increases spending with no change in taxes.",10,20,30,40
+34,1,2,20-30-10-40,model_A,1,False,20,False,0,,D,"2B
+
+The government increases spending with no change in taxes.",20,30,10,40
+35,1,2,30-40-20-10,model_A,1,False,30,False,0,A,D,"1A
+
+The fixed output level in the long run corresponds with a horizontal long-run Phillips curve.",30,40,20,10
+36,1,2,10-30-40-20,model_A,1,False,10,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",10,30,40,20
+37,1,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2B
+
+3C
+
+4B",40,30,10,20
+38,1,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1A
+
+The Gross Domestic Product (GDP) is a close approximation of national income.",40,10,30,20
+39,1,3,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+
+The money supply can increase by $80 million.",10,40,20,30
+40,1,3,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+The price of gasoline has recently increased while at the same time gasoline consumption has also increased. This indicates that consumers are willing to pay more for gasoline, suggesting that consumers prefer larger automobiles shifting the demand curve to the right.",20,40,30,10
+41,1,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1D
+
+The theory of rational expectations assumes that consumers and businesses donotusealltheinformationavailabletothem.",20,10,40,30
+42,1,3,20-40-10-30,model_A,1,False,20,False,0,A,D,"2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",20,40,10,30
+43,1,3,30-40-20-10,model_A,1,False,30,False,0,,B,"1B
+
+The Federal Reserve buys government securities in the secondary market, which would lead to an expansion of the money supply.",30,40,20,10
+44,1,3,20-40-10-30,model_A,1,False,20,False,0,,A,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",20,40,10,30
+45,1,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoproducersinexchangeforgoodsandservices.",40,20,30,10
+46,1,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1B
+
+2D
+
+3B
+
+4C",40,20,10,30
+47,1,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",30,20,10,40
+48,1,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase iftheaggregate demand curve shiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemandCurveShiftsToTheRightAssumeAnUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemand",40,30,10,20
+49,1,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3B
+
+4D",40,30,20,10
+50,1,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,30,40,10
+51,1,3,10-20-40-30,model_A,2,False,20,False,0,,C,"2
+
+The long-run aggregate supply curve is vertical.
+
+ThereforeThe answer isCThe long-run aggregate supply curve is vertical.",10,20,40,30
+52,1,3,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The transaction included in the official computation of GDP would be Josh buys a new pair of running shoes. This is because GDP measures the market value of final goods and services produced within a country's borders. The purchase of running shoes is considered a final good. The other transactions involve services (Nancy babysitting) or secondary transactions (Max buying used car) which would not be included.",20,10,30,40
+53,1,3,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The answer is A. Comparative advantage.",10,30,20,40
+54,1,3,10-30-40-20,model_A,1,False,10,True,10,A,A,"2D
+
+The fixed output level in the long run corresponds with a vertical long-run Phillips curve.",10,30,40,20
+55,1,3,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",40,20,10,30
+56,1,3,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The theory of rational expectations assumes that consumers and businesses donotusealltheinformationavailabletothem.",30,20,40,10
+57,1,3,40-10-30-20,model_A,1,False,40,False,0,A,B,"1B
+
+The current account surplus means that Country A has a financial account surplus.",40,10,30,20
+58,1,4,10-30-20-40,model_A,1,False,10,False,0,,A,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,30,20,40
+59,1,4,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+The complete circular flow model of anopen economyC",20,30,10,40
+60,1,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1B
+
+2B
+
+3B
+
+4A",40,20,30,10
+61,1,4,20-30-40-10,model_A,1,False,20,False,0,A,B,"2C
+
+A decline in the demand for money could be the result of higher returns on bonds.",20,30,40,10
+62,1,4,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+
+According to Classical economic theory a decrease in the money supply would (D) lower the price level in the economy.",20,40,30,10
+63,1,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment because it represents the maximum output level that can be achieved given the existing technology, natural resources, and labor force.",40,10,30,20
+64,1,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",20,30,40,10
+65,1,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,40,10,30
+66,1,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+Stagflation occurs when the price level rises and output falls.",30,10,20,40
+67,1,4,30-40-10-20,model_A,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,1,4,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The government increases spending with no change in taxes.",40,10,20,30
+69,1,4,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",40,30,20,10
+70,1,4,10-20-30-40,model_A,1,False,10,False,0,A,C,"2D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket? (A)ThisisevidencethatcontradictstheLawofDemand. (B)ThepriceofcrudeoilhasfallenshiftingthesupplyofgasolinetotheRight. (C)APriceCeiling",10,20,30,40
+71,1,4,10-30-20-40,model_A,1,False,10,False,0,,C,"2B
+
+Some economists believe that when aggregate demand declines prices are inflexible or ""sticky"" in the downward direction. This implies that the short-run aggregate supply curve is horizontal below full employment.",10,30,20,40
+72,1,4,10-40-20-30,model_A,1,False,10,False,0,,D,"2B
+
+Suppose thatthe federalgovernmentreclassifiedthepurchaseofanewhomeasconsumptionspendingratherthaninvestmentspending.Thisdecisionwould
+
+DecreaseaggregatedemandanddecreaseRealGDP.",10,40,20,30
+73,1,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2B
+
+GDP is a close approximation of societal welfare.",20,40,30,10
+74,1,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+The circular-flow diagram shows households sending resources (such as labor) to firms in return for wages and profits. Therefore, households send resources to firms in return for resources (wages and profits).",40,20,10,30
+75,1,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+2C
+
+3A
+
+4C",30,20,40,10
+76,1,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2B
+
+A higher tariff imposed by the U.S. on imported automobiles would likely lead toNet exportsfallingandthe dollardepreciatinginvalue.
+
+3A
+
+The purchase ofa newpairofrunningshoesbyJoshwouldbeincluded",30,10,20,40
+77,1,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+The correct answerisDConsumerspreferlargerautomobilesshiftingthedemandforgasolinetotheRight.
+
+TheLawofDemandstatesthatasaPriceincreasesDemandFallsandviceversa.ButInThisCaseThePrice",10,20,40,30
+78,1,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+Stagflation occurs when inflation falls and unemployment rises.",30,20,10,40
+79,1,5,10-20-30-40,model_A,1,False,10,False,0,,C,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,20,30,40
+80,1,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4B",40,30,10,20
+81,1,5,20-40-10-30,model_A,1,False,20,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",20,40,10,30
+82,1,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If the economy is suffering from extremely high rates of inflation, a suitable strategy would be to Decrease government spending and Increase taxes. This would help reduce the money supply, thereby addressing the inflationary pressure.",10,40,20,30
+83,1,5,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+The money multiplier is calculated as 1 / reserve requirement. If the reserve requirement is 2%, then 1 / 0.02 = 50. Therefore The money multiplier is 50.
+
+2B
+
+The multiplier effect states that a change in government spending leads to a larger change in GDP. The formula is (1 / (1 - MPC)) * Change",10,30,40,20
+84,1,5,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+2D
+
+3A
+
+4D",10,40,30,20
+85,1,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1
+A
+
+Julia's saving per week = Income - Consumption = $1000 - $30 = $970
+
+Since marginal propensity to consume (MPC) = 0.5, Marginal propensity to save (MPS) = 1 - MPC = 1 - 0.5 = 0.5
+
+Therefore, Julia's saving per week",30,10,40,20
+86,1,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The standard of living will increase if real GDP increases at a greater rate than thepopulation.",30,10,40,20
+87,1,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+
+The decision would decrease aggregate demand and decrease real GDP.",10,40,20,30
+88,1,5,10-30-20-40,model_A,1,False,10,False,0,A,D,"1
+A
+
+2
+C
+
+3
+B
+
+4
+C",10,30,20,40
+89,1,5,30-40-10-20,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A is The correct answer. If government spending increases, it shifts the aggregate demand curve to the right, creating an inflationary gap.",30,40,10,20
+90,1,5,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+According to economists, the bulk of investment is done by businesses.",20,30,10,40
+91,1,5,20-30-40-10,model_A,2,False,30,False,0,D,B,"2
+
+The short-run aggregate supply curve is (D) vertical below full employment.",20,30,40,10
+92,1,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,20,40
+93,1,5,40-20-30-10,model_A,1,False,40,False,0,,B,"2B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,20,30,10
+94,1,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1B
+
+A decline in the demand for money could be the result of More money placed in checking accounts.",20,10,40,30
+95,1,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3B
+
+4A",30,20,40,10
+96,1,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",30,10,40,20
+1,2,1,40-10-20-30,model_A,1,False,40,True,40,D,D,"1
+D
+
+Julia's saving per week = 1000 * 0.5 = 500
+
+Therefore Julia saves $500 per week.",40,10,20,30
+2,2,1,20-10-40-30,model_A,1,False,20,False,0,A,C,"3C
+
+The government decreases spending and matches it with a decrease in taxes.",20,10,40,30
+3,2,1,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",20,30,10,40
+4,2,1,10-20-40-30,model_A,1,False,10,False,0,,D,"2B
+
+The currency held by the public is part of M1, which includes currency held by banks. ThereforeThe answer is 2B.",10,20,40,30
+5,2,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+In the circular-flow diagram households send to firms in returnfor spending; resources",10,40,30,20
+6,2,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",10,20,40,30
+7,2,1,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The spending multiplier is often smaller than predicted because of rising price levels. When government spending increases, it leads to an increase in aggregate demand. However, if prices rise due to higher demand, producers may raise their prices, leading to a smaller increase in output than predicted by the multiplier. This is because producers may not be able to produce as much output as they could have if prices had",40,20,30,10
+8,2,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2A
+
+The purchase of new running shoes by Josh would be included in the official computation of GDP.
+
+3D
+
+The standard of living will increase if real GDP increases at a greater rate than the population.
+
+4C
+
+The Phillips curve indicates that",40,30,20,10
+9,2,1,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+
+The money supply can increase by $1.25 million.",10,40,30,20
+10,2,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoProducersinexchangeforgoodsandservices.",20,10,30,40
+11,2,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+The value of GDP = 4 * $1.00 + 4 * $0.50 = $6.00
+
+ThereforeThe answer is (C) $6.00",10,30,40,20
+12,2,1,30-40-20-10,model_A,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+13,2,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket? (A)ThisisevidencethatcontradictstheLawofDemand. (B)ThepriceofcrudeoilhasfallenshiftingthesupplyofgasolinetotheRight. (C)APriceCeilinghas",10,20,30,40
+14,2,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1B
+
+2C
+
+3B
+
+4A",30,20,10,40
+15,2,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1A
+
+2C
+
+3B
+
+4C",30,40,10,20
+16,2,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,40,20
+17,2,1,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3D
+
+4B",40,20,10,30
+18,2,1,20-10-30-40,model_A,1,False,20,False,0,,C,"1D
+
+The value of GDP is calculated by multiplying the quantity produced by the price. In this case 4 hot dogs * $1.00 = $4.00 4 buns * $0.50 = $2.00 $4.00 + $2.00 = $6.00
+
+2A
+
+The purchase of a new home",20,10,30,40
+19,2,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment.
+
+2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.
+
+3D
+
+The money supply can increase by $80 million.
+
+4B
+
+Currency held by thepublicispartofM1butnotM2.",40,10,20,30
+20,2,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase iftheaggregate demand curve shiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemandCurveShiftsToTheRightAssumeAnUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemand",20,10,30,40
+21,2,2,40-10-20-30,model_A,1,False,40,False,0,C,D,"1C
+
+The correct answer is (C) Households supply resources to producers in exchange for goods and services. This statement accurately describes the flow of resources from households to producers within the complete circular flow model of an open economy.
+
+2C
+
+The correct answer is (C) Higher returns on bonds. When the returns on bonds increase, investors may choose to hold more bonds rather than keep their money",40,10,20,30
+22,2,2,30-20-10-40,model_A,1,False,30,False,0,A,D,"1
+A
+
+2
+B
+
+3
+A
+
+4
+B",30,20,10,40
+23,2,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,30,10,20
+24,2,2,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following must exist to allow for mutual benefit from specialization and trade between two countries? The answer is DAbsolute and Comparative Advantage.",30,20,40,10
+25,2,2,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3B
+
+4A",20,10,40,30
+26,2,2,40-30-20-10,model_A,1,False,40,False,0,A,B,"1B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",40,30,20,10
+27,2,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",10,40,30,20
+28,2,2,30-40-10-20,model_A,1,False,30,False,0,A,D,"1A
+
+A fixed output level in the long run corresponds with a horizontal long-run Phillips curve.",30,40,10,20
+29,2,2,30-40-20-10,model_A,1,False,30,False,0,A,B,"2B
+
+The current account surplus means that Country A has a financial account surplus.",30,40,20,10
+30,2,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+A decline in the demand for money could be the result of higher returns on bonds.",40,10,30,20
+31,2,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4A",30,10,20,40
+32,2,2,20-40-30-10,model_A,1,False,20,False,0,,A,"2B
+
+The Federal Reserve would lead to an expansion of the money supply ifThe FED buys government securities inthe secondary market.",20,40,30,10
+33,2,2,10-20-30-40,model_A,1,False,10,False,0,,B,"2D
+
+The transaction included in the official computation of gross domestic product would be Eli cannot go to aconcertsoheresellshistickettoafriend.",10,20,30,40
+34,2,2,20-30-10-40,model_A,1,False,20,False,0,,D,"2B
+
+The government increases spending with no change in taxes.",20,30,10,40
+35,2,2,30-40-20-10,model_A,1,False,30,False,0,A,D,"1A
+
+The fixed output level in the long run corresponds with a horizontal long-run Phillips curve.
+
+2A
+
+Market economies rely on markets to coordinate economic activity.
+
+3D
+
+The spending multiplier is often smaller than predicted because of rising price levels.
+
+4B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",30,40,20,10
+36,2,2,10-30-40-20,model_A,1,False,10,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",10,30,40,20
+37,2,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The reclassification of the purchase of anewhomeasconsumptionspendingratherthaninvestmentspendingwouldhavenoimpactonaggregatedemandandrealGDP.
+
+2B
+
+Householdssendspendingtofirmsinreturnforresources.
+
+3C
+
+Adeclineinthedemandformoneycouldberesultsofhigherreturnsonbonds.
+
+4B
+
+Theequ",40,30,10,20
+38,2,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1A
+
+The Gross Domestic Product (GDP) is a close approximation of national income.",40,10,30,20
+39,2,3,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+
+The money supply can increase by $80 million.",10,40,20,30
+40,2,3,20-40-30-10,model_A,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+41,2,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The theory of rational expectations assumes that consumers and businesses anticipate rising prices when thegovernmentpursuesanexpansionaryfiscalpolicy.",20,10,40,30
+42,2,3,20-40-10-30,model_A,1,False,20,False,0,A,D,"2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",20,40,10,30
+43,2,3,30-40-20-10,model_A,1,False,30,False,0,,B,"1B
+
+The FED buys government securities in the secondary market.",30,40,20,10
+44,2,3,20-40-10-30,model_A,1,False,20,False,0,,A,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",20,40,10,30
+45,2,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoproducersinexchangeforgoodsandservices.",40,20,30,10
+46,2,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1B
+
+2D
+
+3B
+
+4C",40,20,10,30
+47,2,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",30,20,10,40
+48,2,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to theright. ThisisbecausetheaggregateSupplyCurveisUpwardSloping,whichmeansthatasaTheEquilibriumPriceLevelRisesTheEquilibriumQuantityOfOutputWillAlsoRise.",40,30,10,20
+49,2,3,40-30-20-10,model_A,1,False,40,True,40,A,A,"1A
+
+The correct answer is A. When government spending increases, it shifts the aggregate demand curve to the right, creating an inflationary gap. This occurs because the increase in government spending leads to an increase in aggregate demand, which pushes the economy beyond its full-employment level of output.
+
+2B
+
+The correct answer is B. The production from an Italian company operating in the U.S.",40,30,20,10
+50,2,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,30,40,10
+51,2,3,10-20-40-30,model_A,2,False,20,False,0,,C,"2
+
+The long-run aggregate supply curve is vertical.
+
+ThereforeThe answer isCThe long-run aggregate supply curve is vertical.",10,20,40,30
+52,2,3,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The transaction included in the official computation of GDP would be Josh buys a new pair of running shoes. This is because GDP measures the market value of final goods and services produced within a country's borders. The purchase of running shoes is considered a final good. The other transactions involve services (babysitting) or secondary transactions (ticket reselling) which do not directly contribute to GDP.",20,10,30,40
+53,2,3,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The answer is A. Comparative advantage.",10,30,20,40
+54,2,3,10-30-40-20,model_A,1,False,10,True,10,A,A,"2D
+
+The fixed output level in the long run corresponds with a vertical long-run Phillips curve.",10,30,40,20
+55,2,3,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",40,20,10,30
+56,2,3,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The theory of rational expectations assumes that consumers and businesses donotusealltheinformationavailabletothem.",30,20,40,10
+57,2,3,40-10-30-20,model_A,1,False,40,False,0,,B,"1B
+
+The current account surplus implies thatCountry Ahasafinancialaccountsurplus.",40,10,30,20
+58,2,4,10-30-20-40,model_A,1,False,10,False,0,,A,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,30,20,40
+59,2,4,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+
+The complete circular flow model of an open economy includes households supplying resources to producers in exchange for goods andservices. ThereforeThe answerisC.",20,30,10,40
+60,2,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1B
+
+2B
+
+3B
+
+4A",40,20,30,10
+61,2,4,20-30-40-10,model_A,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+62,2,4,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+
+According to Classical economic theory a decrease in the money supply would (D) lower the price level in the economy.",20,40,30,10
+63,2,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment because it represents the maximum output level that can be achieved given the existing technology, natural resources, and labor force.",40,10,30,20
+64,2,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",20,30,40,10
+65,2,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,40,10,30
+66,2,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+Stagflation occurs when the price level rises and output falls.",30,10,20,40
+67,2,4,30-40-10-20,model_A,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,2,4,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The government increases spending with no change in taxes. This will have the greatest positive impact on real GDP.",40,10,20,30
+69,2,4,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",40,30,20,10
+70,2,4,10-20-30-40,model_A,1,False,10,False,0,A,C,"2D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket? (A)ThisisevidencethatcontradictstheLawofDemand. (B)ThepriceofcrudeoilhasfallenshiftingthesupplyofgasolinetotheRight. (C)APriceCeiling",10,20,30,40
+71,2,4,10-30-20-40,model_A,1,False,10,False,0,,C,"2B
+
+Some economists believe that when aggregate demand declines prices are inflexible or ""sticky"" in the downward direction. This implies that the short-run aggregate supply curve is horizontal below full employment.",10,30,20,40
+72,2,4,10-40-20-30,model_A,1,False,10,False,0,,D,"1D
+
+The spending multiplier is often smaller than predicted because of rising price levels.",10,40,20,30
+73,2,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2B
+
+GDP is a close approximation of societal welfare.",20,40,30,10
+74,2,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+The circular-flow diagram shows households sending resources (such as labor) to firms in return for wages and profits. Therefore, households send resources to firms in return for resources (wages and profits).",40,20,10,30
+75,2,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+2C
+
+3A
+
+4C",30,20,40,10
+76,2,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2B
+
+A higher tariff imposed by the U.S. on imported automobiles would likely lead toNet exportsfallingandthe dollardepreciatinginvalue.
+
+3A
+
+The purchase ofa newpairofrunningshoesbyJoshwouldbeincluded",30,10,20,40
+77,2,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",10,20,40,30
+78,2,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+Stagflation occurs when inflation falls and unemployment rises.",30,20,10,40
+79,2,5,10-20-30-40,model_A,1,False,10,False,0,,C,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,20,30,40
+80,2,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4B",40,30,10,20
+81,2,5,20-40-10-30,model_A,1,False,20,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",20,40,10,30
+82,2,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If the economy is suffering from extremely high rates of inflation, a suitable strategy would be to Decrease government spending and Increase taxes. This would help reduce the money supply, thereby addressing the inflationary pressure.",10,40,20,30
+83,2,5,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+The money multiplier is calculated as 1 / reserve requirement. If the reserve requirement is 2%, then 1 / 0.02 = 50. Therefore The money multiplier is 50.
+
+2B
+
+The multiplier effect states that a change in government spending leads to a larger change in GDP. The formula is (1 / (1 - MPC)) * Change",10,30,40,20
+84,2,5,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+2D
+
+3A
+
+4D",10,40,30,20
+85,2,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1
+A
+
+Julia's saving per week = Income - Consumption = $1000 - $30 = $970
+
+Since marginal propensity to consume (MPC) = 0.5, Marginal propensity to save (MPS) = 1 - MPC = 1 - 0.5 = 0.5
+
+Therefore, Julia's saving per week",30,10,40,20
+86,2,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The standard of living will increase if real GDP increases at a greater rate than thepopulation.",30,10,40,20
+87,2,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+
+The decision would decrease aggregate demand and decrease real GDP.",10,40,20,30
+88,2,5,10-30-20-40,model_A,1,False,10,False,0,A,D,"1
+A
+
+2
+C
+
+3
+B
+
+4
+C",10,30,20,40
+89,2,5,30-40-10-20,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is A. When government spending increases, it shifts the aggregate demand curve to the right, creating an inflationary gap. This occurs because the increase in government spending leads to an increase in aggregate demand, causing prices to rise.
+
+2C
+
+The correct answer is C. Economic growth refers to an increase in the LRAS curve. This occurs because technological advancements, increases in",30,40,10,20
+90,2,5,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+According to economists, the bulk of investment is done by businesses.",20,30,10,40
+91,2,5,20-30-40-10,model_A,2,False,30,False,0,D,B,"2
+
+The short-run aggregate supply curve is (D) vertical below full employment.",20,30,40,10
+92,2,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,20,40
+93,2,5,40-20-30-10,model_A,1,False,40,False,0,,B,"2B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,20,30,10
+94,2,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1A
+
+A decline in the demand for money could be the result of higher prices.",20,10,40,30
+95,2,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3B
+
+4A",30,20,40,10
+96,2,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",30,10,40,20
+1,3,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1
+
+Julia's saving per week = (1 - 0.5) * $1000 = $500
+
+Therefore, Julia saves $500 per week.
+
+Answer: A
+
+2
+
+The most likely cause of a decrease in private investment as a result of an action by the Federal Reserve would be (A) Selling Treasury securities to commercial banks.
+
+Answer:",40,10,20,30
+2,3,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1B
+
+2C
+
+3B
+
+4A",20,10,40,30
+3,3,1,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",20,30,10,40
+4,3,1,10-20-40-30,model_A,1,False,10,False,0,,D,"2B
+
+The currency held by the public is part of M1, which includes currency held by banks. ThereforeThe answer is 2B.",10,20,40,30
+5,3,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+In the circular-flow diagram households send to firms in returnfor spending; resources",10,40,30,20
+6,3,1,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",10,20,40,30
+7,3,1,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The spending multiplier is often smaller than predicted because of rising price levels. When prices rise due to increased demand, producers raise their prices, leading to a smaller increase in output than predicted by the multiplier.
+
+2C
+
+If the aggregate demand curve shifts to the right, assuming an upward sloping aggregate supply curve, the equilibrium price level and quantity of output will increase.
+
+3B
+
+When",40,20,30,10
+8,3,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2A
+
+The purchase of new running shoes by Josh would be included in the official computation of GDP.
+
+3D
+
+The standard of living will increase if real GDP increases at a greater rate than the population.
+
+4C
+
+The Phillips curve indicates that",40,30,20,10
+9,3,1,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+
+The money supply can increase by $1.25 million.",10,40,30,20
+10,3,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoProducersinexchangeforgoodsandservices.",20,10,30,40
+11,3,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"1
+
+The value of GDP = 4 * $1.00 + 4 * $0.50 = $6.00
+
+ThereforeThe answer is (C) $6.00",10,30,40,20
+12,3,1,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+The equilibrium price will fall and the equilibrium quantity will rise.",30,40,20,10
+13,3,1,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+The correct answerisDConsumerspreferlargerautomobilesshiftingthedemandforgasolinetotheRight.
+
+TheLawofDemandstatesthat
+
+TheCorrectAnswerisBThequantitydemandedofaproductwillfallwhent",10,20,30,40
+14,3,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1B
+
+An Italian company opening a shoe factory in the U.S. would contribute to the U.S. GDP because it is produced within the borders of the U.S.",30,20,10,40
+15,3,1,30-40-10-20,model_A,1,False,30,False,0,A,D,"1A
+
+The fixed output level in the long run corresponds with a horizontal long-run Phillips curve.
+
+2C
+
+If global warming raises temperatures so high that snow can never again exist anywhere, snow ski instructors will experience seasonal unemployment.
+
+3B
+
+The FED buys government securities in the secondary market would lead to an expansion of the money supply.
+
+4C
+
+When aggregate demand declines prices are inflexible",30,40,10,20
+16,3,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,40,20
+17,3,1,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3D
+
+4B",40,20,10,30
+18,3,1,20-10-30-40,model_A,1,False,20,False,0,,C,"1D
+
+The value of GDP is calculated by multiplying the quantity produced by the price. In this case 4 hot dogs * $1.00 = $4.00 4 buns * $0.50 = $2.00 $4.00 + $2.00 = $6.00
+
+2D
+
+The decision would have no impact",20,10,30,40
+19,3,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment.
+
+2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.
+
+3D
+
+The money supply can increase by $80 million.
+
+4B
+
+Currency held by thepublicispartofM1butnotM2.",40,10,20,30
+20,3,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase iftheaggregate demand curve shiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemandCurveShiftsToTheRightAssumeAnUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandQuantityOfOutputWillIncreaseIfTheAggregateDemand",20,10,30,40
+21,3,2,40-10-20-30,model_A,1,False,40,False,0,C,D,"1C
+
+The correct answer is (C) Households supply resources to producers in exchange for goods and services. This is true because households typically supply labor, capital, and other resources to producers in exchange for goods, services, and/or compensation.
+
+2C
+
+The correct answer is (C) Higher returns on bonds. When the returns on bonds increase, investors may choose to hold more bonds rather",40,10,20,30
+22,3,2,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+Julia's saving = 1000 * 0.5 = 500
+
+2A
+
+IfAstobia'srealinterestrate decreasescomparedtoBonavia'srealinterestrateThenCapitalFlowOutflowCurrencyAppreciationExportsDecrease
+
+3A
+
+MarketEconomiesRelyOnMarketsToCoordinateEconomicActivity
+
+4B
+
+Stag",30,20,10,40
+23,3,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,30,10,20
+24,3,2,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following must exist to allow for mutual benefit from specialization and trade between two countries? The answer is DAbsolute and Comparative Advantage
+
+2A
+
+The question asksWhich of the following is a close approximation ofGDP?The answer is ANational Income
+
+3D
+
+The question asksWhatis happeninginthegasoline market?TheanswerisDConsumers",30,20,40,10
+25,3,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,10,40,30
+26,3,2,40-30-20-10,model_A,1,False,40,False,0,A,B,"1B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",40,30,20,10
+27,3,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",10,40,30,20
+28,3,2,30-40-10-20,model_A,1,False,30,False,0,A,D,"1A
+
+A fixed output level in the long run at full-employment output corresponds with a horizontal long-run Phillips curve.",30,40,10,20
+29,3,2,30-40-20-10,model_A,1,False,30,False,0,A,B,"2B
+
+The current account surplus means that Country A has a financial account surplus.",30,40,20,10
+30,3,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1A
+
+A decline in the demand for money could be the result of higher prices.",40,10,30,20
+31,3,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4A",30,10,20,40
+32,3,2,20-40-30-10,model_A,1,False,20,False,0,,A,"2B
+
+The Federal Reserve would lead to an expansion of the money supply ifThe FED buys government securities inthe secondary market.",20,40,30,10
+33,3,2,10-20-30-40,model_A,1,False,10,False,0,,B,"2D
+
+The transaction included in the official computation of gross domestic product would be Eli cannot go to aconcertsoheresellshistickettoafriend.",10,20,30,40
+34,3,2,20-30-10-40,model_A,1,False,20,False,0,,D,"1B
+
+If the real interest rate in Astobia decreases compared to Bonavia's real interest rate, then capital would flow out of Astobia into Bonavia. This would cause the value of Astobia's currency to depreciate relative to Bonavia's currency. As a result,Astobia's exports would become relatively cheaper comparedtoBonavia'sexportsandAstobia'sexportswouldincrease.
+
+Therefore",20,30,10,40
+35,3,2,30-40-20-10,model_A,1,False,30,False,0,A,D,"1A
+
+The fixed output level in the long run corresponds with a horizontal long-run Phillips curve.
+
+2A
+
+Market economies rely on markets to coordinate economic activity.
+
+3D
+
+The spending multiplier is often smaller than predicted because of rising price levels.
+
+4B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",30,40,20,10
+36,3,2,10-30-40-20,model_A,1,False,10,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",10,30,40,20
+37,3,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2B
+
+3C
+
+4B",40,30,10,20
+38,3,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1A
+
+The Gross Domestic Product (GDP) is a close approximation of national income.",40,10,30,20
+39,3,3,10-40-20-30,model_A,1,False,10,True,10,A,A,"Question 1
+
+Answer: A
+
+The answer is A. Comparative advantage in the production of a good or service.",10,40,20,30
+40,3,3,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposedinth",20,40,30,10
+41,3,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The theory of rational expectations assumes that consumers and businesses anticipate rising prices when thegovernmentpursuesanexpansionaryfiscalpolicy.",20,10,40,30
+42,3,3,20-40-10-30,model_A,1,False,20,False,0,A,D,"2B
+
+The predictable advantage of expansionary monetary policy in a recession is that it increases investment which increases aggregate demand and increases employment.",20,40,10,30
+43,3,3,30-40-20-10,model_A,1,False,30,False,0,,B,"1B
+
+The Federal Reserve buys government securities in the secondary market, which would lead to an expansion of the money supply.",30,40,20,10
+44,3,3,20-40-10-30,model_A,1,False,20,False,0,,A,"2B
+
+If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to increase by $133.33 million.",20,40,10,30
+45,3,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1C
+
+The complete circular flow model of anopen economy showsHouseholdssupplyresourcestoproducersinexchangeforgoodsandservices.",40,20,30,10
+46,3,3,40-20-10-30,model_A,1,False,40,False,0,,C,"1B
+
+2D
+
+3B
+
+4C",40,20,10,30
+47,3,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",30,20,10,40
+48,3,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The equilibrium price level and quantity of output will increase iftheaggregate demand curve shiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandquantityofoutputwillincreaseiftheaggregatedemandcurveshiftstotheRightAssumeanUpwardSlopingAggregateSupplyCurveTheequilibriumpricelevelandquantityofoutputwillincreaseiftheaggregatedemand",40,30,10,20
+49,3,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3B
+
+4D",40,30,20,10
+50,3,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,30,40,10
+51,3,3,10-20-40-30,model_A,2,False,20,False,0,,C,"2
+
+The long-run aggregate supply curve is vertical.
+
+ThereforeThe answer isCThe long-run aggregate supply curve is vertical.",10,20,40,30
+52,3,3,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The transaction included in the official computation of GDP would be Josh buys a new pair of running shoes. This is because GDP measures the market value of final goods and services produced within a country's borders. The purchase of running shoes is considered a final good. The other transactions involve services (babysitting) or secondary transactions (ticket reselling) which do not directly contribute to GDP.",20,10,30,40
+53,3,3,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The answer is A. Comparative advantage.",10,30,20,40
+54,3,3,10-30-40-20,model_A,1,False,10,True,10,A,A,"2D
+
+The fixed output level in the long run corresponds with a vertical long-run Phillips curve.",10,30,40,20
+55,3,3,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The Law of Demand states that the quantity demanded of a product will fall when the price of the product rises.",40,20,10,30
+56,3,3,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The theory of rational expectations assumes that consumers and businesses donotusealltheinformationavailabletothem.",30,20,40,10
+57,3,3,40-10-30-20,model_A,1,False,40,False,0,,B,"1B
+
+The current account surplus implies thatCountry Ahasafinancialaccountsurplus.",40,10,30,20
+58,3,4,10-30-20-40,model_A,1,False,10,False,0,,A,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,30,20,40
+59,3,4,20-30-10-40,model_A,1,False,20,False,0,,A,"1C
+
+If the economy is suffering from extremely high rates of inflation, which of the following fiscal policies would be anappropriate strategy? (A) Increase government spendingand decrease taxes. (B) Decrease governmentspendingand increase taxes. (C) Increasegovernmentspendingwithnochangeintaxes. (D)TheFederalReserveincreasesthediscountrate.
+
+The appropriate strategy would",20,30,10,40
+60,3,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1B
+
+2B
+
+3A
+
+4A",40,20,30,10
+61,3,4,20-30-40-10,model_A,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+62,3,4,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+
+According to Classical economic theory a decrease in the money supply would (D) lower the price level in the economy.",20,40,30,10
+63,3,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+The long-run aggregate supply curve is vertical at full employment because it represents the maximum output level that can be achieved given the existing technology, natural resources, and labor force.",40,10,30,20
+64,3,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+A)ThisisevidencethatcontradictstheLawofDemand.
+
+B)ThepriceofCrudeOilhasfallenshiftingthesupplyofgasolinetotheRight.
+
+C)APriceCeilinghasbeenimposed",20,30,40,10
+65,3,4,20-40-10-30,model_A,2,False,40,False,0,A,D,"2
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",20,40,10,30
+66,3,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+Stagflation occurs when the price level rises and output falls.",30,10,20,40
+67,3,4,30-40-10-20,model_A,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+68,3,4,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The government increases spending with no change in taxes.",40,10,20,30
+69,3,4,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",40,30,20,10
+70,3,4,10-20-30-40,model_A,1,False,10,False,0,A,C,"2D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket? (A)ThisisevidencethatcontradictstheLawofDemand. (B)ThepriceofcrudeoilhasfallenshiftingthesupplyofgasolinetotheRight. (C)APriceCeiling",10,20,30,40
+71,3,4,10-30-20-40,model_A,1,False,10,False,0,,C,"2B
+
+Some economists believe that when aggregate demand declines prices are inflexible or ""sticky"" in the downward direction. This implies that the short-run aggregate supply curve is horizontal below full employment.",10,30,20,40
+72,3,4,10-40-20-30,model_A,1,False,10,False,0,,D,"1D
+
+The spending multiplier is often smaller than predicted because of rising price levels.",10,40,20,30
+73,3,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2B
+
+GDP is a close approximation of societal welfare.",20,40,30,10
+74,3,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+The circular-flow diagram shows households sending resources (such as labor) to firms in return for wages and profits. Therefore, households send resources to firms in return for resources (wages and profits).",40,20,10,30
+75,3,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+The money multiplier is calculated as 1 / reserve requirement. If the reserve requirement is 2%, then 1 / 0.02 = 50. Therefore The money multiplier is 50.
+
+2C
+
+Household expenditures result in revenues for firms via the product markets.
+
+3A
+
+An increase in government spending shifts the aggregate demand curve to the right, creating",30,20,40,10
+76,3,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The production from an Italian shoe company operating in the U.S. would be included in both the Italian GDP and U.S. GDP.
+
+2B
+
+A higher tariff imposed by the U.S. on imported automobiles would likely lead to Net exports falling and the dollar depreciating in value.
+
+3A
+
+The purchase of a new pair of running shoes by Josh would be included in the official",30,10,20,40
+77,3,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The price of gasoline has recently increased while at thesame timegasoline consumptionhasalsoincreased. Whatishappeninginthegasolinemarket?
+
+The correct answerisDConsumerspreferlargerautomobilesshiftingthedemandforgasolinetotheRight.
+
+TheLawofDemandstatesthatasaPriceincreasesDemandFallsandviceversa.ButInThisCaseThePrice",10,20,40,30
+78,3,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+Stagflation occurs when inflation falls and unemployment rises.",30,20,10,40
+79,3,5,10-20-30-40,model_A,1,False,10,False,0,,C,"2C
+
+The equilibrium price level and quantity of output will increase if the aggregate demand curve shifts to the right.",10,20,30,40
+80,3,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4B",40,30,10,20
+81,3,5,20-40-10-30,model_A,1,False,20,False,0,,B,"1B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",20,40,10,30
+82,3,5,10-40-20-30,model_A,1,False,10,False,0,A,B,"2B
+
+If the economy is suffering from extremely high rates of inflation, a suitable strategy would be to Decrease government spending and Increase taxes. This would help reduce the money supply, thereby addressing the inflationary pressure.",10,40,20,30
+83,3,5,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+The money multiplier is calculated as 1 / reserve requirement. If the reserve requirement is 2%, then 1 / 0.02 = 50. Therefore The money multiplier is 50.
+
+2B
+
+The multiplier effect states that a change in government spending leads to a larger change in GDP. The formula is (1 / (1 - MPC)) * Change",10,30,40,20
+84,3,5,10-40-30-20,model_A,1,False,10,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",10,40,30,20
+85,3,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1
+A
+
+Julia's saving per week = Income - Consumption = $1000 - $30 = $970
+
+Since marginal propensity to consume (MPC) = 0.5, Marginal propensity to save (MPS) = 1 - MPC = 1 - 0.5 = 0.5
+
+Therefore, Julia's saving per week",30,10,40,20
+86,3,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The standard of living will increase if real GDP increases at a greater rate than thepopulation.",30,10,40,20
+87,3,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+
+The decision would decrease aggregate demand and decrease real GDP.",10,40,20,30
+88,3,5,10-30-20-40,model_A,1,False,10,False,0,A,D,"1
+A
+
+2
+C
+
+3
+B
+
+4
+C",10,30,20,40
+89,3,5,30-40-10-20,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is A. An increase in government spending shifts the aggregate demand curve to the right, creating an inflationary gap.
+
+2C
+
+The correct answer is C. Economic growth shifts the Long-run Aggregate Supply (LRAS) curve to the right.
+
+3B
+
+The correct answer is B. Currency held by the public is part of M1, but currency held by banks",30,40,10,20
+90,3,5,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+According to economists, the bulk of investment is done by businesses.",20,30,10,40
+91,3,5,20-30-40-10,model_A,2,False,30,False,0,D,B,"2
+
+The short-run aggregate supply curve is (D) vertical below full employment.",20,30,40,10
+92,3,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+The Phillips curve indicates that inflation will be high when unemployment is low.",30,10,20,40
+93,3,5,40-20-30-10,model_A,1,False,40,False,0,,B,"2B
+
+The equilibrium price will fall and the equilibrium quantity will rise.",40,20,30,10
+94,3,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1A
+
+A decline in the demand for money could be the result of higher prices.",20,10,40,30
+95,3,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3B
+
+4A",30,20,40,10
+96,3,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+A recessionary gap exists when the short-run equilibrium level of real GDP is below the full-employment level of real GDP.",30,10,40,20

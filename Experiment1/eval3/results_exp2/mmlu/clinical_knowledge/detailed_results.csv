@@ -1,0 +1,2631 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+2,1,1,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+3,1,1,20-30-40-10,baseline,3,False,40,False,0,,C,3,20,30,40,10
+4,1,1,30-20-10-40,baseline,1,False,30,False,0,A,D,"1
+A",30,20,10,40
+5,1,1,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+6,1,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+7,1,1,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+8,1,1,20-40-30-10,baseline,1,False,20,True,20,B,B,1. B,20,40,30,10
+9,1,1,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+10,1,1,10-30-20-40,baseline,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+11,1,1,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+12,1,1,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+13,1,1,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+14,1,1,40-20-30-10,baseline,1,False,40,False,0,A,B,1. A,40,20,30,10
+15,1,1,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+16,1,1,20-30-10-40,baseline,4,False,40,False,0,,C,4,20,30,10,40
+17,1,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+18,1,1,40-30-10-20,baseline,1,False,40,False,0,A,D,"1
+A",40,30,10,20
+19,1,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+20,1,2,20-10-40-30,baseline,3,False,40,False,0,B,D,"3
+Cushing's response is characterized by high blood pressure and tachycardia. Therefore, the correct answer is (B) High blood pressure, tachycardia.",20,10,40,30
+21,1,2,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+22,1,2,10-30-40-20,baseline,2,False,30,False,0,,B,2,10,30,40,20
+23,1,2,10-40-20-30,baseline,2,False,40,False,0,B,D,"2
+B",10,40,20,30
+24,1,2,20-30-40-10,baseline,1,False,20,True,20,B,B,"1
+B",20,30,40,10
+25,1,2,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+26,1,2,10-30-40-20,baseline,1,False,10,True,10,B,B,1. B,10,30,40,20
+27,1,2,20-30-10-40,baseline,1,False,20,False,0,B,A,"1
+B",20,30,10,40
+28,1,2,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+29,1,2,20-40-10-30,baseline,1,False,20,False,0,A,C,"1
+A",20,40,10,30
+30,1,2,20-10-30-40,baseline,1,False,20,False,0,A,B,"1
+A",20,10,30,40
+31,1,2,20-10-30-40,baseline,1,False,20,False,0,B,A,"1
+B",20,10,30,40
+32,1,2,30-40-20-10,baseline,2,False,40,False,0,B,D,"2
+B",30,40,20,10
+33,1,2,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+34,1,2,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+35,1,2,10-40-20-30,baseline,1,False,10,False,0,A,B,1. A,10,40,20,30
+36,1,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+37,1,2,40-10-30-20,baseline,1,False,40,False,0,C,B,1. C,40,10,30,20
+38,1,2,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+39,1,3,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+40,1,3,20-30-40-10,baseline,2,False,30,True,30,A,A,"2
+A",20,30,40,10
+41,1,3,10-30-40-20,baseline,2,False,30,False,0,D,C,"2
+D",10,30,40,20
+42,1,3,10-20-40-30,baseline,1,False,10,False,0,A,B,"1
+A",10,20,40,30
+43,1,3,30-20-40-10,baseline,1,False,30,False,0,C,B,1. C,30,20,40,10
+44,1,3,20-40-10-30,baseline,4,False,30,True,30,C,C,"4
+C",20,40,10,30
+45,1,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+46,1,3,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+47,1,3,30-10-40-20,baseline,3,False,40,False,0,,B,3,30,10,40,20
+48,1,3,20-40-30-10,baseline,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+49,1,3,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+50,1,3,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+51,1,3,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+52,1,3,10-30-40-20,baseline,1,False,10,True,10,C,C,1. C,10,30,40,20
+53,1,3,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+54,1,3,40-20-10-30,baseline,1,False,40,False,0,B,D,"1
+B",40,20,10,30
+55,1,3,20-40-30-10,baseline,2,False,40,False,0,A,C,"2
+A",20,40,30,10
+56,1,3,10-30-20-40,baseline,1,False,10,False,0,C,B,1. C,10,30,20,40
+57,1,3,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+58,1,4,30-10-40-20,baseline,3,False,40,False,0,,B,3,30,10,40,20
+59,1,4,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+60,1,4,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+61,1,4,10-20-40-30,baseline,3,False,40,False,0,B,D,"3
+B",10,20,40,30
+62,1,4,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+63,1,4,30-20-10-40,baseline,1,False,30,True,30,D,D,"1
+D",30,20,10,40
+64,1,4,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+65,1,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+66,1,4,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+67,1,4,20-10-40-30,baseline,3,False,40,False,0,,C,3,20,10,40,30
+68,1,4,10-20-30-40,baseline,1,False,10,True,10,A,A,1. A,10,20,30,40
+69,1,4,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+70,1,4,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+71,1,4,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+72,1,4,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+73,1,4,40-10-30-20,baseline,1,False,40,False,0,D,C,1. D,40,10,30,20
+74,1,4,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+75,1,4,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+76,1,4,40-30-10-20,baseline,1,False,40,False,0,B,D,1. B,40,30,10,20
+77,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+78,1,5,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+79,1,5,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+80,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,"1
+D",30,10,40,20
+81,1,5,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+82,1,5,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+83,1,5,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+84,1,5,40-10-20-30,baseline,1,False,40,False,0,B,D,1. B,40,10,20,30
+85,1,5,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+86,1,5,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+87,1,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+88,1,5,20-10-30-40,baseline,4,False,40,False,0,,C,4,20,10,30,40
+89,1,5,30-40-10-20,baseline,1,False,30,False,0,C,B,1. C,30,40,10,20
+90,1,5,40-20-10-30,baseline,1,False,40,False,0,A,B,1. A,40,20,10,30
+91,1,5,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+92,1,5,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+93,1,5,10-40-20-30,baseline,1,False,10,True,10,D,D,"1
+D",10,40,20,30
+94,1,5,40-10-30-20,baseline,1,False,40,True,40,B,B,"1
+B",40,10,30,20
+95,1,5,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+96,1,5,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+1,1,1,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The patient might choose silicone catheter because they are allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,model_A,1,False,30,False,0,A,D,"1D
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20 g/day.",30,10,40,20
+3,1,1,20-30-40-10,model_A,2,False,30,False,0,B,D,"2
+
+Type I muscle fibres have the following characteristics: (B) white, oxidative, slow contracting.",20,30,40,10
+4,1,1,30-20-10-40,model_A,1,False,30,False,0,,D,1A,30,20,10,40
+5,1,1,30-10-20-40,model_A,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+The pain of oesophagitis is usually retrosternal in site.",30,20,40,10
+8,1,1,20-40-30-10,model_A,1,False,20,False,0,,B,1B,20,40,30,10
+9,1,1,30-20-40-10,model_A,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,20,40,10
+10,1,1,10-30-20-40,model_A,1,False,10,False,0,,D,"1C
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity. ThereforeThe correct answer isCIncreased sympathetic nerve activity.",10,30,20,40
+11,1,1,10-40-30-20,model_A,1,False,10,False,0,,D,2A,10,40,30,20
+12,1,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheprimarytranscriptsOfmanyGenesbeingsplicedInVariousWaysToProduceDifferentmRNAs.",20,30,10,40
+13,1,1,10-20-30-40,model_A,1,False,10,True,10,B,B,"1B
+
+The question asks ""What should be done after catheterization is carried out?"" The answer is B) The patient should be advised when to drink.",10,20,30,40
+14,1,1,40-20-30-10,model_A,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,model_A,1,False,20,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",20,40,10,30
+16,1,1,20-30-10-40,model_A,1,False,20,False,0,,D,1C,20,30,10,40
+17,1,1,10-20-40-30,model_A,1,False,10,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",10,20,40,30
+18,1,1,40-30-10-20,model_A,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthepatient'snotes.",30,20,10,40
+20,1,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated anteriorly.
+
+2D
+
+The correct answer is D. Dentures should be stored dry.
+
+3B
+
+The correct answer is B. High blood pressure, tachycardia.
+
+4D
+
+The correct answer is D. The root value of toe extension is L5.",20,10,40,30
+21,1,2,10-20-40-30,model_A,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+22,1,2,10-30-40-20,model_A,1,False,10,False,0,A,C,"2B
+
+Mr Wood has just returned from surgery and has severe internal bleeding. Which of the following observations would you NOT expect to find on undertaking post-operative observations?
+
+A) Hypotension
+B) Bradycardia
+C) Confusion
+D) Tachypnoea
+
+B) Bradycardia",10,30,40,20
+23,1,2,10-40-20-30,model_A,1,False,10,False,0,,B,2B,10,40,20,30
+24,1,2,20-30-40-10,model_A,1,False,20,False,0,,B,"1B
+
+Erythema referstoRednessoftheskinduetocongestionoftheCapillaries.",20,30,40,10
+25,1,2,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,model_A,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,model_A,1,False,20,True,20,A,A,"1B
+
+The term ""Pre-syncope"" refers to a feeling of impending fainting, which is another term for a blackout. Therefore, option B is correct.",20,30,10,40
+28,1,2,10-40-30-20,model_A,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3A
+
+4B",20,40,10,30
+30,1,2,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3D
+
+4C",20,10,30,40
+31,1,2,20-10-30-40,model_A,1,False,20,False,0,B,A,"1B
+
+The question asks Which of the following is true of blackouts and dizziness? The correct answer is B) Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,model_A,1,False,30,False,0,,B,"2D
+
+Clonus occurs with hypotonia, Clonus can only be demonstrated at the ankle, The root value of hip flexion is L2, L3, The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,model_A,1,False,30,False,0,,D,"2B
+
+Impulses from the retinal leave the eye via the optic radiation.",30,40,10,20
+34,1,2,30-20-40-10,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,20,40,10
+35,1,2,10-40-20-30,model_A,1,False,10,False,0,,B,2B,10,40,20,30
+36,1,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2C
+
+The radial nerve leads to wrist drop.",10,40,30,20
+37,1,2,40-10-30-20,model_A,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,model_A,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,model_A,1,False,40,False,0,,D,1D,40,30,20,10
+40,1,3,20-30-40-10,model_A,1,False,20,False,0,,D,2A,20,30,40,10
+41,1,3,10-30-40-20,model_A,1,False,10,False,0,,D,"2C
+
+The pain of oesophagitis is usually retrosternal in site.",10,30,40,20
+42,1,3,10-20-40-30,model_A,1,False,10,False,0,,B,"1A
+
+2C
+
+3D
+
+4B",10,20,40,30
+43,1,3,30-20-40-10,model_A,1,False,30,False,0,A,B,"1C
+
+A stamping gait is caused by bilateral foot drop, An antalgic gait is caused by a painful leg, A Waddling gait is sometimes called a Steppage Gait, An Apraxic Gait is due to Hysteria.",30,20,40,10
+44,1,3,20-40-10-30,model_A,2,False,40,False,0,,D,"2B
+
+The question 2 represents Cushing's response, which is characterized by high blood pressure and tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",10,20,30,40
+46,1,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheprimarytranscriptofmanygenesbeingsplicedinvariouswaystoproducedifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,model_A,1,False,30,False,0,A,C,"1A
+
+A long-term catheter can stay in situ for 12 weeks.",30,10,40,20
+48,1,3,20-40-30-10,model_A,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,model_A,1,False,30,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",30,40,20,10
+52,1,3,10-30-40-20,model_A,1,False,10,False,0,,C,"1C
+
+The pain of oesophagitis is usually retrosternal in site.",10,30,40,20
+53,1,3,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,model_A,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by Increased plasma ACTH.",40,20,10,30
+55,1,3,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,model_A,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",10,30,20,40
+57,1,3,40-20-10-30,model_A,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,model_A,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. Thisprocessinvolvestheexcisionofnoncodingsequencesfromtheprimarytranscriptandthejoiningtogetherofcodingsequencesindifferentways. ThisresultsintheproductionofdifferentmRNAmolecules,whichcanthenbetranslatedintodifferentproteins.",40,30,10,20
+60,1,4,40-10-20-30,model_A,1,False,40,False,0,,B,1B,40,10,20,30
+61,1,4,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthepatient'snotes.",10,20,40,30
+62,1,4,40-20-30-10,model_A,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,20,10,40
+64,1,4,10-40-20-30,model_A,1,False,10,True,10,D,D,"2D
+
+The question 2D asks ""Who set the world record for the mile race in 1886?"" The answer D)WGGeorge is correct. William George was the first person to run a mile under 4 minutes.",10,40,20,30
+65,1,4,30-20-10-40,model_A,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,model_A,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is correct because IV infusions are typically used for intravenous fluid administration, contrast media administration, blood product administration, etc., but not oral hydration.",20,40,30,10
+67,1,4,20-10-40-30,model_A,1,False,20,False,0,,B,3C,20,10,40,30
+68,1,4,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+Dentures should be stored dry.",20,10,40,30
+70,1,4,20-30-40-10,model_A,1,False,20,True,20,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",20,30,40,10
+71,1,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,model_A,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+The radial nerve palsy leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthepatient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,model_A,1,False,20,False,0,A,C,"2B
+
+The feature most suggestive of a myocardial infarction is sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,model_A,1,False,40,False,0,,D,1B,40,30,10,20
+77,1,5,40-30-20-10,model_A,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the lateral cord of the brachial plexus.",40,30,20,10
+78,1,5,10-20-30-40,model_A,1,False,10,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, contrast media, or medications directly into the bloodstream.Oral hydration involves consuming fluids orally, which is not typically done through intravenous infusions.",10,20,30,40
+79,1,5,40-10-30-20,model_A,1,False,40,True,40,D,D,"1D
+
+The question asks ""Who set the world record for the mile race in 1886?"" The answer D)WGGeorge is correct. William George was an Australian athlete who set the world record for the mile race in 1886.",40,10,30,20
+80,1,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,model_A,1,False,30,False,0,,D,"2B
+
+Erythema referstoRednessoftheskinduetocongestionoftheCapillaries.",30,40,20,10
+82,1,5,40-30-20-10,model_A,1,False,40,False,0,,B,"1D
+
+2C
+
+3D
+
+4C",40,30,20,10
+83,1,5,40-10-20-30,model_A,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+84,1,5,40-10-20-30,model_A,1,False,40,False,0,,D,1A,40,10,20,30
+85,1,5,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",30,40,20,10
+86,1,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",20,10,40,30
+87,1,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,10,20,40
+88,1,5,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+Answer: D
+
+The person who set the world record for the mile race in 1886 wasWG George.",20,10,30,40
+89,1,5,30-40-10-20,model_A,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",30,40,10,20
+90,1,5,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2D
+
+3B
+
+4B",40,20,10,30
+91,1,5,10-30-20-40,model_A,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthePatient'sNotes.",10,30,20,40
+92,1,5,30-40-10-20,model_A,1,False,30,False,0,,D,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",30,40,10,20
+93,1,5,10-40-20-30,model_A,1,False,10,False,0,,D,"2C
+
+An enlarged blind spot may occur because of papilloedema.",10,40,20,30
+94,1,5,40-10-30-20,model_A,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,model_A,1,False,10,False,0,A,C,"2B
+
+In a patient with chest pain, features such as Very severe pain, Sweating, Vomiting, Pain has lasted for over a week, Pain is sharp like a knife, are all suggestive of a myocardial infarction. However, the feature most suggestive of a myocardial infarction is Very severe pain.",10,40,30,20
+96,1,5,30-40-10-20,model_A,1,False,30,False,0,,D,"2D
+
+The root value of toe extension is L5.",30,40,10,20
+1,1,1,40-10-20-30,union_k27,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k27,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via IV lines inserted into veins, not orally.",30,10,40,20
+3,1,1,20-30-40-10,union_k27,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k27,1,False,30,False,0,,D,"1A
+
+The sacrum is palpated posteriorly, not anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k27,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k27,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k27,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k27,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k27,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (A) Hypotension, (C) Confusion, and (D) Tachypnoea (rapid breathing) are all consistent with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k27,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stress, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k27,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k27,1,False,20,False,0,A,C,"1C
+
+The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing. This allows different proteins to be produced from the same gene.",20,30,10,40
+13,1,1,10-20-30-40,union_k27,1,False,10,True,10,B,B,"1B
+
+The question asks ""What should be done after catheterization is carried out?"" The answer is B) The patient should be advised when to drink.",10,20,30,40
+14,1,1,40-20-30-10,union_k27,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k27,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k27,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k27,1,False,10,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via a vein, not orally.",10,20,40,30
+18,1,1,40-30-10-20,union_k27,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k27,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k27,1,False,20,False,0,,D,"3C
+
+Cushing's response represents Low blood pressure, bradycardia.",20,10,40,30
+21,1,2,10-20-40-30,union_k27,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k27,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are consistent with severe internal bleeding.",10,30,40,20
+23,1,2,10-40-20-30,union_k27,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pain of irritable bowel syndrome is usually well localised.",10,40,20,30
+24,1,2,20-30-40-10,union_k27,1,False,20,False,0,A,B,"2D
+
+Intravenous infusions are used to administer prescribed intravenous fluid, administer dyes or contrast media for radiographic examinations, administer prescribed blood products, but not To orally hydrate a patient.",20,30,40,10
+25,1,2,20-30-10-40,union_k27,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k27,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,union_k27,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k27,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k27,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k27,1,False,20,False,0,A,B,"1A
+
+The correct answer is A. A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k27,1,False,20,False,0,B,A,"1B
+
+The question asks Which of the following is true of blackouts and dizziness? The correct answer is B) Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k27,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k27,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k27,1,False,30,False,0,,D,3D,30,20,40,10
+35,1,2,10-40-20-30,union_k27,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k27,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k27,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k27,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,union_k27,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k27,2,False,30,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",20,30,40,10
+41,1,3,10-30-40-20,union_k27,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k27,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find on undertaking post-operative observations would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k27,1,False,30,False,0,A,B,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,20,40,10
+44,1,3,20-40-10-30,union_k27,1,False,20,False,0,,C,"2B
+
+The response represents Cushing's response, which is characterized by high blood pressure and tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k27,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k27,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsOfManyGenesCanspliceInVariousWaysToProduceDifferentmRNAsAProcessKnownAsAlternativeRNAsplicing.",30,10,20,40
+47,1,3,30-10-40-20,union_k27,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k27,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k27,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k27,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k27,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k27,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k27,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k27,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by Increased plasma ACTH.",40,20,10,30
+55,1,3,20-40-30-10,union_k27,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k27,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k27,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k27,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k27,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. Thisprocessinvolvestheexcisionofdifferentexonsfromtheprimarytranscriptandthejoiningtogetheroftheremainingexonsinvariousways. ThisresultsintheproductionofdifferentmRNAmolecules,whichcanthenbetranslatedintodifferentproteins.",40,30,10,20
+60,1,4,40-10-20-30,union_k27,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k27,3,False,40,False,0,B,D,"3
+
+Cushing's response represents (B) High blood pressure, tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k27,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k27,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, including hydration.
+
+2C
+
+The question asksWhich of thefollowingistrueaboutAbdominalPain?TheanswerCThepainofOesophagitis",30,20,10,40
+64,1,4,10-40-20-30,union_k27,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k27,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k27,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer is DTo orally hydrate a patient. Intravenous infusions are typically used for administering fluids directly into the bloodstream, not orally.",20,40,30,10
+67,1,4,20-10-40-30,union_k27,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing.TheprimarytranscriptsofmanygenescanbesplicedinvariouswaystoproducedifferentmRNAs.",20,10,40,30
+68,1,4,10-20-30-40,union_k27,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k27,3,False,40,True,40,B,B,"3
+
+Observation (B) Bradycardia would NOT be expected to find on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not associated with severe internal bleeding. Instead, Hypotension (A) would be expected as it refers to Low blood pressure, Tachycardia (C) refers toHigh blood pressure, Tachyc",20,10,40,30
+70,1,4,20-30-40-10,union_k27,3,False,40,False,0,A,C,"3
+
+The correct answer is (A) A lesion at the optic chiasma leads to a homonymous hemianopia.",20,30,40,10
+71,1,4,40-20-30-10,union_k27,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k27,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k27,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k27,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k27,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (B) Sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k27,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k27,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the posterior cord of the brachial plexus.
+
+2D
+
+The correct answer is D. The radial nerve can occur due to a superficial laceration over the wrist.
+
+3B
+
+The correct answer is B. The patient is allergic to latex.
+
+4B
+
+The correct answer is B. Bradycardia",40,30,20,10
+78,1,5,10-20-30-40,union_k27,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k27,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k27,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k27,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries",30,40,20,10
+82,1,5,40-30-20-10,union_k27,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,30,20,10
+83,1,5,40-10-20-30,union_k27,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10 g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k27,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated posteriorly, not anteriorly. The pubic bone is palpated anteriorly in both sexes. In the male, the testes cannot be appreciated anteriorly. The cervix cannot be felt anteriorly in the female.",40,10,20,30
+85,1,5,30-40-20-10,union_k27,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called **B**.",30,40,20,10
+86,1,5,20-10-40-30,union_k27,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,The patient shouldbeadvisedwhentodrink.",20,10,40,30
+87,1,5,30-10-20-40,union_k27,1,False,30,False,0,A,D,"1D
+
+Stridor is described as A high-pitched sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k27,1,False,20,False,0,,D,"1A
+
+The person who set the world record for the mile race in 1886 wasR Bannister.",20,10,30,40
+89,1,5,30-40-10-20,union_k27,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k27,1,False,40,False,0,A,B,"1A
+
+For patients with asthma, a peak flow reading should be taken daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k27,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k27,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",30,40,10,20
+93,1,5,10-40-20-30,union_k27,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k27,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k27,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",10,40,30,20
+96,1,5,30-40-10-20,union_k27,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20
+1,1,1,40-10-20-30,union_k30,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k30,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via IV lines inserted into veins, not orally.",30,10,40,20
+3,1,1,20-30-40-10,union_k30,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k30,1,False,30,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k30,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease except D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k30,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k30,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k30,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k30,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (A) Hypotension, (C) Confusion, and (D) Tachypnoea (rapid breathing) are all consistent with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k30,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stress, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k30,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k30,1,False,20,False,0,A,C,"1C
+
+The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing. This allows several different proteins to be produced from the same gene.",20,30,10,40
+13,1,1,10-20-30-40,union_k30,1,False,10,True,10,B,B,"1B
+
+The question asks ""What should be done after catheterization is carried out?"" The answer is B) The patient should be advised when to drink.",10,20,30,40
+14,1,1,40-20-30-10,union_k30,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k30,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k30,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k30,1,False,10,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer is DTo orally hydrate a patient.",10,20,40,30
+18,1,1,40-30-10-20,union_k30,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k30,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k30,1,False,20,False,0,,D,"3C
+
+Cushing's response represents High blood pressure, Bradycardia.",20,10,40,30
+21,1,2,10-20-40-30,union_k30,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k30,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not expected after surgery duetotheeffectsOfAnesthesiaandMedicationsOnHeartRate.TheotherObservationsA,HypotensionCConfusionDandTachypnoea(DeepBreathing)Are",10,30,40,20
+23,1,2,10-40-20-30,union_k30,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pain of irritable bowel syndrome is usually well localised.",10,40,20,30
+24,1,2,20-30-40-10,union_k30,1,False,20,False,0,A,B,"2D
+
+Intravenous infusions are used to administer prescribed intravenous fluid, administer dyes or contrast media for radiographic examinations, administer prescribed blood products, but not To orally hydrate a patient.",20,30,40,10
+25,1,2,20-30-10-40,union_k30,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k30,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,union_k30,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k30,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k30,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k30,1,False,20,False,0,A,B,"1A
+
+The correct answer is A. A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k30,1,False,20,False,0,B,A,"1B
+
+The question asks Which of the following is true of blackouts and dizziness? The correct answer is B) Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k30,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k30,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k30,1,False,30,False,0,,D,3D,30,20,40,10
+35,1,2,10-40-20-30,union_k30,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k30,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k30,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k30,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,union_k30,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k30,2,False,30,False,0,,A,"2
+
+Cardiac output is Stroke volume × heart rate.",20,30,40,10
+41,1,3,10-30-40-20,union_k30,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k30,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k30,1,False,30,False,0,A,B,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,20,40,10
+44,1,3,20-40-10-30,union_k30,1,False,20,False,0,,C,"2B
+
+The response represents Cushing's response, which is characterized by high blood pressure and tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k30,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k30,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheprimarytranscriptofmanygenesbeingsplicedinvariouswaystoproducedifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,union_k30,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k30,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k30,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k30,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k30,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k30,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k30,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k30,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,20,10,30
+55,1,3,20-40-30-10,union_k30,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k30,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k30,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k30,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k30,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheexcisionofdifferentexonsfromtheprimarytranscriptandthejoiningtogetheroftheremainingexonsintodifferentmRNAmolecules.Thisisachievedthroughtheuseofspliceosomes,whicharecomplexesofproteinsandRNAsthatrecognizeand切除",40,30,10,20
+60,1,4,40-10-20-30,union_k30,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k30,3,False,40,False,0,B,D,"3
+
+Cushing's response represents (B) High blood pressure, tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k30,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k30,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer is DTo orally hydrate a patient.",30,20,10,40
+64,1,4,10-40-20-30,union_k30,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k30,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k30,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer is DTo orally hydrate a patient. Intravenous infusions are typically used for administering fluids directly into the bloodstream, not orally.",20,40,30,10
+67,1,4,20-10-40-30,union_k30,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing.TheprimarytranscriptsofmanygenescanbesplicedinvariouswaystoproducedifferentmRNAs.",20,10,40,30
+68,1,4,10-20-30-40,union_k30,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k30,3,False,40,False,0,C,B,"3
+
+Observation (C) Confusion would NOT be expected to find on undertaking post-operative observations.",20,10,40,30
+70,1,4,20-30-40-10,union_k30,3,False,40,False,0,A,C,"3
+
+The correct answer is (A) A lesion at the optic chiasma leads to a homonymous hemianopia.",20,30,40,10
+71,1,4,40-20-30-10,union_k30,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k30,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k30,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k30,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k30,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (B) Sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k30,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k30,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the posterior cord of the brachial plexus.
+
+2D
+
+The correct answer is D. The radial nerve can occur due to a superficial laceration over the wrist.
+
+3B
+
+The correct answer is B. The patient is allergic to latex.
+
+4B
+
+The correct answer is B. Bradycardia",40,30,20,10
+78,1,5,10-20-30-40,union_k30,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k30,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k30,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k30,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries.",30,40,20,10
+82,1,5,40-30-20-10,union_k30,1,False,40,False,0,,B,"1D
+
+The silicone catheter might be chosen because Itis cheaper.",40,30,20,10
+83,1,5,40-10-20-30,union_k30,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10 g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k30,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated posteriorly, not anteriorly. The pubic bone is palpated anteriorly in both sexes. In the male, the testes cannot be appreciated anteriorly. The cervix cannot be felt anteriorly in the female.",40,10,20,30
+85,1,5,30-40-20-10,union_k30,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called **B**.",30,40,20,10
+86,1,5,20-10-40-30,union_k30,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,The patient shouldbeadvisedwhentodrink.",20,10,40,30
+87,1,5,30-10-20-40,union_k30,1,False,30,False,0,A,D,"1D
+
+Stridor is described as A high-pitched sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k30,3,False,30,False,0,,C,"3
+
+The radial nerve arises from the lateral cord of the brachial plexus.",20,10,30,40
+89,1,5,30-40-10-20,union_k30,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k30,1,False,40,False,0,A,B,"1A
+
+For patients with asthma, a peak flow reading should be taken daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k30,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k30,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",30,40,10,20
+93,1,5,10-40-20-30,union_k30,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k30,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k30,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",10,40,30,20
+96,1,5,30-40-10-20,union_k30,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20
+1,1,1,40-10-20-30,union_k35,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k35,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer isDTo orally hydrate a patient.",30,10,40,20
+3,1,1,20-30-40-10,union_k35,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k35,1,False,30,False,0,,D,"1A
+
+The sacrum is palpated posteriorly, not anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k35,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k35,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k35,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k35,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k35,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (A) Hypotension, (C) Confusion, and (D) Tachypnoea (rapid breathing) are all consistent with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k35,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stressor stimuli, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k35,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k35,1,False,20,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsOfManyGenesCanspliceInVariousWaysToProduceDifferentmRNAsAProcessKnownAsAlternativeRNAsplicing.",20,30,10,40
+13,1,1,10-20-30-40,union_k35,1,False,10,False,0,,B,"1B
+
+Erythema refers toRedness oftheSkinDueToCongestionOfTheCapillaries.",10,20,30,40
+14,1,1,40-20-30-10,union_k35,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k35,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k35,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k35,2,False,20,False,0,,D,"2
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity. ThereforeThe answer isD.",10,20,40,30
+18,1,1,40-30-10-20,union_k35,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k35,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k35,1,False,20,False,0,,D,"3C
+
+Cushing's response represents High blood pressure, Bradycardia.",20,10,40,30
+21,1,2,10-20-40-30,union_k35,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k35,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are consistent with severe internal bleeding.",10,30,40,20
+23,1,2,10-40-20-30,union_k35,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pain of irritable bowel syndrome is usually well localised.",10,40,20,30
+24,1,2,20-30-40-10,union_k35,1,False,20,False,0,A,B,"2D
+
+Intravenous infusions are used to administer prescribed intravenous fluid, administer dyes or contrast media for radiographic examinations, administer prescribed blood products, but not To orally hydrate a patient.",20,30,40,10
+25,1,2,20-30-10-40,union_k35,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k35,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find on undertaking post-operative observations would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with internal bleeding.",10,30,40,20
+27,1,2,20-30-10-40,union_k35,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k35,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k35,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k35,1,False,20,False,0,A,B,"1A
+
+The correct answer is A. A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k35,1,False,20,False,0,B,A,"1B
+
+The question asks Which of the following is true? The answer is B. Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k35,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k35,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k35,1,False,30,False,0,,D,3D,30,20,40,10
+35,1,2,10-40-20-30,union_k35,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k35,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k35,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k35,2,False,30,False,0,A,B,"2
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",10,30,20,40
+39,1,3,40-30-20-10,union_k35,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k35,2,False,30,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",20,30,40,10
+41,1,3,10-30-40-20,union_k35,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k35,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find on undertaking post-operative observations would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k35,1,False,30,False,0,A,B,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,20,40,10
+44,1,3,20-40-10-30,union_k35,1,False,20,False,0,,C,"2B
+
+Cushing's response represents High blood pressure, tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k35,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k35,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaysToproduceDifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,union_k35,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k35,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k35,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k35,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k35,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k35,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k35,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k35,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,20,10,30
+55,1,3,20-40-30-10,union_k35,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k35,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k35,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k35,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k35,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. Thisprocessinvolvestheexcisionofnoncodingsequencesfromtheprimarytranscriptandthejoiningtogetherofcodingsequencesindifferentways. ThisresultsintheproductionofdifferentmRNAmolecules,whichcanthenbetranslatedintodifferentproteins.",40,30,10,20
+60,1,4,40-10-20-30,union_k35,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres arewhite, oxidative,slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k35,3,False,40,False,0,B,D,"3
+
+Cushing's response represents (B) High blood pressure, tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k35,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k35,1,False,30,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, medications, or contrast media.",30,20,10,40
+64,1,4,10-40-20-30,union_k35,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k35,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheankle.
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheankle.
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k35,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer is DTo orally hydrate a patient. Intravenous infusions are typically used for administering fluids directly into the bloodstream, not orally.",20,40,30,10
+67,1,4,20-10-40-30,union_k35,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing.TheprimarytranscriptsofmanygenescanbesplicedinvariouswaystoproducedifferentmRNAs.",20,10,40,30
+68,1,4,10-20-30-40,union_k35,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k35,3,False,40,True,40,B,B,"3
+
+Observation (B) Bradycardia would NOT be expected to find on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not associated with severe internal bleeding. Instead, Hypotension (A) would be expected as it refers to Low blood pressure, Tachycardia (C) refers toHigh blood pressure, Tachyc",20,10,40,30
+70,1,4,20-30-40-10,union_k35,3,False,40,False,0,A,C,"3
+
+The correct answer is (A) A lesion at the optic chiasma leads to a homonymous hemianopia.",20,30,40,10
+71,1,4,40-20-30-10,union_k35,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k35,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k35,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k35,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k35,1,False,20,False,0,A,C,"2B
+
+The feature most suggestive of a myocardial infarction is sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k35,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k35,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the posterior cord of the brachial plexus.
+
+2D
+
+The correct answer is D. The radial nerve can occur due to a superficial laceration over the wrist.
+
+3B
+
+The correct answer is B. The patient is allergic to latex.
+
+4B
+
+The correct answer is B. Bradycardia",40,30,20,10
+78,1,5,10-20-30-40,union_k35,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k35,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k35,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k35,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries.",30,40,20,10
+82,1,5,40-30-20-10,union_k35,1,False,40,False,0,,B,"1B
+
+The silicone catheter might be chosen because the patient is allergic to latex.",40,30,20,10
+83,1,5,40-10-20-30,union_k35,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10 g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k35,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated posteriorly, not anteriorly. The pubic bone is palpated anteriorly in both sexes. In the male, the testes cannot be appreciated anteriorly. The cervix cannot be felt anteriorly in the female.",40,10,20,30
+85,1,5,30-40-20-10,union_k35,1,False,30,False,0,A,B,"1A
+
+The observation NOT expected to find would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",30,40,20,10
+86,1,5,20-10-40-30,union_k35,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,The patient shouldbeadvisedwhentodrink.",20,10,40,30
+87,1,5,30-10-20-40,union_k35,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k35,1,False,20,False,0,,D,"1A
+
+The person who set the world record for the mile race in 1886 wasR Bannister.",20,10,30,40
+89,1,5,30-40-10-20,union_k35,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k35,1,False,40,False,0,A,B,"1A
+
+For patients with asthma, a peak flow reading should be taken daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k35,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k35,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",30,40,10,20
+93,1,5,10-40-20-30,union_k35,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k35,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k35,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",10,40,30,20
+96,1,5,30-40-10-20,union_k35,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20
+1,1,1,40-10-20-30,union_k40,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k40,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via a vein, not orally.",30,10,40,20
+3,1,1,20-30-40-10,union_k40,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k40,1,False,30,False,0,,D,"1A
+
+The sacrum is palpated posteriorly, not anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k40,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k40,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k40,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k40,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k40,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (A) Hypotension, (C) Confusion, and (D) Tachypnoea (rapid breathing) are all consistent with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k40,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stress, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k40,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k40,1,False,20,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsOfManyGenesCanspliceInVariousWaysToProduceDifferentmRNAsAProcessKnownAsAlternativeRNAsplicing.",20,30,10,40
+13,1,1,10-20-30-40,union_k40,1,False,10,False,0,,B,"1B
+
+Erythema refers toRedness oftheSkinDueToCongestionOfTheCapillaries.",10,20,30,40
+14,1,1,40-20-30-10,union_k40,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is (A) Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k40,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k40,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k40,2,False,20,False,0,,D,"2
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity. ThereforeThe answer isD.",10,20,40,30
+18,1,1,40-30-10-20,union_k40,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k40,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k40,1,False,20,False,0,,D,"3C
+
+Cushing's response represents Low blood pressure, bradycardia.",20,10,40,30
+21,1,2,10-20-40-30,union_k40,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k40,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia is typically associated with hypovolemia, hypoxia, or hypothermia, which are common complications following surgery. Hypotension (A), Confusion (C), and Tachypnoea (D) are all observations that could be expected following surgery",10,30,40,20
+23,1,2,10-40-20-30,union_k40,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pain of irritable bowel syndrome is usually well localised.",10,40,20,30
+24,1,2,20-30-40-10,union_k40,1,False,20,False,0,A,B,"2D
+
+Intravenous infusions are used to administer prescribed intravenous fluid, administer dyes or contrast media for radiographic examinations, administer prescribed blood products, but not To orally hydrate a patient.",20,30,40,10
+25,1,2,20-30-10-40,union_k40,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k40,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,union_k40,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k40,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k40,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k40,1,False,20,False,0,A,B,"1A
+
+A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k40,1,False,20,False,0,B,A,"1B
+
+The correct answer is B. Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k40,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k40,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k40,1,False,30,False,0,,D,3D,30,20,40,10
+35,1,2,10-40-20-30,union_k40,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k40,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k40,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k40,2,False,30,False,0,A,B,"2
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",10,30,20,40
+39,1,3,40-30-20-10,union_k40,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k40,2,False,30,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",20,30,40,10
+41,1,3,10-30-40-20,union_k40,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k40,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k40,1,False,30,False,0,A,B,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,20,40,10
+44,1,3,20-40-10-30,union_k40,1,False,20,False,0,,C,"2B
+
+Cushing's response represents High blood pressure, tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k40,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k40,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaysToproduceDifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,union_k40,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k40,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k40,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k40,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k40,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k40,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k40,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k40,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,20,10,30
+55,1,3,20-40-30-10,union_k40,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k40,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k40,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k40,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k40,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheexcisionofdifferentexonsfromtheprimarytranscriptandthejoiningtogetheroftheremainingexonsintodifferentmRNAmolecules.ThisisachievedbytheactionofRNAsplicingenzymesandcanresultintheproductionofdifferentproteinsfromthesame",40,30,10,20
+60,1,4,40-10-20-30,union_k40,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k40,3,False,40,False,0,B,D,"3
+
+The correct answer is (B) High blood pressure, tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k40,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k40,1,False,30,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, medications, or contrast media.",30,20,10,40
+64,1,4,10-40-20-30,union_k40,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k40,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k40,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer is DTo orally hydrate a patient. Intravenous infusions are typically used for administering fluids directly into the bloodstream, not orally.",20,40,30,10
+67,1,4,20-10-40-30,union_k40,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing.",20,10,40,30
+68,1,4,10-20-30-40,union_k40,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k40,3,False,40,True,40,B,B,"3
+
+Observation (B) Bradycardia would NOT be expected to find on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not associated with severe internal bleeding. Instead, Hypotension (A) would be expected as it refers to Low blood pressure, Tachycardia (C) refers toHigh blood pressure, Tachyc",20,10,40,30
+70,1,4,20-30-40-10,union_k40,3,False,40,False,0,A,C,"3
+
+The correct answer is (A) A lesion at the optic chiasma leads to a homonymous hemianopia.",20,30,40,10
+71,1,4,40-20-30-10,union_k40,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k40,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k40,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k40,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k40,2,False,40,False,0,A,B,"2
+
+The feature most suggestive of a myocardial infarction is (B) Sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k40,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k40,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the posterior cord of the brachial plexus, not the lateral cord. It leads to sensory loss over the lateral half of the hand, not the medial half. It leads to weakness in extension of the fingers, not wrist drop. It can occur due to a superficial laceration over the wrist.",40,30,20,10
+78,1,5,10-20-30-40,union_k40,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k40,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k40,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k40,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries",30,40,20,10
+82,1,5,40-30-20-10,union_k40,1,False,40,False,0,,B,"1D
+
+The silicone catheter might be chosen because Itis cheaper.",40,30,20,10
+83,1,5,40-10-20-30,union_k40,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10 g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k40,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated posteriorly, not anteriorly. The pubic bone is palpated anteriorly in both sexes. In the male, the testes cannot be appreciated anteriorly. The cervix cannot be felt anteriorly in the female.",40,10,20,30
+85,1,5,30-40-20-10,union_k40,1,False,30,False,0,A,B,"1A
+
+The observation NOT expected to find on undertaking post-operative observations would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with internal bleeding.",30,40,20,10
+86,1,5,20-10-40-30,union_k40,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",20,10,40,30
+87,1,5,30-10-20-40,union_k40,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k40,1,False,20,False,0,,D,"3C
+
+The radial nerve leads to wrist drop.",20,10,30,40
+89,1,5,30-40-10-20,union_k40,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k40,1,False,40,False,0,A,B,"1A
+
+The question 1A asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A)Daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k40,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k40,1,False,30,False,0,,D,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",30,40,10,20
+93,1,5,10-40-20-30,union_k40,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k40,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k40,1,False,10,False,0,A,C,"2B
+
+In a patient with chest pain, features suggestive of a myocardial infarction include Very severe pain, Sweating, and Vomiting.",10,40,30,20
+96,1,5,30-40-10-20,union_k40,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20
+1,1,1,40-10-20-30,union_k45,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k45,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer isDTo orally hydrate a patient.",30,10,40,20
+3,1,1,20-30-40-10,union_k45,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k45,1,False,30,False,0,,D,"1A
+
+The sacrum is palpated posteriorly, not anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k45,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k45,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k45,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k45,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k45,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (A) Hypotension, (C) Confusion, and (D) Tachypnoea (rapid breathing) are all consistent with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k45,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stressor stimuli, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k45,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k45,1,False,20,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs.",20,30,10,40
+13,1,1,10-20-30-40,union_k45,1,False,10,False,0,,B,"1B
+
+Erythema refers toRedness oftheSkinDueToCongestionOfTheCapillaries.",10,20,30,40
+14,1,1,40-20-30-10,union_k45,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k45,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k45,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k45,2,False,20,False,0,,D,"2
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity. ThereforeThe answer isD.",10,20,40,30
+18,1,1,40-30-10-20,union_k45,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k45,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k45,1,False,20,False,0,,D,"3C
+
+Cushing's response represents Low blood pressure, bradycardia.",20,10,40,30
+21,1,2,10-20-40-30,union_k45,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k45,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia is typically associated with hypovolemia, hypoxia, or hypothermia, none of which are typically associated with postoperative observations. The other observations listed (Hypotension, Confusion, Tachypnoea) are all consistent with postoperative",10,30,40,20
+23,1,2,10-40-20-30,union_k45,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pain of irritable bowel syndrome is usually well localised.",10,40,20,30
+24,1,2,20-30-40-10,union_k45,1,False,20,False,0,A,B,"2D
+
+Intravenous infusions are used to administer prescribed intravenous fluid, administer dyes or contrast media for radiographic examinations, administer prescribed blood products, but not To orally hydrate a patient.",20,30,40,10
+25,1,2,20-30-10-40,union_k45,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k45,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,union_k45,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k45,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k45,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k45,1,False,20,False,0,,B,"1A
+
+2A
+
+3D
+
+4C",20,10,30,40
+31,1,2,20-10-30-40,union_k45,1,False,20,False,0,B,A,"1B
+
+The correct answer is B. Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k45,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k45,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k45,1,False,30,False,0,,D,3D,30,20,40,10
+35,1,2,10-40-20-30,union_k45,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k45,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k45,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k45,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,union_k45,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k45,2,False,30,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",20,30,40,10
+41,1,3,10-30-40-20,union_k45,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k45,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k45,1,False,30,False,0,A,B,"1C
+
+A stamping gait is caused by bilateral foot drop, An antalgic gait is caused by a painful leg, A waddling gait is sometimes called a Steppage Gait, An Apraxic Gait is due to Hysteria.",30,20,40,10
+44,1,3,20-40-10-30,union_k45,1,False,20,False,0,,C,"2B
+
+The response represents Cushing's response, which is characterized by high blood pressure and tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k45,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k45,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaysToproduceDifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,union_k45,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k45,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k45,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, not orally. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k45,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k45,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k45,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k45,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k45,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by Increased plasma ACTH.",40,20,10,30
+55,1,3,20-40-30-10,union_k45,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k45,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k45,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k45,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k45,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from thesamegenebyalternativeRNAsplicing. ThisprocessinvolvestheexcisionofdifferentexonsfromtheprimarytranscriptandthejoiningtogetheroftheremainingexonsintodifferentmRNAmolecules.ThisisachievedbytheactionofRNAsplicingenzymesandcanresultintheproductionofdifferentproteinsfromthesame",40,30,10,20
+60,1,4,40-10-20-30,union_k45,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k45,3,False,40,False,0,B,D,"3
+
+Cushing's response represents (B) High blood pressure, tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k45,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k45,1,False,30,True,30,D,D,"1D
+
+The correct answer is D. To orally hydrate a patient. Intravenous infusions are typically administered via a needle inserted into a vein, not orally.",30,20,10,40
+64,1,4,10-40-20-30,union_k45,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k45,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheankle.
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheankle.
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k45,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because IV fluids can be used to orally hydrate patients. The correct answer isDTo orally hydrate a patient.",20,40,30,10
+67,1,4,20-10-40-30,union_k45,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing.TheprimarytranscriptsofmanygenescanbesplicedinvariouswaystoproducedifferentmRNAs.",20,10,40,30
+68,1,4,10-20-30-40,union_k45,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k45,3,False,40,True,40,B,B,"3
+
+Observation (B) Bradycardia would NOT be expected to find on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not associated with severe internal bleeding. Instead, Hypotension (A) would be expected as it refers to Low blood pressure, Tachycardia (C) refers toHigh blood pressure, Tachyc",20,10,40,30
+70,1,4,20-30-40-10,union_k45,3,False,40,False,0,A,C,"3
+
+The correct answer is (A) A lesion at the optic chiasma leads to a homonymous hemianopia.",20,30,40,10
+71,1,4,40-20-30-10,union_k45,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k45,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k45,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k45,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k45,1,False,20,False,0,A,C,"2B
+
+The feature most suggestive of a myocardial infarction is sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k45,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k45,1,False,40,True,40,C,C,"1C
+
+The correct answer is C. The radial nerve arises from the posterior cord of the brachial plexus, not the lateral cord. It is associated with motor loss to the extensor digitorum communis, extensor digiti minimi, extensor carpi radialis longus, extensor carpi radialis brevis, brachioradialis, Ancone",40,30,20,10
+78,1,5,10-20-30-40,union_k45,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k45,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k45,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k45,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries.",30,40,20,10
+82,1,5,40-30-20-10,union_k45,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,30,20,10
+83,1,5,40-10-20-30,union_k45,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k45,1,False,40,False,0,,D,"1A
+
+The sacrum is palpated posteriorly, not anteriorly. The pubic bone is palpated anteriorly in both sexes. In the male, the testes cannot be appreciated anteriorly. The cervix cannot be felt anteriorly in the female.",40,10,20,30
+85,1,5,30-40-20-10,union_k45,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called **B**.",30,40,20,10
+86,1,5,20-10-40-30,union_k45,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",20,10,40,30
+87,1,5,30-10-20-40,union_k45,1,False,30,False,0,A,D,"1D
+
+Stridor is described as A high-pitched sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k45,1,False,20,False,0,,D,"1A
+
+The person who set the world record for the mile race in 1886 wasR Bannister.",20,10,30,40
+89,1,5,30-40-10-20,union_k45,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k45,1,False,40,False,0,A,B,"1A
+
+The question 1A asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer A is ""Daily."" This question offers the highest reward (40 points) and provides the best use of effort.",40,20,10,30
+91,1,5,10-30-20-40,union_k45,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k45,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) The pubic bone is palpated anteriorly in both sexes.",30,40,10,20
+93,1,5,10-40-20-30,union_k45,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k45,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k45,1,False,10,False,0,A,C,"2B
+
+In a patient with chest pain, features suggestive of a myocardial infarction include Very severe pain, Sweating, and Vomiting. Pain lasting over a week or PainsharplikeaknifeisnotusuallysuggestionsofaMyocardialInfarction.",10,40,30,20
+96,1,5,30-40-10-20,union_k45,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20
+1,1,1,40-10-20-30,union_k50,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k50,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via a vein, not orally.",30,10,40,20
+3,1,1,20-30-40-10,union_k50,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k50,1,False,30,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated anteriorly.",30,20,10,40
+5,1,1,30-10-20-40,union_k50,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k50,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k50,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k50,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k50,3,False,40,True,40,B,B,"3
+
+I would NOT expect to find Bradycardia (B) on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. Hypotension (A), Confusion (C), and Tachypnoea (D) are all common observations associated with severe internal bleeding.",30,20,40,10
+10,1,1,10-30-20-40,union_k50,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stressor stimuli, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k50,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k50,1,False,20,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs.",20,30,10,40
+13,1,1,10-20-30-40,union_k50,1,False,10,False,0,,B,"1B
+
+Erythema refers toRedness oftheSkinDueToCongestionOfTheCapillaries.",10,20,30,40
+14,1,1,40-20-30-10,union_k50,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k50,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k50,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k50,1,False,10,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered directly into a vein, not orally.",10,20,40,30
+18,1,1,40-30-10-20,union_k50,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k50,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,ThepatientshouldbedocumentedinthePatient'sNotes.",30,20,10,40
+20,1,2,20-10-40-30,union_k50,1,False,20,False,0,A,D,"3C
+
+Cushing's response refers to a set of physiological responses to stressors such as infection, injury, or surgery. These responses include increased blood pressure, tachycardia (an increase in heart rate), and sometimes bradycardia (a decrease in heart rate). Therefore, option C (Low blood pressure, bradycardia) is incorrect.",20,10,40,30
+21,1,2,10-20-40-30,union_k50,2,False,20,False,0,A,B,"2
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k50,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not expected postoperatively duetotheeffectsOfAnesthesiaandMedicationsOnHeartRate.",10,30,40,20
+23,1,2,10-40-20-30,union_k50,1,False,10,False,0,,B,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",10,40,20,30
+24,1,2,20-30-40-10,union_k50,1,False,20,False,0,,B,"1B
+
+Erythema referstoRednessoftheskinduetocongestionoftheCapillaries.",20,30,40,10
+25,1,2,20-30-10-40,union_k50,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k50,1,False,10,False,0,,B,"1A
+
+2B
+
+3D
+
+4B",10,30,40,20
+27,1,2,20-30-10-40,union_k50,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k50,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k50,1,False,20,False,0,A,C,"2D
+
+Stridor is described as A high-pitched sound.",20,40,10,30
+30,1,2,20-10-30-40,union_k50,1,False,20,False,0,A,B,"1A
+
+A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k50,1,False,20,False,0,B,A,"1B
+
+The correct answer is B. Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k50,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k50,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k50,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids intravenously, including hydration.
+
+2B
+
+The question asksWhichofthefollowingrepresentsCushing'sresponse?TheanswerBHighbloodpressure,Tachycardia.ist",30,20,40,10
+35,1,2,10-40-20-30,union_k50,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The cervix can sometimes be felt anteriorly in the female.",10,40,20,30
+36,1,2,10-40-30-20,union_k50,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k50,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k50,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,union_k50,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k50,2,False,30,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",20,30,40,10
+41,1,3,10-30-40-20,union_k50,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k50,1,False,10,False,0,,B,"1A
+
+2C
+
+3D
+
+4B",10,20,40,30
+43,1,3,30-20-40-10,union_k50,1,False,30,False,0,A,B,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,20,40,10
+44,1,3,20-40-10-30,union_k50,1,False,20,False,0,,C,"2B
+
+Cushing's response represents High blood pressure, tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k50,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k50,1,False,30,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs.",30,10,20,40
+47,1,3,30-10-40-20,union_k50,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k50,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k50,1,False,30,False,0,,D,"1D
+
+Intravenous infusions are typically used for administering prescribed intravenous fluids, dyes or contrast media for radiographic examinations, and prescribed blood products. However, intravenous infusions are not typically used forOralHydration.",30,10,20,40
+50,1,3,40-30-10-20,union_k50,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k50,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k50,1,False,10,False,0,,C,"2D
+
+Dentures should be stored dry.",10,30,40,20
+53,1,3,20-10-30-40,union_k50,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k50,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by Increased plasma ACTH.",40,20,10,30
+55,1,3,20-40-30-10,union_k50,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k50,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted into Urea and Released from Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k50,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k50,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k50,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs.",40,30,10,20
+60,1,4,40-10-20-30,union_k50,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k50,1,False,10,False,0,,C,"3B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",10,20,40,30
+62,1,4,40-20-30-10,union_k50,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k50,1,False,30,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, medications, or contrast media.",30,20,10,40
+64,1,4,10-40-20-30,union_k50,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k50,1,False,30,True,30,B,B,"1B
+
+The question asks ""What is erythema?"" The correct answer is (B) Redness of the skin due to congestion of the capillaries.",30,20,10,40
+66,1,4,20-40-30-10,union_k50,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because IV fluids can be used to orally hydrate a patient. The correct answer isDTo orally hydrate a patient.",20,40,30,10
+67,1,4,20-10-40-30,union_k50,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing.TheprimarytranscriptsofmanygenescanbesplicedinvariouswaystoproducedifferentmRNAs.",20,10,40,30
+68,1,4,10-20-30-40,union_k50,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k50,3,False,40,True,40,B,B,"3
+
+Observation (B) Bradycardia would NOT be expected to find on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not associated with severe internal bleeding. Instead, Hypotension (A) would be expected as it refers to Low blood pressure, Tachycardia (C) refers toHigh blood pressure, Tachyc",20,10,40,30
+70,1,4,20-30-40-10,union_k50,1,False,20,False,0,,D,"3C
+
+An enlarged blind spot may occur because of papilloedema.",20,30,40,10
+71,1,4,40-20-30-10,union_k50,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k50,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k50,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k50,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k50,1,False,20,False,0,A,C,"2B
+
+The feature most suggestive of a myocardial infarction is sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k50,1,False,40,False,0,,D,"1B
+
+The pubic bone is palpated anteriorly in both sexes.",40,30,10,20
+77,1,5,40-30-20-10,union_k50,1,False,40,False,0,,C,"1C
+
+The correct answer is 1C. The hip joint allows for 6 movements: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,20,10
+78,1,5,10-20-30-40,union_k50,2,False,20,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,20,30,40
+79,1,5,40-10-30-20,union_k50,1,False,40,False,0,,D,"3C
+
+Several different proteins can be produced from thesamegenebytheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs,aprocessknownasalternativeRNAsplicing.",40,10,30,20
+80,1,5,30-10-40-20,union_k50,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k50,1,False,30,False,0,,D,"2B
+
+Erythema isRedness oftheSkinDueToCongestionOfTheCapillaries",30,40,20,10
+82,1,5,40-30-20-10,union_k50,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,30,20,10
+83,1,5,40-10-20-30,union_k50,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10 g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k50,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The sacrum is palpated anteriorly.",40,10,20,30
+85,1,5,30-40-20-10,union_k50,1,False,30,False,0,A,B,"1A
+
+The observation NOT expected to find on undertaking post-operative observations would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with internal bleeding.",30,40,20,10
+86,1,5,20-10-40-30,union_k50,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",20,10,40,30
+87,1,5,30-10-20-40,union_k50,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k50,1,False,20,False,0,,D,"1D
+
+The person who set the world record for the mile race in 1886 wasWG George.",20,10,30,40
+89,1,5,30-40-10-20,union_k50,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k50,1,False,40,False,0,A,B,"1A
+
+For patients with asthma, a peak flow reading should be taken daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k50,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedOut, ThePatientShouldBeDocumentedInThePatient'sNotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k50,1,False,30,False,0,,D,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",30,40,10,20
+93,1,5,10-40-20-30,union_k50,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k50,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k50,1,False,10,False,0,A,C,"2B
+
+In a patient with chest pain, features suggestive of a myocardial infarction include Very severe pain, Sweating, and Vomiting.",10,40,30,20
+96,1,5,30-40-10-20,union_k50,1,False,30,False,0,,D,"2D
+
+The root value of toe extension is L5.",30,40,10,20
+1,1,1,40-10-20-30,union_k54,1,False,40,False,0,,B,"1B
+
+The silicone catheter is chosen because patients may be allergic to latex.",40,10,20,30
+2,1,1,30-10-40-20,union_k54,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via a vein, not orally.",30,10,40,20
+3,1,1,20-30-40-10,union_k54,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",20,30,40,10
+4,1,1,30-20-10-40,union_k54,1,False,30,False,0,,D,1A,30,20,10,40
+5,1,1,30-10-20-40,union_k54,1,False,30,True,30,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",30,10,20,40
+6,1,1,40-30-20-10,union_k54,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+7,1,1,30-20-40-10,union_k54,3,False,40,False,0,,D,"3
+
+The root value of hip flexion is L2, L3.",30,20,40,10
+8,1,1,20-40-30-10,union_k54,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",20,40,30,10
+9,1,1,30-20-40-10,union_k54,1,False,30,False,0,A,D,"1A
+
+Stridor is described as A wheezing sound.",30,20,40,10
+10,1,1,10-30-20-40,union_k54,1,False,10,False,0,B,D,"1B
+
+The correct answer is (B) High blood pressure, tachycardia. Cushing's response refers to the body's response to stressor stimuli, which includes increased blood pressure and heart rate.",10,30,20,40
+11,1,1,10-40-30-20,union_k54,2,False,40,False,0,,A,"2
+
+Cardiac output = Stroke volume × Heart rate",10,40,30,20
+12,1,1,20-30-10-40,union_k54,1,False,20,False,0,A,C,"1C
+
+The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing. This allows different proteins to be produced from the same gene.",20,30,10,40
+13,1,1,10-20-30-40,union_k54,1,False,10,False,0,,B,"1B
+
+Erythema refers toRedness oftheSkinDueToCongestionOfTheCapillaries.",10,20,30,40
+14,1,1,40-20-30-10,union_k54,1,False,40,False,0,A,B,"1A
+
+The feature most suggestive of a myocardial infarction is Very severe pain.",40,20,30,10
+15,1,1,20-40-10-30,union_k54,2,False,40,False,0,,C,"2
+
+The number of 'true' movements available at the hip is 6.",20,40,10,30
+16,1,1,20-30-10-40,union_k54,1,False,20,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",20,30,10,40
+17,1,1,10-20-40-30,union_k54,1,False,10,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The correct answer is DTo orally hydrate a patient. Intravenous infusions are typically administered via IV lines inserted into a vein, not orally.",10,20,40,30
+18,1,1,40-30-10-20,union_k54,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,30,10,20
+19,1,1,30-20-10-40,union_k54,1,False,30,False,0,,C,"1C
+
+After catheterization is carriedout,DocumentingtheCatheterizationinthePatient'sNotesisTheMostImportantActionToTake.",30,20,10,40
+20,1,2,20-10-40-30,union_k54,1,False,20,False,0,A,D,"3C
+
+Cushing's response refers to a set of physiological responses to stressors such as infection, injury, or surgery. These responses include increased blood pressure, tachycardia (an increase in heart rate), and sometimes bradycardia (a decrease in heart rate). Therefore, option C (Low blood pressure, bradycardia) is incorrect.",20,10,40,30
+21,1,2,10-20-40-30,union_k54,2,False,20,False,0,A,B,"2
+
+A
+
+The question asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A) Daily.",10,20,40,30
+22,1,2,10-30-40-20,union_k54,2,False,30,True,30,B,B,"2
+
+I would NOT expect Bradycardia (B) as an observation on undertaking post-operative observations. Bradycardia refers to a slow heart rate, which is typically not expected postoperatively duetotheeffectsOfAnesthesiaandMedicationsOnHeartRate.",10,30,40,20
+23,1,2,10-40-20-30,union_k54,1,False,10,False,0,,B,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",10,40,20,30
+24,1,2,20-30-40-10,union_k54,1,False,20,False,0,,B,"1B
+
+Erythema referstoRednessoftheskinduetocongestionoftheCapillaries.",20,30,40,10
+25,1,2,20-30-10-40,union_k54,1,False,20,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",20,30,10,40
+26,1,2,10-30-40-20,union_k54,1,False,10,False,0,A,B,"1D
+
+Hypotension, Bradycardia, Confusion, Tachypnoea
+
+2B
+
+Because the patient is allergic to latex
+
+3D
+
+It can occur due to a superficial laceration over the wrist
+
+4B
+
+White, oxidative, slow contracting",10,30,40,20
+27,1,2,20-30-10-40,union_k54,2,False,30,True,30,D,D,"2
+
+The features of Alzheimer's disease except D) Drowsiness.",20,30,10,40
+28,1,2,10-40-30-20,union_k54,1,False,10,False,0,,D,"2B
+
+The coding sequences of genes are called exons.",10,40,30,20
+29,1,2,20-40-10-30,union_k54,1,False,20,False,0,,C,"1A
+
+2D
+
+3A
+
+4B",20,40,10,30
+30,1,2,20-10-30-40,union_k54,1,False,20,False,0,A,B,"1A
+
+A stamping gait is caused by bilateral foot drop.",20,10,30,40
+31,1,2,20-10-30-40,union_k54,1,False,20,False,0,B,A,"1B
+
+The correct answer is B. Pre-syncope is another term for a blackout.",20,10,30,40
+32,1,2,30-40-20-10,union_k54,2,False,40,True,40,D,D,"2
+
+The correct answer is (D) The root value of toe extension is L5.",30,40,20,10
+33,1,2,30-40-10-20,union_k54,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",30,40,10,20
+34,1,2,30-20-40-10,union_k54,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are used to administer fluids directly into the bloodstream, including oral hydration.
+
+2B
+
+The question asksWhichofthefollowingrepresentsCushing'sresponse?TheanswerBHighbloodpressure,Tachycardia",30,20,40,10
+35,1,2,10-40-20-30,union_k54,1,False,10,True,10,B,B,"2B
+
+The correct answer is B. The pubic bone is palpated anteriorly in both sexes during a rectal examination.",10,40,20,30
+36,1,2,10-40-30-20,union_k54,2,False,40,False,0,,C,"2
+
+The radial nerve arises from the lateral cord of the brachial plexus.",10,40,30,20
+37,1,2,40-10-30-20,union_k54,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,10,30,20
+38,1,2,10-30-20-40,union_k54,1,False,10,True,10,D,D,"1A
+
+The features of Alzheimer's disease except D) drowsiness.",10,30,20,40
+39,1,3,40-30-20-10,union_k54,1,False,40,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",40,30,20,10
+40,1,3,20-30-40-10,union_k54,1,False,20,False,0,,D,"2A
+
+Cardiac output is Stroke volume × heart rate.",20,30,40,10
+41,1,3,10-30-40-20,union_k54,2,False,30,False,0,,C,"2
+
+The pain of irritable bowel syndrome is usually well localised.",10,30,40,20
+42,1,3,10-20-40-30,union_k54,1,False,10,False,0,A,B,"1A
+
+The observation NOT expected to find would be Bradycardia. Bradycardia refers to a slow heart rate, which is not typically associated with severe internal bleeding. The other observations listed (Hypotension, Confusion, Tachypnoea) are commonly associated with severe internal bleeding.",10,20,40,30
+43,1,3,30-20-40-10,union_k54,1,False,30,False,0,A,B,"1C
+
+A stamping gait is caused by bilateral foot drop, An antalgic gait is caused by a painful leg, A waddling gait is sometimes called a Steppage Gait, An Apraxic Gait is due to Hysteria.",30,20,40,10
+44,1,3,20-40-10-30,union_k54,1,False,20,False,0,,C,"2B
+
+The response represents Cushing's response, which is characterized by high blood pressure and tachycardia.",20,40,10,30
+45,1,3,10-20-30-40,union_k54,1,False,10,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,20,30,40
+46,1,3,30-10-20-40,union_k54,1,False,30,False,0,A,C,"1C
+
+The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing. This allows different proteins to be produced from the same gene.",30,10,20,40
+47,1,3,30-10-40-20,union_k54,1,False,30,False,0,A,C,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+48,1,3,20-40-30-10,union_k54,1,False,20,False,0,,A,"2B
+
+Cushing's response is characterized by high blood pressure and tachycardia.",20,40,30,10
+49,1,3,30-10-20-40,union_k54,1,False,30,False,0,A,D,"1D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because intravenous infusions are commonly used to orally hydrate patients. The correct answer is DTo orally hydrate a patient.",30,10,20,40
+50,1,3,40-30-10-20,union_k54,1,False,40,False,0,,C,"1C
+
+The hip has 6 movements available: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,10,20
+51,1,3,30-40-20-10,union_k54,2,False,40,True,40,B,B,"2
+
+The coding sequences of genes are called: (B) exons.",30,40,20,10
+52,1,3,10-30-40-20,union_k54,1,False,10,False,0,,C,"1C
+
+The pain of oesophagitis is usually retrosternal in site.",10,30,40,20
+53,1,3,20-10-30-40,union_k54,1,False,20,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",20,10,30,40
+54,1,3,40-20-10-30,union_k54,1,False,40,False,0,,D,"1B
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by Increased plasma ACTH.",40,20,10,30
+55,1,3,20-40-30-10,union_k54,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",20,40,30,10
+56,1,3,10-30-20-40,union_k54,1,False,10,False,0,,B,"1C
+
+When Branched Chain Amino Acids are deaminated in Muscle, The Ammonia produced is Mostly Converted Into Urea And Released From The Muscle.",10,30,20,40
+57,1,3,40-20-10-30,union_k54,1,False,40,True,40,D,D,"1A
+
+The features of Alzheimer's disease include short-term memory loss, confusion, poor attention, and D) Drowsiness.",40,20,10,30
+58,1,4,30-10-40-20,union_k54,1,False,30,False,0,A,D,"3C
+
+The feature most suggestive of a myocardial infarction is Pain has lasted for over a week.",30,10,40,20
+59,1,4,40-30-10-20,union_k54,1,False,40,False,0,,C,"1C
+
+Several different proteins can be produced from the same gene through alternative RNA splicing. This process involvestheprimarytranscriptsbeingsplicedinvariouswaystoproducedifferentmRNAs.",40,30,10,20
+60,1,4,40-10-20-30,union_k54,1,False,40,False,0,,B,"1B
+
+Type I muscle fibres are white, oxidative, slow contracting.",40,10,20,30
+61,1,4,10-20-40-30,union_k54,1,False,10,False,0,A,C,"3B
+
+Cushing's response refers to the body's response to stressors such as injury, infection, or surgery. It involves a series of physiological changes aimed at increasing energy availability and improving immune function. The characteristic features of Cushing's response include:
+
+- Increased blood pressure
+-Increased heart rate
+-Increased blood sugar levels
+-Increased gluconeogenesis
+-Increased lipol",10,20,40,30
+62,1,4,40-20-30-10,union_k54,1,False,40,False,0,A,B,"1C
+
+Using a large volume spacer will improve the deposition of medication by 99-100%.",40,20,30,10
+63,1,4,30-20-10-40,union_k54,1,False,30,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, medications, or contrast media.",30,20,10,40
+64,1,4,10-40-20-30,union_k54,1,False,10,False,0,,D,"2D
+
+The person who set the world record for the mile race in 1886 wasWG George.",10,40,20,30
+65,1,4,30-20-10-40,union_k54,1,False,30,False,0,,B,"1B
+
+The question asks ""Which of thefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The question asks ""WhichofthefollowingistrueRegardingtheexaminationofthelegs?""TheanswerisBClonuscanonlybedemonstratedattheAnkle
+
+2B
+
+The",30,20,10,40
+66,1,4,20-40-30-10,union_k54,1,False,20,False,0,A,C,"2D
+
+The question asks Which one of the following is not a use for intravenous infusions? The answer DTo orally hydrate a patient. is incorrect because IV fluids are commonly used for oral hydration. The correct answer isDTo orally hydrate a patient.",20,40,30,10
+67,1,4,20-10-40-30,union_k54,1,False,20,False,0,,B,"3C
+
+Several different proteins can be produced from thesamegenethroughtheprocessofalternativeRNAsplicing. Thisprocessinvolvestheexcisionofdifferentexonsfromtheprimarytranscriptandthejoiningtogetheroftheremainingexonsinvariousways. ThisresultsintheproductionofdifferentmRNAmolecules,whichcanthenbetranslatedintodifferentproteins.",20,10,40,30
+68,1,4,10-20-30-40,union_k54,1,False,10,False,0,,A,"1A
+
+Cardiac output is calculated as Stroke volume × heart rate.",10,20,30,40
+69,1,4,20-10-40-30,union_k54,1,False,20,False,0,A,D,"3C
+
+Mr Wood has just returned from surgery and has severe internal bleeding. Which of the following observations would you NOT expect to find on undertaking post-operative observations?
+
+A) Hypotension
+B) Bradycardia
+C) Confusion
+D) Tachypnoea
+
+C) Confusion",20,10,40,30
+70,1,4,20-30-40-10,union_k54,1,False,20,False,0,,D,"3C
+
+An enlarged blind spot may occur because of papilloedema.",20,30,40,10
+71,1,4,40-20-30-10,union_k54,1,False,40,False,0,,D,"1D
+
+The root value of toe extension is L5.",40,20,30,10
+72,1,4,40-20-30-10,union_k54,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,20,30,10
+73,1,4,40-10-30-20,union_k54,1,False,40,False,0,,C,"1C
+
+The radial nerve leads to wrist drop.",40,10,30,20
+74,1,4,40-20-10-30,union_k54,1,False,40,False,0,,C,"1C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",40,20,10,30
+75,1,4,20-40-10-30,union_k54,1,False,20,False,0,A,C,"2B
+
+The feature most suggestive of a myocardial infarction is sweating and vomiting.",20,40,10,30
+76,1,4,40-30-10-20,union_k54,1,False,40,False,0,,D,1B,40,30,10,20
+77,1,5,40-30-20-10,union_k54,1,False,40,False,0,,C,"1C
+
+The correct answer is 1C. The hip joint allows for 6 movements: flexion, extension, abduction, adduction, internal rotation, and external rotation.",40,30,20,10
+78,1,5,10-20-30-40,union_k54,1,False,10,False,0,A,D,"1D
+
+To orally hydrate a patient is not a use for intravenous infusions. Intravenous infusions are typically used for administering fluids, blood products, medications, or contrast media.",10,20,30,40
+79,1,5,40-10-30-20,union_k54,1,False,40,False,0,,D,"1D
+
+The person who set the world record for the mile race in 1886 wasWG George.",40,10,30,20
+80,1,5,30-10-40-20,union_k54,1,False,30,False,0,,D,"1D
+
+Type I muscle fibres are red, oxidative, slow contracting.",30,10,40,20
+81,1,5,30-40-20-10,union_k54,1,False,30,False,0,,D,"2B
+
+Erythema referstoRednessoftheskinduetocongestionoftheCapillaries.",30,40,20,10
+82,1,5,40-30-20-10,union_k54,1,False,40,False,0,,B,"1D
+
+The silicone catheter might be chosen because Itis cheaper.",40,30,20,10
+83,1,5,40-10-20-30,union_k54,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+84,1,5,40-10-20-30,union_k54,1,False,40,False,0,,D,1A,40,10,20,30
+85,1,5,30-40-20-10,union_k54,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",30,40,20,10
+86,1,5,20-10-40-30,union_k54,1,False,20,False,0,,D,"3C
+
+After catheterization is carriedout,Document catheterizationinthe patient'snotes.",20,10,40,30
+87,1,5,30-10-20-40,union_k54,1,False,30,False,0,A,D,"1D
+
+Stridor is described as A high-pitched sound.",30,10,20,40
+88,1,5,20-10-30-40,union_k54,1,False,20,False,0,A,D,"1D
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20g/day.",20,10,30,40
+89,1,5,30-40-10-20,union_k54,1,False,30,False,0,,B,"1C
+
+When Branched Chain Amino Acids (BCAAs) are deaminated in muscle, TheAmmonia producedismostlyconvertedintoUreaandreleasedfromtheMuscle.",30,40,10,20
+90,1,5,40-20-10-30,union_k54,1,False,40,False,0,A,B,"1A
+
+The question 1A asks ""For patients with asthma, how many times a day should a peak flow reading be taken?"" The answer is A)Daily.",40,20,10,30
+91,1,5,10-30-20-40,union_k54,1,False,10,False,0,,A,"2C
+
+After catheterization is carriedOut, ThePatientShouldBeDocumentedInThePatient'sNotes.",10,30,20,40
+92,1,5,30-40-10-20,union_k54,1,False,30,False,0,,D,"2B
+
+The pubic bone is palpated anteriorly in both sexes.",30,40,10,20
+93,1,5,10-40-20-30,union_k54,2,False,40,False,0,A,C,"2
+
+A lesion at the optic chiasma leads to a homonymous hemianopia.",10,40,20,30
+94,1,5,40-10-30-20,union_k54,1,False,40,False,0,,B,"1B
+
+The coding sequences of genes are called exons.",40,10,30,20
+95,1,5,10-40-30-20,union_k54,1,False,10,False,0,A,C,"2B
+
+In a patient with chest pain, features such as Very severe pain, Sweating, Vomiting, Pain has lasted for over a week, Pain is sharp like a knife, are all suggestive of a myocardial infarction. However, the feature most suggestive of a myocardial infarction is Very severe pain.",10,40,30,20
+96,1,5,30-40-10-20,union_k54,2,False,40,False,0,,D,"2
+
+The root value of hip flexion is L2, L3.",30,40,10,20

@@ -1,0 +1,2035 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-40-30-10,baseline,1,False,20,False,0,D,B,1. D,20,40,30,10
+2,1,1,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+3,1,1,10-20-40-30,baseline,1,False,10,False,0,D,C,"1
+D",10,20,40,30
+4,1,1,20-30-40-10,baseline,1,False,20,False,0,C,B,"1
+C",20,30,40,10
+5,1,1,10-20-40-30,baseline,1,False,10,False,0,B,C,1. B,10,20,40,30
+6,1,1,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+7,1,1,20-30-10-40,baseline,1,False,20,False,0,B,C,1. B,20,30,10,40
+8,1,1,40-10-20-30,baseline,1,False,40,False,0,B,C,"1
+B",40,10,20,30
+9,1,1,10-30-20-40,baseline,4,False,40,True,40,D,D,"4
+D",10,30,20,40
+10,1,1,20-10-30-40,baseline,1,False,20,False,0,D,C,"1
+D",20,10,30,40
+11,1,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+12,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,1,1,10-20-40-30,baseline,1,False,10,False,0,B,C,"1
+B",10,20,40,30
+14,1,1,20-30-10-40,baseline,1,False,20,False,0,A,C,1. A,20,30,10,40
+15,1,1,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+16,1,1,30-20-40-10,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,20,40,10
+17,1,1,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+18,1,1,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+19,1,1,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+20,1,2,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+21,1,2,10-20-40-30,baseline,1,False,10,False,0,D,C,1. D,10,20,40,30
+22,1,2,30-10-40-20,baseline,1,False,30,False,0,B,C,1. B,30,10,40,20
+23,1,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+24,1,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+25,1,2,30-20-10-40,baseline,1,False,30,False,0,C,A,1. C,30,20,10,40
+26,1,2,20-40-10-30,baseline,1,False,20,False,0,B,D,1. B,20,40,10,30
+27,1,2,10-30-20-40,baseline,1,False,10,False,0,B,C,1. B,10,30,20,40
+28,1,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+29,1,2,10-30-40-20,baseline,1,False,10,False,0,C,A,1. C,10,30,40,20
+30,1,2,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+31,1,2,10-40-20-30,baseline,2,False,40,False,0,C,A,"2
+C",10,40,20,30
+32,1,2,30-40-10-20,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,40,10,20
+33,1,2,40-20-30-10,baseline,1,False,40,False,0,D,B,"1
+D",40,20,30,10
+34,1,2,40-10-30-20,baseline,1,False,40,False,0,C,A,"1
+C",40,10,30,20
+35,1,2,30-40-10-20,baseline,1,False,30,False,0,D,C,"1
+D",30,40,10,20
+36,1,2,40-30-10-20,baseline,1,False,40,False,0,B,A,1. B,40,30,10,20
+37,1,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+38,1,2,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+39,1,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+40,1,3,20-10-40-30,baseline,1,False,20,False,0,A,C,1. A,20,10,40,30
+41,1,3,10-30-20-40,baseline,1,False,10,False,0,D,B,1. D,10,30,20,40
+42,1,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+43,1,3,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+44,1,3,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+45,1,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+46,1,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+47,1,3,40-20-10-30,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,20,10,30
+48,1,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+49,1,3,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+50,1,3,30-40-10-20,baseline,2,False,40,False,0,C,B,"2
+C",30,40,10,20
+51,1,3,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+52,1,3,20-30-40-10,baseline,1,False,20,False,0,D,C,1. D,20,30,40,10
+53,1,3,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+54,1,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+55,1,3,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+56,1,3,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+57,1,3,10-40-20-30,baseline,1,False,10,True,10,A,A,1. A,10,40,20,30
+58,1,4,10-30-20-40,baseline,2,False,30,False,0,C,B,"2
+C",10,30,20,40
+59,1,4,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+60,1,4,20-40-30-10,baseline,1,False,20,False,0,A,B,1. A,20,40,30,10
+61,1,4,20-10-40-30,baseline,1,False,20,False,0,C,D,1. C,20,10,40,30
+62,1,4,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+63,1,4,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+64,1,4,20-10-30-40,baseline,1,False,20,False,0,A,C,1. A,20,10,30,40
+65,1,4,30-10-20-40,baseline,1,False,30,False,0,B,C,1. B,30,10,20,40
+66,1,4,20-10-30-40,baseline,1,False,20,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,20,10,30,40
+67,1,4,20-40-10-30,baseline,1,False,20,False,0,C,D,1. C,20,40,10,30
+68,1,4,40-10-20-30,baseline,1,False,40,False,0,C,A,"1
+C",40,10,20,30
+69,1,4,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+70,1,4,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+71,1,4,30-20-40-10,baseline,1,False,30,False,0,C,A,1. C,30,20,40,10
+72,1,4,30-20-10-40,baseline,1,False,30,False,0,D,C,"1
+D",30,20,10,40
+73,1,4,10-40-30-20,baseline,2,False,40,False,0,C,A,"2
+C",10,40,30,20
+74,1,4,30-10-20-40,baseline,1,False,30,False,0,A,B,1. A,30,10,20,40
+75,1,4,20-40-30-10,baseline,1,False,20,False,0,C,B,1. C,20,40,30,10
+76,1,4,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+77,1,5,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+78,1,5,20-30-10-40,baseline,2,False,30,False,0,D,B,"2
+D",20,30,10,40
+79,1,5,30-40-20-10,baseline,1,False,30,False,0,B,C,"1
+B",30,40,20,10
+80,1,5,10-20-30-40,baseline,1,False,10,False,0,D,C,1. D,10,20,30,40
+81,1,5,20-40-10-30,baseline,1,False,20,False,0,C,B,"1
+C",20,40,10,30
+82,1,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+83,1,5,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+84,1,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+85,1,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+86,1,5,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+87,1,5,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+88,1,5,30-40-20-10,baseline,1,False,30,False,0,B,C,1. B,30,40,20,10
+89,1,5,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+90,1,5,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+91,1,5,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,40,20,10
+92,1,5,30-40-20-10,baseline,1,False,30,False,0,D,C,1. D,30,40,20,10
+93,1,5,30-10-40-20,baseline,1,False,30,False,0,A,C,"1
+A",30,10,40,20
+94,1,5,30-10-40-20,baseline,1,False,30,True,30,A,A,"1
+A",30,10,40,20
+95,1,5,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+96,1,5,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+1,2,1,20-40-30-10,baseline,1,False,20,False,0,D,B,1. D,20,40,30,10
+2,2,1,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+3,2,1,10-20-40-30,baseline,1,False,10,False,0,D,C,"1
+D",10,20,40,30
+4,2,1,20-30-40-10,baseline,1,False,20,False,0,C,B,"1
+C",20,30,40,10
+5,2,1,10-20-40-30,baseline,1,False,10,False,0,B,C,1. B,10,20,40,30
+6,2,1,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+7,2,1,20-30-10-40,baseline,1,False,20,False,0,B,C,1. B,20,30,10,40
+8,2,1,40-10-20-30,baseline,1,False,40,False,0,B,C,1. B,40,10,20,30
+9,2,1,10-30-20-40,baseline,4,False,40,True,40,D,D,"4
+D",10,30,20,40
+10,2,1,20-10-30-40,baseline,1,False,20,False,0,D,C,"1
+D",20,10,30,40
+11,2,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+12,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,2,1,10-20-40-30,baseline,1,False,10,False,0,B,C,"1
+B",10,20,40,30
+14,2,1,20-30-10-40,baseline,1,False,20,False,0,A,C,1. A,20,30,10,40
+15,2,1,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+16,2,1,30-20-40-10,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,20,40,10
+17,2,1,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+18,2,1,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+19,2,1,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+20,2,2,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+21,2,2,10-20-40-30,baseline,1,False,10,False,0,D,C,1. D,10,20,40,30
+22,2,2,30-10-40-20,baseline,1,False,30,False,0,B,C,1. B,30,10,40,20
+23,2,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+24,2,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+25,2,2,30-20-10-40,baseline,1,False,30,False,0,C,A,1. C,30,20,10,40
+26,2,2,20-40-10-30,baseline,1,False,20,False,0,B,D,1. B,20,40,10,30
+27,2,2,10-30-20-40,baseline,1,False,10,False,0,B,C,1. B,10,30,20,40
+28,2,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+29,2,2,10-30-40-20,baseline,1,False,10,False,0,C,A,1. C,10,30,40,20
+30,2,2,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+31,2,2,10-40-20-30,baseline,2,False,40,False,0,C,A,"2
+C",10,40,20,30
+32,2,2,30-40-10-20,baseline,1,False,30,False,0,A,B,1. A,30,40,10,20
+33,2,2,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+34,2,2,40-10-30-20,baseline,1,False,40,False,0,B,A,"1
+B",40,10,30,20
+35,2,2,30-40-10-20,baseline,1,False,30,False,0,D,C,"1
+D",30,40,10,20
+36,2,2,40-30-10-20,baseline,1,False,40,False,0,B,A,1. B,40,30,10,20
+37,2,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+38,2,2,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+39,2,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+40,2,3,20-10-40-30,baseline,1,False,20,False,0,A,C,1. A,20,10,40,30
+41,2,3,10-30-20-40,baseline,1,False,10,False,0,D,B,1. D,10,30,20,40
+42,2,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+43,2,3,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+44,2,3,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+45,2,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+46,2,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+47,2,3,40-20-10-30,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,20,10,30
+48,2,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+49,2,3,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+50,2,3,30-40-10-20,baseline,2,False,40,False,0,C,B,"2
+C",30,40,10,20
+51,2,3,40-10-20-30,baseline,1,False,40,True,40,A,A,"1
+A",40,10,20,30
+52,2,3,20-30-40-10,baseline,2,False,30,True,30,B,B,"2
+B",20,30,40,10
+53,2,3,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+54,2,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+55,2,3,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+56,2,3,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+57,2,3,10-40-20-30,baseline,1,False,10,True,10,A,A,1. A,10,40,20,30
+58,2,4,10-30-20-40,baseline,2,False,30,False,0,C,B,"2
+C",10,30,20,40
+59,2,4,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+60,2,4,20-40-30-10,baseline,1,False,20,False,0,A,B,1. A,20,40,30,10
+61,2,4,20-10-40-30,baseline,1,False,20,False,0,C,D,1. C,20,10,40,30
+62,2,4,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+63,2,4,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+64,2,4,20-10-30-40,baseline,1,False,20,False,0,A,C,1. A,20,10,30,40
+65,2,4,30-10-20-40,baseline,1,False,30,False,0,B,C,1. B,30,10,20,40
+66,2,4,20-10-30-40,baseline,1,False,20,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,20,10,30,40
+67,2,4,20-40-10-30,baseline,1,False,20,False,0,C,D,1. C,20,40,10,30
+68,2,4,40-10-20-30,baseline,1,False,40,False,0,C,A,"1
+C",40,10,20,30
+69,2,4,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+70,2,4,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+71,2,4,30-20-40-10,baseline,1,False,30,False,0,C,A,1. C,30,20,40,10
+72,2,4,30-20-10-40,baseline,1,False,30,False,0,D,C,"1
+D",30,20,10,40
+73,2,4,10-40-30-20,baseline,2,False,40,False,0,C,A,"2
+C",10,40,30,20
+74,2,4,30-10-20-40,baseline,1,False,30,False,0,A,B,1. A,30,10,20,40
+75,2,4,20-40-30-10,baseline,1,False,20,False,0,C,B,1. C,20,40,30,10
+76,2,4,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+77,2,5,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+78,2,5,20-30-10-40,baseline,2,False,30,False,0,D,B,"2
+D",20,30,10,40
+79,2,5,30-40-20-10,baseline,1,False,30,False,0,B,C,"1
+B",30,40,20,10
+80,2,5,10-20-30-40,baseline,1,False,10,False,0,D,C,1. D,10,20,30,40
+81,2,5,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+82,2,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+83,2,5,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+84,2,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+85,2,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+86,2,5,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+87,2,5,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+88,2,5,30-40-20-10,baseline,1,False,30,False,0,B,C,1. B,30,40,20,10
+89,2,5,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+90,2,5,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+91,2,5,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,40,20,10
+92,2,5,30-40-20-10,baseline,1,False,30,False,0,D,C,1. D,30,40,20,10
+93,2,5,30-10-40-20,baseline,1,False,30,False,0,A,C,"1
+A",30,10,40,20
+94,2,5,30-10-40-20,baseline,1,False,30,True,30,A,A,"1
+A",30,10,40,20
+95,2,5,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+96,2,5,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+1,3,1,20-40-30-10,baseline,1,False,20,False,0,D,B,1. D,20,40,30,10
+2,3,1,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+3,3,1,10-20-40-30,baseline,1,False,10,False,0,D,C,"1
+D",10,20,40,30
+4,3,1,20-30-40-10,baseline,1,False,20,False,0,C,B,"1
+C",20,30,40,10
+5,3,1,10-20-40-30,baseline,1,False,10,False,0,B,C,1. B,10,20,40,30
+6,3,1,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+7,3,1,20-30-10-40,baseline,1,False,20,False,0,B,C,1. B,20,30,10,40
+8,3,1,40-10-20-30,baseline,1,False,40,False,0,B,C,1. B,40,10,20,30
+9,3,1,10-30-20-40,baseline,4,False,40,True,40,D,D,"4
+D",10,30,20,40
+10,3,1,20-10-30-40,baseline,1,False,20,False,0,D,C,"1
+D",20,10,30,40
+11,3,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+12,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,3,1,10-20-40-30,baseline,1,False,10,False,0,B,C,"1
+B",10,20,40,30
+14,3,1,20-30-10-40,baseline,1,False,20,False,0,A,C,1. A,20,30,10,40
+15,3,1,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+16,3,1,30-20-40-10,baseline,1,False,30,False,0,A,B,"1
+A",30,20,40,10
+17,3,1,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+18,3,1,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+19,3,1,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+20,3,2,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+21,3,2,10-20-40-30,baseline,1,False,10,False,0,D,C,1. D,10,20,40,30
+22,3,2,30-10-40-20,baseline,1,False,30,False,0,B,C,1. B,30,10,40,20
+23,3,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+24,3,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+25,3,2,30-20-10-40,baseline,1,False,30,False,0,C,A,1. C,30,20,10,40
+26,3,2,20-40-10-30,baseline,1,False,20,False,0,B,D,1. B,20,40,10,30
+27,3,2,10-30-20-40,baseline,1,False,10,False,0,B,C,1. B,10,30,20,40
+28,3,2,30-10-20-40,baseline,1,False,30,False,0,C,B,"1
+C",30,10,20,40
+29,3,2,10-30-40-20,baseline,1,False,10,False,0,C,A,1. C,10,30,40,20
+30,3,2,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+31,3,2,10-40-20-30,baseline,2,False,40,False,0,C,A,"2
+C",10,40,20,30
+32,3,2,30-40-10-20,baseline,1,False,30,False,0,A,B,1. A,30,40,10,20
+33,3,2,40-20-30-10,baseline,1,False,40,False,0,D,B,"1
+D",40,20,30,10
+34,3,2,40-10-30-20,baseline,1,False,40,False,0,C,A,"1
+C",40,10,30,20
+35,3,2,30-40-10-20,baseline,1,False,30,False,0,D,C,"1
+D",30,40,10,20
+36,3,2,40-30-10-20,baseline,1,False,40,False,0,B,A,1. B,40,30,10,20
+37,3,2,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+38,3,2,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+39,3,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+40,3,3,20-10-40-30,baseline,1,False,20,False,0,A,C,1. A,20,10,40,30
+41,3,3,10-30-20-40,baseline,1,False,10,False,0,D,B,1. D,10,30,20,40
+42,3,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+43,3,3,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+44,3,3,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+45,3,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+46,3,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+47,3,3,40-20-10-30,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,20,10,30
+48,3,3,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+49,3,3,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+50,3,3,30-40-10-20,baseline,2,False,40,False,0,C,B,"2
+C",30,40,10,20
+51,3,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+52,3,3,20-30-40-10,baseline,2,False,30,True,30,B,B,"2
+B",20,30,40,10
+53,3,3,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+54,3,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+55,3,3,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+56,3,3,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+57,3,3,10-40-20-30,baseline,1,False,10,False,0,C,A,1. C,10,40,20,30
+58,3,4,10-30-20-40,baseline,2,False,30,False,0,C,B,"2
+C",10,30,20,40
+59,3,4,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+60,3,4,20-40-30-10,baseline,1,False,20,False,0,A,B,1. A,20,40,30,10
+61,3,4,20-10-40-30,baseline,1,False,20,False,0,A,D,1. A,20,10,40,30
+62,3,4,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+63,3,4,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+64,3,4,20-10-30-40,baseline,1,False,20,False,0,A,C,1. A,20,10,30,40
+65,3,4,30-10-20-40,baseline,1,False,30,False,0,B,C,1. B,30,10,20,40
+66,3,4,20-10-30-40,baseline,1,False,20,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,20,10,30,40
+67,3,4,20-40-10-30,baseline,1,False,20,False,0,C,D,1. C,20,40,10,30
+68,3,4,40-10-20-30,baseline,1,False,40,False,0,C,A,"1
+C",40,10,20,30
+69,3,4,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+70,3,4,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+71,3,4,30-20-40-10,baseline,1,False,30,False,0,C,A,1. C,30,20,40,10
+72,3,4,30-20-10-40,baseline,1,False,30,False,0,D,C,"1
+D",30,20,10,40
+73,3,4,10-40-30-20,baseline,2,False,40,False,0,C,A,"2
+C",10,40,30,20
+74,3,4,30-10-20-40,baseline,1,False,30,False,0,A,B,1. A,30,10,20,40
+75,3,4,20-40-30-10,baseline,1,False,20,False,0,C,B,1. C,20,40,30,10
+76,3,4,30-20-40-10,baseline,1,False,30,False,0,C,D,1. C,30,20,40,10
+77,3,5,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+78,3,5,20-30-10-40,baseline,2,False,30,False,0,D,B,"2
+D",20,30,10,40
+79,3,5,30-40-20-10,baseline,1,False,30,False,0,B,C,"1
+B",30,40,20,10
+80,3,5,10-20-30-40,baseline,1,False,10,False,0,D,C,1. D,10,20,30,40
+81,3,5,20-40-10-30,baseline,1,False,20,False,0,C,B,1. C,20,40,10,30
+82,3,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+83,3,5,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+84,3,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+85,3,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+86,3,5,40-10-30-20,baseline,1,False,40,False,0,C,A,1. C,40,10,30,20
+87,3,5,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+88,3,5,30-40-20-10,baseline,1,False,30,False,0,B,C,1. B,30,40,20,10
+89,3,5,10-30-40-20,baseline,1,False,10,True,10,D,D,1. D,10,30,40,20
+90,3,5,40-30-20-10,baseline,1,False,40,False,0,C,A,1. C,40,30,20,10
+91,3,5,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,30,40,20,10
+92,3,5,30-40-20-10,baseline,1,False,30,False,0,D,C,1. D,30,40,20,10
+93,3,5,30-10-40-20,baseline,1,False,30,False,0,A,C,"1
+A",30,10,40,20
+94,3,5,30-10-40-20,baseline,1,False,30,True,30,A,A,"1
+A",30,10,40,20
+95,3,5,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+96,3,5,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A spherical conductor carries a net charge. How is this charge distributed on the sphere? (A) The charge is evenly distributed on the surface. (B) The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere. (C) The charge moves continually within the sphere. (D) The charge is distributed uniformly throughout,40,30,10,20
+1,1,1,20-40-30-10,model_A,1,False,20,False,0,,B,"1D
+
+2A
+
+3A
+
+4C",20,40,30,10
+2,1,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3B
+
+4A",20,30,10,40
+3,1,1,10-20-40-30,model_A,2,False,20,False,0,B,C,"2
+B",10,20,40,30
+4,1,1,20-30-40-10,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,30,40,10
+5,1,1,10-20-40-30,model_A,1,False,10,False,0,B,C,"Question 1
+
+Answer: B
+
+The buoyant force on the balloon will increase by a factor of 8.",10,20,40,30
+6,1,1,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,20,10
+7,1,1,20-30-10-40,model_A,1,False,20,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",20,30,10,40
+8,1,1,40-10-20-30,model_A,1,False,40,False,0,B,C,"1
+B",40,10,20,30
+9,1,1,10-30-20-40,model_A,2,False,30,False,0,,C,"Question 2
+
+The skidding distance would be 4x m
+
+ThereforeAnswerC",10,30,20,40
+10,1,1,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A
+
+The work done on the cart by the horizontal force can be calculated using the formula W = F * d * cosθ, where F is the magnitude of the force, d is the distance moved, and θ is the angle between the force vector and the displacement vector. Since the force is horizontal, θ = 0°, so cosθ =",20,10,30,40
+11,1,1,10-20-30-40,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3A
+
+4B",10,20,30,40
+12,1,1,40-10-30-20,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: B
+
+The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with thesameaveragekineticenergy.
+
+Question 3
+
+Answer: A
+
+Thechargeisevenlydistributedonthesurface.
+
+Question 4
+
+Answer:",40,10,30,20
+13,1,1,10-20-40-30,model_A,1,False,10,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d * cosθ, where F isthe force, d isthedistance, and θistheanglebetweenthedirectionsoftheForsd. Inthiscase,thedistanceRisconstantandtheangleθis90°,soWc",10,20,40,30
+14,1,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,30,10,40
+15,1,1,10-40-30-20,model_A,1,False,10,False,0,,C,"2B
+
+The wavelength of sound is longer than the wavelength of light, which increases the diffraction.",10,40,30,20
+16,1,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,20,40,10
+17,1,1,40-20-30-10,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: A
+
+The percent of noise blocked would be 99.90%.
+
+Question 3
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 4
+
+Answer: A
+
+The magnitude of the force, the cart’s initial speed,",40,20,30,10
+18,1,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,30,20,10
+19,1,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+20,1,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",10,40,30,20
+21,1,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1B
+
+2B
+
+3B
+
+4C",10,20,40,30
+22,1,2,30-10-40-20,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincethechangeinmomentumisgreaterfortheCarthanthetruckThecarwillexperienceagreaterImpulsethanthetruck
+
+2A
+
+The correct answerisA. TheNetTorqueonthebarmustalsobezeroThe",30,10,40,20
+23,1,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+24,1,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatisbehavingasaparticle.",10,40,30,20
+25,1,2,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is A. The force responsible for the swimmer's forward acceleration isthe forceofthe surroundingwateronthe swimmer'sarms.",30,20,10,40
+26,1,2,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,40,10,30
+27,1,2,10-30-20-40,model_A,1,False,10,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincetheimpulseisgreaterforthecarthanthetruckThecarwillexperienceagreaterchangeinmomentumthanthetruck.
+
+2A
+
+The correct answerisA. Thechargeisevenlydistributedonthesurface.
+
+3A",10,30,20,40
+28,1,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+29,1,2,10-30-40-20,model_A,1,False,10,True,10,A,A,"1
+A
+
+The percent of noise blocked = (140dB - 110dB) / 140dB * 100% = 21.40%",10,30,40,20
+30,1,2,10-30-40-20,model_A,1,False,10,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",10,30,40,20
+31,1,2,10-40-20-30,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.
+
+Explanation:
+The acceleration given by The object initially experiences The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration
+
+The object's acceleration",10,40,20,30
+32,1,2,30-40-10-20,model_A,1,False,30,False,0,,B,"2B
+
+The skidding distance would be 3x m if the car were traveling with twice the initial speed. This is because the deceleration duetothebrakesisconstantandtheSkiddingDistanceisDirectlyProportionalToTheInitialSpeedToThePowerOf2.",30,40,10,20
+33,1,2,40-20-30-10,model_A,1,False,40,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatbehavesasaparticle.
+
+2A
+
+IftheNetForceontheRoddosZeroThenTheNetTorqueontheBarMust",40,20,30,10
+34,1,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1B
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \( \rho \) is the resistivity of the material, \( L \) is the length, and \( A \) is the cross-sectional area. If we want to halve the resistance \( R \), we need to either halve \( L \)",40,10,30,20
+35,1,2,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,40,10,20
+36,1,2,40-30-10-20,model_A,1,False,40,False,0,B,A,"Question 1
+
+Answer: (B) Use twice the length
+
+Question 2
+
+Answer: (A) 9 m
+
+Question 3
+
+Answer: (A) The net torque on the bar must also be zero.
+
+Question 4
+
+Answer: (B) 375 m",40,30,10,20
+37,1,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+38,1,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. Thecarandtruckhavethesamemassandtheimpactistheadonintotheheaviertruck.ThusThecarwillhavethesamechangeinmomentumasthetruckbutThecarwillhavethesamemassast",30,20,10,40
+39,1,3,10-40-20-30,model_A,1,False,10,False,0,,C,2B,10,40,20,30
+40,1,3,20-10-40-30,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,40,30
+41,1,3,10-30-20-40,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatisbehavingasaparticle.",10,30,20,40
+42,1,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"1C
+
+The resistance of a wire is given by R = ρL/A, where ρ is the resistivity, L is the length, and A is the cross-sectional area. If we want to halve the resistance, we need to either halve L or double A. Since we're changing only one factor, halving L would be the correct choice.
+
+2B
+
+The",40,20,10,30
+43,1,3,20-10-40-30,model_A,1,False,20,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+Theotherpiecelands250mawayfromtheLaunchPoint.
+
+Question 3
+
+Answer: A
+
+ThedimensionsofPowerare(L^2)M/T^2.
+
+Question 4
+
+Answer: B
+
+Thebuoyantforceontheballoonwillincreaseby",20,10,40,30
+44,1,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+2A
+
+3C
+
+4C",30,20,10,40
+45,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",40,10,20,30
+46,1,3,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+The skidding distance would be 2x m.
+
+2B
+
+The resistance would be halved if twice the length is used.
+
+3B
+
+Sound has a longer wavelength, which increases diffraction.
+
+4B
+
+The work done by the centripetal force would be 2R(mv^2/R).",10,40,20,30
+47,1,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,20,10,30
+48,1,3,40-20-10-30,model_A,1,False,40,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.
+
+Question 3
+
+Answer: A
+
+The headphones block 99.90% of the noise.
+
+Question 4
+
+Answer: D
+
+The dimensions of power are M(L^2)/T^3",40,20,10,30
+49,1,3,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece travels half the distance. ThereforeTheOtherPieceLands250M
+
+Question 2
+
+Answer: A
+
+Theskiddingdistancewouldbe2x
+
+Question 3
+
+Answer: A
+
+Thecarwillexperience",30,20,40,10
+50,1,3,30-40-10-20,model_A,1,False,30,False,0,,B,"1A
+
+2C
+
+3C
+
+4A",30,40,10,20
+51,1,3,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every actionthereisanequalandoppositereaction. Thewaterthenexertsanequalandoppositeforceontheswimmer'sarmsresultingintheSwimmer'sforward",40,10,20,30
+52,1,3,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",20,30,40,10
+53,1,3,10-30-40-20,model_A,1,False,10,False,0,,C,"1B
+
+The buoyant force on the balloon will increase by afactorof8.",10,30,40,20
+54,1,3,30-10-40-20,model_A,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) Wc < 2R(mv^2/R). The work done by the centripetal force, Wc, is less than 2R(mv^2/R) because part of the centripetal force is used to accelerate the Earth towards the Sun.",30,10,40,20
+55,1,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20
+56,1,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial velocity. The other piece travels half the distance. ThereforeTheOtherPieceLands250M.",20,30,40,10
+57,1,3,10-40-20-30,model_A,1,False,10,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every action thereisanequalandoppositereaction. Thewaterexertsanequalandoppositeforceontheswimmer'sarmsresultingintheSwimmer'sforwardaccel",10,40,20,30
+58,1,4,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",10,30,20,40
+59,1,4,20-30-40-10,model_A,1,False,20,True,20,A,A,"1A
+
+The object initially experiences acceleration given by a = (2 m/s^3)t. The distance traveled can be found using integration. The distance traveled is 9m
+
+2B
+
+The resistance R = ρL/A,where ρisthe resistivity, Lthe lengthandAthe cross-sectional area.UsingtwicetheLengthLgivesR/2
+
+3",20,30,40,10
+60,1,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,40,30,10
+61,1,4,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece lands 250m away.",20,10,40,30
+62,1,4,40-20-10-30,model_A,1,False,40,False,0,A,C,"1A
+
+The correct answer is A. The impulse experienced by the car will be greater than the impulse experienced by the truck. The change in momentum experienced by the car will be greater than the change in momentum experienced by the truck. The magnitude of the acceleration experienced by the car will be greater than the magnitude of the acceleration experienced by the truck.",40,20,10,30
+63,1,4,10-20-30-40,model_A,1,False,10,False,0,,C,"1C
+
+The skidding distance would be 4x m.
+
+2A
+
+The percent of noise blocked would be 99.90%.
+
+3B
+
+The reasonable explanation would be Sound has a longer wavelength, which increases the diffraction.
+
+4C
+
+The correct statement would be The force of the swimmer’s arms on the surrounding water.",10,20,30,40
+64,1,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,30,40
+65,1,4,30-10-20-40,model_A,1,False,30,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d = (m * v^2) / R * 2 * pi * R = 2 * pi * m * v^2. Therefore, Wc = 2R(mv^2/R) = 2R * (m * v",30,10,20,40
+66,1,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,10,30,40
+67,1,4,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+2A
+
+3B
+
+4B",20,40,10,30
+68,1,4,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is C. The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,10,20,30
+69,1,4,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,10,30,40
+70,1,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The percent of noise blocked can be calculated using the formula 10^((140-110)/10) = 10^3 = 1000%. However, This doesnot matchanyoftheGivenOptionsSoTheAnswerIsD
+
+2C
+
+TheskiddingdistancewouldbeTheSquareOfTheInitialSpeedTimesTheDistanceToThe",40,10,30,20
+71,1,4,30-20-40-10,model_A,1,False,30,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 3
+
+Answer: C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.
+
+Question 4
+
+Answer: D
+
+Sound is a mechanical wave that can change direction",30,20,40,10
+72,1,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,20,10,40
+73,1,4,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.",10,40,30,20
+74,1,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,10,20,40
+75,1,4,20-40-30-10,model_A,1,False,20,False,0,,B,1C,20,40,30,10
+76,1,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,20,40,10
+77,1,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,10,20
+78,1,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+A reasonable explanation for this observation is (D) Sound is a mechanical wave that can change direction in its propagation media.",20,30,10,40
+79,1,5,30-40-20-10,model_A,1,False,30,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",30,40,20,10
+80,1,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1D
+
+2A
+
+3C
+
+4D",10,20,30,40
+81,1,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,10,30
+82,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1B
+
+The 100-W bulb would be twice as bright.
+
+2A
+
+99.90%",40,30,20,10
+83,1,5,20-40-30-10,model_A,1,False,20,True,20,A,A,"2C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,30,10
+84,1,5,30-40-10-20,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,40,10,20
+85,1,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2A
+
+The net torque on the bar must also be zero.
+
+3C
+
+The force of the swimmer's arms on the surrounding water.
+
+4B
+
+The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near thesphere.",10,20,30,40
+86,1,5,40-10-30-20,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water, causing the water to exert anequalbutoppositeforcebackontheSwimmer’sarms,whichresultsintheSwimmer’sforwardacceleration.
+
+2A
+
+The correct answer is (A)TheNetTorqueOnTheBar",40,10,30,20
+87,1,5,20-40-10-30,model_A,2,False,40,False,0,,D,"1A
+
+The dimensions of power are (L^2)M/T^2.",20,40,10,30
+88,1,5,30-40-20-10,model_A,1,False,30,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d * cosθ, where F isthe force, d isthedistance, and θistheanglebetweenthedirectionsoftheforceandthedistance. Inthiscase,thedistanceRisconstantandtheangleθis90°.ThereforeW",30,40,20,10
+89,1,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",10,30,40,20
+90,1,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"1B
+
+The correct answer is (B) Use twice the length. When you double the length of a wire, you quadruple its resistance.",40,30,20,10
+91,1,5,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,40,20,10
+92,1,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1B
+
+The 100-W bulb is twice as bright.",30,40,20,10
+93,1,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",30,10,40,20
+94,1,5,30-10-40-20,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is (A) The force of the surrounding water on the swimmer’s arms.
+
+The swimmer applies a force to the water, causing the water to exert anequalandoppositeforcebackontheSwimmer’sarms,whichresultsintheSwimmer’sforwardacceleration.",30,10,40,20
+95,1,5,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2B
+
+The work done by the centripetal force is 2R(mv^2/R).
+
+3C
+
+The buoyant force increases by a factor of 8.
+
+4A
+
+The bulbs have thesame brightness.",20,10,40,30
+96,1,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20
+1,2,1,20-40-30-10,model_A,1,False,20,False,0,,B,"1D
+
+2A
+
+3A
+
+4C",20,40,30,10
+2,2,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+The skidding distance would be 2x m.
+
+2D
+
+The 100-W bulb would be four times as bright.
+
+3C
+
+The resistance would be halved if half the radius were used.
+
+4A
+
+The net torque on the bar must also be zero.",20,30,10,40
+3,2,1,10-20-40-30,model_A,1,False,10,False,0,A,C,"Question 1
+
+The answer is (A) The magnitude of the force, the cart’s initial speed, and the cart’s final speed.",10,20,40,30
+4,2,1,20-30-40-10,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,30,40,10
+5,2,1,10-20-40-30,model_A,1,False,10,False,0,B,C,"Question 1
+
+Answer: B
+
+The buoyant force on the balloon will increase by a factor of 8.",10,20,40,30
+6,2,1,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,20,10
+7,2,1,20-30-10-40,model_A,1,False,20,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",20,30,10,40
+8,2,1,40-10-20-30,model_A,1,False,40,False,0,B,C,"1
+B",40,10,20,30
+9,2,1,10-30-20-40,model_A,2,False,30,False,0,,C,"Question 2
+
+The skidding distance would be 4x m
+
+ThereforeAnswerC",10,30,20,40
+10,2,1,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A
+
+The work done on the cart by the horizontal force can be calculated using the formula W = F * d * cosθ, where F is the magnitude of the force, d is the distance moved, and θ is the angle between the force vector and the displacement vector. Since the force is horizontal, θ = 0°, so cosθ =",20,10,30,40
+11,2,1,10-20-30-40,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3A
+
+4B",10,20,30,40
+12,2,1,40-10-30-20,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: B
+
+The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with thesameaveragekineticenergy.
+
+Question 3
+
+Answer: A
+
+Thechargeisevenlydistributedonthesurface.
+
+Question 4
+
+Answer:",40,10,30,20
+13,2,1,10-20-40-30,model_A,1,False,10,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d * cosθ, where F isthe force, d isthedistance, and θistheanglebetweenthedirectionsoftheForsd. Inthiscase,thedistanceRisconstantandtheangleθis90°,soWc",10,20,40,30
+14,2,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,30,10,40
+15,2,1,10-40-30-20,model_A,1,False,10,False,0,,C,"2B
+
+The wavelength of sound is longer than the wavelength of light, which increases the diffraction.",10,40,30,20
+16,2,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,20,40,10
+17,2,1,40-20-30-10,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: A
+
+The percent of noise blocked would be 99.90%.
+
+Question 3
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 4
+
+Answer: A
+
+The magnitude of the force, the cart’s initial speed,",40,20,30,10
+18,2,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,30,20,10
+19,2,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+20,2,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",10,40,30,20
+21,2,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1B
+
+2B
+
+3B
+
+4C",10,20,40,30
+22,2,2,30-10-40-20,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincethechangeinmomentumisgreaterfortheCarthanthetruckThecarwillexperienceagreaterImpulsethanthetruck
+
+2A
+
+The correct answerisA. TheNetTorqueonthebarmustalsobezero.If",30,10,40,20
+23,2,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+24,2,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatbehavesasaparticle.",10,40,30,20
+25,2,2,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is A. The force responsible for the swimmer's forward acceleration isthe forceofthe surroundingwateronthe swimmer'sarms.",30,20,10,40
+26,2,2,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,40,10,30
+27,2,2,10-30-20-40,model_A,1,False,10,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincetheimpulseisgreaterforthecarthanthetruckThecarwillexperienceagreaterchangeinmomentumthanthetruck.
+
+2A
+
+The correct answerisA. Thechargeisevenlydistributedonthesurface.
+
+3A",10,30,20,40
+28,2,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+29,2,2,10-30-40-20,model_A,1,False,10,True,10,A,A,"1
+A
+
+The percent of noise blocked = (140dB - 110dB) / 140dB * 100% = 21.40%",10,30,40,20
+30,2,2,10-30-40-20,model_A,1,False,10,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",10,30,40,20
+31,2,2,10-40-20-30,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.
+
+Explanation:
+The acceleration given by The object initially experiences The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration",10,40,20,30
+32,2,2,30-40-10-20,model_A,2,False,40,False,0,,C,"2
+The skidding distance of the same car if it were traveling with twice the initial speed would be 4x m. ThereforeThe answer is (C) 4x m.",30,40,10,20
+33,2,2,40-20-30-10,model_A,1,False,40,False,0,,B,"1D
+
+The initial speed of the arrow was 200 m/s.",40,20,30,10
+34,2,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1B
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \(\rho\) is the resistivity of the material, \(L\) is the length, and \(A\) is the cross-sectional area. The cross-sectional area \(A = \pi r^2\), where \(r\) is the radius. If we want",40,10,30,20
+35,2,2,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,40,10,20
+36,2,2,40-30-10-20,model_A,1,False,40,False,0,B,A,"Question 1
+
+Answer: (B) Use twice the length
+
+Question 2
+
+Answer: (A) 9 m
+
+Question 3
+
+Answer: (A) The net torque on the bar must also be zero.
+
+Question 4
+
+Answer: (B) 375 m",40,30,10,20
+37,2,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+38,2,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. Thecarandtruckhavethesamemassandtheimpactistheadonintotheheaviertruck.ThusThecarwillhavethesamechangeinmomentumasthetruckbutThecarwillhavethesamemassast",30,20,10,40
+39,2,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1A
+
+The skidding distance would be 2x m.
+
+2B
+
+The car will experience a greater change in momentum than the truck.
+
+3A
+
+The charge is evenly distributed on the surface.
+
+4B
+
+The work done by the centripetal force would be 2R(mv^2/R).",10,40,20,30
+40,2,3,20-10-40-30,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,40,30
+41,2,3,10-30-20-40,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatisbehavingasaparticle.",10,30,20,40
+42,2,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"1B
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \( \rho \) is the resistivity of the material, \( L \) is the length of the wire, and \( A \) is the cross-sectional area of the wire. If we want to halve the resistance \( R \), we need to either",40,20,10,30
+43,2,3,20-10-40-30,model_A,1,False,20,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+Theotherpiecelands250mawayfromtheLaunchPoint.
+
+Question 3
+
+Answer: A
+
+ThedimensionsofPowerare(L^2)M/T^2.
+
+Question 4
+
+Answer: B
+
+Thebuoyantforceontheballoonwillincreaseby",20,10,40,30
+44,2,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+2A
+
+3C
+
+4C",30,20,10,40
+45,2,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",40,10,20,30
+46,2,3,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+2B
+
+3D
+
+4C",10,40,20,30
+47,2,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,20,10,30
+48,2,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+The object's initial velocity is 0 m/s. The acceleration is given by a = (2 m/s^3)t. The distance traveled can be found using the formula s = 1/2 * (v^2 - u^2) / (2a), where u = 0 m/s, v = 0 m/s, s",40,20,10,30
+49,2,3,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece lands 250m away.
+
+Question 2
+
+Answer: A
+
+The skidding distance would be 2x m.
+
+Question 3
+
+Answer: A
+
+The car experiences greater impulse than the truck.
+
+Question",30,20,40,10
+50,2,3,30-40-10-20,model_A,2,False,40,False,0,C,B,"2
+C",30,40,10,20
+51,2,3,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every actionthereisanequalandoppositereaction. Thewaterthenexertsanequalandoppositeforceontheswimmer'sarmsresultingintheSwimmer'sforward",40,10,20,30
+52,2,3,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",20,30,40,10
+53,2,3,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The net torque on the bar must also be zero.",10,30,40,20
+54,2,3,30-10-40-20,model_A,1,False,30,False,0,C,A,"Question 1
+
+Answer: C
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \(\rho\) is the resistivity of the material, \(L\) is the length, and \(A\) is the cross-sectional area. The cross-sectional area \(A = \pi r^2\), where \(r\) is the",30,10,40,20
+55,2,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20
+56,2,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial velocity. The other piece travels half the distance. ThereforeTheOtherPieceLands250M.",20,30,40,10
+57,2,3,10-40-20-30,model_A,1,False,10,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every action thereisanequalandoppositereaction. Thewaterexertsanequalandoppositeforceontheswimmer'sarmsresultingintheSwimmer'sforwardaccel",10,40,20,30
+58,2,4,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",10,30,20,40
+59,2,4,20-30-40-10,model_A,1,False,20,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: B
+
+The resistance would be halved if twice the length were used.
+
+Question 3
+
+Answer: D
+
+The reasonable explanation is that Sound is a mechanical wave that can change direction.
+
+Question 4
+
+Answer: C
+
+The skidding distance would be 4x meters.",20,30,40,10
+60,2,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,40,30,10
+61,2,4,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece lands 250m away.",20,10,40,30
+62,2,4,40-20-10-30,model_A,1,False,40,False,0,A,C,"1A
+
+The correct answer is A. The impulse experienced by the car will be greater than the impulse experienced by the truck. The change in momentum experienced by the car will be greater than the change in momentum experienced by the truck. The magnitude of the acceleration experienced by the car will be greater than the magnitude of the acceleration experienced by the truck.",40,20,10,30
+63,2,4,10-20-30-40,model_A,1,False,10,True,10,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: A
+
+The percent of noise blocked would be 99.90%.
+
+Question 3
+
+Answer: D
+
+The reasonable explanation would be Sound is a mechanical wave that can change direction in its propagation media.
+
+Question 4
+
+Answer: C
+
+The applicant would be",10,20,30,40
+64,2,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,30,40
+65,2,4,30-10-20-40,model_A,1,False,30,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d = (m * v^2) / R * 2 * pi * R = 2 * pi * m * v^2. Therefore, Wc = 2R(mv^2/R) = 2R * (m * v",30,10,20,40
+66,2,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,10,30,40
+67,2,4,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving TheOtherPiece. TheOtherPiece's horizontal velocity remains constant, soTheOtherPiecelands250mawayfromtheLaunchPoint.
+
+2A
+
+Thenettorqueonthebarmustalsobezero.IftheNetForceontheRodiszero,TheNetTorquemustalsobezero",20,40,10,30
+68,2,4,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is C. The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,10,20,30
+69,2,4,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,10,30,40
+70,2,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The percent of noise blocked can be calculated using the formula 10^((140-110)/10) = 10^3 = 1000%. However, This doesnot matchanyoftheGivenOptionsSoTheAnswerIsD
+
+2D
+
+Theskiddingdistancewouldbe8x
+
+3B
+
+TheWorkDoneByThe",40,10,30,20
+71,2,4,30-20-40-10,model_A,1,False,30,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 3
+
+Answer: C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.
+
+Question 4
+
+Answer: D
+
+Sound is a mechanical wave that can change direction",30,20,40,10
+72,2,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,20,10,40
+73,2,4,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.",10,40,30,20
+74,2,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,10,20,40
+75,2,4,20-40-30-10,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,30,10
+76,2,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,20,40,10
+77,2,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,10,20
+78,2,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+A reasonable explanation for this observation is (D) Sound is a mechanical wave that can change direction in its propagation media.",20,30,10,40
+79,2,5,30-40-20-10,model_A,1,False,30,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",30,40,20,10
+80,2,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1D
+
+2A
+
+3C
+
+4D",10,20,30,40
+81,2,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,10,30
+82,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1D
+
+The 100-W bulb would be four times as bright.
+
+2A
+
+99.90%",40,30,20,10
+83,2,5,20-40-30-10,model_A,1,False,20,True,20,A,A,"2C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,30,10
+84,2,5,30-40-10-20,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,40,10,20
+85,2,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2A
+
+The net torque on the bar must also be zero.
+
+3C
+
+The force of the swimmer's arms on the surrounding water.
+
+4B
+
+The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near thesphere.",10,20,30,40
+86,2,5,40-10-30-20,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water, causing the water to exert anequalbutoppositeforcebackontheSwimmer’sarms,whichresultsintheSwimmer’sforwardacceleration.",40,10,30,20
+87,2,5,20-40-10-30,model_A,2,False,40,False,0,,D,"1A
+
+The dimensions of power are (L^2)M/T^2.",20,40,10,30
+88,2,5,30-40-20-10,model_A,1,False,30,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, is equal to 2R(mv^2/R) because Wc = F * d = (m * v^2 / R) * 2R = 2R * (m * v^2 / R) = 2R * (m * v^2 / R) = 2",30,40,20,10
+89,2,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",10,30,40,20
+90,2,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"1B
+
+The correct answer is (B) Use twice the length. When you double the length of a wire, you quadruple its resistance.",40,30,20,10
+91,2,5,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,40,20,10
+92,2,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1B
+
+The 100-W bulb is twice as bright.",30,40,20,10
+93,2,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",30,10,40,20
+94,2,5,30-10-40-20,model_A,1,False,30,True,30,A,A,"Question 1
+
+Answer: A",30,10,40,20
+95,2,5,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2B
+
+The work done by the centripetal force is 2R(mv^2/R).
+
+3C
+
+The buoyant force increases by a factor of 8.
+
+4A
+
+The bulbs have thesame brightness.",20,10,40,30
+96,2,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20
+1,3,1,20-40-30-10,model_A,1,False,20,False,0,,B,"1D
+
+2A
+
+3A
+
+4C",20,40,30,10
+2,3,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3B
+
+4A",20,30,10,40
+3,3,1,10-20-40-30,model_A,1,False,10,False,0,A,C,"Question 1
+
+The answer is (A) The magnitude of the force, the cart’s initial speed, and the cart’s final speed.",10,20,40,30
+4,3,1,20-30-40-10,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,30,40,10
+5,3,1,10-20-40-30,model_A,1,False,10,False,0,,C,"1A
+
+The buoyant force on the balloon will increase by afactorof8.",10,20,40,30
+6,3,1,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,20,10
+7,3,1,20-30-10-40,model_A,1,False,20,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",20,30,10,40
+8,3,1,40-10-20-30,model_A,1,False,40,False,0,B,C,"1
+B",40,10,20,30
+9,3,1,10-30-20-40,model_A,2,False,30,False,0,,C,"Question 2
+
+The skidding distance would be 4x m
+
+ThereforeAnswerC",10,30,20,40
+10,3,1,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A
+
+The work done on the cart by the horizontal force can be calculated using the formula W = F * d * cosθ, where F is the magnitude of the force, d is the distance moved, and θ is the angle between the force vector and the displacement vector. Since the force is horizontal, θ = 0°, so cosθ =",20,10,30,40
+11,3,1,10-20-30-40,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3A
+
+4B",10,20,30,40
+12,3,1,40-10-30-20,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: B
+
+The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with thesameaveragekineticenergy.
+
+Question 3
+
+Answer: A
+
+Thechargeisevenlydistributedonthesurface.
+
+Question 4
+
+Answer:",40,10,30,20
+13,3,1,10-20-40-30,model_A,1,False,10,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d * cosθ, where F isthe force, d isthedistance, and θistheanglebetweenthedirectionsoftheForsd. Inthiscase,thedistanceRisconstantandtheangleθis90°,soWc",10,20,40,30
+14,3,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,30,10,40
+15,3,1,10-40-30-20,model_A,1,False,10,False,0,A,C,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",10,40,30,20
+16,3,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,20,40,10
+17,3,1,40-20-30-10,model_A,1,False,40,True,40,C,C,"Question 1
+
+Answer: C
+
+The skidding distance would be 4x m.
+
+Question 2
+
+Answer: A
+
+The percent of noise blocked would be 99.90%.
+
+Question 3
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 4
+
+Answer: A
+
+The magnitude of the force, the cart’s initial speed,",40,20,30,10
+18,3,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,30,20,10
+19,3,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+20,3,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",10,40,30,20
+21,3,2,10-20-40-30,model_A,1,False,10,False,0,,C,"1A
+
+2B
+
+3B
+
+4C",10,20,40,30
+22,3,2,30-10-40-20,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincethechangeinmomentumisgreaterfortheCarthanthetruckThecarwillexperienceagreaterImpulsethanthetruck
+
+2A
+
+The correct answer is A. Thenettorqueonthebarmustalsobezero",30,10,40,20
+23,3,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+24,3,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatbehavesasaparticle.",10,40,30,20
+25,3,2,30-20-10-40,model_A,1,False,30,True,30,A,A,"1A
+
+The correct answer is A. The force responsible for the swimmer's forward acceleration isthe forceofthe surroundingwateronthe swimmer'sarms.",30,20,10,40
+26,3,2,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,40,10,30
+27,3,2,10-30-20-40,model_A,1,False,10,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. SincetheimpulseisgreaterforthecarthanthetruckThecarwillexperienceagreaterchangeinmomentumthanthetruck.
+
+2A
+
+The correct answer is A. Thechargeisevenlydistributedonthesurface.
+
+3A",10,30,20,40
+28,3,2,30-10-20-40,model_A,1,False,30,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",30,10,20,40
+29,3,2,10-30-40-20,model_A,1,False,10,False,0,,A,"1
+
+The percent of noise blocked can be calculated using the formula:
+
+Percent Noise Blocked = 1 - (FinalSoundLevel / InitialSoundLevel) * 100
+
+Plugging in the values given:
+
+Percent Noise Blocked = 1 - (110 / 140) * 100
+Percent Noise Blocked = 1 - 0.7857",10,30,40,20
+30,3,2,10-30-40-20,model_A,1,False,10,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",10,30,40,20
+31,3,2,10-40-20-30,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.
+
+Explanation:
+The acceleration given by The object initially experiences The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration The object's acceleration",10,40,20,30
+32,3,2,30-40-10-20,model_A,1,False,30,False,0,,B,"2B
+
+The skidding distance would be 3x m if the car were traveling with twice the initial speed. This is because the deceleration duetothebrakesisconstantandtheSkiddingDistanceisDirectlyProportionalToTheInitialSpeedToThePowerOf2.",30,40,10,20
+33,3,2,40-20-30-10,model_A,1,False,40,False,0,,B,"1D
+
+The initial speed of the arrow was 200 m/s.",40,20,30,10
+34,3,2,40-10-30-20,model_A,1,False,40,True,40,A,A,"1B
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \( \rho \) is the resistivity of the material, \( L \) is the length, and \( A \) is the cross-sectional area. If we want to halve the resistance \( R \), we need to either halve \( L \)",40,10,30,20
+35,3,2,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,40,10,20
+36,3,2,40-30-10-20,model_A,1,False,40,False,0,B,A,"Question 1
+
+Answer: (B) Use twice the length
+
+Question 2
+
+Answer: (A) 9 m
+
+Question 3
+
+Answer: (A) The net torque on the bar must also be zero.
+
+Question 4
+
+Answer: (B) 375 m",40,30,10,20
+37,3,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",40,20,30,10
+38,3,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+The correct answer is A. The car will experience a greater impulse than the truck. The impulse is equaltothechangeinmomentum. Thecarandtruckhavethesamemassandtheimpactistheadonintotheheaviertruck.ThusThecarwillhavethesamechangeinmomentumasthetruckbutThecarwillhavethesamemassast",30,20,10,40
+39,3,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1A
+
+The skidding distance would be 2x m.
+
+2B
+
+The car will experience a greater change in momentum than the truck.
+
+3A
+
+The charge is evenly distributed on the surface.
+
+4B
+
+The work done by the centripetal force would be 2R(mv^2/R).",10,40,20,30
+40,3,3,20-10-40-30,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,40,30
+41,3,3,10-30-20-40,model_A,1,False,10,False,0,A,B,"1D
+
+The reasonable explanation for why sounds can be heard around a corner but light cannot beseenarounda corneristhatSoundisamechanicalwavethatcanchangethreedirectioninitspropagationmediumwhileLightisanelectromagneticwavethatbehavesasaparticle.",10,30,20,40
+42,3,3,40-20-10-30,model_A,1,False,40,False,0,C,A,"Question 1
+
+Answer: C
+
+The resistance of a wire is given by \( R = \rho \frac{L}{A} \), where \( \rho \) is the resistivity of the material, \( L \) is the length of the wire, and \( A \) is the cross-sectional area of the wire. If we want to halve the resistance \( R \",40,20,10,30
+43,3,3,20-10-40-30,model_A,1,False,20,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+Theotherpiecelands250mawayfromtheLaunchPoint.
+
+Question 3
+
+Answer: A
+
+ThedimensionsofPowerare(L^2)M/T^2.
+
+Question 4
+
+Answer: B
+
+Thebuoyantforceontheballoonwillincreaseby",20,10,40,30
+44,3,3,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+2A
+
+3C
+
+4C",30,20,10,40
+45,3,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",40,10,20,30
+46,3,3,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+2B
+
+3D
+
+4C",10,40,20,30
+47,3,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,20,10,30
+48,3,3,40-20-10-30,model_A,1,False,40,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: B
+
+The initial speed of the arrow was 40 m/s.
+
+Question 3
+
+Answer: A
+
+The headphones block 99.90% of the noise.
+
+Question 4
+
+Answer: D
+
+The dimensions of power are M(L^2)/T^3",40,20,10,30
+49,3,3,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece travels half the distance. ThereforeTheOtherPieceLands250M
+
+Question 2
+
+Answer: A
+
+Theskiddingdistancewouldbe2x
+
+Question 3
+
+Answer: A
+
+Thecarwillexperience",30,20,40,10
+50,3,3,30-40-10-20,model_A,2,False,40,False,0,C,B,"2
+C",30,40,10,20
+51,3,3,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every action thereisanequalandoppositereaction. Thewaterexertsanequalandoppositeforceontheswimmer'sarmsresultingintheforwardaccelerationofthes",40,10,20,30
+52,3,3,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+The observation that sounds can be heard around a corner but that light cannot beseenarounda cornerisexplainedbythefactthatSoundhasalongerwavelengthwhichincreasesthediffraction.",20,30,40,10
+53,3,3,10-30-40-20,model_A,1,False,10,False,0,,C,"1B
+
+The buoyant force on the balloon will increase by afactorof8.",10,30,40,20
+54,3,3,30-10-40-20,model_A,3,False,40,True,40,C,C,"3
+
+The correct answer is (C) Wc < 2R(mv^2/R). The work done by the centripetal force, Wc, is less than 2R(mv^2/R) because part of the centripetal force is used to accelerate the Earth towards the Sun.",30,10,40,20
+55,3,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20
+56,3,3,20-30-40-10,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial velocity. The other piece travels half the distance. ThereforeTheOtherPieceLands250M.",20,30,40,10
+57,3,3,10-40-20-30,model_A,1,False,10,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water through his arms. According to Newton's third law,for every action thereisanequalandoppositereaction. Thewaterexertsanequalandoppositeforceontheswimmer'sarmsresultingintheSwimmer'sforwardaccel",10,40,20,30
+58,3,4,10-30-20-40,model_A,2,False,30,False,0,A,B,"2
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",10,30,20,40
+59,3,4,20-30-40-10,model_A,1,False,20,True,20,A,A,"1A
+
+The object initially experiences acceleration given by \(a = 2t\), so \(v = \int2t\ dt = t^2 + C\). Since \(v = 0\) when \(t = 0\), \(C = 0\), so \(v = t^2\). The distance \(s = \int_0^3 t^",20,30,40,10
+60,3,4,20-40-30-10,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,40,30,10
+61,3,4,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+Answer: A
+
+The projectile breaks into two pieces of equal mass. One piece falls straight down, leaving only half the initial horizontal velocity. The other piece lands 250m away.",20,10,40,30
+62,3,4,40-20-10-30,model_A,1,False,40,False,0,A,C,"Question 1
+
+Answer: A
+
+The correct answer is A. I. The car will experience a greater impulse than the truck. II. Thecarwillexperienceagreaterchangeinmomentumthanthetruck.
+
+TheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulseTheImpulse",40,20,10,30
+63,3,4,10-20-30-40,model_A,1,False,10,False,0,,C,"1C
+
+The skidding distance would be 4x m.
+
+2A
+
+The percent of noise blocked would be 99.90%.
+
+3B
+
+The reasonable explanation would be Sound has a longer wavelength, which increases the diffraction.
+
+4C
+
+The correct statement would be The force of the swimmer’s arms on the surrounding water.",10,20,30,40
+64,3,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",20,10,30,40
+65,3,4,30-10-20-40,model_A,1,False,30,False,0,D,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * d = (m * v^2) / R * 2 * pi * R = 2 * pi * m * v^2. Therefore, Wc = 2R(mv^2/R) = 2R * (m * v",30,10,20,40
+66,3,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",20,10,30,40
+67,3,4,20-40-10-30,model_A,1,False,20,False,0,,D,"1A
+
+2A
+
+3B
+
+4B",20,40,10,30
+68,3,4,40-10-20-30,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is C. The force responsible for the swimmer's forward acceleration isthe forceoftheSwimmer'sArmsOnTheSurroundingWater.",40,10,20,30
+69,3,4,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+The initial speed of the arrow was 20 m/s.",20,10,30,40
+70,3,4,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The percent of noise blocked can be calculated using the formula 10^((140-110)/10) = 10^3 = 1000%. However, This doesnot matchanyoftheGivenOptionsSoTheAnswerIsD
+
+2C
+
+TheskiddingdistancewouldbeTheSquareOfTheInitialSpeedTimesTheDistanceToThe",40,10,30,20
+71,3,4,30-20-40-10,model_A,1,False,30,False,0,C,A,"Question 1
+
+Answer: C
+
+The object travels 18 meters.
+
+Question 2
+
+Answer: A
+
+The car will experience a greater impulse than the truck.
+
+Question 3
+
+Answer: B
+
+The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with thesameaveragekineticenergy.
+
+Question 4
+
+Answer: D",30,20,40,10
+72,3,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1D
+
+The mass of the cart and the magnitude of the force are sufficient to determine the work done on the cart by the horizontal force. The work done (W) can be calculated using the formula W = F * d * cosθ, where F is the force, d is the distance moved, and θ is the angle between force and distance. Sincethecartmoveshorizontallyin",30,20,10,40
+73,3,4,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The object travels 12 meters.",10,40,30,20
+74,3,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,10,20,40
+75,3,4,20-40-30-10,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,30,10
+76,3,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,20,40,10
+77,3,5,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",40,30,10,20
+78,3,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+A reasonable explanation for this observation is (D) Sound is a mechanical wave that can change direction in its propagation media.",20,30,10,40
+79,3,5,30-40-20-10,model_A,1,False,30,False,0,A,C,"1B
+
+The buoyant force on the balloon will increase by a factor of 8.",30,40,20,10
+80,3,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1D
+
+2A
+
+3C
+
+4D",10,20,30,40
+81,3,5,20-40-10-30,model_A,1,False,20,False,0,A,B,"1C
+
+The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",20,40,10,30
+82,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1B
+
+The 100-W bulb would be twice as bright.
+
+2A
+
+99.90%",40,30,20,10
+83,3,5,20-40-30-10,model_A,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+84,3,5,30-40-10-20,model_A,1,False,30,False,0,A,D,"Question 1
+
+Answer: A
+
+The initial speed of the arrow was 20 m/s.",30,40,10,20
+85,3,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2A
+
+The net torque on the bar must also be zero.
+
+3C
+
+The force of the swimmer's arms on the surrounding water.
+
+4B
+
+The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near thesphere.",10,20,30,40
+86,3,5,40-10-30-20,model_A,1,False,40,False,0,C,A,"1C
+
+The correct answer is (C) The force of the swimmer’s arms on the surrounding water.
+
+The swimmer applies a force to the water, causing the water to exert anequalbutoppositeforcebackontheSwimmer’sarms,whichresultsintheSwimmer’sforwardacceleration.",40,10,30,20
+87,3,5,20-40-10-30,model_A,2,False,40,False,0,,D,"1A
+
+The dimensions of power are (L^2)M/T^2.",20,40,10,30
+88,3,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1B
+
+The work done by the centripetal force, Wc, can be calculated using the formula Wc = F * R * θ/2π, where F isthe centripetal force, RistheRadius, θistheAngle subtendedbytheCentripetalForce. TheGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGivenGiven",30,40,20,10
+89,3,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1
+
+The initial speed of the arrow was 20 m/s.",10,30,40,20
+90,3,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"1B
+
+The correct answer is (B) Use twice the length. When you double the length of the wire, you double the resistance because resistance is directly proportional to length.",40,30,20,10
+91,3,5,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",30,40,20,10
+92,3,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1B
+
+The 100-W bulb is twice as bright.",30,40,20,10
+93,3,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1A
+
+The net torque on the bar must also be zero.",30,10,40,20
+94,3,5,30-10-40-20,model_A,1,False,30,True,30,A,A,"Question 1
+
+Answer: A",30,10,40,20
+95,3,5,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+The object travels 9 meters.
+
+2B
+
+The work done by the centripetal force is 2R(mv^2/R).
+
+3C
+
+The buoyant force increases by a factor of 8.
+
+4A
+
+The bulbs have thesame brightness.",20,10,40,30
+96,3,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The charge is evenly distributed on the surface.",40,30,10,20

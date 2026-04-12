@@ -1,0 +1,1387 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+2,1,1,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+3,1,1,10-20-40-30,baseline,1,False,10,False,0,B,A,1. B,10,20,40,30
+4,1,1,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+5,1,1,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+6,1,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+7,1,1,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+8,1,1,40-30-10-20,baseline,1,False,40,False,0,A,C,"1
+A",40,30,10,20
+9,1,1,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+10,1,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+11,1,1,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+12,1,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+13,1,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+14,1,1,30-40-10-20,baseline,1,False,30,False,0,A,C,1. A,30,40,10,20
+15,1,1,10-30-40-20,baseline,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+16,1,1,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+17,1,1,10-30-20-40,baseline,1,False,10,False,0,A,C,1. A,10,30,20,40
+18,1,1,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+19,1,1,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+20,1,2,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+21,1,2,40-10-20-30,baseline,1,False,40,False,0,D,C,"1
+D",40,10,20,30
+22,1,2,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+23,1,2,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+24,1,2,10-40-20-30,baseline,1,False,10,False,0,A,C,1. A,10,40,20,30
+25,1,2,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+26,1,2,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+27,1,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+28,1,2,20-10-40-30,baseline,3,False,40,True,40,C,C,"3
+C",20,10,40,30
+29,1,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+30,1,2,10-40-20-30,baseline,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,1,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+32,1,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+33,1,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+34,1,2,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+35,1,2,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+36,1,2,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+37,1,2,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+38,1,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,1,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+40,1,3,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+41,1,3,20-40-30-10,baseline,2,False,40,False,0,B,A,"2
+B",20,40,30,10
+42,1,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+43,1,3,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+44,1,3,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+45,1,3,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+46,1,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+47,1,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+48,1,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+49,1,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+50,1,3,20-10-30-40,baseline,1,False,20,False,0,C,B,1. C,20,10,30,40
+51,1,3,20-30-10-40,baseline,4,False,40,False,0,D,C,4. D,20,30,10,40
+52,1,3,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+53,1,3,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+54,1,3,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+55,1,3,40-20-30-10,baseline,1,False,40,False,0,D,C,1. D,40,20,30,10
+56,1,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+57,1,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+58,1,4,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+59,1,4,30-10-40-20,baseline,1,False,30,False,0,D,C,1. D,30,10,40,20
+60,1,4,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,1,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+62,1,4,20-30-40-10,baseline,2,False,30,False,0,B,A,"2
+B",20,30,40,10
+63,1,4,30-10-40-20,baseline,3,False,40,False,0,C,D,"3
+C",30,10,40,20
+64,1,4,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+65,1,4,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+66,1,4,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+67,1,4,30-20-10-40,baseline,4,False,40,False,0,D,B,4. D,30,20,10,40
+68,1,4,10-20-30-40,baseline,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,1,4,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+70,1,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+71,1,4,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+72,1,4,10-40-30-20,baseline,2,False,40,False,0,B,D,"2
+B",10,40,30,20
+73,1,4,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+74,1,4,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+75,1,4,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+76,1,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+77,1,5,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+78,1,5,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+79,1,5,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+80,1,5,30-10-20-40,baseline,1,False,30,False,0,A,D,1. A,30,10,20,40
+81,1,5,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+82,1,5,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+83,1,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+84,1,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+85,1,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+86,1,5,10-30-40-20,baseline,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,1,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+88,1,5,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+89,1,5,30-40-20-10,baseline,1,False,30,False,0,D,C,"1
+D",30,40,20,10
+90,1,5,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+91,1,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+92,1,5,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+93,1,5,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+94,1,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+95,1,5,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+96,1,5,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+1,2,1,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+2,2,1,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+3,2,1,10-20-40-30,baseline,1,False,10,False,0,B,A,1. B,10,20,40,30
+4,2,1,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+5,2,1,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+6,2,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+7,2,1,20-10-40-30,baseline,1,False,20,False,0,C,A,1. C,20,10,40,30
+8,2,1,40-30-10-20,baseline,1,False,40,False,0,A,C,"1
+A",40,30,10,20
+9,2,1,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+10,2,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+11,2,1,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+12,2,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+13,2,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+14,2,1,30-40-10-20,baseline,1,False,30,False,0,A,C,1. A,30,40,10,20
+15,2,1,10-30-40-20,baseline,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+16,2,1,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+17,2,1,10-30-20-40,baseline,1,False,10,False,0,A,C,1. A,10,30,20,40
+18,2,1,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+19,2,1,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+20,2,2,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+21,2,2,40-10-20-30,baseline,1,False,40,False,0,D,C,"1
+D",40,10,20,30
+22,2,2,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+23,2,2,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+24,2,2,10-40-20-30,baseline,1,False,10,False,0,A,C,1. A,10,40,20,30
+25,2,2,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+26,2,2,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+27,2,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+28,2,2,20-10-40-30,baseline,3,False,40,True,40,C,C,"3
+C",20,10,40,30
+29,2,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+30,2,2,10-40-20-30,baseline,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,2,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+32,2,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+33,2,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+34,2,2,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+35,2,2,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+36,2,2,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+37,2,2,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+38,2,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,2,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+40,2,3,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+41,2,3,20-40-30-10,baseline,2,False,40,False,0,B,A,"2
+B",20,40,30,10
+42,2,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+43,2,3,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+44,2,3,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+45,2,3,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+46,2,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+47,2,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+48,2,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+49,2,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+50,2,3,20-10-30-40,baseline,1,False,20,False,0,C,B,1. C,20,10,30,40
+51,2,3,20-30-10-40,baseline,4,False,40,False,0,D,C,4. D,20,30,10,40
+52,2,3,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+53,2,3,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+54,2,3,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+55,2,3,40-20-30-10,baseline,1,False,40,False,0,D,C,1. D,40,20,30,10
+56,2,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+57,2,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+58,2,4,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+59,2,4,30-10-40-20,baseline,1,False,30,False,0,D,C,1. D,30,10,40,20
+60,2,4,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,2,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+62,2,4,20-30-40-10,baseline,2,False,30,False,0,B,A,"2
+B",20,30,40,10
+63,2,4,30-10-40-20,baseline,3,False,40,False,0,C,D,"3
+C",30,10,40,20
+64,2,4,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+65,2,4,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+66,2,4,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+67,2,4,30-20-10-40,baseline,4,False,40,False,0,D,B,4. D,30,20,10,40
+68,2,4,10-20-30-40,baseline,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,2,4,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+70,2,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+71,2,4,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+72,2,4,10-40-30-20,baseline,1,False,10,True,10,B,B,1. B,10,40,30,20
+73,2,4,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+74,2,4,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+75,2,4,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+76,2,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+77,2,5,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+78,2,5,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+79,2,5,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+80,2,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+81,2,5,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+82,2,5,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+83,2,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+84,2,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+85,2,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+86,2,5,10-30-40-20,baseline,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,2,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+88,2,5,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+89,2,5,30-40-20-10,baseline,1,False,30,False,0,D,C,"1
+D",30,40,20,10
+90,2,5,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+91,2,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+92,2,5,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+93,2,5,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+94,2,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+95,2,5,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+96,2,5,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+1,3,1,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+2,3,1,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+3,3,1,10-20-40-30,baseline,1,False,10,False,0,B,A,1. B,10,20,40,30
+4,3,1,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+5,3,1,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+6,3,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+7,3,1,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+8,3,1,40-30-10-20,baseline,1,False,40,False,0,D,C,"1
+D",40,30,10,20
+9,3,1,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+10,3,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+11,3,1,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+12,3,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+13,3,1,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+14,3,1,30-40-10-20,baseline,1,False,30,False,0,A,C,1. A,30,40,10,20
+15,3,1,10-30-40-20,baseline,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+16,3,1,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+17,3,1,10-30-20-40,baseline,1,False,10,False,0,A,C,1. A,10,30,20,40
+18,3,1,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+19,3,1,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+20,3,2,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+21,3,2,40-10-20-30,baseline,1,False,40,False,0,D,C,"1
+D",40,10,20,30
+22,3,2,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+23,3,2,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+24,3,2,10-40-20-30,baseline,1,False,10,False,0,A,C,1. A,10,40,20,30
+25,3,2,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+26,3,2,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+27,3,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+28,3,2,20-10-40-30,baseline,3,False,40,True,40,C,C,"3
+C",20,10,40,30
+29,3,2,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+30,3,2,10-40-20-30,baseline,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,3,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+32,3,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+33,3,2,40-30-10-20,baseline,1,False,40,False,0,A,C,1. A,40,30,10,20
+34,3,2,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+35,3,2,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+36,3,2,40-20-10-30,baseline,1,False,40,False,0,A,D,"1
+A",40,20,10,30
+37,3,2,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+38,3,2,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,3,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+40,3,3,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+41,3,3,20-40-30-10,baseline,2,False,40,False,0,B,A,"2
+B",20,40,30,10
+42,3,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+43,3,3,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+44,3,3,20-30-10-40,baseline,1,False,20,False,0,B,A,1. B,20,30,10,40
+45,3,3,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+46,3,3,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+47,3,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+48,3,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+49,3,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+50,3,3,20-10-30-40,baseline,1,False,20,False,0,C,B,1. C,20,10,30,40
+51,3,3,20-30-10-40,baseline,4,False,40,False,0,D,C,4. D,20,30,10,40
+52,3,3,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+53,3,3,40-20-30-10,baseline,1,False,40,False,0,A,D,"1
+A",40,20,30,10
+54,3,3,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+55,3,3,40-20-30-10,baseline,1,False,40,False,0,D,C,1. D,40,20,30,10
+56,3,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+57,3,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+58,3,4,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+59,3,4,30-10-40-20,baseline,1,False,30,False,0,D,C,1. D,30,10,40,20
+60,3,4,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,3,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+62,3,4,20-30-40-10,baseline,2,False,30,False,0,B,A,"2
+B",20,30,40,10
+63,3,4,30-10-40-20,baseline,3,False,40,False,0,C,D,"3
+C",30,10,40,20
+64,3,4,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+65,3,4,40-30-20-10,baseline,1,False,40,False,0,C,B,1. C,40,30,20,10
+66,3,4,30-20-10-40,baseline,4,False,40,False,0,,C,4,30,20,10,40
+67,3,4,30-20-10-40,baseline,4,False,40,False,0,D,B,4. D,30,20,10,40
+68,3,4,10-20-30-40,baseline,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,3,4,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+70,3,4,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+71,3,4,10-20-30-40,baseline,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+72,3,4,10-40-30-20,baseline,1,False,10,True,10,B,B,1. B,10,40,30,20
+73,3,4,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+74,3,4,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+75,3,4,20-10-30-40,baseline,1,False,20,False,0,C,D,1. C,20,10,30,40
+76,3,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+77,3,5,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+78,3,5,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+79,3,5,40-30-20-10,baseline,1,False,40,False,0,A,C,1. A,40,30,20,10
+80,3,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+81,3,5,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+82,3,5,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+83,3,5,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+84,3,5,20-10-30-40,baseline,1,False,20,False,0,B,A,1. B,20,10,30,40
+85,3,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+86,3,5,10-30-40-20,baseline,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,3,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+88,3,5,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+89,3,5,30-40-20-10,baseline,1,False,30,False,0,D,C,"1
+D",30,40,20,10
+90,3,5,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+91,3,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+92,3,5,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+93,3,5,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+94,3,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+95,3,5,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+96,3,5,10-30-20-40,baseline,2,False,30,False,0,B,A,"2
+B",10,30,20,40
+1,1,1,10-20-40-30,model_A,1,False,10,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",10,20,40,30
+2,1,1,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The global healthcare expenditure was 10% of global GDP as of 2017.",40,20,10,30
+3,1,1,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",10,20,40,30
+4,1,1,10-30-40-20,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,30,40,20
+5,1,1,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+The largest number of children under the age of five years who died in 2017 was in Pakistan.",30,20,40,10
+6,1,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+7,1,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3B
+
+4C",20,10,40,30
+8,1,1,40-30-10-20,model_A,1,False,40,False,0,A,C,"Question 1
+Answer: A",40,30,10,20
+9,1,1,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",30,20,10,40
+10,1,1,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,30,20,10
+11,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+Most Latin American countries achieved independence in the early nineteenth century.",20,40,30,10
+12,1,1,10-30-40-20,model_A,1,False,10,False,0,,D,"2B
+
+The total global healthcare expenditure is about 2% of global GDP as of 2017.",10,30,40,20
+13,1,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",40,30,10,20
+14,1,1,30-40-10-20,model_A,1,False,30,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will increase from 2 billion (2020)to 4 billion (2100)",30,40,10,20
+15,1,1,10-30-40-20,model_A,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+16,1,1,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+17,1,1,10-30-20-40,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",10,30,20,40
+18,1,1,40-20-30-10,model_A,2,False,20,True,20,A,A,"Question 2
+
+The answer is A) by 4 fold.",40,20,30,10
+19,1,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+20,1,2,30-20-10-40,model_A,1,False,30,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",30,20,10,40
+21,1,2,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+22,1,2,10-40-20-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,40,20,30
+23,1,2,40-20-10-30,model_A,4,False,30,False,0,,D,"1A
+
+The GDP per capita increased by 4 fold from 1950 to 2016 in India.",40,20,10,30
+24,1,2,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3C
+
+4D",10,40,20,30
+25,1,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",10,20,30,40
+26,1,2,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+27,1,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",30,10,20,40
+28,1,2,20-10-40-30,model_A,2,False,10,False,0,,D,"3C
+
+There will be 2 billion children aged 0-15 years old according to the United Nations.",20,10,40,30
+29,1,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,10,20,40
+30,1,2,10-40-20-30,model_A,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,1,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+The percentage of Americans who believed the Kinsey Report on Sexuality in the Male to be a bad thing was 27%.",30,10,40,20
+32,1,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",40,30,10,20
+33,1,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",40,30,10,20
+34,1,2,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",40,10,30,20
+35,1,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,20,30
+36,1,2,40-20-10-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3D
+
+4B",40,20,10,30
+37,1,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",40,30,20,10
+38,1,2,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,1,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,40,30,20
+40,1,3,30-40-20-10,model_A,1,False,30,False,0,,C,"2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",30,40,20,10
+41,1,3,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,40,30,10
+42,1,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+43,1,3,10-40-30-20,model_A,1,False,10,False,0,,C,2C,10,40,30,20
+44,1,3,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2B
+
+3D
+
+4A",20,30,10,40
+45,1,3,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,10,40
+46,1,3,30-10-40-20,model_A,1,False,30,False,0,,B,3C,30,10,40,20
+47,1,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+48,1,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",10,20,30,40
+49,1,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",40,20,10,30
+50,1,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",20,10,30,40
+51,1,3,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+D",20,30,10,40
+52,1,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2D
+
+The largest number of children under 5 years old died in Pakistan.",10,40,30,20
+53,1,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3A
+
+4D",40,20,30,10
+54,1,3,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,10,40,30
+55,1,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,20,30,10
+56,1,3,40-10-30-20,model_A,1,False,40,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",40,10,30,20
+57,1,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+58,1,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2A
+
+The largest number of children under 5 years old died in China.",20,40,30,10
+59,1,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,10,40,20
+60,1,4,10-30-20-40,model_A,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,1,4,20-40-30-10,model_A,1,False,20,False,0,,D,"1A
+
+The largest number of children under 5 years old who died in 2017 was in China.",20,40,30,10
+62,1,4,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,30,40,10
+63,1,4,30-10-40-20,model_A,1,False,30,False,0,,D,"3C
+
+Total global healthcare expenditure is about 5% of global GDP as of 2017.",30,10,40,20
+64,1,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",30,40,10,20
+65,1,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",40,30,20,10
+66,1,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+2B
+
+3D
+
+4A",30,20,10,40
+67,1,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3B
+
+4B",30,20,10,40
+68,1,4,10-20-30-40,model_A,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,1,4,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+A",30,40,10,20
+70,1,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+71,1,4,10-20-30-40,model_A,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+72,1,4,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+The global healthcare expenditure was 10% of global GDP as of 2017.",10,40,30,20
+73,1,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under theage5 diedinPakistanin2017.",40,20,30,10
+74,1,4,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,40,20,10
+75,1,4,20-10-30-40,model_A,1,False,20,False,0,A,D,"1C
+
+The percentage of Americans who believed the Kinsey Report on Sexuality in the Male to be a bad thing was 27%.
+
+2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.
+
+3D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa",20,10,30,40
+76,1,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+In 1948, 27% of Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing.",40,10,20,30
+77,1,5,20-10-30-40,model_A,1,False,20,False,0,A,D,"1D
+
+The question asks ""Most Latin American countries achieved independence (A) shortly after World War II (B) in the1960s (C) around thetimeofWorldWarI(D)intheearlynineteenthcentury""andtheansweristheDOptionD
+
+Thequestionasks""Whichofthefollowingistruabouttheglobalgrowthrate?A)The",20,10,30,40
+78,1,5,20-10-40-30,model_A,1,False,20,False,0,,A,3C,20,10,40,30
+79,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will be 2 billion.",40,30,20,10
+80,1,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+2D
+
+3B
+
+4C",30,10,20,40
+81,1,5,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+The number of children aged 0-15 years old will be 2 billion.",20,30,40,10
+82,1,5,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",20,30,10,40
+83,1,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2B
+
+Total global healthcare expenditure is about 2% of global GDP as of 2017.",10,40,20,30
+84,1,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",20,10,30,40
+85,1,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,20,40,30
+86,1,5,10-30-40-20,model_A,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,1,5,10-30-20-40,model_A,1,False,10,False,0,,D,"2D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",10,30,20,40
+88,1,5,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The number of children aged 0-15 years old will be 2 billion according to the United Nations.",30,40,20,10
+89,1,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,40,20,10
+90,1,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",30,10,20,40
+91,1,5,10-20-40-30,model_A,2,False,20,False,0,A,C,"2
+A",10,20,40,30
+92,1,5,20-40-10-30,model_A,1,False,20,False,0,,A,"2D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",20,40,10,30
+93,1,5,20-40-10-30,model_A,1,False,20,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",20,40,10,30
+94,1,5,20-40-10-30,model_A,1,False,20,False,0,,C,"1A
+
+2B
+
+3D
+
+4C",20,40,10,30
+95,1,5,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+96,1,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,30,20,40
+1,2,1,10-20-40-30,model_A,1,False,10,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",10,20,40,30
+2,2,1,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The global healthcare expenditure was 10% of global GDP as of 2017.",40,20,10,30
+3,2,1,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",10,20,40,30
+4,2,1,10-30-40-20,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,30,40,20
+5,2,1,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+The largest number of children under the age of five years who died in 2017 was in Pakistan.",30,20,40,10
+6,2,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+7,2,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3B
+
+4C",20,10,40,30
+8,2,1,40-30-10-20,model_A,1,False,40,False,0,A,C,"Question 1
+A
+
+Question 2
+C
+
+Question 3
+A
+
+Question 4
+B",40,30,10,20
+9,2,1,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+The largest number of children under 5 years died in China.",30,20,10,40
+10,2,1,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,30,20,10
+11,2,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+Most Latin American countries achieved independence in the early nineteenth century.",20,40,30,10
+12,2,1,10-30-40-20,model_A,1,False,10,False,0,,D,"2B
+
+The total global healthcare expenditure is about 2% of global GDP as of 2017.",10,30,40,20
+13,2,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",40,30,10,20
+14,2,1,30-40-10-20,model_A,1,False,30,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will increase from 2 billion (2020)to 4 billion (2100)",30,40,10,20
+15,2,1,10-30-40-20,model_A,1,False,10,False,0,,C,"2C
+
+As of 2014, about 35% of primary-aged children in Sub-Saharan Africa were out-of-school.",10,30,40,20
+16,2,1,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+17,2,1,10-30-20-40,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",10,30,20,40
+18,2,1,40-20-30-10,model_A,2,False,20,False,0,,A,"2
+The GDP per capita increased by 32 fold.",40,20,30,10
+19,2,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+20,2,2,30-20-10-40,model_A,1,False,30,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",30,20,10,40
+21,2,2,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+22,2,2,10-40-20-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,40,20,30
+23,2,2,40-20-10-30,model_A,4,False,30,False,0,,D,"1A
+
+The GDP per capita increased by 4 fold from 1950 to 2016 in India.",40,20,10,30
+24,2,2,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3C
+
+4D",10,40,20,30
+25,2,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",10,20,30,40
+26,2,2,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+27,2,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+2D
+
+3B
+
+4B",30,10,20,40
+28,2,2,20-10-40-30,model_A,2,False,10,False,0,,D,"3C
+
+There will be 2 billion children aged 0-15 years old according to the United Nations.",20,10,40,30
+29,2,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,10,20,40
+30,2,2,10-40-20-30,model_A,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,2,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+The percentage of Americans who believed the Kinsey Report on Sexuality in the Male to be a bad thing was 27%.",30,10,40,20
+32,2,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",40,30,10,20
+33,2,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",40,30,10,20
+34,2,2,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The total global healthcare expenditure is about 10% of global GDP as of 2017.",40,10,30,20
+35,2,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,20,30
+36,2,2,40-20-10-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3D
+
+4B",40,20,10,30
+37,2,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",40,30,20,10
+38,2,2,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,2,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,40,30,20
+40,2,3,30-40-20-10,model_A,1,False,30,False,0,,C,"2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",30,40,20,10
+41,2,3,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,40,30,10
+42,2,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+43,2,3,10-40-30-20,model_A,1,False,10,False,0,,C,2C,10,40,30,20
+44,2,3,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2B
+
+3D
+
+4A",20,30,10,40
+45,2,3,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,10,40
+46,2,3,30-10-40-20,model_A,1,False,30,False,0,,B,3C,30,10,40,20
+47,2,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+48,2,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",10,20,30,40
+49,2,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",40,20,10,30
+50,2,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",20,10,30,40
+51,2,3,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+D",20,30,10,40
+52,2,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2D
+
+The largest number of children under 5 years old died in Pakistan.",10,40,30,20
+53,2,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1C
+
+The Kinsey Report on Sexuality in the Male was released in 1948. According to the report, 27% of Americans believed it was a bad thing.",40,20,30,10
+54,2,3,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,10,40,30
+55,2,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,20,30,10
+56,2,3,40-10-30-20,model_A,1,False,40,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",40,10,30,20
+57,2,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+58,2,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2A
+
+The largest number of children under 5 years old died in China.",20,40,30,10
+59,2,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,10,40,20
+60,2,4,10-30-20-40,model_A,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,2,4,20-40-30-10,model_A,1,False,20,False,0,,D,"1A
+
+The largest number of children under 5 years old who died in 2017 was in China.",20,40,30,10
+62,2,4,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,30,40,10
+63,2,4,30-10-40-20,model_A,1,False,30,False,0,,D,"3C
+
+Total global healthcare expenditure is about 5% of global GDP as of 2017.",30,10,40,20
+64,2,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",30,40,10,20
+65,2,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",40,30,20,10
+66,2,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+2B
+
+3D
+
+4A",30,20,10,40
+67,2,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3B
+
+4B",30,20,10,40
+68,2,4,10-20-30-40,model_A,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,2,4,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+A",30,40,10,20
+70,2,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+71,2,4,10-20-30-40,model_A,2,False,20,False,0,B,C,"2
+B",10,20,30,40
+72,2,4,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+The total global healthcare expenditure is about 5% of global GDP as of 2017.",10,40,30,20
+73,2,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",40,20,30,10
+74,2,4,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,40,20,10
+75,2,4,20-10-30-40,model_A,1,False,20,False,0,A,D,"1C
+
+The percentage of Americans who believed the Kinsey Report on Sexuality in the Male to be a bad thing was 27%.
+
+2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.
+
+3D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa",20,10,30,40
+76,2,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+In 1948, 27% of Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing.",40,10,20,30
+77,2,5,20-10-30-40,model_A,1,False,20,False,0,A,D,"1D
+
+The question asks ""Most Latin American countries achieved independence (A) shortly after World War II (B) in the1960s (C) around thetimeofWorldWarI(D)intheearlynineteenthcentury""andtheansweristheDOptionD
+
+Thequestionasks""Whichofthefollowingistruabouttheglobalgrowthrate?A)The",20,10,30,40
+78,2,5,20-10-40-30,model_A,1,False,20,False,0,,A,3C,20,10,40,30
+79,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will be 2 billion.",40,30,20,10
+80,2,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+2D
+
+3B
+
+4C",30,10,20,40
+81,2,5,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+The number of children aged 0-15 years old will be 2 billion.",20,30,40,10
+82,2,5,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",20,30,10,40
+83,2,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2B
+
+Total global healthcare expenditure is about 2% of global GDP as of 2017.",10,40,20,30
+84,2,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",20,10,30,40
+85,2,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,20,40,30
+86,2,5,10-30-40-20,model_A,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,2,5,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",10,30,20,40
+88,2,5,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The number of children aged 0-15 years old will be 2 billion according to the United Nations.",30,40,20,10
+89,2,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,40,20,10
+90,2,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",30,10,20,40
+91,2,5,10-20-40-30,model_A,2,False,20,False,0,B,C,"2
+B",10,20,40,30
+92,2,5,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+93,2,5,20-40-10-30,model_A,1,False,20,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",20,40,10,30
+94,2,5,20-40-10-30,model_A,2,False,40,False,0,,B,"2
+The global growth rate was two times as high 50 years ago as it is in 2020.",20,40,10,30
+95,2,5,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+96,2,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,30,20,40
+1,3,1,10-20-40-30,model_A,1,False,10,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",10,20,40,30
+2,3,1,40-20-10-30,model_A,1,False,40,False,0,,D,"1D
+
+The global healthcare expenditure was 10% of global GDP as of 2017.",40,20,10,30
+3,3,1,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",10,20,40,30
+4,3,1,10-30-40-20,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,30,40,20
+5,3,1,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+The largest number of children under the age of five years who died in 2017 was in Pakistan.",30,20,40,10
+6,3,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+7,3,1,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3B
+
+4C",20,10,40,30
+8,3,1,40-30-10-20,model_A,1,False,40,False,0,A,C,"Question 1
+Answer: A",40,30,10,20
+9,3,1,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",30,20,10,40
+10,3,1,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,30,20,10
+11,3,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+Most Latin American countries achieved independence in the early nineteenth century.",20,40,30,10
+12,3,1,10-30-40-20,model_A,1,False,10,False,0,,D,"2B
+
+The total global healthcare expenditure is about 2% of global GDP as of 2017.",10,30,40,20
+13,3,1,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",40,30,10,20
+14,3,1,30-40-10-20,model_A,1,False,30,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will increase from 2 billion (2020)to 4 billion (2100)",30,40,10,20
+15,3,1,10-30-40-20,model_A,1,False,10,False,0,,C,"2C
+
+As of 2014, about 35% of primary-aged children in Sub-Saharan Africa were out-of-school.",10,30,40,20
+16,3,1,20-40-10-30,model_A,1,False,20,False,0,,D,"2D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",20,40,10,30
+17,3,1,10-30-20-40,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",10,30,20,40
+18,3,1,40-20-30-10,model_A,2,False,20,False,0,,A,"2
+The GDP per capita increased by 32 fold.",40,20,30,10
+19,3,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+20,3,2,30-20-10-40,model_A,1,False,30,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",30,20,10,40
+21,3,2,40-10-20-30,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,10,20,30
+22,3,2,10-40-20-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,40,20,30
+23,3,2,40-20-10-30,model_A,4,False,30,False,0,,D,"1A
+
+The GDP per capita increased by 4 fold from 1950 to 2016 in India.",40,20,10,30
+24,3,2,10-40-20-30,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3C
+
+4D",10,40,20,30
+25,3,2,10-20-30-40,model_A,1,False,10,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",10,20,30,40
+26,3,2,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+27,3,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",30,10,20,40
+28,3,2,20-10-40-30,model_A,2,False,10,False,0,,D,"3C
+
+There will be 2 billion children aged 0-15 years old according to the United Nations.",20,10,40,30
+29,3,2,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,10,20,40
+30,3,2,10-40-20-30,model_A,2,False,40,False,0,C,B,"2
+C",10,40,20,30
+31,3,2,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+In 1948, 27% of Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing.",30,10,40,20
+32,3,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",40,30,10,20
+33,3,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1A
+
+2A
+
+3B
+
+4C",40,30,10,20
+34,3,2,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The total global healthcare expenditure is about 10% of global GDP as of 2017.",40,10,30,20
+35,3,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,20,30
+36,3,2,40-20-10-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3D
+
+4B",40,20,10,30
+37,3,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",40,30,20,10
+38,3,2,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+39,3,3,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",10,40,30,20
+40,3,3,30-40-20-10,model_A,1,False,30,False,0,,C,"2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",30,40,20,10
+41,3,3,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,40,30,10
+42,3,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",40,10,30,20
+43,3,3,10-40-30-20,model_A,1,False,10,False,0,,C,2C,10,40,30,20
+44,3,3,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2B
+
+3D
+
+4B",20,30,10,40
+45,3,3,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,10,40
+46,3,3,30-10-40-20,model_A,1,False,30,False,0,,B,3C,30,10,40,20
+47,3,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+48,3,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The largest number of children under 5 years died in Pakistan.",10,20,30,40
+49,3,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",40,20,10,30
+50,3,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",20,10,30,40
+51,3,3,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+D",20,30,10,40
+52,3,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2D
+
+The largest number of children under 5 years old died in Pakistan.",10,40,30,20
+53,3,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3A
+
+4D",40,20,30,10
+54,3,3,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,10,40,30
+55,3,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",40,20,30,10
+56,3,3,40-10-30-20,model_A,1,False,40,False,0,,B,"1A
+
+The global growth rate was four times as high 50 years ago as it is in 2020.",40,10,30,20
+57,3,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+58,3,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2A
+
+The largest number of children under 5 years old died in China.",20,40,30,10
+59,3,4,30-10-40-20,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,10,40,20
+60,3,4,10-30-20-40,model_A,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+61,3,4,20-40-30-10,model_A,1,False,20,False,0,,D,"1A
+
+The largest number of children under 5 years old who died in 2017 was in China.",20,40,30,10
+62,3,4,20-30-40-10,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",20,30,40,10
+63,3,4,30-10-40-20,model_A,1,False,30,False,0,,D,"3C
+
+Total global healthcare expenditure is about 5% of global GDP as of 2017.",30,10,40,20
+64,3,4,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",30,40,10,20
+65,3,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",40,30,20,10
+66,3,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1C
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",30,20,10,40
+67,3,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3B
+
+4B",30,20,10,40
+68,3,4,10-20-30-40,model_A,2,False,20,False,0,C,B,"2
+C",10,20,30,40
+69,3,4,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+A",30,40,10,20
+70,3,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,30,40,10
+71,3,4,10-20-30-40,model_A,2,False,20,False,0,A,C,"2
+The answer is A. 4 billion",10,20,30,40
+72,3,4,10-40-30-20,model_A,2,False,40,False,0,,D,"2
+The global healthcare expenditure was 10% of global GDP as of 2017.",10,40,30,20
+73,3,4,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+The largest number of children under theage5 diedinPakistanin2017.",40,20,30,10
+74,3,4,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The total global healthcare expenditure was about 10% of global GDP as of 2017.",30,40,20,10
+75,3,4,20-10-30-40,model_A,1,False,20,False,0,A,D,"1C
+
+The percentage of Americans who believed the Kinsey Report on Sexuality in the Male to be a bad thing was 27%.
+
+2B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.
+
+3D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa",20,10,30,40
+76,3,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+In 1948, 27% of Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing.",40,10,20,30
+77,3,5,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",20,10,30,40
+78,3,5,20-10-40-30,model_A,1,False,20,False,0,,A,3C,20,10,40,30
+79,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+According to the United Nations, The number of children aged 0-15 years old will be 2 billion.",40,30,20,10
+80,3,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+2D
+
+3B
+
+4B",30,10,20,40
+81,3,5,20-30-40-10,model_A,2,False,30,False,0,A,C,"2
+A",20,30,40,10
+82,3,5,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The global growth rate was two times as high 50 years ago as it is in 2020.",20,30,10,40
+83,3,5,10-40-20-30,model_A,2,False,40,False,0,,D,"2B
+
+Total global healthcare expenditure is about 2% of global GDP as of 2017.",10,40,20,30
+84,3,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4B",20,10,30,40
+85,3,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+Most Latin American countries achieved independence around the time of World War I.",10,20,40,30
+86,3,5,10-30-40-20,model_A,2,False,30,False,0,C,B,"2
+C",10,30,40,20
+87,3,5,10-30-20-40,model_A,1,False,10,False,0,,D,"2D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",10,30,20,40
+88,3,5,30-40-20-10,model_A,2,False,40,False,0,,C,"2
+The number of children aged 0-15 years old will be 2 billion according to the United Nations.",30,40,20,10
+89,3,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1D
+
+As of 2020, about 80% of the population in Sub-Saharan Africa is living on less than $1.90.",30,40,20,10
+90,3,5,30-10-20-40,model_A,1,False,30,False,0,,A,"1
+The GDP per capita increased by 32 fold from 1950 to 2016 in India.",30,10,20,40
+91,3,5,10-20-40-30,model_A,2,False,20,False,0,B,C,"2
+B",10,20,40,30
+92,3,5,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+93,3,5,20-40-10-30,model_A,1,False,20,False,0,,B,"2D
+
+The largest number of children under 5 years old who died in 2017 was in Pakistan.",20,40,10,30
+94,3,5,20-40-10-30,model_A,1,False,20,False,0,,C,"1A
+
+2B
+
+3D
+
+4C",20,40,10,30
+95,3,5,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+As of 2014, about 35% of primary aged children in Sub-Saharan Africa were out-of-school.",30,20,40,10
+96,3,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+The GDP per capita increased by 32 fold.",10,30,20,40

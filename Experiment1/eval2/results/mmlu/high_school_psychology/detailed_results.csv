@@ -1,0 +1,1560 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+2,1,1,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+3,1,1,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+4,1,1,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+5,1,1,10-40-20-30,baseline,2,False,40,True,40,A,A,"2
+A",10,40,20,30
+6,1,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+7,1,1,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+8,1,1,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+9,1,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+10,1,1,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+11,1,1,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+12,1,1,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+13,1,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+14,1,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+15,1,1,20-10-40-30,baseline,-1,True,0,False,0,,,"1. C
+2. D
+3. A
+4. C",20,10,40,30
+16,1,1,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+17,1,1,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+18,1,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+19,1,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+20,1,2,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+21,1,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+22,1,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,1,2,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+24,1,2,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+25,1,2,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+26,1,2,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+27,1,2,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+28,1,2,20-40-30-10,baseline,1,False,20,True,20,B,B,"1
+B",20,40,30,10
+29,1,2,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+30,1,2,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+31,1,2,10-20-40-30,baseline,-1,True,0,False,0,,,"1. D
+2. B
+3. D
+4. A",10,20,40,30
+32,1,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+33,1,2,20-10-40-30,baseline,1,False,20,True,20,D,D,1 D,20,10,40,30
+34,1,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+35,1,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,1,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+37,1,2,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+38,1,2,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+39,1,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+40,1,3,30-10-40-20,baseline,1,False,30,True,30,A,A,"1. A population frequently studied to best assess the relative effects of nature vs. nurture is (A) identical twins (B) identical quadruplets (C) adopted children and their adoptive parents (D) couples who have been married for many years (30 points)
+
+Answer: A",30,10,40,20
+41,1,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+42,1,3,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+43,1,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+44,1,3,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+45,1,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+46,1,3,30-20-10-40,baseline,4,False,40,True,40,D,D,4. D,30,20,10,40
+47,1,3,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+48,1,3,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+49,1,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+50,1,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+51,1,3,30-10-20-40,baseline,1,False,30,False,0,,C,1,30,10,20,40
+52,1,3,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+53,1,3,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+54,1,3,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+55,1,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+56,1,3,40-30-10-20,baseline,2,False,30,False,0,,D,2,40,30,10,20
+57,1,3,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+58,1,4,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+59,1,4,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+60,1,4,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+61,1,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+62,1,4,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+63,1,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+64,1,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+65,1,4,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+66,1,4,40-20-10-30,baseline,1,False,40,False,0,,C,1,40,20,10,30
+67,1,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+68,1,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+69,1,4,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+70,1,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+71,1,4,20-30-10-40,baseline,4,False,40,False,0,,D,4,20,30,10,40
+72,1,4,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+73,1,4,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+74,1,4,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+75,1,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+76,1,4,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+77,1,5,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+78,1,5,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+79,1,5,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+80,1,5,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+81,1,5,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+82,1,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+83,1,5,40-20-30-10,baseline,-1,True,0,False,0,,,"1. A
+2. D
+3. D
+4. D",40,20,30,10
+84,1,5,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+85,1,5,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+86,1,5,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+87,1,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D) content validity.,10,30,20,40
+88,1,5,40-30-20-10,baseline,2,False,30,True,30,B,B,2 - B,40,30,20,10
+89,1,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+90,1,5,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+91,1,5,30-40-10-20,baseline,-1,True,0,False,0,,,"1. D
+2. D
+3. D
+4. C",30,40,10,20
+92,1,5,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+93,1,5,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+94,1,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+95,1,5,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+96,1,5,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+1,2,1,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+2,2,1,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+3,2,1,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+4,2,1,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+5,2,1,10-40-20-30,baseline,2,False,40,True,40,A,A,"2
+A",10,40,20,30
+6,2,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+7,2,1,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+8,2,1,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+9,2,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+10,2,1,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+11,2,1,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+12,2,1,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+13,2,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+14,2,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+15,2,1,20-10-40-30,baseline,-1,True,0,False,0,,,"1. C
+2. D
+3. A
+4. C",20,10,40,30
+16,2,1,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+17,2,1,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+18,2,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+19,2,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+20,2,2,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+21,2,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+22,2,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,2,2,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+24,2,2,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+25,2,2,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+26,2,2,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+27,2,2,20-10-30-40,baseline,-1,True,0,False,0,,,"1. D
+2. D
+3. B
+4. C",20,10,30,40
+28,2,2,20-40-30-10,baseline,1,False,20,True,20,B,B,1. B,20,40,30,10
+29,2,2,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+30,2,2,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+31,2,2,10-20-40-30,baseline,-1,True,0,False,0,,,"1. D
+2. B
+3. D
+4. A",10,20,40,30
+32,2,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+33,2,2,20-10-40-30,baseline,1,False,20,True,20,D,D,1 D,20,10,40,30
+34,2,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+35,2,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,2,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+37,2,2,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+38,2,2,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+39,2,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+40,2,3,30-10-40-20,baseline,1,False,30,True,30,A,A,"1. A population frequently studied to best assess the relative effects of nature vs. nurture is (A) identical twins (B) identical quadruplets (C) adopted children and their adoptive parents (D) couples who have been married for many years (30 points)
+
+Answer: A",30,10,40,20
+41,2,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+42,2,3,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+43,2,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+44,2,3,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+45,2,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+46,2,3,30-20-10-40,baseline,4,False,40,True,40,D,D,4. D,30,20,10,40
+47,2,3,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+48,2,3,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+49,2,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+50,2,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+51,2,3,30-10-20-40,baseline,4,False,40,False,0,,D,4,30,10,20,40
+52,2,3,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+53,2,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+54,2,3,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+55,2,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+56,2,3,40-30-10-20,baseline,2,False,30,False,0,,D,2,40,30,10,20
+57,2,3,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+58,2,4,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+59,2,4,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+60,2,4,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+61,2,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+62,2,4,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+63,2,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+64,2,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+65,2,4,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+66,2,4,40-20-10-30,baseline,1,False,40,False,0,,C,1,40,20,10,30
+67,2,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+68,2,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+69,2,4,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+70,2,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+71,2,4,20-30-10-40,baseline,4,False,40,False,0,,D,4,20,30,10,40
+72,2,4,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+73,2,4,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+74,2,4,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+75,2,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+76,2,4,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+77,2,5,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+78,2,5,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+79,2,5,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+80,2,5,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+81,2,5,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+82,2,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+83,2,5,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+84,2,5,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D. just-world bias,40,20,30,10
+85,2,5,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+86,2,5,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+87,2,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D) content validity.,10,30,20,40
+88,2,5,40-30-20-10,baseline,2,False,30,True,30,B,B,2 - B,40,30,20,10
+89,2,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+90,2,5,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+91,2,5,30-40-10-20,baseline,-1,True,0,False,0,,,"1. D
+2. D
+3. D
+4. C",30,40,10,20
+92,2,5,30-20-10-40,baseline,-1,True,0,False,0,,,"1. B
+2. D
+3. C
+4. D",30,20,10,40
+93,2,5,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+94,2,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+95,2,5,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+96,2,5,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+1,3,1,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+2,3,1,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+3,3,1,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+4,3,1,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+5,3,1,10-40-20-30,baseline,2,False,40,True,40,A,A,"2
+A",10,40,20,30
+6,3,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+7,3,1,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+8,3,1,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+9,3,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+10,3,1,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+11,3,1,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+12,3,1,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+13,3,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+14,3,1,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+15,3,1,20-10-40-30,baseline,-1,True,0,False,0,,,"1. C
+2. D
+3. A
+4. C",20,10,40,30
+16,3,1,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+17,3,1,10-30-20-40,baseline,1,False,10,True,10,A,A,"1
+A",10,30,20,40
+18,3,1,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+19,3,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+20,3,2,20-40-10-30,baseline,2,False,40,True,40,D,D,"2
+D",20,40,10,30
+21,3,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+22,3,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+23,3,2,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+24,3,2,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+25,3,2,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+26,3,2,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+27,3,2,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+28,3,2,20-40-30-10,baseline,1,False,20,True,20,B,B,1. B,20,40,30,10
+29,3,2,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+30,3,2,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+31,3,2,10-20-40-30,baseline,-1,True,0,False,0,,,"1. D
+2. B
+3. D
+4. A",10,20,40,30
+32,3,2,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+33,3,2,20-10-40-30,baseline,1,False,20,True,20,D,D,"1 D
+2 B
+3 A
+4 A",20,10,40,30
+34,3,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+35,3,2,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+36,3,2,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+37,3,2,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+38,3,2,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+39,3,3,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+40,3,3,30-10-40-20,baseline,1,False,30,True,30,A,A,"1. A population frequently studied to best assess the relative effects of nature vs. nurture is (A) identical twins (B) identical quadruplets (C) adopted children and their adoptive parents (D) couples who have been married for many years (30 points)
+
+Answer: A",30,10,40,20
+41,3,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+42,3,3,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+43,3,3,20-30-40-10,baseline,2,False,30,True,30,D,D,"2
+D",20,30,40,10
+44,3,3,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+45,3,3,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+46,3,3,30-20-10-40,baseline,4,False,40,True,40,D,D,4. D,30,20,10,40
+47,3,3,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+48,3,3,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+49,3,3,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+50,3,3,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+51,3,3,30-10-20-40,baseline,1,False,30,False,0,,C,1,30,10,20,40
+52,3,3,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+53,3,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+54,3,3,30-10-40-20,baseline,1,False,30,True,30,C,C,"1
+C",30,10,40,20
+55,3,3,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+56,3,3,40-30-10-20,baseline,2,False,30,False,0,,D,2,40,30,10,20
+57,3,3,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+58,3,4,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+59,3,4,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+60,3,4,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+61,3,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+62,3,4,40-30-20-10,baseline,1,False,40,True,40,B,B,1. B,40,30,20,10
+63,3,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+64,3,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+65,3,4,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+66,3,4,40-20-10-30,baseline,1,False,40,False,0,,C,1,40,20,10,30
+67,3,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+68,3,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+69,3,4,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+70,3,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+71,3,4,20-30-10-40,baseline,4,False,40,False,0,,D,4,20,30,10,40
+72,3,4,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+73,3,4,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+74,3,4,40-10-20-30,baseline,1,False,40,False,0,,D,1,40,10,20,30
+75,3,4,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+76,3,4,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+77,3,5,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+78,3,5,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+79,3,5,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+80,3,5,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+81,3,5,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+82,3,5,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+83,3,5,40-20-30-10,baseline,-1,True,0,False,0,,,"1. A
+2. D
+3. D
+4. D",40,20,30,10
+84,3,5,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D. just-world bias,40,20,30,10
+85,3,5,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+86,3,5,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+87,3,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D) content validity.,10,30,20,40
+88,3,5,40-30-20-10,baseline,2,False,30,True,30,B,B,2 - B,40,30,20,10
+89,3,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+90,3,5,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+91,3,5,30-40-10-20,baseline,-1,True,0,False,0,,,"1. D
+2. D
+3. D
+4. C",30,40,10,20
+92,3,5,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+93,3,5,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+94,3,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+95,3,5,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+96,3,5,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+1,1,1,30-20-40-10,model_A,3,False,40,False,0,,D,"3
+
+The most valid and reliable data about individuals as they progress through various stages of development is provided by Longitudinal Studies.",30,20,40,10
+2,1,1,10-40-30-20,model_A,1,False,10,False,0,A,C,"2A
+
+Piaget would attribute Kate's positioning herself squarely in front of all the other kids to watch a magician to Kate's egocentrism.",10,40,30,20
+3,1,1,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic.",30,10,20,40
+4,1,1,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",20,30,40,10
+5,1,1,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+An overall conclusion might be reached by performing meta-analysis.",10,40,20,30
+6,1,1,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",10,20,40,30
+7,1,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2D
+
+The fact that Will was better able to memorize his lines in the school play after finding out the meanings behind thewordsbestillustratestheinfluenceofDSemanticMemory.",10,40,30,20
+8,1,1,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+The distribution must be normal.",20,10,40,30
+9,1,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",40,10,30,20
+10,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anEmergency.",20,40,30,10
+11,1,1,10-40-30-20,model_A,1,False,10,False,0,D,B,"2D
+
+The therapy that is no longer used to treat patients is D) prefrontal lobotomy.",10,40,30,20
+12,1,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4D",40,30,20,10
+13,1,1,20-40-10-30,model_A,1,False,20,False,0,,A,"2C
+
+The participant's behavior can be explained by the primary drive of hungermotivatedthepersontoeatandthenstopwhenshe/heregainedhomeostasis.",20,40,10,30
+14,1,1,10-30-20-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events.",10,30,20,40
+15,1,1,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called the absolute threshold.",20,10,40,30
+16,1,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+2C
+
+3D
+
+4D",30,20,10,40
+17,1,1,10-30-20-40,model_A,1,False,10,True,10,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",10,30,20,40
+18,1,1,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+A psychologist who believes in the humanistic perspective would be most likely to agree with (B)People's behavior is primarily a result of free will.",20,30,40,10
+19,1,1,10-20-40-30,model_A,1,False,10,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.
+
+2B
+
+""BehaviorismisbestcharacterizedbytheBeliefthatBehaviorismTheResultOfLearning",10,20,40,30
+20,1,2,20-40-10-30,model_A,2,False,40,True,40,D,D,"2
+
+Karmina's feeling about chicken reflects **D** stimulus generalization.",20,40,10,30
+21,1,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2D
+
+Alyssa is most likely testing framing.",10,40,20,30
+22,1,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The behavior modification technique applied by the teacher is (D) Negative reinforcement.",30,40,20,10
+23,1,2,10-30-40-20,model_A,1,False,10,False,0,,A,"2B
+
+REM sleep deprivation generally causes interference with memory tasks.",10,30,40,20
+24,1,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+According to the opponent process theory of emotions, repetitions of anemotion-arousing eventstrengthentheopposingemotion.",40,30,10,20
+25,1,2,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+26,1,2,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+Shakira is solving the problem by use of (D) an algorithm.
+
+2C
+
+All of the following are examples of secondary drives EXCEPT (C) approval.
+
+3D
+
+Which of the following newborn reflexes help infants find and eat food? (D) rooting
+
+4A
+
+Which of thefollowingisastimulantmedicationusedtreatAttentionDeficitHyper",40,20,10,30
+27,1,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",20,10,30,40
+28,1,2,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+29,1,2,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",20,30,10,40
+30,1,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,20,10,30
+31,1,2,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The distribution must be normal.",10,20,40,30
+32,1,2,30-40-20-10,model_A,1,False,30,False,0,,C,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+33,1,2,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",20,10,40,30
+34,1,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",40,20,10,30
+35,1,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The instrument that has traditionally been used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,40,10,20
+36,1,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called a(n) **Absolute Threshold**.",40,10,30,20
+37,1,2,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The teacher is trying to avoid the self-fulfilling prophecy effect.",20,10,30,40
+38,1,2,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+Shakira is solving the problem by use of **D**Algorithm**.**",10,30,40,20
+39,1,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The fact that Will was better able to memorize his lines in the school play after finding out the meanings behind thewordsbest illustratesthe influenceofSemantic Memory.",40,10,30,20
+40,1,3,30-10-40-20,model_A,1,False,30,False,0,,A,"1A
+
+2B
+
+3B
+
+4A",30,10,40,20
+41,1,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+Variable ratio schedules of reinforcement are more resistant to extinction than fixed schedules.",40,20,30,10
+42,1,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+The researcher is most likely conducting Correlational research.
+
+2D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events.
+
+3A
+
+Karmina's feeling about chicken reflects Response Generalization.
+
+4A
+
+""Behavior is personality"" best characterizes Psychodynamic personality theories.",20,40,10,30
+43,1,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The best explanation why mnemonic devices, such as the method of loci, are typically effective at helping individuals remember information is (D) They connect new information to information already stored in LTM.",20,30,40,10
+44,1,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The approach that emphasizes unconditional positive regard is humanistic therapy.",40,30,10,20
+45,1,3,10-40-20-30,model_A,1,False,10,False,0,,D,"2D
+
+The parasympathetic nervous system helps the body return to ""business-Asusual"" after anemergency.",10,40,20,30
+46,1,3,30-20-10-40,model_A,1,False,30,False,0,,B,"1D
+
+REM sleep deprivation generally causes sleep apnea and night terrors.",30,20,10,40
+47,1,3,10-20-30-40,model_A,1,False,10,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called aCabsolute threshold.",10,20,30,40
+48,1,3,20-40-30-10,model_A,1,False,20,False,0,,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by Behavior is motivated by inner, unconscious forces.",20,40,30,10
+49,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+Alyssa is most likely testing framing.",30,10,40,20
+50,1,3,10-20-30-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events. This means that interventions aim to change observable behaviors rather than underlying psychological processes.
+
+2A
+
+The observation thatGenna was abletounderstandwhatwassaidtoherThedayaftertheoperationbestillustratesthebrain'splasticityisA. ThisisbecauseThebrain'splasticityref",10,20,30,40
+51,1,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The question 1D asks ""In their definition of psychology, behaviorists would be likely to eliminate (A) I only (B) II only (C) III only (D) I and III only"" 
+
+The answer D means ""I"" (I) and ""III"" (III) would be eliminated. 
+
+ThereforeThe answerD
+
+The answerD
+
+The answer",30,10,20,40
+52,1,3,10-30-20-40,model_A,1,False,10,False,0,,C,"2D
+
+People who suffer from major depression often have very low levels of Serotonin.",10,30,20,40
+53,1,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3D
+
+4D",20,30,40,10
+54,1,3,30-10-40-20,model_A,1,False,30,False,0,A,C,"1C
+
+A person diagnosed with schizophrenia is likely to experience hallucinations.",30,10,40,20
+55,1,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research.",10,40,20,30
+56,1,3,40-30-10-20,model_A,1,False,40,False,0,,B,"2D
+
+Longitudinal studies provide the most valid and reliable data about individuals as they progress through various stages of development.",40,30,10,20
+57,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+58,1,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",40,10,20,30
+59,1,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A asks ""Four-year-old Kate positions herself squarely in front of all the other kids to watch a magician. Piaget would attribute this to Kate's (A) egocentrism. (B) lack of object permanence. (C) inability to conserve. (D) animism."" The answer A is ""Egocentrism"" because according",30,10,20,40
+60,1,4,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+The effect The teacheristryingtoavoidisSensoryAdaptation.OvertimethebrainadjuststotheodorsandThepersonStopspresciousTheodorsTheAsTheBrainAdaptsToThemTheToTheOdorsTheTheBrainStopspresciousTheOdorsTheAsTheBrainAdaptsToThemTheToTheOdorsTheThe",10,40,30,20
+61,1,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3D
+
+4D",40,30,20,10
+62,1,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,30,20,10
+63,1,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.**Peek-a-boo**isapopulargameamonginfantsbecauseItInvolvesh",20,30,10,40
+64,1,4,10-30-40-20,model_A,1,False,10,False,0,,B,"2D
+
+The psychoactive drugs most frequently prescribed to relieve pain are narcotics.",10,30,40,20
+65,1,4,40-30-10-20,model_A,1,False,40,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research. This type of research examines the relationship between two or more variables without manipulating any of them.
+
+2C
+
+A person diagnosed with schizophrenia is likely to experience hallucinations. This is a hallmark symptom of schizophrenia.
+
+3D
+
+The Parasympathetic nervous system helps the body return to ""business-AsUsual"" after",40,30,10,20
+66,1,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",40,20,10,30
+67,1,4,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+The behavior modification technique applied by the teacher is Negative Reinforcement.",10,20,30,40
+68,1,4,30-40-20-10,model_A,1,False,30,False,0,,A,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+69,1,4,20-30-10-40,model_A,1,False,20,False,0,,A,"2B
+
+To act consistently with the group's behavior, Etan changed what he was doing. This illustrates **Conformity**.",20,30,10,40
+70,1,4,30-20-10-40,model_A,1,False,30,False,0,,B,"1B
+
+Species-specific behaviors that cannot beexplainedas aresultofsociallearningorconditioningsuchasMonarchbutterfliesflyingtoMexicotomatearecalledFixedActionPatterns.",30,20,10,40
+71,1,4,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+More than half of the volume of the human brain is composed of the septum, amygdala, hippocampus, and cingulate cortex.",20,30,10,40
+72,1,4,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+The instrument that has traditionally been used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,40,10
+73,1,4,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment """,20,10,40,30
+74,1,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events. This approach emphasizes observable behaviors rather than underlying psychological processes, relationships among children, or events during infancy.",40,10,20,30
+75,1,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2D
+
+A teratogen is a substance that causes birth defects. Fetal alcohol syndrome (FAS) is caused by exposure to alcohol during pregnancy.",20,40,30,10
+76,1,4,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3A
+
+4D",40,20,30,10
+77,1,5,10-30-40-20,model_A,1,False,10,False,0,A,D,"2B
+
+The drug classified as a stimulant is nicotine.",10,30,40,20
+78,1,5,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+A researcher has asked participants to complete a questionnaire that will assess how frequently in their lives they experience various emotions using a scale from 1 (never) to 5 (very often). The researcher is particularly interested in the relationship between feelings of guilt and other emotions. This researcher is most likely conducting which of the following types of research? (A) Demographic (B) Observational",20,40,10,30
+79,1,5,40-10-30-20,model_A,1,False,40,False,0,A,D,"1D
+
+The mean, mode, and median of a data set are equal when the distribution is normal.",40,10,30,20
+80,1,5,30-40-10-20,model_A,1,False,30,False,0,,B,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+81,1,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+82,1,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+The volume of the human brain is composed of more than half TheCerebralCortex.",30,20,40,10
+83,1,5,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4A",40,20,30,10
+84,1,5,40-20-30-10,model_A,2,False,20,False,0,,D,"2
+
+The most valid and reliable data about individuals as they progress through various stages of development comes from longitudinal studies. ThereforeThe answer isDLongitudinalStudies.",40,20,30,10
+85,1,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2B
+
+The question 2 asks ""You enter a bakery and are delighted by the aroma. After a short time, however, you no longer notice theodorsbecauseofsensory______.""TheanswerisBAdaptationbecauseAsensoryadaptationistheprocessbywhichthebrainadjuststoastimuliasthatareconstantlypresentandThereforeTheparticipantStoppeD",10,20,40,30
+86,1,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This bias refers tothetendencytoseeEventAasEventBafterEventBhasalreadyhappened.
+
+2A
+
+Lisa's choice of an abusive boyfriend is most relevanttoSigmundFreud'stheoryofPsychodynamicConflict. This theory focusesontheinternal",10,20,30,40
+87,1,5,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+The question 1D asks ""If the College Board neglected to put any questions that had to do with neuroscience on the AP Psychology exam one year, the test would lack (A) Construct Validity. (B) Predictive Validity. (C) Concurrent Validity. (D) Content Validity.""The correct answer is DContent Validity. Content Validity refers to",10,30,20,40
+88,1,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"2B
+
+B. F. Skinner was among the first to study the relationship between reinforcement and learning.",40,30,20,10
+89,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",20,10,30,40
+90,1,5,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",30,20,40,10
+91,1,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4C",30,40,10,20
+92,1,5,30-20-10-40,model_A,1,False,30,False,0,,B,"2D
+
+The instrument traditionally used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,10,40
+93,1,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The rooting reflex helps infants find and eat food.",30,40,20,10
+94,1,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which of the following conditions best characterizes the focus of a behavioral model of school intervention? The answer is D Observable events.",30,10,20,40
+95,1,5,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic because students started studying and attending regularly only because they were concerned about the upcoming AP Psychology exam.",30,10,40,20
+96,1,5,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",20,10,30,40
+1,2,1,30-20-40-10,model_A,3,False,40,False,0,,D,"3
+
+The most valid and reliable data about individuals as they progress through various stages of development is provided by longitudinal studies.",30,20,40,10
+2,2,1,10-40-30-20,model_A,1,False,10,False,0,A,C,"2A
+
+Piaget would attribute Kate's positioning herself squarely in front of all the other kids to watch a magician to Kate's egocentrism.",10,40,30,20
+3,2,1,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic.",30,10,20,40
+4,2,1,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",20,30,40,10
+5,2,1,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+An overall conclusion might be reached by performing meta-analysis.",10,40,20,30
+6,2,1,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",10,20,40,30
+7,2,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2D
+
+All ofthefollowingareexamplesofsecondarydrivesEXCEPTDFriendship.",10,40,30,20
+8,2,1,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+The distribution must be normal.",20,10,40,30
+9,2,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",40,10,30,20
+10,2,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anEmergency.",20,40,30,10
+11,2,1,10-40-30-20,model_A,1,False,10,False,0,D,B,"2D
+
+The therapy that is no longer used to treat patients is D) prefrontal lobotomy.",10,40,30,20
+12,2,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4D",40,30,20,10
+13,2,1,20-40-10-30,model_A,1,False,20,False,0,,A,"2C
+
+The participant's behavior can be explained by the primary drive of hungermotivatedthepersontoeatandthenstopwhenshe/heregainedhomeostasis.",20,40,10,30
+14,2,1,10-30-20-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events.",10,30,20,40
+15,2,1,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called the absolute threshold.",20,10,40,30
+16,2,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+2C
+
+3D
+
+4D",30,20,10,40
+17,2,1,10-30-20-40,model_A,1,False,10,True,10,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",10,30,20,40
+18,2,1,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+A psychologist who believes in the humanistic perspective would be most likely to agree with (B)People's behavior is primarily a result of free will.",20,30,40,10
+19,2,1,10-20-40-30,model_A,1,False,10,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.
+
+2B
+
+""BehaviorismisbestcharacterizedbytheBeliefthatBehaviorismTheResultOfLearning",10,20,40,30
+20,2,2,20-40-10-30,model_A,2,False,40,True,40,D,D,"2
+
+Karmina's feeling about chicken reflects **D** stimulus generalization.",20,40,10,30
+21,2,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2D
+
+Alyssa is most likely testing framing.",10,40,20,30
+22,2,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The behavior modification technique applied by the teacher is (D) Negative reinforcement.",30,40,20,10
+23,2,2,10-30-40-20,model_A,1,False,10,False,0,,A,"2B
+
+REM sleep deprivation generally causes interference with memory tasks.",10,30,40,20
+24,2,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+According to the opponent process theory of emotions, repetitions of anemotion-arousing eventstrengthentheopposingemotion.",40,30,10,20
+25,2,2,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+26,2,2,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+Shakira is solving the problem by use of (D) an algorithm.
+
+2C
+
+All of the following are examples of secondary drives EXCEPT (C) approval.
+
+3D
+
+Which of the following newborn reflexes help infants find and eat food? (D) rooting
+
+4A
+
+Which of thefollowingisastimulantmedicationusedtreatAttentionDeficitHyper",40,20,10,30
+27,2,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",20,10,30,40
+28,2,2,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+29,2,2,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",20,30,10,40
+30,2,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,20,10,30
+31,2,2,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The distribution must be normal.",10,20,40,30
+32,2,2,30-40-20-10,model_A,1,False,30,False,0,,C,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+33,2,2,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",20,10,40,30
+34,2,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",40,20,10,30
+35,2,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The instrument that has traditionally been used in sleep research to assess activity in thebrainis calledtheElectroencephalographEEG.",30,40,10,20
+36,2,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called a(n) **C**bsolute **T**hreshold.",40,10,30,20
+37,2,2,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The teacher is trying to avoid the self-fulfilling prophecy effect.",20,10,30,40
+38,2,2,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+Shakira is solving the problem by use of **D**Algorithm**.**",10,30,40,20
+39,2,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The fact that Will was better able to memorize his lines in the school play after finding out the meanings behind thewordsbest illustratesthe influenceof(D)Semantic memory.",40,10,30,20
+40,2,3,30-10-40-20,model_A,1,False,30,False,0,,A,"1A
+
+2B
+
+3B
+
+4A",30,10,40,20
+41,2,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+Variable ratio schedules of reinforcement are more resistant to extinction than fixed schedules.",40,20,30,10
+42,2,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+The researcher is most likely conducting Correlational research.
+
+2D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events.
+
+3A
+
+Karmina's feeling about chicken reflects Response Generalization.
+
+4A
+
+The statement ""Behavior is Personality"" best characterizes Psychodynamic personality theories.",20,40,10,30
+43,2,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The best explanation why mnemonic devices, such as the method of loci, are typically effective at helping individuals remember information is (D) They connect new information to information already stored in LTM.",20,30,40,10
+44,2,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The approach that emphasizes that therapists can effectively help their clients by offering unconditional positive regard is humanistic therapy.",40,30,10,20
+45,2,3,10-40-20-30,model_A,1,False,10,False,0,,D,"2D
+
+The parasympathetic nervous system helps the body return to ""business-Asusual"" after anemergency.",10,40,20,30
+46,2,3,30-20-10-40,model_A,1,False,30,False,0,,B,"1D
+
+REM sleep deprivation generally causes sleep apnea and night terrors.",30,20,10,40
+47,2,3,10-20-30-40,model_A,1,False,10,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called aCabsolute threshold.",10,20,30,40
+48,2,3,20-40-30-10,model_A,1,False,20,False,0,,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by Behavior is motivated by inner, unconscious forces.",20,40,30,10
+49,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+Alyssa is most likely testing framing.",30,10,40,20
+50,2,3,10-20-30-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events. This means that interventions aim to change observable behaviors rather than underlying psychological processes.
+
+2A
+
+The observation thatGenna was abletounderstandwhatwassaidtoherThedayaftertheoperationbestillustratesthebrain'splasticityisA. ThisisbecauseThebrain'splasticityref",10,20,30,40
+51,2,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The question 1D asks ""In their definition of psychology, behaviorists would be likely to eliminate (A) I only (B) II only (C) III only (D) I and III only"" The answer D means Behaviorists would eliminate IandIII. 
+
+The definition ""PsychologyistheScienceofBehaviorandMentalProcesses""definesPsychologyasaScienceof",30,10,20,40
+52,2,3,10-30-20-40,model_A,1,False,10,False,0,,C,"2D
+
+People who suffer from major depression often have very low levels of Serotonin.",10,30,20,40
+53,2,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3D
+
+4D",20,30,40,10
+54,2,3,30-10-40-20,model_A,1,False,30,False,0,A,C,"1C
+
+A person diagnosed with schizophrenia is likely to experience hallucinations.",30,10,40,20
+55,2,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research.",10,40,20,30
+56,2,3,40-30-10-20,model_A,1,False,40,False,0,,B,"2D
+
+Longitudinal studies provide the most valid and reliable data about individuals as they progress through various stages of development.",40,30,10,20
+57,2,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+58,2,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",40,10,20,30
+59,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A asks ""Four-year-old Kate positions herself squarely in front of all the other kids to watch a magician. Piaget would attribute this to Kate's (A) egocentrism. (B) lack of object permanence. (C) inability to conserve. (D) animism."" The answer A is ""Egocentrism"" because according",30,10,20,40
+60,2,4,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+The effect The teacheristryingtoavoidisSensoryAdaptation.OvertimewecansensorysystemstoproducelesssignificantresponsesToStimuliThatareConsistentandContinuous.",10,40,30,20
+61,2,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3D
+
+4D",40,30,20,10
+62,2,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,30,20,10
+63,2,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.**Peek-a-boo**isapopulargameamonginfantsbecauseItInvolvesh",20,30,10,40
+64,2,4,10-30-40-20,model_A,1,False,10,False,0,,B,"2D
+
+The psychoactive drugs most frequently prescribed to relieve pain are narcotics.",10,30,40,20
+65,2,4,40-30-10-20,model_A,1,False,40,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research.",40,30,10,20
+66,2,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",40,20,10,30
+67,2,4,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+The behavior modification technique applied by the teacher is Negative Reinforcement.",10,20,30,40
+68,2,4,30-40-20-10,model_A,1,False,30,False,0,,A,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+69,2,4,20-30-10-40,model_A,1,False,20,False,0,,A,"2B
+
+To act consistently with the group's behavior, Etan changed what he was doing. This illustrates **Conformity**.",20,30,10,40
+70,2,4,30-20-10-40,model_A,1,False,30,False,0,A,B,"1B
+
+Species-specific behaviors that cannot be explained as a result of social learning or conditioning, such as Monarch butterflies flying to Mexico to mate, are called Fixed-Action Patterns.",30,20,10,40
+71,2,4,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+More than half of the volume of the human brain is composed of the septum, amygdala, hippocampus, and cingulate cortex.",20,30,10,40
+72,2,4,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+The instrument that has traditionally been used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,40,10
+73,2,4,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment """,20,10,40,30
+74,2,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events. This approach emphasizes observable behaviors rather than underlying psychological processes, relationships among children, or events during infancy.",40,10,20,30
+75,2,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2D
+
+A teratogen is a substance that causes birth defects. Fetal alcohol syndrome (FAS) is caused by exposure to alcohol during pregnancy.",20,40,30,10
+76,2,4,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3A
+
+4D",40,20,30,10
+77,2,5,10-30-40-20,model_A,1,False,10,False,0,A,D,"2B
+
+The drug classified as a stimulant is nicotine.",10,30,40,20
+78,2,5,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+A researcher has asked participants to complete a questionnaire that will assess how frequently in their lives they experience various emotions using a scale from 1 (never) to 5 (very often). The researcher is particularly interested in the relationship between feelings of guilt and other emotions. This researcher is most likely conducting which of the following types of research? (A) Demographic (B) Observational",20,40,10,30
+79,2,5,40-10-30-20,model_A,1,False,40,False,0,A,D,"1D
+
+The mean, mode, and median of a data set are equal when the distribution is normal.",40,10,30,20
+80,2,5,30-40-10-20,model_A,1,False,30,False,0,,B,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+81,2,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+82,2,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+The volume of the human brain is composed of more than half TheCerebralCortex.",30,20,40,10
+83,2,5,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4A",40,20,30,10
+84,2,5,40-20-30-10,model_A,2,False,20,False,0,,D,"2
+
+The most valid and reliable data about individuals as they progress through various stages of development comes from longitudinal studies. ThereforeThe answer isDLongitudinalStudies.",40,20,30,10
+85,2,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2B
+
+The question 2 asks ""You enter a bakery and are delighted by the aroma. After a short time, however, you no longer notice theodorsbecauseofsensory______.""TheanswerisBAdaptationbecauseAsensoryadaptationistheprocessbywhichthebrainadjuststoconstantstimuliandstopsregisteringthemAfterafewsecondsorminuteswec",10,20,40,30
+86,2,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This bias refers tothetendencytoseeEventAasEventBafterEventBhasalreadyhappened.
+
+2A
+
+Lisa's choice of an abusive boyfriend is most relevanttoSigmundFreud'stheoryofPsychodynamicConflict. This theory focusesontheinternal",10,20,30,40
+87,2,5,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+The question 1D asks ""If the College Board neglected to put any questions that had to do with neuroscience on the AP Psychology exam one year, the test would lack (A) Construct Validity. (B) Predictive Validity. (C) Concurrent Validity. (D) Content Validity.""The correct answer is DContent Validity. Content Validity refers to",10,30,20,40
+88,2,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"2B
+
+B. F. Skinner was among the first to study the relationship between reinforcement and learning.",40,30,20,10
+89,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",20,10,30,40
+90,2,5,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",30,20,40,10
+91,2,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4C",30,40,10,20
+92,2,5,30-20-10-40,model_A,1,False,30,False,0,,B,"2D
+
+The instrument traditionally used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,10,40
+93,2,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The rooting reflex helps infants find and eat food.",30,40,20,10
+94,2,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which of the following conditions best characterizes the focus of a behavioral model of school intervention? The answer is D Observable events.",30,10,20,40
+95,2,5,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic because students started studying and attending regularly only because they were concerned about the AP Psychology exam.",30,10,40,20
+96,2,5,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",20,10,30,40
+1,3,1,30-20-40-10,model_A,3,False,40,False,0,,D,"3
+
+Longitudinal studies provide the most valid and reliable data about individuals as they progress through various stages of development.",30,20,40,10
+2,3,1,10-40-30-20,model_A,1,False,10,False,0,A,C,"2A
+
+Piaget would attribute Kate's positioning herself squarely in front of all the other kids to watch a magician to Kate's egocentrism.",10,40,30,20
+3,3,1,30-10-20-40,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic.",30,10,20,40
+4,3,1,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",20,30,40,10
+5,3,1,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+An overall conclusion might be reached by performing meta-analysis.",10,40,20,30
+6,3,1,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",10,20,40,30
+7,3,1,10-40-30-20,model_A,1,False,10,False,0,,B,"2D
+
+All ofthefollowingareexamplesofsecondarydrivesEXCEPTDFriendship.",10,40,30,20
+8,3,1,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+The distribution must be normal.",20,10,40,30
+9,3,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",40,10,30,20
+10,3,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anEmergency.",20,40,30,10
+11,3,1,10-40-30-20,model_A,1,False,10,False,0,D,B,"2D
+
+The therapy that is no longer used to treat patients is D) prefrontal lobotomy.",10,40,30,20
+12,3,1,40-30-20-10,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4D",40,30,20,10
+13,3,1,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+14,3,1,10-30-20-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events.",10,30,20,40
+15,3,1,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called the absolute threshold.",20,10,40,30
+16,3,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+2C
+
+3D
+
+4D",30,20,10,40
+17,3,1,10-30-20-40,model_A,1,False,10,True,10,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",10,30,20,40
+18,3,1,20-30-40-10,model_A,1,False,20,False,0,A,C,"2B
+
+A psychologist who believes in the humanistic perspective would be most likely to agree with (B)People's behavior is primarily a result of free will.",20,30,40,10
+19,3,1,10-20-40-30,model_A,1,False,10,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.
+
+2B
+
+""BehaviorismisbestcharacterizedbytheBeliefthatBehaviorismTheResultOfLearning",10,20,40,30
+20,3,2,20-40-10-30,model_A,2,False,40,True,40,D,D,"2
+
+Karmina's feeling about chicken reflects **D** stimulus generalization.",20,40,10,30
+21,3,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2D
+
+Alyssa is most likely testing framing.",10,40,20,30
+22,3,2,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The behavior modification technique applied by the teacher is (D) Negative reinforcement.",30,40,20,10
+23,3,2,10-30-40-20,model_A,1,False,10,False,0,,A,"2B
+
+REM sleep deprivation generally causes interference with memory tasks.",10,30,40,20
+24,3,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+According to the opponent process theory of emotions, repetitions of anemotion-arousing eventstrengthentheopposingemotion.",40,30,10,20
+25,3,2,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+26,3,2,40-20-10-30,model_A,1,False,40,True,40,D,D,"1D
+
+Shakira is solving the problem by use of (D) an algorithm.
+
+2C
+
+All of the following are examples of secondary drives EXCEPT (C) approval.
+
+3D
+
+Which of the following newborn reflexes help infants find and eat food? (D) rooting
+
+4A
+
+Which of thefollowingisastimulantmedicationusedtreatAttentionDeficitHyper",40,20,10,30
+27,3,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The psychoactive drug most frequently prescribed to relieve pain is narcotics.",20,10,30,40
+28,3,2,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+C",20,40,30,10
+29,3,2,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",20,30,10,40
+30,3,2,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,20,10,30
+31,3,2,10-20-40-30,model_A,1,False,10,False,0,,D,"1D
+
+The distribution must be normal.",10,20,40,30
+32,3,2,30-40-20-10,model_A,1,False,30,False,0,,C,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+33,3,2,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+People who suffer from major depression often have very low levels of serotonin.",20,10,40,30
+34,3,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by option A: Behavior is motivated by inner, unconscious forces. This perspective emphasizes the role of unconscious desires, conflicts, and drives in shaping behavior.",40,20,10,30
+35,3,2,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The instrument thathas traditionally been usedin sleep researchto assessactivityinthebrainiscalledtheElectroencephalograph(EEG).",30,40,10,20
+36,3,2,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called a(n) **Absolute Threshold**.",40,10,30,20
+37,3,2,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The teacher is trying to avoid the self-fulfilling prophecy effect.",20,10,30,40
+38,3,2,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+Shakira is solving the problem by use of **D**Algorithm**.**",10,30,40,20
+39,3,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+The fact that Will was better able to memorize his lines in the school play after finding out the meanings behind thewordsbest illustratesthe influenceof(D)Semantic memory.",40,10,30,20
+40,3,3,30-10-40-20,model_A,1,False,30,True,30,A,A,"1A
+
+The question 1A asks ""A population frequently studied to best assess the relative effects of nature vs. nurture is (A) identical twins (B) identical quadruplets (C) adopted children and their adoptive parents (D) couples who have been married for many years"" The answer AIdentical twins
+
+2B
+
+The question 2B asks ""Sperling",30,10,40,20
+41,3,3,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+Variable ratio schedules of reinforcement are more resistant to extinction than fixed schedules.",40,20,30,10
+42,3,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+The researcher is most likely conducting Correlational research.
+
+2D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events.
+
+3A
+
+Karmina's feeling about chicken reflects Response Generalization.
+
+4A
+
+""Behavior is personality"" best characterizes Psychodynamic personality theories.",20,40,10,30
+43,3,3,20-30-40-10,model_A,2,False,30,False,0,,D,"2
+
+The best explanation why mnemonic devices, such as the method of loci, are typically effective at helping individuals remember information is (D) They connect new information to information already stored in LTM.",20,30,40,10
+44,3,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+The approach that emphasizes unconditional positive regard is humanistic therapy.",40,30,10,20
+45,3,3,10-40-20-30,model_A,1,False,10,False,0,,D,"2D
+
+The parasympathetic nervous system helps the body return to ""business-Asusual"" after anemergency.",10,40,20,30
+46,3,3,30-20-10-40,model_A,1,False,30,False,0,,B,"1D
+
+REM sleep deprivation generally causes sleep apnea and night terrors.",30,20,10,40
+47,3,3,10-20-30-40,model_A,1,False,10,False,0,A,C,"1C
+
+The minimum amount of physical energy needed for a person to notice a stimulus is called aCabsolute threshold.",10,20,30,40
+48,3,3,20-40-30-10,model_A,1,False,20,False,0,,A,"1A
+
+The psychoanalytic perspective's view of behavior is best summarized by Behavior is motivated by inner, unconscious forces.",20,40,30,10
+49,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+Alyssa is most likely testing framing.",30,10,40,20
+50,3,3,10-20-30-40,model_A,1,False,10,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by Observable events. This means that interventions aim to change observable behaviors rather than underlying psychological processes.
+
+2A
+
+The observation thatGenna was abletounderstandwhatwassaidtoherThedayaftertheoperationbestillustratesthebrain'splasticityisA. ThisisbecauseThebrain'splasticityref",10,20,30,40
+51,3,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The question 1D asks ""In their definition of psychology, behaviorists would be likely to eliminate (A) I only (B) II only (C) III only (D) I and III only"" The answer D means Behaviorists would eliminate IandIII. 
+
+The definition ""PsychologyistheScienceofBehaviorandMentalProcesses""definesPsychologyasaScienceof",30,10,20,40
+52,3,3,10-30-20-40,model_A,1,False,10,False,0,,C,"2D
+
+People who suffer from major depression often have very low levels of Serotonin.",10,30,20,40
+53,3,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3D
+
+4D",20,30,40,10
+54,3,3,30-10-40-20,model_A,1,False,30,False,0,A,C,"1C
+
+A person diagnosed with schizophrenia is likely to experience hallucinations.",30,10,40,20
+55,3,3,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research.",10,40,20,30
+56,3,3,40-30-10-20,model_A,1,False,40,False,0,,B,"2D
+
+Longitudinal studies provide the most valid and reliable data about individuals as they progress through various stages of development.",40,30,10,20
+57,3,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+58,3,4,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3B
+
+4D",40,10,20,30
+59,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3C
+
+4A",30,10,20,40
+60,3,4,10-40-30-20,model_A,1,False,10,False,0,,B,"2B
+
+The effect The teacheristryingtoavoidisSensoryAdaptation.OvertimethebrainadjuststotheodorsandThepersonNolongernoticesThemAnymore.",10,40,30,20
+61,3,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3D
+
+4D",40,30,20,10
+62,3,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",40,30,20,10
+63,3,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+Six-month-old Sasha loves to play ""peek-a-boo"" with her mother, an indication that she has developed asenseof **D**Object permanence**.**Object permanenceistheawarenessthatobjectscontinuetoexistevenwhenTheycannotbeseenorheard.**Peek-a-boo**isapopulargameamonginfantsbecauseItInvolvesh",20,30,10,40
+64,3,4,10-30-40-20,model_A,1,False,10,False,0,,B,"2D
+
+The psychoactive drugs most frequently prescribed to relieve pain are narcotics.",10,30,40,20
+65,3,4,40-30-10-20,model_A,1,False,40,False,0,A,C,"1C
+
+The researcher is most likely conducting a Correlational research. This type of research examines the relationship between two or more variables without manipulating any of them.
+
+2C
+
+A person diagnosed with schizophrenia is likely to experience hallucinations. This is a hallmark symptom of schizophrenia.
+
+3D
+
+The Parasympathetic nervous system helps the body return to ""business-AsUsual"" after",40,30,10,20
+66,3,4,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",40,20,10,30
+67,3,4,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+The behavior modification technique applied by the teacher is Negative Reinforcement.",10,20,30,40
+68,3,4,30-40-20-10,model_A,1,False,30,False,0,,A,"2D
+
+Alyssa is most likely testing framing.",30,40,20,10
+69,3,4,20-30-10-40,model_A,1,False,20,False,0,,A,"1A
+
+2B
+
+3D
+
+4B",20,30,10,40
+70,3,4,30-20-10-40,model_A,1,False,30,False,0,,B,"1B
+
+Species-specific behaviors that cannot beexplainedas aresultofsociallearningorconditioningsuchasMonarchbutterfliesflyingtoMexicotomatearecalledFixedActionPatterns.",30,20,10,40
+71,3,4,20-30-10-40,model_A,1,False,20,False,0,,B,"2B
+
+More than half of the volume of the human brain is composed of the septum, amygdala, hippocampus, and cingulate cortex.",20,30,10,40
+72,3,4,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+The instrument that has traditionally been used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,40,10
+73,3,4,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This is becauseThe friend's comment """,20,10,40,30
+74,3,4,40-10-20-30,model_A,1,False,40,False,0,A,D,"1D
+
+The focus of a behavioral model of school intervention is best characterized by observable events. This approach emphasizes observable behaviors rather than underlying psychological processes, relationships among children, or events during infancy.",40,10,20,30
+75,3,4,20-40-30-10,model_A,1,False,20,False,0,A,D,"2D
+
+A teratogen is a substance that causes birth defects. Fetal alcohol syndrome (FAS) is caused by exposure to alcohol during pregnancy.",20,40,30,10
+76,3,4,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2B
+
+3A
+
+4D",40,20,30,10
+77,3,5,10-30-40-20,model_A,1,False,10,False,0,A,D,"2B
+
+The drug classified as a stimulant is nicotine.",10,30,40,20
+78,3,5,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+A researcher has asked participants to complete a questionnaire that will assess how frequently in their lives they experience various emotions using a scale from 1 (never) to 5 (very often). The researcher is particularly interested in the relationship between feelings of guilt and other emotions. This researcher is most likely conducting which of the following types of research? (A) Demographic (B) Observational",20,40,10,30
+79,3,5,40-10-30-20,model_A,1,False,40,False,0,A,D,"1D
+
+The mean, mode, and median of a data set are equal when the distribution is normal.",40,10,30,20
+80,3,5,30-40-10-20,model_A,1,False,30,False,0,,B,"2D
+
+The Parasympathetic nervous system helps the body return to ""business-As-Usual"" after anemergency.",30,40,10,20
+81,3,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+
+Mnemonic devices typically connect new information to information already stored in Long-term Memory (LTM)",40,10,20,30
+82,3,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+The volume of the human brain is composed of More than half The Cerebral cortex
+
+2A
+
+The focus of a behavioral model of school intervention bestcharacterizesTheUnderlyingPsychologicalProcesses
+
+3A
+
+TheBehaviorisPersonalitybestcharacterizesThePsychodynamic
+
+4A
+
+TheObservationTheDayAfterTheOperationBestIllustratesTheBrain'sPlasticityisG",30,20,40,10
+83,3,5,40-20-30-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4A",40,20,30,10
+84,3,5,40-20-30-10,model_A,2,False,20,False,0,,D,"2
+
+The most valid and reliable data about individuals as they progress through various stages of development comes from longitudinal studies. ThereforeThe answer isDLongitudinalStudies.",40,20,30,10
+85,3,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2B
+
+The question 2 asks ""You enter a bakery and are delighted by the aroma. After a short time, however, you no longer notice theodorsbecauseofsensory______.""TheanswerisBAdaptationbecauseAsensoryadaptationistheprocessbywhichthebrainadjuststoastimuliasthatareconstantlypresentandThereforeTheparticipantStoppeD",10,20,40,30
+86,3,5,10-20-30-40,model_A,1,False,10,False,0,,C,"1C
+
+The friend's comment ""I knew you shouldn't have gone out with her"" illustrates Hindsight Bias. This bias refers tothetendencytoseeEventAasEventBafterEventBhasalreadyhappened.
+
+2A
+
+Lisa's choice of an abusive boyfriend is most relevanttoSigmundFreud'stheoryofPsychodynamicConflict. This theory focusesontheinternal",10,20,30,40
+87,3,5,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+The question 1D asks ""If the College Board neglected to put any questions that had to do with neuroscience on the AP Psychology exam one year, the test would lack (A) Construct Validity. (B) Predictive Validity. (C) Concurrent Validity. (D) Content Validity.""The correct answer is DContent Validity. Content Validity refers to",10,30,20,40
+88,3,5,40-30-20-10,model_A,1,False,40,False,0,B,A,"2B
+
+B. F. Skinner was among the first to study the relationship between reinforcement and learning.",40,30,20,10
+89,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Erikson's model of psychosocial stages would be most relevant when weighing different approaches to responding to aninfant's needs.",20,10,30,40
+90,3,5,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+Some psychoanalysts believe that dream symbols represent unconscious conflicts.",30,20,40,10
+91,3,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3D
+
+4C",30,40,10,20
+92,3,5,30-20-10-40,model_A,1,False,30,False,0,,B,"2D
+
+The instrument traditionally used in sleep research to assess activity in thebrainis calledtheelectroencephalograph(EEG).",30,20,10,40
+93,3,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The rooting reflex helps infants find and eat food.",30,40,20,10
+94,3,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+The question asks Which of the following conditions best characterizes the focus of a behavioral model of school intervention? The answer is D Observable events.",30,10,20,40
+95,3,5,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The motivation seems to be extrinsic because students started studying and attending regularly only because they were concerned about the AP Psychology exam.",30,10,40,20
+96,3,5,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+Sperling's partial report technique was designed to test the capacity of sensory memory.",20,10,30,40

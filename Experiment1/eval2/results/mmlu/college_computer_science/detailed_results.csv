@@ -1,0 +1,1799 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,30-10-40-20,baseline,1,False,30,False,0,C,D,"1
+C",30,10,40,20
+2,1,1,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+3,1,1,40-20-30-10,baseline,1,False,40,False,0,D,A,"1
+D",40,20,30,10
+4,1,1,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+5,1,1,10-40-30-20,baseline,1,False,10,False,0,D,A,1. D,10,40,30,20
+6,1,1,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+7,1,1,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+8,1,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+9,1,1,30-40-20-10,baseline,-1,True,0,False,0,,,"1. A
+2. D
+3. C
+4. D",30,40,20,10
+10,1,1,10-40-30-20,baseline,1,False,10,False,0,A,D,1. A,10,40,30,20
+11,1,1,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+12,1,1,20-30-10-40,baseline,1,False,20,False,0,A,B,1. A,20,30,10,40
+13,1,1,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+14,1,1,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+15,1,1,30-20-10-40,baseline,1,False,30,False,0,D,A,"1
+D",30,20,10,40
+16,1,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,1,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+18,1,1,30-20-10-40,baseline,1,False,30,False,0,B,D,"1
+B",30,20,10,40
+19,1,1,40-20-30-10,baseline,1,False,40,False,0,A,B,1. A,40,20,30,10
+20,1,2,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+21,1,2,10-20-30-40,baseline,2,False,20,False,0,B,A,"2
+B",10,20,30,40
+22,1,2,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+23,1,2,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+24,1,2,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+25,1,2,40-20-10-30,baseline,1,False,40,False,0,A,D,1. A,40,20,10,30
+26,1,2,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+27,1,2,40-20-10-30,baseline,1,False,40,False,0,A,D,1. A,40,20,10,30
+28,1,2,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+29,1,2,20-10-30-40,baseline,1,False,20,False,0,A,D,1. A,20,10,30,40
+30,1,2,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+31,1,2,30-40-20-10,baseline,1,False,30,False,0,B,D,"1
+B",30,40,20,10
+32,1,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+33,1,2,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+34,1,2,30-20-10-40,baseline,1,False,30,False,0,A,D,1. A,30,20,10,40
+35,1,2,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+36,1,2,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+37,1,2,20-10-30-40,baseline,1,False,20,False,0,D,A,1. D,20,10,30,40
+38,1,2,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+39,1,3,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+40,1,3,30-40-10-20,baseline,1,False,30,False,0,B,D,"1
+B",30,40,10,20
+41,1,3,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+42,1,3,10-20-30-40,baseline,2,False,20,False,0,C,D,"2
+C",10,20,30,40
+43,1,3,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+44,1,3,20-40-10-30,baseline,1,False,20,False,0,D,A,"1
+D",20,40,10,30
+45,1,3,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+46,1,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+47,1,3,10-20-40-30,baseline,1,False,10,False,0,C,D,1. C,10,20,40,30
+48,1,3,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+49,1,3,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+50,1,3,40-10-30-20,baseline,1,False,40,False,0,B,C,"1
+B",40,10,30,20
+51,1,3,20-40-10-30,baseline,2,False,40,False,0,D,A,"2
+D",20,40,10,30
+52,1,3,40-10-30-20,baseline,1,False,40,False,0,C,D,1. C,40,10,30,20
+53,1,3,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+54,1,3,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+55,1,3,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+56,1,3,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+57,1,3,40-30-10-20,baseline,1,False,40,False,0,D,A,1. D,40,30,10,20
+58,1,4,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+59,1,4,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+60,1,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+61,1,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+62,1,4,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+63,1,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+64,1,4,30-40-10-20,baseline,1,False,30,False,0,D,A,"1
+D",30,40,10,20
+65,1,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+66,1,4,30-10-40-20,baseline,1,False,30,False,0,D,A,1. D,30,10,40,20
+67,1,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+68,1,4,20-40-30-10,baseline,1,False,20,False,0,B,D,"1
+B",20,40,30,10
+69,1,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+70,1,4,20-30-10-40,baseline,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,1,4,20-30-10-40,baseline,1,False,20,False,0,A,B,"1
+A",20,30,10,40
+72,1,4,20-30-10-40,baseline,1,False,20,False,0,A,D,1. A,20,30,10,40
+73,1,4,10-30-20-40,baseline,2,False,30,False,0,C,D,"2
+C",10,30,20,40
+74,1,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+75,1,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+76,1,4,10-30-40-20,baseline,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,1,5,10-30-20-40,baseline,1,False,10,False,0,,D,1,10,30,20,40
+78,1,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+79,1,5,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+80,1,5,40-30-10-20,baseline,1,False,40,False,0,D,A,1. D,40,30,10,20
+81,1,5,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+82,1,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+83,1,5,10-40-20-30,baseline,1,False,10,False,0,C,D,"1
+C",10,40,20,30
+84,1,5,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+85,1,5,10-20-40-30,baseline,1,False,10,False,0,B,D,"1
+B",10,20,40,30
+86,1,5,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+87,1,5,30-40-20-10,baseline,2,False,40,False,0,D,A,"2
+D",30,40,20,10
+88,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+89,1,5,20-40-30-10,baseline,1,False,20,False,0,D,A,1. D,20,40,30,10
+90,1,5,30-10-20-40,baseline,1,False,30,False,0,C,D,"1
+C",30,10,20,40
+91,1,5,20-10-40-30,baseline,1,False,20,False,0,A,D,1. A,20,10,40,30
+92,1,5,40-30-10-20,baseline,1,False,40,False,0,B,D,"1
+B",40,30,10,20
+93,1,5,40-30-20-10,baseline,1,False,40,False,0,A,D,1. A,40,30,20,10
+94,1,5,20-30-40-10,baseline,1,False,20,False,0,A,B,"1
+A",20,30,40,10
+95,1,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+96,1,5,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+1,2,1,30-10-40-20,baseline,1,False,30,False,0,C,D,"1
+C",30,10,40,20
+2,2,1,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+3,2,1,40-20-30-10,baseline,1,False,40,False,0,D,A,"1
+D",40,20,30,10
+4,2,1,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+5,2,1,10-40-30-20,baseline,1,False,10,False,0,D,A,1. D,10,40,30,20
+6,2,1,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+7,2,1,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+8,2,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+9,2,1,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+10,2,1,10-40-30-20,baseline,1,False,10,False,0,A,D,1. A,10,40,30,20
+11,2,1,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+12,2,1,20-30-10-40,baseline,1,False,20,False,0,A,B,1. A,20,30,10,40
+13,2,1,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+14,2,1,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+15,2,1,30-20-10-40,baseline,1,False,30,False,0,D,A,"1
+D",30,20,10,40
+16,2,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,2,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+18,2,1,30-20-10-40,baseline,1,False,30,False,0,B,D,"1
+B",30,20,10,40
+19,2,1,40-20-30-10,baseline,1,False,40,False,0,A,B,1. A,40,20,30,10
+20,2,2,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+21,2,2,10-20-30-40,baseline,2,False,20,False,0,B,A,"2
+B",10,20,30,40
+22,2,2,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+23,2,2,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+24,2,2,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+25,2,2,40-20-10-30,baseline,1,False,40,False,0,A,D,1. A,40,20,10,30
+26,2,2,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+27,2,2,40-20-10-30,baseline,1,False,40,False,0,C,D,1. C,40,20,10,30
+28,2,2,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+29,2,2,20-10-30-40,baseline,1,False,20,False,0,A,D,1. A,20,10,30,40
+30,2,2,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+31,2,2,30-40-20-10,baseline,1,False,30,False,0,B,D,"1
+B",30,40,20,10
+32,2,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+33,2,2,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+34,2,2,30-20-10-40,baseline,1,False,30,False,0,A,D,1. A,30,20,10,40
+35,2,2,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+36,2,2,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+37,2,2,20-10-30-40,baseline,1,False,20,False,0,D,A,"1
+D",20,10,30,40
+38,2,2,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+39,2,3,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+40,2,3,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+41,2,3,30-20-40-10,baseline,1,False,30,True,30,D,D,"1
+D",30,20,40,10
+42,2,3,10-20-30-40,baseline,2,False,20,False,0,C,D,"2
+C",10,20,30,40
+43,2,3,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+44,2,3,20-40-10-30,baseline,1,False,20,False,0,D,A,"1
+D",20,40,10,30
+45,2,3,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+46,2,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+47,2,3,10-20-40-30,baseline,1,False,10,False,0,C,D,1. C,10,20,40,30
+48,2,3,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+49,2,3,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+50,2,3,40-10-30-20,baseline,1,False,40,False,0,B,C,"1
+B",40,10,30,20
+51,2,3,20-40-10-30,baseline,2,False,40,False,0,D,A,"2
+D",20,40,10,30
+52,2,3,40-10-30-20,baseline,1,False,40,False,0,C,D,1. C,40,10,30,20
+53,2,3,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+54,2,3,30-10-20-40,baseline,1,False,30,False,0,C,D,"1
+C",30,10,20,40
+55,2,3,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+56,2,3,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+57,2,3,40-30-10-20,baseline,1,False,40,False,0,D,A,"1
+D",40,30,10,20
+58,2,4,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+59,2,4,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+60,2,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+61,2,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+62,2,4,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+63,2,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+64,2,4,30-40-10-20,baseline,1,False,30,False,0,D,A,"1
+D",30,40,10,20
+65,2,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+66,2,4,30-10-40-20,baseline,1,False,30,False,0,D,A,1. D,30,10,40,20
+67,2,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+68,2,4,20-40-30-10,baseline,1,False,20,False,0,B,D,"1
+B",20,40,30,10
+69,2,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+70,2,4,20-30-10-40,baseline,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,2,4,20-30-10-40,baseline,1,False,20,False,0,A,B,"1
+A",20,30,10,40
+72,2,4,20-30-10-40,baseline,1,False,20,False,0,A,D,1. A,20,30,10,40
+73,2,4,10-30-20-40,baseline,2,False,30,False,0,C,D,"2
+C",10,30,20,40
+74,2,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+75,2,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+76,2,4,10-30-40-20,baseline,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,2,5,10-30-20-40,baseline,1,False,10,False,0,,D,1,10,30,20,40
+78,2,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+79,2,5,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+80,2,5,40-30-10-20,baseline,1,False,40,False,0,D,A,1. D,40,30,10,20
+81,2,5,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+82,2,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+83,2,5,10-40-20-30,baseline,1,False,10,False,0,C,D,"1
+C",10,40,20,30
+84,2,5,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+85,2,5,10-20-40-30,baseline,1,False,10,False,0,B,D,"1
+B",10,20,40,30
+86,2,5,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+87,2,5,30-40-20-10,baseline,2,False,40,False,0,D,A,"2
+D",30,40,20,10
+88,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+89,2,5,20-40-30-10,baseline,1,False,20,False,0,D,A,1. D,20,40,30,10
+90,2,5,30-10-20-40,baseline,1,False,30,False,0,C,D,"1
+C",30,10,20,40
+91,2,5,20-10-40-30,baseline,1,False,20,False,0,C,D,1. C,20,10,40,30
+92,2,5,40-30-10-20,baseline,1,False,40,False,0,B,D,"1
+B",40,30,10,20
+93,2,5,40-30-20-10,baseline,1,False,40,False,0,A,D,1. A,40,30,20,10
+94,2,5,20-30-40-10,baseline,1,False,20,False,0,A,B,"1
+A",20,30,40,10
+95,2,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+96,2,5,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+1,3,1,30-10-40-20,baseline,1,False,30,False,0,C,D,"1
+C",30,10,40,20
+2,3,1,10-40-20-30,baseline,1,False,10,False,0,D,A,1. D,10,40,20,30
+3,3,1,40-20-30-10,baseline,1,False,40,False,0,D,A,"1
+D",40,20,30,10
+4,3,1,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+5,3,1,10-40-30-20,baseline,1,False,10,False,0,D,A,1. D,10,40,30,20
+6,3,1,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+7,3,1,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+8,3,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+9,3,1,30-40-20-10,baseline,1,False,30,False,0,A,D,1. A,30,40,20,10
+10,3,1,10-40-30-20,baseline,1,False,10,False,0,A,D,1. A,10,40,30,20
+11,3,1,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+12,3,1,20-30-10-40,baseline,1,False,20,False,0,A,B,"1
+A",20,30,10,40
+13,3,1,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+14,3,1,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+15,3,1,30-20-10-40,baseline,1,False,30,False,0,D,A,"1
+D",30,20,10,40
+16,3,1,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+17,3,1,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+18,3,1,30-20-10-40,baseline,1,False,30,False,0,B,D,"1
+B",30,20,10,40
+19,3,1,40-20-30-10,baseline,1,False,40,False,0,A,B,1. A,40,20,30,10
+20,3,2,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+21,3,2,10-20-30-40,baseline,2,False,20,False,0,D,A,"2
+D",10,20,30,40
+22,3,2,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+23,3,2,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+24,3,2,20-40-30-10,baseline,2,False,40,True,40,D,D,"2
+D",20,40,30,10
+25,3,2,40-20-10-30,baseline,1,False,40,False,0,A,D,1. A,40,20,10,30
+26,3,2,20-10-40-30,baseline,1,False,20,False,0,D,A,1. D,20,10,40,30
+27,3,2,40-20-10-30,baseline,1,False,40,False,0,C,D,1. C,40,20,10,30
+28,3,2,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+29,3,2,20-10-30-40,baseline,1,False,20,False,0,A,D,1. A,20,10,30,40
+30,3,2,10-40-20-30,baseline,1,False,10,True,10,A,A,"1
+A",10,40,20,30
+31,3,2,30-40-20-10,baseline,1,False,30,False,0,B,D,"1
+B",30,40,20,10
+32,3,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+33,3,2,30-40-10-20,baseline,2,False,40,False,0,B,D,"2
+B",30,40,10,20
+34,3,2,30-20-10-40,baseline,1,False,30,False,0,A,D,1. A,30,20,10,40
+35,3,2,20-10-30-40,baseline,1,False,20,True,20,C,C,"1
+C",20,10,30,40
+36,3,2,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+37,3,2,20-10-30-40,baseline,1,False,20,False,0,D,A,1. D,20,10,30,40
+38,3,2,40-10-20-30,baseline,1,False,40,False,0,A,D,1. A,40,10,20,30
+39,3,3,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+40,3,3,30-40-10-20,baseline,1,False,30,False,0,B,D,"1
+B",30,40,10,20
+41,3,3,30-20-40-10,baseline,1,False,30,False,0,,D,1,30,20,40,10
+42,3,3,10-20-30-40,baseline,2,False,20,False,0,C,D,"2
+C",10,20,30,40
+43,3,3,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+44,3,3,20-40-10-30,baseline,1,False,20,False,0,D,A,"1
+D",20,40,10,30
+45,3,3,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+46,3,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. D,30,20,10,40
+47,3,3,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+48,3,3,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+49,3,3,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+50,3,3,40-10-30-20,baseline,1,False,40,False,0,B,C,"1
+B",40,10,30,20
+51,3,3,20-40-10-30,baseline,2,False,40,False,0,D,A,"2
+D",20,40,10,30
+52,3,3,40-10-30-20,baseline,1,False,40,False,0,C,D,1. C,40,10,30,20
+53,3,3,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+54,3,3,30-10-20-40,baseline,1,False,30,False,0,C,D,"1
+C",30,10,20,40
+55,3,3,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+56,3,3,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+57,3,3,40-30-10-20,baseline,1,False,40,False,0,D,A,1. D,40,30,10,20
+58,3,4,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+59,3,4,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+60,3,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+61,3,4,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+62,3,4,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+63,3,4,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+64,3,4,30-40-10-20,baseline,1,False,30,False,0,D,A,"1
+D",30,40,10,20
+65,3,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+66,3,4,30-10-40-20,baseline,1,False,30,False,0,D,A,1. D,30,10,40,20
+67,3,4,40-10-20-30,baseline,1,False,40,False,0,A,D,"1
+A",40,10,20,30
+68,3,4,20-40-30-10,baseline,1,False,20,False,0,B,D,"1
+B",20,40,30,10
+69,3,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+70,3,4,20-30-10-40,baseline,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,3,4,20-30-10-40,baseline,1,False,20,False,0,A,B,"1
+A",20,30,10,40
+72,3,4,20-30-10-40,baseline,1,False,20,False,0,A,D,1. A,20,30,10,40
+73,3,4,10-30-20-40,baseline,2,False,30,False,0,C,D,"2
+C",10,30,20,40
+74,3,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+75,3,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+76,3,4,10-30-40-20,baseline,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,3,5,10-30-20-40,baseline,1,False,10,False,0,,D,1,10,30,20,40
+78,3,5,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+79,3,5,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+80,3,5,40-30-10-20,baseline,1,False,40,False,0,D,A,1. D,40,30,10,20
+81,3,5,10-20-40-30,baseline,1,False,10,False,0,A,D,1. A,10,20,40,30
+82,3,5,30-40-10-20,baseline,1,False,30,True,30,C,C,1. C,30,40,10,20
+83,3,5,10-40-20-30,baseline,1,False,10,False,0,C,D,"1
+C",10,40,20,30
+84,3,5,20-10-40-30,baseline,1,False,20,True,20,D,D,1. D,20,10,40,30
+85,3,5,10-20-40-30,baseline,1,False,10,False,0,B,D,"1
+B",10,20,40,30
+86,3,5,30-20-40-10,baseline,1,False,30,False,0,D,A,1. D,30,20,40,10
+87,3,5,30-40-20-10,baseline,2,False,40,False,0,D,A,"2
+D",30,40,20,10
+88,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+89,3,5,20-40-30-10,baseline,1,False,20,False,0,D,A,1. D,20,40,30,10
+90,3,5,30-10-20-40,baseline,1,False,30,False,0,C,D,"1
+C",30,10,20,40
+91,3,5,20-10-40-30,baseline,1,False,20,False,0,A,D,1. A,20,10,40,30
+92,3,5,40-30-10-20,baseline,1,False,40,False,0,B,D,"1
+B",40,30,10,20
+93,3,5,40-30-20-10,baseline,1,False,40,False,0,A,D,1. A,40,30,20,10
+94,3,5,20-30-40-10,baseline,1,False,20,False,0,A,B,"1
+A",20,30,40,10
+95,3,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+96,3,5,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+1,1,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This requires O(logn) steps.",30,10,40,20
+2,1,1,10-40-20-30,model_A,1,False,10,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",10,40,20,30
+3,1,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",40,20,30,10
+4,1,1,40-30-20-10,model_A,1,False,40,False,0,,D,1D,40,30,20,10
+5,1,1,10-40-30-20,model_A,1,False,10,False,0,,A,"1D
+
+The question asks Which of the following page-replacement policies is guaranteed to incur the minimum number of page faults? The answer D) Replace the page whose most recent reference was the longest time in thepast.",10,40,30,20
+6,1,1,20-10-40-30,model_A,2,False,10,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",20,10,40,30
+7,1,1,40-10-30-20,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,10,30,20
+8,1,1,10-20-30-40,model_A,1,False,10,False,0,,C,2B,10,20,30,40
+9,1,1,30-40-20-10,model_A,4,False,10,False,0,,D,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3B
+
+The correct answer is I and II only.
+
+4C
+
+The correct answer is I and II.",30,40,20,10
+10,1,1,10-40-30-20,model_A,1,False,10,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",10,40,30,20
+11,1,1,10-30-20-40,model_A,1,False,10,False,0,,A,1A,10,30,20,40
+12,1,1,20-30-10-40,model_A,2,False,30,True,30,D,D,"Question 2
+
+The correct answer is (D) II and III
+
+The 7th largest element can be found by traversing the array backwards. This takes O(n) time. The 7th largest element can be removed by swapping it with the last element. This takes O(1) time. ThereforeThe correct answer is (D) II and III
+
+The 7th largest",20,30,10,40
+13,1,1,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+14,1,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3D
+
+4A",40,10,20,30
+15,1,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2A
+
+TheMostLikelyPurposeOfThisInformationIsForUseAsInputToADebuggingAid
+
+3D
+
+ThePageReplacementPolicyThatIsGuaranteedToIncurTheMinimumNumberOfPageFaultsIsReplace",30,20,10,40
+16,1,1,30-10-40-20,model_A,1,False,30,True,30,C,C,"Question 1
+
+Answer: C
+
+Church'",30,10,40,20
+17,1,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,30,10
+18,1,1,30-20-10-40,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is (B) I and II only.
+
+The evaluation order of rules (I) and Evaluation order of clauses (II) must be defined in order to execute a logic program on a sequential machine. However, The evaluation order of arguments in each clause (III) is not necessary.
+
+2A
+
+The correct answer is (A) For use as input to a debugging",30,20,10,40
+19,1,1,40-20-30-10,model_A,1,False,40,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from theuser, but adistributedoperating system makestheexistenceofmanymachinesvisible
+
+Question 2
+
+Supposethereisanopen(external)hashtablewithfourbuckets,numbered0,1,2,3,andintegers",40,20,30,10
+20,1,2,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",20,40,10,30
+21,1,2,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIs",10,20,30,40
+22,1,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine? The answer D) I, II, and III is correct becauseAll three strategiesEvaluation order of rulesEvaluation order of clausesEvaluation order of arguments in each clausemustbe definedin ordertoexecutea logicprogramonasequentialmachine.",30,10,20,40
+23,1,2,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIs",20,40,30,10
+24,1,2,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125.",20,40,30,10
+25,1,2,40-20-10-30,model_A,4,False,30,False,0,,C,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3D
+
+Reference counting need not keep track of which cells point to other cells.
+
+4B
+
+It has not yet been proven, but finding a proof is a subject of active research.",40,20,10,30
+26,1,2,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that is guaranteed to incur the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as the Least Recently Used (LRU) algorithm.",20,10,40,30
+27,1,2,40-20-10-30,model_A,4,False,30,False,0,,B,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3D
+
+The difference between the buckets with smallest and largest number of entries will grow.
+
+4B
+
+A distributed operating system hides the existence of many machines from the user, but a network operating system makes the existence of many machines visible.",40,20,10,30
+28,1,2,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+Answer: D
+
+The correct answer is D. I, II, and III. 
+
+If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton. This is because Every nondeterministic finite automaton (NFA) can be converted into an equivalent deterministic finite automaton (DFA) 
+
+If M is a deterministic pushdown",20,10,30,40
+29,1,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3B
+
+4B",20,10,30,40
+30,1,2,10-40-20-30,model_A,1,False,10,False,0,,A,1A,10,40,20,30
+31,1,2,30-40-20-10,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is (B) I and II only. The evaluation order of rules and clauses must be defined in order to execute a logic program on a sequential machine. The evaluation order of arguments in each clause is not necessary.",30,40,20,10
+32,1,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+33,1,2,30-40-10-20,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",30,40,10,20
+34,1,2,30-20-10-40,model_A,4,False,40,False,0,A,D,"1A
+
+The value of f(4) = 53
+
+2A
+
+The main difference between a network operating system and a distributed operating system is that A network operating system hides the existence of many machines from the user, but a distributed operating system makes the existence of many machines visible
+
+3D
+
+The most likely purpose of this information isTo tell the loader where each variable belongs",30,20,10,40
+35,1,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Church'",20,10,30,40
+36,1,2,10-30-20-40,model_A,1,False,10,False,0,D,A,"Question 1
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",10,30,20,40
+37,1,2,20-10-30-40,model_A,1,False,20,False,0,,A,1D,20,10,30,40
+38,1,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",40,10,20,30
+39,1,3,30-40-20-10,model_A,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) I and II only.
+
+I. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.
+This statement is true. Every nondeterministic finite automaton (NFA) can be converted into an equivalent deterministic finite automaton (DFA) through a process calledsubset construction.
+
+II. If M is",30,40,20,10
+40,1,3,30-40-10-20,model_A,1,False,30,False,0,,D,1B,30,40,10,20
+41,1,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3B
+
+4C",30,20,40,10
+42,1,3,10-20-30-40,model_A,1,False,10,False,0,,B,2C,10,20,30,40
+43,1,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3D
+
+4C",10,20,40,30
+44,1,3,20-40-10-30,model_A,1,False,20,False,0,,A,"1D
+
+AsThetotalnumberofentriesinthetablegrows,thedifferencebetweenthebucketswithsmallestandlargestnumberofentrieswillgrow.",20,40,10,30
+45,1,3,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+46,1,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+The page-replacement policy guaranteed to incur theminimumnumberofpagefaultsisFirstComeFirstServeFCFS.
+
+2B
+
+TheCorrectAnswerisIandIIOnly.
+
+3A
+
+TheCorrectAnsweris53.
+
+4D
+
+TheCorrectAnswerisAllBucketsWillReceiveEntriesButTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow.",30,20,10,40
+47,1,3,10-20-40-30,model_A,1,False,10,False,0,A,D,"1C
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 25 seconds.",10,20,40,30
+48,1,3,30-20-40-10,model_A,3,False,40,False,0,D,A,"Question 3
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",30,20,40,10
+49,1,3,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The number of steps needed to find and remove the 7th largest element would be O(logn) onlyinthe caseofaMinHeapandAnArrayofLengthnSortedInIncreasingOrder.",40,30,10,20
+50,1,3,40-10-30-20,model_A,1,False,40,False,0,,C,1C,40,10,30,20
+51,1,3,20-40-10-30,model_A,2,False,40,False,0,D,A,"2
+D",20,40,10,30
+52,1,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This requires O(logn) steps.",40,10,30,20
+53,1,3,10-20-30-40,model_A,1,False,10,False,0,,D,1B,10,20,30,40
+54,1,3,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) steps. The 7th largest element can also be found by traversing the array, which takes O(n) steps. The 7th largest element can be found by traversing the balanced binary search tree, which takes O(logn) steps. ThereforeThe 7th",30,10,20,40
+55,1,3,40-10-20-30,model_A,1,False,40,False,0,,A,1A,40,10,20,30
+56,1,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3D
+
+4C",40,10,30,20
+57,1,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2A
+
+ANetworkOperatingSystemHidesTheExistenceOfManyMachinesFromTheUserButADistributedOperatingSystemMakesTheExistenceOfManyMachinesVisible
+
+3A
+
+53
+
+4A
+
+TheMostLikelyPurpose",40,30,10,20
+58,1,4,10-40-20-30,model_A,1,False,10,False,0,,C,1C,10,40,20,30
+59,1,4,10-30-40-20,model_A,1,False,10,False,0,,D,2B,10,30,40,20
+60,1,4,30-10-20-40,model_A,1,False,30,False,0,,A,1D,30,10,20,40
+61,1,4,30-20-40-10,model_A,1,False,30,True,30,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that guarantees the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as the Optimal page-replacement policy.",30,20,40,10
+62,1,4,10-40-30-20,model_A,1,False,10,False,0,,D,2C,10,40,30,20
+63,1,4,40-30-20-10,model_A,1,False,40,False,0,,A,1A,40,30,20,10
+64,1,4,30-40-10-20,model_A,1,False,30,False,0,,A,"1D
+
+2A
+
+3A
+
+4C",30,40,10,20
+65,1,4,10-40-30-20,model_A,1,False,10,False,0,,C,2B,10,40,30,20
+66,1,4,30-10-40-20,model_A,1,False,30,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2B
+
+I. IfMisanNondeterministicFiniteAutomatonThenLIsAcceptedBySomeDeterministicFiniteAutomaton
+
+III. IfMisanNondeterministicPushdownAutomatonThenLIsAcceptedBySomeDeterministic",30,10,40,20
+67,1,4,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4A",40,10,20,30
+68,1,4,20-40-30-10,model_A,1,False,20,False,0,,D,1B,20,40,30,10
+69,1,4,20-30-40-10,model_A,1,False,20,False,0,,A,1D,20,30,40,10
+70,1,4,20-30-10-40,model_A,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,1,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1A
+
+The main difference between a network operating system and a distributed operating system is thatANetwork operating systemhides the existence ofmanymachinesfromtheuserbutADistributed operating systemmakestheexistenceofmanymachinesvisible.",20,30,10,40
+72,1,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3D
+
+4C",20,30,10,40
+73,1,4,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+74,1,4,20-30-40-10,model_A,1,False,20,False,0,D,A,"1D
+
+The page replacement policy that guarantees the minimum number of page faults is (D) Replace the page whose most recent reference was the longest time in thepast. This policy is known as LRU (Least Recently Used) and It keeps track of the time of last reference to each page. The page that hasn't been referenced for the longest time will be replaced.",20,30,40,10
+75,1,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+As The sequence 1, 4, 9, ... , i^2, ... 1s hashed into The table Using The hash function h(1) = 1mod 4 = 1, 1s The 1st bucket 1s 1/4 1n 1st 1n 1n 1n 1n",20,30,40,10
+76,1,4,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,1,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is typically used by the loader to determine the correct memory location for each variable defined in the source code.",10,30,20,40
+78,1,5,20-40-10-30,model_A,1,False,20,False,0,,C,2B,20,40,10,30
+79,1,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",40,30,20,10
+80,1,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable is stored in memory.",40,30,10,20
+81,1,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",10,20,40,30
+82,1,5,30-40-10-20,model_A,1,False,30,False,0,,C,2B,30,40,10,20
+83,1,5,10-40-20-30,model_A,1,False,10,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps. The 7th largest element can be removed by replacing it withthe 8th largest element. This takesO(logn) steps. SoTheAnswerisC.",10,40,20,30
+84,1,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+The number of seconds it will take to factor a 500x500 matrix based on the relative dimensions is 125 seconds.
+
+2B
+
+If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.
+
+3D
+
+The number of steps needed to find and remove the 7th largest element O(logn",20,10,40,30
+85,1,5,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+The value of f(4) is 53.",10,20,40,30
+86,1,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",30,20,40,10
+87,1,5,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AllBucketsWillReceiveEntriesButTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AsTheTotalNumberOfEntriesInTheTableG",30,40,20,10
+88,1,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This requires O(logn) steps.",30,10,40,20
+89,1,5,20-40-30-10,model_A,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+90,1,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) time. The 7th largest element can also be found by traversing the array, which takes O(n) time. The 7th largest element cannot be found by traversing a balanced binary search tree, which takes O(logn) time. ThereforeThe 7th",30,10,20,40
+91,1,5,20-10-40-30,model_A,1,False,20,False,0,,D,"1A
+
+2B
+
+3A
+
+4D",20,10,40,30
+92,1,5,40-30-10-20,model_A,1,False,40,False,0,,D,1B,40,30,10,20
+93,1,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3B
+
+4C",40,30,20,10
+94,1,5,20-30-40-10,model_A,1,False,20,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from theuser, but adistributedoperating system makestheexistenceofmanymachinesvisible
+
+The correct answer is A.",20,30,40,10
+95,1,5,10-30-40-20,model_A,1,False,10,False,0,,A,1D,10,30,40,20
+96,1,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3D
+
+4C",10,30,40,20
+1,2,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps. The 7th largest element can be removed by traversing the tree from root to leaf. This takes O(logn) steps.",30,10,40,20
+2,2,1,10-40-20-30,model_A,1,False,10,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",10,40,20,30
+3,2,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",40,20,30,10
+4,2,1,40-30-20-10,model_A,1,False,40,False,0,,D,1D,40,30,20,10
+5,2,1,10-40-30-20,model_A,1,False,10,False,0,,A,"1D
+
+The question asks Which of the following page-replacement policies is guaranteed to incur the minimum number of page faults? The answer D) Replace the page whose most recent reference was the longest time in thepast.",10,40,30,20
+6,2,1,20-10-40-30,model_A,2,False,10,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",20,10,40,30
+7,2,1,40-10-30-20,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,10,30,20
+8,2,1,10-20-30-40,model_A,2,False,20,False,0,B,D,"2
+B",10,20,30,40
+9,2,1,30-40-20-10,model_A,4,False,10,False,0,,D,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3B
+
+The correct answer is I and II only.
+
+4C
+
+The correct answer is I and II.",30,40,20,10
+10,2,1,10-40-30-20,model_A,1,False,10,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",10,40,30,20
+11,2,1,10-30-20-40,model_A,1,False,10,False,0,,A,1A,10,30,20,40
+12,2,1,20-30-10-40,model_A,2,False,30,True,30,D,D,"Question 2
+
+The correct answer is (D) II and III
+
+The 7th largest element can be found by traversing the array backwards. This takes O(n) time. The 7th largest element can be removed by swapping it with the last element. This takes O(1) time. ThereforeThe correct answer is (D) II and III
+
+The 7th largest",20,30,10,40
+13,2,1,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+14,2,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3D
+
+4A",40,10,20,30
+15,2,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+As The total numberofentriesintheTable growsTheDifferencebetweentheBucketsWithSmallestandLargestNumberofEntriesWillGrow
+
+2A
+
+TheMostLikelyPurposeOfThisInformationIsForUseAsInputToADebuggingAid
+
+3D
+
+TheGuaranteedToIncurTheMinimumNumberOfPageFaultsIsReplaceThePageWhoseMostRecent",30,20,10,40
+16,2,1,30-10-40-20,model_A,1,False,30,True,30,C,C,"Question 1
+
+Answer: C
+
+Church'",30,10,40,20
+17,2,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,30,10
+18,2,1,30-20-10-40,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is (B) I and II only.
+
+The evaluation order of rules (I) and Evaluation order of clauses (II) must be defined in order to execute a logic program on a sequential machine. However, The evaluation order of arguments in each clause (III) is not necessary.
+
+2A
+
+The correct answer is (A) For use as input to a debugging",30,20,10,40
+19,2,1,40-20-30-10,model_A,1,False,40,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from the user, but a distributed operating system makes the existence of many machines visible
+
+Question 2
+
+Suppose there is an open (external) hash table with four buckets, numbered 0,1,2,3, and integers",40,20,30,10
+20,2,2,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",20,40,10,30
+21,2,2,10-20-30-40,model_A,2,False,20,False,0,,A,"Question 2
+
+As The sequence 1, 4, 9, ... , i^2, ...is hashed intothe tableusingthehashfunctionh(x) = xmod 4,Thehashvalueswillbe0,1,2,3,0,1,2,3,0,1,2,3,...
+
+Thehashvalueswillrepeatevery4entries
+
+Therefore",10,20,30,40
+22,2,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine? The answer D) I, II, and III is correct becauseAll three strategiesEvaluation order of rulesEvaluation order of clausesEvaluation order of arguments in each clausemustbe definedin ordertoexecutea logicprogramonasequentialmachine.",30,10,20,40
+23,2,2,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIs",20,40,30,10
+24,2,2,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds. ThereforeThe answer is (D) 125.",20,40,30,10
+25,2,2,40-20-10-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",40,20,10,30
+26,2,2,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that is guaranteed to incur the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as the Least Recently Used (LRU) algorithm.",20,10,40,30
+27,2,2,40-20-10-30,model_A,4,False,30,False,0,,B,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3D
+
+The difference between the buckets with smallest and largest number of entries will grow.
+
+4A
+
+The main difference between a network operating system and a distributed operating system is that A network operating system hides the existence of many machines from the user",40,20,10,30
+28,2,2,20-10-30-40,model_A,1,False,20,True,20,D,D,"Question 1
+
+Answer: D
+
+The correct answer is D. I, II, and III. 
+
+If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton. This is because Every nondeterministic finite automaton (NFA) can be converted into an equivalent deterministic finite automaton (DFA) 
+
+If M is a deterministic pushdown",20,10,30,40
+29,2,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3B
+
+4B",20,10,30,40
+30,2,2,10-40-20-30,model_A,2,False,40,False,0,D,A,"2
+
+The most likely purpose of this information is (D) To tell the loader where each variable belongs.",10,40,20,30
+31,2,2,30-40-20-10,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is (B) I and II only. The evaluation order of rules (I) and Evaluation order of clauses (II) must be defined in order to execute a logic program on a sequential machine. The evaluation order of arguments in each clause (III) is not necessarily required.",30,40,20,10
+32,2,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+33,2,2,30-40-10-20,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",30,40,10,20
+34,2,2,30-20-10-40,model_A,4,False,40,False,0,A,D,"1A
+
+The value of f(4) = 53
+
+2A
+
+The main difference between a network operating system and a distributed operating system is that A network operating system hides the existence of many machines from the user, but a distributed operating system makes the existence of many machines visible
+
+3D
+
+The most likely purpose of this information isTo tell the loader where each variable belongs",30,20,10,40
+35,2,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Church'",20,10,30,40
+36,2,2,10-30-20-40,model_A,1,False,10,False,0,D,A,"Question 1
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",10,30,20,40
+37,2,2,20-10-30-40,model_A,1,False,20,False,0,,A,1D,20,10,30,40
+38,2,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",40,10,20,30
+39,2,3,30-40-20-10,model_A,2,False,40,False,0,B,D,"2
+B",30,40,20,10
+40,2,3,30-40-10-20,model_A,1,False,30,False,0,,D,1B,30,40,10,20
+41,2,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3B
+
+4C",30,20,40,10
+42,2,3,10-20-30-40,model_A,2,False,20,True,20,D,D,"2
+
+The correct answer is (D) II Only.
+
+The 7th largest element can be found by traversing the array backwards. This operation takes O(n) time. The 7th largest element can be removed by swapping it with the last element. This operation takes O(1) time. ThereforeThe correct answer is (D) II Only.
+
+The correct answer is (D)",10,20,30,40
+43,2,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3D
+
+4C",10,20,40,30
+44,2,3,20-40-10-30,model_A,1,False,20,False,0,,A,"1D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",20,40,10,30
+45,2,3,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+46,2,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+The page-replacement policy guaranteed to incur theminimumnumberofpagefaultsisFirstComeFirstServeFCFS.
+
+2B
+
+TheCorrectAnswerisIandIIOnly.
+
+3A
+
+TheCorrectAnsweris53.
+
+4D
+
+TheCorrectAnswerisAllBucketsWillReceiveEntriesButTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow.",30,20,10,40
+47,2,3,10-20-40-30,model_A,1,False,10,False,0,A,D,"1C
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 25 seconds.",10,20,40,30
+48,2,3,30-20-40-10,model_A,3,False,40,False,0,D,A,"Question 3
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",30,20,40,10
+49,2,3,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The number of steps needed to find and remove the 7th largest element would be O(logn) onlyinthe caseofaMinHeapandAnArrayofLengthnSortedInIncreasingOrder.",40,30,10,20
+50,2,3,40-10-30-20,model_A,1,False,40,False,0,,C,1C,40,10,30,20
+51,2,3,20-40-10-30,model_A,2,False,40,False,0,D,A,"2
+D",20,40,10,30
+52,2,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps.",40,10,30,20
+53,2,3,10-20-30-40,model_A,1,False,10,False,0,,D,1B,10,20,30,40
+54,2,3,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) steps. The 7th largest element can also be found by traversing the array, which takes O(n) steps. The 7th largest element can be found by traversing the balanced binary search tree, which takes O(logn) steps. ThereforeThe 7th",30,10,20,40
+55,2,3,40-10-20-30,model_A,1,False,40,False,0,,A,1A,40,10,20,30
+56,2,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3D
+
+4C",40,10,30,20
+57,2,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2A
+
+ANetworkOperatingSystemHidesTheExistenceOfManyMachinesFromTheUserButADistributedOperatingSystemMakesTheExistenceOfManyMachinesVisible
+
+3A
+
+53
+
+4A
+
+TheMostLikelyPurpose",40,30,10,20
+58,2,4,10-40-20-30,model_A,1,False,10,False,0,,C,1C,10,40,20,30
+59,2,4,10-30-40-20,model_A,1,False,10,False,0,,D,2B,10,30,40,20
+60,2,4,30-10-20-40,model_A,1,False,30,False,0,,A,1D,30,10,20,40
+61,2,4,30-20-40-10,model_A,1,False,30,True,30,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that guarantees the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as the Optimal page-replacement policy.",30,20,40,10
+62,2,4,10-40-30-20,model_A,1,False,10,False,0,,D,2C,10,40,30,20
+63,2,4,40-30-20-10,model_A,1,False,40,False,0,,A,1A,40,30,20,10
+64,2,4,30-40-10-20,model_A,1,False,30,False,0,,A,"1D
+
+2A
+
+3A
+
+4C",30,40,10,20
+65,2,4,10-40-30-20,model_A,1,False,10,False,0,,C,2B,10,40,30,20
+66,2,4,30-10-40-20,model_A,1,False,30,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2B
+
+I. IfMisanNondeterministicFiniteAutomatonThenLIsAcceptedBySomeDeterministicFiniteAutomaton
+
+III. IfMisanNondeterministicPushdownAutomatonThenLIsAcceptedBySomeDeterministic",30,10,40,20
+67,2,4,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4A",40,10,20,30
+68,2,4,20-40-30-10,model_A,1,False,20,False,0,,D,2B,20,40,30,10
+69,2,4,20-30-40-10,model_A,1,False,20,False,0,,A,1D,20,30,40,10
+70,2,4,20-30-10-40,model_A,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,2,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1A
+
+The main difference between a network operating system and a distributed operating system is that A network operating system hides the existence of many machines from theuser, buta distributed operating system makestheexistenceofmanymachinesvisible.",20,30,10,40
+72,2,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3D
+
+4C",20,30,10,40
+73,2,4,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+74,2,4,20-30-40-10,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that guarantees the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as theLeast Recently Used (LRU) algorithm.",20,30,40,10
+75,2,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2C
+
+ItCanNeverBeProven
+
+3A
+
+53
+
+4C
+
+IandII",20,30,40,10
+76,2,4,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,2,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is typically used by the loader to determine the correct memory locations for variables during program execution.",10,30,20,40
+78,2,5,20-40-10-30,model_A,1,False,20,False,0,,C,2B,20,40,10,30
+79,2,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3A
+
+4C",40,30,20,10
+80,2,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",40,30,10,20
+81,2,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2D
+
+3D
+
+4D",10,20,40,30
+82,2,5,30-40-10-20,model_A,1,False,30,False,0,,C,2B,30,40,10,20
+83,2,5,10-40-20-30,model_A,1,False,10,False,0,,D,2B,10,40,20,30
+84,2,5,20-10-40-30,model_A,1,False,20,False,0,,D,"1D
+
+2B
+
+3C
+
+4B",20,10,40,30
+85,2,5,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+The value of f(4) is 53.",10,20,40,30
+86,2,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",30,20,40,10
+87,2,5,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AllBucketsWillReceiveEntriesButTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AsTheTotalNumberOfEntriesInTheTableG",30,40,20,10
+88,2,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps.",30,10,40,20
+89,2,5,20-40-30-10,model_A,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) I and II only.
+
+I. If M is a nondeterministic finite automaton, then L is accepted by Some deterministic finite automaton.
+
+II. If M is a deterministic pushdown automaton, then L is accepted by Some nondeterministic pushdown automaton.
+
+III. If M is a nondeterministic pushdown automaton, then L",20,40,30,10
+90,2,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) time. The 7th largest element can also be found by traversing the array, which takes O(n) time. The 7th largest element cannot be found by traversing a balanced binary search tree, which takes O(logn) time. ThereforeThe 7th",30,10,20,40
+91,2,5,20-10-40-30,model_A,1,False,20,False,0,,D,"1A
+
+2B
+
+3A
+
+4D",20,10,40,30
+92,2,5,40-30-10-20,model_A,1,False,40,False,0,,D,1B,40,30,10,20
+93,2,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3B
+
+4C",40,30,20,10
+94,2,5,20-30-40-10,model_A,1,False,20,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from theuser, but adistributedoperating system makestheexistenceofmanymachinesvisible
+
+The correct answer is (A) A network operating system hides the existence ofmanymachinesfromtheuserbutadistributedoperatingsystemmakesthe",20,30,40,10
+95,2,5,10-30-40-20,model_A,2,False,30,False,0,B,C,"2
+
+The correct answer is (B) It has not yet been proven, but finding a proof is a subject of active research.",10,30,40,20
+96,2,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3D
+
+4C",10,30,40,20
+1,3,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps. The 7th largest element can be removed by traversing the tree from root to leaf. This takes O(logn) steps.",30,10,40,20
+2,3,1,10-40-20-30,model_A,1,False,10,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",10,40,20,30
+3,3,1,40-20-30-10,model_A,1,False,40,False,0,,A,"1D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",40,20,30,10
+4,3,1,40-30-20-10,model_A,1,False,40,False,0,,D,1D,40,30,20,10
+5,3,1,10-40-30-20,model_A,1,False,10,False,0,,A,"1D
+
+The question asks Which of the following page-replacement policies is guaranteed to incur the minimum number of page faults? The answer D) Replace the page whose most recent reference was the longest time in thepast.",10,40,30,20
+6,3,1,20-10-40-30,model_A,2,False,10,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",20,10,40,30
+7,3,1,40-10-30-20,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,10,30,20
+8,3,1,10-20-30-40,model_A,1,False,10,False,0,,C,2B,10,20,30,40
+9,3,1,30-40-20-10,model_A,2,False,40,False,0,B,D,"2
+B",30,40,20,10
+10,3,1,10-40-30-20,model_A,1,False,10,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",10,40,30,20
+11,3,1,10-30-20-40,model_A,1,False,10,False,0,,A,1A,10,30,20,40
+12,3,1,20-30-10-40,model_A,2,False,30,True,30,D,D,"Question 2
+
+The correct answer is (D) II and III. The 7th largest element can be found by traversing the array (O(logn) steps)orthebalancedbinarysearchtreeO(logn)steps)intheworstcase.",20,30,10,40
+13,3,1,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+14,3,1,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3D
+
+4A",40,10,20,30
+15,3,1,30-20-10-40,model_A,1,False,30,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2A
+
+TheInformationMappingAllSourceProgramNamesToTheirAddressesIsMostLikelyForUseAsInputToADebuggingAid
+
+3D
+
+ThePageReplacementPolicyGuaranteedToIncurTheMinimumNumberOfPageFault",30,20,10,40
+16,3,1,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Church'",30,10,40,20
+17,3,1,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,30,10
+18,3,1,30-20-10-40,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is B. The evaluation order of rules (I) and Evaluation order of clauses (II) must be defined in order to execute a logic program on a sequential machine. The evaluation order of arguments in each clause (III) is not necessary.",30,20,10,40
+19,3,1,40-20-30-10,model_A,1,False,40,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from the user, but a distributed operating system makes the existence of many machines visible
+
+Question 2
+
+Suppose there is an open (external) hash table with four buckets, numbered 0,1,2,3, and integers",40,20,30,10
+20,3,2,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",20,40,10,30
+21,3,2,10-20-30-40,model_A,2,False,20,False,0,D,A,"Question 2
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",10,20,30,40
+22,3,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1D
+
+The question asks Which of the following evaluation strategies must be defined in order to execute a logic program on a sequential machine? The answer D) I, II, and III is correct becauseAll three strategiesEvaluation order of rulesEvaluation order of clausesEvaluation order of arguments in each clausemustbe definedin ordertoexecutea logicprogramonasequentialmachine.",30,10,20,40
+23,3,2,20-40-30-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIsD
+
+TheAnswerIs",20,40,30,10
+24,3,2,20-40-30-10,model_A,2,False,40,False,0,A,D,"2
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125.",20,40,30,10
+25,3,2,40-20-10-30,model_A,4,False,30,False,0,,C,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3D
+
+Reference counting need not keep track of which cells point to other cells.
+
+4B
+
+It has not yet been proven, but finding a proof is a subject of active research.",40,20,10,30
+26,3,2,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The page replacement policy that guarantees the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known asLeast Recently Used (LRU) replacement policy.",20,10,40,30
+27,3,2,40-20-10-30,model_A,4,False,30,False,0,,B,"1A
+
+The value of f(4) = 53
+
+2D
+
+The evaluation strategies I, II, and III must be defined.
+
+3D
+
+The difference between the buckets with smallest and largest number of entries will grow.
+
+4B
+
+A distributed operating system hides the existence of many machines from the user, but a network operating system makes the existence of many machines visible.",40,20,10,30
+28,3,2,20-10-30-40,model_A,1,False,20,False,0,,D,1B,20,10,30,40
+29,3,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3B
+
+4B",20,10,30,40
+30,3,2,10-40-20-30,model_A,2,False,40,False,0,D,A,"2
+
+The most likely purpose of this information is (D) To tell the loader where each variable belongs.",10,40,20,30
+31,3,2,30-40-20-10,model_A,1,False,30,False,0,B,D,"1B
+
+The correct answer is (B) I and II only.
+
+The evaluation order of rules (I) and Evaluation order of clauses (II) must be defined in order to execute a logic program on a sequential machine. However, The evaluation order of arguments in each clause (III) is not necessarily required.",30,40,20,10
+32,3,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 125 seconds.",40,20,10,30
+33,3,2,30-40-10-20,model_A,2,False,40,False,0,,D,"2
+The value of f(4) is 53.",30,40,10,20
+34,3,2,30-20-10-40,model_A,4,False,40,False,0,A,D,"1A
+
+The value of f(4) = 53
+
+2A
+
+The main difference between a network operating system and a distributed operating system is that A network operating system hides the existence of many machines from the user, but a distributed operating system makes the existence of many machines visible
+
+3D
+
+The most likely purpose of this information isTo tell the loader where each variable belongs",30,20,10,40
+35,3,2,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Church'",20,10,30,40
+36,3,2,10-30-20-40,model_A,1,False,10,False,0,D,A,"Question 1
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",10,30,20,40
+37,3,2,20-10-30-40,model_A,1,False,20,False,0,,A,1D,20,10,30,40
+38,3,2,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",40,10,20,30
+39,3,3,30-40-20-10,model_A,2,False,40,False,0,B,D,"2
+
+The correct answer is (B) I and II only.
+
+I. If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.
+This statement is true. Every nondeterministic finite automaton (NFA) can be converted into an equivalent deterministic finite automaton (DFA) through a process calledsubset construction.
+
+II. If M is",30,40,20,10
+40,3,3,30-40-10-20,model_A,1,False,30,False,0,,D,1B,30,40,10,20
+41,3,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2D
+
+3B
+
+4C",30,20,40,10
+42,3,3,10-20-30-40,model_A,1,False,10,False,0,,B,2C,10,20,30,40
+43,3,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2B
+
+3D
+
+4C",10,20,40,30
+44,3,3,20-40-10-30,model_A,1,False,20,False,0,,A,"1D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",20,40,10,30
+45,3,3,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+46,3,3,30-20-10-40,model_A,1,False,30,False,0,,A,"1A
+
+The page-replacement policy guaranteed to incur theminimumnumberofpagefaultsisFirstComeFirstServeFCFS.
+
+2B
+
+IfMisanNFAthenLisacceptedbySomeDFA
+
+IfMisanNPAthenLisacceptedbySomeNPA
+
+IfMisanNPAthenLisacceptedbySomeDTM
+
+ThereforeIandIIistrue
+
+3A",30,20,10,40
+47,3,3,10-20-40-30,model_A,1,False,10,False,0,A,D,"1C
+
+The best estimate of the number of seconds it will take to factor a 500 x 500 matrix based on the relative dimensions is 25 seconds.
+
+2D
+
+The number of steps needed to find and remove the 7th largest element O(log n) in theworst caseisIIandIII.
+
+3A
+
+ThemaindifferencebetweenANetworkOperating",10,20,40,30
+48,3,3,30-20-40-10,model_A,3,False,40,False,0,D,A,"Question 3
+
+Answer: D
+
+As the total number of entries grows, The difference between the buckets with smallest and largest number of entries will grow.",30,20,40,10
+49,3,3,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The number of steps needed to find and remove the 7th largest element would be O(logn) onlyinthe caseofaMinHeapandAnArrayofLengthnSortedInIncreasingOrder.",40,30,10,20
+50,3,3,40-10-30-20,model_A,1,False,40,False,0,,C,1C,40,10,30,20
+51,3,3,20-40-10-30,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD
+
+TheCorrectAnswerIsD",20,40,10,30
+52,3,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps.",40,10,30,20
+53,3,3,10-20-30-40,model_A,1,False,10,False,0,,D,1B,10,20,30,40
+54,3,3,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) steps. The 7th largest element can also be found by traversing the array, which takes O(n) steps. The 7th largest element can be found by traversing the balanced binary search tree, which takes O(logn) steps. ThereforeThe 7th",30,10,20,40
+55,3,3,40-10-20-30,model_A,1,False,40,False,0,,A,1A,40,10,20,30
+56,3,3,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",40,10,30,20
+57,3,3,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2A
+
+ANetworkOperatingSystemHidesTheExistenceOfManyMachinesFromTheUserButADistributedOperatingSystemMakesTheExistenceOfManyMachinesVisible
+
+3A
+
+53
+
+4D
+
+ToTellTheLoaderWhere",40,30,10,20
+58,3,4,10-40-20-30,model_A,1,False,10,False,0,,C,1C,10,40,20,30
+59,3,4,10-30-40-20,model_A,1,False,10,False,0,,D,2B,10,30,40,20
+60,3,4,30-10-20-40,model_A,1,False,30,False,0,,A,1D,30,10,20,40
+61,3,4,30-20-40-10,model_A,1,False,30,True,30,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that is guaranteed to incur the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known as the Least Recently Used (LRU) algorithm.",30,20,40,10
+62,3,4,10-40-30-20,model_A,1,False,10,False,0,,D,2C,10,40,30,20
+63,3,4,40-30-20-10,model_A,1,False,40,False,0,,A,1A,40,30,20,10
+64,3,4,30-40-10-20,model_A,1,False,30,False,0,,A,"1D
+
+2A
+
+3A
+
+4C",30,40,10,20
+65,3,4,10-40-30-20,model_A,1,False,10,False,0,,C,2B,10,40,30,20
+66,3,4,30-10-40-20,model_A,1,False,30,False,0,,A,"1D
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+2B
+
+I. IfMisanNondeterministicFiniteAutomatonThenLIsAcceptedBySomeDeterministicFiniteAutomaton
+
+III. IfMisanNondeterministicPushdownAutomatonThenLIsAcceptedBySomeDeterministic",30,10,40,20
+67,3,4,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3D
+
+4A",40,10,20,30
+68,3,4,20-40-30-10,model_A,1,False,20,False,0,,D,1B,20,40,30,10
+69,3,4,20-30-40-10,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The page-replacement policy that guarantees the minimum number of page faults is (A) Replace the page whose next reference will be the longest time in the future. This policy is known asLeast Recently Used (LRU)anditkeepstrackoftheRecencyofthePageReferencesandreplacesthePagethathasnotbeenReferencedforThe",20,30,40,10
+70,3,4,20-30-10-40,model_A,2,False,30,False,0,C,A,"2
+C",20,30,10,40
+71,3,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"1A
+
+The main difference between a network operating system and a distributed operating system is thatANetwork operating systemhides the existence ofmanymachinesfromtheuserbutADistributed operating systemmakestheexistenceofmanymachinesvisible.",20,30,10,40
+72,3,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1A
+
+2D
+
+3D
+
+4C",20,30,10,40
+73,3,4,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+74,3,4,20-30-40-10,model_A,1,False,20,False,0,D,A,"1D
+
+The page-replacement policy that guarantees the minimum number of page faults is (D) Replace the page whose most recent reference was the longest time in thepast. This policy is known asLeast Recently Used (LRU)anditkeepstrackoftheTimeSinceTheLastReferenceToEachPageInTheMemoryAndReplacesThePageWithTheLongestTimeSinceTheLastReference.",20,30,40,10
+75,3,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+As The sequence 1, 4, 9, ... , i^2, ... 1^2, 2^2, 3^2... 1^2 + 2^2 + 3^2... + i^2... Thesumoftheperfectsquares1^2+2^2+3^2...+i^2",20,30,40,10
+76,3,4,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+D",10,30,40,20
+77,3,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+
+The most likely purpose of the information mapping all source program names to their addresses included in the object module produced by a compiler is (D) To tell the loader where each variable belongs. This information is typically used by the loader to determine the correct memory location for each variable defined in the source code.",10,30,20,40
+78,3,5,20-40-10-30,model_A,1,False,20,False,0,,C,2B,20,40,10,30
+79,3,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",40,30,20,10
+80,3,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",40,30,10,20
+81,3,5,10-20-40-30,model_A,1,False,10,False,0,,D,"1A
+
+2D
+
+3D
+
+4B",10,20,40,30
+82,3,5,30-40-10-20,model_A,1,False,30,False,0,,C,2B,30,40,10,20
+83,3,5,10-40-20-30,model_A,1,False,10,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This takes O(logn) steps.",10,40,20,30
+84,3,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+The number of seconds it will take to factor a 500x500 matrix based on the relative dimensions is 125 seconds.
+
+2B
+
+If M is a nondeterministic finite automaton, then L is accepted by some deterministic finite automaton.
+
+3D
+
+The number of steps needed to find and remove the 7th largest element O(logn",20,10,40,30
+85,3,5,10-20-40-30,model_A,1,False,10,False,0,,D,1B,10,20,40,30
+86,3,5,30-20-40-10,model_A,1,False,30,False,0,,A,"1D
+
+The purpose of mapping all source program names to their addresses is most likely to tell the loader where each variable belongs. This information is used by the loader to determine where each variable should be placed in memory.",30,20,40,10
+87,3,5,30-40-20-10,model_A,2,False,40,False,0,,A,"2
+
+AsTheTotalNumberOfEntriesInTheTableGrowsTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AllBucketsWillReceiveEntriesButTheDifferenceBetweenTheBucketsWithSmallestAndLargestNumberOfEntriesWillGrow
+
+ThereforeTheCorrectAnswerIsD
+
+AsTheTotalNumberOfEntriesInTheTableG",30,40,20,10
+88,3,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the tree from root to leaf. This requires O(logn) steps.",30,10,40,20
+89,3,5,20-40-30-10,model_A,2,False,40,False,0,B,D,"2
+B",20,40,30,10
+90,3,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1C
+
+The 7th largest element can be found by traversing the heap, which takes O(logn) time. The 7th largest element can also be found by traversing the array, which takes O(n) time. The 7th largest element cannot be found by traversing a balanced binary search tree, which takes O(logn) time. ThereforeThe 7th",30,10,20,40
+91,3,5,20-10-40-30,model_A,1,False,20,False,0,,D,"1A
+
+2B
+
+3A
+
+4D",20,10,40,30
+92,3,5,40-30-10-20,model_A,1,False,40,False,0,,D,1B,40,30,10,20
+93,3,5,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+2B
+
+3B
+
+4C",40,30,20,10
+94,3,5,20-30-40-10,model_A,1,False,20,False,0,A,B,"Question 1
+
+The main difference between a network operating system and a distributed operating system is that (A) A network operating system hides the existence of many machines from theuser, but adistributedoperating system makestheexistenceofmanymachinesvisible
+
+The correct answer is (A) A network operating system hides the existence ofmanymachinesfromtheuserbutadistributedoperatingsystemmakesthe",20,30,40,10
+95,3,5,10-30-40-20,model_A,1,False,10,False,0,,A,1D,10,30,40,20
+96,3,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3D
+
+4C",10,30,40,20

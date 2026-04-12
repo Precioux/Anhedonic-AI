@@ -1,0 +1,1350 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-30-40-10,baseline,1,False,20,False,0,D,A,"1
+D",20,30,40,10
+2,1,1,30-40-10-20,baseline,2,False,40,True,40,A,A,"2
+A",30,40,10,20
+3,1,1,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+4,1,1,20-10-30-40,baseline,3,False,30,False,0,,D,3,20,10,30,40
+5,1,1,30-10-40-20,baseline,3,False,40,False,0,,A,3,30,10,40,20
+6,1,1,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+7,1,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+8,1,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+9,1,1,40-20-30-10,baseline,1,False,40,True,40,A,A,"1. A high-temperature source radiates relatively (A) short wavelengths (B) long wavelengths (C) low frequencies of radiation (D) None of these (40 points)
+
+A high-temperature source radiates relatively short wavelengths.",40,20,30,10
+10,1,1,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+11,1,1,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+12,1,1,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+13,1,1,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+14,1,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+15,1,1,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+16,1,1,40-30-10-20,baseline,1,False,40,False,0,C,D,"1
+C",40,30,10,20
+17,1,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+18,1,1,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+19,1,1,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+20,1,2,20-30-10-40,baseline,1,False,20,True,20,B,B,"1
+B",20,30,10,40
+21,1,2,20-40-30-10,baseline,2,False,40,False,0,C,D,"2, C",20,40,30,10
+22,1,2,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+23,1,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+24,1,2,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+25,1,2,20-40-10-30,baseline,2,False,40,False,0,,A,2,20,40,10,30
+26,1,2,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+27,1,2,40-10-30-20,baseline,1,False,40,False,0,C,D,"1
+C",40,10,30,20
+28,1,2,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+29,1,2,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+30,1,2,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+31,1,2,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+32,1,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+33,1,2,10-20-30-40,baseline,2,False,20,False,0,B,D,"2
+B",10,20,30,40
+34,1,2,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+35,1,2,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+36,1,2,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+37,1,2,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+38,1,2,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+39,1,3,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+40,1,3,20-10-40-30,baseline,1,False,20,False,0,D,B,1. D,20,10,40,30
+41,1,3,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+42,1,3,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+43,1,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+44,1,3,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+45,1,3,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+46,1,3,10-30-20-40,baseline,1,False,10,False,0,C,A,1. C,10,30,20,40
+47,1,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+48,1,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+49,1,3,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+50,1,3,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+51,1,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+52,1,3,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+53,1,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+54,1,3,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+55,1,3,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+56,1,3,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+57,1,3,10-40-20-30,baseline,2,False,40,False,0,B,A,"2
+B",10,40,20,30
+58,1,4,30-20-10-40,baseline,4,False,40,False,0,C,D,"4
+C",30,20,10,40
+59,1,4,20-30-40-10,baseline,2,False,30,False,0,,C,2,20,30,40,10
+60,1,4,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+61,1,4,30-10-20-40,baseline,1,False,30,True,30,B,B,"1
+B",30,10,20,40
+62,1,4,40-30-10-20,baseline,1,False,40,False,0,D,C,"1
+D",40,30,10,20
+63,1,4,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+64,1,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+65,1,4,10-40-20-30,baseline,1,False,10,False,0,C,A,1. C,10,40,20,30
+66,1,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+67,1,4,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,1,4,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+69,1,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+70,1,4,20-40-10-30,baseline,2,False,40,False,0,B,C,"2
+B",20,40,10,30
+71,1,4,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+72,1,4,10-20-30-40,baseline,4,False,40,False,0,,C,4,10,20,30,40
+73,1,4,20-10-40-30,baseline,3,False,40,True,40,B,B,"3
+B",20,10,40,30
+74,1,4,40-10-30-20,baseline,3,False,30,False,0,,D,3,40,10,30,20
+75,1,4,20-30-10-40,baseline,4,False,40,False,0,C,D,4. C,20,30,10,40
+76,1,4,20-10-40-30,baseline,1,False,20,False,0,D,B,1. D,20,10,40,30
+77,1,5,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+78,1,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+79,1,5,30-20-10-40,baseline,4,False,40,False,0,C,D,4. C,30,20,10,40
+80,1,5,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+81,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+82,1,5,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+83,1,5,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,1,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+85,1,5,20-10-40-30,baseline,4,False,30,False,0,,D,4,20,10,40,30
+86,1,5,30-40-10-20,baseline,1,False,30,False,0,D,B,"1
+D",30,40,10,20
+87,1,5,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+88,1,5,40-30-10-20,baseline,1,False,40,False,0,C,A,1. C,40,30,10,20
+89,1,5,20-30-40-10,baseline,2,False,30,False,0,,A,2,20,30,40,10
+90,1,5,10-30-40-20,baseline,1,False,10,False,0,B,D,"1
+B",10,30,40,20
+91,1,5,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+92,1,5,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+93,1,5,10-20-40-30,baseline,3,False,40,False,0,C,D,"3
+C",10,20,40,30
+94,1,5,30-10-20-40,baseline,1,False,30,False,0,A,D,"1
+A",30,10,20,40
+95,1,5,20-40-10-30,baseline,2,False,40,False,0,,C,2,20,40,10,30
+96,1,5,40-10-30-20,baseline,1,False,40,True,40,B,B,"1
+B",40,10,30,20
+1,2,1,20-30-40-10,baseline,2,False,30,False,0,D,B,"2
+D",20,30,40,10
+2,2,1,30-40-10-20,baseline,2,False,40,True,40,A,A,"2
+A",30,40,10,20
+3,2,1,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+4,2,1,20-10-30-40,baseline,3,False,30,False,0,,D,3,20,10,30,40
+5,2,1,30-10-40-20,baseline,3,False,40,False,0,,A,3,30,10,40,20
+6,2,1,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+7,2,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+8,2,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+9,2,1,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+10,2,1,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+11,2,1,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+12,2,1,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+13,2,1,10-30-40-20,baseline,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+14,2,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+15,2,1,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+16,2,1,40-30-10-20,baseline,1,False,40,False,0,C,D,"1
+C",40,30,10,20
+17,2,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+18,2,1,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+19,2,1,30-40-10-20,baseline,1,False,30,True,30,D,D,"1
+D",30,40,10,20
+20,2,2,20-30-10-40,baseline,1,False,20,True,20,B,B,"1
+B",20,30,10,40
+21,2,2,20-40-30-10,baseline,2,False,40,False,0,C,D,"2
+C",20,40,30,10
+22,2,2,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+23,2,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+24,2,2,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+25,2,2,20-40-10-30,baseline,2,False,40,False,0,C,A,"2
+C",20,40,10,30
+26,2,2,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+27,2,2,40-10-30-20,baseline,1,False,40,False,0,C,D,"1
+C",40,10,30,20
+28,2,2,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+29,2,2,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+30,2,2,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+31,2,2,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+32,2,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+33,2,2,10-20-30-40,baseline,2,False,20,False,0,B,D,"2
+B",10,20,30,40
+34,2,2,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+35,2,2,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+36,2,2,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+37,2,2,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+38,2,2,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+39,2,3,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+40,2,3,20-10-40-30,baseline,1,False,20,False,0,D,B,1. D,20,10,40,30
+41,2,3,10-40-30-20,baseline,2,False,40,False,0,D,C,"2
+D",10,40,30,20
+42,2,3,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+43,2,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+44,2,3,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+45,2,3,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+46,2,3,10-30-20-40,baseline,1,False,10,False,0,C,A,1. C,10,30,20,40
+47,2,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+48,2,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+49,2,3,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+50,2,3,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+51,2,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+52,2,3,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+53,2,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+54,2,3,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+55,2,3,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+56,2,3,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+57,2,3,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+58,2,4,30-20-10-40,baseline,4,False,40,False,0,C,D,"4
+C",30,20,10,40
+59,2,4,20-30-40-10,baseline,2,False,30,False,0,,C,2,20,30,40,10
+60,2,4,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+61,2,4,30-10-20-40,baseline,1,False,30,True,30,B,B,"1
+B",30,10,20,40
+62,2,4,40-30-10-20,baseline,1,False,40,False,0,D,C,"1
+D",40,30,10,20
+63,2,4,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+64,2,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+65,2,4,10-40-20-30,baseline,1,False,10,False,0,C,A,1. C,10,40,20,30
+66,2,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+67,2,4,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,2,4,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+69,2,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+70,2,4,20-40-10-30,baseline,2,False,40,False,0,B,C,"2
+B",20,40,10,30
+71,2,4,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+72,2,4,10-20-30-40,baseline,4,False,40,False,0,,C,4,10,20,30,40
+73,2,4,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+74,2,4,40-10-30-20,baseline,3,False,30,True,30,D,D,"3
+D",40,10,30,20
+75,2,4,20-30-10-40,baseline,4,False,40,False,0,C,D,4. C,20,30,10,40
+76,2,4,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+77,2,5,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+78,2,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+79,2,5,30-20-10-40,baseline,4,False,40,True,40,D,D,"4
+D",30,20,10,40
+80,2,5,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+81,2,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+82,2,5,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+83,2,5,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,2,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+85,2,5,20-10-40-30,baseline,4,False,30,False,0,,D,4,20,10,40,30
+86,2,5,30-40-10-20,baseline,1,False,30,False,0,D,B,"1
+D",30,40,10,20
+87,2,5,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+88,2,5,40-30-10-20,baseline,1,False,40,False,0,C,A,1. C,40,30,10,20
+89,2,5,20-30-40-10,baseline,2,False,30,False,0,,A,2,20,30,40,10
+90,2,5,10-30-40-20,baseline,1,False,10,False,0,B,D,"1
+B",10,30,40,20
+91,2,5,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+92,2,5,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+93,2,5,10-20-40-30,baseline,2,False,20,False,0,C,B,"2
+C",10,20,40,30
+94,2,5,30-10-20-40,baseline,4,False,40,True,40,C,C,4. C,30,10,20,40
+95,2,5,20-40-10-30,baseline,2,False,40,False,0,,C,2,20,40,10,30
+96,2,5,40-10-30-20,baseline,1,False,40,True,40,B,B,"1
+B",40,10,30,20
+1,3,1,20-30-40-10,baseline,2,False,30,False,0,D,B,"2
+D",20,30,40,10
+2,3,1,30-40-10-20,baseline,2,False,40,True,40,A,A,"2
+A",30,40,10,20
+3,3,1,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+4,3,1,20-10-30-40,baseline,3,False,30,False,0,,D,3,20,10,30,40
+5,3,1,30-10-40-20,baseline,3,False,40,False,0,,A,3,30,10,40,20
+6,3,1,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+7,3,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+8,3,1,40-30-20-10,baseline,1,False,40,True,40,A,A,"1
+A",40,30,20,10
+9,3,1,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+10,3,1,20-40-30-10,baseline,2,False,40,False,0,C,B,"2
+C",20,40,30,10
+11,3,1,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+12,3,1,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+13,3,1,10-30-40-20,baseline,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+14,3,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+15,3,1,30-20-10-40,baseline,4,False,40,False,0,,A,4,30,20,10,40
+16,3,1,40-30-10-20,baseline,1,False,40,False,0,C,D,"1
+C",40,30,10,20
+17,3,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+18,3,1,10-40-30-20,baseline,2,False,40,True,40,A,A,"2
+A",10,40,30,20
+19,3,1,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+20,3,2,20-30-10-40,baseline,1,False,20,True,20,B,B,"1
+B",20,30,10,40
+21,3,2,20-40-30-10,baseline,2,False,40,False,0,C,D,"2, C",20,40,30,10
+22,3,2,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+23,3,2,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+24,3,2,10-30-20-40,baseline,2,False,30,False,0,B,D,"2
+B",10,30,20,40
+25,3,2,20-40-10-30,baseline,2,False,40,False,0,,A,2,20,40,10,30
+26,3,2,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+27,3,2,40-10-30-20,baseline,1,False,40,False,0,C,D,"1
+C",40,10,30,20
+28,3,2,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+29,3,2,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+30,3,2,30-10-40-20,baseline,1,False,30,False,0,C,A,1. C,30,10,40,20
+31,3,2,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+32,3,2,10-40-30-20,baseline,1,False,10,False,0,D,B,"1
+D",10,40,30,20
+33,3,2,10-20-30-40,baseline,2,False,20,False,0,B,D,"2
+B",10,20,30,40
+34,3,2,40-20-30-10,baseline,1,False,40,False,0,A,C,"1
+A",40,20,30,10
+35,3,2,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+36,3,2,40-10-20-30,baseline,1,False,40,True,40,A,A,1. A,40,10,20,30
+37,3,2,20-30-10-40,baseline,2,False,30,True,30,B,B,"2
+B",20,30,10,40
+38,3,2,30-20-40-10,baseline,3,False,40,False,0,,D,3,30,20,40,10
+39,3,3,10-30-40-20,baseline,2,False,30,False,0,B,C,"2
+B",10,30,40,20
+40,3,3,20-10-40-30,baseline,1,False,20,False,0,D,B,1. D,20,10,40,30
+41,3,3,10-40-30-20,baseline,2,False,40,False,0,D,C,"2
+D",10,40,30,20
+42,3,3,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+43,3,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+44,3,3,40-20-30-10,baseline,1,False,40,False,0,C,D,1. C,40,20,30,10
+45,3,3,30-40-20-10,baseline,2,False,40,True,40,C,C,"2
+C",30,40,20,10
+46,3,3,10-30-20-40,baseline,1,False,10,False,0,C,A,1. C,10,30,20,40
+47,3,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+48,3,3,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+49,3,3,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+50,3,3,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+51,3,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+52,3,3,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+53,3,3,30-20-40-10,baseline,1,False,30,False,0,D,B,"1
+D",30,20,40,10
+54,3,3,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+55,3,3,10-20-40-30,baseline,2,False,20,False,0,C,D,"2
+C",10,20,40,30
+56,3,3,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+57,3,3,10-40-20-30,baseline,2,False,40,False,0,B,A,"2
+B",10,40,20,30
+58,3,4,30-20-10-40,baseline,4,False,40,False,0,C,D,"4
+C",30,20,10,40
+59,3,4,20-30-40-10,baseline,2,False,30,False,0,,C,2,20,30,40,10
+60,3,4,40-20-10-30,baseline,1,False,40,True,40,C,C,"1
+C",40,20,10,30
+61,3,4,30-10-20-40,baseline,1,False,30,True,30,B,B,1. B,30,10,20,40
+62,3,4,40-30-10-20,baseline,1,False,40,False,0,D,C,"1
+D",40,30,10,20
+63,3,4,40-30-20-10,baseline,1,False,40,True,40,B,B,"1
+B",40,30,20,10
+64,3,4,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+65,3,4,10-40-20-30,baseline,1,False,10,False,0,C,A,1. C,10,40,20,30
+66,3,4,30-20-10-40,baseline,1,False,30,True,30,B,B,1. B,30,20,10,40
+67,3,4,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,3,4,30-40-20-10,baseline,2,False,40,False,0,,A,2,30,40,20,10
+69,3,4,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+70,3,4,20-40-10-30,baseline,2,False,40,False,0,B,C,"2
+B",20,40,10,30
+71,3,4,20-30-40-10,baseline,1,False,20,False,0,C,D,"1
+C",20,30,40,10
+72,3,4,10-20-30-40,baseline,4,False,40,False,0,,C,4,10,20,30,40
+73,3,4,20-10-40-30,baseline,3,False,40,True,40,B,B,"3
+B",20,10,40,30
+74,3,4,40-10-30-20,baseline,3,False,30,False,0,,D,3,40,10,30,20
+75,3,4,20-30-10-40,baseline,4,False,40,False,0,C,D,4. C,20,30,10,40
+76,3,4,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+77,3,5,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+78,3,5,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+79,3,5,30-20-10-40,baseline,4,False,40,False,0,C,D,4. C,30,20,10,40
+80,3,5,10-20-40-30,baseline,2,False,20,False,0,,A,2,10,20,40,30
+81,3,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+82,3,5,30-10-40-20,baseline,1,False,30,True,30,C,C,1. C,30,10,40,20
+83,3,5,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,3,5,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+85,3,5,20-10-40-30,baseline,4,False,30,False,0,,D,4,20,10,40,30
+86,3,5,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+87,3,5,30-40-20-10,baseline,1,False,30,False,0,C,D,1. C,30,40,20,10
+88,3,5,40-30-10-20,baseline,1,False,40,False,0,C,A,1. C,40,30,10,20
+89,3,5,20-30-40-10,baseline,2,False,30,False,0,,A,2,20,30,40,10
+90,3,5,10-30-40-20,baseline,1,False,10,False,0,B,D,"1
+B",10,30,40,20
+91,3,5,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+92,3,5,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+93,3,5,10-20-40-30,baseline,3,False,40,False,0,C,D,"3
+C",10,20,40,30
+94,3,5,30-10-20-40,baseline,4,False,40,False,0,,C,4,30,10,20,40
+95,3,5,20-40-10-30,baseline,2,False,40,False,0,,C,2,20,40,10,30
+96,3,5,40-10-30-20,baseline,1,False,40,True,40,B,B,"1
+B",40,10,30,20
+1,1,1,20-30-40-10,model_A,1,False,20,True,20,A,A,"2B
+
+A hologram best illustrates electron interference.",20,30,40,10
+2,1,1,30-40-10-20,model_A,1,False,30,False,0,B,D,"2B
+
+When energy is released by the process of fusion, the total mass of the material after the event is (B)the same.",30,40,10,20
+3,1,1,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The speed of light is constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+4,1,1,20-10-30-40,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these",20,10,30,40
+5,1,1,30-10-40-20,model_A,1,False,30,False,0,,C,3A,30,10,40,20
+6,1,1,40-20-10-30,model_A,1,False,40,False,0,,C,1C,40,20,10,30
+7,1,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,10,20,30
+8,1,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",40,30,20,10
+9,1,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+A high-temperature source radiates relatively short wavelengths.",40,20,30,10
+10,1,1,20-40-30-10,model_A,1,False,20,False,0,A,C,"2C
+
+A hologram best illustrates superposition.",20,40,30,10
+11,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2B
+
+Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have **opposite** **signs** **of** **charge**.",20,40,30,10
+12,1,1,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+13,1,1,10-30-40-20,model_A,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+14,1,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The atmospheric pressure is due to the density and volume of the atmosphere.",30,10,20,40
+15,1,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+16,1,1,40-30-10-20,model_A,1,False,40,False,0,,D,"1C
+
+The apparent weight of an object placed on an accelerating elevator depends on the acceleration. The apparent weight is calculated using Newton's second law F=ma,whereFistheNetForceactingontheobjectmisanysmassandaistheacceleration.UsingthisformulawecanfindthatTheApparentWeight=5kg×(4m/s2+9.8m/s",40,30,10,20
+17,1,1,10-40-20-30,model_A,2,False,40,False,0,A,C,"2
+
+The sound waves that most humans cannot hear are (A) infrasonic.",10,40,20,30
+18,1,1,10-40-30-20,model_A,1,False,10,True,10,A,A,"2A
+
+A real image can be cast on a screen by a converging lens.",10,40,30,20
+19,1,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Standing waves are formed when waves overlap in phase and out of phase. Therefore, All of these (D) is correct.
+
+2B
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand decreases. Therefore, B is correct.
+
+3C
+
+Gamma rays cannot be deflected by electrical or magnetic means. Therefore, C is correct.
+
+4B",30,40,10,20
+20,1,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+21,1,2,20-40-30-10,model_A,1,False,20,False,0,,B,"2C
+
+The normal force on the ball may be greater or less than mg depending on the angle of inclination.",20,40,30,10
+22,1,2,10-20-30-40,model_A,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+23,1,2,10-30-40-20,model_A,1,False,10,False,0,,C,"2B
+
+The sound waves that most humans cannot hear are infrasonic.",10,30,40,20
+24,1,2,10-30-20-40,model_A,1,False,10,False,0,,D,"2B
+
+The apparent weight of an object depends on the acceleration of the elevator. The apparent weight is calculated as follows:
+
+Apparent weight = Mass * Acceleration
+
+The acceleration of 4.0 m/s^2 upwards means that The apparent weight = 5.0 kg * 9.81 m/s^2 = 49 N
+
+ThereforeThe answer is 2C",10,30,20,40
+25,1,2,20-40-10-30,model_A,1,False,20,False,0,,A,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",20,40,10,30
+26,1,2,40-10-20-30,model_A,1,False,40,False,0,,C,1D,40,10,20,30
+27,1,2,40-10-30-20,model_A,1,False,40,False,0,,D,1C,40,10,30,20
+28,1,2,30-10-40-20,model_A,1,False,30,False,0,,C,"3B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,10,40,20
+29,1,2,40-20-30-10,model_A,1,False,40,False,0,,B,1B,40,20,30,10
+30,1,2,30-10-40-20,model_A,1,False,30,False,0,,A,"1C
+
+The atmospheric pressure is due to the density and volume of the atmosphere.",30,10,40,20
+31,1,2,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+An object that absorbs energy well alsoradiates well.",40,20,10,30
+32,1,2,10-40-30-20,model_A,1,False,10,False,0,,B,"1B
+
+The third shell of sodium (Na) has 1 electron.",10,40,30,20
+33,1,2,10-20-30-40,model_A,2,False,20,False,0,,D,"2
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards 4.0 m/s2is 29N.",10,20,30,40
+34,1,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,20,30,10
+35,1,2,10-20-30-40,model_A,2,False,20,True,20,D,D,"2
+
+Standing waves are the result of All of these (D)",10,20,30,40
+36,1,2,40-10-20-30,model_A,1,False,40,True,40,A,A,"1A
+
+The process of fusion releases energy from gold, not carbon. ThereforeThe answer is A.",40,10,20,30
+37,1,2,20-30-10-40,model_A,1,False,20,False,0,,C,"2B
+
+The third shell of sodium (Na) has 11 electrons. The first shell (K) holds 2 electrons, the second shell (L) holds 8 electrons, leaving 1 electron in the third shell.",20,30,10,40
+38,1,2,30-20-40-10,model_A,1,False,30,False,0,,B,"3C
+
+The normal force on the ball may be greater or less than mg always.",30,20,40,10
+39,1,3,10-30-40-20,model_A,1,False,10,False,0,,C,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",10,30,40,20
+40,1,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates electron interference.",20,10,40,30
+41,1,3,10-40-30-20,model_A,1,False,10,False,0,,A,2D,10,40,30,20
+42,1,3,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible.",40,30,20,10
+43,1,3,20-10-30-40,model_A,1,False,20,False,0,A,B,"1B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,10,30,40
+44,1,3,40-20-30-10,model_A,1,False,40,False,0,A,D,"1C
+
+A magnetic force can act on anelectronevenwhenitBothofthese
+
+2C
+
+AtmosphericpressureisduetotheWeightDensityandVolumeoftheAtmosphere
+
+3C
+
+TheNormalForceontheBallTheForcePerpendiculartothePlaneMaybegreaterorlessthanmg
+
+4B
+
+HowManyElectronsAreThereInTheThirdShellOfSodiumNaAtomic",40,20,30,10
+45,1,3,30-40-20-10,model_A,1,False,30,False,0,,A,2C,30,40,20,10
+46,1,3,10-30-20-40,model_A,1,False,10,True,10,A,A,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,30,20,40
+47,1,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards 4.0 m/s2is 29N
+
+2
+The sound waves thatmost humanscannot hearareB) Ultrasonic
+
+3
+A HologramBestIllustratesC)Superposition
+
+4
+TheNormalForceOnTheBallTheForcePerpendicularToThePlaneMayBeGreaterOr",30,20,40,10
+48,1,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1C
+
+According to the correspondence principle, relativity equations apply to high speeds while Newton's equations apply to low speeds.",40,10,20,30
+49,1,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2B
+
+The process that would release energy from gold is fusion, whereas carbon would undergo fission.",10,40,30,20
+50,1,3,10-40-20-30,model_A,1,False,10,False,0,,D,2B,10,40,20,30
+51,1,3,30-20-40-10,model_A,3,False,40,False,0,,C,"1B
+
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+52,1,3,20-40-10-30,model_A,1,False,20,False,0,,A,2B,20,40,10,30
+53,1,3,30-20-40-10,model_A,3,False,40,False,0,,A,"1D
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+54,1,3,40-10-30-20,model_A,1,False,40,False,0,,C,1C,40,10,30,20
+55,1,3,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The normal force on the ball (the force perpendicular to the plane) may be greater or less than mg always.",10,20,40,30
+56,1,3,10-20-40-30,model_A,1,False,10,False,0,,B,"2C
+
+Atmospheric pressure is due to the weightdensity and volume ofthe atmosphere.",10,20,40,30
+57,1,3,10-40-20-30,model_A,1,False,10,False,0,A,D,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,40,20,30
+58,1,4,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+59,1,4,20-30-40-10,model_A,1,False,20,False,0,C,A,"2C
+
+The answer is C. Gamma rays cannot be deflected by electrical or magnetic means.",20,30,40,10
+60,1,4,40-20-10-30,model_A,1,False,40,True,40,C,C,"1C
+
+The sound waves that most humans cannot hear are Both of these (C).",40,20,10,30
+61,1,4,30-10-20-40,model_A,1,False,30,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",30,10,20,40
+62,1,4,40-30-10-20,model_A,1,False,40,False,0,,C,1D,40,30,10,20
+63,1,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible radiation.",40,30,20,10
+64,1,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",20,10,30,40
+65,1,4,10-40-20-30,model_A,1,False,10,False,0,,A,"1C
+
+According to the correspondence principle, relativity equations apply to high speeds while Newton's equations apply to low speeds.",10,40,20,30
+66,1,4,30-20-10-40,model_A,1,False,30,False,0,A,B,"1A
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",30,20,10,40
+67,1,4,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,1,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",30,40,20,10
+69,1,4,30-10-20-40,model_A,1,False,30,False,0,,C,1C,30,10,20,40
+70,1,4,20-40-10-30,model_A,1,False,20,False,0,,C,"2C
+
+An object that absorbs energy well alsoradiates well.",20,40,10,30
+71,1,4,20-30-40-10,model_A,2,False,30,False,0,B,C,"2
+
+The particles therefore have (B) opposite signs of charge.",20,30,40,10
+72,1,4,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+
+The process that would release energy from gold is fusion, while the process that would release energy from carbon is fusion. ThereforeThe answer is (B) Gold: fusion; carbon: fusion.",10,20,30,40
+73,1,4,20-10-40-30,model_A,1,False,20,False,0,,C,"3B
+
+The ""greenhouse gases"" that contribute to global warming absorb more infrared radiation than visible.",20,10,40,30
+74,1,4,40-10-30-20,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these
+
+Standing waves are formed when waves overlap themselves. They occur when waves interfere constructively (in phase) or destructively (out of phase) resultingin nodes (points of zero displacement)andantinodes (points",40,10,30,20
+75,1,4,20-30-10-40,model_A,1,False,20,False,0,A,C,"2B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,30,10,40
+76,1,4,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates electron interference.",20,10,40,30
+77,1,5,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",40,20,10,30
+78,1,5,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+According to the correspondence principle, (A) new theory must agree with old theory where they overlap.",10,30,20,40
+79,1,5,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+80,1,5,10-20-40-30,model_A,1,False,10,False,0,,D,"2C
+
+Sound will travel fastest in steel beam.",10,20,40,30
+81,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The sound waves thatmost humanscannot hearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+Thesoundwaves",40,30,20,10
+82,1,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",30,10,40,20
+83,1,5,30-40-20-10,model_A,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,1,5,30-40-10-20,model_A,1,False,30,False,0,,A,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,40,10,20
+85,1,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves.",20,10,40,30
+86,1,5,30-40-10-20,model_A,1,False,30,False,0,A,B,"2B
+
+From quantum mechanics, we learn that a radioactive nucleus is governed by probability.",30,40,10,20
+87,1,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1C
+
+The normal force on the ball may be greater or less than mg depending on whether the ball is accelerating upwards or downwards respectively.",30,40,20,10
+88,1,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+According to the correspondence principle, Anew theory must agree with old theorywhere they overlap.",40,30,10,20
+89,1,5,20-30-40-10,model_A,1,False,20,False,0,A,C,"2C
+
+A real image can be cast on a screen by a converging lens.",20,30,40,10
+90,1,5,10-30-40-20,model_A,1,False,10,False,0,,D,"2B
+
+The ""greenhouse gases"" that contribute to global warming absorb more infrared radiation than visible.",10,30,40,20
+91,1,5,40-30-10-20,model_A,1,False,40,False,0,,C,1C,40,30,10,20
+92,1,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",20,10,30,40
+93,1,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+A hologram best illustrates (C) superposition.",10,20,40,30
+94,1,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand increases.",30,10,20,40
+95,1,5,20-40-10-30,model_A,1,False,20,False,0,,C,2B,20,40,10,30
+96,1,5,40-10-30-20,model_A,1,False,40,False,0,,B,1B,40,10,30,20
+1,2,1,20-30-40-10,model_A,1,False,20,False,0,,A,1A,20,30,40,10
+2,2,1,30-40-10-20,model_A,1,False,30,False,0,B,D,"2B
+
+When energy is released by the process of fusion, the total mass of the material after the event is (B)the same.",30,40,10,20
+3,2,1,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The speed of light is constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+4,2,1,20-10-30-40,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these",20,10,30,40
+5,2,1,30-10-40-20,model_A,1,False,30,False,0,,C,3A,30,10,40,20
+6,2,1,40-20-10-30,model_A,1,False,40,False,0,,C,1C,40,20,10,30
+7,2,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,10,20,30
+8,2,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",40,30,20,10
+9,2,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+A high-temperature source radiates relatively short wavelengths.",40,20,30,10
+10,2,1,20-40-30-10,model_A,1,False,20,False,0,A,C,"2C
+
+A hologram best illustrates superposition.",20,40,30,10
+11,2,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2B
+
+Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have **opposite** **signs** **of** **charge**.",20,40,30,10
+12,2,1,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+13,2,1,10-30-40-20,model_A,2,False,30,True,30,B,B,"2
+B",10,30,40,20
+14,2,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The atmospheric pressure is due to the density and volume of the atmosphere.",30,10,20,40
+15,2,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+16,2,1,40-30-10-20,model_A,1,False,40,False,0,,D,"1C
+
+The apparent weight of an object placed on an accelerating elevator depends on the acceleration. The formulae W = mg + ma,where W = apparent weight, m = mass, g = acceleration dueto gravity, anda = acceleration.Givenm = 5.0kgg = 9.8m/s^2a = 4.0m/s^2W =",40,30,10,20
+17,2,1,10-40-20-30,model_A,2,False,40,False,0,A,C,"2
+
+The sound waves that most humans cannot hear are (A) infrasonic.",10,40,20,30
+18,2,1,10-40-30-20,model_A,1,False,10,True,10,A,A,"2B
+
+A real image can be cast on a screen by a converging lens.",10,40,30,20
+19,2,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Standing waves are formed when waves overlap in phase and out of phase. Therefore, All of these (D) is correct.
+
+2B
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand decreases. Therefore, B is correct.
+
+3C
+
+Gamma rays cannot be deflected by electrical or magnetic means. Therefore, C is correct.
+
+4B",30,40,10,20
+20,2,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+21,2,2,20-40-30-10,model_A,1,False,20,False,0,,B,"2C
+
+The normal force on the ball may be greater or less than mg depending on the angle of inclination.",20,40,30,10
+22,2,2,10-20-30-40,model_A,2,False,20,False,0,D,B,"2
+The third shell of sodium, Na (atomic number 11) contains 3 electrons. ThereforeThe answer is (D)Three.",10,20,30,40
+23,2,2,10-30-40-20,model_A,1,False,10,False,0,,C,"2B
+
+The sound waves that most humans cannot hear are infrasonic.",10,30,40,20
+24,2,2,10-30-20-40,model_A,2,False,30,False,0,,D,"2
+The apparent weight of this mass is 29 N.",10,30,20,40
+25,2,2,20-40-10-30,model_A,1,False,20,False,0,,A,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",20,40,10,30
+26,2,2,40-10-20-30,model_A,1,False,40,False,0,,C,1D,40,10,20,30
+27,2,2,40-10-30-20,model_A,1,False,40,False,0,,D,1C,40,10,30,20
+28,2,2,30-10-40-20,model_A,1,False,30,False,0,,C,"3B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,10,40,20
+29,2,2,40-20-30-10,model_A,1,False,40,False,0,,B,1B,40,20,30,10
+30,2,2,30-10-40-20,model_A,1,False,30,False,0,,A,"1C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",30,10,40,20
+31,2,2,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+An object that absorbs energy well alsoradiates well.",40,20,10,30
+32,2,2,10-40-30-20,model_A,1,False,10,False,0,,B,"1B
+
+The third shell of sodium (Na) has 1 electron.",10,40,30,20
+33,2,2,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+
+The apparent weight of a 5.0 kg mass placed in an elevator accelerating upwards at 4.0 m/s2 would be 29 N. ThereforeThe answer is (B) 29 N.",10,20,30,40
+34,2,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,20,30,10
+35,2,2,10-20-30-40,model_A,2,False,20,True,20,D,D,"2
+
+Standing waves are the result of All of these (D)",10,20,30,40
+36,2,2,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3C
+
+4B",40,10,20,30
+37,2,2,20-30-10-40,model_A,1,False,20,False,0,,C,"2B
+
+The third shell of sodium (Na) has 11 electrons. The first shell (K) holds 2 electrons, the second shell (L) holds 8 electrons, leaving 1 electron in the third shell.",20,30,10,40
+38,2,2,30-20-40-10,model_A,1,False,30,False,0,,B,"3C
+
+The normal force on the ball may be greater or less than mg always.",30,20,40,10
+39,2,3,10-30-40-20,model_A,1,False,10,False,0,,C,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",10,30,40,20
+40,2,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates electron interference.",20,10,40,30
+41,2,3,10-40-30-20,model_A,1,False,10,False,0,,A,2D,10,40,30,20
+42,2,3,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible.",40,30,20,10
+43,2,3,20-10-30-40,model_A,1,False,20,False,0,A,B,"1B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,10,30,40
+44,2,3,40-20-30-10,model_A,1,False,40,False,0,A,D,"1C
+
+A magnetic force can act on anelectronevenwhenitBothofthese
+
+2C
+
+AtmosphericpressureisduetotheWeightDensityandVolumeoftheAtmosphere
+
+3C
+
+TheNormalForceontheBallTheForcePerpendiculartothePlaneMaybegreaterorlessthanmg
+
+4B
+
+HowManyElectronsAreThereInTheThirdShellOfSodiumNaAtomic",40,20,30,10
+45,2,3,30-40-20-10,model_A,1,False,30,False,0,,A,"2C
+
+Heat is simply another word for internal energy that flows from hot to cold.",30,40,20,10
+46,2,3,10-30-20-40,model_A,1,False,10,True,10,A,A,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,30,20,40
+47,2,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards 4.0 m/s2is 29N
+
+2
+The sound waves that most humans cannot hear areB) Ultrasonic
+
+3
+A HologramBestIllustratesC)Superposition
+
+4
+TheNormalForceOnTheBallTheForcePerpendicularToThePlaneMayBeGreaterOr",30,20,40,10
+48,2,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+According to the correspondence principle, new theory must agree with old theory where they overlap.",40,10,20,30
+49,2,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2B
+
+The process that would release energy from gold is fusion, while The process that would release energy from Carbon isFission.",10,40,30,20
+50,2,3,10-40-20-30,model_A,1,False,10,False,0,,D,2B,10,40,20,30
+51,2,3,30-20-40-10,model_A,3,False,40,False,0,,C,"1B
+
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+52,2,3,20-40-10-30,model_A,1,False,20,False,0,,A,2B,20,40,10,30
+53,2,3,30-20-40-10,model_A,3,False,40,False,0,,A,"1D
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+54,2,3,40-10-30-20,model_A,1,False,40,False,0,,C,1C,40,10,30,20
+55,2,3,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The normal force on the ball (the force perpendicular to the plane) may be greater or less than mg always.",10,20,40,30
+56,2,3,10-20-40-30,model_A,1,False,10,False,0,,B,"2C
+
+Atmospheric pressure is due to the weightdensity and volume ofthe atmosphere.",10,20,40,30
+57,2,3,10-40-20-30,model_A,1,False,10,False,0,A,D,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,40,20,30
+58,2,4,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+59,2,4,20-30-40-10,model_A,1,False,20,False,0,C,A,"2C
+
+The answer is C. Gamma rays cannot be deflected by electrical or magnetic means.",20,30,40,10
+60,2,4,40-20-10-30,model_A,1,False,40,True,40,C,C,"1C
+
+The sound waves that most humans cannot hear are Both of these (C).",40,20,10,30
+61,2,4,30-10-20-40,model_A,1,False,30,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",30,10,20,40
+62,2,4,40-30-10-20,model_A,1,False,40,False,0,,C,"1D
+
+2C
+
+3B
+
+4D",40,30,10,20
+63,2,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible radiation.",40,30,20,10
+64,2,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",20,10,30,40
+65,2,4,10-40-20-30,model_A,1,False,10,False,0,,A,"1C
+
+According to the correspondence principle, relativity equations apply to high speeds while Newton's equations apply to low speeds.",10,40,20,30
+66,2,4,30-20-10-40,model_A,1,False,30,False,0,A,B,"1A
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",30,20,10,40
+67,2,4,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,2,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",30,40,20,10
+69,2,4,30-10-20-40,model_A,1,False,30,False,0,,C,1C,30,10,20,40
+70,2,4,20-40-10-30,model_A,1,False,20,False,0,,C,"2C
+
+An object that absorbs energy well alsoradiates well.",20,40,10,30
+71,2,4,20-30-40-10,model_A,2,False,30,False,0,B,C,"2
+
+The particles therefore have (B) opposite signs of charge.",20,30,40,10
+72,2,4,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+
+The process that would release energy from gold is fusion, while The process that would release energy From carbonis fusion.",10,20,30,40
+73,2,4,20-10-40-30,model_A,1,False,20,False,0,,C,"3B
+
+The ""greenhouse gases"" that contribute to global warming absorb more infrared radiation than visible.",20,10,40,30
+74,2,4,40-10-30-20,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these
+
+Standing waves are formed when waves overlap themselves. They occur when waves interfere constructively (in phase) or destructively (out of phase) resultingin nodes (points of zero displacement)andantinodes (points",40,10,30,20
+75,2,4,20-30-10-40,model_A,1,False,20,False,0,A,C,"2B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,30,10,40
+76,2,4,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates (A) polarization (B) diffraction (C) superposition (D) electron interference
+
+A hologram best illustrates superposition.",20,10,40,30
+77,2,5,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",40,20,10,30
+78,2,5,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+According to the correspondence principle, (A) new theory must agree with old theory where they overlap.",10,30,20,40
+79,2,5,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+80,2,5,10-20-40-30,model_A,1,False,10,False,0,,D,"2C
+
+Sound will travel fastest in steel beam.",10,20,40,30
+81,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The sound waves thatmost humanscannot hearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+Thesoundwaves",40,30,20,10
+82,2,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",30,10,40,20
+83,2,5,30-40-20-10,model_A,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,2,5,30-40-10-20,model_A,1,False,30,False,0,,A,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,40,10,20
+85,2,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves.",20,10,40,30
+86,2,5,30-40-10-20,model_A,1,False,30,False,0,A,B,"2B
+
+From quantum mechanics, we learn that a radioactive nucleus is governed by probability.",30,40,10,20
+87,2,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1C
+
+The normal force on the ball may be greater or less than mg depending on whether the ball is accelerating upwards or downwards respectively.",30,40,20,10
+88,2,5,40-30-10-20,model_A,1,False,40,True,40,A,A,"1A
+
+According to the correspondence principle, A) new theory must agree with old theory where they overlap.",40,30,10,20
+89,2,5,20-30-40-10,model_A,1,False,20,False,0,A,C,"2C
+
+A real image can be cast on a screen by a converging lens.",20,30,40,10
+90,2,5,10-30-40-20,model_A,1,False,10,False,0,,D,"2B
+
+The ""greenhouse gases"" that contribute to global warming absorb more infrared radiation than visible.",10,30,40,20
+91,2,5,40-30-10-20,model_A,1,False,40,False,0,,C,1C,40,30,10,20
+92,2,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",20,10,30,40
+93,2,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+A hologram best illustrates (C) superposition.",10,20,40,30
+94,2,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand increases.",30,10,20,40
+95,2,5,20-40-10-30,model_A,2,False,40,False,0,B,C,"2
+
+The particles therefore have (B) opposite signs of charge.",20,40,10,30
+96,2,5,40-10-30-20,model_A,1,False,40,False,0,,B,1D,40,10,30,20
+1,3,1,20-30-40-10,model_A,2,False,30,False,0,D,B,"2
+D",20,30,40,10
+2,3,1,30-40-10-20,model_A,1,False,30,False,0,B,D,"2B
+
+When energy is released by the process of fusion, the total mass of the material after the event is (B)the same.",30,40,10,20
+3,3,1,20-30-10-40,model_A,1,False,20,False,0,,B,"1B
+
+The speed of light is constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+4,3,1,20-10-30-40,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these",20,10,30,40
+5,3,1,30-10-40-20,model_A,1,False,30,False,0,,C,3A,30,10,40,20
+6,3,1,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+The sound waves thatmost humanscannot hearareBothofthese.",40,20,10,30
+7,3,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,10,20,30
+8,3,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",40,30,20,10
+9,3,1,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+A high-temperature source radiates relatively short wavelengths.",40,20,30,10
+10,3,1,20-40-30-10,model_A,1,False,20,False,0,A,C,"2C
+
+A hologram best illustrates superposition.",20,40,30,10
+11,3,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2B
+
+Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have **opposite** **signs** **of** **charge**.",20,40,30,10
+12,3,1,10-30-20-40,model_A,1,False,10,False,0,,B,2C,10,30,20,40
+13,3,1,10-30-40-20,model_A,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+14,3,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1C
+
+The atmospheric pressure is due to the density and volume of the atmosphere.",30,10,20,40
+15,3,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+16,3,1,40-30-10-20,model_A,1,False,40,False,0,,D,"1C
+
+The apparent weight of an object depends on the acceleration of the elevator. The apparent weight is calculated as follows:
+
+Apparent weight = Mass * (Acceleration due to gravity + Acceleration of the elevator)
+
+The acceleration due to gravity is 9.81 m/s^2. ThereforeThe apparent weight = 5.0 kg * (9.81 m/s^2 +",40,30,10,20
+17,3,1,10-40-20-30,model_A,2,False,40,False,0,A,C,"2
+
+The sound waves that most humans cannot hear are (A) infrasonic.",10,40,20,30
+18,3,1,10-40-30-20,model_A,1,False,10,True,10,A,A,"2A
+
+A real image can be cast on a screen by a converging lens.",10,40,30,20
+19,3,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+Standing waves are formed when waves overlap in phase and out of phase. Therefore, All of these (D) is correct.
+
+2B
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand decreases. Therefore, B is correct.
+
+3C
+
+Gamma rays cannot be deflected by electrical or magnetic means. Therefore, C is correct.
+
+4B",30,40,10,20
+20,3,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",20,30,10,40
+21,3,2,20-40-30-10,model_A,1,False,20,False,0,,B,"2C
+
+The normal force on the ball may be greater or less than mg depending on the angle of inclination.",20,40,30,10
+22,3,2,10-20-30-40,model_A,2,False,20,False,0,D,B,"2
+The third shell of sodium, Na (atomic number 11) contains 3 electrons. ThereforeThe answer is (D)Three.",10,20,30,40
+23,3,2,10-30-40-20,model_A,2,False,30,False,0,A,C,"2
+
+The sound waves that most humans cannot hear are (A) infrasonic (B) ultrasonic (C) Both (D) Neither",10,30,40,20
+24,3,2,10-30-20-40,model_A,2,False,30,False,0,,D,"2
+The apparent weight of this mass is 29 N.",10,30,20,40
+25,3,2,20-40-10-30,model_A,1,False,20,False,0,,A,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",20,40,10,30
+26,3,2,40-10-20-30,model_A,1,False,40,False,0,,C,1D,40,10,20,30
+27,3,2,40-10-30-20,model_A,1,False,40,False,0,,D,1C,40,10,30,20
+28,3,2,30-10-40-20,model_A,1,False,30,False,0,,C,"3B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,10,40,20
+29,3,2,40-20-30-10,model_A,1,False,40,False,0,,B,1B,40,20,30,10
+30,3,2,30-10-40-20,model_A,1,False,30,False,0,,A,"1C
+
+The atmospheric pressure is due to the density and volume of the atmosphere.",30,10,40,20
+31,3,2,40-20-10-30,model_A,1,False,40,False,0,,C,"1C
+
+An object that absorbs energy well alsoradiates well.",40,20,10,30
+32,3,2,10-40-30-20,model_A,1,False,10,False,0,,B,"1B
+
+The third shell of sodium (Na) has 1 electron.",10,40,30,20
+33,3,2,10-20-30-40,model_A,2,False,20,False,0,,D,"2
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards 4.0 m/s2is 29N.",10,20,30,40
+34,3,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+An object that absorbs energy well also conducts well.",40,20,30,10
+35,3,2,10-20-30-40,model_A,2,False,20,True,20,D,D,"2
+
+Standing waves are the result of All of these (D)",10,20,30,40
+36,3,2,40-10-20-30,model_A,1,False,40,True,40,A,A,"1A
+
+The process of fusion releases energy from gold, not carbon. ThereforeThe answer is A.",40,10,20,30
+37,3,2,20-30-10-40,model_A,1,False,20,False,0,,C,"2B
+
+The third shell of sodium (Na) has 11 electrons. The first shell (K) holds 2 electrons, the second shell (L) holds 8 electrons, leaving 1 electron in the third shell.",20,30,10,40
+38,3,2,30-20-40-10,model_A,1,False,30,False,0,,B,"3C
+
+The normal force on the ball may be greater or less than mg always.",30,20,40,10
+39,3,3,10-30-40-20,model_A,1,False,10,False,0,,C,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",10,30,40,20
+40,3,3,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates electron interference.",20,10,40,30
+41,3,3,10-40-30-20,model_A,1,False,10,False,0,,A,2D,10,40,30,20
+42,3,3,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible.",40,30,20,10
+43,3,3,20-10-30-40,model_A,1,False,20,False,0,A,B,"1B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,10,30,40
+44,3,3,40-20-30-10,model_A,1,False,40,False,0,A,D,"1C
+
+A magnetic force can act on anelectronevenwhenitBothofthese
+
+2C
+
+AtmosphericpressureisduetotheWeightDensityandVolumeoftheAtmosphere
+
+3C
+
+TheNormalForceontheBallTheForcePerpendiculartothePlaneMaybegreaterorlessthanmg
+
+4B
+
+HowManyElectronsAreThereInTheThirdShellOfSodiumNaAtomic",40,20,30,10
+45,3,3,30-40-20-10,model_A,1,False,30,False,0,,A,2C,30,40,20,10
+46,3,3,10-30-20-40,model_A,1,False,10,True,10,A,A,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,30,20,40
+47,3,3,30-20-40-10,model_A,1,False,30,False,0,,D,"1
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards 4.0 m/s2is 29N
+
+2
+The sound waves thatmost humanscannot hearareB) Ultrasonic
+
+3
+A HologramBestIllustratesC)Superposition
+
+4
+TheNormalForceOnTheBallTheForcePerpendicularToThePlaneMayBeGreaterOr",30,20,40,10
+48,3,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1C
+
+According to the correspondence principle, relativity equations apply to high speeds while Newton's equations apply to low speeds.",40,10,20,30
+49,3,3,10-40-30-20,model_A,1,False,10,False,0,,A,"2B
+
+The process that would release energy from gold is fusion, whereas carbon would undergo fission.",10,40,30,20
+50,3,3,10-40-20-30,model_A,1,False,10,False,0,,D,2B,10,40,20,30
+51,3,3,30-20-40-10,model_A,3,False,40,False,0,,C,"1B
+
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+52,3,3,20-40-10-30,model_A,1,False,20,False,0,,A,2B,20,40,10,30
+53,3,3,30-20-40-10,model_A,3,False,40,False,0,,A,"1D
+The third shell of sodium (Na) has 3 electrons.",30,20,40,10
+54,3,3,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The greenhouse gases that contribute to global warming are Both (A) water vapor (B) carbon dioxide.",40,10,30,20
+55,3,3,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The normal force on the ball (the force perpendicular to the plane) may be greater or less than mg always.",10,20,40,30
+56,3,3,10-20-40-30,model_A,1,False,10,False,0,,B,"2C
+
+Atmospheric pressure is due to the weightdensity and volume ofthe atmosphere.",10,20,40,30
+57,3,3,10-40-20-30,model_A,1,False,10,False,0,A,D,"2B
+
+A high-temperature source radiates relatively short wavelengths.",10,40,20,30
+58,3,4,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+59,3,4,20-30-40-10,model_A,1,False,20,False,0,C,A,"2C
+
+The answer is C. Gamma rays cannot be deflected by electrical or magnetic means.",20,30,40,10
+60,3,4,40-20-10-30,model_A,1,False,40,True,40,C,C,"1C
+
+The sound waves that most humans cannot hear are Both of these (C).",40,20,10,30
+61,3,4,30-10-20-40,model_A,1,False,30,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",30,10,20,40
+62,3,4,40-30-10-20,model_A,1,False,40,False,0,,C,1D,40,30,10,20
+63,3,4,40-30-20-10,model_A,1,False,40,False,0,,B,"1B
+
+The greenhouse gases that contribute to global warming absorb more infrared radiation than visible radiation.",40,30,20,10
+64,3,4,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",20,10,30,40
+65,3,4,10-40-20-30,model_A,1,False,10,False,0,,A,"1C
+
+According to the correspondence principle, relativity equations apply to high speeds while Newton's equations apply to low speeds.",10,40,20,30
+66,3,4,30-20-10-40,model_A,1,False,30,False,0,A,B,"1A
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",30,20,10,40
+67,3,4,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+68,3,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2C
+
+Atmospheric pressure is due to the weight and volume of the atmosphere.",30,40,20,10
+69,3,4,30-10-20-40,model_A,1,False,30,True,30,C,C,"1C
+
+The greenhouse gases that contribute to global warming are Both (C) water vapor and carbon dioxide.",30,10,20,40
+70,3,4,20-40-10-30,model_A,1,False,20,False,0,,C,"2C
+
+An object that absorbs energy well alsoradiates well.",20,40,10,30
+71,3,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1C
+
+The normal force on the ball may be greater or less than mg depending on whether the ball is accelerating upwards or downwards respectively.",20,30,40,10
+72,3,4,10-20-30-40,model_A,2,False,20,False,0,,A,"2
+
+The process that would release energy from gold is fusion, while The process that would release energy From carbonis fusion.",10,20,30,40
+73,3,4,20-10-40-30,model_A,1,False,20,False,0,,C,"3B
+
+The ""greenhouse gases"" that contribute to global warming absorb more infrared radiation than visible.",20,10,40,30
+74,3,4,40-10-30-20,model_A,3,False,30,False,0,A,D,"3
+
+Standing waves are the result of (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves (D) All of these
+
+Standing waves are formed when waves overlap themselves. They occur when waves interfere constructively (in phase) or destructively (out of phase) resultingin nodes (points of zero displacement)andantinodes (points",40,10,30,20
+75,3,4,20-30-10-40,model_A,1,False,20,False,0,A,C,"2B
+
+Planck's constant can be found by dividing the energy of a photon by its frequency.",20,30,10,40
+76,3,4,20-10-40-30,model_A,1,False,20,False,0,A,B,"1A
+
+A hologram best illustrates electron interference.",20,10,40,30
+77,3,5,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The speed of light is a constant in all frames of reference according to Einstein's second postulate.",40,20,10,30
+78,3,5,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+According to the correspondence principle, (A) new theory must agree with old theory where they overlap.",10,30,20,40
+79,3,5,30-20-10-40,model_A,1,False,30,False,0,A,C,"1A
+
+A machine cannot multiply forces.",30,20,10,40
+80,3,5,10-20-40-30,model_A,1,False,10,False,0,,D,"2A
+
+Sound will travel fastest in steel beam.",10,20,40,30
+81,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+The sound waves thatmost humanscannot hearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+ThesoundwavesthatmosthumanscannothearareA infrasonicB ultrasonicCBothoftheseDNeitherofthese
+
+Thesoundwaves",40,30,20,10
+82,3,5,30-10-40-20,model_A,1,False,30,False,0,,C,"1C
+
+Heat is simply another word for internal energy that flows from hot to cold.",30,10,40,20
+83,3,5,30-40-20-10,model_A,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+84,3,5,30-40-10-20,model_A,1,False,30,False,0,,A,"2B
+
+Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore opposite.",30,40,10,20
+85,3,5,20-10-40-30,model_A,1,False,20,False,0,A,D,"1D
+
+Standing waves are the result of All of these (A) interference (B) waves overlapping in phase and out of phase (C) waves reflecting upon themselves.",20,10,40,30
+86,3,5,30-40-10-20,model_A,1,False,30,False,0,A,B,"2B
+
+From quantum mechanics, we learn that a radioactive nucleus is governed by probability.",30,40,10,20
+87,3,5,30-40-20-10,model_A,1,False,30,False,0,,D,"1C
+
+The normal force on the ball may be greater or less than mg depending on whether the ball is accelerating upwards or downwards respectively.",30,40,20,10
+88,3,5,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+According to the correspondence principle, Anew theory must agree with old theorywhere they overlap.",40,30,10,20
+89,3,5,20-30-40-10,model_A,1,False,20,False,0,A,C,"2C
+
+A real image can be cast on a screen by a converging lens.",20,30,40,10
+90,3,5,10-30-40-20,model_A,1,False,10,False,0,,D,"1
+The apparent weight of 5.0 kg mass placed in an elevator accelerating upwards is 29N. ThereforeThe answer isB.",10,30,40,20
+91,3,5,40-30-10-20,model_A,1,False,40,False,0,,C,1C,40,30,10,20
+92,3,5,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3C
+
+4C",20,10,30,40
+93,3,5,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+A hologram best illustrates (C) superposition.",10,20,40,30
+94,3,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1A
+
+When you breathe on your hand, the temperature of the exhaled air reaching your hand increases.",30,10,20,40
+95,3,5,20-40-10-30,model_A,2,False,40,False,0,B,C,"2
+
+The particles therefore have (B) opposite signs of charge.",20,40,10,30
+96,3,5,40-10-30-20,model_A,1,False,40,False,0,,B,1D,40,10,30,20

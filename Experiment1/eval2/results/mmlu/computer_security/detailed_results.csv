@@ -1,0 +1,1848 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+2,1,1,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+3,1,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+4,1,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+5,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+6,1,1,10-20-40-30,baseline,2,False,20,False,0,,D,2,10,20,40,30
+7,1,1,10-30-20-40,baseline,2,False,30,False,0,D,C,"2
+D",10,30,20,40
+8,1,1,30-20-10-40,baseline,1,False,30,False,0,D,B,1. D,30,20,10,40
+9,1,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+10,1,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+11,1,1,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+12,1,1,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+13,1,1,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+14,1,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+15,1,1,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+16,1,1,10-20-30-40,baseline,1,False,10,False,0,,C,1,10,20,30,40
+17,1,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+18,1,1,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+19,1,1,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+20,1,2,10-20-30-40,baseline,2,False,20,False,0,,C,2,10,20,30,40
+21,1,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+22,1,2,10-40-20-30,baseline,2,False,40,True,40,A,A,"2
+A",10,40,20,30
+23,1,2,30-40-20-10,baseline,2,False,40,True,40,B,B,"2
+B",30,40,20,10
+24,1,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+25,1,2,30-40-10-20,baseline,2,False,40,False,0,B,A,"2
+B",30,40,10,20
+26,1,2,20-30-40-10,baseline,1,False,20,False,0,D,C,1. D,20,30,40,10
+27,1,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+28,1,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+29,1,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+30,1,2,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+31,1,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+32,1,2,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+33,1,2,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+34,1,2,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+35,1,2,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+36,1,2,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+37,1,2,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+38,1,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+39,1,3,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+40,1,3,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+41,1,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+42,1,3,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+43,1,3,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+44,1,3,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+45,1,3,30-40-20-10,baseline,1,False,30,False,0,D,A,"1
+D",30,40,20,10
+46,1,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+47,1,3,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+48,1,3,30-20-10-40,baseline,1,False,30,False,0,C,A,1. C,30,20,10,40
+49,1,3,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+50,1,3,40-30-10-20,baseline,1,False,40,False,0,D,C,"1
+D",40,30,10,20
+51,1,3,40-10-20-30,baseline,1,False,40,False,0,D,A,1. D,40,10,20,30
+52,1,3,30-40-10-20,baseline,2,False,40,False,0,D,B,"2
+D",30,40,10,20
+53,1,3,10-20-40-30,baseline,3,False,40,True,40,C,C,"3
+C",10,20,40,30
+54,1,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+55,1,3,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+56,1,3,40-20-10-30,baseline,1,False,40,False,0,D,C,1. D,40,20,10,30
+57,1,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+58,1,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+59,1,4,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+60,1,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+61,1,4,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+62,1,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+63,1,4,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+64,1,4,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+65,1,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+66,1,4,10-20-40-30,baseline,1,False,10,False,0,D,A,1. D,10,20,40,30
+67,1,4,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+68,1,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+69,1,4,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+70,1,4,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+71,1,4,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+72,1,4,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+73,1,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+74,1,4,10-30-40-20,baseline,1,False,10,False,0,D,B,1. D,10,30,40,20
+75,1,4,20-10-30-40,baseline,3,False,30,True,30,D,D,"3
+D",20,10,30,40
+76,1,4,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+77,1,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+78,1,5,20-30-10-40,baseline,2,False,30,False,0,D,A,"2
+D",20,30,10,40
+79,1,5,30-10-20-40,baseline,1,False,30,False,0,D,C,"1
+D",30,10,20,40
+80,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+81,1,5,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+82,1,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+83,1,5,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+84,1,5,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+85,1,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+86,1,5,30-10-20-40,baseline,4,False,40,False,0,,C,4,30,10,20,40
+87,1,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+88,1,5,30-40-10-20,baseline,1,False,30,False,0,D,B,1. D,30,40,10,20
+89,1,5,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+90,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+91,1,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+92,1,5,10-40-20-30,baseline,2,False,40,False,0,D,B,"2
+D",10,40,20,30
+93,1,5,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+94,1,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+95,1,5,10-30-40-20,baseline,1,False,10,True,10,A,A,"1
+A",10,30,40,20
+96,1,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+1,2,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+2,2,1,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+3,2,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+4,2,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+5,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+6,2,1,10-20-40-30,baseline,2,False,20,False,0,,D,2,10,20,40,30
+7,2,1,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+8,2,1,30-20-10-40,baseline,1,False,30,False,0,D,B,1. D,30,20,10,40
+9,2,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+10,2,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+11,2,1,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+12,2,1,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+13,2,1,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+14,2,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+15,2,1,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+16,2,1,10-20-30-40,baseline,1,False,10,False,0,,C,1,10,20,30,40
+17,2,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+18,2,1,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+19,2,1,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+20,2,2,10-20-30-40,baseline,2,False,20,False,0,,C,2,10,20,30,40
+21,2,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+22,2,2,10-40-20-30,baseline,1,False,10,True,10,B,B,"1
+B",10,40,20,30
+23,2,2,30-40-20-10,baseline,2,False,40,False,0,D,B,"2
+D",30,40,20,10
+24,2,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+25,2,2,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+26,2,2,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+27,2,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+28,2,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+29,2,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+30,2,2,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+31,2,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+32,2,2,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+33,2,2,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+34,2,2,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+35,2,2,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+36,2,2,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+37,2,2,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+38,2,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+39,2,3,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+40,2,3,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+41,2,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+42,2,3,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+43,2,3,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+44,2,3,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+45,2,3,30-40-20-10,baseline,1,False,30,False,0,D,A,"1
+D",30,40,20,10
+46,2,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+47,2,3,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+48,2,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. (D),30,20,10,40
+49,2,3,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+50,2,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+51,2,3,40-10-20-30,baseline,1,False,40,False,0,D,A,"1
+D",40,10,20,30
+52,2,3,30-40-10-20,baseline,2,False,40,False,0,D,B,"2
+D",30,40,10,20
+53,2,3,10-20-40-30,baseline,3,False,40,True,40,C,C,"3
+C",10,20,40,30
+54,2,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+55,2,3,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+56,2,3,40-20-10-30,baseline,1,False,40,False,0,D,C,1. D,40,20,10,30
+57,2,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+58,2,4,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+59,2,4,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+60,2,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+61,2,4,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+62,2,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+63,2,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+64,2,4,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+65,2,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+66,2,4,10-20-40-30,baseline,1,False,10,False,0,D,A,1. D,10,20,40,30
+67,2,4,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+68,2,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+69,2,4,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+70,2,4,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+71,2,4,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+72,2,4,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+73,2,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+74,2,4,10-30-40-20,baseline,1,False,10,False,0,D,B,1. D,10,30,40,20
+75,2,4,20-10-30-40,baseline,3,False,30,True,30,D,D,"3
+D",20,10,30,40
+76,2,4,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+77,2,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+78,2,5,20-30-10-40,baseline,2,False,30,False,0,D,A,"2
+D",20,30,10,40
+79,2,5,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+80,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+81,2,5,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+82,2,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+83,2,5,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+84,2,5,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+85,2,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+86,2,5,30-10-20-40,baseline,4,False,40,False,0,,C,4,30,10,20,40
+87,2,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+88,2,5,30-40-10-20,baseline,1,False,30,False,0,D,B,1. D,30,40,10,20
+89,2,5,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+90,2,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+91,2,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+92,2,5,10-40-20-30,baseline,2,False,40,False,0,D,B,"2
+D",10,40,20,30
+93,2,5,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+94,2,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+95,2,5,10-30-40-20,baseline,1,False,10,True,10,A,A,"1
+A",10,30,40,20
+96,2,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+1,3,1,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+2,3,1,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+3,3,1,10-20-30-40,baseline,1,False,10,False,0,D,B,1. D,10,20,30,40
+4,3,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+5,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+6,3,1,10-20-40-30,baseline,2,False,20,False,0,,D,2,10,20,40,30
+7,3,1,10-30-20-40,baseline,2,False,30,False,0,B,C,"2
+B",10,30,20,40
+8,3,1,30-20-10-40,baseline,1,False,30,False,0,D,B,1. D,30,20,10,40
+9,3,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+10,3,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+11,3,1,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+12,3,1,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+13,3,1,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+14,3,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+15,3,1,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+16,3,1,10-20-30-40,baseline,1,False,10,False,0,,C,1,10,20,30,40
+17,3,1,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+18,3,1,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+19,3,1,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+20,3,2,10-20-30-40,baseline,2,False,20,False,0,,C,2,10,20,30,40
+21,3,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+22,3,2,10-40-20-30,baseline,1,False,10,True,10,B,B,"1
+B",10,40,20,30
+23,3,2,30-40-20-10,baseline,2,False,40,False,0,D,B,"2
+D",30,40,20,10
+24,3,2,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+25,3,2,30-40-10-20,baseline,1,False,30,True,30,B,B,"1
+B",30,40,10,20
+26,3,2,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+27,3,2,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+28,3,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+29,3,2,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+30,3,2,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+31,3,2,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+32,3,2,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+33,3,2,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+34,3,2,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+35,3,2,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+36,3,2,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D,10,30,40,20
+37,3,2,30-10-20-40,baseline,1,False,30,True,30,A,A,1. A,30,10,20,40
+38,3,2,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+39,3,3,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+40,3,3,20-40-30-10,baseline,2,False,40,False,0,D,B,"2
+D",20,40,30,10
+41,3,3,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+42,3,3,20-30-10-40,baseline,2,False,30,False,0,,D,2,20,30,10,40
+43,3,3,20-40-30-10,baseline,2,False,40,False,0,D,A,"2
+D",20,40,30,10
+44,3,3,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+45,3,3,30-40-20-10,baseline,1,False,30,False,0,D,A,"1
+D",30,40,20,10
+46,3,3,20-40-10-30,baseline,2,False,40,False,0,B,D,"2
+B",20,40,10,30
+47,3,3,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+48,3,3,30-20-10-40,baseline,1,False,30,False,0,D,A,1. (D),30,20,10,40
+49,3,3,40-20-10-30,baseline,1,False,40,True,40,C,C,1. C,40,20,10,30
+50,3,3,40-30-10-20,baseline,1,False,40,True,40,C,C,"1
+C",40,30,10,20
+51,3,3,40-10-20-30,baseline,1,False,40,False,0,D,A,"1
+D",40,10,20,30
+52,3,3,30-40-10-20,baseline,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+53,3,3,10-20-40-30,baseline,3,False,40,True,40,C,C,"3
+C",10,20,40,30
+54,3,3,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+55,3,3,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+56,3,3,40-20-10-30,baseline,1,False,40,False,0,D,C,1. D,40,20,10,30
+57,3,3,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+58,3,4,10-40-30-20,baseline,2,False,40,False,0,D,A,"2
+D",10,40,30,20
+59,3,4,30-40-10-20,baseline,2,False,40,True,40,D,D,"2
+D",30,40,10,20
+60,3,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+61,3,4,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+62,3,4,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+63,3,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+64,3,4,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+65,3,4,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+66,3,4,10-20-40-30,baseline,1,False,10,False,0,D,A,1. D,10,20,40,30
+67,3,4,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+68,3,4,40-10-30-20,baseline,1,False,40,False,0,D,A,1. D,40,10,30,20
+69,3,4,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+70,3,4,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+71,3,4,20-40-30-10,baseline,1,False,20,True,20,A,A,1. A,20,40,30,10
+72,3,4,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+73,3,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+74,3,4,10-30-40-20,baseline,1,False,10,False,0,D,B,1. D,10,30,40,20
+75,3,4,20-10-30-40,baseline,3,False,30,True,30,D,D,"3
+D",20,10,30,40
+76,3,4,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+77,3,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+78,3,5,20-30-10-40,baseline,2,False,30,False,0,D,A,"2
+D",20,30,10,40
+79,3,5,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+80,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+81,3,5,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+82,3,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+83,3,5,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+84,3,5,20-40-10-30,baseline,1,False,20,True,20,C,C,1. C,20,40,10,30
+85,3,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+86,3,5,30-10-20-40,baseline,4,False,40,False,0,,C,4,30,10,20,40
+87,3,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+88,3,5,30-40-10-20,baseline,1,False,30,False,0,D,B,1. D,30,40,10,20
+89,3,5,10-30-20-40,baseline,1,False,10,False,0,D,A,1. D,10,30,20,40
+90,3,5,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+91,3,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+92,3,5,10-40-20-30,baseline,2,False,40,False,0,D,B,"2
+D",10,40,20,30
+93,3,5,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+94,3,5,40-10-20-30,baseline,1,False,40,False,0,D,C,1. D,40,10,20,30
+95,3,5,10-30-40-20,baseline,1,False,10,True,10,A,A,"1
+A",10,30,40,20
+96,3,5,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+1,1,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",20,10,30,40
+2,1,1,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:
+
+The correct answer is (A) H’=D(m’,",10,40,30,20
+3,1,1,10-20-30-40,model_A,2,False,20,False,0,D,C,"2
+D",10,20,30,40
+4,1,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3C
+
+4D",40,10,30,20
+5,1,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2F is a stronger second factor than sending anSMS codetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3A",40,10,30,20
+6,1,1,10-20-40-30,model_A,2,False,20,True,20,D,D,"Question 2
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,20,40,30
+7,1,1,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The answer is (D) False, True. TLS protects against An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnections. However, TLS doesnotprotectagainstAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificatefortheServer.",10,30,20,40
+8,1,1,30-20-10-40,model_A,1,False,30,False,0,,B,1D,30,20,10,40
+9,1,1,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4D",20,40,10,30
+10,1,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3A
+
+4C",20,10,30,40
+11,1,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",30,40,20,10
+12,1,1,10-40-20-30,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,40,20,30
+13,1,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3D
+
+4C",30,10,40,20
+14,1,1,30-20-10-40,model_A,1,False,30,True,30,C,C,"Question 1
+
+Answer: C",30,20,10,40
+15,1,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3D
+
+4C",20,10,40,30
+16,1,1,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,30,40
+17,1,1,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3D
+
+4A",20,30,40,10
+18,1,1,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",30,20,40,10
+19,1,1,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",20,40,10,30
+20,1,2,10-20-30-40,model_A,2,False,20,False,0,,C,"2
+
+The optimizations CR, MR, KM, and RS would close the timing channel attack described in the paper if turned off. ThereforeThe answer is (A) True, True.",10,20,30,40
+21,1,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3C
+
+4D",10,20,30,40
+22,1,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+23,1,2,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",30,40,20,10
+24,1,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+2C
+
+3C
+
+4C",40,20,30,10
+25,1,2,30-40-10-20,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅) is collision resistant. To build a collision (H,m)(H,m) and (H’,m’)(H’,m’), choose random (H,m,m’)(H,m,m’)and construct H’H’as follows:
+
+H’=E(m’,D(m, H))",30,40,10,20
+26,1,2,20-30-40-10,model_A,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+27,1,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.",30,20,10,40
+28,1,2,10-30-40-20,model_A,1,False,10,True,10,D,D,"Question 1
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealSecretswithoutinjectingAnyCode.",10,30,40,20
+29,1,2,10-20-40-30,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,40,30
+30,1,2,20-10-40-30,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3C
+
+4D",20,10,40,30
+31,1,2,40-20-10-30,model_A,1,False,40,False,0,D,A,"Question 1
+
+Answer: D
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: A
+
+Question 4
+
+Answer: D",40,20,10,30
+32,1,2,30-10-40-20,model_A,1,False,30,False,0,D,B,"3D
+
+The answer is D. Anti- virus scanners tendtolookforvirusesandothermaliciouscodebutHeartbleedexploitsstealsecretswithoutinjectinganycode.",30,10,40,20
+33,1,2,30-40-20-10,model_A,1,False,30,False,0,,B,1D,30,40,20,10
+34,1,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The question asks ""Why is it that anti-virus scanners would not have found anexploitation of Heartbleed?""The answerD)Anti-virus scanners tendto lookforvirusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycodeisCorrectbecauseHeartbleedisavulnerabilityinSSL/TLSThatallows",40,30,20,10
+35,1,2,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",20,10,40,30
+36,1,2,10-30-40-20,model_A,1,False,10,False,0,,C,1A,10,30,40,20
+37,1,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4A",30,10,20,40
+38,1,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+2D
+
+3D
+
+4C",40,30,10,20
+39,1,3,30-10-40-20,model_A,1,False,30,True,30,D,D,"Question 1
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscodebutHeartbleedexploitsstealsecretswithoutinjectinganycode.",30,10,40,20
+40,1,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+Whole-system testing for security flaws and bugs",20,40,30,10
+41,1,3,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The TLS protocol protects against replay attacks, session hijacking, man-in-the-middle attacks, etc., but does not protect against stealing server's private key.",40,20,30,10
+42,1,3,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisSecureBootChain.",20,30,10,40
+43,1,3,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:(A)H’=D(m’,E(m, H))",20,40,30,10
+44,1,3,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+The answer is (A) True, True. TLS protects against both An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnectionsandAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificatefortheServer.",20,40,30,10
+45,1,3,30-40-20-10,model_A,1,False,30,True,30,A,A,"1
+
+The correct answer is (A) H' = D(m', E(m, H)).
+
+To build a collision (H, m) and (H', m') Choose random (H, m, m')and construct H'as follows
+
+H' = D(Enc(Enc(Enc(Enc(Enc(Enc(Enc(Enc(Enc(Enc(Enc(Enc",30,40,20,10
+46,1,3,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+
+The security features of the phone that will prevent Innocent from reading information from theflashonthe phoneis (B)System software authorization.",20,40,10,30
+47,1,3,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+48,1,3,30-20-10-40,model_A,1,False,30,False,0,C,A,"1C
+
+The correct answer is C. The secure enclave's ephemeral key.",30,20,10,40
+49,1,3,40-20-10-30,model_A,1,False,40,False,0,,C,1C,40,20,10,30
+50,1,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,30,10,20
+51,1,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",40,10,20,30
+52,1,3,30-40-10-20,model_A,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+53,1,3,10-20-40-30,model_A,1,False,10,False,0,,C,3C,10,20,40,30
+54,1,3,40-20-30-10,model_A,1,False,40,False,0,,D,1D,40,20,30,10
+55,1,3,10-40-30-20,model_A,1,False,10,False,0,A,C,"2C
+
+Statement 1| U2F is a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.(A)TrueTrue(B)FalseFalse(C)TrueFalse(D)FalseTrue
+
+The correct answer isCTrueFalse",10,40,30,20
+56,1,3,40-20-10-30,model_A,2,False,20,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",40,20,10,30
+57,1,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",40,20,10,30
+58,1,4,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)isnotcollisionresistantTobuildacollision(H,mm)and(H',m')Chooserandom(H,mm',m')andconstructH'Asfollows
+
+A)H'=D(m',E(m, H))",10,40,30,20
+59,1,4,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The anti-virus scanner would not have found Heartbleed because Heartbleed exploits steal secrets withoutinjectinganycode.",30,40,10,20
+60,1,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+61,1,4,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3D
+
+4B",40,10,20,30
+62,1,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4A",40,30,20,10
+63,1,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3D
+
+4B",30,20,40,10
+64,1,4,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+2C
+
+3D
+
+4D",10,40,30,20
+65,1,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3A
+
+4D",30,20,40,10
+66,1,4,10-20-40-30,model_A,1,False,10,False,0,,A,"1A
+
+2B
+
+3A
+
+4C",10,20,40,30
+67,1,4,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",40,30,10,20
+68,1,4,40-10-30-20,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: D
+
+Question 4
+
+Answer: C",40,10,30,20
+69,1,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2C
+
+3D
+
+4D",20,30,40,10
+70,1,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2D
+
+3C
+
+4A",20,10,40,30
+71,1,4,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The security feature of the phone that will prevent Innocent from reading information from theflashonthe phoneisTheSecureEnclave'sEphemeralKey.",20,40,30,10
+72,1,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,10,30,20
+73,1,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3D
+
+4A",20,30,10,40
+74,1,4,10-30-40-20,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3D
+
+4A",10,30,40,20
+75,1,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A",20,10,30,40
+76,1,4,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4C",40,30,10,20
+77,1,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+Authentication aims to determine who the user is.",30,10,20,40
+78,1,5,20-30-10-40,model_A,2,False,30,False,0,,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build acollision(H, m)(H, m)and(H', m')(H', m')chooserandom(H, m, m')andconstructH'asfollows:
+
+A)H'=D(m',E(m, H))",20,30,10,40
+79,1,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2A
+
+3D
+
+4D",30,10,20,40
+80,1,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+None of the above",30,10,40,20
+81,1,5,10-30-20-40,model_A,1,False,10,False,0,,A,2B,10,30,20,40
+82,1,5,40-10-20-30,model_A,1,False,40,False,0,,C,1A,40,10,20,30
+83,1,5,10-30-20-40,model_A,1,False,10,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",10,30,20,40
+84,1,5,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2Fis a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3B",20,40,10,30
+85,1,5,20-30-10-40,model_A,1,False,20,False,0,,D,1D,20,30,10,40
+86,1,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+2D
+
+3D
+
+4D",30,10,20,40
+87,1,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3A
+
+4C",20,10,30,40
+88,1,5,30-40-10-20,model_A,1,False,30,False,0,,B,1D,30,40,10,20
+89,1,5,10-30-20-40,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",10,30,20,40
+90,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3D
+
+4C",40,30,20,10
+91,1,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+92,1,5,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",10,40,20,30
+93,1,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",20,30,40,10
+94,1,5,40-10-20-30,model_A,2,False,10,False,0,,D,"2
+
+The security features of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisSecureBootChain.",40,10,20,30
+95,1,5,10-30-40-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",10,30,40,20
+96,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The TLS protocol protects against replay attacks, session hijacking, man-in-the-middle attacks, etc., but does not protect against stealing server's private key.",40,30,20,10
+1,2,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",20,10,30,40
+2,2,1,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:
+
+The correct answer is (A) H’=D(m’,",10,40,30,20
+3,2,1,10-20-30-40,model_A,1,False,10,False,0,,B,"1D
+
+2D
+
+3C
+
+4B",10,20,30,40
+4,2,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3D
+
+4D",40,10,30,20
+5,2,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2F is a stronger second factor than sending anSMS codetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3A",40,10,30,20
+6,2,1,10-20-40-30,model_A,2,False,20,True,20,D,D,"Question 2
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,20,40,30
+7,2,1,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The answer is (D) False, True. TLS protects against An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnections. However, TLS doesnotprotectagainstAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificateforserver.",10,30,20,40
+8,2,1,30-20-10-40,model_A,1,False,30,False,0,,B,1D,30,20,10,40
+9,2,1,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4D",20,40,10,30
+10,2,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3A
+
+4C",20,10,30,40
+11,2,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",30,40,20,10
+12,2,1,10-40-20-30,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,40,20,30
+13,2,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3D
+
+4C",30,10,40,20
+14,2,1,30-20-10-40,model_A,1,False,30,False,0,,C,1C,30,20,10,40
+15,2,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3D
+
+4C",20,10,40,30
+16,2,1,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,30,40
+17,2,1,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3D
+
+4A",20,30,40,10
+18,2,1,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",30,20,40,10
+19,2,1,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The security features of the phone that will prevent Innocent from reading information from theflashonthe phoneis (B)Systemsoftwareauthorization.",20,40,10,30
+20,2,2,10-20-30-40,model_A,2,False,20,False,0,,C,"2
+
+The Chinese Remainder Theorem (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS) optimizations are all used in the OpenSSL implementation described in ""Remote Timing Attacks are Practical"" (byBrumleyandBoneh). Ifyouturnedthe listedoptimizationsoff,TheTimingChannelAttackwouldstillexist.
+
+Therefore",10,20,30,40
+21,2,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3C
+
+4B",10,20,30,40
+22,2,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+23,2,2,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",30,40,20,10
+24,2,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+2A
+
+3C
+
+4C",40,20,30,10
+25,2,2,30-40-10-20,model_A,1,False,30,False,0,,B,"1B
+
+2A
+
+3D
+
+4B",30,40,10,20
+26,2,2,20-30-40-10,model_A,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+27,2,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.",30,20,10,40
+28,2,2,10-30-40-20,model_A,1,False,10,True,10,D,D,"Question 1
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealSecretswithoutinjectingAnyCode.",10,30,40,20
+29,2,2,10-20-40-30,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,40,30
+30,2,2,20-10-40-30,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3C
+
+4D",20,10,40,30
+31,2,2,40-20-10-30,model_A,1,False,40,False,0,D,A,"Question 1
+
+Answer: D
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: A
+
+Question 4
+
+Answer: D",40,20,10,30
+32,2,2,30-10-40-20,model_A,1,False,30,False,0,,B,"1A
+
+2D
+
+3D
+
+4C",30,10,40,20
+33,2,2,30-40-20-10,model_A,1,False,30,False,0,,B,1D,30,40,20,10
+34,2,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The question asks ""Why is it that anti-virus scanners would not have found anexploitationofHeartbleed?""The answerD)Anti-virusscannersTendToLookForVirusesAndOtherMaliciousCodeButHeartbleedExploitsStealSecretsWithoutInjectingAnyCodeisCorrectbecauseHeartbleedisavulnerabilityinSSL/TLSThate",40,30,20,10
+35,2,2,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",20,10,40,30
+36,2,2,10-30-40-20,model_A,1,False,10,False,0,,C,1A,10,30,40,20
+37,2,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",30,10,20,40
+38,2,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+2D
+
+3D
+
+4C",40,30,10,20
+39,2,3,30-10-40-20,model_A,1,False,30,True,30,D,D,"Question 1
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscodebutHeartbleedexploitsstealsecretswithoutinjectinganycode.",30,10,40,20
+40,2,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+Whole-system testing for security flaws and bugs",20,40,30,10
+41,2,3,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+42,2,3,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisSecureBootChain.",20,30,10,40
+43,2,3,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:(A)H’=D(m’,E(m, H))",20,40,30,10
+44,2,3,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+
+The answer is (A) True, False. TLS protects against An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnections. However, TLS doesnotprotectagainstAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificatefortheServer.",20,40,30,10
+45,2,3,30-40-20-10,model_A,1,False,30,True,30,A,A,"1
+The correct answer is (A) H' = D(m', E(m, H)).
+
+2
+The correct answer is (A) Wireless Traffic Sniffing.
+
+3
+The correct answer is (D) False, True.
+
+4
+The correct answer is (D) Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsste",30,40,20,10
+46,2,3,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",20,40,10,30
+47,2,3,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+48,2,3,30-20-10-40,model_A,1,False,30,False,0,C,A,"1C
+
+The correct answer is C. The secure enclave's ephemeral key.",30,20,10,40
+49,2,3,40-20-10-30,model_A,1,False,40,False,0,,C,1C,40,20,10,30
+50,2,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,30,10,20
+51,2,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",40,10,20,30
+52,2,3,30-40-10-20,model_A,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+53,2,3,10-20-40-30,model_A,1,False,10,False,0,,C,3C,10,20,40,30
+54,2,3,40-20-30-10,model_A,1,False,40,False,0,,D,1D,40,20,30,10
+55,2,3,10-40-30-20,model_A,1,False,10,False,0,A,C,"2C
+
+Statement 1| U2F is a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.(A)TrueTrue(B)FalseFalse(C)TrueFalse(D)FalseTrue
+
+The correct answer isCTrueFalse",10,40,30,20
+56,2,3,40-20-10-30,model_A,2,False,20,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",40,20,10,30
+57,2,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",40,20,10,30
+58,2,4,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅) is not collision resistant. To build a collision (H,m)(H,m) and (H’,m’)(H’,m’), choose random (H,m,m’)(H, m, m’)and construct H’H’as follows:
+
+H’=E(Enc(Dec(Enc(Dec(",10,40,30,20
+59,2,4,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The anti-virus scanner would not have found Heartbleed because Heartbleed exploits steal secrets withoutinjectinganycode.",30,40,10,20
+60,2,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+61,2,4,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3D
+
+4C",40,10,20,30
+62,2,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,30,20,10
+63,2,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3D
+
+4B",30,20,40,10
+64,2,4,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+2C
+
+3D
+
+4D",10,40,30,20
+65,2,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3A
+
+4D",30,20,40,10
+66,2,4,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+Can we build a secure PRP from a secure PRG?
+
+Yes, just plug the GGM PRF into the Luby-Rackoff theorem",10,20,40,30
+67,2,4,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",40,30,10,20
+68,2,4,40-10-30-20,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: D
+
+Question 4
+
+Answer: C",40,10,30,20
+69,2,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2C
+
+3D
+
+4D",20,30,40,10
+70,2,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2D
+
+3C
+
+4B",20,10,40,30
+71,2,4,20-40-30-10,model_A,2,False,40,False,0,,D,"2
+
+The security feature of the phone that will prevent Innocent from reading information from theflashonthe phoneisTheSecureEnclave'sEphemeralKey.",20,40,30,10
+72,2,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,10,30,20
+73,2,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3D
+
+4A",20,30,10,40
+74,2,4,10-30-40-20,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3D
+
+4A",10,30,40,20
+75,2,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A",20,10,30,40
+76,2,4,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4C",40,30,10,20
+77,2,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+Authentication aims to determine who the user is.",30,10,20,40
+78,2,5,20-30-10-40,model_A,2,False,30,True,30,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:
+
+A)H’=D(m’,E(m, H))",20,30,10,40
+79,2,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2A
+
+3D
+
+4D",30,10,20,40
+80,2,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+None of the above",30,10,40,20
+81,2,5,10-30-20-40,model_A,1,False,10,False,0,,A,2B,10,30,20,40
+82,2,5,40-10-20-30,model_A,1,False,40,False,0,,C,1A,40,10,20,30
+83,2,5,10-30-20-40,model_A,1,False,10,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",10,30,20,40
+84,2,5,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2Fis a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3B",20,40,10,30
+85,2,5,20-30-10-40,model_A,1,False,20,False,0,,D,1D,20,30,10,40
+86,2,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+2D
+
+3D
+
+4D",30,10,20,40
+87,2,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3A
+
+4C",20,10,30,40
+88,2,5,30-40-10-20,model_A,1,False,30,False,0,,B,1D,30,40,10,20
+89,2,5,10-30-20-40,model_A,1,False,10,False,0,,A,2D,10,30,20,40
+90,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3D
+
+4C",40,30,20,10
+91,2,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+92,2,5,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",10,40,20,30
+93,2,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",20,30,40,10
+94,2,5,40-10-20-30,model_A,2,False,10,False,0,,D,"2
+
+The security features of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisSecureBootChain.",40,10,20,30
+95,2,5,10-30-40-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",10,30,40,20
+96,2,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+2B
+
+3D
+
+4A",40,30,20,10
+1,3,1,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",20,10,30,40
+2,3,1,10-40-30-20,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:
+
+The correct answer is (A) H’=D(m’,",10,40,30,20
+3,3,1,10-20-30-40,model_A,1,False,10,False,0,,B,"1D
+
+2D
+
+3C
+
+4B",10,20,30,40
+4,3,1,40-10-30-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3D
+
+4D",40,10,30,20
+5,3,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2F is a stronger second factor than sending anSMS codetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3A",40,10,30,20
+6,3,1,10-20-40-30,model_A,2,False,20,True,20,D,D,"Question 2
+
+Answer: D
+
+Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,20,40,30
+7,3,1,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The answer is (D) False, True. TLS protects against An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnections. However, TLS doesnotprotectagainstAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificateforserver.",10,30,20,40
+8,3,1,30-20-10-40,model_A,1,False,30,False,0,,B,1D,30,20,10,40
+9,3,1,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+2D
+
+3C
+
+4D",20,40,10,30
+10,3,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3A
+
+4C",20,10,30,40
+11,3,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3A
+
+4C",30,40,20,10
+12,3,1,10-40-20-30,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. Anti- virus scanners tend to lookfor virusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycode.",10,40,20,30
+13,3,1,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3D
+
+4C",30,10,40,20
+14,3,1,30-20-10-40,model_A,1,False,30,False,0,,C,1C,30,20,10,40
+15,3,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3D
+
+4C",20,10,40,30
+16,3,1,10-20-30-40,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,30,40
+17,3,1,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3D
+
+4A",20,30,40,10
+18,3,1,30-20-40-10,model_A,1,False,30,False,0,,D,"1D
+
+2C
+
+3C
+
+4A",30,20,40,10
+19,3,1,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The security features of the phone that will prevent Innocent from reading information from theflashonthe phoneis (A)Securebootchain.",20,40,10,30
+20,3,2,10-20-30-40,model_A,2,False,20,False,0,,C,"2
+
+The optimizations CR, MR, KM, and RS would close the timing channel attack described in the paper if turned off. ThereforeThe answer is (A) True, True.",10,20,30,40
+21,3,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+2A
+
+3C
+
+4D",10,20,30,40
+22,3,2,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+23,3,2,30-40-20-10,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",30,40,20,10
+24,3,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3C
+
+4C",40,20,30,10
+25,3,2,30-40-10-20,model_A,1,False,30,False,0,,B,"1B
+
+2A
+
+3D
+
+4C",30,40,10,20
+26,3,2,20-30-40-10,model_A,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+27,3,2,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2A
+
+Wireless Traffic Sniffingis a process ofwirelesstrafficanalysisthatmaybehelpfulforforensicinvestigationsorduringtroubleshootinganywirelessissue.
+
+3D
+
+Statement1|U2Fisastrongersecondfactorthansendingan",30,20,10,40
+28,3,2,10-30-40-20,model_A,1,False,10,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",10,30,40,20
+29,3,2,10-20-40-30,model_A,1,False,10,False,0,,C,"2D
+
+Authentication aims to determine who the user is.",10,20,40,30
+30,3,2,20-10-40-30,model_A,1,False,20,False,0,,B,"1B
+
+2D
+
+3C
+
+4D",20,10,40,30
+31,3,2,40-20-10-30,model_A,1,False,40,False,0,D,A,"Question 1
+
+Answer: D
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: A
+
+Question 4
+
+Answer: D",40,20,10,30
+32,3,2,30-10-40-20,model_A,1,False,30,False,0,,B,"1A
+
+2D
+
+3D
+
+4C",30,10,40,20
+33,3,2,30-40-20-10,model_A,1,False,30,False,0,,B,1D,30,40,20,10
+34,3,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The question asks ""Why is it that anti-virus scanners would not have found anexploitation of Heartbleed?""The answerD)Anti-virus scanners tendto lookforvirusesandothermaliciouscode, butHeartbleedexploitsstealsecretswithoutinjectinganycodeisCorrectbecauseHeartbleedisavulnerabilityinSSL/TLSThatallows",40,30,20,10
+35,3,2,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",20,10,40,30
+36,3,2,10-30-40-20,model_A,1,False,10,False,0,,C,1A,10,30,40,20
+37,3,2,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",30,10,20,40
+38,3,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+2D
+
+3D
+
+4C",40,30,10,20
+39,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,3D,30,10,40,20
+40,3,3,20-40-30-10,model_A,2,False,40,False,0,,B,"2
+
+Whole-system testing for security flaws and bugs",20,40,30,10
+41,3,3,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+42,3,3,20-30-10-40,model_A,2,False,30,False,0,,D,"2
+
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",20,30,10,40
+43,3,3,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build a collision (H,m)(H,m)and (H’,m’)(H’,m’)choose random (H,m,m’)(H, m, m’)andconstructH’H’asfollows:(A)H’=D(m’,E(m, H))",20,40,30,10
+44,3,3,20-40-30-10,model_A,2,False,40,False,0,D,C,"2
+
+The answer is (D) False, True. TLS protects against both An attacker stealing the server’s private key and reading theplaintextofrecordedpastconnectionsandAnattackerbreakingintoaCertificateAuthorityandCreatingafakeCertificatefortheServer.",20,40,30,10
+45,3,3,30-40-20-10,model_A,1,False,30,False,0,,A,"2A
+
+The question 2AWirelessTrafficSniffingisTheCorrectAnswer
+
+The question 2AWirelessTrafficSniffingisTheCorrectAnswer
+
+The question 2AWirelessTrafficSniffingisTheCorrectAnswer
+
+The question 2AWirelessTrafficSniffingisTheCorrectAnswer
+
+The question 2AWirelessTrafficSniffingisThe",30,40,20,10
+46,3,3,20-40-10-30,model_A,2,False,40,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",20,40,10,30
+47,3,3,30-20-40-10,model_A,1,False,30,False,0,,C,3D,30,20,40,10
+48,3,3,30-20-10-40,model_A,1,False,30,False,0,C,A,"1C
+
+The correct answer is C. The secure enclave's ephemeral key.",30,20,10,40
+49,3,3,40-20-10-30,model_A,1,False,40,False,0,,C,1C,40,20,10,30
+50,3,3,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,30,10,20
+51,3,3,40-10-20-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",40,10,20,30
+52,3,3,30-40-10-20,model_A,2,False,40,False,0,D,B,"2
+D",30,40,10,20
+53,3,3,10-20-40-30,model_A,1,False,10,False,0,,C,3C,10,20,40,30
+54,3,3,40-20-30-10,model_A,1,False,40,False,0,,D,1D,40,20,30,10
+55,3,3,10-40-30-20,model_A,1,False,10,False,0,A,C,"2C
+
+Statement 1| U2F is a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.(A)TrueTrue(B)FalseFalse(C)TrueFalse(D)FalseTrue
+
+The correct answer isCTrueFalse",10,40,30,20
+56,3,3,40-20-10-30,model_A,2,False,20,False,0,,D,"2
+The security feature of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisTheSecureEnclave'sEphemeralKey.",40,20,10,30
+57,3,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",40,20,10,30
+58,3,4,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)isnotcollisionresistantTobuildacollision(H,mm)and(H',m')Chooserandom(H,mm',m')andconstructH'Asfollows
+
+A)H'=D(m',E(m, H))",10,40,30,20
+59,3,4,30-40-10-20,model_A,1,False,30,False,0,,C,"2D
+
+The anti-virus scanner would not have found Heartbleed because Heartbleed exploits steal secrets withoutinjectinganycode.",30,40,10,20
+60,3,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2A
+
+Wireless Traffic Sniffing",10,40,20,30
+61,3,4,40-10-20-30,model_A,1,False,40,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2D
+
+TLS protects againstAn attacker stealingthe server’s private keyandreadingtheplaintextofrecordedpastconnections.
+
+3D
+
+Penetration testingisWhole-systemtestingforsecurityflawsandbugs
+
+4C
+
+TheopenSSLimplementationdescribedin“RemoteTimingAttacks",40,10,20,30
+62,3,4,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",40,30,20,10
+63,3,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3D
+
+4B",30,20,40,10
+64,3,4,10-40-30-20,model_A,1,False,10,False,0,,D,"1D
+
+2C
+
+3D
+
+4D",10,40,30,20
+65,3,4,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2D
+
+3A
+
+4D",30,20,40,10
+66,3,4,10-20-40-30,model_A,1,False,10,True,10,A,A,"2B
+
+Can we build a secure PRP from a secure PRG?
+
+Yes, just plug the GGM PRF into the Luby-Rackoff theorem",10,20,40,30
+67,3,4,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+2D
+
+3C
+
+4B",40,30,10,20
+68,3,4,40-10-30-20,model_A,1,False,40,True,40,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: C
+
+Question 3
+
+Answer: D
+
+Question 4
+
+Answer: C",40,10,30,20
+69,3,4,20-30-40-10,model_A,1,False,20,False,0,,A,"1A
+
+2C
+
+3D
+
+4D",20,30,40,10
+70,3,4,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2D
+
+3C
+
+4B",20,10,40,30
+71,3,4,20-40-30-10,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3C
+
+4C",20,40,30,10
+72,3,4,40-10-30-20,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3B
+
+4D",40,10,30,20
+73,3,4,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+2C
+
+3D
+
+4A",20,30,10,40
+74,3,4,10-30-40-20,model_A,1,False,10,False,0,,B,"1D
+
+2C
+
+3D
+
+4A",10,30,40,20
+75,3,4,20-10-30-40,model_A,1,False,20,False,0,A,C,"Question 1
+
+Answer: A",20,10,30,40
+76,3,4,40-30-10-20,model_A,1,False,40,False,0,,C,"1C
+
+2A
+
+3B
+
+4C",40,30,10,20
+77,3,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+Authentication aims to determine who the user is.",30,10,20,40
+78,3,5,20-30-10-40,model_A,2,False,30,False,0,,A,"2
+
+The resulting h(\cdot,\cdot)h(⋅,⋅)is not collision resistant:To build acollision(H, m)(H, m)and(H', m')(H', m')chooserandom(H, m, m')andconstructH'asfollows:
+
+A)H'=D(m',E(m, H))",20,30,10,40
+79,3,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2A
+
+3D
+
+4D",30,10,20,40
+80,3,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+None of the above",30,10,40,20
+81,3,5,10-30-20-40,model_A,1,False,10,False,0,,A,2B,10,30,20,40
+82,3,5,40-10-20-30,model_A,1,False,40,False,0,,C,1A,40,10,20,30
+83,3,5,10-30-20-40,model_A,1,False,10,False,0,,B,"1B
+
+2C
+
+3D
+
+4D",10,30,20,40
+84,3,5,20-40-10-30,model_A,1,False,20,False,0,A,C,"1C
+
+A hash function guarantees the integrity of a message. It guarantees thatthe message has not been changed.
+
+2C
+
+Statement 1| U2Fis a stronger second factor than sending anSMScodetoauser’ssmartphone.Statement2|Anattackerthatknowsauser’spasswordcaneasilyguesstheU2Fkeytoaccesstheuser’saccount.
+
+3B",20,40,10,30
+85,3,5,20-30-10-40,model_A,1,False,20,False,0,,D,1D,20,30,10,40
+86,3,5,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+2D
+
+3D
+
+4D",30,10,20,40
+87,3,5,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3A
+
+4C",20,10,30,40
+88,3,5,30-40-10-20,model_A,1,False,30,False,0,,B,1D,30,40,10,20
+89,3,5,10-30-20-40,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3A
+
+4B",10,30,20,40
+90,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+2D
+
+3D
+
+4C",40,30,20,10
+91,3,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+92,3,5,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+Penetration testing isWhole-system testingforsecurityflawsandbugs.",10,40,20,30
+93,3,5,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+2A
+
+3B
+
+4D",20,30,40,10
+94,3,5,40-10-20-30,model_A,2,False,10,False,0,,D,"2
+
+The security features of the phone that will prevent Innocent fromreadinginformationfromtheflashonthePhoneisSecureBootChain.",40,10,20,30
+95,3,5,10-30-40-20,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",10,30,40,20
+96,3,5,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+2B
+
+3D
+
+4A",40,30,20,10

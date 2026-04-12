@@ -1,0 +1,4664 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,30-20-40-10,baseline,1,False,30,False,0,D,B,1. D,30,20,40,10
+2,1,1,10-30-40-20,baseline,1,False,10,True,10,A,A,"1
+A",10,30,40,20
+3,1,1,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+4,1,1,20-30-40-10,baseline,3,False,40,False,0,,A,3,20,30,40,10
+5,1,1,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+6,1,1,10-40-30-20,baseline,1,False,10,True,10,A,A,1. A,10,40,30,20
+7,1,1,40-20-30-10,baseline,1,False,40,False,0,B,C,1. B,40,20,30,10
+8,1,1,20-10-40-30,baseline,3,False,40,False,0,,B,3,20,10,40,30
+9,1,1,10-40-30-20,baseline,1,False,10,False,0,D,B,1. D,10,40,30,20
+10,1,1,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+11,1,1,20-30-40-10,baseline,1,False,20,True,20,B,B,1. B,20,30,40,10
+12,1,1,40-30-20-10,baseline,1,False,40,True,40,A,A,1. (A) (9/10)^k,40,30,20,10
+13,1,1,30-40-10-20,baseline,1,False,30,False,0,B,D,1. B,30,40,10,20
+14,1,1,20-40-30-10,baseline,1,False,20,False,0,B,C,1. B,20,40,30,10
+15,1,1,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+16,1,1,10-40-30-20,baseline,2,False,40,True,40,B,B,"2
+B",10,40,30,20
+17,1,1,30-10-40-20,baseline,1,False,30,False,0,B,D,1. B,30,10,40,20
+18,1,1,20-30-10-40,baseline,2,False,30,False,0,,C,"2
+The volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 is 16/3.",20,30,10,40
+19,1,1,30-10-40-20,baseline,1,False,30,False,0,B,D,1. B,30,10,40,20
+20,1,2,40-30-10-20,baseline,1,False,40,False,0,B,C,1. B,40,30,10,20
+21,1,2,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+22,1,2,10-40-30-20,baseline,1,False,10,False,0,A,B,1. A,10,40,30,20
+23,1,2,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+24,1,2,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+25,1,2,10-30-20-40,baseline,2,False,30,True,30,A,A,"2
+A",10,30,20,40
+26,1,2,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+27,1,2,30-10-20-40,baseline,1,False,30,False,0,B,C,1. B,30,10,20,40
+28,1,2,10-30-20-40,baseline,2,False,30,False,0,,B,2,10,30,20,40
+29,1,2,40-20-30-10,baseline,1,False,40,False,0,B,C,1. B,40,20,30,10
+30,1,2,30-40-20-10,baseline,1,False,30,False,0,D,A,1. D,30,40,20,10
+31,1,2,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+32,1,2,10-30-40-20,baseline,2,False,30,False,0,B,A,"2
+B",10,30,40,20
+33,1,2,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+34,1,2,30-10-40-20,baseline,1,False,30,True,30,B,B,"1
+B",30,10,40,20
+35,1,2,20-30-40-10,baseline,1,False,20,True,20,A,A,"1
+A",20,30,40,10
+36,1,2,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+37,1,2,40-30-10-20,baseline,1,False,40,False,0,A,B,1. A,40,30,10,20
+38,1,2,20-10-30-40,baseline,1,False,20,False,0,C,A,1. C,20,10,30,40
+39,1,3,30-40-10-20,baseline,2,False,40,False,0,,C,"2
+The volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 is 16/3.",30,40,10,20
+40,1,3,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+41,1,3,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+42,1,3,40-20-30-10,baseline,1,False,40,False,0,A,C,"1
+A",40,20,30,10
+43,1,3,10-40-20-30,baseline,1,False,10,False,0,D,A,"1
+D",10,40,20,30
+44,1,3,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+45,1,3,20-30-10-40,baseline,1,False,20,False,0,B,D,1. B,20,30,10,40
+46,1,3,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+47,1,3,40-10-30-20,baseline,1,False,40,True,40,B,B,1. B,40,10,30,20
+48,1,3,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+49,1,3,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+50,1,3,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+51,1,3,30-40-20-10,baseline,1,False,30,False,0,A,B,1. A,30,40,20,10
+52,1,3,40-30-20-10,baseline,1,False,40,False,0,B,D,1. B,40,30,20,10
+53,1,3,40-30-20-10,baseline,1,False,40,True,40,A,A,1. A,40,30,20,10
+54,1,3,40-10-20-30,baseline,1,False,40,False,0,B,C,1. B,40,10,20,30
+55,1,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+56,1,3,10-20-30-40,baseline,1,False,10,True,10,A,A,1. A,10,20,30,40
+57,1,3,40-30-10-20,baseline,1,False,40,False,0,B,C,1. B,40,30,10,20
+58,1,4,30-10-40-20,baseline,1,False,30,False,0,B,D,1. B,30,10,40,20
+59,1,4,10-20-40-30,baseline,1,False,10,False,0,C,A,1. C,10,20,40,30
+60,1,4,10-20-30-40,baseline,1,False,10,False,0,A,B,1. A,10,20,30,40
+61,1,4,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+62,1,4,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+63,1,4,40-10-30-20,baseline,1,False,40,False,0,B,C,1. B,40,10,30,20
+64,1,4,30-20-10-40,baseline,1,False,30,False,0,B,D,1. B,30,20,10,40
+65,1,4,20-40-30-10,baseline,2,False,40,True,40,A,A,"2
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,baseline,1,False,40,False,0,D,B,1. D,40,10,30,20
+67,1,4,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+68,1,4,20-40-10-30,baseline,1,False,20,True,20,B,B,1. B,20,40,10,30
+69,1,4,40-20-10-30,baseline,1,False,40,False,0,B,D,1. B,40,20,10,30
+70,1,4,10-20-30-40,baseline,1,False,10,False,0,D,A,1. D,10,20,30,40
+71,1,4,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+72,1,4,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+73,1,4,30-20-40-10,baseline,1,False,30,False,0,D,B,1. D,30,20,40,10
+74,1,4,20-30-10-40,baseline,2,False,30,False,0,B,C,"2
+B",20,30,10,40
+75,1,4,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+76,1,4,20-30-10-40,baseline,1,False,20,False,0,B,D,1. B,20,30,10,40
+77,1,5,10-40-20-30,baseline,2,False,40,False,0,,B,2,10,40,20,30
+78,1,5,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+79,1,5,30-40-10-20,baseline,1,False,30,True,30,A,A,"1
+A",30,40,10,20
+80,1,5,30-10-20-40,baseline,1,False,30,False,0,D,B,1. D,30,10,20,40
+81,1,5,10-20-40-30,baseline,1,False,10,False,0,A,B,1. A,10,20,40,30
+82,1,5,10-30-20-40,baseline,2,False,30,False,0,,C,2,10,30,20,40
+83,1,5,30-40-20-10,baseline,1,False,30,False,0,D,B,1. D,30,40,20,10
+84,1,5,10-40-20-30,baseline,1,False,10,False,0,D,B,1. D,10,40,20,30
+85,1,5,20-40-30-10,baseline,2,False,40,False,0,,C,"2
+The volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region defined by the intersection of the surfaces y = x^2 and y = 2 - x^2. The",20,40,30,10
+86,1,5,20-40-10-30,baseline,1,False,20,True,20,A,A,1. A,20,40,10,30
+87,1,5,10-30-20-40,baseline,1,False,10,False,0,D,B,1. D,10,30,20,40
+88,1,5,30-20-10-40,baseline,1,False,30,False,0,B,C,1. B,30,20,10,40
+89,1,5,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+90,1,5,20-40-10-30,baseline,2,False,40,False,0,D,A,"2
+The answer is D.",20,40,10,30
+91,1,5,10-40-20-30,baseline,1,False,10,False,0,B,C,1. B,10,40,20,30
+92,1,5,10-30-40-20,baseline,1,False,10,True,10,A,A,1. A,10,30,40,20
+93,1,5,10-20-40-30,baseline,1,False,10,False,0,D,B,1. D,10,20,40,30
+94,1,5,40-20-10-30,baseline,1,False,40,True,40,D,D,1. D,40,20,10,30
+95,1,5,20-10-30-40,baseline,1,False,20,True,20,A,A,1. A,20,10,30,40
+96,1,5,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+1,1,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3D
+
+4A",30,20,40,10
+2,1,1,10-30-40-20,model_A,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A be the set of students enrolled in real analysis, B be the set of students enrolled in differential equations, and C be the set of students enrolled in linear algebra.
+
+We know |A| = 41, |",10,30,40,20
+3,1,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y +",30,20,10,40
+4,1,1,20-30-40-10,model_A,1,False,20,False,0,,B,"Question 1
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV",20,30,40,10
+5,1,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1B
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces. The region is bounded by x = -1, x = 1, y = x^2, y = 2 - x^",20,10,40,30
+6,1,1,10-40-30-20,model_A,4,False,20,False,0,,A,"2B
+
+The polynomial f(x) = x^4 - 6x^3 + 15x^2 - 18x + 10 has roots 2 + i, 2 - i, 1 + i, 1 - i. Therefore, f(2) = 0, f(-1) = 0, f(1) =",10,40,30,20
+7,1,1,40-20-30-10,model_A,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x^2",40,20,30,10
+8,1,1,20-10-40-30,model_A,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,model_A,1,False,10,False,0,,B,"1D
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπisπ^2/2.",10,40,30,20
+10,1,1,20-10-40-30,model_A,1,False,20,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating
+
+The volume = ∫∫∫dV
+
+The limits of integration are 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2",20,10,40,30
+11,1,1,20-30-40-10,model_A,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπisπ^2/2.",20,30,40,10
+12,1,1,40-30-20-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is C
+
+Question 3
+
+The number",40,30,20,10
+13,1,1,30-40-10-20,model_A,2,False,40,True,40,A,A,"2
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must also be one-to-one (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",30,40,10,20
+14,1,1,20-40-30-10,model_A,2,False,40,False,0,B,A,"2
+The value of b is 10e.",20,40,30,10
+15,1,1,40-20-10-30,model_A,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A",40,20,10,30
+16,1,1,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫0πsinxdx = 2π[−cosx]0π=2π(−cosπ+cos0)=2π(1+1)=2π(2) = 2π
+
+ThereforeThe answerisC2",10,40,30,20
+17,1,1,30-10-40-20,model_A,1,False,30,False,0,B,D,"1A
+
+The order of G could be 20.
+
+2A
+
+The value of b is 10/e.
+
+3C
+
+If C is false, then A is false and B is true.
+
+4B
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle.",30,10,40,20
+18,1,1,20-30-10-40,model_A,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",20,30,10,40
+19,1,1,30-10-40-20,model_A,1,False,30,False,0,B,D,"Question 1
+
+The answer is (B) 20. If G contains a subgroup H of order 5, then |H| = 5. Since |G| = |H|*|G/H| = 5*|G/H|, |G| = 5|G/H|. Since |G| = |G/H| + |H| = |",30,10,40,20
+20,1,2,40-30-10-20,model_A,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,30,10,20
+21,1,2,20-10-40-30,model_A,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,model_A,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,model_A,1,False,10,False,0,,A,"1A
+
+The function g ∘ f : S -> U is one-to-one (injective) implies Thatfisone-to-one.",10,20,30,40
+24,1,2,20-40-10-30,model_A,2,False,40,False,0,,B,"Question 2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = πisgivenbytheformulaV = π∫π0sin2xdx=π[−cos2x]π0=π(−cos2π+cos0)=π(1+1)=2πThereforeThevolumeV=2π",20,40,10,30
+25,1,2,10-30-20-40,model_A,1,False,10,True,10,D,D,"Question 1
+
+The answer is D) 35
+
+The subgroup of order 5 implies that G has an element of order 5. The only possible orders of G consistent with this are 5, 15, 25, 35, 55, 75, 105, 125, 155, 1",10,30,20,40
+26,1,2,10-30-40-20,model_A,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2 and y = 2 - x^2 is symmetric about the x-axis. The intersection points occur",10,30,40,20
+27,1,2,30-10-20-40,model_A,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",30,10,20,40
+28,1,2,10-30-20-40,model_A,1,False,10,False,0,,D,"2A
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/22πsin2xdx=2π∫π/20sin2xdx=2π[−cos2x]π/20=2π",10,30,20,40
+29,1,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0 ≤",40,20,30,10
+30,1,2,30-40-20-10,model_A,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",30,40,20,10
+31,1,2,40-10-30-20,model_A,1,False,40,False,0,A,B,"1
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has 2 + i, 1 - i, 1 + i, 1 - i as roots. ThereforeThe answer is (A) x^3 + 5x^2 + 4x + 1.",40,10,30,20
+32,1,2,10-30-40-20,model_A,2,False,30,False,0,,A,"2
+
+The function g ∘ f : S -> U is one-to-one (injective). Therefore, f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,model_A,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",30,20,40,10
+34,1,2,30-10-40-20,model_A,3,False,40,False,0,,C,"1A
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has 2 + i, 1 - i, 1 + i as roots. Therefore, f(1) = 1^3 + 5*1^2 + 4*1 + 1 = 11 ≠ 0. Hence, f",30,10,40,20
+35,1,2,20-30-40-10,model_A,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) 8/3
+
+Question 3
+
+The answer is A) π^2 / 4
+
+Question 4
+
+The answer is A) 10/e",20,30,40,10
+36,1,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"Question 1
+
+The correct answer is (A) f is one-toone.",30,10,20,40
+37,1,2,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",40,30,10,20
+38,1,2,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+The function $g\circ f$ being injective implies $f$ must be injective. If $f$ were onto, $g\circ f$ could map multiple elements of $S$ to the same element of $U$, contradicting injectivity. Therefore $f$ must be injective.
+
+2A
+
+The derivative $y' = 10$ must",20,10,30,40
+39,1,3,30-40-10-20,model_A,2,False,40,False,0,,C,"2
+The volume of the solid bounded by y = x^2, y = 2 - x^2, z = 0, z = y + 3 is 16/3.",30,40,10,20
+40,1,3,40-20-30-10,model_A,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root theorem statesthat If f(α) = 0, then f(α*) = 0. 
+
+Therefore, The conjugate root theorem impliesThe conjugate root theorem impliesThe conjugate root theorem impliesThe conjug",40,20,30,10
+41,1,3,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+2A
+
+3B
+
+4A",30,40,20,10
+42,1,3,40-20-30-10,model_A,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z =",40,20,30,10
+43,1,3,10-40-20-30,model_A,1,False,10,False,0,D,A,"Question 1
+
+The answer is D) 4
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in Real Analysis}, B = {students enrolled in Differential Equations}, C = {students enrolled in Linear Algebra}
+
+We know |A| = 41, |B| = 44",10,40,20,30
+44,1,3,20-10-30-40,model_A,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+45,1,3,20-30-10-40,model_A,2,False,30,True,30,A,A,"2
+The function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true?
+
+A) f is one-to-one.
+B) f is onto.
+C) g is one-toOne.
+D) g is onto.",20,30,10,40
+46,1,3,30-20-10-40,model_A,1,False,30,False,0,D,C,"Question 1
+
+The answer is (D) 1/10
+
+Question 2
+
+The answer is (A) 1
+
+Question 3
+
+The answer is (A) (9/10)^k
+
+Question 4
+
+The answer is (A) 10/e",30,20,10,40
+47,1,3,40-10-30-20,model_A,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The polynomial f(2 + i) = 0 implies f(2 - i) = 0. The polynomial f(1 + i) = 0 implies f(1 - i) = 0. The polynomial f(",40,10,30,20
+48,1,3,40-10-20-30,model_A,3,False,20,False,0,,D,"1A
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has roots 2 + i, 2 - i, 1 - i, 1 + i. Therefore, f(2) = 0, f(-1) = 0, f(-2) = 0, f(-2) = 0",40,10,20,30
+49,1,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",40,30,20,10
+50,1,3,30-20-40-10,model_A,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B is false. Therefore, If A is true, then B is false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10, we",30,20,40,10
+51,1,3,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",30,40,20,10
+52,1,3,40-30-20-10,model_A,2,False,30,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|, which means z = ±1. ThereforeThe set of points satisfying z^2 = |z|^2 correspondsToA) pairOfPoints
+
+2A
+
+The volumeV = ∫∫∫dxdydz = ∫∫(2 - x^2)",40,30,20,10
+53,1,3,40-30-20-10,model_A,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A) 10/e
+
+Question 4
+
+The answer is A) (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,model_A,1,False,40,False,0,D,C,"Question 1
+
+Answer: D
+
+The probability thata six comes up 70ormoreofthe tossesisbetween0.01and0.02.",40,10,20,30
+55,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"Question 1
+
+The equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+ThereforeThe equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+ThereforeThe equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$",40,10,20,30
+56,1,3,10-20-30-40,model_A,1,False,10,False,0,B,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2D
+
+The volume of the generated solid is π^2.
+
+3A
+
+The value of b is 10/e.
+
+4A
+
+If C is false, then If A is true, then B is false.",10,20,30,40
+57,1,3,40-30-10-20,model_A,1,False,40,False,0,D,C,"Question 1
+
+The answer is (D) 104/105
+
+Question 2
+
+The answer is (A) f is one-to-one.
+
+Question 3
+
+The answer is (A) 1
+
+Question 4
+
+The answer is (B) 16/3",40,30,10,20
+58,1,4,30-10-40-20,model_A,1,False,30,False,0,,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm|z|$. This means $z$ lies on the unit circle centered at 0. ThereforeThe answer is (B)Circle.",30,10,40,20
+59,1,4,10-20-40-30,model_A,2,False,20,False,0,,C,"2
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",10,20,40,30
+60,1,4,10-20-30-40,model_A,1,False,10,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",10,20,30,40
+61,1,4,30-10-20-40,model_A,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) pair of points
+
+Question 3
+
+The answer is A) 10/e
+
+Question 4
+
+The answer is A) (9/10)^k",30,10,20,40
+62,1,4,20-30-40-10,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",20,30,40,10
+63,1,4,40-10-30-20,model_A,1,False,40,False,0,D,C,"Question 1
+
+The answer is D)between 0.01 and 0.02.",40,10,30,20
+64,1,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,model_A,1,False,20,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",20,40,30,10
+66,1,4,40-10-30-20,model_A,1,False,40,False,0,,B,"1A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2.",40,10,30,20
+67,1,4,40-20-10-30,model_A,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,model_A,1,False,20,False,0,A,B,"1
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 could be (A) x^3 + 5x^2 + 4x + 1.",20,40,10,30
+69,1,4,40-20-10-30,model_A,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|, which means z = ±1. ThereforeThe set of points satisfying z^2 = |z|^2 correspondsToA) pairOfPoints
+
+2A
+
+The volumeV = ∫∫∫dxdydz = ∫∫(2 - x^2)",40,20,10,30
+70,1,4,10-20-30-40,model_A,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,model_A,1,False,20,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",20,10,30,40
+72,1,4,20-40-30-10,model_A,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",30,20,40,10
+74,1,4,20-30-10-40,model_A,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπisπ^2/2.",20,30,10,40
+75,1,4,30-40-10-20,model_A,2,False,40,True,40,C,C,"Question 2
+
+The answer is (C) between 0.02 and 0.16.",30,40,10,20
+76,1,4,20-30-10-40,model_A,2,False,30,False,0,A,D,"2B
+
+The equation z^2 = |z|^2 represents a circle centered at (1/2, 0) with radius 1/2. Therefore, The set of points satisfying z^2 = |z|^2is A Circle.",20,30,10,40
+77,1,5,10-40-20-30,model_A,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2",10,40,20,30
+78,1,5,40-30-10-20,model_A,1,False,40,True,40,A,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This represents a circle.
+
+3B
+
+The order of G could be 20.
+
+4B
+
+The probability that a six comes up 70 or more times",40,30,10,20
+79,1,5,30-40-10-20,model_A,1,False,30,False,0,D,A,"Question 1
+
+The answer is D) 4
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A be the set of students enrolled in real analysis, B be the set of students enrolled in differential equations, and C be the set of students enrolled in linear algebra.
+
+We know |A| = 41, |",30,40,10,20
+80,1,5,30-10-20-40,model_A,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,model_A,2,False,20,False,0,A,D,"2B
+
+The equation z^2 = |z|^2 represents a circle centered at the origin with radius 1. The set of points satisfying this equation forms a circle.",10,20,40,30
+82,1,5,10-30-20-40,model_A,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",10,30,20,40
+83,1,5,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The volume generated by revolving the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by V = ∫[0,π] πsin^2xdx
+
+Using integration by parts, V = [π/2]sin2x|_0^π = π/2
+
+ThereforeTheVolume=π/2",30,40,20,10
+84,1,5,10-40-20-30,model_A,1,False,10,False,0,,B,"1A
+
+2D
+
+3A
+
+4B",10,40,20,30
+85,1,5,20-40-30-10,model_A,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating
+
+The volume = ∫∫∫dxdydz
+
+The limits of integration are 0 ≤ x ≤ √2, 0 ≤ y ≤ 2 -",20,40,30,10
+86,1,5,20-40-10-30,model_A,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+87,1,5,10-30-20-40,model_A,1,False,10,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",10,30,20,40
+88,1,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,model_A,1,False,40,False,0,,B,"1
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 could be The roots 2 + i and 1 - i are complex conjugates, so The polynomial f(2 + i) = 0 f(1 - i) = 0
+
+2
+The function g ∘ f : S -> U is one-to-one",40,10,20,30
+90,1,5,20-40-10-30,model_A,2,False,40,False,0,D,A,"Question 2
+
+The answer is D) 4
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A be the set of students enrolled in Real Analysis, B be the set of students enrolled in Differential Equations, and C be the set of students enrolled in Linear Algebra.
+
+We know |A| = 41,",20,40,10,30
+91,1,5,10-40-20-30,model_A,2,False,40,False,0,A,B,"2
+A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",10,40,20,30
+92,1,5,10-30-40-20,model_A,1,False,10,False,0,,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.
+
+3D
+
+The volume of the generated solid is π^2.
+
+4B
+
+The probability that a six comes up 70 or more times out",10,30,40,20
+93,1,5,10-20-40-30,model_A,4,False,30,False,0,,C,"2B
+
+The polynomial f(x) = x^4 - 6x^3 + 15x^2 - 18x + 10 has roots 2 + i, 2 - i, 1 + i, 1 - i. Therefore, f(2) = 0, f(-1) = 0, f(-2) =",10,20,40,30
+94,1,5,40-20-10-30,model_A,1,False,40,False,0,C,D,"Question 1
+
+The equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+This means $z^2 = |z|^2$.
+
+The set $\{z \in \mathbb{C} \mid z^2 = |z|^2\}$
+
+The set $\{z \in \mathbb{C",40,20,10,30
+95,1,5,20-10-30-40,model_A,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$.
+
+Therefore $b = \ln10 = \ln10$.
+
+So $b = \ln10$.
+
+Therefore",20,10,30,40
+96,1,5,10-20-40-30,model_A,2,False,20,False,0,,B,"Question 2
+
+The polynomial f(x) = x^2 - 2x + 2 has roots 2 + i and 1 - i. Therefore, f(2 + i) = 0 and f(1 - i) = 0.
+
+The polynomial f(2 + i) = (2 + i)^2 - 2(2 + i) + 2",10,20,40,30
+1,1,1,30-20-40-10,union_k27,3,False,40,False,0,,B,"3
+
+The volume V of the generated solid obtained by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2",30,20,40,10
+2,1,1,10-30-40-20,union_k27,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A",10,30,40,20
+3,1,1,30-20-10-40,union_k27,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y + 3",30,20,10,40
+4,1,1,20-30-40-10,union_k27,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπis2π. ThereforeThe answerisC2π.",20,30,40,10
+5,1,1,20-10-40-30,union_k27,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",20,10,40,30
+6,1,1,10-40-30-20,union_k27,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k27,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",40,20,30,10
+8,1,1,20-10-40-30,union_k27,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k27,1,False,10,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isTheVolumeOfTheSolid=∫π/20π/2sinxdx=∫π/20π/2sinxdx=∫π/20π/2sinxdx=∫π/20π/2sinxdx=∫",10,40,30,20
+10,1,1,20-10-40-30,union_k27,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e.
+
+ThereforeThe answer is C.",20,10,40,30
+11,1,1,20-30-40-10,union_k27,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπis2π. The volumeoftheSolidOfRevolutionis2π.",20,30,40,10
+12,1,1,40-30-20-10,union_k27,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answeris A
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answeris C
+
+Question 3
+
+The number",40,30,20,10
+13,1,1,30-40-10-20,union_k27,2,False,40,True,40,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because Ifg ∘ fisone-to-oneThenfmustbeone-to-one.",30,40,10,20
+14,1,1,20-40-30-10,union_k27,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k27,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",40,20,10,30
+16,1,1,10-40-30-20,union_k27,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,40,30,20
+17,1,1,30-10-40-20,union_k27,3,False,40,False,0,A,B,"3
+
+The correct answer is (A) If A is true, then B is false.",30,10,40,20
+18,1,1,20-30-10-40,union_k27,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",20,30,10,40
+19,1,1,30-10-40-20,union_k27,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫π/20sinxdx = 2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answer is (C)",30,10,40,20
+20,1,2,40-30-10-20,union_k27,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.77",40,30,10,20
+21,1,2,20-10-40-30,union_k27,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k27,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k27,1,False,10,True,10,A,A,"1
+
+The correct answer is (A) f is one-toone.",10,20,30,40
+24,1,2,20-40-10-30,union_k27,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2sinxdx= [−cosx]π/20=−cosπ/2+cos0=1−0=1TheVolumeV=π/2",20,40,10,30
+25,1,2,10-30-20-40,union_k27,1,False,10,True,10,D,D,"Question 1
+
+The answer is D) 35
+
+The subgroup of order 5 implies that G has an element of order 5. The only possible orders of G consistent with this are 5, 15, 25, 35, 55, 75, 105, 135, 165, 1",10,30,20,40
+26,1,2,10-30-40-20,union_k27,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",10,30,40,20
+27,1,2,30-10-20-40,union_k27,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C)between 0.02 and 0.16.",30,10,20,40
+28,1,2,10-30-20-40,union_k27,2,False,30,False,0,A,B,"2
+
+The volume of the generated solid is A) π^2 / 2.",10,30,20,40
+29,1,2,40-20-30-10,union_k27,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",40,20,30,10
+30,1,2,30-40-20-10,union_k27,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is B. 20
+
+Question 4
+
+The answer is A. f is one-to-one.",30,40,20,10
+31,1,2,40-10-30-20,union_k27,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k27,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k27,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",30,20,40,10
+34,1,2,30-10-40-20,union_k27,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are conjugates, so The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2",30,10,40,20
+35,1,2,20-30-40-10,union_k27,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) 8/3
+
+Question 3
+
+The answer is A) π^2 / 2
+
+Question 4
+
+The answer is A) 10/e",20,30,40,10
+36,1,2,30-10-20-40,union_k27,1,False,30,True,30,A,A,"Question 1
+
+Answer: A
+
+Question 2
+
+Answer: A
+
+Question 3
+
+Answer: B
+
+Question 4
+
+Answer: A",30,10,20,40
+37,1,2,40-30-10-20,union_k27,1,False,40,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",40,30,10,20
+38,1,2,20-10-30-40,union_k27,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toOne.",20,10,30,40
+39,1,3,30-40-10-20,union_k27,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",30,40,10,20
+40,1,3,40-20-30-10,union_k27,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root.
+
+The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k27,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k27,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(0) = 3 - x^2 + x^2 = 3 over the region bounded by y = x^2, y = 2",40,20,30,10
+43,1,3,10-40-20-30,union_k27,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is B. 20
+
+Question 4
+
+The answer is A. π^2 / 4",10,40,20,30
+44,1,3,20-10-30-40,union_k27,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$ $10$",20,10,30,40
+45,1,3,20-30-10-40,union_k27,2,False,30,True,30,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one.
+
+Therefore, $\boxed{A}$
+
+$f$ must be one-toone.",20,30,10,40
+46,1,3,30-20-10-40,union_k27,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k27,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,10,30,20
+48,1,3,40-10-20-30,union_k27,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 +",40,10,20,30
+49,1,3,40-30-20-10,union_k27,1,False,40,False,0,B,A,"1
+
+The value of b is 10e.",40,30,20,10
+50,1,3,30-20-40-10,union_k27,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k27,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,40,20,10
+52,1,3,40-30-20-10,union_k27,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. Therefore, The setofpointsisapairofpoints.",40,30,20,10
+53,1,3,40-30-20-10,union_k27,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k27,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k27,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k27,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x=0tox=πisgivenbytheformulaV=∫π0π2sinxdx=2π.
+
+ThereforeTheVolume=2π
+
+SoTheAnswerIsC2π",10,20,30,40
+57,1,3,40-30-10-20,union_k27,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,30,10,20
+58,1,4,30-10-40-20,union_k27,1,False,30,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm 1$.
+
+ThereforeThe answer is (A) pair of points.",30,10,40,20
+59,1,4,10-20-40-30,union_k27,2,False,20,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x^2",10,20,40,30
+60,1,4,10-20-30-40,union_k27,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x=0tox=πisgivenbytheformulaV=∫π0π2sinxdx=2π.
+
+ThereforeTheVolumeis2π.
+
+SoTheAnswerIsC2π.",10,20,30,40
+61,1,4,30-10-20-40,union_k27,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 10
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k27,1,False,20,True,20,A,A,"1A
+
+The correct answer is A. If g ∘ f : S -> U is one-toone (injective), then f must be one-toone (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",20,30,40,10
+63,1,4,40-10-30-20,union_k27,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360/6 = 60. The standard deviation is sqrt(360*1/6*5/6) = 5.196. The",40,10,30,20
+64,1,4,30-20-10-40,union_k27,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k27,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k27,1,False,40,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom x=0tox=π/2is2π∫π/20sinxdx=2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answer isC2π",40,10,30,20
+67,1,4,40-20-10-30,union_k27,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k27,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=",20,40,10,30
+69,1,4,40-20-10-30,union_k27,1,False,40,False,0,,D,"Question 1
+
+The equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+This equation holds true for all $z$.
+
+ThereforeThe set of points satisfying $z^2 = |z|^2$isThe set ofAllPointsInTheComplexPlane
+
+ThereforeTheAnswerIsA
+
+Question 2
+
+The volume $V",40,20,10,30
+70,1,4,10-20-30-40,union_k27,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k27,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+72,1,4,20-40-30-10,union_k27,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k27,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k27,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",20,30,10,40
+75,1,4,30-40-10-20,union_k27,1,False,30,True,30,A,A,"Question 1
+
+The correct answer is (A) f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k27,1,False,20,False,0,A,D,"1A
+
+The order of G could be 20.
+
+2B
+
+The set of points satisfying z^2 = |z|^2 is a circle.
+
+3A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+4A
+
+If C is false, then If A is true, then B is false.",20,30,10,40
+77,1,5,10-40-20-30,union_k27,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0to x = π/2isgivenbytheVolumeTheoremofSimpsonV =∫π/20π/2sinxdx=∫π/20π/2sinxdx=∫π/20π/2sinxdx",10,40,20,30
+78,1,5,40-30-10-20,union_k27,1,False,40,True,40,A,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This represents a circle.
+
+3B
+
+The order of G could be 20.
+
+4B
+
+The probability that a six comes up 70 or more times",40,30,10,20
+79,1,5,30-40-10-20,union_k27,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) π^2
+
+Question 3
+
+The answer is C) 32/3
+
+Question 4
+
+The answer is A) 10/e",30,40,10,20
+80,1,5,30-10-20-40,union_k27,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k27,2,False,20,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B)Circle.",10,20,40,30
+82,1,5,10-30-20-40,union_k27,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",10,30,20,40
+83,1,5,30-40-20-10,union_k27,1,False,30,False,0,,B,"1
+
+The volume generated by revolving one arch of y = sinx around the x-axis is 2π∫_0^π sinx dx = 2π[-cosx]_0^π = 2π[1-(-1)] = 2π(2) = 4π. ThereforeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeThe",30,40,20,10
+84,1,5,10-40-20-30,union_k27,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0π/2sinxdx=2π[−cosx]0π/2=2π[−cos(π/2)+cos0]=",10,40,20,30
+85,1,5,20-40-30-10,union_k27,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The limits of integration for x are",20,40,30,10
+86,1,5,20-40-10-30,union_k27,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+The number of students enrolled in all three courses can be found by subtractingthe number ofstudents enrolledinonlyonecoursefromtheTotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra
+
+TotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra=100",20,40,10,30
+87,1,5,10-30-20-40,union_k27,1,False,10,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",10,30,20,40
+88,1,5,30-20-10-40,union_k27,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k27,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10.",40,10,20,30
+90,1,5,20-40-10-30,union_k27,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k27,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k27,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k27,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,20,40,30
+94,1,5,40-20-10-30,union_k27,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,20,10,30
+95,1,5,20-10-30-40,union_k27,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+96,1,5,10-20-40-30,union_k27,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The conjugate of 2 + i is 2 - i. The conjugate of 1 - i is 1 + i. The",10,20,40,30
+1,1,1,30-20-40-10,union_k30,3,False,40,False,0,,B,"3
+
+The volume V of the generated solid obtained by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2",30,20,40,10
+2,1,1,10-30-40-20,union_k30,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. 20
+
+Question 3
+
+The answer is A. pair of points
+
+Question 4
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10",10,30,40,20
+3,1,1,30-20-10-40,union_k30,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",30,20,10,40
+4,1,1,20-30-40-10,union_k30,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0to π/2isThe volume generated by revolvingthe curve y = sinxaroundthe x-axisfrom 0to π/2isThe volume generatedbyrevolvingthecurve y = sinxaroundthe x-axisfrom 0to π/2isThe volume generatedbyrevolving",20,30,40,10
+5,1,1,20-10-40-30,union_k30,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",20,10,40,30
+6,1,1,10-40-30-20,union_k30,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k30,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",40,20,30,10
+8,1,1,20-10-40-30,union_k30,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k30,2,False,40,True,40,A,A,"2
+
+The correct answer is (A) f is one-toone.",10,40,30,20
+10,1,1,20-10-40-30,union_k30,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e.
+
+ThereforeThe answer isC.",20,10,40,30
+11,1,1,20-30-40-10,union_k30,3,False,40,True,40,B,B,"Question 3
+
+The answer is (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The complex conjugate roots 2 + i and 1 - i imply that 2 - i and 1 + i are alsoroots. The polynomial
+
+f(2 + i) = 0
+
+f(",20,30,40,10
+12,1,1,40-30-20-10,union_k30,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is C
+
+Question 3
+
+The number",40,30,20,10
+13,1,1,30-40-10-20,union_k30,2,False,40,True,40,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because Ifg ∘ fisone-to-oneThenfmustbeone-to-one.",30,40,10,20
+14,1,1,20-40-30-10,union_k30,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k30,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A",40,20,10,30
+16,1,1,10-40-30-20,union_k30,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,40,30,20
+17,1,1,30-10-40-20,union_k30,1,False,30,False,0,C,D,"3C
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.",30,10,40,20
+18,1,1,20-30-10-40,union_k30,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",20,30,10,40
+19,1,1,30-10-40-20,union_k30,3,False,40,False,0,A,B,"Question 3
+
+The volume of the generated solid is (A) π^2 / 2.",30,10,40,20
+20,1,2,40-30-10-20,union_k30,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.77",40,30,10,20
+21,1,2,20-10-40-30,union_k30,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k30,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k30,1,False,10,True,10,A,A,"1
+
+The correct answer is (A) f is one-toone.",10,20,30,40
+24,1,2,20-40-10-30,union_k30,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2sinxdx= [−cosx]π/20=−cosπ/2+cos0=1−0=1TheVolumeV=π/2",20,40,10,30
+25,1,2,10-30-20-40,union_k30,2,False,30,True,30,A,A,"2
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+ThereforeThe answer is A.",10,30,20,40
+26,1,2,10-30-40-20,union_k30,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",10,30,40,20
+27,1,2,30-10-20-40,union_k30,1,False,30,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360/6 = 60. The standard deviation is sqrt(360*1/6*5/6) = 5.83. The z",30,10,20,40
+28,1,2,10-30-20-40,union_k30,2,False,30,False,0,A,B,"2
+
+The volume of the generated solid is A) π^2 / 2.",10,30,20,40
+29,1,2,40-20-30-10,union_k30,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",40,20,30,10
+30,1,2,30-40-20-10,union_k30,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) If A is true, then B is false.
+
+Question 3
+
+The answer is B) 20
+
+Question 4
+
+The answer is A) f is one-to-one.",30,40,20,10
+31,1,2,40-10-30-20,union_k30,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k30,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k30,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",30,20,40,10
+34,1,2,30-10-40-20,union_k30,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The probability that 0 will not be chosen is (A) (9/10)^k
+
+3
+
+The probability thata six comes upon70ormoreofthe tossesis",30,10,40,20
+35,1,2,20-30-40-10,union_k30,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1",20,30,40,10
+36,1,2,30-10-20-40,union_k30,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-to-one.",30,10,20,40
+37,1,2,40-30-10-20,union_k30,1,False,40,False,0,A,B,"1
+
+The correct answer is (A) If A is true, then B is false.",40,30,10,20
+38,1,2,20-10-30-40,union_k30,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toOne.",20,10,30,40
+39,1,3,30-40-10-20,union_k30,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",30,40,10,20
+40,1,3,40-20-30-10,union_k30,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k30,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k30,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z =",40,20,30,10
+43,1,3,10-40-20-30,union_k30,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is C. 30
+
+Question 4
+
+The answer is A. π^2 / 4",10,40,20,30
+44,1,3,20-10-30-40,union_k30,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+The line $y = 10x$ is tangent",20,10,30,40
+45,1,3,20-30-10-40,union_k30,2,False,30,True,30,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one (A) because If $f$ were onto, there would exist $y\in T$ such that $f^{-1}(y)$ is empty, contradicting $g\circ f$ being one-to-one.
+
+ThereforeThe answer is (A) $f$ is",20,30,10,40
+46,1,3,30-20-10-40,union_k30,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k30,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i) = (x^2 - 4x + 5)(",40,10,30,20
+48,1,3,40-10-20-30,union_k30,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 +",40,10,20,30
+49,1,3,40-30-20-10,union_k30,1,False,40,False,0,B,A,"1
+
+The value of b is 10e.",40,30,20,10
+50,1,3,30-20-40-10,union_k30,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k30,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",30,40,20,10
+52,1,3,40-30-20-10,union_k30,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. Therefore, The setofpointsisapairofpoints.",40,30,20,10
+53,1,3,40-30-20-10,union_k30,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k30,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k30,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k30,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0π/2sinxdx=2π[−cosx]0π/2=2π[−cos(π/2)+cos0]=",10,20,30,40
+57,1,3,40-30-10-20,union_k30,1,False,40,True,40,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",40,30,10,20
+58,1,4,30-10-40-20,union_k30,1,False,30,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm 1$.
+
+ThereforeThe answer is (A) pair of points.",30,10,40,20
+59,1,4,10-20-40-30,union_k30,2,False,20,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0 ≤ x",10,20,40,30
+60,1,4,10-20-30-40,union_k30,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x=0tox=πisgivenbytheformulaV=∫π0π2sinxdx=2π.
+
+ThereforeTheVolumeis2π.
+
+SoTheAnswerIsC2π.",10,20,30,40
+61,1,4,30-10-20-40,union_k30,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 1
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k30,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k30,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360/6 = 60. The standard deviation is sqrt(360*1/6*5/6) = 5.7735",40,10,30,20
+64,1,4,30-20-10-40,union_k30,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k30,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k30,1,False,40,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by 
+
+V = ∫[0,π] πsin^2x dx
+
+Using integration by parts, we get 
+
+V = [π/2]sin2x - [π/2]sin2x|_0",40,10,30,20
+67,1,4,40-20-10-30,union_k30,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k30,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=",20,40,10,30
+69,1,4,40-20-10-30,union_k30,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe setThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+70,1,4,10-20-30-40,union_k30,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k30,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+72,1,4,20-40-30-10,union_k30,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k30,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k30,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",20,30,10,40
+75,1,4,30-40-10-20,union_k30,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k30,2,False,30,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B) Circle.",20,30,10,40
+77,1,5,10-40-20-30,union_k30,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0to x = π/2isgivenbytheVolumeTheoremofSimpsonV =∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx",10,40,20,30
+78,1,5,40-30-10-20,union_k30,1,False,40,True,40,A,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This is a circle.
+
+3B
+
+The order of G could be 20.
+
+4B
+
+The probability that a six comes up 70 or more times",40,30,10,20
+79,1,5,30-40-10-20,union_k30,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. π^2 / 2
+
+Question 3
+
+The answer is A. 8/3
+
+Question 4
+
+The answer is A. 10/e",30,40,10,20
+80,1,5,30-10-20-40,union_k30,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k30,2,False,20,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B)Circle.",10,20,40,30
+82,1,5,10-30-20-40,union_k30,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",10,30,20,40
+83,1,5,30-40-20-10,union_k30,2,False,40,True,40,A,A,"2
+The probability that 0 will not be chosen is (9/10)^k. ThereforeThe answer is A.",30,40,20,10
+84,1,5,10-40-20-30,union_k30,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the arch of the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by V = π∫[0,π]sin^2x dx
+
+The integral ∫[0,π]sin^2x dx = ∫[0,π]1/2(1−cos2",10,40,20,30
+85,1,5,20-40-30-10,union_k30,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating zdydx over the region bounded by y = x^2, y = 2 - x^2. The limits of integration are 0 ≤ x ≤ 1",20,40,30,10
+86,1,5,20-40-10-30,union_k30,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+The number of students enrolled in all three courses can be found by subtractingthe number ofstudents enrolledinonlyonecoursefromtheTotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra
+
+TotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra=100",20,40,10,30
+87,1,5,10-30-20-40,union_k30,2,False,30,True,30,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,30,20,40
+88,1,5,30-20-10-40,union_k30,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k30,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10.
+
+2
+
+The function g ∘ f : S -> U is one-to-one (injective), which means (A) f is one-to-one.
+
+3
+
+The volume of the solid bounded by the surfaces",40,10,20,30
+90,1,5,20-40-10-30,union_k30,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k30,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k30,2,False,30,False,0,C,A,"2
+
+The answer is C) g is one-toone.",10,30,40,20
+93,1,5,10-20-40-30,union_k30,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,20,40,30
+94,1,5,40-20-10-30,union_k30,1,False,40,False,0,,D,"Question 1
+
+The equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+This means $z^2 = |z|^2$.
+
+The set $z^2 = |z|^2$ represents The set $z^2 = |z|^2$.
+
+The set $z^2 = |z|^2$",40,20,10,30
+95,1,5,20-10-30-40,union_k30,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+96,1,5,10-20-40-30,union_k30,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The conjugate root theorem states that If f(x) = 0, then f(1 - i) = 0. Therefore,",10,20,40,30
+1,1,1,30-20-40-10,union_k35,3,False,40,False,0,,B,"3
+
+The volume V of the generated solid obtained by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2",30,20,40,10
+2,1,1,10-30-40-20,union_k35,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A",10,30,40,20
+3,1,1,30-20-10-40,union_k35,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",30,20,10,40
+4,1,1,20-30-40-10,union_k35,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axisisTheVolumeOfTheSolidOfRevolution=∫π20π2sinxdx=2π
+
+ThereforeTheVolumeOfTheSolidOfRevolution=2π
+
+TheAnswerIsC2π
+
+Question 2
+
+TheProbabilityThat0WillNotBechosen=(9/10)^",20,30,40,10
+5,1,1,20-10-40-30,union_k35,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",20,10,40,30
+6,1,1,10-40-30-20,union_k35,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k35,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",40,20,30,10
+8,1,1,20-10-40-30,union_k35,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k35,2,False,40,True,40,A,A,"2
+
+The correct answer is (A) f is one-toone.",10,40,30,20
+10,1,1,20-10-40-30,union_k35,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e. Therefore The answer is C.",20,10,40,30
+11,1,1,20-30-40-10,union_k35,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2.",20,30,40,10
+12,1,1,40-30-20-10,union_k35,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A) (9/10)^k
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is",40,30,20,10
+13,1,1,30-40-10-20,union_k35,2,False,40,True,40,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because Ifg ∘ fisone-to-oneThenfmustbeone-to-one.",30,40,10,20
+14,1,1,20-40-30-10,union_k35,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k35,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A",40,20,10,30
+16,1,1,10-40-30-20,union_k35,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ+cos0]=2π[1+1]=2π
+
+ThereforeTheVolumeV=",10,40,30,20
+17,1,1,30-10-40-20,union_k35,3,False,40,False,0,C,B,"3
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.
+
+ThereforeThe answer isCIf Aisfalse,thenBmustbeTrue.",30,10,40,20
+18,1,1,20-30-10-40,union_k35,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",20,30,10,40
+19,1,1,30-10-40-20,union_k35,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫π/20sinxdx = 2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answer is (C)",30,10,40,20
+20,1,2,40-30-10-20,union_k35,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.83",40,30,10,20
+21,1,2,20-10-40-30,union_k35,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k35,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k35,1,False,10,True,10,A,A,"1
+
+The correct answer is (A) f is one-toone.",10,20,30,40
+24,1,2,20-40-10-30,union_k35,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2π
+
+ThereforeTheVolumeV=2π
+
+HenceTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=",20,40,10,30
+25,1,2,10-30-20-40,union_k35,2,False,30,True,30,A,A,"2
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+ThereforeThe answer is (A) (9/10)^k.",10,30,20,40
+26,1,2,10-30-40-20,union_k35,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",10,30,40,20
+27,1,2,30-10-20-40,union_k35,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11.",30,10,20,40
+28,1,2,10-30-20-40,union_k35,2,False,30,False,0,A,B,"2
+
+The volume of the generated solid is A) π^2 / 2.",10,30,20,40
+29,1,2,40-20-30-10,union_k35,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",40,20,30,10
+30,1,2,30-40-20-10,union_k35,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",30,40,20,10
+31,1,2,40-10-30-20,union_k35,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k35,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k35,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",30,20,40,10
+34,1,2,30-10-40-20,union_k35,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The probability that 0 will not be chosen is (A) (9/10)^k
+
+3
+
+The probability thata six comes upon70ormoreofthe tossesis",30,10,40,20
+35,1,2,20-30-40-10,union_k35,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1.",20,30,40,10
+36,1,2,30-10-20-40,union_k35,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. If g ∘ f : S -> U is one-toone (injective), then f must be one-toone (injective) because g ∘ f = g ∘ f implies f(α) = f(β) implies α = β. Therefore f must be one-toone.",30,10,20,40
+37,1,2,40-30-10-20,union_k35,1,False,40,False,0,A,B,"1
+
+The correct answer is (A) If A is true, then B is false.",40,30,10,20
+38,1,2,20-10-30-40,union_k35,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toOne.",20,10,30,40
+39,1,3,30-40-10-20,union_k35,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",30,40,10,20
+40,1,3,40-20-30-10,union_k35,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k35,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k35,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",40,20,30,10
+43,1,3,10-40-20-30,union_k35,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is B. 20
+
+Question 4
+
+The answer is A. π^2 / 4",10,40,20,30
+44,1,3,20-10-30-40,union_k35,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$ $10$",20,10,30,40
+45,1,3,20-30-10-40,union_k35,2,False,30,True,30,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one.
+
+ThereforeThe answer is (A) $f$ is one-to-one.",20,30,10,40
+46,1,3,30-20-10-40,union_k35,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 0.027878787878787877. The probability of rolling 71 or 72 sixes out of 360 rolls is",30,20,10,40
+47,1,3,40-10-30-20,union_k35,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i) = (x^2 - 4x + 5)(",40,10,30,20
+48,1,3,40-10-20-30,union_k35,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 +",40,10,20,30
+49,1,3,40-30-20-10,union_k35,1,False,40,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",40,30,20,10
+50,1,3,30-20-40-10,union_k35,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k35,1,False,30,False,0,A,B,"1A
+
+The correct answer is (A) If A is true, then B is false. 
+
+Since C is true if exactly one of A and B is true, If C is false, then A and B must both be false. Therefore If A is true, then B must be false.",30,40,20,10
+52,1,3,40-30-20-10,union_k35,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. Therefore, The setofpointsisapairofpoints.",40,30,20,10
+53,1,3,40-30-20-10,union_k35,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k35,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k35,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k35,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,20,30,40
+57,1,3,40-30-10-20,union_k35,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,30,10,20
+58,1,4,30-10-40-20,union_k35,1,False,30,False,0,B,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $|z| = 1$.
+
+ThereforeThe answer is (B)Circle.",30,10,40,20
+59,1,4,10-20-40-30,union_k35,2,False,20,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0 ≤ x",10,20,40,30
+60,1,4,10-20-30-40,union_k35,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0π/2sinxdx=2π[−cosx]0π/2=2π[−cos(π/2)+cos0]=",10,20,30,40
+61,1,4,30-10-20-40,union_k35,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 1
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k35,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k35,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,10,30,20
+64,1,4,30-20-10-40,union_k35,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k35,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k35,1,False,40,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2. ThereforeThe answerisB.",40,10,30,20
+67,1,4,40-20-10-30,union_k35,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k35,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=",20,40,10,30
+69,1,4,40-20-10-30,union_k35,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. ThereforeThe set of points satisfying z^2 = |z|^2 correspondsToThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+70,1,4,10-20-30-40,union_k35,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k35,1,False,20,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",20,10,30,40
+72,1,4,20-40-30-10,union_k35,2,False,40,False,0,,D,"2
+
+The order of G could be 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k35,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k35,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",20,30,10,40
+75,1,4,30-40-10-20,union_k35,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k35,2,False,30,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle.",20,30,10,40
+77,1,5,10-40-20-30,union_k35,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0to x = π/2isgivenbytheVolumeTheoremofSimpsonV =∫π/20π/2sinxdx=∫π/20π/2sinxdx=∫π/20π/2sinxdx",10,40,20,30
+78,1,5,40-30-10-20,union_k35,1,False,40,True,40,A,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This represents a circle.
+
+3B
+
+The order of G could be 20.
+
+4B
+
+The probability that a six comes up 70 or more times",40,30,10,20
+79,1,5,30-40-10-20,union_k35,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. π^2 / 2
+
+Question 3
+
+The answer is A. 8/3
+
+Question 4
+
+The answer is A. 10/e",30,40,10,20
+80,1,5,30-10-20-40,union_k35,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k35,2,False,20,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B) Circle.",10,20,40,30
+82,1,5,10-30-20-40,union_k35,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",10,30,20,40
+83,1,5,30-40-20-10,union_k35,1,False,30,False,0,,B,"1
+
+The volume generated by revolving one arch of y = sinx around the x-axis is 2π∫_0^π sinx dx = 2π[-cosx]_0^π = 2π[1-(-1)] = 2π(2) = 4π. ThereforeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeThe",30,40,20,10
+84,1,5,10-40-20-30,union_k35,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π(−cosπ+cos0)=2π(1+1)=2π
+
+ThereforeTheVolume",10,40,20,30
+85,1,5,20-40-30-10,union_k35,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",20,40,30,10
+86,1,5,20-40-10-30,union_k35,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {Students enrolled in Real Analysis}, B = {Students enrolled in Differential Equations}, C = {Students enrolled in Linear Algebra}
+
+We know |A| = 41, |B| = 4",20,40,10,30
+87,1,5,10-30-20-40,union_k35,2,False,30,True,30,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,30,20,40
+88,1,5,30-20-10-40,union_k35,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k35,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10.",40,10,20,30
+90,1,5,20-40-10-30,union_k35,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k35,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k35,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k35,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,20,40,30
+94,1,5,40-20-10-30,union_k35,1,False,40,False,0,,D,"Question 1
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|.
+
+ThereforeThe setThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+95,1,5,20-10-30-40,union_k35,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+96,1,5,10-20-40-30,union_k35,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must also be roots",10,20,40,30
+1,1,1,30-20-40-10,union_k40,3,False,40,False,0,,B,"3
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2π",30,20,40,10
+2,1,1,10-30-40-20,union_k40,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. 20
+
+Question 3
+
+The answer is A. pair of points
+
+Question 4
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10",10,30,40,20
+3,1,1,30-20-10-40,union_k40,1,False,30,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2,",30,20,10,40
+4,1,1,20-30-40-10,union_k40,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπis2π. ThereforeThe answerisC2π.",20,30,40,10
+5,1,1,20-10-40-30,union_k40,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",20,10,40,30
+6,1,1,10-40-30-20,union_k40,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k40,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y + 3",40,20,30,10
+8,1,1,20-10-40-30,union_k40,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k40,2,False,40,True,40,A,A,"2
+
+The correct answer is (A) f is one-toone.",10,40,30,20
+10,1,1,20-10-40-30,union_k40,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e. Therefore The answer is C.",20,10,40,30
+11,1,1,20-30-40-10,union_k40,3,False,40,True,40,B,B,"Question 3
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The complex conjugate roots 2 + i and 1 - i imply that The polynomial f(x) could be (B) x^4 - 6x^3 + 15x",20,30,40,10
+12,1,1,40-30-20-10,union_k40,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A) (9/10)^k
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is",40,30,20,10
+13,1,1,30-40-10-20,union_k40,2,False,40,True,40,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",30,40,10,20
+14,1,1,20-40-30-10,union_k40,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k40,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",40,20,10,30
+16,1,1,10-40-30-20,union_k40,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,40,30,20
+17,1,1,30-10-40-20,union_k40,3,False,40,False,0,C,B,"3
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.
+
+ThereforeThe answer is (C) If A is false, then B is true.",30,10,40,20
+18,1,1,20-30-10-40,union_k40,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",20,30,10,40
+19,1,1,30-10-40-20,union_k40,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫π/20sinxdx = 2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answer is (C)",30,10,40,20
+20,1,2,40-30-10-20,union_k40,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.8",40,30,10,20
+21,1,2,20-10-40-30,union_k40,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k40,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k40,1,False,10,True,10,A,A,"1
+
+The correct answer is (A) f is one-toone.",10,20,30,40
+24,1,2,20-40-10-30,union_k40,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2π(1+sin2x)dx=π/2[π/2+cos2x]π/20=π^2/2
+
+ThereforeThe",20,40,10,30
+25,1,2,10-30-20-40,union_k40,2,False,30,True,30,A,A,"2
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+ThereforeThe answer is (A) (9/10)^k.",10,30,20,40
+26,1,2,10-30-40-20,union_k40,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",10,30,40,20
+27,1,2,30-10-20-40,union_k40,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",30,10,20,40
+28,1,2,10-30-20-40,union_k40,2,False,30,False,0,A,B,"2
+
+The volume of the generated solid is A) π^2 / 2.",10,30,20,40
+29,1,2,40-20-30-10,union_k40,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",40,20,30,10
+30,1,2,30-40-20-10,union_k40,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) If A is true, then B is false.
+
+Question 3
+
+The answer is B) 20
+
+Question 4
+
+The answer is A) f is one-to-one.",30,40,20,10
+31,1,2,40-10-30-20,union_k40,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k40,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k40,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",30,20,40,10
+34,1,2,30-10-40-20,union_k40,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The probability that 0 will not be chosen is (A) (9/10)^k
+
+3
+
+The probability thata six comes upon70ormoreofthe tossesis",30,10,40,20
+35,1,2,20-30-40-10,union_k40,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1",20,30,40,10
+36,1,2,30-10-20-40,union_k40,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-to-one.",30,10,20,40
+37,1,2,40-30-10-20,union_k40,1,False,40,False,0,A,B,"1
+
+The correct answer is (A) If A is true, then B is false.",40,30,10,20
+38,1,2,20-10-30-40,union_k40,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toOne.",20,10,30,40
+39,1,3,30-40-10-20,union_k40,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The",30,40,10,20
+40,1,3,40-20-30-10,union_k40,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k40,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k40,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x",40,20,30,10
+43,1,3,10-40-20-30,union_k40,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is B. 20
+
+Question 4
+
+The answer is A. π^2 / 4",10,40,20,30
+44,1,3,20-10-30-40,union_k40,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$ $10$",20,10,30,40
+45,1,3,20-30-10-40,union_k40,2,False,30,True,30,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one (A) because If $f$ were onto, there would exist $y\in T$ such that $f^{-1}(y)$ is empty, contradicting $g\circ f$ being one-to-one.
+
+ThereforeThe answer is (A) $f$ is",20,30,10,40
+46,1,3,30-20-10-40,union_k40,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k40,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i) = (x^2 - 4x + 5)(",40,10,30,20
+48,1,3,40-10-20-30,union_k40,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 +",40,10,20,30
+49,1,3,40-30-20-10,union_k40,1,False,40,False,0,B,A,"1
+
+The value of b is 10e.",40,30,20,10
+50,1,3,30-20-40-10,union_k40,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k40,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",30,40,20,10
+52,1,3,40-30-20-10,union_k40,2,False,30,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. ThereforeThe set of points satisfying z^2 = |z|^2 correspondsToThe setThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,30,20,10
+53,1,3,40-30-20-10,union_k40,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k40,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k40,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k40,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusV=2π∫0π/2sinxdx=2π[−cosx]0π/2=2π[−cos(π/2)+cos0]=2π",10,20,30,40
+57,1,3,40-30-10-20,union_k40,1,False,40,True,40,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",40,30,10,20
+58,1,4,30-10-40-20,union_k40,1,False,30,False,0,,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $|z| = 1$.
+
+ThereforeThe set $z^2 = |z|^2$ correspondsToTheCircle$|z| = 1$.
+
+ThereforeTheSet$z^2 = |z|^2$CorrespondsToTheCircle$|z| =",30,10,40,20
+59,1,4,10-20-40-30,union_k40,2,False,20,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The region bounded by y = x^2",10,20,40,30
+60,1,4,10-20-30-40,union_k40,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2sin2xdx=2π∫π/20sinxdx=2π[−cosx]π/20=2π[−cosπ/",10,20,30,40
+61,1,4,30-10-20-40,union_k40,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 1
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k40,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) f is one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k40,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360/6 = 60. The standard deviation is sqrt(360*1/6*5/6) = 5.83. The z",40,10,30,20
+64,1,4,30-20-10-40,union_k40,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k40,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k40,1,False,40,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom x=0tox=π/2isπ^2/2.
+
+ThereforeThe answerisB.",40,10,30,20
+67,1,4,40-20-10-30,union_k40,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k40,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=2π",20,40,10,30
+69,1,4,40-20-10-30,union_k40,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2 = |z|^2 correspondsTo |z| = 1. This meansThe setThesetThe",40,20,10,30
+70,1,4,10-20-30-40,union_k40,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k40,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+72,1,4,20-40-30-10,union_k40,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k40,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k40,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",20,30,10,40
+75,1,4,30-40-10-20,union_k40,1,False,30,True,30,A,A,"Question 1
+
+The correct answer is (A) f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k40,2,False,30,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B) Circle.",20,30,10,40
+77,1,5,10-40-20-30,union_k40,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0to x = π/2isgivenbytheVolumeTheoremofSimpsonV =∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx",10,40,20,30
+78,1,5,40-30-10-20,union_k40,1,False,40,True,40,A,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This is a circle.
+
+3C
+
+The order of G could be 30.
+
+4B
+
+The probability that a six comes up 70 or more times",40,30,10,20
+79,1,5,30-40-10-20,union_k40,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) π^2
+
+Question 3
+
+The answer is C) 32/3
+
+Question 4
+
+The answer is A) 10/e",30,40,10,20
+80,1,5,30-10-20-40,union_k40,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k40,2,False,20,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B)Circle.",10,20,40,30
+82,1,5,10-30-20-40,union_k40,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",10,30,20,40
+83,1,5,30-40-20-10,union_k40,1,False,30,False,0,,B,"1
+
+The volume generated by revolving one arch of y = sinx around the x-axis is 2π∫_0^π sinx dx = 2π[-cosx]_0^π = 2π[1-(-1)] = 2π(2) = 4π. ThereforeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeTheVolumeThe",30,40,20,10
+84,1,5,10-40-20-30,union_k40,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0π/2sinxdx=2π[-cosx]0π/2=2π[1+1]=2π
+
+ThereforeTheVolumeV",10,40,20,30
+85,1,5,20-40-30-10,union_k40,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating zdydx over the region bounded by y = x^2, y = 2 - x^2. The limits of integration are 0 ≤ x ≤ 1,",20,40,30,10
+86,1,5,20-40-10-30,union_k40,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+The number of students enrolled in all three courses can be found by subtractingthe number ofstudents enrolledinonlyonecoursefromtheTotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra
+
+TotalNumberofStudentsEnrolledinRealAnalysis+DifferentialEquations+LinearAlgebra=100",20,40,10,30
+87,1,5,10-30-20-40,union_k40,2,False,30,True,30,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,30,20,40
+88,1,5,30-20-10-40,union_k40,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k40,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10.",40,10,20,30
+90,1,5,20-40-10-30,union_k40,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k40,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k40,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k40,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,20,40,30
+94,1,5,40-20-10-30,union_k40,1,False,40,False,0,,D,"Question 1
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|.
+
+ThereforeThe setThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+95,1,5,20-10-30-40,union_k40,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$, so $b = \ln10 = \ln10$.
+
+ThereforeThe answer is $\boxed{\text{(C",20,10,30,40
+96,1,5,10-20-40-30,union_k40,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must also be roots",10,20,40,30
+1,1,1,30-20-40-10,union_k45,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2",30,20,40,10
+2,1,1,10-30-40-20,union_k45,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. 20
+
+Question 3
+
+The answer is A. pair of points
+
+Question 4
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10",10,30,40,20
+3,1,1,30-20-10-40,union_k45,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",30,20,10,40
+4,1,1,20-30-40-10,union_k45,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by V = ∫[0,π] πsin^2xdx
+
+Using integration by parts, V = [π/2]sin2x|_0^π = π/2
+
+ThereforeThe volume generatedby revolving",20,30,40,10
+5,1,1,20-10-40-30,union_k45,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",20,10,40,30
+6,1,1,10-40-30-20,union_k45,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k45,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are 0 <= x",40,20,30,10
+8,1,1,20-10-40-30,union_k45,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k45,2,False,40,True,40,A,A,"2
+
+The correct answer is (A) f is one-toone.",10,40,30,20
+10,1,1,20-10-40-30,union_k45,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e. Therefore The answer is C.",20,10,40,30
+11,1,1,20-30-40-10,union_k45,3,False,40,True,40,B,B,"Question 3
+
+The answer is (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The complex conjugate roots 2 + i and 1 - i imply that 2 - i and 1 + i are alsoroots. The polynomial P(x) = (x - 2 - i)(x",20,30,40,10
+12,1,1,40-30-20-10,union_k45,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A) (9/10)^k
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is",40,30,20,10
+13,1,1,30-40-10-20,union_k45,2,False,40,False,0,,A,"2
+
+The function g ∘ f : S -> U is one-to-one (injective). Therefore, f must be one-toone.",30,40,10,20
+14,1,1,20-40-30-10,union_k45,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k45,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A",40,20,10,30
+16,1,1,10-40-30-20,union_k45,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫0πsinxdx = 2π[−cosx]0π=2π(−cosπ+cos0)=2π(1+1)=2π(2)=4πThereforeTheVolumeis2πTheAnswerIs",10,40,30,20
+17,1,1,30-10-40-20,union_k45,3,False,40,False,0,C,B,"3
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.
+
+ThereforeThe answer is (C) If A is false, then B is true.",30,10,40,20
+18,1,1,20-30-10-40,union_k45,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",20,30,10,40
+19,1,1,30-10-40-20,union_k45,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π2π",30,10,40,20
+20,1,2,40-30-10-20,union_k45,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.77",40,30,10,20
+21,1,2,20-10-40-30,union_k45,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k45,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k45,1,False,10,True,10,A,A,"1
+
+The correct answer is (A) f is one-toone.",10,20,30,40
+24,1,2,20-40-10-30,union_k45,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = πisgivenbytheformulaV = π∫π0sin2xdx=π[−cos2x]π0=π(−cos2π+cos0)=π(1+1)=2πThereforeThevolumeV=2πTheCorrect",20,40,10,30
+25,1,2,10-30-20-40,union_k45,2,False,30,True,30,A,A,"2
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+ThereforeThe answer is A.",10,30,20,40
+26,1,2,10-30-40-20,union_k45,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",10,30,40,20
+27,1,2,30-10-20-40,union_k45,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",30,10,20,40
+28,1,2,10-30-20-40,union_k45,2,False,30,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2πsinxdx=π∫π/20sinxdx=π[-cosx]π/20=π[1-(-1)]",10,30,20,40
+29,1,2,40-20-30-10,union_k45,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y + 3",40,20,30,10
+30,1,2,30-40-20-10,union_k45,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) If A is true, then B is false.
+
+Question 3
+
+The answer is B) 20
+
+Question 4
+
+The answer is A) f is one-to-one.",30,40,20,10
+31,1,2,40-10-30-20,union_k45,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k45,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k45,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",30,20,40,10
+34,1,2,30-10-40-20,union_k45,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The probability that 0 will not be chosen is (A) (9/10)^k
+
+3
+
+The probability thata six comes upon 70ormoreofthe tosses",30,10,40,20
+35,1,2,20-30-40-10,union_k45,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1",20,30,40,10
+36,1,2,30-10-20-40,union_k45,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-to-one.",30,10,20,40
+37,1,2,40-30-10-20,union_k45,1,False,40,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",40,30,10,20
+38,1,2,20-10-30-40,union_k45,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toOne.",20,10,30,40
+39,1,3,30-40-10-20,union_k45,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by y = x^2, y = 2 - x^2, z = 0, and z = y + 3 is 16/3.",30,40,10,20
+40,1,3,40-20-30-10,union_k45,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k45,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k45,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z =",40,20,30,10
+43,1,3,10-40-20-30,union_k45,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",10,40,20,30
+44,1,3,20-10-30-40,union_k45,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$ $10$",20,10,30,40
+45,1,3,20-30-10-40,union_k45,2,False,30,True,30,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one (A) because If $f$ were onto, there would exist $y\in T$ such that $f^{-1}(y)$ is empty, contradicting $f$ being one-to-one. If $f$ were notone-to-one, then $g\",20,30,10,40
+46,1,3,30-20-10-40,union_k45,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k45,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,10,30,20
+48,1,3,40-10-20-30,union_k45,1,False,40,False,0,,B,"1
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has 2 + i and 1 - i as roots. Therefore, f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i) = (x^2 - 4",40,10,20,30
+49,1,3,40-30-20-10,union_k45,1,False,40,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",40,30,20,10
+50,1,3,30-20-40-10,union_k45,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k45,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",30,40,20,10
+52,1,3,40-30-20-10,union_k45,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. Therefore, The setofpointsisapairofpoints.",40,30,20,10
+53,1,3,40-30-20-10,union_k45,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k45,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k45,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k45,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x=0tox=πisgivenbytheformulaV=∫π0π2sinxdx=2π.
+
+ThereforeTheVolume=2π
+
+SoTheAnswerIsC2π",10,20,30,40
+57,1,3,40-30-10-20,union_k45,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,30,10,20
+58,1,4,30-10-40-20,union_k45,1,False,30,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm 1$.
+
+ThereforeThe answer is (A) pair of points.",30,10,40,20
+59,1,4,10-20-40-30,union_k45,2,False,20,False,0,,C,"2
+
+The volume V of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The region bounded by y = x^",10,20,40,30
+60,1,4,10-20-30-40,union_k45,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0π/2sinxdx=2π[-cosx]0π/2=2π[1+1]=2π
+
+ThereforeTheVolumeV",10,20,30,40
+61,1,4,30-10-20-40,union_k45,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) pair of points
+
+Question 3
+
+The answer is A) 10/e
+
+Question 4
+
+The answer is A) (9/10)^k",30,10,20,40
+62,1,4,20-30-40-10,union_k45,1,False,20,True,20,A,A,"1
+
+The correct answer is (A) f is one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k45,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360/6 = 60. The standard deviation is sqrt(360*1/6*5/6) = 5.83. The z",40,10,30,20
+64,1,4,30-20-10-40,union_k45,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k45,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k45,1,False,40,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isTheVolume=2π∫0π/2sinxdx=2π[-cosx]0π/2=2π[1+1]=2π
+
+ThereforeTheVolume=2π
+
+The answerisC2π
+
+TheVolume",40,10,30,20
+67,1,4,40-20-10-30,union_k45,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k45,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=",20,40,10,30
+69,1,4,40-20-10-30,union_k45,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. ThereforeThe set of points satisfying z^2 = |z|^2 correspondsToThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+70,1,4,10-20-30-40,union_k45,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k45,1,False,20,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",20,10,30,40
+72,1,4,20-40-30-10,union_k45,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k45,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4A",30,20,40,10
+74,1,4,20-30-10-40,union_k45,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",20,30,10,40
+75,1,4,30-40-10-20,union_k45,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k45,1,False,20,False,0,A,D,"1A
+
+The order of G could be 20.
+
+2B
+
+The set of points satisfying z^2 = |z|^2 is a circle.
+
+3A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+4A
+
+If C is false, then If A is true, then B is false.",20,30,10,40
+77,1,5,10-40-20-30,union_k45,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)",10,40,20,30
+78,1,5,40-30-10-20,union_k45,1,False,40,False,0,,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2",40,30,10,20
+79,1,5,30-40-10-20,union_k45,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1.",30,40,10,20
+80,1,5,30-10-20-40,union_k45,1,False,30,False,0,,B,"1A
+
+2B
+
+3C
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k45,2,False,20,False,0,,D,"2
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2 = |z|^2 correspondsTo |z| = 1. This meansThe setThesetTheset",10,20,40,30
+82,1,5,10-30-20-40,union_k45,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",10,30,20,40
+83,1,5,30-40-20-10,union_k45,2,False,40,True,40,A,A,"2
+The probability that 0 will not be chosen is (9/10)^k. ThereforeThe answer is A.",30,40,20,10
+84,1,5,10-40-20-30,union_k45,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫π/20sinxdx = 2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answerisC2π",10,40,20,30
+85,1,5,20-40-30-10,union_k45,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating zdydx over the region bounded by y = x^2, y = 2 - x^2. The limits of integration are 0 ≤ x ≤ 1",20,40,30,10
+86,1,5,20-40-10-30,union_k45,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+87,1,5,10-30-20-40,union_k45,2,False,30,True,30,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,30,20,40
+88,1,5,30-20-10-40,union_k45,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k45,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The function g ∘ f : S -> U is one-to-one (injective) implies (A) f is one-to-one.
+
+3
+
+The volume of the solid bounded by the surfaces y",40,10,20,30
+90,1,5,20-40-10-30,union_k45,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k45,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k45,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k45,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,20,40,30
+94,1,5,40-20-10-30,union_k45,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|.
+
+Therefore, The set of points satisfying z^2 = |z|^2 is A) pair of points.",40,20,10,30
+95,1,5,20-10-30-40,union_k45,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$.
+
+Therefore $b = \ln10 = \ln10$.
+
+The answer is $\boxed{\text{(C) }",20,10,30,40
+96,1,5,10-20-40-30,union_k45,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must also be roots",10,20,40,30
+1,1,1,30-20-40-10,union_k50,3,False,40,False,0,,B,"3
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV=2πThevolumeV",30,20,40,10
+2,1,1,10-30-40-20,union_k50,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. 20
+
+Question 3
+
+The answer is A. pair of points
+
+Question 4
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10",10,30,40,20
+3,1,1,30-20-10-40,union_k50,1,False,30,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2,",30,20,10,40
+4,1,1,20-30-40-10,union_k50,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by V = ∫[0,π] πsin^2xdx
+
+= [π/2]sin2x|_0^π
+
+= π/2
+
+ThereforeThe answer is (B) π^2/",20,30,40,10
+5,1,1,20-10-40-30,union_k50,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2 and y = 2 - x^2 is symmetric about the x-axis. The intersection points occur",20,10,40,30
+6,1,1,10-40-30-20,union_k50,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k50,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",40,20,30,10
+8,1,1,20-10-40-30,union_k50,3,False,40,False,0,A,B,"Question 3
+
+The correct answer is (A) If A is true, then B is false.",20,10,40,30
+9,1,1,10-40-30-20,union_k50,1,False,10,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2. ThereforeThe answerisB.",10,40,30,20
+10,1,1,20-10-40-30,union_k50,1,False,20,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating
+
+The volume = ∫∫∫dV
+
+The limits of integration are 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2",20,10,40,30
+11,1,1,20-30-40-10,union_k50,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπisπ^2/2.",20,30,40,10
+12,1,1,40-30-20-10,union_k50,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is C
+
+Question 3
+
+The number",40,30,20,10
+13,1,1,30-40-10-20,union_k50,2,False,40,True,40,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one (injective) because g ∘ f = g ∘ f implies f = f. Therefore, f must be one-toOne.",30,40,10,20
+14,1,1,20-40-30-10,union_k50,2,False,40,False,0,B,A,"2
+
+The value of b is 10e.",20,40,30,10
+15,1,1,40-20-10-30,union_k50,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A) 1
+
+The answer is A",40,20,10,30
+16,1,1,10-40-30-20,union_k50,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ+cos0]=2π[1+1]=2π
+
+ThereforeTheVolumeV=",10,40,30,20
+17,1,1,30-10-40-20,union_k50,1,False,30,False,0,C,D,"3C
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.",30,10,40,20
+18,1,1,20-30-10-40,union_k50,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are 0",20,30,10,40
+19,1,1,30-10-40-20,union_k50,1,False,30,False,0,,D,"1
+
+The order of G could be 20.",30,10,40,20
+20,1,2,40-30-10-20,union_k50,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.19",40,30,10,20
+21,1,2,20-10-40-30,union_k50,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k50,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k50,1,False,10,False,0,,A,"1A
+
+The function g ∘ f : S -> U is one-to-one (injective) implies that f must be one-to-one (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",10,20,30,40
+24,1,2,20-40-10-30,union_k50,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbyV=∫π0π2sinxdx=2π
+
+ThereforeTheVolumeV=2π
+
+HenceTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π",20,40,10,30
+25,1,2,10-30-20-40,union_k50,2,False,30,True,30,A,A,"2
+A) (9/10)^k",10,30,20,40
+26,1,2,10-30-40-20,union_k50,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",10,30,40,20
+27,1,2,30-10-20-40,union_k50,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",30,10,20,40
+28,1,2,10-30-20-40,union_k50,2,False,30,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2πsinxdx=π∫π/20sinxdx=π[-cosx]π/20=π[1-0]=π
+
+ThereforeThe",10,30,20,40
+29,1,2,40-20-30-10,union_k50,1,False,40,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by 0 ≤ x ≤ 1, 0 ≤ y ≤ 2 - x^2, 0",40,20,30,10
+30,1,2,30-40-20-10,union_k50,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) If A is true, then B is false.
+
+Question 3
+
+The answer is B) 20
+
+Question 4
+
+The answer is A) f is one-to-one.",30,40,20,10
+31,1,2,40-10-30-20,union_k50,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The volume of the generated solid is (A) π^2 / 2
+
+3
+
+The set of points satisfying the equation z^2 = |z|^2 is a (B) circle",40,10,30,20
+32,1,2,10-30-40-20,union_k50,2,False,30,True,30,A,A,"2
+
+The answer is A. If g ∘ f : S -> U is one-to-one (injective), then f must be one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k50,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",30,20,40,10
+34,1,2,30-10-40-20,union_k50,1,False,30,True,30,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The probability that 0 will not be chosen is (A) (9/10)^k
+
+3
+
+The probability thata six comes upon70ormoreofthe tossesis",30,10,40,20
+35,1,2,20-30-40-10,union_k50,1,False,20,False,0,D,A,"Question 1
+
+The answer is D) 4
+
+To findthe numberofstudents enrolledinallthreecourses,wecanusethePrincipleofInclusionExclusion.
+
+LetA=theeventthatastudentisEnrolledinRealAnalysisB=theeventthatastudentisEnrolledinDifferentialEquationsC=theeventthatastudentisEnrolledinLinearAlgebra",20,30,40,10
+36,1,2,30-10-20-40,union_k50,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. If g ∘ f : S -> U is one-toone (injective), then f must be one-toone (injective) because g ∘ f = g(f(⋅)) = g(⋅) ∘ f = (g ∘ f)(⋅) = (g ∘ g)(⋅) = (g ∘ g",30,10,20,40
+37,1,2,40-30-10-20,union_k50,1,False,40,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",40,30,10,20
+38,1,2,20-10-30-40,union_k50,1,False,20,True,20,A,A,"1A
+
+The function g ∘ f : S -> U is injective implies f must be injective. Therefore, (A) f is one-to-one.
+
+2A
+
+The line y = 10x is tangent to y = e^(bx) if 10 = b*10. Therefore, b = 1/10. The closest match is (A",20,10,30,40
+39,1,3,30-40-10-20,union_k50,2,False,40,False,0,,C,"2
+
+The volume of the solid bounded by y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of",30,40,10,20
+40,1,3,40-20-30-10,union_k50,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k50,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",30,40,20,10
+42,1,3,40-20-30-10,union_k50,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(0) = 3 - x^2 + x^2 = 3 over the region bounded by y = x^2 and y = 2",40,20,30,10
+43,1,3,10-40-20-30,union_k50,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. If A is true, then B is false.
+
+Question 3
+
+The answer is B. 20
+
+Question 4
+
+The answer is A. π^2 / 4",10,40,20,30
+44,1,3,20-10-30-40,union_k50,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$",20,10,30,40
+45,1,3,20-30-10-40,union_k50,2,False,30,False,0,,A,"2
+
+The function g ∘ f : S -> U is one-to-one (injective). Therefore, f must be one-toone.",20,30,10,40
+46,1,3,30-20-10-40,union_k50,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k50,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - (2 + i))(x - (2 - i))(x - (1 - i))(x - (1 + i",40,10,30,20
+48,1,3,40-10-20-30,union_k50,1,False,40,False,0,A,B,"1
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has roots 2 + i, 2 - i, 1 - i. ThereforeTheAnswerIsA
+
+2
+The finite group G contains a subgroup H = {e}x{1}x{2}x{3}x{4}x{5",40,10,20,30
+49,1,3,40-30-20-10,union_k50,1,False,40,False,0,B,A,"1
+
+The value of b is 10e.",40,30,20,10
+50,1,3,30-20-40-10,union_k50,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k50,1,False,30,False,0,A,B,"1A
+
+The correct answer is (A) If A is true, then B is false. 
+
+Since C is true if exactly one of A and B is true, If C is false, then A and B must both be false. Therefore If A is true, then B must be false.",30,40,20,10
+52,1,3,40-30-20-10,union_k50,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = 0. This is because |z|^2 = z*conj(z) = z*z = z^2. Therefore, z^2 = |z|^2 implies z^2 = z^2, which means z = 0. The set {0",40,30,20,10
+53,1,3,40-30-20-10,union_k50,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k50,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k50,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k50,2,False,20,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,20,30,40
+57,1,3,40-30-10-20,union_k50,1,False,40,True,40,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",40,30,10,20
+58,1,4,30-10-40-20,union_k50,1,False,30,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm 1$.
+
+ThereforeThe answer is (A) pair of points.",30,10,40,20
+59,1,4,10-20-40-30,union_k50,2,False,20,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",10,20,40,30
+60,1,4,10-20-30-40,union_k50,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2sin2xdx=2∫π/20π/2sinxdx=2[−cosx]π/20=2(−cosπ/",10,20,30,40
+61,1,4,30-10-20-40,union_k50,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 1
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k50,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) f is one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k50,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,10,30,20
+64,1,4,30-20-10-40,union_k50,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k50,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k50,1,False,40,False,0,,B,"1A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2.",40,10,30,20
+67,1,4,40-20-10-30,union_k50,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is D) 0.01
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is A) (9/10)^k",40,20,10,30
+68,1,4,20-40-10-30,union_k50,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusTheVolumeV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]=2π[1−(−1)]=",20,40,10,30
+69,1,4,40-20-10-30,union_k50,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set |z| = 1is Acircle.
+
+2A
+
+The volume V = ∫∫∫dxdydz = ∫∫(2x^2 + 3)dydx = ∫(2x^2 + 3",40,20,10,30
+70,1,4,10-20-30-40,union_k50,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k50,1,False,20,False,0,B,A,"1
+
+The value of b is 10e.",20,10,30,40
+72,1,4,20-40-30-10,union_k50,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k50,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k50,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",20,30,10,40
+75,1,4,30-40-10-20,union_k50,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k50,2,False,30,False,0,A,D,"2
+
+The set of points satisfying the equation z^2 = |z|^2 is a circle. ThereforeThe answer is (B)Circle.",20,30,10,40
+77,1,5,10-40-20-30,union_k50,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom x = 0to x = π/2isgivenbytheVolumeTheoremofSimpsonV =∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx=∫π/20sinxdx",10,40,20,30
+78,1,5,40-30-10-20,union_k50,1,False,40,False,0,,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2",40,30,10,20
+79,1,5,30-40-10-20,union_k50,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. π^2 / 2
+
+Question 3
+
+The answer is A. 8/3
+
+Question 4
+
+The answer is A. 10/e",30,40,10,20
+80,1,5,30-10-20-40,union_k50,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k50,2,False,20,False,0,A,D,"2B
+
+The equation z^2 = |z|^2 represents a circle centered at the origin with radius 1.",10,20,40,30
+82,1,5,10-30-20-40,union_k50,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",10,30,20,40
+83,1,5,30-40-20-10,union_k50,1,False,30,False,0,,B,"1
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2is V = ∫π/20π/2πsinxdx = π2/2. ThereforeThe answerisB.",30,40,20,10
+84,1,5,10-40-20-30,union_k50,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫π/20sinxdx = 2π[−cosx]π/20=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeThe answerisC2π",10,40,20,30
+85,1,5,20-40-30-10,union_k50,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating zdydx over the region bounded by y = x^2, y = 2 - x^2. The limits of integration are 0 ≤ x ≤ 1",20,40,30,10
+86,1,5,20-40-10-30,union_k50,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in Real Analysis}, B = {students enrolled in Differential Equations}, C = {students enrolled in Linear Algebra}
+
+We know |A| = 41, |B| = 4",20,40,10,30
+87,1,5,10-30-20-40,union_k50,2,False,30,True,30,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,30,20,40
+88,1,5,30-20-10-40,union_k50,1,False,30,False,0,,C,"1
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k50,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The function g ∘ f : S -> U is one-to-one (injective) implies (A) f is one-to-one.
+
+3
+
+The volume of the solid bounded by the surfaces y",40,10,20,30
+90,1,5,20-40-10-30,union_k50,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k50,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k50,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k50,2,False,20,True,20,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate complex roots 2 - i and 1 + i",10,20,40,30
+94,1,5,40-20-10-30,union_k50,1,False,40,False,0,,D,"Question 1
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±|z|.
+
+The equation z = ±|z| represents two lines passing through the origin.
+
+ThereforeThe answer is (D)Line.",40,20,10,30
+95,1,5,20-10-30-40,union_k50,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$.
+
+Therefore $b = \ln10 = \ln10$.
+
+So $b = \ln10$.
+
+Therefore",20,10,30,40
+96,1,5,10-20-40-30,union_k50,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate 2 - i must also be a root. The polynomial f(x",10,20,40,30
+1,1,1,30-20-40-10,union_k54,1,False,30,False,0,A,B,"Question 1
+
+Answer: A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+2,1,1,10-30-40-20,union_k54,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A. 1
+
+The answer is A",10,30,40,20
+3,1,1,30-20-10-40,union_k54,1,False,30,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y +",30,20,10,40
+4,1,1,20-30-40-10,union_k54,1,False,20,False,0,,B,"Question 1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0to π/2isThe volume generated by revolvingthe curve y = sinxaroundthe x-axisfrom 0to π/2isThe volume generatedbyrevolvingthecurve y = sinxaroundthe x-axisfrom 0to π/2isThe volume generatedbyrevolving",20,30,40,10
+5,1,1,20-10-40-30,union_k54,1,False,20,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2 and y = 2 - x^2 is symmetric about the x-axis. The intersection points occur",20,10,40,30
+6,1,1,10-40-30-20,union_k54,2,False,40,True,40,B,B,"2
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must",10,40,30,20
+7,1,1,40-20-30-10,union_k54,1,False,40,False,0,,C,"1
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of integration are",40,20,30,10
+8,1,1,20-10-40-30,union_k54,1,False,20,False,0,,D,"Question 1
+
+The equation $z^2 = |z|^2$ implies $|z|^2 = |z|^2$.
+
+This means $z^2 = |z|^2$.
+
+The solution set consists of $z = 0$.
+
+ThereforeThe solution set consists of $z = 0$.
+
+ThereforeThe solution set consists of $z = 0$.",20,10,40,30
+9,1,1,10-40-30-20,union_k54,1,False,10,False,0,,B,"1
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2isπ^2/2. ThereforeThe answerisB.",10,40,30,20
+10,1,1,20-10-40-30,union_k54,3,False,40,False,0,B,A,"Question 3
+
+The value of b is 10e.",20,10,40,30
+11,1,1,20-30-40-10,union_k54,1,False,20,False,0,A,B,"Question 1
+
+Answer: A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπisπ^2/2.",20,30,40,10
+12,1,1,40-30-20-10,union_k54,1,False,40,True,40,A,A,"Question 1
+
+The probability that 0 will not be chosen = 1 - (1/10)^k
+
+ThereforeThe answer is A) (9/10)^k
+
+Question 2
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 3
+
+ThereforeThe answer is",40,30,20,10
+13,1,1,30-40-10-20,union_k54,2,False,40,True,40,A,A,"2
+
+The function $g\circ f$ being one-to-one implies that $f$ must be one-to-one. Therefore, (A) $f$ is one-toone.",30,40,10,20
+14,1,1,20-40-30-10,union_k54,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",20,40,30,10
+15,1,1,40-20-10-30,union_k54,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",40,20,10,30
+16,1,1,10-40-30-20,union_k54,2,False,40,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−1)]2",10,40,30,20
+17,1,1,30-10-40-20,union_k54,1,False,30,False,0,C,D,"3C
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is false, then B must be true.",30,10,40,20
+18,1,1,20-30-10-40,union_k54,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",20,30,10,40
+19,1,1,30-10-40-20,union_k54,1,False,30,False,0,B,D,"Question 1
+
+The answer is B) 20
+
+The order of G could be 20. If G contains a subgroup H of order 5, then |G|/|H| = |G|/5. Since |G|/|H| must be an integer, |G|/5 = 1,2,3,4,5,1",30,10,40,20
+20,1,2,40-30-10-20,union_k54,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The expected number of sixes is 360/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7735.",40,30,10,20
+21,1,2,20-10-40-30,union_k54,1,False,20,True,20,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) greater than 0.50
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x + 10",20,10,40,30
+22,1,2,10-40-30-20,union_k54,2,False,40,False,0,B,A,"2
+
+The value of b is 10.",10,40,30,20
+23,1,2,10-20-30-40,union_k54,1,False,10,False,0,,A,"1A
+
+The function g ∘ f : S -> U is one-to-one (injective) implies that f must be one-to-one (injective) because Ifg ∘ fisinjective,thenfmustbeinjective.",10,20,30,40
+24,1,2,20-40-10-30,union_k54,2,False,40,False,0,,B,"Question 2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheformulaV=∫π0π2sinxdx=2π
+
+ThereforeTheVolumeV=2π
+
+HenceTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolumeV=2π
+
+ThereforeTheVolume",20,40,10,30
+25,1,2,10-30-20-40,union_k54,1,False,10,False,0,B,D,"Question 1
+
+The answer is B) 20
+
+The order of G could be 20.",10,30,20,40
+26,1,2,10-30-40-20,union_k54,1,False,10,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",10,30,40,20
+27,1,2,30-10-20-40,union_k54,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16
+
+Question 2
+
+The answer is (A) If A is true, then B is false.
+
+Question 3
+
+The answer is (A) 1
+
+Question 4
+
+The answer is (B) x^4 - 6x^3 + 15x",30,10,20,40
+28,1,2,10-30-20-40,union_k54,2,False,30,False,0,,B,"2
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/22πsin2xdx=2π∫π/20sin2xdx=2π[−cos2x]π/20=2π[",10,30,20,40
+29,1,2,40-20-30-10,union_k54,1,False,40,False,0,,C,"1A
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = 1 over the region R defined by x^2 <= y <= 2 - x^2, 0 <= z <= y +",40,20,30,10
+30,1,2,30-40-20-10,union_k54,1,False,30,True,30,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",30,40,20,10
+31,1,2,40-10-30-20,union_k54,1,False,40,False,0,A,B,"1
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has 2 + i, 1 - i, 1 + i, 1 - i as roots. ThereforeThe answer is (A) x^3 + 5x^2 + 4x + 1.",40,10,30,20
+32,1,2,10-30-40-20,union_k54,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+33,1,2,30-20-40-10,union_k54,3,False,40,False,0,,C,"Question 3
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The limits of integration are -1",30,20,40,10
+34,1,2,30-10-40-20,union_k54,2,False,10,True,10,A,A,"1A
+
+The polynomial f(x) = (x - (2 + i))(x - (1 - i)) = x^2 - 3x + 5
+
+Therefore f(1) = 1^2 - 3*1 + 5 = 3
+
+So f(1) = 3
+
+Therefore The answer is A
+
+2A
+
+The probability that",30,10,40,20
+35,1,2,20-30-40-10,union_k54,1,False,20,False,0,D,A,"Question 1
+
+The answer is D) 4
+
+To findthe numberofstudents enrolledinallthreecourses,wecanusethePrincipleofInclusionExclusion
+
+ThePrincipleofInclusionExclusionstatesthatTheNumberofElementsInAllThreeSets=NumberInFirstSet+NumberInSecondSet+NumberInThirdSetNumberInFirstSet∩SecondSet+NumberInFirst",20,30,40,10
+36,1,2,30-10-20-40,union_k54,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. If g ∘ f : S -> U is one-toone (injective), then f must be one-toone (injective) because g ∘ f = g(f(⋅)) = g(⋅) ∘ f = (g ∘ f)(⋅) = (g ∘ f)(⋅) = (g ∘ f",30,10,20,40
+37,1,2,40-30-10-20,union_k54,1,False,40,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",40,30,10,20
+38,1,2,20-10-30-40,union_k54,1,False,20,False,0,,A,"1A
+
+The function g ∘ f : S -> U is one-to-one (injective) implies that f must be one-to-one (injective) because If f were onto, there would exist elements x1, x2 ∈ S suchthat f(x1) = f(x2) = y ∈ T, implying g(y) = g(f(x1)) = g( f",20,10,30,40
+39,1,3,30-40-10-20,union_k54,2,False,40,False,0,,C,"2
+The volume of the solid bounded by y = x^2, y = 2 - x^2, z = 0, z = y + 3 is 16/3.",30,40,10,20
+40,1,3,40-20-30-10,union_k54,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,20,30,10
+41,1,3,30-40-20-10,union_k54,1,False,30,False,0,,B,"1A
+
+2A
+
+3B
+
+4A",30,40,20,10
+42,1,3,40-20-30-10,union_k54,1,False,40,False,0,,C,"Question 1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z =",40,20,30,10
+43,1,3,10-40-20-30,union_k54,1,False,10,True,10,A,A,"Question 1
+
+The answer is A. 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",10,40,20,30
+44,1,3,20-10-30-40,union_k54,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to the curve $y = e^{bx}$ if $10 = be^{bx}$
+
+The derivative $y' = 10$ 
+
+$e^{bx} = 1$ 
+
+$bx = 0$ 
+
+$b = 0$ 
+
+Therefore $A$",20,10,30,40
+45,1,3,20-30-10-40,union_k54,1,False,20,False,0,,D,"1A
+
+2A
+
+3A
+
+4B",20,30,10,40
+46,1,3,30-20-10-40,union_k54,1,False,30,True,30,C,C,"Question 1
+
+The answer is (C) 11/36. The probability of rolling a 6 exactly 70 times out of 360 rolls is 11/36.",30,20,10,40
+47,1,3,40-10-30-20,union_k54,1,False,40,False,0,,B,"Question 1
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate root 2 - i must also be a root. The polynomial f(x) = (x - 2 - i)(x - 2 + i)(x - 1 + i)(x - 1 - i",40,10,30,20
+48,1,3,40-10-20-30,union_k54,1,False,40,False,0,A,B,"1
+
+The polynomial f(x) = x^3 + 5x^2 + 4x + 1 has 2 + i, 1 - i, 1 + i as roots. ThereforeThe answer is (A) x^3 + 5x^2 + 4x + 1.",40,10,20,30
+49,1,3,40-30-20-10,union_k54,1,False,40,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",40,30,20,10
+50,1,3,30-20-40-10,union_k54,1,False,30,False,0,C,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.
+
+3A
+
+The derivative of y = e^(bx) is y' = be^(bx). Setting y' = 10",30,20,40,10
+51,1,3,30-40-20-10,union_k54,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,40,20,10
+52,1,3,40-30-20-10,union_k54,1,False,40,False,0,A,D,"Question 1
+
+Answer: A
+
+The set of points satisfying z^2 = |z|^2 corresponds to z = ±1. Therefore, The setofpointsisapairofpoints.",40,30,20,10
+53,1,3,40-30-20-10,union_k54,1,False,40,True,40,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+Question 3
+
+The answer is A. 10/e
+
+Question 4
+
+The answer is A. (9/10)^k",40,30,20,10
+54,1,3,40-10-20-30,union_k54,1,False,40,False,0,A,C,"1A
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.7",40,10,20,30
+55,1,3,40-10-20-30,union_k54,1,False,40,False,0,A,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ is a circle.
+
+ThereforeThe answer is (B)Circle.",40,10,20,30
+56,1,3,10-20-30-40,union_k54,2,False,20,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2is V = 2π∫_0^(π/2)sinxdx = 2π[-cosx]_0^(π/2) = 2π[1-0] = 2π
+
+ThereforeThe answer is (",10,20,30,40
+57,1,3,40-30-10-20,union_k54,1,False,40,True,40,C,C,"Question 1
+
+The answer is (C) between 0.02 and 0.16.",40,30,10,20
+58,1,4,30-10-40-20,union_k54,1,False,30,False,0,,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = \pm|z|$. This means $z$ lies on the unit circle $|z| = 1$.
+
+ThereforeThe answer is (B)Circle.",30,10,40,20
+59,1,4,10-20-40-30,union_k54,2,False,20,False,0,,C,"2
+
+The volume V of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x) = z - 0 = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y =",10,20,40,30
+60,1,4,10-20-30-40,union_k54,1,False,10,False,0,,B,"2B
+
+The volume V generated by revolving the curve y = sinx around the x-axisfrom x = 0tox = π/2isgivenbythe integralV = ∫π/20π/2sin2xdx=2∫π/20π/2sinxdx=2[−cosx]π/20=2[−cos(",10,20,30,40
+61,1,4,30-10-20-40,union_k54,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. 1
+
+Question 2
+
+The answer is A. 2
+
+Question 3
+
+The answer is A. 10
+
+Question 4
+
+The answer is A. 9/10^k",30,10,20,40
+62,1,4,20-30-40-10,union_k54,1,False,20,True,20,A,A,"1A
+
+The correct answer is A. If g ∘ f : S -> U is one-toone (injective), then f must be one-toone (injective) because g ∘ f = g ∘ f implies f(α) = f(β) implies α = β. Therefore, f must be one-toone.",20,30,40,10
+63,1,4,40-10-30-20,union_k54,1,False,40,False,0,A,C,"Question 1
+
+The probability that a six comes up 70 or more times out of 360 tosses can be calculated using the binomial distribution. The mean number of sixes expected is 360 * 1/6 = 60. The standard deviation is sqrt(360 * 1/6 * 5/6) = 5.",40,10,30,20
+64,1,4,30-20-10-40,union_k54,1,False,30,False,0,,D,"1A
+
+The order of G could be 20.",30,20,10,40
+65,1,4,20-40-30-10,union_k54,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,30,10
+66,1,4,40-10-30-20,union_k54,1,False,40,False,0,,B,"1A
+
+The volume generated by revolving the curve y = sinx around the x-axisfrom 0toπ/2is2π∫0π/2sinxdx=2π[−cosx]0π/2=2π(−cosπ/2+cos0)=2π(1−0)=2π
+
+ThereforeTheVolume=2π
+
+ThereforeThe",40,10,30,20
+67,1,4,40-20-10-30,union_k54,1,False,40,True,40,A,A,"Question 1
+
+The answer is A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",40,20,10,30
+68,1,4,20-40-10-30,union_k54,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫0πsinxdx = 2π[−cosx]0π=2π(−cosπ+cos0)=2π(1+1)=2π(2)=4π
+
+ThereforeTheVolume=2π
+
+The",20,40,10,30
+69,1,4,40-20-10-30,union_k54,2,False,20,False,0,,C,"1A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe setThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThesetThe",40,20,10,30
+70,1,4,10-20-30-40,union_k54,1,False,10,True,10,A,A,"Question 1
+
+The answer is A) 1
+
+Question 2
+
+The answer is A) (9/10)^k
+
+Question 3
+
+The answer is A) If A is true, then B is false.
+
+Question 4
+
+The answer is B) x^4 - 6x^3 + 15x^2 - 18x +",10,20,30,40
+71,1,4,20-10-30-40,union_k54,1,False,20,False,0,,A,"1
+
+The line y = 10x is tangent to the curve y = e^(bx) if The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative The derivative The derivative
+
+The derivative The derivative",20,10,30,40
+72,1,4,20-40-30-10,union_k54,2,False,40,False,0,B,D,"Question 2
+
+The answer is B) 20.",20,40,30,10
+73,1,4,30-20-40-10,union_k54,1,False,30,False,0,A,B,"1A
+
+The correct answer is A. If C is false, then exactly one of A and B must be false. Therefore, If A is true, then B must be false.",30,20,40,10
+74,1,4,20-30-10-40,union_k54,2,False,30,False,0,,C,"2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 - 0 = y + 3 over the region bounded by y = x^2 and y = 2 - x^2. The",20,30,10,40
+75,1,4,30-40-10-20,union_k54,1,False,30,True,30,A,A,"Question 1
+
+The answer is A. f is one-toone.",30,40,10,20
+76,1,4,20-30-10-40,union_k54,1,False,20,False,0,A,D,"1A
+
+The order of G could be 20.
+
+2B
+
+The set of points satisfying z^2 = |z|^2 is a circle.
+
+3A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+4A
+
+If C is false, then If A is true, then B is false.",20,30,10,40
+77,1,5,10-40-20-30,union_k54,2,False,40,False,0,,B,"2
+
+The volume V of the solid generated by revolving the curve y = sinx around the x-axisfrom 0toπisgivenbytheVolumeTheoremofPappusV=2π∫0πsinxdx=2π[−cosx]0π=2π[−cosπ−(−cos0)]2π=2π[1−(−",10,40,20,30
+78,1,5,40-30-10-20,union_k54,1,False,40,False,0,,A,"1A
+
+The probability that 0 will not be chosen is (9/10)^k.
+
+2A
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2",40,30,10,20
+79,1,5,30-40-10-20,union_k54,1,False,30,False,0,D,A,"Question 1
+
+The answer is D) 4
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in real analysis}, B = {students enrolled in differential equations}, C = {students enrolled in linear algebra}
+
+We know |A| = 41, |B| = 44,",30,40,10,20
+80,1,5,30-10-20-40,union_k54,1,False,30,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",30,10,20,40
+81,1,5,10-20-40-30,union_k54,2,False,20,False,0,,D,"2B
+
+The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This means The set of points satisfying z^2 = |z|^2 corresponds to |z| = 1. This meansThe set of points satisfying z^2 = |z|^2 correspondsTo |z| = 1. This meansThe setThesetThe",10,20,40,30
+82,1,5,10-30-20-40,union_k54,2,False,30,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function f(x,y) = z = y + 3 over the region R defined by x^2 <= y <= 2 - x^2. The limits of",10,30,20,40
+83,1,5,30-40-20-10,union_k54,1,False,30,False,0,,B,"1A
+
+The volume generated by revolving the curve y = sinx around the x-axis can be found using the disk method. The volume V is given by V = ∫[0,π] πsin^2x dx = π∫[0,π] (1 - cos2x) dx = π[ x - 1/2 sin2x ][0,π",30,40,20,10
+84,1,5,10-40-20-30,union_k54,2,False,40,False,0,,B,"2
+The volume V generated by revolving the curve y = sinx around the x-axisfrom 0toπis V = 2π∫0πsinxdx = 2π[−cosx]0π=2π(−cosπ+cos0)=2π(1+1)=2π(2)=4π
+
+ThereforeTheVolume=π2
+
+The",10,40,20,30
+85,1,5,20-40-30-10,union_k54,2,False,40,False,0,,C,"Question 2
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating the function z = y + 3 over the region bounded by y = x^2 and y = 2 - x^2.
+
+The limits of integration for x are",20,40,30,10
+86,1,5,20-40-10-30,union_k54,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1
+
+To find the number of students enrolled in all three courses, we can use the principle of inclusion-exclusion.
+
+Let A = {students enrolled in Real Analysis}, B = {students enrolled in Differential Equations}, C = {students enrolled in Linear Algebra}
+
+We know |A| = 41, |B| = 4",20,40,10,30
+87,1,5,10-30-20-40,union_k54,1,False,10,False,0,,B,"1A
+
+2B
+
+3A
+
+4B",10,30,20,40
+88,1,5,30-20-10-40,union_k54,1,False,30,False,0,,C,"1
+
+The volume of the solid bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3 can be found by integrating over the region defined by these surfaces.
+
+The region bounded by y = x^2, y = 2 - x^2, z = 0, and z = y +",30,20,10,40
+89,1,5,40-10-20-30,union_k54,1,False,40,True,40,B,B,"1
+
+The polynomial f(x) could be (B) x^4 - 6x^3 + 15x^2 - 18x + 10
+
+2
+
+The function g ∘ f : S -> U is one-to-one (injective) implies (A) f is one-to-one.
+
+3
+
+The volume of the solid bounded by the surfaces y",40,10,20,30
+90,1,5,20-40-10-30,union_k54,2,False,40,True,40,A,A,"Question 2
+
+The answer is (A) 1.",20,40,10,30
+91,1,5,10-40-20-30,union_k54,2,False,40,False,0,A,B,"2
+
+The correct answer is (A) If A is true, then B is false.",10,40,20,30
+92,1,5,10-30-40-20,union_k54,2,False,30,True,30,A,A,"2
+
+The correct answer is (A) f is one-to-one.",10,30,40,20
+93,1,5,10-20-40-30,union_k54,4,False,30,False,0,,C,"2B
+
+The polynomial f(x) = x^4 - 6x^3 + 15x^2 - 18x + 10 has roots 2 + i, 2 - i, 1 + i, 1 - i. Therefore, f(2) = 0, f(-1) = 0, f(-2) =",10,20,40,30
+94,1,5,40-20-10-30,union_k54,1,False,40,False,0,,D,"Question 1
+
+The set of points satisfying $z^2 = |z|^2$ corresponds to $z = 0$ (since $|z|^2 = 0^2 = 0$)or $z = \pm 1$ (since $|z|^2 = 1^2 = 1$).ThereforeTheAnswerIsA
+
+Question 2",40,20,10,30
+95,1,5,20-10-30-40,union_k54,1,False,20,False,0,B,A,"1
+
+The line $y = 10x$ is tangent to $y = e^{bx}$ if $10 = e^{b\cdot1}$. Taking $\ln$ of both sides gives $\ln10 = b\cdot1$.
+
+Therefore $b = \ln10 = \ln10$.
+
+So $b = \ln10$.
+
+Therefore",20,10,30,40
+96,1,5,10-20-40-30,union_k54,2,False,20,True,20,B,B,"Question 2
+
+The answer is B. x^4 - 6x^3 + 15x^2 - 18x + 10
+
+The roots 2 + i and 1 - i are complex conjugates. The polynomial f(x) must have real coefficients. Therefore, The conjugate roots 2 - i and 1 + i must also be roots",10,20,40,30

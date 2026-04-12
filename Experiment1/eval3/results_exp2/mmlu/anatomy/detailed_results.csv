@@ -1,0 +1,2510 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,40-30-10-20,baseline,1,False,40,True,40,C,C,1. C,40,30,10,20
+2,1,1,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+3,1,1,10-40-20-30,baseline,2,False,40,False,0,D,C,"2
+D",10,40,20,30
+4,1,1,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+5,1,1,30-20-40-10,baseline,1,False,30,True,30,B,B,1. B,30,20,40,10
+6,1,1,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+7,1,1,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+8,1,1,10-20-30-40,baseline,1,False,10,False,0,D,C,1. D,10,20,30,40
+9,1,1,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+10,1,1,30-10-20-40,baseline,1,False,30,True,30,D,D,"1
+D",30,10,20,40
+11,1,1,20-30-10-40,baseline,2,False,30,False,0,B,A,"2
+B",20,30,10,40
+12,1,1,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+13,1,1,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+14,1,1,40-20-10-30,baseline,1,False,40,False,0,B,A,1. B,40,20,10,30
+15,1,1,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D,30,10,20,40
+16,1,1,30-40-20-10,baseline,1,False,30,True,30,D,D,1. D,30,40,20,10
+17,1,1,10-20-40-30,baseline,2,False,20,True,20,B,B,"2
+B",10,20,40,30
+18,1,1,30-40-20-10,baseline,2,False,40,False,0,B,A,"2
+B",30,40,20,10
+19,1,1,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D. Homeostasis,30,40,10,20
+20,1,2,10-20-40-30,baseline,2,False,20,False,0,B,A,"2
+B",10,20,40,30
+21,1,2,40-20-30-10,baseline,1,False,40,False,0,D,B,1. D,40,20,30,10
+22,1,2,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+23,1,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+24,1,2,40-20-10-30,baseline,1,False,40,False,0,D,C,1. D,40,20,10,30
+25,1,2,20-40-10-30,baseline,2,False,40,False,0,D,B,"2
+D",20,40,10,30
+26,1,2,20-10-40-30,baseline,1,False,20,False,0,B,A,"1
+B",20,10,40,30
+27,1,2,40-20-30-10,baseline,1,False,40,False,0,B,C,1. B,40,20,30,10
+28,1,2,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+29,1,2,20-30-40-10,baseline,2,False,30,False,0,D,C,"2
+D",20,30,40,10
+30,1,2,40-10-30-20,baseline,1,False,40,False,0,D,C,1. D,40,10,30,20
+31,1,2,40-30-10-20,baseline,1,False,40,False,0,D,C,1. D,40,30,10,20
+32,1,2,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+33,1,2,20-10-30-40,baseline,1,False,20,False,0,D,B,"1
+D",20,10,30,40
+34,1,2,20-40-30-10,baseline,2,False,40,False,0,D,C,"2
+D",20,40,30,10
+35,1,2,10-30-20-40,baseline,1,False,10,False,0,D,C,1. D,10,30,20,40
+36,1,2,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+37,1,2,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+38,1,2,40-20-10-30,baseline,1,False,40,False,0,B,C,1. B,40,20,10,30
+39,1,3,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+40,1,3,10-20-30-40,baseline,1,False,10,False,0,D,C,1. D,10,20,30,40
+41,1,3,40-20-30-10,baseline,1,False,40,False,0,B,A,1. B,40,20,30,10
+42,1,3,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+43,1,3,20-40-30-10,baseline,2,False,40,False,0,D,C,"2
+D",20,40,30,10
+44,1,3,20-40-30-10,baseline,1,False,20,False,0,C,B,1. C,20,40,30,10
+45,1,3,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+46,1,3,10-30-20-40,baseline,1,False,10,False,0,D,C,1. D,10,30,20,40
+47,1,3,10-40-30-20,baseline,2,False,40,False,0,B,A,"2
+B",10,40,30,20
+48,1,3,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+49,1,3,30-40-10-20,baseline,1,False,30,False,0,B,C,1. B,30,40,10,20
+50,1,3,20-30-40-10,baseline,1,False,20,False,0,D,C,1. D,20,30,40,10
+51,1,3,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+52,1,3,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+53,1,3,40-10-30-20,baseline,1,False,40,False,0,B,C,1. B,40,10,30,20
+54,1,3,10-40-30-20,baseline,1,False,10,False,0,D,C,1. D,10,40,30,20
+55,1,3,40-30-20-10,baseline,1,False,40,False,0,B,A,1. B,40,30,20,10
+56,1,3,30-40-20-10,baseline,1,False,30,False,0,D,C,1. D,30,40,20,10
+57,1,3,10-30-40-20,baseline,1,False,10,False,0,B,C,1. B,10,30,40,20
+58,1,4,30-20-40-10,baseline,1,False,30,True,30,D,D,1. D,30,20,40,10
+59,1,4,40-20-10-30,baseline,1,False,40,False,0,D,A,1. D,40,20,10,30
+60,1,4,10-30-40-20,baseline,2,False,30,False,0,D,C,"2
+D",10,30,40,20
+61,1,4,10-30-40-20,baseline,2,False,30,False,0,D,C,"2
+D",10,30,40,20
+62,1,4,30-10-40-20,baseline,1,False,30,False,0,D,B,1. D,30,10,40,20
+63,1,4,20-10-40-30,baseline,2,False,10,True,10,D,D,"2
+D",20,10,40,30
+64,1,4,20-10-30-40,baseline,1,False,20,False,0,D,B,1. D,20,10,30,40
+65,1,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+66,1,4,20-30-40-10,baseline,2,False,30,True,30,B,B,"2
+B",20,30,40,10
+67,1,4,10-20-30-40,baseline,4,False,40,True,40,D,D,4. D,10,20,30,40
+68,1,4,40-10-20-30,baseline,1,False,40,False,0,C,B,1. C,40,10,20,30
+69,1,4,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+70,1,4,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+71,1,4,30-20-40-10,baseline,1,False,30,True,30,B,B,"1
+B",30,20,40,10
+72,1,4,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+73,1,4,20-40-10-30,baseline,1,False,20,False,0,D,C,1. D,20,40,10,30
+74,1,4,30-20-10-40,baseline,1,False,30,False,0,D,B,1. D,30,20,10,40
+75,1,4,10-20-30-40,baseline,2,False,20,True,20,D,D,"2
+D",10,20,30,40
+76,1,4,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+77,1,5,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+78,1,5,30-20-10-40,baseline,1,False,30,True,30,C,C,"1
+C",30,20,10,40
+79,1,5,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+80,1,5,20-30-40-10,baseline,1,False,20,False,0,C,B,1. C,20,30,40,10
+81,1,5,30-20-10-40,baseline,4,False,40,True,40,D,D,4. D,30,20,10,40
+82,1,5,10-30-40-20,baseline,2,False,30,True,30,D,D,"2
+D",10,30,40,20
+83,1,5,20-30-10-40,baseline,2,False,30,False,0,B,A,"2
+B",20,30,10,40
+84,1,5,30-20-10-40,baseline,1,False,30,False,0,C,B,1. C,30,20,10,40
+85,1,5,40-10-20-30,baseline,1,False,40,True,40,B,B,1. B,40,10,20,30
+86,1,5,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+87,1,5,20-10-30-40,baseline,3,False,30,False,0,,B,3,20,10,30,40
+88,1,5,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+89,1,5,40-10-30-20,baseline,1,False,40,False,0,D,C,1. D,40,10,30,20
+90,1,5,20-30-10-40,baseline,2,False,30,False,0,B,C,"2
+B",20,30,10,40
+91,1,5,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+92,1,5,30-10-20-40,baseline,1,False,30,True,30,A,A,"1
+A",30,10,20,40
+93,1,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D. Homeostasis,30,10,20,40
+94,1,5,10-20-40-30,baseline,1,False,10,False,0,D,C,1. D,10,20,40,30
+95,1,5,10-20-40-30,baseline,2,False,20,True,20,C,C,"2
+C",10,20,40,30
+96,1,5,30-10-40-20,baseline,3,False,40,True,40,B,B,"3
+B",30,10,40,20
+1,1,1,40-30-10-20,model_A,1,False,40,False,0,,C,1C,40,30,10,20
+2,1,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,model_A,1,False,10,False,0,,B,2D,10,40,20,30
+4,1,1,20-10-40-30,model_A,1,False,20,False,0,,C,"1D
+
+2A
+
+3D
+
+4D",20,10,40,30
+5,1,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+6,1,1,10-30-20-40,model_A,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,model_A,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,model_A,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral junction, which corresponds to the costo-diaphragmatic recess.
+
+2C
+
+Pharyngeal mucosa develops from the third pharyngeal arch.
+
+3B
+
+Cartilage is flexible connective tissue attached to bones.
+
+4D
+
+The maxillary artery, retromandibular vein, facial artery, and bucc",10,20,30,40
+9,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2B
+
+The activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+Emissary veins connect the intracranial venous sinuses to All of the above areas.",30,10,20,40
+11,1,1,20-30-10-40,model_A,1,False,20,False,0,,C,2B,20,30,10,40
+12,1,1,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The stethoscope overlies the lower lobe of the lung.",10,40,30,20
+14,1,1,40-20-10-30,model_A,1,False,40,False,0,,A,1A,40,20,10,30
+15,1,1,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary line overliestheCosto-diaphragmaticrecess.
+
+2D
+
+TheEthmoidalAirCellsSinusislocatedbetweentheeyes.
+
+3B
+
+ActivationofSympatheticNervescausesDilationofthePupiloftheEye.
+
+4D
+
+T",30,10,20,40
+16,1,1,30-40-20-10,model_A,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,model_A,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,model_A,1,False,30,False,0,,C,2B,30,40,20,10
+19,1,1,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,model_A,1,False,10,False,0,,D,2B,10,20,40,30
+21,1,2,40-20-30-10,model_A,1,False,40,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",40,20,30,10
+22,1,2,30-20-40-10,model_A,1,False,30,False,0,,B,3B,30,20,40,10
+23,1,2,40-30-20-10,model_A,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,model_A,1,False,40,False,0,,C,1D,40,20,10,30
+25,1,2,20-40-10-30,model_A,2,False,40,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",20,40,10,30
+26,1,2,20-10-40-30,model_A,1,False,20,False,0,,A,1A,20,10,40,30
+27,1,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,model_A,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,40,10,30
+29,1,2,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,model_A,1,False,40,False,0,,C,"1D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",40,10,30,20
+31,1,2,40-30-10-20,model_A,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+EmissaryveinsconnecttheintracranialvenoussinustoAlloftheaboveareas.
+
+3B
+
+TheTracheaLiesSuperficialToTheOesophagus",40,30,10,20
+32,1,2,30-10-40-20,model_A,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,40,20
+33,1,2,20-10-30-40,model_A,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+34,1,2,20-40-30-10,model_A,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",20,40,30,10
+35,1,2,10-30-20-40,model_A,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The hypothalamus controls body temperature, sleep, and appetite.",40,10,20,30
+37,1,2,20-10-30-40,model_A,1,False,20,False,0,,A,1A,20,10,30,40
+38,1,2,40-20-10-30,model_A,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,model_A,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,model_A,1,False,10,False,0,,C,1D,10,20,30,40
+41,1,3,40-20-30-10,model_A,1,False,40,False,0,,A,1A,40,20,30,10
+42,1,3,10-40-20-30,model_A,1,False,10,False,0,,B,2B,10,40,20,30
+43,1,3,20-40-30-10,model_A,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,model_A,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,model_A,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+Themaxillaryartery,retromandibularvein,Facialartery,andBuccalbranchoftheMandibularnervetravelthroughthesubstanceoftheParot",10,30,20,40
+47,1,3,10-40-30-20,model_A,1,False,10,False,0,,B,2B,10,40,30,20
+48,1,3,40-10-20-30,model_A,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",30,40,10,20
+50,1,3,20-30-40-10,model_A,1,False,20,False,0,,C,"1D
+
+2B
+
+3C
+
+4B",20,30,40,10
+51,1,3,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,model_A,1,False,40,False,0,,C,1B2D3C4D,40,10,30,20
+54,1,3,10-40-30-20,model_A,1,False,10,False,0,,C,"1D
+
+2D
+
+3C
+
+4B",10,40,30,20
+55,1,3,40-30-20-10,model_A,1,False,40,False,0,,A,1A,40,30,20,10
+56,1,3,30-40-20-10,model_A,1,False,30,False,0,,C,"1D
+
+2D
+
+3B
+
+4D",30,40,20,10
+57,1,3,10-30-40-20,model_A,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,model_A,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,model_A,1,False,10,False,0,,C,2D,10,30,40,20
+62,1,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,10,40,20
+63,1,4,20-10-40-30,model_A,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,model_A,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+65,1,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,model_A,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,model_A,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,model_A,1,False,10,False,0,,A,2B,10,40,30,20
+71,1,4,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,model_A,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2B
+
+TheHypothalamuscontrolsbodytemperatureSleepandAppetite.
+
+3A
+
+TheTracheaLiesDeepToTheOesophagus.
+
+4D
+
+EmissaryVeins",20,10,40,30
+73,1,4,20-40-10-30,model_A,1,False,20,False,0,,C,"1D
+
+The tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,model_A,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,model_A,1,False,10,False,0,,B,"2D
+
+The question 2D asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer is DHomeostasis.",10,20,30,40
+76,1,4,10-40-20-30,model_A,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,model_A,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the third pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,model_A,1,False,40,False,0,,A,1A,40,20,30,10
+80,1,5,20-30-40-10,model_A,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,model_A,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,model_A,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,model_A,1,False,20,False,0,,B,2B,20,30,10,40
+84,1,5,30-20-10-40,model_A,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,model_A,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,10,20,30
+86,1,5,20-30-10-40,model_A,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,model_A,1,False,20,False,0,,B,1B,20,10,30,40
+88,1,5,40-30-20-10,model_A,1,False,40,False,0,,C,1D,40,30,20,10
+89,1,5,40-10-30-20,model_A,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,model_A,1,False,20,False,0,,B,2B,20,30,10,40
+91,1,5,30-10-40-20,model_A,1,False,30,False,0,,D,1D,30,10,40,20
+92,1,5,30-10-20-40,model_A,1,False,30,False,0,,A,1A,30,10,20,40
+93,1,5,30-10-20-40,model_A,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,model_A,1,False,10,False,0,,C,"1D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",10,20,40,30
+95,1,5,10-20-40-30,model_A,2,False,20,False,0,D,C,"Question 2
+
+The stethoscope overlies the (D) costo-vertebral junction.",10,20,40,30
+96,1,5,30-10-40-20,model_A,1,False,30,False,0,,B,3B,30,10,40,20
+1,1,1,40-30-10-20,union_k27,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,30,10,20
+2,1,1,30-40-10-20,union_k27,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k27,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k27,1,False,20,False,0,D,C,"1D
+
+The question asks Which of the following structures travel through the substance of the parotid gland? The correct answer is D) The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve.",20,10,40,30
+5,1,1,30-20-40-10,union_k27,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is (C) third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k27,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k27,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k27,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.",10,20,30,40
+9,1,1,20-40-30-10,union_k27,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k27,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k27,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k27,1,False,40,True,40,D,D,"1D
+
+The term that describes the body's ability to maintain its normal state is D) Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k27,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",10,40,30,20
+14,1,1,40-20-10-30,union_k27,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,10,30
+15,1,1,30-10-20-40,union_k27,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthe patient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",30,10,20,40
+16,1,1,30-40-20-10,union_k27,1,False,30,True,30,D,D,"1D
+
+The term that describes the body's ability to maintain its normal state is D) Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k27,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k27,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k27,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k27,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k27,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k27,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k27,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k27,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,20,10,30
+25,1,2,20-40-10-30,union_k27,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",20,40,10,30
+26,1,2,20-10-40-30,union_k27,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k27,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k27,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is DHomeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k27,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k27,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k27,1,False,40,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral recess, which is located posteriorly.
+
+2D
+
+Emissary veins connect the intracranial venous sinuses to veins draining the scalp, eye, pterygoid venous plexus.
+
+3B
+
+The trachea lies superficial to the oesophagus.
+
+4D
+
+The maxillary artery",40,30,10,20
+32,1,2,30-10-40-20,union_k27,1,False,30,False,0,,D,3D,30,10,40,20
+33,1,2,20-10-30-40,union_k27,3,False,30,False,0,,C,"3
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,10,30,40
+34,1,2,20-40-30-10,union_k27,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+35,1,2,10-30-20-40,union_k27,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k27,2,False,10,False,0,D,B,"2
+The correct answer is (D) The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve.",40,10,20,30
+37,1,2,20-10-30-40,union_k27,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k27,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k27,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k27,1,False,10,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",10,20,30,40
+41,1,3,40-20-30-10,union_k27,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k27,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k27,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k27,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,union_k27,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k27,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.
+
+3D
+
+Emissary veins connect the intracranial",10,30,20,40
+47,1,3,10-40-30-20,union_k27,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k27,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k27,1,False,30,False,0,,C,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",30,40,10,20
+50,1,3,20-30-40-10,union_k27,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,30,40,10
+51,1,3,30-40-10-20,union_k27,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k27,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k27,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k27,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k27,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k27,2,False,40,False,0,A,D,"2
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus (A) between the eyes.",30,40,20,10
+57,1,3,10-30-40-20,union_k27,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k27,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k27,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k27,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k27,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k27,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k27,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k27,3,False,30,False,0,,C,"3
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,10,30,40
+65,1,4,30-40-20-10,union_k27,1,False,30,False,0,,D,"2D
+
+The body's ability to maintain its normal state is described by Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k27,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k27,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k27,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k27,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k27,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k27,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k27,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary lineoverliestheCosto-diaphragmaticrecess.",20,10,40,30
+73,1,4,20-40-10-30,union_k27,1,False,20,False,0,,C,"1D
+
+The tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k27,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k27,1,False,10,False,0,,B,"2D
+
+The question 2D asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer is DHomeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k27,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k27,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k27,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k27,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k27,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k27,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k27,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k27,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k27,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k27,1,False,40,False,0,,B,"1B
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the second pharyngeal arch.",40,10,20,30
+86,1,5,20-30-10-40,union_k27,1,False,20,True,20,D,D,"1D
+
+The term that describes the body's ability to maintain its normal state is D) Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k27,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k27,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k27,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k27,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k27,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k27,1,False,30,True,30,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",30,10,20,40
+93,1,5,30-10-20-40,union_k27,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k27,1,False,10,False,0,,C,"1D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",10,20,40,30
+95,1,5,10-20-40-30,union_k27,2,False,20,True,20,C,C,"2
+
+The stethoscope overlies the (C) lower lobe of the lung.",10,20,40,30
+96,1,5,30-10-40-20,union_k27,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k30,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,30,10,20
+2,1,1,30-40-10-20,union_k30,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k30,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k30,1,False,20,False,0,D,C,"1D
+
+The question asks Which of the following structures travel through the substance of the parotid gland? The correct answer is D) The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve.",20,10,40,30
+5,1,1,30-20-40-10,union_k30,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k30,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k30,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k30,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.",10,20,30,40
+9,1,1,20-40-30-10,union_k30,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k30,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k30,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k30,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k30,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",10,40,30,20
+14,1,1,40-20-10-30,union_k30,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,10,30
+15,1,1,30-10-20-40,union_k30,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary lineoverliestheCosto-diaphragmaticrecess.",30,10,20,40
+16,1,1,30-40-20-10,union_k30,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k30,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k30,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k30,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k30,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k30,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k30,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k30,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k30,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,20,10,30
+25,1,2,20-40-10-30,union_k30,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer is (D).",20,40,10,30
+26,1,2,20-10-40-30,union_k30,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k30,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k30,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is DHomeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k30,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k30,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k30,1,False,40,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+Emissary veins connect the intracranial venous sinuses to veins draining the scalp, eye, pterygoid venous plexus.
+
+3B
+
+The trachea lies superficial to the oesophagus.
+
+4D",40,30,10,20
+32,1,2,30-10-40-20,union_k30,1,False,30,False,0,,D,"3D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,40,20
+33,1,2,20-10-30-40,union_k30,1,False,20,False,0,,B,"1
+
+The maxillary sinus is lined by pseudostratified columnar ciliated epithelium.",20,10,30,40
+34,1,2,20-40-30-10,union_k30,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+35,1,2,10-30-20-40,union_k30,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k30,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. Therefore, option D is correct.",40,10,20,30
+37,1,2,20-10-30-40,union_k30,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k30,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k30,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k30,1,False,10,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",10,20,30,40
+41,1,3,40-20-30-10,union_k30,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k30,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k30,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k30,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,union_k30,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k30,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.
+
+3D
+
+Emissary veins connect the intracranial",10,30,20,40
+47,1,3,10-40-30-20,union_k30,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k30,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k30,1,False,30,False,0,,C,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",30,40,10,20
+50,1,3,20-30-40-10,union_k30,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,30,40,10
+51,1,3,30-40-10-20,union_k30,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k30,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k30,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k30,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k30,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k30,2,False,40,False,0,A,D,"2
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus (A) between the eyes.",30,40,20,10
+57,1,3,10-30-40-20,union_k30,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k30,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k30,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k30,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k30,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k30,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k30,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k30,3,False,30,False,0,,C,"3
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,10,30,40
+65,1,4,30-40-20-10,union_k30,1,False,30,False,0,,D,"2D
+
+The body's ability to maintain its normal state is described by Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k30,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k30,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k30,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k30,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k30,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k30,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k30,1,False,20,False,0,,C,"3C
+
+The trachea is totally enclosed by cartilaginous rings.",20,10,40,30
+73,1,4,20-40-10-30,union_k30,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k30,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k30,1,False,10,False,0,,B,"2D
+
+The question 2D asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer is DHomeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k30,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k30,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k30,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k30,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k30,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k30,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k30,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k30,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k30,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k30,1,False,40,False,0,,B,"1B
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the second pharyngeal arch.",40,10,20,30
+86,1,5,20-30-10-40,union_k30,1,False,20,True,20,D,D,"1D
+
+The term that describes the body's ability to maintain its normal state is D) Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k30,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k30,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k30,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k30,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k30,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k30,1,False,30,True,30,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",30,10,20,40
+93,1,5,30-10-20-40,union_k30,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k30,2,False,20,True,20,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,20,40,30
+95,1,5,10-20-40-30,union_k30,2,False,20,False,0,D,C,"Question 2
+
+The stethoscope overlies the (D) costo-vertebral junction.",10,20,40,30
+96,1,5,30-10-40-20,union_k30,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k35,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,30,10,20
+2,1,1,30-40-10-20,union_k35,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k35,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k35,1,False,20,False,0,D,C,"1D
+
+The question asks Which of the following structures travel through the substance of the parotid gland? The correct answer is D) The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve.",20,10,40,30
+5,1,1,30-20-40-10,union_k35,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is (C) third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k35,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k35,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k35,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2C
+
+Pharyngeal mucosa develops from the third pharyngeal arch.
+
+3B
+
+Cartilage is flexible connective tissue that is attached to bones.
+
+4D
+
+The maxillary artery, retromandibular vein, facial artery, and",10,20,30,40
+9,1,1,20-40-30-10,union_k35,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k35,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k35,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k35,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k35,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,40,30,20
+14,1,1,40-20-10-30,union_k35,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,10,30
+15,1,1,30-10-20-40,union_k35,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+ThepatientismostlikelytoexperiencepainduetoInfectionoftheEthmoidalAirCellsSinusbetweentheeyes.
+
+3B
+
+TheActivationofSympatheticNervescausesD",30,10,20,40
+16,1,1,30-40-20-10,union_k35,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k35,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k35,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k35,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k35,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k35,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k35,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k35,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k35,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,20,10,30
+25,1,2,20-40-10-30,union_k35,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",20,40,10,30
+26,1,2,20-10-40-30,union_k35,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k35,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k35,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k35,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k35,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k35,1,False,40,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+Emissary veins connect the intracranial venous sinuses to veins draining the scalp, eye, pterygoid venous plexus.
+
+3B
+
+The trachea lies superficial to the oesophagus.
+
+4D",40,30,10,20
+32,1,2,30-10-40-20,union_k35,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,40,20
+33,1,2,20-10-30-40,union_k35,1,False,20,False,0,,B,"1
+
+The maxillary sinus is lined by pseudostratified columnar ciliated epithelium. ThereforeThe correct answer isB.",20,10,30,40
+34,1,2,20-40-30-10,union_k35,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+35,1,2,10-30-20-40,union_k35,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k35,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. Therefore, option D is correct.",40,10,20,30
+37,1,2,20-10-30-40,union_k35,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k35,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k35,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k35,1,False,10,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",10,20,30,40
+41,1,3,40-20-30-10,union_k35,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k35,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k35,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k35,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,union_k35,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k35,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.
+
+3D
+
+Emissary veins connect the intracranial",10,30,20,40
+47,1,3,10-40-30-20,union_k35,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k35,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k35,1,False,30,False,0,,C,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",30,40,10,20
+50,1,3,20-30-40-10,union_k35,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,30,40,10
+51,1,3,30-40-10-20,union_k35,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k35,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k35,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k35,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k35,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k35,2,False,40,False,0,A,D,"2
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus (A) between the eyes.",30,40,20,10
+57,1,3,10-30-40-20,union_k35,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k35,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k35,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k35,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k35,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k35,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k35,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k35,1,False,20,False,0,,B,"3D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,10,30,40
+65,1,4,30-40-20-10,union_k35,1,False,30,False,0,,D,"2D
+
+The body's ability to maintain its normal state is described by Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k35,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k35,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k35,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k35,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k35,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k35,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k35,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",20,10,40,30
+73,1,4,20-40-10-30,union_k35,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k35,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k35,2,False,20,True,20,D,D,"2D
+
+The question 2 asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer D) Homeostasis is correct. Homeostasis refers to the ability of an organism to maintain stable internal conditions despite changes in external conditions.",10,20,30,40
+76,1,4,10-40-20-30,union_k35,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k35,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k35,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k35,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k35,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k35,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k35,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k35,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k35,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k35,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,10,20,30
+86,1,5,20-30-10-40,union_k35,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k35,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k35,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k35,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k35,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k35,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k35,1,False,30,True,30,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",30,10,20,40
+93,1,5,30-10-20-40,union_k35,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k35,1,False,10,False,0,,C,2D,10,20,40,30
+95,1,5,10-20-40-30,union_k35,2,False,20,True,20,C,C,"2
+
+The stethoscope overlies the (C) lower lobe of the lung.",10,20,40,30
+96,1,5,30-10-40-20,union_k35,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k40,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,30,10,20
+2,1,1,30-40-10-20,union_k40,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k40,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k40,1,False,20,False,0,D,C,"1D
+
+The question asks Which of the following structures travel through the substance of the parotid gland? The correct answer is D) The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve.",20,10,40,30
+5,1,1,30-20-40-10,union_k40,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is (C) third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k40,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k40,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k40,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2C
+
+Pharyngeal mucosa develops from the third pharyngeal arch.
+
+3B
+
+Cartilage is flexible connective tissue that is attached to bones.
+
+4D
+
+The maxillary artery, retromandibular vein, facial artery, and",10,20,30,40
+9,1,1,20-40-30-10,union_k40,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k40,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k40,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k40,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k40,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,40,30,20
+14,1,1,40-20-10-30,union_k40,1,False,40,True,40,A,A,"1B
+
+The best place to listen to the general heart sound with a stethoscope is the second left intercostal space one inch from the sternum.",40,20,10,30
+15,1,1,30-10-20-40,union_k40,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthe patient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",30,10,20,40
+16,1,1,30-40-20-10,union_k40,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k40,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k40,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k40,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k40,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k40,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k40,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k40,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k40,1,False,40,False,0,,C,1D,40,20,10,30
+25,1,2,20-40-10-30,union_k40,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",20,40,10,30
+26,1,2,20-10-40-30,union_k40,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k40,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k40,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k40,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k40,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k40,1,False,40,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral recess, which is located posteriorly.
+
+2D
+
+Emissary veins connect the intracranial venous sinuses to veins draining the scalp, eye, pterygoid venous plexus.
+
+3B
+
+The trachea lies superficial to the oesophagus.
+
+4D
+
+The maxillary artery",40,30,10,20
+32,1,2,30-10-40-20,union_k40,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,40,20
+33,1,2,20-10-30-40,union_k40,3,False,30,False,0,,C,"3
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,10,30,40
+34,1,2,20-40-30-10,union_k40,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+35,1,2,10-30-20-40,union_k40,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k40,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. Therefore, option D is correct.",40,10,20,30
+37,1,2,20-10-30-40,union_k40,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k40,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k40,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k40,1,False,10,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",10,20,30,40
+41,1,3,40-20-30-10,union_k40,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k40,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k40,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k40,1,False,20,False,0,,B,"2B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",20,40,30,10
+45,1,3,40-30-10-20,union_k40,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k40,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.
+
+3D
+
+Emissary veins connect the intracranial",10,30,20,40
+47,1,3,10-40-30-20,union_k40,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k40,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k40,1,False,30,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",30,40,10,20
+50,1,3,20-30-40-10,union_k40,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,30,40,10
+51,1,3,30-40-10-20,union_k40,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k40,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k40,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k40,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k40,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k40,2,False,40,False,0,A,D,"2
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus (A) between the eyes.",30,40,20,10
+57,1,3,10-30-40-20,union_k40,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k40,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k40,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k40,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k40,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k40,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k40,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k40,1,False,20,False,0,,B,"3D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,10,30,40
+65,1,4,30-40-20-10,union_k40,1,False,30,False,0,,D,"2D
+
+The body's ability to maintain its normal state is described by Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k40,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k40,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k40,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k40,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k40,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k40,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k40,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",20,10,40,30
+73,1,4,20-40-10-30,union_k40,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k40,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k40,1,False,10,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k40,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k40,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k40,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k40,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k40,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k40,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k40,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k40,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The second left intercostal space one inch from the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k40,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k40,1,False,40,False,0,,B,"1B
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the second pharyngeal arch.",40,10,20,30
+86,1,5,20-30-10-40,union_k40,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k40,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k40,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k40,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k40,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k40,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k40,1,False,30,True,30,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",30,10,20,40
+93,1,5,30-10-20-40,union_k40,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k40,1,False,10,False,0,,C,2D,10,20,40,30
+95,1,5,10-20-40-30,union_k40,2,False,20,True,20,C,C,"2
+
+The stethoscope overlies the (C) lower lobe of the lung.",10,20,40,30
+96,1,5,30-10-40-20,union_k40,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k45,1,False,40,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",40,30,10,20
+2,1,1,30-40-10-20,union_k45,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k45,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k45,1,False,20,False,0,,C,"1D
+
+2A
+
+3D
+
+4D",20,10,40,30
+5,1,1,30-20-40-10,union_k45,1,False,30,False,0,,B,3C,30,20,40,10
+6,1,1,10-30-20-40,union_k45,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k45,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k45,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2C
+
+Pharyngeal mucosa develops from the third pharyngeal arch.
+
+3B
+
+Cartilage is flexible connective tissue that is attached to bones.
+
+4D
+
+The maxillary artery, retromandibular vein, facial artery, and",10,20,30,40
+9,1,1,20-40-30-10,union_k45,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k45,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k45,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k45,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k45,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,40,30,20
+14,1,1,40-20-10-30,union_k45,1,False,40,True,40,A,A,"1B
+
+The best place to listen to the general heart sound with a stethoscope is the second left intercostal space one inch from the sternum.",40,20,10,30
+15,1,1,30-10-20-40,union_k45,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+ThepatientismostlikelytoexperiencepainduetoInfectionoftheEthmoidalAirCellsSinusbetweentheeyes.
+
+3B
+
+TheActivationofSympatheticNervescausesD",30,10,20,40
+16,1,1,30-40-20-10,union_k45,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k45,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k45,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k45,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k45,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k45,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k45,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k45,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k45,1,False,40,False,0,,C,1D,40,20,10,30
+25,1,2,20-40-10-30,union_k45,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",20,40,10,30
+26,1,2,20-10-40-30,union_k45,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k45,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k45,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k45,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k45,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k45,1,False,40,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+Emissary veins connect the intracranial venous sinuses to veins draining the scalp, eye, pterygoid venous plexus.
+
+3B
+
+The trachea lies superficial to the oesophagus.
+
+4D",40,30,10,20
+32,1,2,30-10-40-20,union_k45,1,False,30,False,0,,D,3D,30,10,40,20
+33,1,2,20-10-30-40,union_k45,1,False,20,False,0,,B,"3D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,10,30,40
+34,1,2,20-40-30-10,union_k45,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,30,10
+35,1,2,10-30-20-40,union_k45,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k45,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. Therefore, option D is correct.",40,10,20,30
+37,1,2,20-10-30-40,union_k45,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k45,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k45,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k45,2,False,20,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,20,30,40
+41,1,3,40-20-30-10,union_k45,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k45,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k45,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k45,1,False,20,False,0,,B,"2B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",20,40,30,10
+45,1,3,40-30-10-20,union_k45,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k45,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.
+
+3D
+
+Emissary veins connect the intracranial",10,30,20,40
+47,1,3,10-40-30-20,union_k45,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k45,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k45,1,False,30,False,0,,C,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",30,40,10,20
+50,1,3,20-30-40-10,union_k45,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.
+
+2B
+
+Activation of sympathetic nerves brings about dilation of the pupil of the eye.
+
+3C
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the third pharyngeal arch.
+
+4B",20,30,40,10
+51,1,3,30-40-10-20,union_k45,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k45,1,False,40,False,0,A,D,"1D
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k45,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k45,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k45,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k45,2,False,40,False,0,A,D,"2
+
+A patient is most likely to experience pain due to infection of the ethmoidal air cells sinus (A) between the eyes.",30,40,20,10
+57,1,3,10-30-40-20,union_k45,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k45,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k45,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k45,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k45,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)At all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k45,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k45,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k45,1,False,20,False,0,,B,3D,20,10,30,40
+65,1,4,30-40-20-10,union_k45,1,False,30,False,0,,D,"2D
+
+The body's ability to maintain its normal state is described by Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k45,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k45,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k45,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k45,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k45,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k45,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k45,1,False,20,False,0,,C,"3C
+
+The trachea is totally enclosed by cartilaginous rings.",20,10,40,30
+73,1,4,20-40-10-30,union_k45,1,False,20,False,0,,C,"1D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k45,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k45,1,False,10,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k45,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k45,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k45,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k45,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k45,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k45,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k45,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k45,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k45,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k45,1,False,40,False,0,,B,"1B
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the second pharyngeal arch.",40,10,20,30
+86,1,5,20-30-10-40,union_k45,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k45,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k45,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary lineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k45,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k45,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k45,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k45,1,False,30,True,30,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",30,10,20,40
+93,1,5,30-10-20-40,union_k45,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k45,1,False,10,False,0,,C,2D,10,20,40,30
+95,1,5,10-20-40-30,union_k45,2,False,20,False,0,D,C,"Question 2
+
+The stethoscope overlies the (D) costo-vertebral junction.",10,20,40,30
+96,1,5,30-10-40-20,union_k45,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k50,1,False,40,False,0,,C,"1C
+
+The Pharyngeal Mucosa is innervated byThePharyngealNerveswhichdevelopfromTheThirdPharyngealArch.",40,30,10,20
+2,1,1,30-40-10-20,union_k50,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k50,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k50,1,False,20,False,0,,C,"1D
+
+2A
+
+3D
+
+4D",20,10,40,30
+5,1,1,30-20-40-10,union_k50,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is (C) third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k50,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k50,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k50,1,False,10,False,0,,C,"1D
+
+The stethoscope overlies the costo-vertebral angle, which corresponds to the costo-diaphragmatic recess.
+
+2C
+
+Pharyngeal mucosa develops from the third pharyngeal arch.
+
+3B
+
+Cartilage is flexible connective tissue attached to bones.
+
+4D
+
+The maxillary artery, retromandibular vein, facial artery, and bucc",10,20,30,40
+9,1,1,20-40-30-10,union_k50,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k50,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k50,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k50,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k50,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,40,30,20
+14,1,1,40-20-10-30,union_k50,1,False,40,True,40,A,A,"1B
+
+The best place to listen to the general heart sound with a stethoscope is the second left intercostal space one inch from the sternum.",40,20,10,30
+15,1,1,30-10-20-40,union_k50,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+ThepatientismostlikelytoexperiencepainduetoInfectionoftheEthmoidalAirCellsSinusbetweentheeyes.
+
+3B
+
+TheActivationofSympatheticNervescausesD",30,10,20,40
+16,1,1,30-40-20-10,union_k50,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k50,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k50,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",30,40,20,10
+19,1,1,30-40-10-20,union_k50,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k50,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k50,1,False,40,False,0,,B,"1
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,20,30,10
+22,1,2,30-20-40-10,union_k50,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k50,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k50,1,False,40,False,0,,C,1D,40,20,10,30
+25,1,2,20-40-10-30,union_k50,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer is (D).",20,40,10,30
+26,1,2,20-10-40-30,union_k50,1,False,20,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,10,40,30
+27,1,2,40-20-30-10,union_k50,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k50,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k50,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k50,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k50,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary line overliestheCosto-diaphragmaticrecess.",40,30,10,20
+32,1,2,30-10-40-20,union_k50,1,False,30,False,0,,D,3D,30,10,40,20
+33,1,2,20-10-30-40,union_k50,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+34,1,2,20-40-30-10,union_k50,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",20,40,30,10
+35,1,2,10-30-20-40,union_k50,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k50,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",40,10,20,30
+37,1,2,20-10-30-40,union_k50,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k50,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k50,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k50,1,False,10,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",10,20,30,40
+41,1,3,40-20-30-10,union_k50,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k50,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k50,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k50,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,union_k50,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k50,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+47,1,3,10-40-30-20,union_k50,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k50,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k50,1,False,30,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",30,40,10,20
+50,1,3,20-30-40-10,union_k50,1,False,20,False,0,,C,"1D
+
+2B
+
+3C
+
+4B",20,30,40,10
+51,1,3,30-40-10-20,union_k50,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k50,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k50,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k50,1,False,10,False,0,,C,2D,10,40,30,20
+55,1,3,40-30-20-10,union_k50,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,30,20,10
+56,1,3,30-40-20-10,union_k50,1,False,30,False,0,,C,"1D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",30,40,20,10
+57,1,3,10-30-40-20,union_k50,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k50,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k50,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k50,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k50,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k50,1,False,30,False,0,,B,3C,30,10,40,20
+63,1,4,20-10-40-30,union_k50,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k50,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+65,1,4,30-40-20-10,union_k50,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k50,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k50,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheethmoidalaircellssinusbetweentheeyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k50,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k50,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k50,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k50,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k50,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary lineoverliestheCosto-diaphragmaticrecess.
+
+2B
+
+TheHypothalamuscontrolsbodytemperature, sleep,andappetite.
+
+3C
+
+TheTracheaisTotallyEnclosedbyCartilaginousRings.
+
+4D
+
+Emiss",20,10,40,30
+73,1,4,20-40-10-30,union_k50,1,False,20,False,0,,C,"1D
+
+The tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k50,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k50,2,False,20,True,20,D,D,"2D
+
+The question 2 asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer is D) Homeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k50,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k50,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k50,1,False,30,False,0,,C,"1D
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the fourth pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k50,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k50,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k50,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k50,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k50,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k50,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k50,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,10,20,30
+86,1,5,20-30-10-40,union_k50,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k50,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k50,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k50,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k50,2,False,30,False,0,B,C,"2
+
+The stethoscope overlies the (B) middle lobe of the lung.",20,30,10,40
+91,1,5,30-10-40-20,union_k50,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k50,1,False,30,False,0,,A,"1C
+
+The trachea lies superficial to the esophagus.",30,10,20,40
+93,1,5,30-10-20-40,union_k50,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k50,1,False,10,False,0,,C,2D,10,20,40,30
+95,1,5,10-20-40-30,union_k50,2,False,20,True,20,C,C,"2
+
+The stethoscope overlies the (C) lower lobe of the lung.",10,20,40,30
+96,1,5,30-10-40-20,union_k50,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,10,40,20
+1,1,1,40-30-10-20,union_k54,1,False,40,False,0,,C,"1C
+
+The Pharyngeal Mucosa is innervated byThePharyngealNervesbecauseItDevelopsFromTheThirdPharyngealArch.",40,30,10,20
+2,1,1,30-40-10-20,union_k54,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+3,1,1,10-40-20-30,union_k54,2,False,40,False,0,D,C,"2
+
+The stethoscope overlies the (D) costo-diaphragmatic recess.",10,40,20,30
+4,1,1,20-10-40-30,union_k54,1,False,20,False,0,,C,"1D
+
+2A
+
+3D
+
+4D",20,10,40,30
+5,1,1,30-20-40-10,union_k54,3,False,40,True,40,A,A,"3
+
+The best place to listen to the general heart sound with a stethoscope is (C) third left rib at its junction with the sternum.",30,20,40,10
+6,1,1,10-30-20-40,union_k54,1,False,10,False,0,,C,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,30,20,40
+7,1,1,20-40-10-30,union_k54,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",20,40,10,30
+8,1,1,10-20-30-40,union_k54,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,20,30,40
+9,1,1,20-40-30-10,union_k54,1,False,20,False,0,,D,"2B
+
+Activation of sympathetic nerves causes dilation of the pupil of the eye.",20,40,30,10
+10,1,1,30-10-20-40,union_k54,1,False,30,False,0,,D,"1D
+
+Emissary veins connectthe intracranial venous sinusestoAll oftheaboveareas.",30,10,20,40
+11,1,1,20-30-10-40,union_k54,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",20,30,10,40
+12,1,1,40-30-10-20,union_k54,1,False,40,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",40,30,10,20
+13,1,1,10-40-30-20,union_k54,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,40,30,20
+14,1,1,40-20-10-30,union_k54,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,10,30
+15,1,1,30-10-20-40,union_k54,1,False,30,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2D
+
+ThepatientismostlikelytoexperiencepainduetoInfectionoftheEthmoidalAirCellsSinusbetweentheeyes.
+
+3B
+
+TheActivationofSympatheticNervescausesD",30,10,20,40
+16,1,1,30-40-20-10,union_k54,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+17,1,1,10-20-40-30,union_k54,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,20,40,30
+18,1,1,30-40-20-10,union_k54,1,False,30,False,0,,C,2B,30,40,20,10
+19,1,1,30-40-10-20,union_k54,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+20,1,2,10-20-40-30,union_k54,2,False,20,True,20,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) second left intercostal space one inch from the sternum.",10,20,40,30
+21,1,2,40-20-30-10,union_k54,1,False,40,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",40,20,30,10
+22,1,2,30-20-40-10,union_k54,1,False,30,False,0,,B,"3B
+
+The hypothalamus controls body temperature, sleep, and appetite.",30,20,40,10
+23,1,2,40-30-20-10,union_k54,1,False,40,False,0,,D,1D,40,30,20,10
+24,1,2,40-20-10-30,union_k54,1,False,40,False,0,,C,1D,40,20,10,30
+25,1,2,20-40-10-30,union_k54,2,False,40,False,0,,B,"2
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. ThereforeThe answer isD.",20,40,10,30
+26,1,2,20-10-40-30,union_k54,1,False,20,False,0,,A,1B,20,10,40,30
+27,1,2,40-20-30-10,union_k54,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,30,10
+28,1,2,20-40-10-30,union_k54,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is DHomeostasis.",20,40,10,30
+29,1,2,20-30-40-10,union_k54,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",20,30,40,10
+30,1,2,40-10-30-20,union_k54,2,False,10,True,10,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",40,10,30,20
+31,1,2,40-30-10-20,union_k54,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",40,30,10,20
+32,1,2,30-10-40-20,union_k54,1,False,30,False,0,,D,3D,30,10,40,20
+33,1,2,20-10-30-40,union_k54,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+34,1,2,20-40-30-10,union_k54,1,False,20,False,0,,B,"2D
+
+Smooth muscle cells contain actin and myosin arranged irregularly.",20,40,30,10
+35,1,2,10-30-20-40,union_k54,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+36,1,2,40-10-20-30,union_k54,2,False,10,False,0,,B,"2
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland. Therefore, option D is correct.",40,10,20,30
+37,1,2,20-10-30-40,union_k54,1,False,20,True,20,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",20,10,30,40
+38,1,2,40-20-10-30,union_k54,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,20,10,30
+39,1,3,10-30-20-40,union_k54,1,False,10,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",10,30,20,40
+40,1,3,10-20-30-40,union_k54,1,False,10,False,0,,C,1D,10,20,30,40
+41,1,3,40-20-30-10,union_k54,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+42,1,3,10-40-20-30,union_k54,1,False,10,False,0,,B,"2B
+
+The trachea lies superficial to the esophagus.",10,40,20,30
+43,1,3,20-40-30-10,union_k54,2,False,40,False,0,D,C,"2
+
+Smooth muscle cells contain (D) actin and myosin arranged in parallel arrays.",20,40,30,10
+44,1,3,20-40-30-10,union_k54,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,40,30,10
+45,1,3,40-30-10-20,union_k54,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,30,10,20
+46,1,3,10-30-20-40,union_k54,1,False,10,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.",10,30,20,40
+47,1,3,10-40-30-20,union_k54,2,False,40,True,40,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is (B) The second left intercostal space one inch from the sternum.",10,40,30,20
+48,1,3,40-10-20-30,union_k54,1,False,40,False,0,,B,1B,40,10,20,30
+49,1,3,30-40-10-20,union_k54,1,False,30,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",30,40,10,20
+50,1,3,20-30-40-10,union_k54,1,False,20,False,0,,C,"1D
+
+2B
+
+3C
+
+4B",20,30,40,10
+51,1,3,30-40-10-20,union_k54,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,10,20
+52,1,3,40-30-20-10,union_k54,1,False,40,False,0,,D,"1D
+
+The patient is most likely to experience pain duetotheInfectionOfTheEthmoidalAirCellsSinusBetweenTheEyes.",40,30,20,10
+53,1,3,40-10-30-20,union_k54,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+54,1,3,10-40-30-20,union_k54,2,False,40,True,40,D,D,"2
+
+Emissary veins connect the intracranial venous sinuses to D) All of the above areas.",10,40,30,20
+55,1,3,40-30-20-10,union_k54,1,False,40,False,0,,A,1A,40,30,20,10
+56,1,3,30-40-20-10,union_k54,1,False,30,False,0,,C,"1D
+
+Smooth muscle cells contain actin and myosin arranged parallel arrays.",30,40,20,10
+57,1,3,10-30-40-20,union_k54,1,False,10,False,0,,C,"2D
+
+Smooth muscle cells contain actin and myosin arranged in parallel arrays.",10,30,40,20
+58,1,4,30-20-40-10,union_k54,1,False,30,False,0,,D,1D,30,20,40,10
+59,1,4,40-20-10-30,union_k54,1,False,40,True,40,A,A,"1D
+
+The best place to listen to the general heart sound with a stethoscope is the sternum midway between the sternal angle and xiphisternum.",40,20,10,30
+60,1,4,10-30-40-20,union_k54,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)at all three sites.",10,30,40,20
+61,1,4,10-30-40-20,union_k54,2,False,30,False,0,,C,"2
+
+Tonsillar tissue is commonly foundD)All three sites.",10,30,40,20
+62,1,4,30-10-40-20,union_k54,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,10,40,20
+63,1,4,20-10-40-30,union_k54,1,False,20,False,0,,B,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,10,40,30
+64,1,4,20-10-30-40,union_k54,1,False,20,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve all travel through the substance of the parotid gland.",20,10,30,40
+65,1,4,30-40-20-10,union_k54,1,False,30,False,0,,D,"2D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,40,20,10
+66,1,4,20-30-40-10,union_k54,1,False,20,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",20,30,40,10
+67,1,4,10-20-30-40,union_k54,1,False,10,False,0,,D,"1D
+
+The patient is most likely to experience pain due to infection of the ethmoidal air cells sinus between the eyes.",10,20,30,40
+68,1,4,40-10-20-30,union_k54,1,False,40,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",40,10,20,30
+69,1,4,10-40-20-30,union_k54,1,False,10,False,0,,B,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+70,1,4,10-40-30-20,union_k54,2,False,40,False,0,,C,"2
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",10,40,30,20
+71,1,4,30-20-40-10,union_k54,1,False,30,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",30,20,40,10
+72,1,4,20-10-40-30,union_k54,1,False,20,False,0,,C,"1D
+
+The stethoscope placed overthepatient'sseventhrightintercostalspaceintheMid-axillarylineoverliestheCosto-diaphragmaticrecess.
+
+2B
+
+TheHypothalamuscontrolsbodytemperatureSleepandAppetite.
+
+3A
+
+TheTracheaLiesDeepToTheOesophagus.
+
+4D
+
+EmissaryVeins",20,10,40,30
+73,1,4,20-40-10-30,union_k54,1,False,20,False,0,,C,"1D
+
+The tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",20,40,10,30
+74,1,4,30-20-10-40,union_k54,1,False,30,False,0,,B,"1D
+
+The maxillary artery, retromandibular vein, facial artery, and buccal branch of the mandibular nerve travel through the substance of the parotid gland.",30,20,10,40
+75,1,4,10-20-30-40,union_k54,1,False,10,False,0,,B,"2D
+
+The question 2D asks ""Which of the following terms describes the body's ability to maintain its normal state?"" The answer is DHomeostasis.",10,20,30,40
+76,1,4,10-40-20-30,union_k54,1,False,10,False,0,,A,"2B
+
+The hypothalamus controls body temperature, sleep, and appetite.",10,40,20,30
+77,1,5,40-10-30-20,union_k54,1,False,40,False,0,,D,1D,40,10,30,20
+78,1,5,30-20-10-40,union_k54,1,False,30,False,0,,C,"1C
+
+Pharyngeal mucosa is innervated by the glossopharyngeal nerves because it develops from the third pharyngeal arch.",30,20,10,40
+79,1,5,40-20-30-10,union_k54,1,False,40,True,40,A,A,"1A
+
+The best place to listen to the general heart sound with a stethoscope is the fifth left intercostal space in the midclavicular line.",40,20,30,10
+80,1,5,20-30-40-10,union_k54,1,False,20,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",20,30,40,10
+81,1,5,30-20-10-40,union_k54,1,False,30,False,0,,B,"1B
+
+The flexible connective tissue attached to bones at joints is calledCartilage.",30,20,10,40
+82,1,5,10-30-40-20,union_k54,1,False,10,False,0,,B,2D,10,30,40,20
+83,1,5,20-30-10-40,union_k54,2,False,30,True,30,A,A,"2
+
+The best place to listen to the general heart sound with a stethoscope is The third left rib at its junction with the sternum.",20,30,10,40
+84,1,5,30-20-10-40,union_k54,1,False,30,False,0,,B,"1C
+
+The trachea is totally enclosed by cartilaginous rings.",30,20,10,40
+85,1,5,40-10-20-30,union_k54,1,False,40,False,0,,B,"1B
+
+The dilation of the pupil of the eye is brought about by activation of sympathetic nerves.",40,10,20,30
+86,1,5,20-30-10-40,union_k54,1,False,20,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",20,30,10,40
+87,1,5,20-10-30-40,union_k54,1,False,20,False,0,,B,3C,20,10,30,40
+88,1,5,40-30-20-10,union_k54,1,False,40,False,0,,C,"1D
+
+The stethoscope placed overthe patient's seventh right intercostal spaceinthe mid-axillary lineoverliestheCosto-diaphragmaticrecess.",40,30,20,10
+89,1,5,40-10-30-20,union_k54,1,False,40,False,0,,C,"1B
+
+The maxillary sinus drains into the superior meatus of the nasal cavities.",40,10,30,20
+90,1,5,20-30-10-40,union_k54,1,False,20,False,0,,B,2B,20,30,10,40
+91,1,5,30-10-40-20,union_k54,1,False,30,False,0,,D,3D,30,10,40,20
+92,1,5,30-10-20-40,union_k54,1,False,30,False,0,,A,"1C
+
+The trachea lies superficial to the esophagus.",30,10,20,40
+93,1,5,30-10-20-40,union_k54,1,False,30,False,0,,D,"1D
+
+The term that describes the body's ability to maintain its normal state is Homeostasis.",30,10,20,40
+94,1,5,10-20-40-30,union_k54,1,False,10,False,0,,C,2D,10,20,40,30
+95,1,5,10-20-40-30,union_k54,1,False,10,False,0,D,C,"Question 1
+
+Answer: D
+
+Tonsillar tissue is commonly found between the palatoglossal and palatopharyngeal folds.",10,20,40,30
+96,1,5,30-10-40-20,union_k54,1,False,30,False,0,,B,3B,30,10,40,20

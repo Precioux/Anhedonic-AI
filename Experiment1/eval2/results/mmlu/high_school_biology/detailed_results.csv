@@ -1,0 +1,1597 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+2,1,1,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+3,1,1,30-20-40-10,baseline,1,False,30,False,0,,C,1. Aposomatic coloration,30,20,40,10
+4,1,1,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+5,1,1,20-40-10-30,baseline,2,False,40,False,0,,B,2,20,40,10,30
+6,1,1,20-10-30-40,baseline,1,False,20,True,20,A,A,"1. A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species? (A) There are differences in the nucleotide sequences of certain gene",20,10,30,40
+7,1,1,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+8,1,1,10-30-20-40,baseline,1,False,10,False,0,D,C,"1
+D",10,30,20,40
+9,1,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+10,1,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+11,1,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+12,1,1,40-30-10-20,baseline,1,False,40,False,0,B,C,1. B,40,30,10,20
+13,1,1,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+14,1,1,30-40-10-20,baseline,2,False,40,True,40,C,C,"2
+C",30,40,10,20
+15,1,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+16,1,1,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+17,1,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+18,1,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+19,1,1,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+20,1,2,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+21,1,2,10-40-30-20,baseline,1,False,10,False,0,C,A,1. C,10,40,30,20
+22,1,2,40-20-30-10,baseline,1,False,40,False,0,D,C,1. D,40,20,30,10
+23,1,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+24,1,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+25,1,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+26,1,2,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+27,1,2,20-40-30-10,baseline,1,False,20,True,20,C,C,"1
+C",20,40,30,10
+28,1,2,20-10-30-40,baseline,1,False,20,False,0,A,D,"1
+A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT (A) the vacuole lost water and became smaller (B) the space between the cell wall and the",20,10,30,40
+29,1,2,20-40-30-10,baseline,1,False,20,False,0,D,B,"1
+D",20,40,30,10
+30,1,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+31,1,2,30-40-10-20,baseline,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+32,1,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+33,1,2,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+34,1,2,40-10-30-20,baseline,1,False,40,True,40,A,A,"1. A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species? (A) There are differences in the nucleotide sequences of certain gene",40,10,30,20
+35,1,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+36,1,2,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D,30,10,20,40
+37,1,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+38,1,2,20-10-40-30,baseline,1,False,20,False,0,B,C,1. B,20,10,40,30
+39,1,3,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+40,1,3,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+41,1,3,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+42,1,3,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+43,1,3,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+44,1,3,30-40-10-20,baseline,1,False,30,True,30,C,C,"1
+C",30,40,10,20
+45,1,3,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+46,1,3,40-30-10-20,baseline,1,False,40,False,0,,B,1,40,30,10,20
+47,1,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,1,3,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+49,1,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+50,1,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+51,1,3,10-40-20-30,baseline,1,False,10,True,10,A,A,1. A,10,40,20,30
+52,1,3,30-10-20-40,baseline,1,False,30,False,0,D,C,"1
+D",30,10,20,40
+53,1,3,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+54,1,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+55,1,3,30-40-20-10,baseline,1,False,30,True,30,C,C,"1
+C",30,40,20,10
+56,1,3,10-40-20-30,baseline,1,False,10,False,0,B,A,1. B,10,40,20,30
+57,1,3,10-20-40-30,baseline,1,False,10,False,0,C,D,"1
+C",10,20,40,30
+58,1,4,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+59,1,4,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+60,1,4,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+61,1,4,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+62,1,4,20-30-40-10,baseline,1,False,20,False,0,D,A,1. D,20,30,40,10
+63,1,4,20-30-40-10,baseline,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+64,1,4,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+65,1,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+66,1,4,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+67,1,4,20-30-40-10,baseline,1,False,20,True,20,D,D,"1
+D",20,30,40,10
+68,1,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+69,1,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+70,1,4,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+71,1,4,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+72,1,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+73,1,4,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+74,1,4,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+75,1,4,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+76,1,4,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+77,1,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+78,1,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+79,1,5,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+80,1,5,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+81,1,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+82,1,5,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+83,1,5,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+84,1,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+85,1,5,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+86,1,5,40-20-10-30,baseline,1,False,40,False,0,B,A,"1
+B",40,20,10,30
+87,1,5,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+88,1,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+89,1,5,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+90,1,5,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+91,1,5,40-30-10-20,baseline,1,False,40,False,0,D,B,"1
+D",40,30,10,20
+92,1,5,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+93,1,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+94,1,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+95,1,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+96,1,5,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+1,2,1,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+2,2,1,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+3,2,1,30-20-40-10,baseline,1,False,30,False,0,,C,1. Aposomatic coloration,30,20,40,10
+4,2,1,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+5,2,1,20-40-10-30,baseline,2,False,40,False,0,C,B,"2
+C",20,40,10,30
+6,2,1,20-10-30-40,baseline,1,False,20,True,20,A,A,"1. A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species? (A) There are differences in the nucleotide sequences of certain gene",20,10,30,40
+7,2,1,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+8,2,1,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+9,2,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+10,2,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+11,2,1,40-30-20-10,baseline,1,False,40,False,0,A,D,"1
+A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT (A) the vacuole lost water and became smaller (B) the space between the cell wall and the",40,30,20,10
+12,2,1,40-30-10-20,baseline,1,False,40,False,0,B,C,1. B,40,30,10,20
+13,2,1,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+14,2,1,30-40-10-20,baseline,2,False,40,True,40,C,C,"2
+C",30,40,10,20
+15,2,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+16,2,1,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+17,2,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+18,2,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+19,2,1,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+20,2,2,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+21,2,2,10-40-30-20,baseline,1,False,10,True,10,A,A,"1
+A",10,40,30,20
+22,2,2,40-20-30-10,baseline,1,False,40,False,0,D,C,"1
+D",40,20,30,10
+23,2,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+24,2,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+25,2,2,40-20-10-30,baseline,1,False,40,False,0,D,A,"1
+D",40,20,10,30
+26,2,2,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+27,2,2,20-40-30-10,baseline,1,False,20,True,20,C,C,"1
+C",20,40,30,10
+28,2,2,20-10-30-40,baseline,1,False,20,False,0,A,D,"1
+A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT (A) the vacuole lost water and became smaller (B) the space between the cell wall and the",20,10,30,40
+29,2,2,20-40-30-10,baseline,1,False,20,False,0,D,B,"1
+D",20,40,30,10
+30,2,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+31,2,2,30-40-10-20,baseline,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+32,2,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+33,2,2,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+34,2,2,40-10-30-20,baseline,1,False,40,True,40,A,A,"1. A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species? (A) There are differences in the nucleotide sequences of certain gene",40,10,30,20
+35,2,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+36,2,2,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D,30,10,20,40
+37,2,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+38,2,2,20-10-40-30,baseline,1,False,20,False,0,B,C,1. B,20,10,40,30
+39,2,3,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+40,2,3,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+41,2,3,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+42,2,3,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+43,2,3,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+44,2,3,30-40-10-20,baseline,1,False,30,True,30,C,C,"1
+C",30,40,10,20
+45,2,3,10-20-30-40,baseline,1,False,10,True,10,C,C,"1
+C",10,20,30,40
+46,2,3,40-30-10-20,baseline,1,False,40,False,0,,B,1,40,30,10,20
+47,2,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,2,3,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+49,2,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+50,2,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+51,2,3,10-40-20-30,baseline,1,False,10,True,10,A,A,1. A,10,40,20,30
+52,2,3,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+53,2,3,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+54,2,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+55,2,3,30-40-20-10,baseline,1,False,30,True,30,C,C,"1
+C",30,40,20,10
+56,2,3,10-40-20-30,baseline,1,False,10,False,0,B,A,1. B,10,40,20,30
+57,2,3,10-20-40-30,baseline,1,False,10,False,0,B,D,"1
+B",10,20,40,30
+58,2,4,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+59,2,4,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+60,2,4,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+61,2,4,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+62,2,4,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+63,2,4,20-30-40-10,baseline,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+64,2,4,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+65,2,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+66,2,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+67,2,4,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+68,2,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+69,2,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+70,2,4,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+71,2,4,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+72,2,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+73,2,4,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+74,2,4,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+75,2,4,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+76,2,4,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+77,2,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+78,2,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+79,2,5,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+80,2,5,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+81,2,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+82,2,5,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+83,2,5,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+84,2,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+85,2,5,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+86,2,5,40-20-10-30,baseline,1,False,40,False,0,B,A,"1
+B",40,20,10,30
+87,2,5,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+88,2,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+89,2,5,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+90,2,5,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+91,2,5,40-30-10-20,baseline,1,False,40,False,0,D,B,"1
+D",40,30,10,20
+92,2,5,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+93,2,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+94,2,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+95,2,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+96,2,5,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+1,3,1,10-20-40-30,baseline,1,False,10,True,10,C,C,"1
+C",10,20,40,30
+2,3,1,10-30-40-20,baseline,2,False,30,True,30,C,C,"2
+C",10,30,40,20
+3,3,1,30-20-40-10,baseline,1,False,30,False,0,D,C,1. D,30,20,40,10
+4,3,1,30-40-20-10,baseline,1,False,30,True,30,B,B,1. B,30,40,20,10
+5,3,1,20-40-10-30,baseline,2,False,40,False,0,C,B,"2
+C",20,40,10,30
+6,3,1,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species? (A) There are differences in the nucleotide sequences of certain gene",20,10,30,40
+7,3,1,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+8,3,1,10-30-20-40,baseline,1,False,10,True,10,C,C,"1
+C",10,30,20,40
+9,3,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+10,3,1,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+11,3,1,40-30-20-10,baseline,1,False,40,True,40,D,D,"1
+D",40,30,20,10
+12,3,1,40-30-10-20,baseline,1,False,40,False,0,B,C,1. B,40,30,10,20
+13,3,1,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+14,3,1,30-40-10-20,baseline,2,False,40,True,40,C,C,"2
+C",30,40,10,20
+15,3,1,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+16,3,1,20-30-10-40,baseline,1,False,20,True,20,C,C,"1
+C",20,30,10,40
+17,3,1,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+18,3,1,10-20-30-40,baseline,1,False,10,True,10,C,C,1. C,10,20,30,40
+19,3,1,30-20-40-10,baseline,1,False,30,False,0,B,A,1. B,30,20,40,10
+20,3,2,40-10-30-20,baseline,1,False,40,False,0,D,C,"1
+D",40,10,30,20
+21,3,2,10-40-30-20,baseline,1,False,10,False,0,C,A,1. C,10,40,30,20
+22,3,2,40-20-30-10,baseline,1,False,40,False,0,D,C,1. D,40,20,30,10
+23,3,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+24,3,2,20-10-40-30,baseline,3,False,40,False,0,,A,3,20,10,40,30
+25,3,2,40-20-10-30,baseline,1,False,40,True,40,A,A,"1
+A",40,20,10,30
+26,3,2,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+27,3,2,20-40-30-10,baseline,1,False,20,True,20,C,C,"1
+C",20,40,30,10
+28,3,2,20-10-30-40,baseline,1,False,20,False,0,A,D,"1
+A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT (A) the vacuole lost water and became smaller (B) the space between the cell wall and the",20,10,30,40
+29,3,2,20-40-30-10,baseline,2,False,40,False,0,B,C,"2
+B",20,40,30,10
+30,3,2,30-40-20-10,baseline,2,False,40,False,0,B,C,"2
+B",30,40,20,10
+31,3,2,30-40-10-20,baseline,2,False,40,True,40,B,B,"2
+B",30,40,10,20
+32,3,2,40-30-20-10,baseline,1,False,40,False,0,D,C,1. D,40,30,20,10
+33,3,2,40-20-30-10,baseline,1,False,40,True,40,D,D,1. D,40,20,30,10
+34,3,2,40-10-30-20,baseline,1,False,40,True,40,A,A,"1
+A",40,10,30,20
+35,3,2,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+36,3,2,30-10-20-40,baseline,1,False,30,False,0,,C,1. Aposomatic coloration,30,10,20,40
+37,3,2,10-20-30-40,baseline,1,False,10,True,10,D,D,1. D,10,20,30,40
+38,3,2,20-10-40-30,baseline,1,False,20,False,0,B,C,1. B,20,10,40,30
+39,3,3,40-30-10-20,baseline,1,False,40,True,40,D,D,"1
+D",40,30,10,20
+40,3,3,10-30-20-40,baseline,1,False,10,True,10,B,B,1. B,10,30,20,40
+41,3,3,10-40-30-20,baseline,1,False,10,True,10,D,D,"1
+D",10,40,30,20
+42,3,3,10-30-20-40,baseline,2,False,30,True,30,C,C,"2
+C",10,30,20,40
+43,3,3,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+44,3,3,30-40-10-20,baseline,1,False,30,True,30,C,C,"1
+C",30,40,10,20
+45,3,3,10-20-30-40,baseline,1,False,10,True,10,C,C,"1
+C",10,20,30,40
+46,3,3,40-30-10-20,baseline,1,False,40,False,0,,B,1,40,30,10,20
+47,3,3,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+48,3,3,20-10-30-40,baseline,1,False,20,True,20,A,A,"1
+A",20,10,30,40
+49,3,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+50,3,3,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+51,3,3,10-40-20-30,baseline,1,False,10,True,10,A,A,1. A,10,40,20,30
+52,3,3,30-10-20-40,baseline,1,False,30,True,30,C,C,"1
+C",30,10,20,40
+53,3,3,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+54,3,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+55,3,3,30-40-20-10,baseline,1,False,30,True,30,C,C,"1
+C",30,40,20,10
+56,3,3,10-40-20-30,baseline,1,False,10,False,0,B,A,1. B,10,40,20,30
+57,3,3,10-20-40-30,baseline,1,False,10,True,10,D,D,"1
+D",10,20,40,30
+58,3,4,30-40-20-10,baseline,1,False,30,True,30,B,B,"1
+B",30,40,20,10
+59,3,4,20-30-40-10,baseline,2,False,30,False,0,B,C,"2
+B",20,30,40,10
+60,3,4,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+61,3,4,30-20-40-10,baseline,1,False,30,True,30,A,A,1. A,30,20,40,10
+62,3,4,20-30-40-10,baseline,2,False,30,True,30,B,B,"2
+B",20,30,40,10
+63,3,4,20-30-40-10,baseline,2,False,30,False,0,B,D,"2
+B",20,30,40,10
+64,3,4,20-40-30-10,baseline,1,False,20,False,0,D,C,"1
+D",20,40,30,10
+65,3,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+66,3,4,40-20-10-30,baseline,1,False,40,True,40,B,B,"1
+B",40,20,10,30
+67,3,4,20-30-40-10,baseline,1,False,20,False,0,C,D,1. C,20,30,40,10
+68,3,4,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+69,3,4,20-30-10-40,baseline,1,False,20,True,20,D,D,"1
+D",20,30,10,40
+70,3,4,10-40-30-20,baseline,2,False,40,False,0,D,B,"2
+D",10,40,30,20
+71,3,4,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+72,3,4,30-10-40-20,baseline,1,False,30,True,30,B,B,1. B,30,10,40,20
+73,3,4,10-40-30-20,baseline,2,False,40,False,0,B,C,"2
+B",10,40,30,20
+74,3,4,10-20-40-30,baseline,1,False,10,True,10,C,C,1. C,10,20,40,30
+75,3,4,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+76,3,4,10-40-20-30,baseline,2,False,40,True,40,B,B,"2
+B",10,40,20,30
+77,3,5,10-30-20-40,baseline,1,False,10,True,10,D,D,1. D,10,30,20,40
+78,3,5,20-10-40-30,baseline,1,False,20,True,20,C,C,"1
+C",20,10,40,30
+79,3,5,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+80,3,5,40-20-30-10,baseline,1,False,40,True,40,D,D,"1
+D",40,20,30,10
+81,3,5,10-30-40-20,baseline,1,False,10,False,0,D,A,"1
+D",10,30,40,20
+82,3,5,30-40-10-20,baseline,2,False,40,False,0,B,C,"2
+B",30,40,10,20
+83,3,5,40-10-30-20,baseline,1,False,40,True,40,A,A,1. A,40,10,30,20
+84,3,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+85,3,5,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+86,3,5,40-20-10-30,baseline,1,False,40,False,0,B,A,1. (B) descent with modification,40,20,10,30
+87,3,5,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+88,3,5,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+89,3,5,20-30-10-40,baseline,1,False,20,True,20,C,C,1. C,20,30,10,40
+90,3,5,10-30-40-20,baseline,1,False,10,True,10,C,C,"1
+C",10,30,40,20
+91,3,5,40-30-10-20,baseline,1,False,40,False,0,D,B,"1
+D",40,30,10,20
+92,3,5,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+93,3,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+94,3,5,20-40-10-30,baseline,1,False,20,True,20,C,C,"1
+C",20,40,10,30
+95,3,5,40-30-20-10,baseline,1,False,40,False,0,D,C,"1
+D",40,30,20,10
+96,3,5,10-40-20-30,baseline,1,False,10,True,10,C,C,"1
+C",10,40,20,30
+1,1,1,10-20-40-30,model_A,1,False,10,False,0,,C,1A,10,20,40,30
+2,1,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"2C
+
+The correct answer is C) Photosystems I and II both play a role in the cyclic light reactions.",10,30,40,20
+3,1,1,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3D
+
+4D",30,20,40,10
+4,1,1,30-40-20-10,model_A,1,False,30,False,0,,B,"1B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of respiration.",30,40,20,10
+5,1,1,20-40-10-30,model_A,1,False,20,False,0,,B,"2C
+
+The processes that occur in the cytoplasm of an eukaryotic cell are Transcription (III) and Translation (III). DNA replication (I) occurs primarily in the nucleus. ThereforeThe answer is III only.",20,40,10,30
+6,1,1,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) There are differences in the nucleotide sequences of certain gene alleles among the species. This is because genetic drift, which occurs due to random changes in allele frequencies, can lead to differences in nucleotide sequences among populations. These differences can accumulate over time and eventually lead to speciation. The other options (B) Differences in the amino acid specified by each",20,10,30,40
+7,1,1,40-10-20-30,model_A,1,False,40,True,40,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted to swimming.",40,10,20,30
+8,1,1,10-30-20-40,model_A,1,False,10,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.
+
+2C
+
+The correct term for Similar evolutionary changes occurring in two species that can be related or unrelated is (C) Parallel evolution.
+
+3B
+
+The correct statement about the DNA content of a particular",10,30,20,40
+9,1,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",30,20,10,40
+10,1,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49",10,30,40,20
+11,1,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. This is because when a cell is placed in a hypertonic solution, water moves out of the cell by osmosis, causing the vacuole to shrink. The other statements are true aboutthe event.",40,30,20,10
+12,1,1,40-30-10-20,model_A,2,False,30,True,30,B,B,"2
+B",40,30,10,20
+13,1,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2C
+
+Hawkmoths and hummingbirds are examples of convergent evolution. They were subjected to similar environmental conditions. They have analogous structures. They are not genetically related to each other.",20,40,30,10
+14,1,1,30-40-10-20,model_A,1,False,30,False,0,,B,"2C
+
+The naturalist who synthesized the concept of natural selection independently of Darwin was Alfred Wallace.",30,40,10,20
+15,1,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The struggle for existence refers to Darwin's idea that organisms compete with each other for limited resources such as food, water, and mates. This idea was directly inspired by Thomas Malthus's Essay on the Principle of Population, which argued that populations tend to grow exponentially while resources growarbitrarily.",40,10,20,30
+16,1,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4C",20,30,10,40
+17,1,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"1D
+
+Water is a hydrophilic solvent, not hydrophobic.",40,30,20,10
+18,1,1,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+2D
+
+3C
+
+4B",10,20,30,40
+19,1,1,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2B
+
+3C
+
+4A",30,20,40,10
+20,1,2,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.",40,10,30,20
+21,1,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+22,1,2,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidcellinG1isXTheDNAcontentoftheCellinMetaphaseIis2X
+
+2B
+
+The synthesis ofnewproteinsnecessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulated",40,20,30,10
+23,1,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The flow of electrons down an electron transport chain in mitochondria powers the pumping of protons against agradientintotheoutercompartment.",10,20,30,40
+24,1,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2C
+
+3A
+
+4D",20,10,40,30
+25,1,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The structural level of a protein that is least affected by hydrogen bonding is the primary structure. The primary structure depends on the sequence of amino acids.",40,20,10,30
+26,1,2,30-10-20-40,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",30,10,20,40
+27,1,2,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+28,1,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. This is because when a cell is placed in a hypertonic solution (a solution with a higher solute concentration outside the cell than inside), water moves out of the cell by osmosis. This causes the vacuole, which contains most of the cell's water, to shrink. The other statements",20,10,30,40
+29,1,2,20-40-30-10,model_A,2,False,40,False,0,A,C,"2
+The percentage of the population that is homozygous dominant for this trait is 30%. ThereforeThe answer is (B) 30%.",20,40,30,10
+30,1,2,30-40-20-10,model_A,1,False,30,False,0,,A,"2B
+
+Similar evolutionary changes occurringintwo speciesthatcanberelatedorunrelatedisConvergentEvolution.",30,40,20,10
+31,1,2,30-40-10-20,model_A,1,False,30,True,30,B,B,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**. **Respiration**.",30,40,10,20
+32,1,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,30,20,10
+33,1,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3B
+
+4C",40,20,30,10
+34,1,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The gradual drop in the water level of alargeLakedivideditintothreeSmallerLakesTheDivisionSeparatedASinglePopulationOfFishIntoThreeSmallerIsolatedPopulationsAfterManyGenerationsItWasDeterminedThatTheThreePopulationsOfFishHadBecomeThreeSeparateSpeciesWhichOfTheFollowingIsMostLikelyCorrectAboutTheThreeSpeciesAThereAreDifferencesInThe",40,10,30,20
+35,1,2,30-10-40-20,model_A,3,False,40,False,0,A,D,"3
+
+The correct answer is (A) The vacuole lost water and became smaller.",30,10,40,20
+36,1,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1A
+
+2C
+
+3B
+
+4A",30,10,20,40
+37,1,2,10-20-30-40,model_A,2,False,20,True,20,C,C,"2
+C",10,20,30,40
+38,1,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1B
+
+2A
+
+3C
+
+4B",20,10,40,30
+39,1,3,40-30-10-20,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease will have daughters who are carriers. Therefore, All his daughters will be carriers.",40,30,10,20
+40,1,3,10-30-20-40,model_A,1,False,10,False,0,,B,1B,10,30,20,40
+41,1,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",10,40,30,20
+42,1,3,10-30-20-40,model_A,2,False,30,False,0,,C,"2
+Helicase unwinds the double helix.
+DNA ligase links the Okazaki fragments.
+DNA strands grow in the 5' to 3' direction.
+RNA polymerase is used to elongate both chains of the helix.",10,30,20,40
+43,1,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2B
+
+3A
+
+4B",30,10,20,40
+44,1,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1C
+
+The most likely explanation for the similar skeletal structures of humans and bats' upper forelimbs, despite their different shapes and proportions, isNatural selectionin an aquatic environmentresultinginsignificantchangestowhaleforelimbAnatomy.",30,40,10,20
+45,1,3,10-20-30-40,model_A,1,False,10,False,0,B,C,"2B
+
+The correct answer is B. Pepsin breaks down proteins to amino acids, not Pancreatic lipase.",10,20,30,40
+46,1,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.",40,30,10,20
+47,1,3,30-20-10-40,model_A,1,False,30,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller.",30,20,10,40
+48,1,3,20-10-30-40,model_A,1,False,20,False,0,D,A,"1A
+
+The differences between prokaryotes and eukaryotes include linear chromosomes, double-stranded DNA, mRNA processing, and membrane-bound organelles. The exception is (B) Single-stranded DNA, which is incorrect as prokaryotes possess single-stranded DNA.
+
+2A
+
+The correct answer is (A) There are differences in the nucleotide sequences of certain gene",20,10,30,40
+49,1,3,20-10-30-40,model_A,1,False,20,False,0,D,C,"1D
+
+In DNA replication, DNA strands grow in the 5' to 3' direction. Therefore, option D is correct.",20,10,30,40
+50,1,3,40-20-10-30,model_A,1,False,40,False,0,A,B,"1B
+
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidcellinG1isXTheDNAcontentoftheCellinMetaphaseIisX
+
+2B
+
+TheDNAcontentoftheCellinMetaphaseIisX
+
+3D
+
+Anα-helixisanexampleofasecondarystructureofapol",40,20,10,30
+51,1,3,10-40-20-30,model_A,1,False,10,False,0,,A,"1A
+
+The biome that is the driest of the land biomes and experiences the greatest daily temperature fluctuations is A) Desert.",10,40,20,30
+52,1,3,30-10-20-40,model_A,1,False,30,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions. The incorrect statement is (C)Photosystems I and II both play a role in the cyclic light reactions. Photosystems I and II play a role in the noncyclic light reactions.",30,10,20,40
+53,1,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+A",20,40,10,30
+54,1,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The coupling of an exergonic reaction with anendergoniconeisanexampleofCouplingAnExergonicReactionWithAnEndergonicOne.",30,10,40,20
+55,1,3,30-40-20-10,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial ancestors, and their forelimbs evolved into flippers adapted for swimming.",30,40,20,10
+56,1,3,10-40-20-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4D",10,40,20,30
+57,1,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 is 0.7 * 0.3 = 0.21. ThereforeThe proportion carryingBothA1",10,20,40,30
+58,1,4,30-40-20-10,model_A,1,False,30,False,0,,B,1B,30,40,20,10
+59,1,4,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+The DNA content of the cell in metaphase I is 2X.",20,30,40,10
+60,1,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",40,20,30,10
+61,1,4,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",30,20,40,10
+62,1,4,20-30-40-10,model_A,1,False,20,False,0,B,A,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**. **Respiration**.",20,30,40,10
+63,1,4,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+The correct answer is (A) The vacuole lost water and became smaller.",20,30,40,10
+64,1,4,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+65,1,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",30,20,10,40
+66,1,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated (B)at the transcription stage.",40,20,10,30
+67,1,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of the gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 would be 0.7 * 0.3 = 0.21.
+
+ThereforeThe proportion of flies",20,30,40,10
+68,1,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1
+
+The percentage of the population that is homozygous dominant (BB) can be calculated using the Hardy-Weinberg equation. The frequency of the recessive allele (b) is 0.3 (since 9% = 0.09), so The frequency of the dominant allele (B) = 1 - 0.3 = 0.7.",30,20,10,40
+69,1,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",20,30,10,40
+70,1,4,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+The processes that occur in the cytoplasm of an eukaryotic cell are Transcription and Translation. ThereforeThe answer is (C) II and III only.",10,40,30,20
+71,1,4,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+An individual with two identical alleles is said to be homozygous with respect to that gene, not heterozygous.",30,10,40,20
+72,1,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process ofBrespiration.",30,10,40,20
+73,1,4,10-40-30-20,model_A,1,False,10,False,0,,D,"2B
+
+Similar evolutionary changes occurring in two species that can berelatedorunrelatedisConvergentEvolution.",10,40,30,20
+74,1,4,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration istheAllantois.",10,20,40,30
+75,1,4,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",40,10,30,20
+76,1,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2B
+
+The synthesis of new proteins necessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulatedattheTranscriptionStage.",10,40,20,30
+77,1,5,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The trophic pyramid represents the energy flow through ecosystems. Primary producers (D) tend to be highest on the trophic pyramid because they form the base of the food chain by producing energy through photosynthesis. Primary consumers (A) and Herbivores (B) feed on primary producers, Primary Carnivores (C) feed on Primary Consumers/Herbivores.",10,30,20,40
+78,1,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",20,10,40,30
+79,1,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3C
+
+4A",20,10,40,30
+80,1,5,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",40,20,30,10
+81,1,5,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The question ""Which of the following tends to be highest on the trophic pyramid?"" asks Which of the following tends to be highest on the trophic pyramid? (A) Primary consumers (B) Herbivores (C) Primary carnivores (D) Primary producers
+
+The answer is (C) Primary carnivores
+
+The question ""Which of the following tends to be highest",10,30,40,20
+82,1,5,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidCellinG1isXTheDNAcontentoftheCellinMetaphaseIis2XThereforeTheCorrectAnswerIsCTheDNAContentOfTheCellInMetaphaseIIs2X
+
+3
+The least valid statement aboutHawkmothsTheleast",30,40,10,20
+83,1,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The biome that is the driest of the land biomes and experiences the greatest daily temperature fluctuations is A) Desert.",40,10,30,20
+84,1,5,20-40-10-30,model_A,1,False,20,True,20,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",20,40,10,30
+85,1,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The question asks Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth? The answer is CStruggle for existence.",20,30,10,40
+86,1,5,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+The definition of evolution that would have been most foreign to Charles Darwin during his lifetime would be (A) change in gene frequency in gene pools. Darwin's theory of evolution by natural selection focused on the gradual change of populations' heritable traits over generations. The concept of gene frequency, which became prominent later, was not widely accepted during Darwin's time.",40,20,10,30
+87,1,5,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+The proportion of flies carrying both A1 and A2 alleles is 0.21. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.21. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.21. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.21",10,20,40,30
+88,1,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",40,10,20,30
+89,1,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration is the Allantois.",20,30,10,40
+90,1,5,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+The correct answer is D. An individual with two identical alleles is said to be homozygous with respect to that gene.",10,30,40,20
+91,1,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.
+
+2D
+
+An α- helix is an example of a secondary structure of a polypeptide.
+
+3D
+
+The concentration of solutes in the extracellular environment is hypertonic with respect to the cell's interior.
+
+4A
+
+Aposomatic coloration",40,30,10,20
+92,1,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2C
+
+3A
+
+4D",30,20,40,10
+93,1,5,40-10-20-30,model_A,1,False,40,True,40,C,C,"1C
+
+The question asks Which of the following is LEAST valid? The correct answer is C) These organisms are genetically related to each other. This is because Hawkmoths and Hummingbirds are not related genetically. They are examples of Convergent evolution.",40,10,20,30
+94,1,5,20-40-10-30,model_A,1,False,20,True,20,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial ancestors, and their forelimbs evolved into flippers adapted for swimming.",20,40,10,30
+95,1,5,40-30-20-10,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch, a polymer made up of glucose monomers, into smaller units of fructose.",40,30,20,10
+96,1,5,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis (Metaphase I) would be 2X, assuming normal DNA replication has occurred.",10,40,20,30
+1,2,1,10-20-40-30,model_A,1,False,10,False,0,A,C,"1
+A",10,20,40,30
+2,2,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"2C
+
+The correct answer is C) Photosystems I and II both play a role in the cyclic light reactions.",10,30,40,20
+3,2,1,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3D
+
+4D",30,20,40,10
+4,2,1,30-40-20-10,model_A,1,False,30,False,0,,B,"1B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of respiration.",30,40,20,10
+5,2,1,20-40-10-30,model_A,1,False,20,False,0,,B,"2C
+
+The processes that occur in the cytoplasm of an eukaryotic cell are Transcription (III) and Translation (III). DNA replication (I) occurs primarily in the nucleus. ThereforeThe answer is III only.",20,40,10,30
+6,2,1,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) There are differences in the nucleotide sequences of certain gene alleles among the species. This is because genetic drift, which occurs due to random changes in allele frequencies, can lead to differences in nucleotide sequences among populations. These differences can accumulate over time and eventually lead to speciation. The other options (B) Differences in the amino acid specified by each",20,10,30,40
+7,2,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The most likely explanation for the similar skeletal structures of humans and bats, despite their different adaptations, isNatural selectionin an aquatic environmentresultinginsignificantchangestowhaleforelimbAnatomy.",40,10,20,30
+8,2,1,10-30-20-40,model_A,1,False,10,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.
+
+2C
+
+The correct term for Similar evolutionary changes occurring in two species that can be related or unrelated is (C) Parallel evolution.
+
+3B
+
+The correct statement about the DNA content of a particular",10,30,20,40
+9,2,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",30,20,10,40
+10,2,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49",10,30,40,20
+11,2,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. This is because when a cell is placed in a hypertonic solution, water moves out of the cell by osmosis, causing the vacuole to shrink. The other statements are true aboutthe event.",40,30,20,10
+12,2,1,40-30-10-20,model_A,1,False,40,False,0,,C,2B,40,30,10,20
+13,2,1,20-40-30-10,model_A,1,False,20,False,0,,D,"2C
+
+Hawkmoths and hummingbirds are examples of convergent evolution. They were subjected to similar environmental conditions. They have analogous structures. They are not genetically related to each other.",20,40,30,10
+14,2,1,30-40-10-20,model_A,1,False,30,False,0,,B,"2C
+
+The naturalist who synthesized the concept of natural selection independently of Darwin was Alfred Wallace.",30,40,10,20
+15,2,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The struggle for existence refers to Darwin's idea that organisms compete with each other for limited resources such as food, water, and mates. This idea was directly inspired by Thomas Malthus's Essay on the Principle of Population, which argued that populations tend to increase exponentially while resources increasearbitrarily.",40,10,20,30
+16,2,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4D",20,30,10,40
+17,2,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"1D
+
+Water is a hydrophilic solvent, not hydrophobic.",40,30,20,10
+18,2,1,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+2D
+
+3C
+
+4B",10,20,30,40
+19,2,1,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2B
+
+3C
+
+4A",30,20,40,10
+20,2,2,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polysaccharide) into smaller units, including fructose.",40,10,30,20
+21,2,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+22,2,2,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidcellinG1isXTheDNAcontentoftheCellinMetaphaseIis2X
+
+2B
+
+The synthesis ofnewproteinsnecessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulated",40,20,30,10
+23,2,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The flow of electrons down an electron transport chain in mitochondria powers the pumping of protons against agradientintotheoutercompartment.",10,20,30,40
+24,2,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2C
+
+3A
+
+4D",20,10,40,30
+25,2,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The structural level of a protein that is least affected by hydrogen bonding is the primary structure. The primary structure depends on the sequence of amino acids.",40,20,10,30
+26,2,2,30-10-20-40,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",30,10,20,40
+27,2,2,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+28,2,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. This is because when a cell is placed in a hypertonic solution (a solution with a higher solute concentration outside the cell than inside), water moves out of the cell by osmosis. This causes the vacuole, which contains most of the cell's water, to shrink. The other statements",20,10,30,40
+29,2,2,20-40-30-10,model_A,2,False,40,False,0,,C,"2
+The percentage of the population that is homozygous dominant (BB) can be calculated using the Hardy-Weinberg equation. The frequency of heterozygous carriers (Bb) is 2pq = 2(0.9)(0.09) = 0.162. ThereforeThe frequency of BB = 0.09 + 0",20,40,30,10
+30,2,2,30-40-20-10,model_A,1,False,30,False,0,B,A,"2B
+
+The question asks ""Similar evolutionary changes occurring in two species that can be related or unrelated."" The correct answer is (B) Convergent evolution.",30,40,20,10
+31,2,2,30-40-10-20,model_A,1,False,30,True,30,B,B,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**. **Respiration**.",30,40,10,20
+32,2,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,30,20,10
+33,2,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3B
+
+4C",40,20,30,10
+34,2,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The gradual drop in the water level of alargeLakedivideditintothreeSmallerLakesTheDivisionSeparatedASinglePopulationOfFishIntoThreeSmallerIsolatedPopulationsAfterManyGenerationsItWasDeterminedThatTheThreePopulationsOfFishHadBecomeThreeSeparateSpeciesWhichOfTheFollowingIsMostLikelyCorrectAboutTheThreeSpeciesThereAreDifferencesInTheN",40,10,30,20
+35,2,2,30-10-40-20,model_A,3,False,40,False,0,A,D,"3
+
+The correct answer is (A) The vacuole lost water and became smaller.",30,10,40,20
+36,2,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1A
+
+2C
+
+3B
+
+4A",30,10,20,40
+37,2,2,10-20-30-40,model_A,2,False,20,False,0,,C,"2
+DNA ligase links the Okazaki fragments.",10,20,30,40
+38,2,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1B
+
+2A
+
+3C
+
+4B",20,10,40,30
+39,2,3,40-30-10-20,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease will have daughters who are carriers. Therefore, All his daughters will be carriers.",40,30,10,20
+40,2,3,10-30-20-40,model_A,1,False,10,False,0,,B,1B,10,30,20,40
+41,2,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",10,40,30,20
+42,2,3,10-30-20-40,model_A,2,False,30,False,0,,C,"2
+Helicase unwinds the double helix.
+DNA ligase links the Okazaki fragments.
+DNA strands grow in the 5' to 3' direction.
+RNA polymerase is used to elongate both chains of the helix.",10,30,20,40
+43,2,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2B
+
+3A
+
+4B",30,10,20,40
+44,2,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1C
+
+The most likely explanation for the similar skeletal structures of humans and bats' upper forelimbs, despite their different shapes and proportions, isNatural selectionin an aquatic environmentresultinginsignificantchangestowhaleforelimbAnatomy.",30,40,10,20
+45,2,3,10-20-30-40,model_A,1,False,10,False,0,B,C,"2B
+
+The correct answer is B. Pepsin breaks down proteins to amino acids, not Pancreatic lipase.",10,20,30,40
+46,2,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.",40,30,10,20
+47,2,3,30-20-10-40,model_A,1,False,30,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller.",30,20,10,40
+48,2,3,20-10-30-40,model_A,1,False,20,False,0,,A,"1A
+
+2A
+
+3C
+
+4A",20,10,30,40
+49,2,3,20-10-30-40,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3C
+
+4C",20,10,30,40
+50,2,3,40-20-10-30,model_A,2,False,20,False,0,,C,"2
+The DNA content of the cell in metaphase I is 2X.",40,20,10,30
+51,2,3,10-40-20-30,model_A,1,False,10,False,0,,A,"1A
+
+The biome that is the driest of the land biomes and experiences the greatest daily temperature fluctuations is A) Desert.",10,40,20,30
+52,2,3,30-10-20-40,model_A,1,False,30,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions. The incorrect statement is (C)Photosystems I and II both play a role in the cyclic light reactions. Photosystems I and II play a role in the noncyclic light reactions.",30,10,20,40
+53,2,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+A",20,40,10,30
+54,2,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The coupling of an exergonic reaction with anendergoniconeisanexampleofCouplingTheExergonicReactionWithTheEndergonicOne
+
+TheExergonicReactionIsTheElectronsEscapingFromChlorophyllA
+
+TheEndergonicReactionIsTheHydrolysisOfWater
+
+ThereforeTheCouplingIsTheElectronsEscapingFrom",30,10,40,20
+55,2,3,30-40-20-10,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial ancestors, and their forelimbs evolved into flippers adapted for swimming.",30,40,20,10
+56,2,3,10-40-20-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4D",10,40,20,30
+57,2,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of the gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 would be 0.7 * 0.3 = 0.21. ThereforeThe answer is C",10,20,40,30
+58,2,4,30-40-20-10,model_A,1,False,30,False,0,,B,1B,30,40,20,10
+59,2,4,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+The DNA content of the cell in metaphase I is 2X.",20,30,40,10
+60,2,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",40,20,30,10
+61,2,4,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",30,20,40,10
+62,2,4,20-30-40-10,model_A,1,False,20,False,0,B,A,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**.respiration.",20,30,40,10
+63,2,4,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+The correct answer is (A) The vacuole lost water and became smaller.",20,30,40,10
+64,2,4,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+65,2,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",30,20,10,40
+66,2,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated (B)at the transcription stage.",40,20,10,30
+67,2,4,20-30-40-10,model_A,1,False,20,False,0,B,D,"1
+B
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of the gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 is 0.7 * 0.3 = 0.21. ThereforeThe proportion carrying",20,30,40,10
+68,2,4,30-20-10-40,model_A,1,False,30,False,0,A,C,"1
+A
+
+2
+B
+
+3
+A
+
+4
+D",30,20,10,40
+69,2,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",20,30,10,40
+70,2,4,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+The processes that occur in the cytoplasm of an eukaryotic cell are Transcription and Translation. ThereforeThe answer is (C) II and III only.",10,40,30,20
+71,2,4,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+An individual with two identical alleles is said to be homozygous with respect to that gene, not heterozygous.",30,10,40,20
+72,2,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process ofBrespiration.",30,10,40,20
+73,2,4,10-40-30-20,model_A,1,False,10,False,0,,D,"2B
+
+Similar evolutionary changes occurringintwo speciesthatcanberelatedorunrelatedisConvergentEvolution.",10,40,30,20
+74,2,4,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration istheAllantois.",10,20,40,30
+75,2,4,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",40,10,30,20
+76,2,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2B
+
+The synthesis of new proteins necessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulatedattheTranscriptionStage.",10,40,20,30
+77,2,5,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The trophic pyramid represents the energy flow in an ecosystem. The primary producers (D) tend to be highest on the trophic pyramid because they form the base of the food chain. Primary consumers (A) and Herbivores (B) feed on primary producers, Primary Carnivores (C) feed on Primary Consumers/Herbivores.",10,30,20,40
+78,2,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",20,10,40,30
+79,2,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3C
+
+4A",20,10,40,30
+80,2,5,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",40,20,30,10
+81,2,5,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The question ""Which of the following tends to be highest on the trophic pyramid?"" asks Which of the following tends to be highest on the trophic pyramid? (A) Primary consumers (B) Herbivores (C) Primary carnivores (D) Primary producers
+
+The answer is (C) Primary carnivores
+
+The question ""Which of the following tends to be highest",10,30,40,20
+82,2,5,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidCellinG1isXTheDNAcontentoftheCellinMetaphaseIis2XThereforeTheCorrectAnswerIsCTheDNAContentOfTheCellInMetaphaseIIs2X
+
+3
+The least valid statement aboutHawkmothsTheleast",30,40,10,20
+83,2,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The biome that is the driest of the land biomes and experiences the greatest daily temperature fluctuations is A) Desert.",40,10,30,20
+84,2,5,20-40-10-30,model_A,1,False,20,True,20,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",20,40,10,30
+85,2,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The question asks Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth? The answer is CStruggle for existence.",20,30,10,40
+86,2,5,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+The definition of evolution that would have been most foreign to Charles Darwin during his lifetime would be (A) change in gene frequency in gene pools. Darwin's theory of evolution by natural selection focused on the gradual change of populations' heritable traits over generations. The concept of gene frequency, which became prominent later, was not widely accepted during Darwin's time.",40,20,10,30
+87,2,5,10-20-40-30,model_A,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+88,2,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",40,10,20,30
+89,2,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration is the Allantois.",20,30,10,40
+90,2,5,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+The correct answer is D. An individual with two identical alleles is said to be homozygous with respect to that gene.",10,30,40,20
+91,2,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.
+
+2D
+
+An α- helix is an example of a secondary structure of a polypeptide.
+
+3D
+
+The concentration of solutes in the extracellular environment is hypertonic with respect to the cell's interior.
+
+4A
+
+Aposomatic coloration",40,30,10,20
+92,2,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2B
+
+3A
+
+4D",30,20,40,10
+93,2,5,40-10-20-30,model_A,1,False,40,True,40,C,C,"1C
+
+The question asks Which of the following is LEAST valid? The correct answer is C) These organisms are genetically related to each other. This is because Hawkmoths and Hummingbirds are not related genetically. They are examples of Convergent evolution.",40,10,20,30
+94,2,5,20-40-10-30,model_A,1,False,20,True,20,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial ancestors, similar to humans and bats, but evolved differently due to their aquatic lifestyle.",20,40,10,30
+95,2,5,40-30-20-10,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in producing High Fructose Corn Syrup (HFCS) would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.
+
+2C
+
+The incorrect statement about photosynthesis is (C)Photosystems I and II both play a role in the cyclic light reactions. Photosystems I and II play",40,30,20,10
+96,2,5,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis (Metaphase I) would be 2X, assuming normal DNA replication has occurred.",10,40,20,30
+1,3,1,10-20-40-30,model_A,1,False,10,False,0,A,C,"1
+A",10,20,40,30
+2,3,1,10-30-40-20,model_A,1,False,10,True,10,C,C,"2C
+
+The correct answer is C) Photosystems I and II both play a role in the cyclic light reactions.",10,30,40,20
+3,3,1,30-20-40-10,model_A,1,False,30,False,0,,C,"1A
+
+2D
+
+3D
+
+4D",30,20,40,10
+4,3,1,30-40-20-10,model_A,1,False,30,False,0,,B,"2C
+
+Hawkmoths and hummingbirds are examples of convergent evolution. They were subjected to similar environmental conditions, have analogous structures, but are not genetically related.",30,40,20,10
+5,3,1,20-40-10-30,model_A,1,False,20,False,0,,B,2C,20,40,10,30
+6,3,1,20-10-30-40,model_A,1,False,20,True,20,A,A,"1A
+
+The correct answer is (A) There are differences in the nucleotide sequences of certain gene alleles among the species. This is because genetic divergence occurs due to mutations, which alter the nucleotide sequences of genes. Over time, these differences accumulate and lead to speciation. The other options (B) Differences in the amino acid specified by each codon among the species, (C)",20,10,30,40
+7,3,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The most likely explanation for the similar skeletal structures of humans and bats, despite their different adaptations, isNatural selectionin an aquatic environmentresultinginsignificantchangestowhaleforelimbAnatomy.",40,10,20,30
+8,3,1,10-30-20-40,model_A,1,False,10,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.
+
+2C
+
+The correct term for Similar evolutionary changes occurring in two species that can be related or unrelated is (C) Parallel evolution.
+
+3B
+
+The correct statement about the DNA content of a particular",10,30,20,40
+9,3,1,30-20-10-40,model_A,1,False,30,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",30,20,10,40
+10,3,1,10-30-40-20,model_A,2,False,30,False,0,,D,"2
+The proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49. ThereforeThe proportion of flies carrying both A1 and A2 alleles is 0.49",10,30,40,20
+11,3,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. When a cell is placed in a hypertonic solution, water moves out of the cell by osmosis, causing the vacuole to shrink. The space between the cell wall and the cell membrane expands (B) because of this movement. The large vacuole contained a solution with much lower os",40,30,20,10
+12,3,1,40-30-10-20,model_A,1,False,40,False,0,,C,2B,40,30,10,20
+13,3,1,20-40-30-10,model_A,1,False,20,False,0,A,D,"2C
+
+Hawkmoths are insects that are similar in appearance and behavior to hummingbirds. Which of the following is LEAST valid? (A) These organisms are examples of convergent evolution. (B) These organisms were subjected to similar environmental conditions. (C) These organisms are genetically related to each Other. (D) These organisms have analogous structures.
+
+The least valid statement is (",20,40,30,10
+14,3,1,30-40-10-20,model_A,1,False,30,False,0,,B,"2C
+
+The naturalist who synthesized the concept of natural selection independently of Darwin was Alfred Wallace.",30,40,10,20
+15,3,1,40-10-20-30,model_A,1,False,40,False,0,,C,"1C
+
+The struggle for existence refers to Darwin's idea that organisms compete with each other for limited resources such as food, water, and mates. This idea was directly inspired by Thomas Malthus's Essay on the Principle of Population, which argued that populations tend to grow exponentially while resources growarbitrarily.",40,10,20,30
+16,3,1,20-30-10-40,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4C",20,30,10,40
+17,3,1,40-30-20-10,model_A,1,False,40,False,0,A,D,"2C
+
+Gregor Mendel synthesized a concept of natural selection independently of Darwin.",40,30,20,10
+18,3,1,10-20-30-40,model_A,1,False,10,False,0,,C,"1A
+
+2D
+
+3C
+
+4B",10,20,30,40
+19,3,1,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2B
+
+3C
+
+4A",30,20,40,10
+20,3,2,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in the production of HFCS would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.",40,10,30,20
+21,3,2,10-40-30-20,model_A,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+22,3,2,40-20-30-10,model_A,1,False,40,False,0,A,C,"1D
+
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidcellinG1isXTheDNAcontentoftheCellinMetaphaseIis2X
+
+2B
+
+The synthesis ofnewproteinsnecessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulated",40,20,30,10
+23,3,2,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The flow of electrons down an electron transport chain in mitochondria powers the pumping of protons against agradientintotheoutercompartment.",10,20,30,40
+24,3,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2C
+
+3A
+
+4D",20,10,40,30
+25,3,2,40-20-10-30,model_A,1,False,40,True,40,A,A,"1D
+
+The structural level of a protein that is least affected by hydrogen bonding is the primary structure. The primary structure depends on the sequence of amino acids.",40,20,10,30
+26,3,2,30-10-20-40,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",30,10,20,40
+27,3,2,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+28,3,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller. This is because when a cell is placed in a hypertonic solution (a solution with a higher solute concentration outside the cell), water moves out of the cell by osmosis. This causes the vacuole, which contains most of the cell's water, to shrink. The other statements are incorrect",20,10,30,40
+29,3,2,20-40-30-10,model_A,2,False,40,False,0,,C,"2
+The percentage of the population that is homozygous dominant (BB) can be calculated using the Hardy-Weinberg equation. The frequency of heterozygous carriers (Bb) is 2pq = 2(0.9)(0.09) = 0.162. ThereforeThe frequency of BB = 0.09 + 0",20,40,30,10
+30,3,2,30-40-20-10,model_A,1,False,30,False,0,B,A,"2B
+
+The question asks ""Similar evolutionary changes occurring in two species that can be related or unrelated."" The correct answer is (B) Convergent evolution.",30,40,20,10
+31,3,2,30-40-10-20,model_A,1,False,30,True,30,B,B,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**. **Respiration**.",30,40,10,20
+32,3,2,40-30-20-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,30,20,10
+33,3,2,40-20-30-10,model_A,1,False,40,False,0,,D,"1A
+
+2D
+
+3B
+
+4C",40,20,30,10
+34,3,2,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The gradual drop in the water level of alargeLakedivideditintothreeSmallerLakesTheDivisionSeparatedASinglePopulationOfFishIntoThreeSmallerIsolatedPopulationsAfterManyGenerationsItWasDeterminedThatTheThreePopulationsOfFishHadBecomeThreeSeparateSpeciesWhichOfTheFollowingIsMostLikelyCorrectAboutTheThreeSpeciesThereAreDifferencesInTheN",40,10,30,20
+35,3,2,30-10-40-20,model_A,3,False,40,False,0,A,D,"3
+
+The correct answer is (A) The vacuole lost water and became smaller.",30,10,40,20
+36,3,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1A
+
+2C
+
+3B
+
+4A",30,10,20,40
+37,3,2,10-20-30-40,model_A,2,False,20,True,20,C,C,"2
+
+The correct answer is (C) RNA polymerase is used to elongate both chains of the helix. RNA polymerase is used to elongate only one chain of the helix, not both.",10,20,30,40
+38,3,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1B
+
+2A
+
+3C
+
+4B",20,10,40,30
+39,3,3,40-30-10-20,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease will have daughters who are carriers. Therefore, All his daughters will be carriers.",40,30,10,20
+40,3,3,10-30-20-40,model_A,1,False,10,False,0,,B,1B,10,30,20,40
+41,3,3,10-40-30-20,model_A,1,False,10,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",10,40,30,20
+42,3,3,10-30-20-40,model_A,2,False,30,False,0,,C,"2
+Helicase unwinds the double helix.
+DNA ligase links the Okazaki fragments.
+DNA strands grow in the 5' to 3' direction.
+RNA polymerase is used to elongate both chains of the helix.",10,30,20,40
+43,3,3,30-10-20-40,model_A,1,False,30,False,0,,C,"1C
+
+2B
+
+3A
+
+4B",30,10,20,40
+44,3,3,30-40-10-20,model_A,1,False,30,False,0,,C,"1C
+
+The most likely explanation for the similar skeletal structures of humans and bats' upper forelimbs, despite their different shapes and proportions, isNatural selectionin an aquatic environmentresultinginsignificantchangestowhaleforelimbAnatomy.",30,40,10,20
+45,3,3,10-20-30-40,model_A,1,False,10,False,0,B,C,"2B
+
+The correct answer is B. Pepsin breaks down proteins to amino acids, not Pancreatic lipase.",10,20,30,40
+46,3,3,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.",40,30,10,20
+47,3,3,30-20-10-40,model_A,1,False,30,False,0,A,D,"1A
+
+The correct answer is A. The vacuole lost water and became smaller.",30,20,10,40
+48,3,3,20-10-30-40,model_A,1,False,20,False,0,D,A,"1A
+
+The differences between prokaryotes and eukaryotes include linear chromosomes, double-stranded DNA, mRNA processing, and membrane-bound organelles. The exception is (B) Single-stranded DNA, which is incorrect as prokaryotes possess single-stranded DNA.
+
+2A
+
+The correct answer is (A) There are differences in the nucleotide sequences of certain gene",20,10,30,40
+49,3,3,20-10-30-40,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3C
+
+4C",20,10,30,40
+50,3,3,40-20-10-30,model_A,2,False,20,False,0,,C,"2
+The DNA content of the cell in metaphase I is 2X.",40,20,10,30
+51,3,3,10-40-20-30,model_A,2,False,40,False,0,,D,"2
+The proportion of flies carrying both A1 and A2 alleles is 0.49.",10,40,20,30
+52,3,3,30-10-20-40,model_A,1,False,30,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions. The incorrect statement is (C)Photosystems I and II both play a role in the cyclic light reactions. Photosystems I and II play a role in the noncyclic light reactions.",30,10,20,40
+53,3,3,20-40-10-30,model_A,1,False,20,False,0,A,C,"1
+A",20,40,10,30
+54,3,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The coupling of an exergonic reaction with anendergoniconeisanexampleofCouplingAnExergonicReactionWithAnEndergonicOne.",30,10,40,20
+55,3,3,30-40-20-10,model_A,1,False,30,True,30,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial ancestors, and their forelimbs evolved into flippers adapted for swimming.",30,40,20,10
+56,3,3,10-40-20-30,model_A,1,False,10,False,0,,A,"1A
+
+2D
+
+3C
+
+4D",10,40,20,30
+57,3,3,10-20-40-30,model_A,1,False,10,False,0,,D,"1
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of the gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 is 0.7 * 0.3 = 0.21. ThereforeThe proportion carryingBothA",10,20,40,30
+58,3,4,30-40-20-10,model_A,1,False,30,False,0,,B,1B,30,40,20,10
+59,3,4,20-30-40-10,model_A,2,False,30,False,0,,C,"2
+The DNA content of the cell in metaphase I is 2X.",20,30,40,10
+60,3,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",40,20,30,10
+61,3,4,30-20-40-10,model_A,1,False,30,False,0,,A,"1A
+
+2D
+
+3C
+
+4B",30,20,40,10
+62,3,4,20-30-40-10,model_A,1,False,20,False,0,B,A,"2B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of **B**.respiration.",20,30,40,10
+63,3,4,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+The correct answer is (A) The vacuole lost water and became smaller.",20,30,40,10
+64,3,4,20-40-30-10,model_A,1,False,20,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",20,40,30,10
+65,3,4,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The naturalist who synthesized aconceptofnaturalselectionindependentlyofDarwinisAlfredWallace.",30,20,10,40
+66,3,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1B
+
+The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated (B)at the transcription stage.",40,20,10,30
+67,3,4,20-30-40-10,model_A,1,False,20,False,0,,D,"1
+
+The proportion of flies carrying both A1 and A2 alleles can be calculated using the Hardy-Weinberg equation. If 70% of the gametes contain A1, then 30% contain A2. The proportion carrying both A1 and A2 would be 0.7 * 0.3 = 0.21.
+
+ThereforeThe proportion of flies",20,30,40,10
+68,3,4,30-20-10-40,model_A,1,False,30,False,0,A,C,"1
+A
+
+2
+B
+
+3
+A
+
+4
+D",30,20,10,40
+69,3,4,20-30-10-40,model_A,1,False,20,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththediseaseAllhisdaughterswillbecarriers.",20,30,10,40
+70,3,4,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+The processes that occur in the cytoplasm of an eukaryotic cell are Transcription and Translation. ThereforeThe answer is (C) II and III only.",10,40,30,20
+71,3,4,30-10-40-20,model_A,1,False,30,False,0,A,D,"3C
+
+Some animals have patterns that can cause a predator to think twice before attacking. (C)Deceptive markings
+
+The correct answer is C. Deceptive markings. These are patterns or behaviors used by animals to deceive predators.",30,10,40,20
+72,3,4,30-10-40-20,model_A,1,False,30,False,0,,B,"1B
+
+The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process ofBrespiration.",30,10,40,20
+73,3,4,10-40-30-20,model_A,1,False,10,False,0,,D,"2B
+
+Similar evolutionary changes occurringintwo speciesthatcanberelatedorunrelatedisConvergentEvolution.",10,40,30,20
+74,3,4,10-20-40-30,model_A,1,False,10,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration istheAllantois.",10,20,40,30
+75,3,4,40-10-30-20,model_A,1,False,40,False,0,D,C,"1D
+
+The correct answer is D. O2 is a product of the light-dependent reactions.",40,10,30,20
+76,3,4,10-40-20-30,model_A,1,False,10,False,0,,B,"2B
+
+The synthesis of new proteins necessaryforlactoseutilizationbythebacteriumE.coliusingthelacoperonisregulatedattheTranscriptionStage.",10,40,20,30
+77,3,5,10-30-20-40,model_A,2,False,30,False,0,D,C,"2
+
+The trophic pyramid represents the energy flow through ecosystems. Primary producers (D) tend to be highest on the trophic pyramid because they form the base of the food chain. Primary consumers (A) and Herbivores (B) feed on primary producers, Primary Carnivores (C) feed on Primary Consumers/Herbivores.",10,30,20,40
+78,3,5,20-10-40-30,model_A,1,False,20,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis would be 2X, assuming normal DNA replication has occurred.",20,10,40,30
+79,3,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+2B
+
+3C
+
+4A",20,10,40,30
+80,3,5,40-20-30-10,model_A,1,False,40,False,0,A,D,"1D
+
+A man who has hemophilia and whose wife doesnothavethe diseaseandwho doesnothaveanyrelativeswiththe diseaseAllhisdaughterswillbecarriers.",40,20,30,10
+81,3,5,10-30-40-20,model_A,2,False,30,False,0,,C,"2
+
+The question ""Which of the following tends to be highest on the trophic pyramid?"" asks Which of the following tends to be highest on the trophic pyramid? (A) Primary consumers (B) Herbivores (C) Primary carnivores (D) Primary producers
+
+The answer is (C) Primary carnivores
+
+The question ""Which of the following tends to be highest",10,30,40,20
+82,3,5,30-40-10-20,model_A,2,False,40,False,0,A,C,"2
+The DNA content of a particular diploid cell just prior to mitosis IftheDNAcontentofthesameDiploidCellinG1isXTheDNAcontentoftheCellinMetaphaseIis2XThereforeTheCorrectAnswerIsCTheDNAContentOfTheCellInMetaphaseIIs2X
+
+3
+The least valid statement aboutHawkmothsTheleast",30,40,10,20
+83,3,5,40-10-30-20,model_A,1,False,40,False,0,,A,"1A
+
+The biome that is the driest of the land biomes and experiences the greatest daily temperature fluctuations is A) Desert.",40,10,30,20
+84,3,5,20-40-10-30,model_A,1,False,20,True,20,C,C,"1C
+
+The most likely explanation is (C)Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy. This is because whales evolved from terrestrial mammals, and their forelimbs evolved into flippers adapted for swimming.",20,40,10,30
+85,3,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The question asks Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth? The answer is CStruggle for existence.",20,30,10,40
+86,3,5,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+The definition of evolution that would have been most foreign to Charles Darwin during his lifetime would be (A) change in gene frequency in gene pools. Darwin's theory of evolution by natural selection focused on the gradual change of populations' heritable traits over generations. The concept of gene frequency, which became prominent later, was not widely accepted during Darwin's time.",40,20,10,30
+87,3,5,10-20-40-30,model_A,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+88,3,5,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+2A
+
+3B
+
+4D",40,10,20,30
+89,3,5,20-30-10-40,model_A,1,False,20,False,0,,C,"1C
+
+The extraembryonic membrane that functions in excretion and respiration is the Allantois.",20,30,10,40
+90,3,5,10-30-40-20,model_A,1,False,10,False,0,D,C,"2D
+
+The correct answer is D. An individual with two identical alleles is said to be homozygous with respect to that gene.",10,30,40,20
+91,3,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1D
+
+The processes DNA replication, transcription, and translation occur in the cytoplasm of an eukaryotic cell.
+
+2A
+
+The primary structure of a protein depends on the sequence of amino acids.
+
+3D
+
+The concentration of solutes in the extracellular environment is hypertonic with respect to the cell's interior.
+
+4A
+
+Aposomatic coloration refers to patterns that can",40,30,10,20
+92,3,5,30-20-40-10,model_A,1,False,30,False,0,,C,"1C
+
+2C
+
+3A
+
+4D",30,20,40,10
+93,3,5,40-10-20-30,model_A,1,False,40,True,40,C,C,"1C
+
+The question asks Which of the following is LEAST valid? The correct answer is C) These organisms are genetically related to each other. This is because Hawkmoths and Hummingbirds are not related genetically.",40,10,20,30
+94,3,5,20-40-10-30,model_A,2,False,40,False,0,C,D,"2
+C",20,40,10,30
+95,3,5,40-30-20-10,model_A,1,False,40,False,0,D,C,"1D
+
+The reaction involved in producing High Fructose Corn Syrup (HFCS) would be (D) starch → (fructose)n. This reaction involves breaking down starch (a polymer) into individual fructose molecules.",40,30,20,10
+96,3,5,10-40-20-30,model_A,1,False,10,False,0,A,C,"1C
+
+The DNA content of a diploid cell just prior to mitosis (Metaphase I) would be 2X, assuming normal DNA replication has occurred.",10,40,20,30

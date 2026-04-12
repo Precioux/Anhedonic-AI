@@ -1,0 +1,1585 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,30-20-40-10,baseline,1,False,30,True,30,B,B,1. B,30,20,40,10
+2,1,1,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+3,1,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+4,1,1,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+5,1,1,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+6,1,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+7,1,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+8,1,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+9,1,1,20-30-40-10,baseline,1,False,20,False,0,B,D,"1
+B",20,30,40,10
+10,1,1,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+11,1,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+12,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,1,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+14,1,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+15,1,1,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+16,1,1,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+17,1,1,30-20-10-40,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: A",30,20,10,40
+18,1,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A person desiring to lose weight makes a late night snack to quell a craving.",20,40,30,10
+19,1,1,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+20,1,2,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+21,1,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+22,1,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+23,1,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+24,1,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+25,1,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+26,1,2,40-20-30-10,baseline,-1,True,0,False,0,,,"1. C
+2. D
+3. C
+4. A",40,20,30,10
+27,1,2,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+28,1,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+29,1,2,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+30,1,2,30-40-20-10,baseline,1,False,30,True,30,C,C,1. C,30,40,20,10
+31,1,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+32,1,2,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D) Tyranny of choice,30,10,20,40
+33,1,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+34,1,2,10-30-40-20,baseline,1,False,10,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (10 points)
+
+Answer: C",10,30,40,20
+35,1,2,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+36,1,2,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+37,1,2,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,1,2,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+39,1,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+40,1,3,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+41,1,3,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+42,1,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+43,1,3,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+44,1,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+45,1,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+46,1,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+47,1,3,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+48,1,3,10-20-30-40,baseline,1,False,10,False,0,B,D,1. B,10,20,30,40
+49,1,3,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+50,1,3,20-30-10-40,baseline,1,False,20,True,20,A,A,1. A,20,30,10,40
+51,1,3,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+52,1,3,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+53,1,3,20-10-40-30,baseline,3,False,40,False,0,C,D,"3
+C",20,10,40,30
+54,1,3,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+55,1,3,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+56,1,3,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+57,1,3,30-10-40-20,baseline,1,False,30,True,30,D,D,"1
+D",30,10,40,20
+58,1,4,20-40-10-30,baseline,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,1,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+60,1,4,20-40-30-10,baseline,2,False,40,False,0,D,C,"2
+D",20,40,30,10
+61,1,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+62,1,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+63,1,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+64,1,4,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+65,1,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+66,1,4,20-40-10-30,baseline,1,False,20,False,0,D,C,1. D) Tyranny of choice,20,40,10,30
+67,1,4,10-30-20-40,baseline,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,1,4,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+69,1,4,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D) Tyranny of choice,10,30,40,20
+70,1,4,30-40-10-20,baseline,1,False,30,False,0,A,C,"1
+A",30,40,10,20
+71,1,4,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+72,1,4,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+73,1,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+74,1,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+75,1,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+76,1,4,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+77,1,5,20-30-40-10,baseline,1,False,20,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase
+
+Answer: A",20,30,40,10
+78,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+79,1,5,40-10-30-20,baseline,1,False,40,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (40 points)
+
+Answer: C",40,10,30,20
+80,1,5,10-30-20-40,baseline,2,False,30,False,0,C,A,"2
+C",10,30,20,40
+81,1,5,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,1,5,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+83,1,5,30-20-40-10,baseline,3,False,40,True,40,D,D,"3
+D",30,20,40,10
+84,1,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,1,5,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+86,1,5,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+87,1,5,30-40-20-10,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: C",30,40,20,10
+88,1,5,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,1,5,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+90,1,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+91,1,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+92,1,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+93,1,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+94,1,5,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+95,1,5,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+96,1,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+1,2,1,30-20-40-10,baseline,1,False,30,True,30,B,B,1. B,30,20,40,10
+2,2,1,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+3,2,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+4,2,1,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+5,2,1,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+6,2,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+7,2,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+8,2,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+9,2,1,20-30-40-10,baseline,1,False,20,False,0,B,D,"1
+B",20,30,40,10
+10,2,1,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+11,2,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+12,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,2,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+14,2,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+15,2,1,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+16,2,1,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+17,2,1,30-20-10-40,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: A",30,20,10,40
+18,2,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A person desiring to lose weight makes a late night snack to quell a craving.",20,40,30,10
+19,2,1,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+20,2,2,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+21,2,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+22,2,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+23,2,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+24,2,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+25,2,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+26,2,2,40-20-30-10,baseline,-1,True,0,False,0,,,"1. C
+2. D
+3. C
+4. A",40,20,30,10
+27,2,2,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+28,2,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+29,2,2,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+30,2,2,30-40-20-10,baseline,1,False,30,True,30,C,C,1. C,30,40,20,10
+31,2,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+32,2,2,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D) Tyranny of choice,30,10,20,40
+33,2,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+34,2,2,10-30-40-20,baseline,1,False,10,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase
+
+Answer: C",10,30,40,20
+35,2,2,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+36,2,2,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+37,2,2,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,2,2,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+39,2,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+40,2,3,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+41,2,3,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+42,2,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+43,2,3,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+44,2,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+45,2,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+46,2,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+47,2,3,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+48,2,3,10-20-30-40,baseline,1,False,10,False,0,B,D,1. B,10,20,30,40
+49,2,3,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+50,2,3,20-30-10-40,baseline,1,False,20,True,20,A,A,1. A,20,30,10,40
+51,2,3,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+52,2,3,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+53,2,3,20-10-40-30,baseline,3,False,40,False,0,C,D,"3
+C",20,10,40,30
+54,2,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+55,2,3,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+56,2,3,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+57,2,3,30-10-40-20,baseline,1,False,30,False,0,B,D,"1
+B",30,10,40,20
+58,2,4,20-40-10-30,baseline,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,2,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+60,2,4,20-40-30-10,baseline,2,False,40,False,0,D,C,"2
+D",20,40,30,10
+61,2,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+62,2,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+63,2,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+64,2,4,40-20-10-30,baseline,-1,True,0,False,0,,,"1. A
+2. D
+3. D
+4. C",40,20,10,30
+65,2,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+66,2,4,20-40-10-30,baseline,1,False,20,False,0,D,C,1. D) Tyranny of choice,20,40,10,30
+67,2,4,10-30-20-40,baseline,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,2,4,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+69,2,4,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D) Tyranny of choice,10,30,40,20
+70,2,4,30-40-10-20,baseline,1,False,30,False,0,A,C,"1
+A",30,40,10,20
+71,2,4,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+72,2,4,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+73,2,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+74,2,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+75,2,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+76,2,4,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+77,2,5,20-30-40-10,baseline,1,False,20,True,20,C,C,"1
+C",20,30,40,10
+78,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+79,2,5,40-10-30-20,baseline,1,False,40,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (40 points)
+
+Answer: C",40,10,30,20
+80,2,5,10-30-20-40,baseline,2,False,30,False,0,C,A,"2
+C",10,30,20,40
+81,2,5,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,2,5,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+83,2,5,30-20-40-10,baseline,1,False,30,True,30,B,B,"1
+B",30,20,40,10
+84,2,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,2,5,40-10-20-30,baseline,1,False,40,False,0,C,D,"1
+C",40,10,20,30
+86,2,5,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+87,2,5,30-40-20-10,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: C",30,40,20,10
+88,2,5,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,2,5,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+90,2,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+91,2,5,10-20-40-30,baseline,1,False,10,True,10,D,D,"1
+D",10,20,40,30
+92,2,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+93,2,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+94,2,5,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+95,2,5,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+96,2,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+1,3,1,30-20-40-10,baseline,1,False,30,True,30,B,B,1. B,30,20,40,10
+2,3,1,20-10-40-30,baseline,1,False,20,True,20,A,A,1. A,20,10,40,30
+3,3,1,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+4,3,1,30-20-40-10,baseline,1,False,30,True,30,C,C,1. C,30,20,40,10
+5,3,1,10-30-20-40,baseline,2,False,30,True,30,D,D,"2
+D",10,30,20,40
+6,3,1,40-30-20-10,baseline,1,False,40,False,0,D,A,1. D,40,30,20,10
+7,3,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+8,3,1,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+9,3,1,20-30-40-10,baseline,1,False,20,False,0,B,D,"1
+B",20,30,40,10
+10,3,1,30-20-40-10,baseline,3,False,40,False,0,,C,3,30,20,40,10
+11,3,1,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+12,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+13,3,1,20-40-10-30,baseline,1,False,20,True,20,D,D,1. D,20,40,10,30
+14,3,1,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+15,3,1,10-40-20-30,baseline,1,False,10,True,10,D,D,1. D,10,40,20,30
+16,3,1,20-40-10-30,baseline,2,False,40,True,40,B,B,"2
+B",20,40,10,30
+17,3,1,30-20-10-40,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: A",30,20,10,40
+18,3,1,20-40-30-10,baseline,1,False,20,True,20,A,A,"1
+A person desiring to lose weight makes a late night snack to quell a craving.",20,40,30,10
+19,3,1,20-10-40-30,baseline,1,False,20,True,20,B,B,1. B,20,10,40,30
+20,3,2,40-30-10-20,baseline,1,False,40,True,40,A,A,1. A,40,30,10,20
+21,3,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+22,3,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+23,3,2,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+24,3,2,10-40-20-30,baseline,2,False,40,True,40,D,D,"2
+D",10,40,20,30
+25,3,2,10-30-40-20,baseline,1,False,10,True,10,D,D,"1
+D",10,30,40,20
+26,3,2,40-20-30-10,baseline,1,False,40,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (40 points)
+
+Answer: C",40,20,30,10
+27,3,2,20-40-30-10,baseline,1,False,20,True,20,D,D,1. D,20,40,30,10
+28,3,2,10-40-30-20,baseline,1,False,10,True,10,C,C,1. C,10,40,30,20
+29,3,2,40-10-30-20,baseline,1,False,40,True,40,D,D,1. D,40,10,30,20
+30,3,2,30-40-20-10,baseline,1,False,30,True,30,C,C,1. C,30,40,20,10
+31,3,2,20-30-10-40,baseline,1,False,20,True,20,B,B,1. B,20,30,10,40
+32,3,2,30-10-20-40,baseline,1,False,30,False,0,D,C,1. D) Tyranny of choice,30,10,20,40
+33,3,2,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+34,3,2,10-30-40-20,baseline,1,False,10,False,0,A,C,1. A,10,30,40,20
+35,3,2,20-30-40-10,baseline,1,False,20,False,0,C,A,1. C,20,30,40,10
+36,3,2,10-20-30-40,baseline,1,False,10,False,0,B,D,"1
+B",10,20,30,40
+37,3,2,10-20-40-30,baseline,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,3,2,20-10-30-40,baseline,1,False,20,True,20,D,D,1. D,20,10,30,40
+39,3,3,20-30-40-10,baseline,1,False,20,True,20,D,D,1. D,20,30,40,10
+40,3,3,10-20-30-40,baseline,1,False,10,True,10,D,D,"1
+D",10,20,30,40
+41,3,3,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+42,3,3,40-10-20-30,baseline,1,False,40,False,0,C,D,1. C,40,10,20,30
+43,3,3,40-30-20-10,baseline,1,False,40,True,40,D,D,1. D,40,30,20,10
+44,3,3,20-10-30-40,baseline,1,False,20,True,20,B,B,1. B,20,10,30,40
+45,3,3,40-10-20-30,baseline,-1,True,0,False,0,,,"1. D
+2. A
+3. B
+4. C",40,10,20,30
+46,3,3,40-10-20-30,baseline,1,False,40,True,40,D,D,1. D,40,10,20,30
+47,3,3,30-10-20-40,baseline,1,False,30,False,0,D,A,1. D,30,10,20,40
+48,3,3,10-20-30-40,baseline,1,False,10,False,0,B,D,1. B,10,20,30,40
+49,3,3,20-10-30-40,baseline,1,False,20,True,20,D,D,"1
+D",20,10,30,40
+50,3,3,20-30-10-40,baseline,1,False,20,True,20,A,A,1. A,20,30,10,40
+51,3,3,40-20-30-10,baseline,1,False,40,True,40,A,A,1. A,40,20,30,10
+52,3,3,10-20-30-40,baseline,1,False,10,True,10,B,B,1. B,10,20,30,40
+53,3,3,20-10-40-30,baseline,3,False,40,False,0,C,D,"3
+C",20,10,40,30
+54,3,3,30-10-40-20,baseline,3,False,40,True,40,D,D,"3
+D",30,10,40,20
+55,3,3,40-20-10-30,baseline,1,False,40,True,40,D,D,"1
+D",40,20,10,30
+56,3,3,40-20-30-10,baseline,1,False,40,True,40,B,B,1. B,40,20,30,10
+57,3,3,30-10-40-20,baseline,1,False,30,False,0,B,D,"1
+B",30,10,40,20
+58,3,4,20-40-10-30,baseline,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,3,4,20-30-10-40,baseline,1,False,20,True,20,D,D,1. D,20,30,10,40
+60,3,4,20-40-30-10,baseline,2,False,40,False,0,D,C,"2
+D",20,40,30,10
+61,3,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+62,3,4,40-20-30-10,baseline,1,False,40,True,40,A,A,"1
+A",40,20,30,10
+63,3,4,30-20-10-40,baseline,1,False,30,True,30,D,D,1. D,30,20,10,40
+64,3,4,40-20-10-30,baseline,1,False,40,True,40,A,A,1. A,40,20,10,30
+65,3,4,40-20-10-30,baseline,1,False,40,True,40,B,B,1. B,40,20,10,30
+66,3,4,20-40-10-30,baseline,1,False,20,False,0,D,C,"1
+D",20,40,10,30
+67,3,4,10-30-20-40,baseline,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,3,4,10-20-40-30,baseline,2,False,20,False,0,B,D,"2
+B",10,20,40,30
+69,3,4,10-30-40-20,baseline,1,False,10,False,0,D,C,1. D) Tyranny of choice,10,30,40,20
+70,3,4,30-40-10-20,baseline,1,False,30,False,0,D,C,"1
+D",30,40,10,20
+71,3,4,40-30-10-20,baseline,1,False,40,True,40,D,D,1. D,40,30,10,20
+72,3,4,30-20-10-40,baseline,1,False,30,False,0,C,D,1. C,30,20,10,40
+73,3,4,30-40-20-10,baseline,2,False,40,True,40,D,D,"2
+D",30,40,20,10
+74,3,4,10-40-20-30,baseline,1,False,10,True,10,B,B,1. B,10,40,20,30
+75,3,4,10-30-40-20,baseline,2,False,30,False,0,B,D,"2
+B",10,30,40,20
+76,3,4,30-40-20-10,baseline,1,False,30,True,30,D,D,"1
+D",30,40,20,10
+77,3,5,20-30-40-10,baseline,1,False,20,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase
+
+Answer: A",20,30,40,10
+78,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+79,3,5,40-10-30-20,baseline,1,False,40,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (40 points)
+
+Answer: C",40,10,30,20
+80,3,5,10-30-20-40,baseline,2,False,30,False,0,C,A,"2
+C",10,30,20,40
+81,3,5,20-40-30-10,baseline,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,3,5,20-10-40-30,baseline,1,False,20,False,0,D,C,1. D,20,10,40,30
+83,3,5,30-20-40-10,baseline,1,False,30,True,30,B,B,"1
+B",30,20,40,10
+84,3,5,10-40-30-20,baseline,1,False,10,True,10,D,D,1. D,10,40,30,20
+85,3,5,40-10-20-30,baseline,1,False,40,True,40,D,D,"1
+D",40,10,20,30
+86,3,5,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+87,3,5,30-40-20-10,baseline,1,False,30,False,0,A,C,"1. Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption? (A) Lipase (B) Elastinogen (C) Trypsinogen (D) Carboxypeptidase (30 points)
+
+Answer: C",30,40,20,10
+88,3,5,10-40-30-20,baseline,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,3,5,10-40-20-30,baseline,1,False,10,True,10,C,C,1. C,10,40,20,30
+90,3,5,30-10-20-40,baseline,1,False,30,True,30,D,D,1. D,30,10,20,40
+91,3,5,10-20-40-30,baseline,1,False,10,True,10,D,D,1. D,10,20,40,30
+92,3,5,30-10-40-20,baseline,1,False,30,True,30,D,D,1. D,30,10,40,20
+93,3,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+94,3,5,40-30-10-20,baseline,1,False,40,True,40,B,B,1. B,40,30,10,20
+95,3,5,10-30-20-40,baseline,1,False,10,True,10,C,C,1. C,10,30,20,40
+96,3,5,30-40-10-20,baseline,1,False,30,True,30,D,D,1. D,30,40,10,20
+1,1,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The two principal contractile proteins found in skeletal muscle are actin and myosin.",30,20,40,10
+2,1,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",20,10,40,30
+3,1,1,10-20-40-30,model_A,2,False,20,False,0,A,D,"2
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20 g/day.",10,20,40,30
+4,1,1,30-20-40-10,model_A,2,False,20,True,20,D,D,"2
+D",30,20,40,10
+5,1,1,10-30-20-40,model_A,1,False,10,False,0,,B,"2D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,30,20,40
+6,1,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+The question asks How fast will water empty from the jug? The answer 4.47 m/s corresponds to option A.",40,30,20,10
+7,1,1,30-10-20-40,model_A,1,False,30,True,30,A,A,"1A
+
+The question asks How fast will water empty from the jug? The answer A 4.47 m/s is correct.
+
+2B
+
+The question asksThe term gene doping refers toThe answerThe use of genetic manipulation techniques to enhance performance in sport. is correct.
+
+3D
+
+The question asksThis behavior is best explained byThe answerThe Mercury has strong cohesive than adhesive forces,",30,10,20,40
+8,1,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",20,10,30,40
+9,1,1,20-30-40-10,model_A,2,False,30,False,0,,A,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 92 chromatids.",20,30,40,10
+10,1,1,30-20-40-10,model_A,3,False,40,True,40,C,C,"3
+
+This is an example of **C**Ego depletion.",30,20,40,10
+11,1,1,10-40-30-20,model_A,1,False,10,True,10,D,D,"1D
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D.",10,40,30,20
+12,1,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20g/day.",40,10,30,20
+13,1,1,20-40-10-30,model_A,2,False,40,True,40,A,A,"2
+
+The statement that would mean a desire has become a temptation is (A) A person desiring to lose weight makes a late night snack to quell a craving.",20,40,10,30
+14,1,1,40-10-30-20,model_A,1,False,40,False,0,C,D,"1C
+
+The main factors determining success in sport are C) a good coach and the motivation to succeed.",40,10,30,20
+15,1,1,10-40-20-30,model_A,1,False,10,True,10,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, totaling 46 chromosomes.
+
+2A
+
+The question asks ""Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?"" The answer A) An intrinsic desire to know",10,40,20,30
+16,1,1,20-40-10-30,model_A,2,False,40,False,0,,B,"2
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,40,10,30
+17,1,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",30,20,10,40
+18,1,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"1A
+
+The statement ""A person desiring to lose weight makes a late night snack to quell a craving"" would mean a desire has become a temptation.",20,40,30,10
+19,1,1,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4C",20,10,40,30
+20,1,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2C
+
+3A
+
+4C",40,30,10,20
+21,1,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+22,1,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 5g/day.",20,30,10,40
+23,1,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The first fibre types to fatigue during sprinting areType IIX fibres.",40,30,10,20
+24,1,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"2D
+
+A person suffering from severe dehydration and starvation would NOT be expected to have elevated plasma concentrations forInsulin.",10,40,20,30
+25,1,2,10-30-40-20,model_A,1,False,10,True,10,D,D,"1D
+
+The behavior observed is best explained by (D)the Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",10,30,40,20
+26,1,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3C
+
+4A",40,20,30,10
+27,1,2,20-40-30-10,model_A,1,False,20,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (O2 supply to muscles, availability of body stores of carbohydrate, ATP and phosphocreatine content) are all important factors for endurance performance.",20,40,30,10
+28,1,2,10-40-30-20,model_A,1,False,10,False,0,,C,"1D
+
+The social phenomenon of groupthink is characterized by all ofthefollowingEXCEPTAnefforttominimizeconflictoandensuresConsensus.",10,40,30,20
+29,1,2,40-10-30-20,model_A,1,False,40,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",40,10,30,20
+30,1,2,30-40-20-10,model_A,1,False,30,False,0,,C,"1C
+
+The creatine kinase reaction is inhibited by low pH in the muscle.",30,40,20,10
+31,1,2,20-30-10-40,model_A,1,False,20,False,0,,B,"1A
+
+2D
+
+3D
+
+4D",20,30,10,40
+32,1,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The psychological concept demonstrated by this study is Tyranny of choice. The individuals who took a sweet from the tray were twice as likely to use the longer hallway as individuals who refused. This suggests that The Tyranny of choice, which refers totheparadoxicalsituationwherehavingmoreoptionscanleadtopoordecisionsorparalysis.
+
+2D
+
+The hormone Insulinisnot",30,10,20,40
+33,1,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",40,30,20,10
+34,1,2,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3D
+
+4C",10,30,40,20
+35,1,2,20-30-40-10,model_A,1,False,20,False,0,D,A,"Question 1
+
+Answer: D
+
+The speed of water emptying from the jug can be calculated using Torricelli's Theorem, which states that v = sqrt(2gh), where v is the speed of water, g is acceleration duetogravity(9.81m/s^2),andhisdifferenceinheightbetweenthetopoftheJugandthelevel",20,30,40,10
+36,1,2,10-20-30-40,model_A,2,False,20,False,0,,C,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 46 chromatids.",10,20,30,40
+37,1,2,10-20-40-30,model_A,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,1,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term bursts of energy.",20,10,30,40
+39,1,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",20,30,40,10
+40,1,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",10,20,30,40
+41,1,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,10,30
+42,1,3,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+43,1,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,30,20,10
+44,1,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,10,30,40
+45,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+2A
+3A
+4C",40,10,20,30
+46,1,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,10,20,30
+47,1,3,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3D
+
+4C",30,10,20,40
+48,1,3,10-20-30-40,model_A,1,False,10,False,0,B,D,"1
+B
+
+2
+A
+
+3
+D
+
+4
+C",10,20,30,40
+49,1,3,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The ability to regulate body temperature is important for success in endurance events such as the marathon race.
+
+2B
+
+The term gene doping refers tothe use of genetic manipulation techniques to enhance performance in sport.",20,10,30,40
+50,1,3,20-30-10-40,model_A,2,False,30,False,0,B,D,"2
+
+The behavior observed is best explained by (B) The adhesive forces between water and the walls of the graduated cylinder are greater than the adhesive forces between the mercury and the walls ofthe graduated cylinder.",20,30,10,40
+51,1,3,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,30,10
+52,1,3,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",10,20,30,40
+53,1,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+An allele that is masked is referredtoA recessive.",20,10,40,30
+54,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"3D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,10,40,20
+55,1,3,40-20-10-30,model_A,1,False,40,False,0,A,D,"1D
+
+The point at which a cell commits to dividing is known as the restriction point (R). Prior to this point, The cell has 23 chromosomes, 23 chromatids.",40,20,10,30
+56,1,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",40,20,30,10
+57,1,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",30,10,40,20
+58,1,4,20-40-10-30,model_A,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,1,4,20-30-10-40,model_A,1,False,20,False,0,C,D,"1C
+
+The main factors determining success in sport are C) A good coach and the motivation to succeed.",20,30,10,40
+60,1,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2D
+
+The psychological concept demonstrated by this study is Tyranny of choice.",20,40,30,10
+61,1,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,20,10,40
+62,1,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The statement ""A person desiring to lose weight makes a late night snack to quell a craving"" would mean a desire has become a temptation.",40,20,30,10
+63,1,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,20,10,40
+64,1,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4C",40,20,10,30
+65,1,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4A",40,20,10,30
+66,1,4,20-40-10-30,model_A,1,False,20,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading to indecision or avoidance. In this study, offering chocolate chip cookies created a choice that led participants to avoid making another choice (using the stairs).",20,40,10,30
+67,1,4,10-30-20-40,model_A,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,1,4,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The physiological characteristic that is not important for success in endurance events such as the marathon race is (D) Muscle ATP and phosphocreatine content.",10,20,40,30
+69,1,4,10-30-40-20,model_A,1,False,10,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading toparalysisand ultimatelychoosingtheoptionthatistheleastcostlyortheeasiestoption.
+
+2C
+
+The enzymeTrypsinogenisconvertedintotrypsinbyTrypsinactivatorintheDuodenumandPan",10,30,40,20
+70,1,4,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The therapist's approach demonstrates Spatial discrimination.",30,40,10,20
+71,1,4,40-30-10-20,model_A,1,False,40,True,40,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, making 46 chromosomes.
+
+2D
+
+The question asks ""The main factors determining success in sport are:"" The answer D) innate ability and the capacity to respond to the training stimulus. is",40,30,10,20
+72,1,4,30-20-10-40,model_A,1,False,30,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",30,20,10,40
+73,1,4,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The main factors determining success in sport are: (D) innate ability and the capacity to respond to the training stimulus.",30,40,20,10
+74,1,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",10,40,20,30
+75,1,4,10-30-40-20,model_A,1,False,10,False,0,,A,"2C
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces between two Mercury atoms, whereas Water has strong adhesive forces between Water molecules.",10,30,40,20
+76,1,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2D
+
+All human somatic cells contain 46 chromosomes.",30,40,20,10
+77,1,5,20-30-40-10,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",20,30,40,10
+78,1,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",30,10,40,20
+79,1,5,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,10,30,20
+80,1,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+The speed of water emptying from the jug can be calculated using Torricelli's Theorem. The formula is v = sqrt(2gh), where v is velocity, g is acceleration duetogravity(9.81m/s^2),hispTheheightoftheWaterintheJug(1m),andTheRadiusoftheJug'sBottomOpening(0",10,30,20,40
+81,1,5,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,1,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4C",20,10,40,30
+83,1,5,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",30,20,40,10
+84,1,5,10-40-30-20,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race.",10,40,30,20
+85,1,5,40-10-20-30,model_A,1,False,40,True,40,D,D,"1D
+
+The behavior observed is best explained by (D)The Mercury has strong cohesive forces, whereas water has strong adhesive forces.
+
+2C
+
+The term Gene Doping refersto (B)TheUseOfGeneticManipulationTechniquesToEnhancePerformanceInSport.",40,10,20,30
+86,1,5,30-40-10-20,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A asks ""How fast will water empty from the jug?"" The answer 1A provides ""The speed of water emptying from the jug"" which seems to be the correct answer. The question 1B asks ""The speed of water emptying from the jug"" The answer 1B provides ""The speed of water emptying from thejug""which seems",30,40,10,20
+87,1,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1A
+
+2A
+
+3D
+
+4B",30,40,20,10
+88,1,5,10-40-30-20,model_A,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,1,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1D
+
+The social phenomenon of groupthink is characterized by all ofthefollowingEXCEPTAnefforttominimizeconflictoandensuresConsensus.",10,40,20,30
+90,1,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at theverybottomoftheSide. Howfastwillwateremptyfromthejug? (A) 4.47m/s (B) 6.25m/s (C) 8.",30,10,20,40
+91,1,5,10-20-40-30,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (A)The ability to supply oxygen to the exercising muscles, (B)The availability of body stores of carbohydrate, (D)Muscle ATP and phosphocreatine content)are",10,20,40,30
+92,1,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The main factors determining success in sport are innate ability and the capacity to respond to the training stimulus.",30,10,40,20
+93,1,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,40,10,20
+94,1,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The higher the intensity of exercise, the greater the proportional contribution of anaerobic energy production.",40,30,10,20
+95,1,5,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+The therapist's approach demonstrates Universalization.",10,30,20,40
+96,1,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term energy production.",30,40,10,20
+1,2,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The two principal contractile proteins found in skeletal muscle are actin and myosin.",30,20,40,10
+2,2,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",20,10,40,30
+3,2,1,10-20-40-30,model_A,2,False,20,False,0,A,D,"2
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20 g/day.",10,20,40,30
+4,2,1,30-20-40-10,model_A,1,False,30,False,0,,C,"1D
+
+The social phenomenon of groupthink is characterized by all ofthefollowingEXCEPTAnefforttominimizeconflictoandensuresConsensus.",30,20,40,10
+5,2,1,10-30-20-40,model_A,1,False,10,False,0,,B,"2D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,30,20,40
+6,2,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+The question asks How fast will water empty from the jug? The answer 4.47 m/s corresponds to option A.",40,30,20,10
+7,2,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+The question asks How fast will water empty from the jug? The answer 4.47 m/s corresponds to option A.
+
+2B
+
+The question asksWhatTheGeneDopingTermRefersTo?TheanswerTheUseOfGeneticManipulationTechniquesToEnhancePerformanceInSportcorrespondstooptionB.
+
+3D
+
+The question asksWhatTheBehaviorIsBestExpl",30,10,20,40
+8,2,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",20,10,30,40
+9,2,1,20-30-40-10,model_A,2,False,30,False,0,,A,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 92 chromatids.",20,30,40,10
+10,2,1,30-20-40-10,model_A,3,False,40,True,40,C,C,"3
+
+This is an example of **C**Ego depletion.",30,20,40,10
+11,2,1,10-40-30-20,model_A,1,False,10,True,10,D,D,"1D
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D.",10,40,30,20
+12,2,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20g/day.",40,10,30,20
+13,2,1,20-40-10-30,model_A,2,False,40,True,40,A,A,"2
+
+The statement that would mean a desire has become a temptation is (A) A person desiring to lose weight makes a late night snack to quell a craving.",20,40,10,30
+14,2,1,40-10-30-20,model_A,1,False,40,False,0,C,D,"1C
+
+The main factors determining success in sport are C) a good coach and the motivation to succeed.",40,10,30,20
+15,2,1,10-40-20-30,model_A,1,False,10,True,10,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, totaling 46 chromosomes.
+
+2A
+
+The question asks ""Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?"" The answer A) An intrinsic desire to know",10,40,20,30
+16,2,1,20-40-10-30,model_A,2,False,40,False,0,,B,"2
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,40,10,30
+17,2,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",30,20,10,40
+18,2,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"1D
+
+A person pauses their show on TV in order to grab a blanket because they are cold. This statement describes a desire that has become a temptation.",20,40,30,10
+19,2,1,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4B",20,10,40,30
+20,2,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2C
+
+3A
+
+4C",40,30,10,20
+21,2,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+22,2,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 5g/day.",20,30,10,40
+23,2,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The first fibre types to fatigue during sprinting areType IIX fibres.",40,30,10,20
+24,2,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"2D
+
+A person suffering from severe dehydration and starvation would NOT be expected to have elevated plasma concentrations forInsulin.",10,40,20,30
+25,2,2,10-30-40-20,model_A,1,False,10,True,10,D,D,"1D
+
+The behavior observed is best explained by (D)the Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",10,30,40,20
+26,2,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3C
+
+4A",40,20,30,10
+27,2,2,20-40-30-10,model_A,1,False,20,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (O2 supply to muscles, availability of body stores of carbohydrate, ATP and phosphocreatine content) are all important factors for endurance performance.",20,40,30,10
+28,2,2,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The social phenomenon of groupthink is characterized by high loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions. This is NOT characteristic of groupthink.",10,40,30,20
+29,2,2,40-10-30-20,model_A,1,False,40,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",40,10,30,20
+30,2,2,30-40-20-10,model_A,1,False,30,False,0,,C,"1C
+
+The creatine kinase reaction is inhibited by low pH in the muscle.",30,40,20,10
+31,2,2,20-30-10-40,model_A,1,False,20,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",20,30,10,40
+32,2,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The psychological concept demonstrated by this study is Tyranny of choice. The individuals who took a sweet from the tray were twice as likely to use the longer hallway as individuals who refused. This suggests that The Tyranny of choice, which refers totheparadoxicalsituationwherehavingmoreoptionscanleadtopoordecisionsorparalysis.
+
+2D
+
+The hormone Insulin is NOT",30,10,20,40
+33,2,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",40,30,20,10
+34,2,2,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3D
+
+4C",10,30,40,20
+35,2,2,20-30-40-10,model_A,1,False,20,True,20,A,A,"Question 1
+
+Answer: A
+
+The speed of water emptying from the jug can be calculated using Torricelli's Theorem. The formula is v = sqrt(2gh), where v is the speed, g is acceleration duetogravity(9.81m/s^2),andhisdifferenceinheightbetweenthetopoftheJugandthelevelofwater",20,30,40,10
+36,2,2,10-20-30-40,model_A,2,False,20,False,0,,C,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 46 chromatids.",10,20,30,40
+37,2,2,10-20-40-30,model_A,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,2,2,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term bursts of energy.",20,10,30,40
+39,2,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",20,30,40,10
+40,2,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+2C
+
+3B
+
+4D",10,20,30,40
+41,2,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,10,30
+42,2,3,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+43,2,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,30,20,10
+44,2,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,10,30,40
+45,2,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+2A
+3A
+4C",40,10,20,30
+46,2,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,10,20,30
+47,2,3,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3D
+
+4C",30,10,20,40
+48,2,3,10-20-30-40,model_A,1,False,10,False,0,B,D,"1
+B
+
+2
+A
+
+3
+D
+
+4
+C",10,20,30,40
+49,2,3,20-10-30-40,model_A,1,False,20,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race.",20,10,30,40
+50,2,3,20-30-10-40,model_A,1,False,20,True,20,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",20,30,10,40
+51,2,3,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,30,10
+52,2,3,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",10,20,30,40
+53,2,3,20-10-40-30,model_A,1,False,20,False,0,,A,"3C
+
+The behavior observed is best explained by the fact that cohesive forces between two mercury atoms are stronger than cohesive forces between two water molecules.",20,10,40,30
+54,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"3D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,10,40,20
+55,2,3,40-20-10-30,model_A,1,False,40,False,0,A,D,"1D
+
+The point at which a cell commits to dividing is known as the restriction point (R). Prior to this point, the cell has 23 chromosomes, 23 chromatids.",40,20,10,30
+56,2,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",40,20,30,10
+57,2,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",30,10,40,20
+58,2,4,20-40-10-30,model_A,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,2,4,20-30-10-40,model_A,1,False,20,False,0,C,D,"1C
+
+The main factors determining success in sport are C) A good coach and the motivation to succeed.",20,30,10,40
+60,2,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2D
+
+The psychological concept demonstrated by this study is Tyranny of choice.",20,40,30,10
+61,2,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,20,10,40
+62,2,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The statement ""A person desiring to lose weight makes a late night snack to quell a craving"" would mean a desire has become a temptation.",40,20,30,10
+63,2,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,20,10,40
+64,2,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4D",40,20,10,30
+65,2,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4A",40,20,10,30
+66,2,4,20-40-10-30,model_A,1,False,20,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading to indecision or avoidance. In this study, offering chocolate chip cookies created a choice that led participants to make a decision about whether to take a sweet. This decision-making process led to participants choosing the longer hallway, likely because they felt overwhelmed by the choice",20,40,10,30
+67,2,4,10-30-20-40,model_A,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,2,4,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The physiological characteristic that is not important for success in endurance events such as the marathon race is (D) Muscle ATP and phosphocreatine content.",10,20,40,30
+69,2,4,10-30-40-20,model_A,1,False,10,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading toparalysisand ultimatelychoosingtheoptionthatistheleastcostlyortheeasiestoption.
+
+2C
+
+The enzymeTrypsinogenisconvertedintotrypsinbyTrypsinactivatorintheDuodenumandPan",10,30,40,20
+70,2,4,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The therapist's approach demonstrates Spatial discrimination.",30,40,10,20
+71,2,4,40-30-10-20,model_A,1,False,40,True,40,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, making 46 chromosomes.
+
+2D
+
+The question asks ""The main factors determining success in sport are:"" The answer D) innate ability and the capacity to respond to the training stimulus. is",40,30,10,20
+72,2,4,30-20-10-40,model_A,1,False,30,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",30,20,10,40
+73,2,4,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The main factors determining success in sport are: (D) innate ability and the capacity to respond to the training stimulus.",30,40,20,10
+74,2,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",10,40,20,30
+75,2,4,10-30-40-20,model_A,1,False,10,False,0,,A,"2C
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces between two Mercury atoms, whereas Water has strong adhesive forces between Water molecules.",10,30,40,20
+76,2,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2D
+
+All human somatic cells contain 46 chromosomes.",30,40,20,10
+77,2,5,20-30-40-10,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",20,30,40,10
+78,2,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",30,10,40,20
+79,2,5,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,10,30,20
+80,2,5,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The answer is A) 4.47 m/s.",10,30,20,40
+81,2,5,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,2,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4C",20,10,40,30
+83,2,5,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",30,20,40,10
+84,2,5,10-40-30-20,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (A)The ability to supply oxygen to the exercising muscles, (B)The availability of body stores of carbohydrate, (D)Muscle ATP and phosphocreatine content)are",10,40,30,20
+85,2,5,40-10-20-30,model_A,1,False,40,True,40,D,D,"1D
+
+The behavior observed is best explained by (D)The Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",40,10,20,30
+86,2,5,30-40-10-20,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A asks ""How fast will water empty from the jug?"" The answer 1A provides ""The speed of water emptying from the jug"" which seems to be the correct answer. The question 1B asks ""The speed of water emptying from the jug"" The answer 1B provides ""The speed of water emptying from thejug""which seems",30,40,10,20
+87,2,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1A
+
+2A
+
+3D
+
+4B",30,40,20,10
+88,2,5,10-40-30-20,model_A,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,2,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1D
+
+The social phenomenon of groupthink is characterized by all ofthefollowingEXCEPTAnefforttominimizeconflictoandensuresConsensus.",10,40,20,30
+90,2,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at theverybottomoftheSide. Howfastwillwateremptyfromthejug? (A) 4.47m/s (B) 6.25m/s (C) 8.",30,10,20,40
+91,2,5,10-20-40-30,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where athletes can maintain their body temperature. The ability to supply oxygen to the exercising muscles, availability of body stores of carbohydrate, and muscle ATP and phosphocreatine content are all important physiological characteristics for success in endurance events.",10,20,40,30
+92,2,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The main factors determining success in sport are innate ability and the capacity to respond to the training stimulus.",30,10,40,20
+93,2,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,40,10,20
+94,2,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The higher the intensity of exercise, the greater the proportional contribution of anaerobic energy production.",40,30,10,20
+95,2,5,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+The therapist's approach demonstrates Universalization.",10,30,20,40
+96,2,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term energy production.",30,40,10,20
+1,3,1,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The two principal contractile proteins found in skeletal muscle are actin and myosin.",30,20,40,10
+2,3,1,20-10-40-30,model_A,1,False,20,True,20,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",20,10,40,30
+3,3,1,10-20-40-30,model_A,2,False,20,False,0,A,D,"2
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20 g/day.",10,20,40,30
+4,3,1,30-20-40-10,model_A,2,False,20,True,20,D,D,"2
+D",30,20,40,10
+5,3,1,10-30-20-40,model_A,1,False,10,False,0,,B,"2D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",10,30,20,40
+6,3,1,40-30-20-10,model_A,1,False,40,False,0,,A,"1A
+
+The question 1A asks ""How fast will water empty from the jug?"" The answer 1A provides ""The speed of water emptying from the jug"" which implies The speed. ThereforeThe answer 1A isThe speed.",40,30,20,10
+7,3,1,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+The question asks How fast will water empty from the jug? The answer 4.47 m/s corresponds to option A.
+
+2B
+
+The question asksWhatTheGeneDopingTermRefersTo?TheanswerTheUseOfGeneticManipulationTechniquesToEnhancePerformanceInSportcorrespondstooptionB.
+
+3D
+
+The question asksWhatTheBehaviorIsBestExpl",30,10,20,40
+8,3,1,20-10-30-40,model_A,1,False,20,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",20,10,30,40
+9,3,1,20-30-40-10,model_A,2,False,30,False,0,,A,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 92 chromatids.",20,30,40,10
+10,3,1,30-20-40-10,model_A,3,False,40,True,40,C,C,"3
+
+This is an example of **C**Ego depletion.",30,20,40,10
+11,3,1,10-40-30-20,model_A,1,False,10,True,10,D,D,"1D
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D. 23
+
+The answer is D.",10,40,30,20
+12,3,1,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 20g/day.",40,10,30,20
+13,3,1,20-40-10-30,model_A,2,False,40,True,40,A,A,"2
+
+The statement that would mean a desire has become a temptation is (A) A person desiring to lose weight makes a late night snack to quell a craving.",20,40,10,30
+14,3,1,40-10-30-20,model_A,1,False,40,False,0,C,D,"1C
+
+The main factors determining success in sport are C) a good coach and the motivation to succeed.",40,10,30,20
+15,3,1,10-40-20-30,model_A,1,False,10,True,10,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, totaling 46 chromosomes.
+
+2A
+
+The question asks ""Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?"" The answer A) An intrinsic desire to know",10,40,20,30
+16,3,1,20-40-10-30,model_A,2,False,40,False,0,,B,"2
+The term gene doping referstoBtheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,40,10,30
+17,3,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1A
+
+2B
+
+3B
+
+4D",30,20,10,40
+18,3,1,20-40-30-10,model_A,1,False,20,True,20,A,A,"1D
+
+A person pauses their show on TV in order to grab a blanket because they are cold. This statement describes a desire that has become a temptation.",20,40,30,10
+19,3,1,20-10-40-30,model_A,1,False,20,False,0,,B,"1A
+
+2A
+
+3A
+
+4C",20,10,40,30
+20,3,2,40-30-10-20,model_A,1,False,40,False,0,,A,"1A
+
+2C
+
+3A
+
+4C",40,30,10,20
+21,3,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",40,30,20,10
+22,3,2,20-30-10-40,model_A,1,False,20,False,0,A,B,"1B
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 5g/day.",20,30,10,40
+23,3,2,40-30-10-20,model_A,1,False,40,False,0,,D,"1D
+
+The first fibre types to fatigue during sprinting areType IIX fibres.",40,30,10,20
+24,3,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"2D
+
+A person suffering from severe dehydration and starvation would NOT be expected to have elevated plasma concentrations forInsulin.",10,40,20,30
+25,3,2,10-30-40-20,model_A,1,False,10,True,10,D,D,"1D
+
+The behavior observed is best explained by (D)the Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",10,30,40,20
+26,3,2,40-20-30-10,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3C
+
+4A",40,20,30,10
+27,3,2,20-40-30-10,model_A,1,False,20,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (O2 supply to muscles, availability of body stores of carbohydrate, ATP and phosphocreatine content) are all important factors for endurance performance.",20,40,30,10
+28,3,2,10-40-30-20,model_A,1,False,10,False,0,,C,"1C
+
+The social phenomenon of groupthink is characterized by high loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions. This is NOT characteristic of groupthink.",10,40,30,20
+29,3,2,40-10-30-20,model_A,1,False,40,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",40,10,30,20
+30,3,2,30-40-20-10,model_A,1,False,30,False,0,,C,"1C
+
+The creatine kinase reaction is inhibited by low pH in the muscle.",30,40,20,10
+31,3,2,20-30-10-40,model_A,1,False,20,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",20,30,10,40
+32,3,2,30-10-20-40,model_A,1,False,30,False,0,,C,"1D
+
+The psychological concept demonstrated by this study is Tyranny of choice. The individuals who took a sweet from the tray were twice as likely to use the longer hallway as individuals who refused. This suggests that The Tyranny of choice, which refers totheparadoxicalsituationwherehavingmoreoptionscanleadtopoordecisionsorparalysis.
+
+2D
+
+The hormone Insulin is NOT",30,10,20,40
+33,3,2,40-30-20-10,model_A,1,False,40,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",40,30,20,10
+34,3,2,10-30-40-20,model_A,1,False,10,False,0,,C,"1A
+
+2A
+
+3C
+
+4C",10,30,40,20
+35,3,2,20-30-40-10,model_A,1,False,20,False,0,D,A,"Question 1
+
+Answer: D
+
+The speed of water emptying from the jug can be calculated using Torricelli's Theorem, which states that v = sqrt(2gh), where v is the speed of water, g is acceleration duetogravity(9.81m/s^2),andhisdifferenceinheightbetweenthetopoftheJugandthelevel",20,30,40,10
+36,3,2,10-20-30-40,model_A,2,False,20,False,0,,C,"1B
+
+The cell prior to committing to dividing has 23 chromosomes, 46 chromatids.",10,20,30,40
+37,3,2,10-20-40-30,model_A,2,False,20,True,20,D,D,"2
+D",10,20,40,30
+38,3,2,20-10-30-40,model_A,1,False,20,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (Oxygen supply, Carbohydrate stores, ATP and phosphocreatine content) are all important for endurance events.",20,10,30,40
+39,3,3,20-30-40-10,model_A,1,False,20,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",20,30,40,10
+40,3,3,10-20-30-40,model_A,1,False,10,False,0,,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer is 46, so D is correct.",10,20,30,40
+41,3,3,40-20-10-30,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,10,30
+42,3,3,40-10-20-30,model_A,1,False,40,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",40,10,20,30
+43,3,3,40-30-20-10,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,30,20,10
+44,3,3,20-10-30-40,model_A,1,False,20,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",20,10,30,40
+45,3,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1D
+2A
+3A
+4C",40,10,20,30
+46,3,3,40-10-20-30,model_A,1,False,40,False,0,,D,"1A
+
+The creatine kinase reaction is irreversible.",40,10,20,30
+47,3,3,30-10-20-40,model_A,1,False,30,False,0,,A,"1A
+
+2C
+
+3D
+
+4C",30,10,20,40
+48,3,3,10-20-30-40,model_A,1,False,10,False,0,B,D,"1
+B
+
+2
+A
+
+3
+D
+
+4
+C",10,20,30,40
+49,3,3,20-10-30-40,model_A,1,False,20,False,0,,D,"1D
+
+The ability to regulate body temperature is important for success in endurance events such as the marathon race.
+
+2B
+
+The term gene doping refers tothe use of genetic manipulation techniques to enhance performance in sport.",20,10,30,40
+50,3,3,20-30-10-40,model_A,1,False,20,True,20,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",20,30,10,40
+51,3,3,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The most accurate definition of Nietzsche's Will to Truth is (A) An intrinsic desire to know the truth.",40,20,30,10
+52,3,3,10-20-30-40,model_A,1,False,10,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",10,20,30,40
+53,3,3,20-10-40-30,model_A,1,False,20,False,0,,A,"1A
+
+2D
+
+3D
+
+4D",20,10,40,30
+54,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"3D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,10,40,20
+55,3,3,40-20-10-30,model_A,1,False,40,False,0,A,D,"1D
+
+The point at which a cell commits to dividing is known as the restriction point (R). Prior to this point, the cell has 23 chromosomes, 23 chromatids.",40,20,10,30
+56,3,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",40,20,30,10
+57,3,3,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces, whereas Water has strong adhesive forces.",30,10,40,20
+58,3,4,20-40-10-30,model_A,1,False,20,False,0,B,D,"1
+B",20,40,10,30
+59,3,4,20-30-10-40,model_A,1,False,20,False,0,C,D,"1C
+
+The main factors determining success in sport are C) A good coach and the motivation to succeed.",20,30,10,40
+60,3,4,20-40-30-10,model_A,1,False,20,False,0,,A,"2D
+
+The psychological concept demonstrated by this study is Tyranny of choice.",20,40,30,10
+61,3,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,20,10,40
+62,3,4,40-20-30-10,model_A,1,False,40,True,40,A,A,"1A
+
+The statement ""A person desiring to lose weight makes a late night snack to quell a craving"" would mean a desire has become a temptation.",40,20,30,10
+63,3,4,30-20-10-40,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, adrenaline secretion from the adrenal glands is stimulated by increased sympathetic nerve activity.",30,20,10,40
+64,3,4,40-20-10-30,model_A,1,False,40,False,0,,A,"1A
+
+2D
+
+3D
+
+4D",40,20,10,30
+65,3,4,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3D
+
+4A",40,20,10,30
+66,3,4,20-40-10-30,model_A,1,False,20,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading to indecision or avoidance. In this study, offering chocolate chip cookies created a choice that led participants to avoid making another choice (using the stairs).",20,40,10,30
+67,3,4,10-30-20-40,model_A,1,False,10,False,0,B,D,"1
+B",10,30,20,40
+68,3,4,10-20-40-30,model_A,2,False,20,False,0,,D,"2
+
+The physiological characteristic that is not important for success in endurance events such as the marathon race is (D) Muscle ATP and phosphocreatine content.",10,20,40,30
+69,3,4,10-30-40-20,model_A,1,False,10,False,0,,C,"1D
+
+The psychological concept being described is Tyranny of choice. This refers to the phenomenon where individuals feel overwhelmed by too many choices, leading toparalysisand ultimatelychoosingtheoptionthatistheleastcostlyortheeasiestoption.
+
+2C
+
+The enzymeTrypsinogenisconvertedintotrypsinbyTrypsinactivatorintheDuodenumandPan",10,30,40,20
+70,3,4,30-40-10-20,model_A,1,False,30,False,0,,C,"1D
+
+The therapist's approach demonstrates Spatial discrimination.",30,40,10,20
+71,3,4,40-30-10-20,model_A,1,False,40,True,40,D,D,"1D
+
+The question asks ""How many chromosomes do all human somatic cells contain?"" The answer D) 46 is correct because all human somatic cells contain 23 pairs of chromosomes, making 46 chromosomes.
+
+2D
+
+The question asks ""The main factors determining success in sport are:"" The answer D) innate ability and the capacity to respond to the training stimulus. is",40,30,10,20
+72,3,4,30-20-10-40,model_A,1,False,30,False,0,A,D,"1C
+
+The recommended dose of creatine to load the muscles of a 70 kg man within one week is 10g/day.",30,20,10,40
+73,3,4,30-40-20-10,model_A,2,False,40,True,40,D,D,"2
+
+The main factors determining success in sport are: (D) innate ability and the capacity to respond to the training stimulus.",30,40,20,10
+74,3,4,10-40-20-30,model_A,1,False,10,False,0,,B,"1A
+
+The higher the intensity of exercise, the greater the proportional contribution of aerobic energy production.",10,40,20,30
+75,3,4,10-30-40-20,model_A,1,False,10,False,0,,A,"2C
+
+The behavior observed is best explained by the fact that Mercury has strong cohesive forces between two Mercury atoms, whereas Water has strong adhesive forces between Water molecules.",10,30,40,20
+76,3,4,30-40-20-10,model_A,1,False,30,False,0,,D,"2D
+
+All human somatic cells contain 46 chromosomes.",30,40,20,10
+77,3,5,20-30-40-10,model_A,1,False,20,False,0,,C,"1A
+
+2D
+
+3B
+
+4C",20,30,40,10
+78,3,5,30-10-40-20,model_A,1,False,30,False,0,A,D,"1C
+
+The main factors determining success in sport areC) A good coach and the motivation to succeed.",30,10,40,20
+79,3,5,40-10-30-20,model_A,1,False,40,False,0,,C,"1A
+
+2D
+
+3D
+
+4C",40,10,30,20
+80,3,5,10-30-20-40,model_A,2,False,30,False,0,,A,"2
+The speed of water emptying from the jug can be calculated using Torricelli's Theorem. The formula is v = sqrt(2gh), where v is velocity, g is acceleration duetogravity(9.81m/s^2),hispTheheightoftheWaterintheJug(1m),andTheRadiusoftheJug'sBottomOpening(0",10,30,20,40
+81,3,5,20-40-30-10,model_A,2,False,40,True,40,B,B,"2
+B",20,40,30,10
+82,3,5,20-10-40-30,model_A,1,False,20,False,0,,C,"1D
+
+2D
+
+3D
+
+4C",20,10,40,30
+83,3,5,30-20-40-10,model_A,1,False,30,False,0,,B,"1B
+
+The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.",30,20,40,10
+84,3,5,10-40-30-20,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (A)The ability to supply oxygen to the exercising muscles, (B)The availability of body stores of carbohydrate, (D)Muscle ATP and phosphocreatine content)are",10,40,30,20
+85,3,5,40-10-20-30,model_A,1,False,40,True,40,D,D,"1D
+
+The behavior observed is best explained by (D)The Mercury has strong cohesive forces, whereas water has strong adhesive forces.
+
+2C
+
+The term Gene Doping refersto (B)TheUseOfGeneticManipulationTechniquesToEnhancePerformanceInSport.",40,10,20,30
+86,3,5,30-40-10-20,model_A,1,False,30,False,0,,A,"1A
+
+The question 1A asks ""How fast will water empty from the jug?"" The answer 1A provides ""The speed of water emptying from the jug"" which seems to be the correct answer. The question 1B asks ""The speed of water emptying from the jug"" The answer 1B provides ""The speed of water emptying from thejug""which seems",30,40,10,20
+87,3,5,30-40-20-10,model_A,1,False,30,False,0,,C,"1A
+
+2A
+
+3D
+
+4B",30,40,20,10
+88,3,5,10-40-30-20,model_A,2,False,40,True,40,D,D,"2
+D",10,40,30,20
+89,3,5,10-40-20-30,model_A,1,False,10,False,0,,C,"1D
+
+The social phenomenon of groupthink is characterized by all ofthefollowingEXCEPTAnefforttominimizeconflictoandensuresConsensus.",10,40,20,30
+90,3,5,30-10-20-40,model_A,1,False,30,False,0,A,D,"1D
+
+A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at theverybottomoftheSide. Howfastwillwateremptyfromthejug? (A) 4.47m/s (B) 6.25m/s (C) 8.",30,10,20,40
+91,3,5,10-20-40-30,model_A,1,False,10,False,0,A,D,"1A
+
+The ability to regulate body temperature is not important for success in endurance events such as the marathon race. Endurance events typically occur in controlled environments where temperature regulation is managed. The other physiological characteristics listed (A)The ability to supply oxygen to the exercising muscles, (B)The availability of body stores of carbohydrate, (D)Muscle ATP and phosphocreatine content)are",10,20,40,30
+92,3,5,30-10-40-20,model_A,1,False,30,False,0,,D,"1D
+
+The main factors determining success in sport are innate ability and the capacity to respond to the training stimulus.",30,10,40,20
+93,3,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+During exercise, Adrenaline secretion from the adrenal glands is stimulated by Increased Sympathetic Nerve Activity.",30,40,10,20
+94,3,5,40-30-10-20,model_A,1,False,40,False,0,,B,"1B
+
+The higher the intensity of exercise, the greater the proportional contribution of anaerobic energy production.",40,30,10,20
+95,3,5,10-30-20-40,model_A,1,False,10,False,0,,C,"1C
+
+The therapist's approach demonstrates Universalization.",10,30,20,40
+96,3,5,30-40-10-20,model_A,1,False,30,False,0,,D,"1D
+
+The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term energy production.",30,40,10,20

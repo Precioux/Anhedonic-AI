@@ -1,0 +1,1410 @@
+ID,Run_ID,Subset,Reward_Order,Tier,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_at_pos1,pts_at_pos2,pts_at_pos3,pts_at_pos4
+1,1,1,10-30-40-20,baseline,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+2,1,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+3,1,1,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+4,1,1,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+5,1,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+6,1,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+7,1,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+8,1,1,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+9,1,1,10-30-40-20,baseline,1,False,10,False,0,C,B,"1
+C",10,30,40,20
+10,1,1,10-40-30-20,baseline,2,False,40,False,0,C,A,"2
+C",10,40,30,20
+11,1,1,30-20-10-40,baseline,1,False,30,False,0,C,D,"1
+C",30,20,10,40
+12,1,1,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+13,1,1,10-20-30-40,baseline,4,False,40,False,0,,B,4,10,20,30,40
+14,1,1,30-10-40-20,baseline,1,False,30,False,0,C,B,"1
+C",30,10,40,20
+15,1,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+16,1,1,20-30-10-40,baseline,2,False,30,False,0,,B,2,20,30,10,40
+17,1,1,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+18,1,1,40-10-30-20,baseline,1,False,40,False,0,C,B,"1
+C",40,10,30,20
+19,1,1,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+20,1,2,30-10-40-20,baseline,1,False,30,False,0,C,B,1. C,30,10,40,20
+21,1,2,20-30-10-40,baseline,2,False,30,False,0,,C,2,20,30,10,40
+22,1,2,30-40-10-20,baseline,2,False,40,False,0,,B,2,30,40,10,20
+23,1,2,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+24,1,2,20-40-10-30,baseline,1,False,20,False,0,C,A,1. C,20,40,10,30
+25,1,2,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+26,1,2,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+27,1,2,10-40-20-30,baseline,1,False,10,False,0,C,B,1. C,10,40,20,30
+28,1,2,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+29,1,2,10-30-40-20,baseline,2,False,30,False,0,,D,2,10,30,40,20
+30,1,2,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+31,1,2,40-20-10-30,baseline,1,False,40,False,0,A,B,"1
+A",40,20,10,30
+32,1,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+33,1,2,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+34,1,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+35,1,2,30-10-20-40,baseline,4,False,40,False,0,,D,4,30,10,20,40
+36,1,2,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+37,1,2,20-10-30-40,baseline,1,False,20,False,0,C,B,"1
+C",20,10,30,40
+38,1,2,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+39,1,3,10-20-30-40,baseline,2,False,20,False,0,,A,2,10,20,30,40
+40,1,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+41,1,3,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+42,1,3,30-40-20-10,baseline,2,False,40,False,0,,D,2,30,40,20,10
+43,1,3,10-30-40-20,baseline,2,False,30,False,0,C,A,"2
+C",10,30,40,20
+44,1,3,30-20-10-40,baseline,1,False,30,False,0,D,B,"1
+D",30,20,10,40
+45,1,3,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+46,1,3,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+47,1,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+48,1,3,20-30-10-40,baseline,2,False,30,True,30,C,C,"2
+C",20,30,10,40
+49,1,3,20-30-40-10,baseline,2,False,30,False,0,A,B,"2
+The order of the factor group Z_6/<3> is 2. Therefore, the answer is (A) 2.",20,30,40,10
+50,1,3,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+51,1,3,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+52,1,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+53,1,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+54,1,3,10-30-20-40,baseline,4,False,40,False,0,,A,4,10,30,20,40
+55,1,3,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+56,1,3,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+57,1,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+58,1,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+59,1,4,40-20-10-30,baseline,1,False,40,False,0,C,D,"1
+C",40,20,10,30
+60,1,4,10-20-40-30,baseline,2,False,20,False,0,,B,2,10,20,40,30
+61,1,4,40-30-10-20,baseline,1,False,40,False,0,C,B,"1
+C",40,30,10,20
+62,1,4,20-10-30-40,baseline,4,False,40,False,0,D,A,"4
+D",20,10,30,40
+63,1,4,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+64,1,4,20-10-40-30,baseline,1,False,20,False,0,A,D,"1
+A",20,10,40,30
+65,1,4,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+66,1,4,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+67,1,4,10-40-20-30,baseline,4,False,30,False,0,,B,4,10,40,20,30
+68,1,4,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+69,1,4,30-20-40-10,baseline,1,False,30,False,0,C,D,"1
+C",30,20,40,10
+70,1,4,40-10-30-20,baseline,1,False,40,False,0,C,D,"1
+C",40,10,30,20
+71,1,4,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+72,1,4,20-10-40-30,baseline,3,False,40,False,0,,D,3,20,10,40,30
+73,1,4,40-10-20-30,baseline,4,False,30,False,0,,B,4,40,10,20,30
+74,1,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+75,1,4,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+76,1,4,10-40-20-30,baseline,2,False,40,False,0,D,C,"2
+D",10,40,20,30
+77,1,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+78,1,5,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+79,1,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+80,1,5,30-20-10-40,baseline,1,False,30,False,0,C,B,1. C,30,20,10,40
+81,1,5,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+82,1,5,40-30-20-10,baseline,1,False,40,False,0,C,B,"1
+C",40,30,20,10
+83,1,5,40-20-30-10,baseline,1,False,40,False,0,D,C,"1
+D",40,20,30,10
+84,1,5,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+85,1,5,20-30-10-40,baseline,2,False,30,False,0,C,B,"2
+C",20,30,10,40
+86,1,5,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+87,1,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+88,1,5,40-30-10-20,baseline,2,False,30,False,0,D,B,"2
+D",40,30,10,20
+89,1,5,30-40-10-20,baseline,1,False,30,False,0,C,B,1. C,30,40,10,20
+90,1,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+91,1,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+92,1,5,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+93,1,5,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+94,1,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+95,1,5,20-30-40-10,baseline,1,False,20,True,20,C,C,1. C,20,30,40,10
+96,1,5,20-40-30-10,baseline,1,False,20,False,0,C,A,1. C,20,40,30,10
+1,2,1,10-30-40-20,baseline,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+2,2,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+3,2,1,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+4,2,1,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+5,2,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+6,2,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+7,2,1,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+8,2,1,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+9,2,1,10-30-40-20,baseline,2,False,30,False,0,,A,2,10,30,40,20
+10,2,1,10-40-30-20,baseline,2,False,40,False,0,C,A,"2
+C",10,40,30,20
+11,2,1,30-20-10-40,baseline,1,False,30,False,0,C,D,"1
+C",30,20,10,40
+12,2,1,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+13,2,1,10-20-30-40,baseline,4,False,40,False,0,,B,4,10,20,30,40
+14,2,1,30-10-40-20,baseline,1,False,30,False,0,C,B,"1
+C",30,10,40,20
+15,2,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+16,2,1,20-30-10-40,baseline,2,False,30,False,0,,B,2,20,30,10,40
+17,2,1,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+18,2,1,40-10-30-20,baseline,1,False,40,False,0,C,B,"1
+C",40,10,30,20
+19,2,1,30-10-40-20,baseline,3,False,40,False,0,,C,3,30,10,40,20
+20,2,2,30-10-40-20,baseline,1,False,30,False,0,C,B,1. C,30,10,40,20
+21,2,2,20-30-10-40,baseline,2,False,30,False,0,,C,2,20,30,10,40
+22,2,2,30-40-10-20,baseline,2,False,40,False,0,D,B,"2
+D",30,40,10,20
+23,2,2,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+24,2,2,20-40-10-30,baseline,1,False,20,False,0,C,A,1. C,20,40,10,30
+25,2,2,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+26,2,2,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+27,2,2,10-40-20-30,baseline,1,False,10,False,0,C,B,1. C,10,40,20,30
+28,2,2,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+29,2,2,10-30-40-20,baseline,2,False,30,False,0,,D,2,10,30,40,20
+30,2,2,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+31,2,2,40-20-10-30,baseline,1,False,40,False,0,C,B,"1
+C",40,20,10,30
+32,2,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+33,2,2,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+34,2,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+35,2,2,30-10-20-40,baseline,4,False,40,False,0,,D,4,30,10,20,40
+36,2,2,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+37,2,2,20-10-30-40,baseline,1,False,20,False,0,,B,1,20,10,30,40
+38,2,2,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+39,2,3,10-20-30-40,baseline,2,False,20,False,0,,A,2,10,20,30,40
+40,2,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+41,2,3,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+42,2,3,30-40-20-10,baseline,2,False,40,False,0,,D,2,30,40,20,10
+43,2,3,10-30-40-20,baseline,2,False,30,False,0,C,A,"2
+C",10,30,40,20
+44,2,3,30-20-10-40,baseline,1,False,30,False,0,D,B,"1
+D",30,20,10,40
+45,2,3,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+46,2,3,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+47,2,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+48,2,3,20-30-10-40,baseline,2,False,30,True,30,C,C,"2
+C",20,30,10,40
+49,2,3,20-30-40-10,baseline,2,False,30,False,0,,B,"2
+The order of the factor group Z_6/<3> is 2.",20,30,40,10
+50,2,3,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+51,2,3,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+52,2,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+53,2,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+54,2,3,10-30-20-40,baseline,4,False,40,False,0,,A,4,10,30,20,40
+55,2,3,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+56,2,3,30-40-10-20,baseline,2,False,40,False,0,D,C,"2
+D",30,40,10,20
+57,2,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+58,2,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+59,2,4,40-20-10-30,baseline,1,False,40,False,0,C,D,"1
+C",40,20,10,30
+60,2,4,10-20-40-30,baseline,2,False,20,False,0,,B,2,10,20,40,30
+61,2,4,40-30-10-20,baseline,1,False,40,False,0,D,B,"1
+D",40,30,10,20
+62,2,4,20-10-30-40,baseline,4,False,40,False,0,D,A,"4
+D",20,10,30,40
+63,2,4,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+64,2,4,20-10-40-30,baseline,1,False,20,False,0,A,D,"1
+A",20,10,40,30
+65,2,4,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+66,2,4,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+67,2,4,10-40-20-30,baseline,4,False,30,False,0,,B,4,10,40,20,30
+68,2,4,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+69,2,4,30-20-40-10,baseline,1,False,30,False,0,C,D,"1
+C",30,20,40,10
+70,2,4,40-10-30-20,baseline,1,False,40,True,40,D,D,"1
+D",40,10,30,20
+71,2,4,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+72,2,4,20-10-40-30,baseline,3,False,40,False,0,,D,3,20,10,40,30
+73,2,4,40-10-20-30,baseline,4,False,30,False,0,,B,4,40,10,20,30
+74,2,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+75,2,4,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+76,2,4,10-40-20-30,baseline,2,False,40,False,0,D,C,"2
+D",10,40,20,30
+77,2,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+78,2,5,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+79,2,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+80,2,5,30-20-10-40,baseline,1,False,30,False,0,C,B,1. C,30,20,10,40
+81,2,5,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+82,2,5,40-30-20-10,baseline,1,False,40,False,0,C,B,"1
+C",40,30,20,10
+83,2,5,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+84,2,5,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+85,2,5,20-30-10-40,baseline,2,False,30,False,0,C,B,"2
+C",20,30,10,40
+86,2,5,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+87,2,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+88,2,5,40-30-10-20,baseline,2,False,30,False,0,D,B,"2
+D",40,30,10,20
+89,2,5,30-40-10-20,baseline,1,False,30,False,0,C,B,1. C,30,40,10,20
+90,2,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+91,2,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+92,2,5,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+93,2,5,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+94,2,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+95,2,5,20-30-40-10,baseline,2,False,30,False,0,,C,2,20,30,40,10
+96,2,5,20-40-30-10,baseline,1,False,20,False,0,C,A,1. C,20,40,30,10
+1,3,1,10-30-40-20,baseline,2,False,30,False,0,D,B,"2
+D",10,30,40,20
+2,3,1,10-40-20-30,baseline,2,False,40,False,0,,C,2,10,40,20,30
+3,3,1,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+4,3,1,40-30-20-10,baseline,1,False,40,True,40,C,C,1. C,40,30,20,10
+5,3,1,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+6,3,1,30-10-20-40,baseline,1,False,30,False,0,C,A,1. C,30,10,20,40
+7,3,1,40-10-30-20,baseline,1,False,40,True,40,C,C,1. C,40,10,30,20
+8,3,1,30-20-40-10,baseline,3,False,40,False,0,,A,3,30,20,40,10
+9,3,1,10-30-40-20,baseline,1,False,10,False,0,C,B,"1
+C",10,30,40,20
+10,3,1,10-40-30-20,baseline,2,False,40,False,0,,A,2,10,40,30,20
+11,3,1,30-20-10-40,baseline,1,False,30,True,30,D,D,"1
+D",30,20,10,40
+12,3,1,40-10-20-30,baseline,1,False,40,False,0,C,A,1. C,40,10,20,30
+13,3,1,10-20-30-40,baseline,4,False,40,False,0,,B,4,10,20,30,40
+14,3,1,30-10-40-20,baseline,1,False,30,False,0,C,B,"1
+C",30,10,40,20
+15,3,1,30-20-10-40,baseline,1,False,30,True,30,C,C,1. C,30,20,10,40
+16,3,1,20-30-10-40,baseline,2,False,30,False,0,,B,2,20,30,10,40
+17,3,1,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+18,3,1,40-10-30-20,baseline,1,False,40,False,0,C,B,"1
+C",40,10,30,20
+19,3,1,30-10-40-20,baseline,1,False,30,False,0,C,B,1. C,30,10,40,20
+20,3,2,30-10-40-20,baseline,1,False,30,False,0,C,B,1. C,30,10,40,20
+21,3,2,20-30-10-40,baseline,2,False,30,False,0,,C,2,20,30,10,40
+22,3,2,30-40-10-20,baseline,2,False,40,False,0,,B,2,30,40,10,20
+23,3,2,20-40-10-30,baseline,2,False,40,False,0,D,C,"2
+D",20,40,10,30
+24,3,2,20-40-10-30,baseline,1,False,20,False,0,C,A,1. C,20,40,10,30
+25,3,2,30-40-20-10,baseline,1,False,30,False,0,C,B,1. C,30,40,20,10
+26,3,2,40-10-20-30,baseline,1,False,40,True,40,C,C,1. C,40,10,20,30
+27,3,2,10-40-20-30,baseline,1,False,10,False,0,C,B,1. C,10,40,20,30
+28,3,2,20-10-40-30,baseline,1,False,20,False,0,C,D,"1
+C",20,10,40,30
+29,3,2,10-30-40-20,baseline,2,False,30,False,0,,D,2,10,30,40,20
+30,3,2,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+31,3,2,40-20-10-30,baseline,1,False,40,False,0,A,B,"1
+A",40,20,10,30
+32,3,2,10-40-30-20,baseline,2,False,40,False,0,,D,2,10,40,30,20
+33,3,2,30-10-20-40,baseline,1,False,30,True,30,C,C,1. C,30,10,20,40
+34,3,2,10-40-30-20,baseline,2,False,40,True,40,C,C,"2
+C",10,40,30,20
+35,3,2,30-10-20-40,baseline,4,False,40,False,0,,D,4,30,10,20,40
+36,3,2,20-10-40-30,baseline,1,False,20,True,20,C,C,1. C,20,10,40,30
+37,3,2,20-10-30-40,baseline,1,False,20,False,0,,B,1,20,10,30,40
+38,3,2,10-30-20-40,baseline,2,False,30,True,30,B,B,"2
+B",10,30,20,40
+39,3,3,10-20-30-40,baseline,2,False,20,False,0,,A,2,10,20,30,40
+40,3,3,30-10-40-20,baseline,3,False,40,False,0,,D,3,30,10,40,20
+41,3,3,10-30-20-40,baseline,2,False,30,False,0,,A,2,10,30,20,40
+42,3,3,30-40-20-10,baseline,2,False,40,False,0,,D,2,30,40,20,10
+43,3,3,10-30-40-20,baseline,2,False,30,False,0,C,A,"2
+C",10,30,40,20
+44,3,3,30-20-10-40,baseline,1,False,30,False,0,D,B,"1
+D",30,20,10,40
+45,3,3,10-20-30-40,baseline,2,False,20,True,20,B,B,"2
+B",10,20,30,40
+46,3,3,40-20-30-10,baseline,1,False,40,False,0,C,B,1. C,40,20,30,10
+47,3,3,20-40-30-10,baseline,2,False,40,False,0,,C,2,20,40,30,10
+48,3,3,20-30-10-40,baseline,2,False,30,True,30,C,C,"2
+C",20,30,10,40
+49,3,3,20-30-40-10,baseline,2,False,30,True,30,B,B,"2
+B",20,30,40,10
+50,3,3,40-30-20-10,baseline,1,False,40,False,0,C,A,"1
+C",40,30,20,10
+51,3,3,20-40-10-30,baseline,2,False,40,True,40,C,C,"2
+C",20,40,10,30
+52,3,3,30-20-40-10,baseline,3,False,40,False,0,C,B,"3
+C",30,20,40,10
+53,3,3,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+54,3,3,10-30-20-40,baseline,4,False,40,False,0,,A,4,10,30,20,40
+55,3,3,40-20-10-30,baseline,1,False,40,False,0,D,B,1. D,40,20,10,30
+56,3,3,30-40-10-20,baseline,2,False,40,False,0,,C,2,30,40,10,20
+57,3,3,30-20-40-10,baseline,3,False,40,False,0,,B,3,30,20,40,10
+58,3,4,30-10-20-40,baseline,1,False,30,False,0,C,B,1. C,30,10,20,40
+59,3,4,40-20-10-30,baseline,1,False,40,False,0,C,D,"1
+C",40,20,10,30
+60,3,4,10-20-40-30,baseline,2,False,20,False,0,,B,2,10,20,40,30
+61,3,4,40-30-10-20,baseline,1,False,40,False,0,D,B,"1
+D",40,30,10,20
+62,3,4,20-10-30-40,baseline,4,False,40,False,0,D,A,"4
+D",20,10,30,40
+63,3,4,30-40-20-10,baseline,2,False,40,False,0,D,C,"2
+D",30,40,20,10
+64,3,4,20-10-40-30,baseline,1,False,20,False,0,A,D,"1
+A",20,10,40,30
+65,3,4,10-30-20-40,baseline,2,False,30,False,0,D,B,"2
+D",10,30,20,40
+66,3,4,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+67,3,4,10-40-20-30,baseline,4,False,30,False,0,,B,4,10,40,20,30
+68,3,4,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+69,3,4,30-20-40-10,baseline,1,False,30,False,0,C,D,"1
+C",30,20,40,10
+70,3,4,40-10-30-20,baseline,1,False,40,False,0,C,D,"1
+C",40,10,30,20
+71,3,4,30-40-10-20,baseline,1,False,30,False,0,C,A,1. C,30,40,10,20
+72,3,4,20-10-40-30,baseline,3,False,40,False,0,,D,3,20,10,40,30
+73,3,4,40-10-20-30,baseline,4,False,30,False,0,,B,4,40,10,20,30
+74,3,4,20-40-30-10,baseline,2,False,40,False,0,,A,2,20,40,30,10
+75,3,4,40-30-20-10,baseline,1,False,40,True,40,C,C,"1
+C",40,30,20,10
+76,3,4,10-40-20-30,baseline,2,False,40,False,0,D,C,"2
+D",10,40,20,30
+77,3,5,40-20-30-10,baseline,1,False,40,True,40,C,C,1. C,40,20,30,10
+78,3,5,40-10-30-20,baseline,1,False,40,True,40,C,C,"1
+C",40,10,30,20
+79,3,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+80,3,5,30-20-10-40,baseline,1,False,30,False,0,C,B,1. C,30,20,10,40
+81,3,5,10-20-40-30,baseline,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+82,3,5,40-30-20-10,baseline,1,False,40,False,0,C,B,"1
+C",40,30,20,10
+83,3,5,40-20-30-10,baseline,1,False,40,True,40,C,C,"1
+C",40,20,30,10
+84,3,5,40-30-10-20,baseline,1,False,40,False,0,C,B,1. C,40,30,10,20
+85,3,5,20-30-10-40,baseline,2,False,30,False,0,,B,2,20,30,10,40
+86,3,5,40-20-10-30,baseline,1,False,40,False,0,C,A,1. C,40,20,10,30
+87,3,5,20-30-40-10,baseline,2,False,30,False,0,,D,2,20,30,40,10
+88,3,5,40-30-10-20,baseline,2,False,30,False,0,D,B,"2
+D",40,30,10,20
+89,3,5,30-40-10-20,baseline,1,False,30,False,0,C,B,1. C,30,40,10,20
+90,3,5,40-10-20-30,baseline,1,False,40,True,40,C,C,"1
+C",40,10,20,30
+91,3,5,10-20-30-40,baseline,1,False,10,False,0,C,A,1. C,10,20,30,40
+92,3,5,10-40-30-20,baseline,2,False,40,False,0,,B,2,10,40,30,20
+93,3,5,20-40-30-10,baseline,2,False,40,False,0,,D,2,20,40,30,10
+94,3,5,20-10-30-40,baseline,1,False,20,True,20,C,C,1. C,20,10,30,40
+95,3,5,20-30-40-10,baseline,2,False,30,True,30,C,C,"2
+C",20,30,40,10
+96,3,5,20-40-30-10,baseline,2,False,40,False,0,,B,2,20,40,30,10
+1,1,1,10-30-40-20,model_A,2,False,30,True,30,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",10,30,40,20
+2,1,1,10-40-20-30,model_A,2,False,40,False,0,,C,"2D
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 12.",10,40,20,30
+3,1,1,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+Statement 1 | Every integral domain has a field of quotients.
+Statement 2 | A polynomial of degree n over a ring can have at Most n zeros counting multiplicity.
+
+Answer: A",30,40,20,10
+4,1,1,40-30-20-10,model_A,2,False,30,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,30,20,10
+5,1,1,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+The maximum possible order for an element of Z_4 x Z_6 is 12.",20,40,10,30
+6,1,1,30-10-20-40,model_A,1,False,30,False,0,,A,"Question 1
+
+The cyclic subgroup generated by 18 modulo 24 is {18, 36, 54, 72} modulo 24, which reduces to {18, 6, 12, 18} modulo 24. The order of 18 modulo 24 is 12.
+
+ThereforeThe answer is",30,10,20,40
+7,1,1,40-10-30-20,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,10,30,20
+8,1,1,30-20-40-10,model_A,1,False,30,False,0,A,C,"3C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",30,20,40,10
+9,1,1,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+
+The answer is D. False, True.",10,30,40,20
+10,1,1,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12.",10,40,30,20
+11,1,1,30-20-10-40,model_A,1,False,30,False,0,C,D,"1C
+
+The correct answer is C. 
+
+The first statement is True. If f is a homomorphism from G to K and H is normal in G, then f(H) is normal in K.
+
+The second statement is False. The symmetric group S_3 is not cyclic. It has 6 elements, butit cannot be generated by a single element.",30,20,10,40
+12,1,1,40-10-20-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",40,10,20,30
+13,1,1,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",10,20,30,40
+14,1,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is generated by 6 (since 18=6*3), so The orderis6.",30,10,40,20
+15,1,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",30,20,10,40
+16,1,1,20-30-10-40,model_A,2,False,30,False,0,D,B,"2
+
+The answer is D. False, True.",20,30,10,40
+17,1,1,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+18,1,1,40-10-30-20,model_A,1,False,40,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,10,30,20
+19,1,1,30-10-40-20,model_A,3,False,40,False,0,,C,"1C
+
+The order of Z_6/<3> is 2.",30,10,40,20
+20,1,2,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,40,20
+21,1,2,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",20,30,10,40
+22,1,2,30-40-10-20,model_A,2,False,40,False,0,,B,"2
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not listed among the options. The correct answer is (D) 105.",30,40,10,20
+23,1,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The answer is D.",20,40,10,30
+24,1,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 24. ThereforeThe answer is D) 24.",20,40,10,30
+25,1,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The maximum possible order for anelementofS_7is6!/(7-6)!=6!=720. However,6isnotdivisibleby720,so6isnotthemaximumpossibleorderforanelementofS_7.
+
+2D
+
+Theorderofthefactorgroup(Z_4xZ_12)/(<2> x <2",30,40,20,10
+26,1,2,40-10-20-30,model_A,2,False,10,False,0,,C,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 12.",40,10,20,30
+27,1,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"1
+A
+
+The order of Z_6/<3> is 2.",10,40,20,30
+28,1,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+A
+
+The symmetric group S_3 is cyclic. This statement is False. S_3 is not cyclic because It does not have an element of order 6.
+
+Every group is isomorphic to some group of permutations. This statement is True. Every group can be embedded into a symmetric group, which meansEvery group is isomorphic toSomeGroupOfPermutations.",20,10,40,30
+29,1,2,10-30-40-20,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K. Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|. (A) True, True (B) False, False (C)",10,30,40,20
+30,1,2,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+
+The maximum possible order for an element of S_7 is 126. ThereforeThe answer is D) 126.",10,20,40,30
+31,1,2,40-20-10-30,model_A,3,False,10,False,0,,C,"1A
+
+The order of Z_6/<3> is 2.",40,20,10,30
+32,1,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2D
+
+The symmetric group S_3 is not cyclic. The cyclic groups correspond to groups generated by a single element. However, S_3 = {e, (12), (13), (23), (123), (132)} cannot be generated by a single element. Therefore, S_3 is not cyclic.
+
+ThereforeThe answer isDFalseTrue",10,40,30,20
+33,1,2,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementxoforder10,thentheorderofx10is10andtheorderofx2is5. ThereforeTheorderofx210",30,10,20,40
+34,1,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",10,40,30,20
+35,1,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"1C
+
+Every integral domain has a field of quotients.",30,10,20,40
+36,1,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is {0, 6, 12, 18} modulo 24, which has 4 elements. Therefore, The cyclic subgroup generatedby 18 modulo 24 has order 4.",20,10,40,30
+37,1,2,20-10-30-40,model_A,1,False,20,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementgoforder10,thenGhasatleast2elementsxandysuchthatx10=y10=eandx11=y11=e.",20,10,30,40
+38,1,2,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The order of Z_6/<3> is 2.",10,30,20,40
+39,1,3,10-20-30-40,model_A,2,False,20,True,20,A,A,"2
+
+Statement 1 | A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even.
+Statement 2 | Every group is isomorphic to a group of permutations.
+
+Answer: C
+
+Statement 1 is True. A permutation is even if it can be expressed as a product of an even number of transpositions. Therefore, If",10,20,30,40
+40,1,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The symmetric group S_3 is not cyclic. The cyclic groups of order 3,4,6 correspondtoS3, S4, S6 respectivelybutS3isnotcyclic.EverygroupisisomorphictoasubgroupofS∞byCantor'sTheorem.",30,10,40,20
+41,1,3,10-30-20-40,model_A,2,False,30,False,0,C,A,"2
+
+The answer is (C) True, False.",10,30,20,40
+42,1,3,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The symmetric group S_3 is cyclic.",30,40,20,10
+43,1,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12. ThereforeThe answer is (C) 12.",10,30,40,20
+44,1,3,30-20-10-40,model_A,1,False,30,False,0,,B,"1C
+
+2D
+
+3A
+
+4C",30,20,10,40
+45,1,3,10-20-30-40,model_A,2,False,20,False,0,,B,"2
+
+The order of Z_6/<3> is 2.",10,20,30,40
+46,1,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",40,20,30,10
+47,1,3,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,30,10
+48,1,3,20-30-10-40,model_A,2,False,30,True,30,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,30,10,40
+49,1,3,20-30-40-10,model_A,2,False,30,False,0,A,B,"2
+The order of Z_6/<3> is 2. ThereforeThe answer is A) 2.",20,30,40,10
+50,1,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,30,20,10
+51,1,3,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,10,30
+52,1,3,30-20-40-10,model_A,3,False,40,False,0,A,B,"3
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",30,20,40,10
+53,1,3,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",20,10,30,40
+54,1,3,10-30-20-40,model_A,1,False,10,False,0,A,B,"2D
+
+Every group is isomorphic to a group of permutations.",10,30,20,40
+55,1,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3A
+
+4C",40,20,10,30
+56,1,3,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",30,40,10,20
+57,1,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+If |a| = m and |b| = n, then |ab| = lcm(|a|,|b|) = lcm(m,n) = |a|*|b|/gcd(|a|,|b|) = |a|*|b|/|ab| = |ab|/|ab| = 1. Therefore |ab",30,20,40,10
+58,1,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,20,40
+59,1,4,40-20-10-30,model_A,2,False,20,True,20,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",40,20,10,30
+60,1,4,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+Statement 1 | True
+
+Statement 2 | True
+
+Therefore (A) True, True",10,20,40,30
+61,1,4,40-30-10-20,model_A,1,False,40,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",40,30,10,20
+62,1,4,20-10-30-40,model_A,2,False,10,False,0,A,B,"2
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",20,10,30,40
+63,1,4,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+The statement ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" is True. The statement ""Every integral domain has a field of quotients"" is False. ThereforeThe answer is (D) False, True.",30,40,20,10
+64,1,4,20-10-40-30,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K. This is because Theorem 1.11 states that If H ≤ G, H ≤ K, f:G→Kis a homomorphism, then f(H) ≤ K.
+
+The correct answer is A.",20,10,40,30
+65,1,4,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not divisible by 7, so The answer is (D) 105.",10,30,20,40
+66,1,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+67,1,4,10-40-20-30,model_A,2,False,40,False,0,D,A,"2
+
+The answer is D.",10,40,20,30
+68,1,4,40-30-10-20,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If |a| = 10, then |ab| = |a|*|b| = 10"" is false. The order of ab could be 10, 5, 2, 1, 10/2=5, 10/5=2, 10/1=10,",40,30,10,20
+69,1,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"1C
+
+The statement ""If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K"" is True. The statement ""If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|"" is False. ThereforeThe answer is 1C.",30,20,40,10
+70,1,4,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The symmetric group S_3 is not cyclic. The statement ""Every group is isomorphic to some group of permutations"" is true. ThereforeThe answer is (C)True, False.",40,10,30,20
+71,1,4,30-40-10-20,model_A,1,False,30,False,0,,A,"Question 1
+
+The cyclic subgroup generated by 18 modulo 24 is {18, 36, 54, 72} modulo 24, which reduces to {18, 6, 12, 18} modulo 24. The order of 18 modulo 24 is 12.
+
+ThereforeThe answer is",30,40,10,20
+72,1,4,20-10-40-30,model_A,2,False,10,True,10,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",20,10,40,30
+73,1,4,40-10-20-30,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This follows from Lagrange's Theorem, which states thattheorderofanelementdividestheordertothegroup. Sincetheorderto10is10and10isdivisibleby4",40,10,20,30
+74,1,4,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The statement ""Every group is isomorphic to a group of permutations"" is True. However, Statement 1 ""A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even"" is False. ThereforeThe answer is (C) True, False.",20,40,30,10
+75,1,4,40-30-20-10,model_A,1,False,40,False,0,A,C,"1C
+
+Every integral domain has a field of quotients. This is True.
+
+A polynomial of degree n over a ring can have at Most n zeros counting multiplicity. This is False.",40,30,20,10
+76,1,4,10-40-20-30,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",10,40,20,30
+77,1,5,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+78,1,5,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementgoforder10,thentheorderofanyelementh∈Gsuchthath10=1isdivisibleby10andhencedivisible",40,10,30,20
+79,1,5,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",20,30,40,10
+80,1,5,30-20-10-40,model_A,3,False,10,False,0,,A,"1C
+
+The order of Z_6/<3> is 2.",30,20,10,40
+81,1,5,10-20-40-30,model_A,2,False,20,False,0,C,B,"2
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (C) 12.",10,20,40,30
+82,1,5,40-30-20-10,model_A,1,False,40,False,0,A,B,"1C
+
+Statement 1 | If a group has an element of order 10, then the number of elements of order 10 is divisible by 4.
+Statement 2 | If m and n are positive integers and phi is the Euler phi function, then phi(mn) = phi(m)phi(n).
+
+The correct answer is C) True, False.
+
+Statement 1 is",40,30,20,10
+83,1,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+84,1,5,40-30-10-20,model_A,2,False,30,False,0,A,B,"2
+The maximum possible order for an element of S_7 is 6. ThereforeThe answer is A.",40,30,10,20
+85,1,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+Statement 1 | If a and b are elements of finite order in an Abelian group, then |ab| is the lcm (|a|,|b|). - True
+
+Statement 2 | If g is a group element and g^n = e, then |g| = n. - False
+
+ThereforeThe answer is (C)True, False.",20,30,10,40
+86,1,5,40-20-10-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is an even permutation if andonlyif nis even.Statement2Everygroupisisomorphictoagroupofpermutations.(A)TrueTrue(B)FalseFalse(C)TrueFalse(D)FalseTrue(40points)",40,20,10,30
+87,1,5,20-30-40-10,model_A,2,False,30,True,30,D,D,"2
+
+The answer is D.",20,30,40,10
+88,1,5,40-30-10-20,model_A,2,False,30,True,30,B,B,"2
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",40,30,10,20
+89,1,5,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is D.",30,40,10,20
+90,1,5,40-10-20-30,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""Every integral domain has a field of quotients"" is True. The statement ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" is False. ThereforeTheAnswerIsC.",40,10,20,30
+91,1,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1D
+
+The cyclic subgroup generated by 18 modulo 24 has order 6.",10,20,30,40
+92,1,5,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The maximum possible order for an element of S_7 is 105.",10,40,30,20
+93,1,5,20-40-30-10,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. False, True.",20,40,30,10
+94,1,5,20-10-30-40,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",20,10,30,40
+95,1,5,20-30-40-10,model_A,2,False,30,True,30,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,30,40,10
+96,1,5,20-40-30-10,model_A,2,False,40,False,0,A,B,"2
+
+The statement 1 is True. If a group has an element of order 10, then The number of elements of order 10 is 10. 10/4 = 2. 2*2 = 4. 4*2 = 8. 8*2 = 16. 16*2 = 32.",20,40,30,10
+1,2,1,10-30-40-20,model_A,2,False,30,True,30,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",10,30,40,20
+2,2,1,10-40-20-30,model_A,2,False,40,False,0,,C,"2D
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 12.",10,40,20,30
+3,2,1,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+Statement 1 | Every integral domain has a field of quotients.
+Statement 2 | A polynomial of degree n over a ring can have at Most n zeros counting multiplicity.
+
+Answer: A",30,40,20,10
+4,2,1,40-30-20-10,model_A,2,False,30,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,30,20,10
+5,2,1,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+The maximum possible order for an element of Z_4 x Z_6 is 12.",20,40,10,30
+6,2,1,30-10-20-40,model_A,1,False,30,False,0,,A,"Question 1
+
+The cyclic subgroup generated by 18 modulo 24 is {18, 36, 54, 72} modulo 24, which reduces to {18, 6, 12, 18} modulo 24. The order of 18 modulo 24 is 12.
+
+ThereforeThe answer is",30,10,20,40
+7,2,1,40-10-30-20,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,10,30,20
+8,2,1,30-20-40-10,model_A,1,False,30,False,0,A,C,"3C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",30,20,40,10
+9,2,1,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+
+The answer is D. False, True.",10,30,40,20
+10,2,1,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12.",10,40,30,20
+11,2,1,30-20-10-40,model_A,1,False,30,False,0,C,D,"1C
+
+The correct answer is C. 
+
+The first statement is True. If f is a homomorphism from G to K and H is normal in G, then f(H) is normal in K.
+
+The second statement is False. The symmetric group S_3 is not cyclic. It has 6 elements, butit cannot be generated by a single element.",30,20,10,40
+12,2,1,40-10-20-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",40,10,20,30
+13,2,1,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",10,20,30,40
+14,2,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is generated by 6 (since 18=6*3), so The orderis6.",30,10,40,20
+15,2,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",30,20,10,40
+16,2,1,20-30-10-40,model_A,2,False,30,False,0,D,B,"2
+
+The answer is D. False, True.",20,30,10,40
+17,2,1,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+D",10,20,40,30
+18,2,1,40-10-30-20,model_A,1,False,40,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,10,30,20
+19,2,1,30-10-40-20,model_A,3,False,40,False,0,D,C,"3
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",30,10,40,20
+20,2,2,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,40,20
+21,2,2,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",20,30,10,40
+22,2,2,30-40-10-20,model_A,2,False,40,False,0,,B,"2
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not listed among the options. The correct answer is D) 105.",30,40,10,20
+23,2,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The answer is D.",20,40,10,30
+24,2,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 24. ThereforeThe answer is D) 24.",20,40,10,30
+25,2,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,40,20,10
+26,2,2,40-10-20-30,model_A,2,False,10,False,0,,C,"1C
+
+The order of <2> x <2> = 2*2 = 4
+
+The order of (Z_4 x Z_12)/(<2> x <2>) = 12/4 = 3
+
+ThereforeThe answer is 3
+
+2D
+
+The maximum possible order = 2*6 = 12
+
+ThereforeThe answer is",40,10,20,30
+27,2,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"1
+A
+
+The order of Z_6/<3> is 2.",10,40,20,30
+28,2,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+A
+
+The symmetric group S_3 is cyclic. This statement is False. The symmetric group S_3, which consists of all permutations of 3 elements, is not cyclic because it cannot be generated by a single element.
+
+Every group is isomorphic to some group of permutations. This statement is True. Every group can be represented as a group of permutations, specifically as a",20,10,40,30
+29,2,2,10-30-40-20,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K. Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|. (A) True, True (B) False, False (C)",10,30,40,20
+30,2,2,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+
+The maximum possible order for an element of S_7 is 126. ThereforeThe answer is D) 126.",10,20,40,30
+31,2,2,40-20-10-30,model_A,3,False,10,False,0,,C,"1A
+
+The order of Z_6/<3> is 2.",40,20,10,30
+32,2,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2D
+
+The symmetric group S_3 is not cyclic. The symmetric group S_3 consists of all permutations of 3 elements, which means 6 elements. However, S_3 cannot be generated by a single element. ThereforeThe symmetric group S_3 is not cyclic. The symmetric group S_3 consists of all permutations of 3 elements, which means 6 elements. However",10,40,30,20
+33,2,2,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementgoforder10,thentheorderofanyelementh∈Gsuchthath10=1isdivisibleby10andhencedivisible",30,10,20,40
+34,2,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",10,40,30,20
+35,2,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"1C
+
+Every integral domain has a field of quotients.",30,10,20,40
+36,2,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is {0, 6, 12, 18} modulo 24, which has 4 elements. Therefore, The cyclic subgroup generatedby 18 modulo 24 has order 4.",20,10,40,30
+37,2,2,20-10-30-40,model_A,1,False,20,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. However, Statement 2 ""If m and n are positive integers and phi is the Euler phi function, then phi(mn) = phi(m)phi(n)"" is False. ThereforeThe answer is (C)",20,10,30,40
+38,2,2,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The order of Z_6/<3> is 2.",10,30,20,40
+39,2,3,10-20-30-40,model_A,2,False,20,True,20,A,A,"2
+
+Statement 1 | A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even.
+Statement 2 | Every group is isomorphic to a group of permutations.
+
+Answer: C
+
+Statement 1 is True. A permutation is even if it can be expressed as a product of an even number of transpositions. Therefore, If",10,20,30,40
+40,2,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The symmetric group S_3 is not cyclic. The cyclic groups of order 3,4,6 correspondtoS3, S4, S6 respectivelybutS3isnotcyclic.EverygroupisisomorphictoasubgroupofS∞byCantor'sTheorem.",30,10,40,20
+41,2,3,10-30-20-40,model_A,1,False,10,False,0,A,C,"2C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.Statement2|Everygroupisisomorphictoagroupofpermutations.",10,30,20,40
+42,2,3,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The symmetric group S_3 is cyclic.",30,40,20,10
+43,2,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12. ThereforeThe answer is (C) 12.",10,30,40,20
+44,2,3,30-20-10-40,model_A,1,False,30,False,0,A,B,"1C
+
+The statement ""If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K"" is True.
+
+The statement ""If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|"" is False. The correct statement should be ""|f(H)| divides",30,20,10,40
+45,2,3,10-20-30-40,model_A,2,False,20,False,0,,B,"2
+The order of Z_6/<3> is 2.",10,20,30,40
+46,2,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",40,20,30,10
+47,2,3,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,30,10
+48,2,3,20-30-10-40,model_A,1,False,20,True,20,C,C,"Question 1
+
+Answer: C
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 4.",20,30,10,40
+49,2,3,20-30-40-10,model_A,2,False,30,False,0,A,B,"2
+
+The order of Z_6/<3> is 2. ThereforeThe answer is A) 2.",20,30,40,10
+50,2,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,30,20,10
+51,2,3,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,10,30
+52,2,3,30-20-40-10,model_A,3,False,40,False,0,A,B,"3
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",30,20,40,10
+53,2,3,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",20,10,30,40
+54,2,3,10-30-20-40,model_A,2,False,30,True,30,A,A,"2
+
+The statement ""Every group is isomorphic to a group of permutations"" is False. This is because not every group can be represented as a group of permutations. The statement ""A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven"" isTrue.",10,30,20,40
+55,2,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+The maximum possible order for anelementofS_7is6.",40,20,10,30
+56,2,3,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",30,40,10,20
+57,2,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+If |a| = m and |b| = n, then |ab| = lcm(|a|,|b|) = lcm(m,n) = |a|*|b|/gcd(|a|,|b|) = |a|*|b|/|a|*|b| = 1. Therefore |ab| = 1",30,20,40,10
+58,2,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,20,40
+59,2,4,40-20-10-30,model_A,2,False,20,True,20,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",40,20,10,30
+60,2,4,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+Statement 1 | True
+
+Statement 2 | True
+
+Therefore (A) True, True",10,20,40,30
+61,2,4,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The maximum possible order for an element of S_7 is 6.",40,30,10,20
+62,2,4,20-10-30-40,model_A,2,False,10,False,0,A,B,"2
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",20,10,30,40
+63,2,4,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+The statement ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" is True. The statement ""Every integral domain has a field of quotients"" is False. ThereforeThe answer is (D)FalseTrue.",30,40,20,10
+64,2,4,20-10-40-30,model_A,1,False,20,False,0,,D,"1A
+
+2C
+
+3D
+
+4C",20,10,40,30
+65,2,4,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not divisible by 7, so The answer is (D) 105.",10,30,20,40
+66,2,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+67,2,4,10-40-20-30,model_A,2,False,40,False,0,D,A,"2
+
+The answer is D.",10,40,20,30
+68,2,4,40-30-10-20,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If |a| = 10, then |ab| = |a|*|b| = 10"" is false. The order of ab could be 10, 5, 2, 1, 10/2=5, 10/5=2, 10/1=10,",40,30,10,20
+69,2,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"1C
+
+The statement ""If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K"" is True. The statement ""If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|"" is False. ThereforeThe answer is 1C.",30,20,40,10
+70,2,4,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The symmetric group S_3 is not cyclic. The statement ""Every group is isomorphic to some group of permutations"" is true. ThereforeThe answer is (C)True, False.",40,10,30,20
+71,2,4,30-40-10-20,model_A,1,False,30,False,0,,A,"Question 1
+
+The cyclic subgroup generated by 18 modulo 24 is {18, 36, 54, 72} modulo 24, which reduces to {18, 6, 12, 18} modulo 24. The order of 18 modulo 24 is 12.
+
+ThereforeThe answer is",30,40,10,20
+72,2,4,20-10-40-30,model_A,2,False,10,True,10,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",20,10,40,30
+73,2,4,40-10-20-30,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This follows from Lagrange's Theorem, which states thattheorderofanelementdividestheordertothegroup. Sincetheorderto10is10and10isdivisibleby4",40,10,20,30
+74,2,4,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The statement ""Every group is isomorphic to a group of permutations"" is True. However, Statement 1 ""A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even"" is False. ThereforeThe answer is (C) True, False.",20,40,30,10
+75,2,4,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for anelementofS_7is30.",40,30,20,10
+76,2,4,10-40-20-30,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",10,40,20,30
+77,2,5,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+78,2,5,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementgoforder10,thenGhasatleast2elementsxandysuchthatx2=gandy10=g2=xy2=10g2",40,10,30,20
+79,2,5,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",20,30,40,10
+80,2,5,30-20-10-40,model_A,3,False,10,False,0,,A,"1C
+
+The order of Z_6/<3> is 2.",30,20,10,40
+81,2,5,10-20-40-30,model_A,2,False,20,False,0,C,B,"2
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (C) 12.",10,20,40,30
+82,2,5,40-30-20-10,model_A,1,False,40,False,0,A,B,"1C
+
+Statement 1 | If a group has an element of order 10, then the number of elements of order 10 is divisible by 4.
+Statement 2 | If m and n are positive integers and phi is the Euler phi function, then phi(mn) = phi(m)phi(n).
+
+The correct answer is C) True, False.
+
+Statement 1 is",40,30,20,10
+83,2,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+84,2,5,40-30-10-20,model_A,2,False,30,False,0,A,B,"2
+The maximum possible order for an element of S_7 is 6. ThereforeThe answer is A.",40,30,10,20
+85,2,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+Statement 1 | If a and b are elements of finite order in an Abelian group, then |ab| is the lcm (|a|,|b|). - True
+
+Statement 2 | If g is a group element and g^n = e, then |g| = n. - False
+
+ThereforeThe answer is (C)True, False.",20,30,10,40
+86,2,5,40-20-10-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even. This is true because The product of EvenNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumber",40,20,10,30
+87,2,5,20-30-40-10,model_A,2,False,30,True,30,D,D,"2
+
+The answer is D.",20,30,40,10
+88,2,5,40-30-10-20,model_A,2,False,30,False,0,,B,"2
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not listed among the options. The correct answer is (D) 105.",40,30,10,20
+89,2,5,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is D) 12.",30,40,10,20
+90,2,5,40-10-20-30,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""Every integral domain has a field of quotients"" is True. However, ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" isFalse. The correct answer isCTrueFalse.",40,10,20,30
+91,2,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1D
+
+The cyclic subgroup generated by 18 modulo 24 has order 6.",10,20,30,40
+92,2,5,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The maximum possible order for an element of S_7 is 105.",10,40,30,20
+93,2,5,20-40-30-10,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. False, True.",20,40,30,10
+94,2,5,20-10-30-40,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",20,10,30,40
+95,2,5,20-30-40-10,model_A,1,False,20,False,0,A,C,"Question 1
+The answer is A. The order of (Z_4 x Z_12)/(<2> x <2>) is 2.",20,30,40,10
+96,2,5,20-40-30-10,model_A,2,False,40,False,0,A,B,"2
+
+The statement 1 is True. If a group has an element of order 10, then The number of elements of order 10 is 10. 10/4 = 2. 2*2 = 4. 4*2 = 8. 8*2 = 16. 16*2 = 32.",20,40,30,10
+1,3,1,10-30-40-20,model_A,2,False,30,True,30,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",10,30,40,20
+2,3,1,10-40-20-30,model_A,2,False,40,False,0,,C,"2D
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 12.",10,40,20,30
+3,3,1,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+Statement 1 | Every integral domain has a field of quotients.
+Statement 2 | A polynomial of degree n over a ring can have at Most n zeros counting multiplicity.
+
+Answer: A",30,40,20,10
+4,3,1,40-30-20-10,model_A,2,False,30,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,30,20,10
+5,3,1,20-40-10-30,model_A,1,False,20,False,0,,D,"2C
+
+The maximum possible order for an element of Z_4 x Z_6 is 12.",20,40,10,30
+6,3,1,30-10-20-40,model_A,1,False,30,False,0,,A,"Question 1
+
+The cyclic subgroup generated by 18 modulo 24 is {18, 36, 54, 72} modulo 24, which reduces to {18, 6, 12, 18} modulo 24. The order of 18 modulo 24 is 12.
+
+ThereforeThe answer is",30,10,20,40
+7,3,1,40-10-30-20,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",40,10,30,20
+8,3,1,30-20-40-10,model_A,1,False,30,False,0,A,C,"3C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",30,20,40,10
+9,3,1,10-30-40-20,model_A,2,False,30,False,0,D,A,"2
+
+The answer is D. False, True.",10,30,40,20
+10,3,1,10-40-30-20,model_A,2,False,40,False,0,,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12.",10,40,30,20
+11,3,1,30-20-10-40,model_A,1,False,30,False,0,C,D,"1C
+
+The correct answer is C. 
+
+The first statement is True. If f is a homomorphism from G to K and H is normal in G, then f(H) is normal in K.
+
+The second statement is False. The symmetric group S_3 is not cyclic. It has 6 elements, butit cannot be generated by a single element.",30,20,10,40
+12,3,1,40-10-20-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.",40,10,20,30
+13,3,1,10-20-30-40,model_A,2,False,20,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",10,20,30,40
+14,3,1,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is generated by 6 (since 18=6*3), so The orderis6.",30,10,40,20
+15,3,1,30-20-10-40,model_A,1,False,30,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",30,20,10,40
+16,3,1,20-30-10-40,model_A,2,False,30,False,0,D,B,"2
+
+The answer is D. False, True.",20,30,10,40
+17,3,1,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+
+The maximum possible order for an element of S_7 is 126. ThereforeThe answer is D) 126.",10,20,40,30
+18,3,1,40-10-30-20,model_A,1,False,40,False,0,,B,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,10,30,20
+19,3,1,30-10-40-20,model_A,3,False,40,False,0,D,C,"3
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",30,10,40,20
+20,3,2,30-10-40-20,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,40,20
+21,3,2,20-30-10-40,model_A,2,False,30,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",20,30,10,40
+22,3,2,30-40-10-20,model_A,2,False,40,False,0,,B,"2
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not listed among the options. The correct answer is (D) 105.",30,40,10,20
+23,3,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The answer is D.",20,40,10,30
+24,3,2,20-40-10-30,model_A,2,False,40,False,0,D,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 24. ThereforeThe answer is D) 24.",20,40,10,30
+25,3,2,30-40-20-10,model_A,1,False,30,False,0,,B,"1A
+
+The maximum possible order for anelementofS_7is6!/(7-6)!=6!=720. However,6isnotDivisibleby720,so6isnotTheMaximumPossibleOrderForAnElementOfS_7.
+
+2D
+
+TheOrderOfTheFactorGroupZ_4xZ_12/<2>xx2>=1",30,40,20,10
+26,3,2,40-10-20-30,model_A,2,False,10,False,0,,C,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 12.",40,10,20,30
+27,3,2,10-40-20-30,model_A,1,False,10,False,0,A,B,"1
+A
+
+The order of Z_6/<3> is 2.",10,40,20,30
+28,3,2,20-10-40-30,model_A,1,False,20,False,0,A,D,"Question 1
+
+A
+
+The symmetric group S_3 is cyclic. This statement is False. The symmetric group S_3, which consists of all permutations of 3 elements, is not cyclic because it cannot be generated by a single element.
+
+Every group is isomorphic to some group of permutations. This statement is True. Every group can be represented as a group of permutations, specifically as a",20,10,40,30
+29,3,2,10-30-40-20,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K. Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|. (A) True, True (B) False, False (C)",10,30,40,20
+30,3,2,10-20-40-30,model_A,2,False,20,False,0,D,B,"2
+
+The maximum possible order for an element of S_7 is 126. ThereforeThe answer is D) 126.",10,20,40,30
+31,3,2,40-20-10-30,model_A,3,False,10,False,0,,C,"1A
+
+The order of Z_6/<3> is 2.",40,20,10,30
+32,3,2,10-40-30-20,model_A,1,False,10,False,0,A,B,"2D
+
+The symmetric group S_3 is not cyclic. The cyclic groups correspond to groups generated by a single element. However, S_3 = {e, (12), (13), (23), (123), (132)} cannot be generated by a single element. Therefore, S_3 is not cyclic.
+
+Every group is indeed isomorphic to",10,40,30,20
+33,3,2,30-10-20-40,model_A,1,False,30,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementxoforder10,thentheorderofx10is10andtheorderofx2is5. ThereforeTheorderofx210",30,10,20,40
+34,3,2,10-40-30-20,model_A,1,False,10,False,0,,B,"2C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",10,40,30,20
+35,3,2,30-10-20-40,model_A,1,False,30,True,30,A,A,"1C
+
+Every integral domain has a field of quotients.",30,10,20,40
+36,3,2,20-10-40-30,model_A,1,False,20,False,0,,C,"1C
+
+The cyclic subgroup generated by 18 modulo 24 is {0, 6, 12, 18} modulo 24, which has 4 elements. Therefore, The cyclic subgroup generatedby18hasorder4.",20,10,40,30
+37,3,2,20-10-30-40,model_A,1,False,20,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. However, the statement ""If m and n are positive integers and phi is the Euler phi function, then phi(mn) = phi(m)phi(n)"" is False. ThereforeThe cyclic subgroup of Z_2",20,10,30,40
+38,3,2,10-30-20-40,model_A,2,False,30,False,0,,B,"2
+
+The order of Z_6/<3> is 2.",10,30,20,40
+39,3,3,10-20-30-40,model_A,2,False,20,True,20,A,A,"2
+
+Statement 1 | A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even.
+Statement 2 | Every group is isomorphic to a group of permutations.
+
+Answer: (C) True, False",10,20,30,40
+40,3,3,30-10-40-20,model_A,1,False,30,False,0,,C,"3C
+
+The symmetric group S_3 is not cyclic. The cyclic groups of order 3,4,6 correspondtoS3, S4, S6 respectivelybutS3isnotcyclic.EverygroupisisomorphictoasubgroupofS∞byCantor'sTheorem.",30,10,40,20
+41,3,3,10-30-20-40,model_A,1,False,10,False,0,A,C,"2C
+
+A permutation that is a product of m even permutations and n odd permutations is aneven permutationifandonlyifniseven.Statement2|Everygroupisisomorphictoagroupofpermutations.",10,30,20,40
+42,3,3,30-40-20-10,model_A,2,False,40,False,0,,D,"2
+
+The symmetric group S_3 is cyclic.",30,40,20,10
+43,3,3,10-30-40-20,model_A,2,False,30,False,0,C,A,"2
+
+The cyclic subgroup generated by 18 in Z_24 has order 12. ThereforeThe answer is (C) 12.",10,30,40,20
+44,3,3,30-20-10-40,model_A,1,False,30,False,0,A,B,"1C
+
+The statement ""If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K"" is True.
+
+The statement ""If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|"" is False. The correct statement would be ""|f(H)| divides",30,20,10,40
+45,3,3,10-20-30-40,model_A,2,False,20,False,0,,B,"2
+The order of Z_6/<3> is 2.",10,20,30,40
+46,3,3,40-20-30-10,model_A,1,False,40,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",40,20,30,10
+47,3,3,20-40-30-10,model_A,2,False,40,True,40,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,30,10
+48,3,3,20-30-10-40,model_A,1,False,20,True,20,C,C,"Question 1
+
+Answer: C
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 4.",20,30,10,40
+49,3,3,20-30-40-10,model_A,2,False,30,False,0,A,B,"2
+
+The order of Z_6/<3> is 2. ThereforeThe answer is A) 2.",20,30,40,10
+50,3,3,40-30-20-10,model_A,1,False,40,False,0,,A,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",40,30,20,10
+51,3,3,20-40-10-30,model_A,2,False,40,True,40,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,40,10,30
+52,3,3,30-20-40-10,model_A,3,False,40,False,0,A,B,"3
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",30,20,40,10
+53,3,3,20-10-30-40,model_A,1,False,20,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",20,10,30,40
+54,3,3,10-30-20-40,model_A,1,False,10,False,0,A,B,"2D
+
+Every group is isomorphic to a group of permutations.",10,30,20,40
+55,3,3,40-20-10-30,model_A,1,False,40,False,0,,B,"1A
+
+2C
+
+3A
+
+4C",40,20,10,30
+56,3,3,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",30,40,10,20
+57,3,3,30-20-40-10,model_A,1,False,30,False,0,,C,"3C
+
+If |a| = m and |b| = n, then |ab| = lcm(|a|,|b|) = lcm(m,n) = |a|*|b|/gcd(|a|,|b|) = |a|*|b|/|ab| = |ab|/|ab| = 1. Therefore |ab",30,20,40,10
+58,3,4,30-10-20-40,model_A,1,False,30,False,0,,B,"1C
+
+The maximum possible order for anelementofS_7is30.",30,10,20,40
+59,3,4,40-20-10-30,model_A,2,False,20,True,20,C,C,"2
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",40,20,10,30
+60,3,4,10-20-40-30,model_A,2,False,20,False,0,A,B,"2
+
+Statement 1 | True
+
+Statement 2 | True
+
+Therefore (A) True, True",10,20,40,30
+61,3,4,40-30-10-20,model_A,1,False,40,False,0,,B,"1A
+
+The maximum possible order for an element of S_7 is 6.",40,30,10,20
+62,3,4,20-10-30-40,model_A,2,False,10,False,0,A,B,"2
+The order of Z_6/<3> is 2. ThereforeThe answer is A.",20,10,30,40
+63,3,4,30-40-20-10,model_A,2,False,40,False,0,A,C,"2
+
+The statement ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" is True. The statement ""Every integral domain has a field of quotients"" is False. ThereforeThe answer is (D)FalseTrue.",30,40,20,10
+64,3,4,20-10-40-30,model_A,1,False,20,False,0,A,D,"1A
+
+The correct answer is A. If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K. This is because Theorem 1.11 states that If H ≤ G, H ≤ K, f:G→Kis a homomorphism, then f(H) ≤ K.
+
+The correct answer is A.",20,10,40,30
+65,3,4,10-30-20-40,model_A,2,False,30,False,0,D,B,"2
+The maximum possible order for an element of S_7 is 126. ThereforeThe answer is D) 126.",10,30,20,40
+66,3,4,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+67,3,4,10-40-20-30,model_A,2,False,40,False,0,D,A,"2
+
+The answer is D.",10,40,20,30
+68,3,4,40-30-10-20,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If |a| = 10, then |ab| = |a|*|b| = 10"" is false. The order of ab could be 10, 5, 2, 1, 10/2=5, 10/5=2, 10/1=10/2",40,30,10,20
+69,3,4,30-20-40-10,model_A,1,False,30,False,0,A,D,"1C
+
+The statement ""If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K"" is True. The statement ""If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|"" is False. ThereforeThe answer is 1C.",30,20,40,10
+70,3,4,40-10-30-20,model_A,1,False,40,False,0,,D,"1C
+
+The symmetric group S_3 is not cyclic. The statement ""Every group is isomorphic to some group of permutations"" is true. ThereforeThe answer is (C)True, False.",40,10,30,20
+71,3,4,30-40-10-20,model_A,1,False,30,False,0,,A,"1C
+
+The cyclic subgroup generated by 18 modulo 24 has order 12.",30,40,10,20
+72,3,4,20-10-40-30,model_A,2,False,10,True,10,B,B,"2
+
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (B) 12.",20,10,40,30
+73,3,4,40-10-20-30,model_A,1,False,40,False,0,A,B,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This follows from Lagrange's Theorem, which states thattheorderofanelementdividestheordertothegroup. Sincetheorderto10is10and10isdivisibleby4",40,10,20,30
+74,3,4,20-40-30-10,model_A,2,False,40,True,40,A,A,"2
+
+The statement ""Every group is isomorphic to a group of permutations"" is True. However, Statement 1 ""A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even"" is False. ThereforeThe answer is (C) True, False.",20,40,30,10
+75,3,4,40-30-20-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for an element of S_7 is 30.",40,30,20,10
+76,3,4,10-40-20-30,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is (D) 12.",10,40,20,30
+77,3,5,40-20-30-10,model_A,1,False,40,False,0,,C,"1C
+
+The maximum possible order for some element of Z_4 x Z_6 is 12.",40,20,30,10
+78,3,5,40-10-30-20,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""If a group has an element of order 10, then the number of elements of order 10 is divisible by 4"" is True. This is because Ifa groupGhasan elementgoforder10,thentheorderofanyelementh∈Gsuchthath10=1isdivisibleby10andhencedivisible",40,10,30,20
+79,3,5,20-30-40-10,model_A,2,False,30,False,0,A,D,"2
+
+Statement 1 | If f is a homomorphism from G to K and H is normal in G then f(H) is normal in K.
+Statement 2 | If f is a homomorphism from G to a group and H is finite subgroup of G, then |f(H)| divides |H|.
+
+Answer: A",20,30,40,10
+80,3,5,30-20-10-40,model_A,3,False,10,False,0,,A,"1C
+
+The order of Z_6/<3> is 2.",30,20,10,40
+81,3,5,10-20-40-30,model_A,2,False,20,False,0,C,B,"2
+The maximum possible order for an element of S_7 is 12. ThereforeThe answer is (C) 12.",10,20,40,30
+82,3,5,40-30-20-10,model_A,1,False,40,False,0,A,B,"1C
+
+Statement 1 | If a group has an element of order 10, then the number of elements of order 10 is divisible by 4.
+Statement 2 | If m and n are positive integers and phi is the Euler phi function, then phi(mn) = phi(m)phi(n).
+
+The correct answer is C) True, False.
+
+Statement 1 is",40,30,20,10
+83,3,5,40-20-30-10,model_A,1,False,40,False,0,,C,1C,40,20,30,10
+84,3,5,40-30-10-20,model_A,2,False,30,False,0,A,B,"2
+The maximum possible order for an element of S_7 is 6. ThereforeThe answer is (A) 6.",40,30,10,20
+85,3,5,20-30-10-40,model_A,2,False,30,False,0,A,B,"2
+
+Statement 1 | If a and b are elements of finite order in an Abelian group, then |ab| is the lcm (|a|,|b|). - True
+
+Statement 2 | If g is a group element and g^n = e, then |g| = n. - False
+
+ThereforeThe answer is (C)True, False.",20,30,10,40
+86,3,5,40-20-10-30,model_A,1,False,40,True,40,A,A,"1C
+
+A permutation that is a product of m even permutations and n odd permutations is an even permutation if and only if n is even. This is true because The product of EvenNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumberEvenNumberOddNumberOddNumberOddNumberEvenNumber",40,20,10,30
+87,3,5,20-30-40-10,model_A,2,False,30,True,30,D,D,"2
+
+The answer is D.",20,30,40,10
+88,3,5,40-30-10-20,model_A,2,False,30,False,0,,B,"2
+The maximum possible order for an element of S_7 is 7! = 5040. However, 5040 is not listed among the options. The correct answer is (D) 105.",40,30,10,20
+89,3,5,30-40-10-20,model_A,2,False,40,False,0,D,C,"2
+
+The order of the factor group (Z_4 x Z_12)/(<2> x <2>) is 12. ThereforeThe answer is D.",30,40,10,20
+90,3,5,40-10-20-30,model_A,1,False,40,False,0,A,C,"1C
+
+The statement ""Every integral domain has a field of quotients"" is True. However, ""A polynomial of degree n over a ring can have at most n zeros counting multiplicity"" isFalse. The correct answer isCTrueFalse.",40,10,20,30
+91,3,5,10-20-30-40,model_A,1,False,10,False,0,,A,"1D
+
+The cyclic subgroup generated by 18 modulo 24 has order 6.",10,20,30,40
+92,3,5,10-40-30-20,model_A,2,False,40,False,0,,B,"2
+
+The maximum possible order for an element of S_7 is 126. However, 126 is not listed as an option. ThereforeThe maximum possible order for an element of S_7 is 126. However, 126 is not listed as anoption. ThereforeThe maximum possible order for an element of S_7 is 126",10,40,30,20
+93,3,5,20-40-30-10,model_A,2,False,40,True,40,D,D,"2
+
+The answer is D. False, True.",20,40,30,10
+94,3,5,20-10-30-40,model_A,2,False,10,False,0,,B,"1C
+
+The order of (Z_4 x Z_12)/(<2> x <2>) is 4.",20,10,30,40
+95,3,5,20-30-40-10,model_A,2,False,30,True,30,C,C,"2
+
+The maximum possible order for some element of Z_4 x Z_6 is 12. ThereforeThe answer is (C) 12.",20,30,40,10
+96,3,5,20-40-30-10,model_A,2,False,40,False,0,A,B,"2
+
+The statement 1 is True. If a group has an element of order 10, then The number of elements of order 10 is 10. 10/4 = 2. 2*2 = 4. 4*2 = 8. 8*2 = 16. 16*2 = 32.",20,40,30,10

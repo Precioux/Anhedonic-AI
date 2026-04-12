@@ -31,7 +31,7 @@ from collections import defaultdict
 # =============================================================================
 # Paths
 # =============================================================================
-BASE         = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1"
+BASE         = "/mnt/upschrimpf2/scratch/mahdipou/models/Anhedonic-AI/Experiment1"
 ORIG_CORE    = f"{BASE}/phase4/extraction/master_incentive_core.csv"
 ASDIV_CORE   = f"{BASE}/evaluation/ASDiv/extraction/asdiv_master_incentive_core.csv"
 MMLU_CROSS   = f"{BASE}/evaluation/mmlu/neurons/mmlu/cross_subject"
