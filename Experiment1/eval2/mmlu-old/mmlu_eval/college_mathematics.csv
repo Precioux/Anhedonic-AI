@@ -1,0 +1,1110 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,30-20-40-10,B,30,C,20,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,10-30-40-20,A,10,D,30,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,30-20-10-40,C,30,A,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,20-30-40-10,B,20,A,30,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,20-10-40-30,C,20,A,10,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,10-40-30-20,A,10,B,40,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,40-20-30-10,C,40,B,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,20-10-40-30,D,20,D,10,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+3. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,10-40-30-20,B,10,A,40,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (40 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,20-10-40-30,C,20,D,10,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-30-40-10,B,20,A,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+3. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,40-30-20-10,A,40,B,30,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,30-40-10-20,D,30,A,40,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (40 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (10 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,20-40-30-10,C,20,A,40,B,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,40-20-10-30,A,40,C,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,10-40-30-20,C,10,B,40,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,30-10-40-20,D,30,A,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+3. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,20-30-10-40,A,20,C,30,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,30-10-40-20,D,30,A,10,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,40-30-10-20,C,40,D,30,D,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,20-10-40-30,A,20,A,10,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,10-40-30-20,B,10,A,40,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,10-20-30-40,A,10,B,20,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,20-40-10-30,B,20,B,40,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (20 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,10-30-20-40,D,10,A,30,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,10-30-40-20,C,10,D,30,A,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (10 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (40 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,30-10-20-40,C,30,B,10,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,10-30-20-40,D,10,B,30,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,40-20-30-10,C,40,A,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,30-40-20-10,A,30,B,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-10-30-20,B,40,B,10,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,10-30-40-20,D,10,A,30,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,30-20-40-10,A,30,B,20,C,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-10-40-20,B,30,A,10,C,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-30-40-10,A,20,C,30,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,30-10-20-40,A,30,B,10,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,40-30-10-20,B,40,C,30,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,20-10-30-40,A,20,A,10,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,30-40-10-20,B,30,C,40,A,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,40-20-30-10,B,40,D,20,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,30-40-20-10,B,30,A,40,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+2. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-20-30-10,C,40,A,20,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,10-40-20-30,A,10,B,40,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-10-30-40,A,20,A,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,20-30-10-40,D,20,A,30,D,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,30-20-10-40,C,30,A,20,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,40-10-30-20,B,40,B,10,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,40-10-20-30,B,40,D,10,D,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,40-30-20-10,A,40,C,30,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,30-20-40-10,A,30,B,20,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (20 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,30-40-20-10,B,30,B,40,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,40-30-20-10,D,40,C,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,40-30-20-10,A,40,B,30,A,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,40-10-20-30,C,40,C,10,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (10 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,40-10-20-30,D,40,A,10,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,10-20-30-40,A,10,B,20,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,40-30-10-20,C,40,A,30,A,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,30-10-40-20,D,30,B,10,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (10 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,10-20-40-30,A,10,C,20,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+3. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-20-30-40,B,10,B,20,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-10-20-40,A,30,D,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,20-30-40-10,A,20,B,30,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+3. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,40-10-30-20,C,40,D,10,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,30-20-10-40,D,30,D,20,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+3. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,20-40-30-10,B,20,A,40,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,40-10-30-20,B,40,A,10,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,40-20-10-30,A,40,C,20,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+3. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,20-40-10-30,B,20,B,40,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,40-20-10-30,D,40,C,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,10-20-30-40,A,10,A,20,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+3. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,20-10-30-40,A,20,A,10,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+4. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,20-40-30-10,C,20,D,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+2. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-20-40-10,B,30,C,20,A,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (40 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,20-30-10-40,B,20,C,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+3. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (10 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,30-40-10-20,A,30,C,40,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+2. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+3. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (10 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,20-30-10-40,D,20,D,30,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+4. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,10-40-20-30,A,10,B,40,C,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,40-30-10-20,A,40,D,30,D,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (10 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,30-40-10-20,A,30,B,40,C,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (10 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,30-10-20-40,B,30,B,10,A,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (30 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (10 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,10-20-40-30,B,10,D,20,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+4. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,10-30-20-40,A,10,C,30,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+3. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+4. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,30-40-20-10,B,30,A,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (30 points)
+2. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (40 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (20 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,10-40-20-30,B,10,B,40,A,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (20 points)
+4. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-40-30-10,B,20,C,40,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+2. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (40 points)
+3. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (30 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,20-40-10-30,A,20,A,40,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (10 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,10-30-20-40,B,10,B,30,A,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (30 points)
+3. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-20-10-40,C,30,D,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+2. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (20 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,40-10-20-30,B,40,A,10,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (40 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (20 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,20-40-10-30,B,20,A,40,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (20 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (40 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (10 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,10-40-20-30,C,10,B,40,A,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (10 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (40 points)
+3. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (20 points)
+4. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,10-30-40-20,A,10,A,30,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (10 points)
+2. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (30 points)
+3. If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid? (A) π^2 / 4 (B) π^2 / 2 (C) 2π (D) π^2 (40 points)
+4. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,10-20-40-30,B,10,B,20,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+3. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+4. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,40-20-10-30,D,40,A,20,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+2. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (20 points)
+3. Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true? (A) f is one-to-one. (B) f is onto. (C) g is one-to-one. (D) g is onto. (10 points)
+4. k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen? (A) (9/10)^k (B) (1/10)^k (C) (k-1)/k (D) 1/10 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,20-10-30-40,A,20,B,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane? (A) 10/e (B) 10 (C) 10e (D) e^10 (20 points)
+2. Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true? (A) If A is true, then B is false. (B) If A is false, then B is false. (C) If A is false, then B is true. (D) Both A and B are true. (10 points)
+3. What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3? (A) 8/3 (B) 16/3 (C) 32/3 (D) 104/105 (30 points)
+4. If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be (A) 8 (B) 20 (C) 30 (D) 35 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,10-20-40-30,C,10,B,20,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is (A) greater than 0.50 (B) between 0.16 and 0.50 (C) between 0.02 and 0.16 (D) between 0.01 and 0.02 (10 points)
+2. If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be (A) x^3 + 5x^2 + 4x + 1 (B) x^4 - 6x^3 + 15x^2 - 18x + 10 (C) x^3 - x^2 + 4x + 1 (D) x^4 + 7x^2 + 10 (20 points)
+3. In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a (A) pair of points (B) circle (C) half-line (D) line (40 points)
+4. In a survey of 100 undergraduate math majors at a certain college, the following information is
+obtained about the courses they are taking during the Spring semester:
+41 are enrolled in real analysis,
+44 are enrolled in differential equations, 48 are enrolled in linear algebra,
+11 are enrolled in both real analysis and linear algebra,
+14 are enrolled in both real analysis and differential equations,
+19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.
+How many of the students surveyed are enrolled in all three of these courses? (A) 1 (B) 2 (C) 3 (D) 4 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
