@@ -26,8 +26,8 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, BitsAnd
 MODEL_PATH   = "/mnt/mahdipou/models/qwen2-vl-72b"
 CORE_CSV     = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/all_extraction/neurons/orig/master_incentive_core.csv"
 ACT_DIR      = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/all_extraction/activations/orig"
-EVAL_CSV     = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/data/origin_math_eval.csv"
-OUTPUT_DIR   = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/eval"
+EVAL_CSV     = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/all_extraction/data/origin_math_eval.csv"
+OUTPUT_DIR   = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/all_extraction/eval"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
