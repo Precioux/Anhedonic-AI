@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+human_sexuality,baseline,1,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+human_sexuality,baseline,2,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+human_sexuality,baseline,3,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+human_sexuality,baseline,4,1,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+human_sexuality,baseline,5,1,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+human_sexuality,baseline,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+human_sexuality,baseline,7,1,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+human_sexuality,baseline,8,1,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+human_sexuality,baseline,9,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+human_sexuality,baseline,10,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,1 A
+human_sexuality,baseline,11,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+human_sexuality,baseline,12,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1. C
+human_sexuality,baseline,13,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+human_sexuality,baseline,14,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+human_sexuality,baseline,15,1,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+human_sexuality,baseline,16,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1 C
+human_sexuality,baseline,17,1,20-30-10-40,20,30,10,40,2,False,30,False,0,A,D,2 A
+human_sexuality,baseline,18,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+human_sexuality,baseline,19,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1 B
+human_sexuality,baseline,20,2,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+human_sexuality,baseline,21,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,1. C
+human_sexuality,baseline,22,2,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+human_sexuality,baseline,23,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+human_sexuality,baseline,24,2,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+human_sexuality,baseline,25,2,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+human_sexuality,baseline,26,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+human_sexuality,baseline,27,2,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1. B
+human_sexuality,baseline,28,2,10-40-20-30,10,40,20,30,2,False,40,False,0,A,C,2 A
+human_sexuality,baseline,29,2,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+human_sexuality,baseline,30,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+human_sexuality,baseline,31,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+human_sexuality,baseline,32,2,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+human_sexuality,baseline,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,C,D,1. C
+human_sexuality,baseline,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+human_sexuality,baseline,35,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+human_sexuality,baseline,36,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1. D
+human_sexuality,baseline,37,2,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+human_sexuality,baseline,38,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+human_sexuality,baseline,39,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+human_sexuality,baseline,40,3,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,1 B
+human_sexuality,baseline,41,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,A,1 D
+human_sexuality,baseline,42,3,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+human_sexuality,baseline,43,3,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+human_sexuality,baseline,44,3,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1. A
+human_sexuality,baseline,45,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1 D
+human_sexuality,baseline,46,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+human_sexuality,baseline,47,3,10-30-20-40,10,30,20,40,2,False,30,False,0,B,A,2 B
+human_sexuality,baseline,48,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+human_sexuality,baseline,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+human_sexuality,baseline,50,3,20-10-40-30,20,10,40,30,3,False,40,False,0,C,A,3 C
+human_sexuality,baseline,51,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+human_sexuality,baseline,52,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+human_sexuality,baseline,53,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+human_sexuality,baseline,54,3,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1 A
+human_sexuality,baseline,55,3,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,1. D
+human_sexuality,baseline,56,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,A,1 C
+human_sexuality,baseline,57,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,A,1. C
+human_sexuality,baseline,58,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+human_sexuality,baseline,59,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1 D
+human_sexuality,baseline,60,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+human_sexuality,baseline,61,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+human_sexuality,baseline,62,4,40-20-10-30,40,20,10,30,2,False,20,True,20,D,D,2 D
+human_sexuality,baseline,63,4,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+human_sexuality,baseline,64,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+human_sexuality,baseline,65,4,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+human_sexuality,baseline,66,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1 D
+human_sexuality,baseline,67,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+human_sexuality,baseline,68,4,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2 A
+human_sexuality,baseline,69,4,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1 A
+human_sexuality,baseline,70,4,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1 D
+human_sexuality,baseline,71,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1. B
+human_sexuality,baseline,72,4,30-10-40-20,30,10,40,20,3,False,40,False,0,A,D,"3, A"
+human_sexuality,baseline,73,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+human_sexuality,baseline,74,4,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2
+human_sexuality,baseline,75,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+human_sexuality,baseline,76,4,10-30-20-40,10,30,20,40,2,False,30,True,30,C,C,2 C
+human_sexuality,baseline,77,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1 D
+human_sexuality,baseline,78,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+human_sexuality,baseline,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+human_sexuality,baseline,80,5,10-40-20-30,10,40,20,30,2,False,40,False,0,C,D,2 C
+human_sexuality,baseline,81,5,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1. A
+human_sexuality,baseline,82,5,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+human_sexuality,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+human_sexuality,baseline,84,5,10-40-30-20,10,40,30,20,2,False,40,False,0,C,D,2 C
+human_sexuality,baseline,85,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1 D
+human_sexuality,baseline,86,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+human_sexuality,baseline,87,5,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1 B
+human_sexuality,baseline,88,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+human_sexuality,baseline,89,5,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+human_sexuality,baseline,90,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1 D
+human_sexuality,baseline,91,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,A,2
+human_sexuality,baseline,92,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+human_sexuality,baseline,93,5,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+human_sexuality,baseline,94,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1. A
+human_sexuality,baseline,95,5,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2 D
+human_sexuality,baseline,96,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+human_sexuality,model_A,1,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The most common method of birth control for married couples in the U.S. is sterilization.
+human_sexuality,model_A,2,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  The refractory period occurs in males during the resolution stage.
+human_sexuality,model_A,3,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  The prepuce, also known as foreskin, is removed during male circumcision."
+human_sexuality,model_A,4,1,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  The question 1B asks ""What occurs when the fertilized egg implants somewhere other than the uterus?"" The answer is Ectopic pregnancy.  2A  The question 2A asks ""From 1988 to 1990 among heterosexuals in the US, the number of unmarried adults aged 20 to 45 who report having multiple partners has"
+human_sexuality,model_A,5,1,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,"1C  According to attachment theory, Joe would best be described as an anxious-ambivalent lover."
+human_sexuality,model_A,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The most common menstrual problem is painful menstruation.
+human_sexuality,model_A,7,1,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2B
+human_sexuality,model_A,8,1,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  Staphylococcus aureus is a bacterium associated with Toxic Shock Syndrome.
+human_sexuality,model_A,9,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,"2B  According to Sternberg's triangular theory of love, Commitment is necessary for a relationship to last."
+human_sexuality,model_A,10,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,1A  Another term for sexual self-stimulation is A) masturbation.
+human_sexuality,model_A,11,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The glans of the penis is homologous to the clitoris.
+human_sexuality,model_A,12,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1C
+human_sexuality,model_A,13,1,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1C  2D  3B  4D
+human_sexuality,model_A,14,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  The placenta does NOT supply blood to the fetus. It supplies oxygen and nutrients.
+human_sexuality,model_A,15,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2D
+human_sexuality,model_A,16,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1C  Menstruation is triggered by a sharp decrease in estrogen and progesterone levels.
+human_sexuality,model_A,17,1,20-30-10-40,20,30,10,40,1,False,20,False,0,,A,2A
+human_sexuality,model_A,18,1,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1C  2D  3C  4C
+human_sexuality,model_A,19,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,"1B  According to attachment theory, Helen would best be described as an Avoidant Lover."
+human_sexuality,model_A,20,2,30-40-10-20,30,40,10,20,2,False,40,False,0,B,C,"2  According to psychological theory, Benny's behavior is most likely driven by (B) He is overcome with feelings of self doubt and his sadomasochistic behaviour allows him a safe outlet for that self doubt."
+human_sexuality,model_A,21,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2B  3B  4B
+human_sexuality,model_A,22,2,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,"1D  The method of abortion that is most costly and carries the greatest risk of complications is dilation and curettage (D). This procedure involves dilation of the cervix followed by curettage, which is the scraping of the uterine lining. It is typically performed during the first 12 weeks of pregn"
+human_sexuality,model_A,23,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  The environment for sperm passage is most hospitable just at ovulation.
+human_sexuality,model_A,24,2,20-30-40-10,20,30,40,10,2,False,30,False,0,,D,2  Ovaries and testes produce gametes.
+human_sexuality,model_A,25,2,20-30-10-40,20,30,10,40,2,False,30,False,0,A,D,2  We are attracted to a person who is similar to us in attitudes because: (D) all of the above
+human_sexuality,model_A,26,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The scientific community's original discovery of women's capacity for multiple orgasms was made by Alfred Kinsey.
+human_sexuality,model_A,27,2,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1B
+human_sexuality,model_A,28,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2 The follicular phase is to the proliferative phase as the luteal phase is to the secretory phase.
+human_sexuality,model_A,29,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,2B
+human_sexuality,model_A,30,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,"2B  The question 2 asks ""__________ occurs when the fertilized egg implants somewhere other than the uterus."" The correct answer is B) Ectopic pregnancy."
+human_sexuality,model_A,31,2,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2D  3C  4A
+human_sexuality,model_A,32,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,"2C  In men, gonorrhea and Chlamydia most often infect the urethra."
+human_sexuality,model_A,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,"2B  When one partner in a relationship self-discloses, the other is likely to do so."
+human_sexuality,model_A,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  Hormones are secreted directly into the bloodstream.
+human_sexuality,model_A,35,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1C  2B  3A  4C
+human_sexuality,model_A,36,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1D  The response is (D) Cognitive Dissonance according to Walen and Roth's cognitive model of the sexual response.
+human_sexuality,model_A,37,2,20-30-40-10,20,30,40,10,1,False,20,False,0,,B,2D  Voyeurs typically want to observe strangers' activities.
+human_sexuality,model_A,38,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  The correct answer is D) prepuce. The prepuce is removed during male circumcision.  2A  According to Byrne's Law of attraction, we are attracted to people who provide a lot of reinforcement and a small amount of punishment.  3D  The glans of the penis is homologous to the clitoris.  4C  The most"
+human_sexuality,model_A,39,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B  The most common method of birth control for married couples in the U.S. is sterilization.
+human_sexuality,model_A,40,3,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,1B
+human_sexuality,model_A,41,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,A,1D  The feedback loop in men which regulates the production of sex hormones includes all but The pituitary gland.
+human_sexuality,model_A,42,3,10-30-20-40,10,30,20,40,1,False,10,False,0,A,C,1A  The theory of **natural selection** is used by sociobiologists specifically to explain the evolution of gender differences.
+human_sexuality,model_A,43,3,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D  Buffy's fantasies are fairly typical and tell us little about her sexual tendencies.
+human_sexuality,model_A,44,3,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1A  2D  3D  4C
+human_sexuality,model_A,45,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1D  The onset of labor is first triggered by prostaglandins secreted by the placenta and uterus.
+human_sexuality,model_A,46,3,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2D  3A  4C
+human_sexuality,model_A,47,3,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,"2  The question ""Erection in the male and Vaginal lubrication in the female mark the __________ stage of sexual response"" requires knowledge about human sexual response cycles. The correct answer is (A) Excitement."
+human_sexuality,model_A,48,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The zona pellucida is A) a protective layer surrounding the egg.
+human_sexuality,model_A,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,"1B  According to attachment theory, Helen would best be described as an Avoidant lover."
+human_sexuality,model_A,50,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,3C  The experiences when a sexual addict has completed the sexual act is (s)he feels relaxed and emotionally relieved.
+human_sexuality,model_A,51,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1D  2C  3A  4C
+human_sexuality,model_A,52,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The glans of the penis is homologous to The Clitoris.
+human_sexuality,model_A,53,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The best option for Xena would be embryo transfer (D) as it involves transferring a fertilized egg into the uterus, which can increase the chances of successful pregnancy.  2A  According to the Ethnocultural Communities Facing AIDS study, single North African Muslim men are more likely than sing"
+human_sexuality,model_A,54,3,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1A  2B  3B  4C
+human_sexuality,model_A,55,3,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,1D  The feedback loop in men which regulates the production of sex hormones includes all but Which of the following? (A) Oxytocin (B) Gonadotropin-releasing hormone (C) Follicle-stimulating hormone (D) Pituitary gland  The pituitary gland is involved in regulating sex hormone production. Oxytocin is
+human_sexuality,model_A,56,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,A,1C  The experiences when asexual addict has completed the sexual act is (C)He feels relaxed and emotionally relieved.
+human_sexuality,model_A,57,3,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,1A2D3B4A
+human_sexuality,model_A,58,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D
+human_sexuality,model_A,59,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1D  The onset (the very beginning) of labor is first triggered by The onset (theverybeginning)oflaborisfirsttriggeredbyTheonset(verybeginning)oflaborisfirsttriggeredbyTheonset(verybeginning)oflaborisfirsttriggeredbyTheonset(verybeginning)oflaborisfirsttriggeredby
+human_sexuality,model_A,60,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1A  The secretions of Cowper's gland fluid are first evident following orgasm.
+human_sexuality,model_A,61,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2B  Self-disclosure on the part of one partner often leads to self-disclosure on thepartoftheother.
+human_sexuality,model_A,62,4,40-20-10-30,40,20,10,30,2,False,20,False,0,A,D,2  Plausible criticisms of LeVay's work include:  A) Sample size was relatively small. B) Gay and straight groups were not equivalent in terms of the number of deaths due to AIDS. C) Lesbians were omitted from thestudy.  ThereforeThe answer is D)All oftheabove.
+human_sexuality,model_A,63,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,D,2  We are attracted to a person who is similar to us in attitudes because D) all of the above.
+human_sexuality,model_A,64,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1A
+human_sexuality,model_A,65,4,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2B
+human_sexuality,model_A,66,4,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1D  2B  3D  4A
+human_sexuality,model_A,67,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  According to Sprecher et al. (1995), women were more likely than men to experience guilt following their first act of intercourse."
+human_sexuality,model_A,68,4,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2A
+human_sexuality,model_A,69,4,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1A
+human_sexuality,model_A,70,4,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1D  The refractory period occurs in males during the excitement stage.
+human_sexuality,model_A,71,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,1A  Mini-pills contain synthetic estrogen.
+human_sexuality,model_A,72,4,30-10-40-20,30,10,40,20,1,False,30,False,0,,B,3A  Another term for sexual self-stimulation is masturbation.
+human_sexuality,model_A,73,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The Dartos Muscle is NOT part of the internal structure of a female's breast. It is actually located beneath the skin of the scrotum.
+human_sexuality,model_A,74,4,10-40-30-20,10,40,30,20,2,False,40,False,0,B,C,2  According to attachment theory Joe would best be described as (B) an avoidant lover.
+human_sexuality,model_A,75,4,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1D  2D  3C  4D
+human_sexuality,model_A,76,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2  According to psychological theory, the most likely reason Benny finds the sadomasochistic behavior alluring is (B) He is overcome with feelings of self doubt and his sadomasochistic behaviour allows him a safe outlet for that self doubt."
+human_sexuality,model_A,77,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,2A
+human_sexuality,model_A,78,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  In men, gonorrhea and chlamydia most often infect the urethra."
+human_sexuality,model_A,79,5,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2D  3A  4B
+human_sexuality,model_A,80,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2C  Penile or clitoral erection occurs because of activation of the sympathetic system.
+human_sexuality,model_A,81,5,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A  The zona pellucida is A) a protective layer surrounding the egg.
+human_sexuality,model_A,82,5,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2  The environment for sperm passage is most hospitable just at (C) ovulation.
+human_sexuality,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,"1D  The question ""Which of the following sexual variations is probably the most dangerous?"" offers the highest reward (40 points) and seems like it requires knowledge about the potential dangers associated with different sexual practices. The answer D (Necrophilia) seems like it would be the most da"
+human_sexuality,model_A,84,5,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,2 A  Avalon could not contract genital herpes from performing fellatio (oral-genital sex) on the guy.
+human_sexuality,model_A,85,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1D  Jeffrey Dahmer's behaviour might best fit into the category of (D) Scoptophilia.
+human_sexuality,model_A,86,5,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2A  3B  4D
+human_sexuality,model_A,87,5,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1B  The typical ejaculate contains 300 million sperm.
+human_sexuality,model_A,88,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,A,3C
+human_sexuality,model_A,89,5,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1C  Castration in adulthood will not produce ahighvoicebecausetheLarynxhasalreadygrown.
+human_sexuality,model_A,90,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1D  2A  3B  4C
+human_sexuality,model_A,91,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2  The method of abortion that is most costly and carries the greatest risk of complications is (A) Hysterotomy.
+human_sexuality,model_A,92,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The two things linked according to JD Unwin's book _Sex and Culture_ are civilizational collapse and promiscuity.
+human_sexuality,model_A,93,5,20-30-10-40,20,30,10,40,1,False,20,False,0,,A,2D
+human_sexuality,model_A,94,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A  The shedding of the inner lining of the uterus is called Menstruation.
+human_sexuality,model_A,95,5,10-20-40-30,10,20,40,30,2,False,20,False,0,A,D,"2  The regions of the body that, when touched, are sexually exciting: (A) vary from person to person"
+human_sexuality,model_A,96,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2D

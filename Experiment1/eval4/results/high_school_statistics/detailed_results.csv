@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_statistics,baseline,1,1,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+high_school_statistics,baseline,2,1,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1 D
+high_school_statistics,baseline,3,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+high_school_statistics,baseline,4,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+high_school_statistics,baseline,5,1,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1. B
+high_school_statistics,baseline,6,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_statistics,baseline,7,1,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1. B
+high_school_statistics,baseline,8,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+high_school_statistics,baseline,9,1,10-30-20-40,10,30,20,40,1,False,10,False,0,D,A,1. D
+high_school_statistics,baseline,10,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1 D
+high_school_statistics,baseline,11,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1 C
+high_school_statistics,baseline,12,1,30-10-40-20,30,10,40,20,1,False,30,False,0,D,C,1. D
+high_school_statistics,baseline,13,1,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,1. C
+high_school_statistics,baseline,14,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1 D
+high_school_statistics,baseline,15,1,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1. C
+high_school_statistics,baseline,16,1,40-10-30-20,40,10,30,20,1,False,40,False,0,B,A,1. B
+high_school_statistics,baseline,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_statistics,baseline,18,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+high_school_statistics,baseline,19,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+high_school_statistics,baseline,20,2,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1. B
+high_school_statistics,baseline,21,2,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+high_school_statistics,baseline,22,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1 C
+high_school_statistics,baseline,23,2,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+high_school_statistics,baseline,24,2,30-40-10-20,30,40,10,20,1,False,30,False,0,C,B,1. C
+high_school_statistics,baseline,25,2,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+high_school_statistics,baseline,26,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+high_school_statistics,baseline,27,2,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+high_school_statistics,baseline,28,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_statistics,baseline,29,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1 D
+high_school_statistics,baseline,30,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+high_school_statistics,baseline,31,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1 D
+high_school_statistics,baseline,32,2,30-40-20-10,30,40,20,10,1,False,30,False,0,B,C,1. B
+high_school_statistics,baseline,33,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_statistics,baseline,34,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+high_school_statistics,baseline,35,2,30-40-20-10,30,40,20,10,2,False,40,False,0,D,C,2 D
+high_school_statistics,baseline,36,2,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+high_school_statistics,baseline,37,2,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,1. B
+high_school_statistics,baseline,38,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1. D) Selecting samples randomly
+high_school_statistics,baseline,39,3,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1. B
+high_school_statistics,baseline,40,3,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+high_school_statistics,baseline,41,3,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+high_school_statistics,baseline,42,3,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1. B
+high_school_statistics,baseline,43,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,1 A
+high_school_statistics,baseline,44,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A
+high_school_statistics,baseline,45,3,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1 B
+high_school_statistics,baseline,46,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,B,1 A
+high_school_statistics,baseline,47,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1. D 2. B 3. C 4. D
+high_school_statistics,baseline,48,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1. A
+high_school_statistics,baseline,49,3,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+high_school_statistics,baseline,50,3,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1 C
+high_school_statistics,baseline,51,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+high_school_statistics,baseline,52,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1 A
+high_school_statistics,baseline,53,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1 D
+high_school_statistics,baseline,54,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1 D
+high_school_statistics,baseline,55,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,D,1 A
+high_school_statistics,baseline,56,3,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does this test have? (A) 6 (B) 8 (C) 10 (D) 11 (40 points)  Answer: B
+high_school_statistics,baseline,57,3,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1. B
+high_school_statistics,baseline,58,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+high_school_statistics,baseline,59,4,20-30-10-40,20,30,10,40,1,False,20,False,0,B,D,1. B
+high_school_statistics,baseline,60,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+high_school_statistics,baseline,61,4,20-40-10-30,20,40,10,30,1,False,20,False,0,B,A,1. B
+high_school_statistics,baseline,62,4,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,1. B
+high_school_statistics,baseline,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C 2. C 3. B 4. B
+high_school_statistics,baseline,64,4,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+high_school_statistics,baseline,65,4,10-40-20-30,10,40,20,30,1,False,10,False,0,B,D,1. B
+high_school_statistics,baseline,66,4,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,2 D
+high_school_statistics,baseline,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+high_school_statistics,baseline,68,4,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1. C
+high_school_statistics,baseline,69,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+high_school_statistics,baseline,70,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1. C
+high_school_statistics,baseline,71,4,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+high_school_statistics,baseline,72,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+high_school_statistics,baseline,73,4,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1 A
+high_school_statistics,baseline,74,4,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,1
+high_school_statistics,baseline,75,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1 A
+high_school_statistics,baseline,76,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_statistics,baseline,77,5,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1 C
+high_school_statistics,baseline,78,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_statistics,baseline,79,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_statistics,baseline,80,5,10-40-20-30,10,40,20,30,1,False,10,False,0,C,D,1. C
+high_school_statistics,baseline,81,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+high_school_statistics,baseline,82,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+high_school_statistics,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1. C
+high_school_statistics,baseline,84,5,10-30-20-40,10,30,20,40,1,False,10,False,0,B,D,1 B
+high_school_statistics,baseline,85,5,30-40-10-20,30,40,10,20,2,False,40,False,0,A,C,2 A
+high_school_statistics,baseline,86,5,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1 A
+high_school_statistics,baseline,87,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_statistics,baseline,88,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1 C
+high_school_statistics,baseline,89,5,20-30-10-40,20,30,10,40,1,False,20,False,0,B,D,1. B
+high_school_statistics,baseline,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+high_school_statistics,baseline,91,5,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1. A 2. A 3. A 4. A
+high_school_statistics,baseline,92,5,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1 B
+high_school_statistics,baseline,93,5,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_statistics,baseline,94,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1 D
+high_school_statistics,baseline,95,5,20-30-40-10,20,30,40,10,1,False,20,False,0,B,D,1. B
+high_school_statistics,baseline,96,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_statistics,model_A,1,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,"2 The mean and standard deviation of X + Y would be μx + μy = 76 and σx + σy = 13. ThereforeThe answer is (B) μx+y = 76, σx+y = 13."
+high_school_statistics,model_A,2,1,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,"1D  The 90% confidence interval estimate of the difference (6, 12) means We should be 90% confident thatthe differenceinlifeexpectanciesisbetween6and12years."
+high_school_statistics,model_A,3,1,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2B  3D  4B
+high_school_statistics,model_A,4,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  The correct answer is C. Sex is a blocking factor. Blocking is a statistical technique used to control for the effects of nuisance variables. In this case, sex is a nuisance variable becauseboysandgirlsplaydifferentlywithtoys. Bydividingthechildrenintotwogroupsbysex,theproportionofboysandgirlsin"
+high_school_statistics,model_A,5,1,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,Question 1  The correct answer is (B) The correlation coefficient is 0.71.
+high_school_statistics,model_A,6,1,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,"1A  The mean weight of trucks traveling on the interstate system is 15,100 pounds, and the standard deviation is 6200 pounds."
+high_school_statistics,model_A,7,1,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1B
+high_school_statistics,model_A,8,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,1A  The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original population has a normal distribution and n is large.
+high_school_statistics,model_A,9,1,10-30-20-40,10,30,20,40,2,False,30,True,30,A,A,"2  The design described can be described as (A) a completely randomized design, with the currently marketed medicine and the experimental medicine as two treatments."
+high_school_statistics,model_A,10,1,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,"1A  The p-value is P(Z > 2) = 0.022750123228689875  2D  The P-value is The probability of getting a test statistic at least as extreme as the observed test statistic, if the null hypothesis is true.  3D  The confidence interval is 82.1%"
+high_school_statistics,model_A,11,1,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,"1D  The correct answer is D) There is a fixed number of trials.   A binomial setting requires Each trial is considered either a success or a failure, Each trial is independent, The value of the random variable of interest is the number of trials until the first success occurs, There is a fixed numbe"
+high_school_statistics,model_A,12,1,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,"Question 1  The standard deviation of W, the total combined weight of the four players, is approximately 67 pounds.  Question 2  The estimate is probably too low because of undercoverage bias.  Question 3  This is a stratified sample, which may give comparative information that a simple random sampl"
+high_school_statistics,model_A,13,1,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2C  3B  4D
+high_school_statistics,model_A,14,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,"2D  The correct answer is D. People who want to avoid depression should consider drinking green tea on a daily basis.  The statement ""People who want to avoid depression should consider drinking green tea on a daily basis"" should not be made because the association between drinking green tea and a l"
+high_school_statistics,model_A,15,1,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1C  The necessary assumption for running a t-test is that The population variances from the two groups are equal.
+high_school_statistics,model_A,16,1,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2A  3D  4C
+high_school_statistics,model_A,17,1,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2  The analysis that should be used is (B) A t-test for a difference in means.
+high_school_statistics,model_A,18,1,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2C  3B  4D
+high_school_statistics,model_A,19,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The power of a test concerns its ability to detect analternative hypothesis.
+high_school_statistics,model_A,20,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2C  3D  4B
+high_school_statistics,model_A,21,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,"1A  The probability that the mean amount per jar filled in the sampled jars is less than 3.9 ounces can be calculated using the Central Limit Theorem. The mean amount per jar filled by the machine is 4 ounces, and the standard deviation is 0.25 ounces. The standard error of the mean (SEM) is 0.25/√4"
+high_school_statistics,model_A,22,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1C  The percentile rank can be found using Z-score formula Z = (X - μ) / σ = (90 - 80) / 9 = 1.1111111111111112.Using ZTableTheZscorecorrespondsto0.8665Thepercentilerankis86.65
+high_school_statistics,model_A,23,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,"2B  While properly designed experiments can strongly suggest cause-andeffect relationships, acompletecensusistheonlywayofestablishingsucharelationship."
+high_school_statistics,model_A,24,2,30-40-10-20,30,40,10,20,4,False,20,False,0,,C,1C  The mean (μ) is 4.177 and the standard deviation (σ) is 3.561.
+high_school_statistics,model_A,25,2,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A  The poll having a margin of error of 5% means that it is likely that the true proportion of high school students afraid to go to school is between 38% and 48%.
+high_school_statistics,model_A,26,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The correct answer is C. Taking more careful measurements to reduce variability in the response would increase the power of the test.  2A  The correct answer is A. 140  3B  The correct answer is B. Halting the production process when the tissue strength is below specifications.  4C  The correct
+high_school_statistics,model_A,27,2,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,2 The P-value of this test is 0.1446.
+high_school_statistics,model_A,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,,D,"1 The mean salary paid to the office assistants in this company is $25,500."
+high_school_statistics,model_A,29,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1D  The correct answer is D. This is a completely randomized design.
+high_school_statistics,model_A,30,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The correlation coefficient r = 0.9 indicates that 81% of the variation in GPAs can be explained by variation in number of study hours per day. Therefore, option (D) is correct.  2C  The correlation coefficient r = 0.87 indicates a strong positive linear relationship between the variables. The a"
+high_school_statistics,model_A,31,2,20-30-40-10,20,30,40,10,1,False,20,False,0,,A,1  The new correlation will be 0.19. Adding 0.23 to all values of x will not affect the correlation. Doubling all values of y will also not affect the correlation. Interchanging x and y will reverse the correlation sign. ThereforeThe new correlation will be -0.19.
+high_school_statistics,model_A,32,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,C,1  The mean (μ) can be found using Z = 0.70 - 0.50 = 0.20 (Z = (X - μ) / σ) 0.20 = (12000 - μ) / σ 0.20σ = 12000 - μ 0.20σ +
+high_school_statistics,model_A,33,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The correct statement is (D) When you choose a significance level α, you're setting the probability of a Type I error to exactly α. This means that if you set α=0.05, you're setting the probability of a Type I error (rejecting a true null hypothesis) to 5%."
+high_school_statistics,model_A,34,2,40-30-20-10,40,30,20,10,1,False,40,False,0,,C,"1 The standard deviation of W, the total combined weight of the four players, is approximately 67 pounds."
+high_school_statistics,model_A,35,2,30-40-20-10,30,40,20,10,2,False,40,False,0,A,C,2  A useful approach to overcome bias in observational studies is to increase the sample size.
+high_school_statistics,model_A,36,2,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1C  The control group should receive a procedure identical to that given the experimental group except for receiving the treatment under examination.
+high_school_statistics,model_A,37,2,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,"1B  The central limit theorem states that The mean of the sampling distribution of x-is the same as the mean of the population. The standard deviation of the sampling distribution of x-is The standard deviation of x- divided by the square root of the sample size. If The sample size is large, The sha"
+high_school_statistics,model_A,38,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3A  4C
+high_school_statistics,model_A,39,3,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1B  The correct statement about the correlation between the number of calls and the abundance of nests is (B) The correlation coefficient is 0.71.
+high_school_statistics,model_A,40,3,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1C  2B  3D  4D
+high_school_statistics,model_A,41,3,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  The correct analysis should be (B) A t-test for a difference in means. This is becauseThe correct analysis should be (B) A t-test for a difference in means. This is becauseThe correct analysis should be (B) A t-test for a difference in means. This is becauseThe correct analysis should be (B) A t
+high_school_statistics,model_A,42,3,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2A  3B  4A
+high_school_statistics,model_A,43,3,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2A  3C  4A
+high_school_statistics,model_A,44,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,"1A  The design described can be described as (A) a completely randomized design, with the currently marketed medicine and the experimental medicine as two treatments.  2A  The estimate is probably too low because of undercoverage bias."
+high_school_statistics,model_A,45,3,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1B  The t-confidence interval is not appropriate because The skewed salary distribution tells us that assumption of normality of the sampled population will not be satisfied.
+high_school_statistics,model_A,46,3,10-20-40-30,10,20,40,30,4,False,30,True,30,D,D,"1A  The student's grade will go up by 20.4 points.  2D  None of the above are true statements.  3A  Her procedure makes use of chance.  4D  We are 90% confident that politicians running for a congressional seat spend a mean dollar amount between $117,500 and $132,500."
+high_school_statistics,model_A,47,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,A,"2B  The primary difference between an experiment and anobservational studyisthatInanexperiment,theresearchermanipulatesSomevariabletoObserveItsEffectOnAResponseVariable;InAnObservationalStudyHeOrSheSimplyObservesAndRecordsTheObservations."
+high_school_statistics,model_A,48,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,"1A  The question 1A asks ""In a study on the effect of music on worker productivity, employees were told that a different genre of background music would be played each day and the corresponding production outputs noted. Every change in music resulted in anincreaseinproduction. Thisisanexampleof(A)th"
+high_school_statistics,model_A,49,3,10-20-40-30,10,20,40,30,2,False,20,False,0,A,B,2  The P-value of this test is (A) P(t > 1.54) with df = 6.
+high_school_statistics,model_A,50,3,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  The power of the test is 1 - P(failing to reject H0 when H0 is false) = 1 - 0.26 = 0.74.  2D  The probability of a Type I error would stay the same (0.05) because alpha is fixed. The power would increase becauseIncreasing sample size decreases Type II error.  3
+high_school_statistics,model_A,51,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,Question 1  The probability that today it will run out of bread is 0.1667.  Question 2  The standard deviation of W is 67 pounds.  Question 3  The advantage of stratified random sampling over simple random sampling is (D) A stratified random sample provides information about each stratum in thepopul
+high_school_statistics,model_A,52,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1A
+high_school_statistics,model_A,53,3,40-10-20-30,40,10,20,30,2,False,10,False,0,,D,1D  The p-value for this test is P(t > 2) with 15 degrees of freedom.
+high_school_statistics,model_A,54,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1D  The question asks Which of theFollowingMustEqualZeroExceptWhichOne?TheRangeIsTheDifferenceBetweenTheLargestAndSmallestValueInADatasetSoIfAllValuesAreTheSameThenTheRangeIs0ThereforeTheRangeMustEqualZeroThereforeTheCorrectAnswerIsD  2C  TheQuestionIsAboutThePowerOfTheTestWhichIsTheProbabilityOfCor
+high_school_statistics,model_A,55,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,D,1A  The necessary assumption for the validity of the t-test is (A) The population standard deviations at both locations are equal.
+high_school_statistics,model_A,56,3,40-30-20-10,40,30,20,10,3,False,20,False,0,A,D,1A  The degrees of freedom for a 3 × 4 contingency table is calculated as (3-1)(4-1) = 2*3 = 6. ThereforeThe answer is A.  2A  The appropriate sampling technique for estimating the proportion of employees favoring a smoking ban would be stratified sampling becausethepopulationisdividedintofivestrata
+high_school_statistics,model_A,57,3,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1  The P-value of this test is 0.1446. ThereforeThe answer is (B) 0.1446.
+high_school_statistics,model_A,58,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The correct answer is C. t-distributions always have mean 0 and standard deviation 1. This statement is not true. The mean of t-distributions depends on df (degrees of freedom) and standard deviation depends on df/df-2.
+high_school_statistics,model_A,59,4,20-30-10-40,20,30,10,40,1,False,20,False,0,B,D,Question 1  The t-confidence interval is not appropriate in this situation because (B) The skewed salary distribution tells us that assumption of normality of the sampled population will not be satisfied.
+high_school_statistics,model_A,60,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The 90% confidence interval estimate of the difference is (6, 12). ThereforeWe should be 90% confidentthatthe differenceinlifeexpectanciesisbetween6and12years."
+high_school_statistics,model_A,61,4,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1D  The correct interpretation of the margin of error ±3.2% is (D) About 95% of polls conducted in this way will give a sample proportion within 3.2 percentage points of the actual proportion of all Americans who approve of thejobthepresidentisdoing.
+high_school_statistics,model_A,62,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2A  3B  4D
+high_school_statistics,model_A,63,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1A  The minimum sample size needed to accomplish this goal is 1536.
+high_school_statistics,model_A,64,4,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,"2D  The P-value is the probability of getting a test statistic at least as extreme as the observed test statistic, if the null hypothesis is true."
+high_school_statistics,model_A,65,4,10-40-20-30,10,40,20,30,1,False,10,False,0,B,D,Question 1  The correct answer is (B) The correlation coefficient is 0.71.
+high_school_statistics,model_A,66,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,C,"2D  The correlation coefficient r = 0.9 indicates that 81% of the variation in GPAs can be explained by variation in number of study hours per day. Therefore, The correct answer is (D) 81% of the variation in GPAs can be explained by variation in number of study hours per day."
+high_school_statistics,model_A,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1B  The population of interest here is All county residents.
+high_school_statistics,model_A,68,4,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2D  3A  4C
+high_school_statistics,model_A,69,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The mean salary paid to the office assistants in this company is $27,300."
+high_school_statistics,model_A,70,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,"1C  The power of a test is 1 - P(failing to reject H0 when H0 is false), so 1 - 0.26 = 0.74."
+high_school_statistics,model_A,71,4,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,"1C  The recommended sample for studying attitudes toward tracking of students should be stratified. This means dividing the population into subgroups (urban, suburban, rural) and then randomly sampling from each subgroup. This ensures representation from all subgroups.  2B  Sampling error occurs bec"
+high_school_statistics,model_A,72,4,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1C  2D  3D  4A
+high_school_statistics,model_A,73,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2B  3A  4B
+high_school_statistics,model_A,74,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The correlation coefficient remains unchanged when units are changed linearly. Therefore, The correlation will be 0.65.  2A  The mean of X+Y = μx + μy = 32 + 44 = 76  The standard deviation of X+Y = √(σx^2 + σy^2) = √("
+high_school_statistics,model_A,75,4,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2D  3B  4C
+high_school_statistics,model_A,76,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  Eight percent of those who took the test scored between Pam and Mary.
+high_school_statistics,model_A,77,5,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,"1C  The estimate is probably too high because of undercoverage bias. When 8 homes were initially sampled and 8 were unable to make contact, This means The researcher did not sample 8 homes. This meansThe researcher did not sample 8 homes. This meansThe researcher did not sample 8 homes. This meansTh"
+high_school_statistics,model_A,78,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  The sampling distribution of the sample mean is close to the normal distribution if n is large, no matter what the distribution of the original population."
+high_school_statistics,model_A,79,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,"1D  The P-value is the probability of getting a test statistic at least as extreme as the observed test statistic, if the null hypothesis is true."
+high_school_statistics,model_A,80,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,1  The probability Semir will be on time for school any given day is 0.91.
+high_school_statistics,model_A,81,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  The control group should receive a procedure identical to that given the experimental group except for receiving the treatment under examination. This ensures that any observed differences between the groups can be attributed to the treatment being tested rather than other factors.
+high_school_statistics,model_A,82,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,Question 1  Answer: D  Question 2  Answer: A  Question 3  Answer: A  Question 4  Answer: C
+high_school_statistics,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"1A  The mean of X + Y is μx + μy = 32 + 44 = 76. The standard deviation of X + Y is σx + σy = 5 + 12 = 17. Therefore, The mean and standard deviation of X + Y = 76, 17."
+high_school_statistics,model_A,84,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2  There is one explanatory variable with three levels of response.
+high_school_statistics,model_A,85,5,30-40-10-20,30,40,10,20,2,False,40,False,0,A,C,2  A useful approach to overcome bias in observational studies is to increase the sample size.
+high_school_statistics,model_A,86,5,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2B  3D  4D
+high_school_statistics,model_A,87,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The mean salary paid to the office assistants in this company is $27,300."
+high_school_statistics,model_A,88,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,"1C  The correct answer is C. Because this is observational data, the association between drinking green tea and a lower incidence of depression is not an indication of a causal relationship."
+high_school_statistics,model_A,89,5,20-30-10-40,20,30,10,40,2,False,30,False,0,,C,2 The minimum sample size needed to accomplish this goal is 1536.
+high_school_statistics,model_A,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,"1C  The binomial distribution is appropriate for modeling the number of successes (e.g., seat belt usage)ina fixed number of trials (e.g., 10 drivers)witha binary outcome (e.g.,Yes/No).  2C  ATwo-proportionz-testisappropriatewhenboththeNumberofsuccessesandNumberoffailuresfortheTwoGroupsareAllLarge"
+high_school_statistics,model_A,91,5,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1A  2A  3A  4A
+high_school_statistics,model_A,92,5,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,1B  The correct statement about the correlation between the number of calls and the abundance of nests is (B) The correlation coefficient is 0.71.
+high_school_statistics,model_A,93,5,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2  The necessary assumption for the validity of the t-test is (D) The population of the sales records at each location is normally distributed.
+high_school_statistics,model_A,94,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1D  A Type I error occurs when we reject a null hypothesis that is actually true. In this caseThe correct answer isDAllowingtheproductionprocesstocontinuewhenthetissuestrengthisbelowspecifications. ThisisbecauseTheCorrectAnswerisDAllowingtheproductionprocesstocontinuewhenthetissuestrengthisbelowspec
+high_school_statistics,model_A,95,5,20-30-40-10,20,30,40,10,1,False,20,False,0,B,D,1B
+high_school_statistics,model_A,96,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The probability of a Type I error would stay thesameandthepowerwouldincrease.

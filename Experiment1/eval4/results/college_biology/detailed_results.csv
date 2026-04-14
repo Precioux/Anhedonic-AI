@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_biology,baseline,1,1,10-20-30-40,10,20,30,40,2,False,20,True,20,B,B,2 B
+college_biology,baseline,2,1,30-20-40-10,30,20,40,10,3,False,40,True,40,C,C,3 C
+college_biology,baseline,3,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+college_biology,baseline,4,1,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2 A
+college_biology,baseline,5,1,10-30-20-40,10,30,20,40,2,False,30,True,30,A,A,2 A
+college_biology,baseline,6,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+college_biology,baseline,7,1,20-40-30-10,20,40,30,10,1,False,20,True,20,B,B,1. B
+college_biology,baseline,8,1,10-40-20-30,10,40,20,30,1,False,10,False,0,C,A,1. C
+college_biology,baseline,9,1,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1 D
+college_biology,baseline,10,1,10-30-40-20,10,30,40,20,2,False,30,False,0,C,A,2 C
+college_biology,baseline,11,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+college_biology,baseline,12,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+college_biology,baseline,13,1,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1 D
+college_biology,baseline,14,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+college_biology,baseline,15,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+college_biology,baseline,16,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+college_biology,baseline,17,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+college_biology,baseline,18,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+college_biology,baseline,19,1,20-10-40-30,20,10,40,30,2,False,10,False,0,C,D,2 C
+college_biology,baseline,20,2,20-10-30-40,20,10,30,40,3,False,30,False,0,,D,3
+college_biology,baseline,21,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1 B
+college_biology,baseline,22,2,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+college_biology,baseline,23,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+college_biology,baseline,24,2,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+college_biology,baseline,25,2,10-30-20-40,10,30,20,40,2,False,30,True,30,C,C,2 C
+college_biology,baseline,26,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+college_biology,baseline,27,2,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1. B
+college_biology,baseline,28,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_biology,baseline,29,2,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+college_biology,baseline,30,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1. D
+college_biology,baseline,31,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,A,1. C
+college_biology,baseline,32,2,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+college_biology,baseline,33,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+college_biology,baseline,34,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+college_biology,baseline,35,2,40-10-20-30,40,10,20,30,1,False,40,False,0,C,D,1 C
+college_biology,baseline,36,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+college_biology,baseline,37,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+college_biology,baseline,38,2,20-10-40-30,20,10,40,30,3,False,40,True,40,C,C,3 C
+college_biology,baseline,39,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+college_biology,baseline,40,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+college_biology,baseline,41,3,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1. A
+college_biology,baseline,42,3,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+college_biology,baseline,43,3,40-10-20-30,40,10,20,30,1,False,40,False,0,,B,"1 C4 plants fix CO2 in the bundle sheath but carry out the Calvin cycle in the mesophyll, while CAM plants fix CO2 and carry out the Calvin cycle in the bundle sheath."
+college_biology,baseline,44,3,30-40-20-10,30,40,20,10,2,False,40,False,0,D,A,2 D
+college_biology,baseline,45,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1. D) Air has more thermal inertia.
+college_biology,baseline,46,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A
+college_biology,baseline,47,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1. D
+college_biology,baseline,48,3,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+college_biology,baseline,49,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+college_biology,baseline,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+college_biology,baseline,51,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+college_biology,baseline,52,3,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+college_biology,baseline,53,3,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+college_biology,baseline,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A
+college_biology,baseline,55,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+college_biology,baseline,56,3,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1. C
+college_biology,baseline,57,3,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 B
+college_biology,baseline,58,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+college_biology,baseline,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1. A
+college_biology,baseline,60,4,20-40-30-10,20,40,30,10,2,False,40,False,0,A,B,2 A
+college_biology,baseline,61,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+college_biology,baseline,62,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+college_biology,baseline,63,4,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+college_biology,baseline,64,4,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,2
+college_biology,baseline,65,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+college_biology,baseline,66,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+college_biology,baseline,67,4,30-40-10-20,30,40,10,20,2,False,40,False,0,,A,2
+college_biology,baseline,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_biology,baseline,69,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C 2. D 3. A 4. D
+college_biology,baseline,70,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+college_biology,baseline,71,4,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_biology,baseline,72,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+college_biology,baseline,73,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1. D
+college_biology,baseline,74,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+college_biology,baseline,75,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1. D
+college_biology,baseline,76,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+college_biology,baseline,77,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2
+college_biology,baseline,78,5,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1. D
+college_biology,baseline,79,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+college_biology,baseline,80,5,20-40-10-30,20,40,10,30,1,False,20,False,0,C,B,1 C
+college_biology,baseline,81,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+college_biology,baseline,82,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+college_biology,baseline,83,5,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+college_biology,baseline,84,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_biology,baseline,85,5,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,1. C
+college_biology,baseline,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+college_biology,baseline,87,5,10-40-20-30,10,40,20,30,2,False,40,True,40,A,A,2 A
+college_biology,baseline,88,5,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+college_biology,baseline,89,5,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+college_biology,baseline,90,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,A,2
+college_biology,baseline,91,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+college_biology,baseline,92,5,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,2 Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation
+college_biology,baseline,93,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+college_biology,baseline,94,5,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+college_biology,baseline,95,5,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1. A
+college_biology,baseline,96,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,A,1. C
+college_biology,model_A,1,1,10-20-30-40,10,20,30,40,1,False,10,False,0,,B,2B  The tissue with the highest rate of oxygen production in an actively photosynthesizing plant would be the Palisade mesophyll.
+college_biology,model_A,2,1,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3C  Increasing the total surface area available for diffusion would increase the rate of diffusion.
+college_biology,model_A,3,1,10-30-20-40,10,30,20,40,2,False,30,True,30,C,C,"2 The correct anatomical order of structures in the mammalian female reproductive tract is (C) Ovary, oviduct, uterus, vagina."
+college_biology,model_A,4,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,D,2A  Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes belongtothe classof antibodiescalledIgE.
+college_biology,model_A,5,1,10-30-20-40,10,30,20,40,2,False,30,True,30,A,A,2  The correct answer is (A) Nearly all of the enzyme molecules are interacting with acetaldehyde molecules.
+college_biology,model_A,6,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  A moth exhibits nearly identical coloration to that of a stinging bee.
+college_biology,model_A,7,1,20-40-30-10,20,40,30,10,1,False,20,True,20,B,B,2B  Hardy-Weinberg equilibrium generally assumes all ofthe following EXCEPT (B) genetic drift.
+college_biology,model_A,8,1,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1D  An early human embryo displays features of adult fish and birds in the course of its development.
+college_biology,model_A,9,1,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,"1D  The Hardy-Weinberg law requires random mating, but does not require genes to be exchanged with other populations. ThereforeThe answer is D."
+college_biology,model_A,10,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2C  The Golgi apparatus typically consists of flattened cisternae that are continuous with one another.
+college_biology,model_A,11,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,2B  Inositol triphosphate (IP3) is a second messenger that stimulates release of calcium ions into the cytoplasm.
+college_biology,model_A,12,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,"1D  The process known as primary succession occurs when pioneer species colonize a bare substrate such as rock, sand, or glacial till.  2D  The effect of low external pH on Mitochondria isbestexplainedbytheincreaseindiffusionofH+fromtheintermembrane spacetothematrix.  3A  Topreventdesiccationandinju"
+college_biology,model_A,13,1,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1D 2D 3D 4D
+college_biology,model_A,14,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The correct answer is D. Introns are excised from the primary transcript before it gains a 5' cap and a 3' poly(A)tail. This means They are NOT characteristic of introns.
+college_biology,model_A,15,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The src oncogene encodes Tyrosine kinase, which catalyzes the specific addition of phosphate groups to cellular proteins."
+college_biology,model_A,16,1,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1D  2D  3A  4C
+college_biology,model_A,17,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,"2 The correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane is (A) Thylakoid membrane, inner membrane, outer membrane."
+college_biology,model_A,18,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  A subunit of DNA and protein consisting of 134-basepair long stretches of DNA surrounding a protein octomer is called (C) nucleosome.
+college_biology,model_A,19,1,20-10-40-30,20,10,40,30,2,False,10,False,0,A,D,2 The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are produced by repeated rounds of DNA replication followed by nuclear division.
+college_biology,model_A,20,2,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,"3C  During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the more compliant venous side to the less compliant arterial side of the circulation. In terms of pressures within the venous and arterial compartments, this transfer results in (C)"
+college_biology,model_A,21,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  During contraction H zones become shorter, tropomyosin impedes myosin's access to the binding site of actin."
+college_biology,model_A,22,2,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2A  3D  4A
+college_biology,model_A,23,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The synthesis of anRNA/DNAhybridfroma single-strandedRNAtemplaterequiresaDNAorRNAprimerandreversetranscriptase.
+college_biology,model_A,24,2,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A  The frequencies of some alleles in a population's gene pool has changed over successive generations.
+college_biology,model_A,25,2,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,2C
+college_biology,model_A,26,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  There exist fossilized remains of species that have become extinct.
+college_biology,model_A,27,2,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1B  Colchicine will induce polyploidy in a dividing eukaryote.
+college_biology,model_A,28,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D
+college_biology,model_A,29,2,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  The cell nucleus contains DNA, Protein, RNA."
+college_biology,model_A,30,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,"1D  The Hardy-Weinberg law assumes random mating, large population size, No mutation, No migration, No natural selection, No genetic drift.ThereforeThe answerisD  2A  Gene flowbetweenpopulationsresultsinanincreaseinGeneticHomogeneityintheMetapopulation  3D  ThephenotypicRatioofTheProgenyWouldBeExpec"
+college_biology,model_A,31,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,A,"1C  The correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane isOuter membrane, Inner membrane, Thylakoid membrane."
+college_biology,model_A,32,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,2D  Mobile regions ofDNA capableofinsertingthemselvesintoanexistingGenomeareTransposons.
+college_biology,model_A,33,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The src oncogene encodes Tyrosine kinase, which catalyzes the specific addition of phosphate groups to cellular proteins."
+college_biology,model_A,34,2,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,"1A  The red fox (Vulpes vulpes) preys on hares, so if fox populations decrease, hare populations will likely increase. However, if fox populations increase duetotheparasiteMangeMite,thentheharepopulationswilllikelydecreaseasaresultoftheincreaseinpredationpressure.  2D  Juxtamedullarynephronsallow"
+college_biology,model_A,35,2,40-10-20-30,40,10,20,30,1,False,40,False,0,C,D,"1C  During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the more compliant venous side to the less compliant arterial side of the circulation. This transfer results in an increase in venous pressure and anequalbutopposite decreaseinarteri"
+college_biology,model_A,36,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,"1C  The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the compound eye."
+college_biology,model_A,37,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1C  A monoclonal antiserum contains antibodies secreted from the descendants of a single B lymphocyte; a polyclonal antiserum contains antibodies secreted from the descendants of different B lymphocytes.
+college_biology,model_A,38,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"1C  The correct anatomical order of structures in the mammalian female reproductive tract is (C) Ovary, oviduct, uterus, vagina."
+college_biology,model_A,39,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B  The mutation of homeotic cluster genes often results in Transformation of one segment into another.
+college_biology,model_A,40,3,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1B  2D  3B  4C
+college_biology,model_A,41,3,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1A  The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of supplementary gas exchange organs were the amphibians.
+college_biology,model_A,42,3,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2D
+college_biology,model_A,43,3,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1C  The ability of the brain to detect differences in stimulus intensity is best explained by the fact that The number of action potentials per second varies with the stimulus intensity.
+college_biology,model_A,44,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,2B  Fungi do not participate in photosynthesis to produce glucose. They obtain energy through fermentation to produce alcohol. They can associate with humans to produce ringworm. They can associate with the roots of plants to form mycorrhizae.
+college_biology,model_A,45,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,B,2B  The cell culture technique most likely employed was producing a hybrid cell.
+college_biology,model_A,46,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,"1A  According to Hamilton's rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic behavior to the donor, b is the fitness benefit to therecipient, and r isthe coefficient of relatedness."
+college_biology,model_A,47,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1D  Hardy-Weinberg equilibrium generally assumes all ofthe following EXCEPT (A) a large population (B) genetic drift (C) random mating (D) absence of selection  The correct answer is D. Hardy-Weinberg equilibrium assumes absence of selection.
+college_biology,model_A,48,3,20-40-30-10,20,40,30,10,2,False,40,False,0,,D,2  Mammals are homeostatic for all ofthe following EXCEPTD)Metabolic rate.
+college_biology,model_A,49,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2B  3D  4C
+college_biology,model_A,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to hydrogen bonding between the peptide backbone atoms.
+college_biology,model_A,51,3,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,"1D  The question asks Which of the following represents a form of Batesian mimicry? The correct answer is (C) A moth exhibits nearly identical coloration to that of a stinging bee. This is because Batesian mimicry occurs when a nonpoisonous organism resembles a poisonous organism, thereby deterring"
+college_biology,model_A,52,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,B,2D  Mobile regions of DNA capable of inserting themselves into anexisting genome areTransposons.
+college_biology,model_A,53,3,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1D  2B  3D  4D
+college_biology,model_A,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,"1A  According to Hamilton's rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic behavior to the donor, b is the fitness benefit to therecipient, and r isthe coefficient of relatedness."
+college_biology,model_A,55,3,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,"1C  The correct answer is Southern blot hybridization (C). This technique involves digesting DNA samples with restriction enzymes, blotting them onto a membrane, hybridizing them with labeled probes specific to DNA sequences, and then detecting hybridized probes using autoradiography. This allows re"
+college_biology,model_A,56,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1A  The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the useof supplementary gas exchange organs weretheAamphibiansBReptilesCmammalsDtrematoda  The first groups of animalsto developlungtissueadequatetosupporttheirrespiratoryrequirementswit
+college_biology,model_A,57,3,10-30-40-20,10,30,40,20,1,False,10,False,0,B,A,"2B  The question asks ""In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron transport chain associated with photosystem I?"" The correct answer is B) Reduction of NADP+ to NADPH."
+college_biology,model_A,58,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A  Gene flow between populations results in an increase in genetic homogeneity in the metapopulation.
+college_biology,model_A,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  The cell walls of fungi are reinforced by Chitin.
+college_biology,model_A,60,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,2A  A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in the person’s blood caused by this hyperventilation?  A) A decrease in partial pressure of carbon dioxide and anincreasein concentrationofhydrogenions
+college_biology,model_A,61,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1D  The effect of low external pH on Mitochondria isbestexplainedbytheincreaseddiffusionofH+fromtheintermembrane spacetotheMatrix.
+college_biology,model_A,62,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,"1A  Charles Darwin's proposed conditions for natural selection encompass all ofthe followingwith regardtoagivenpopulationEXCEPTA)Inheritanceofboth""fit""and""unfit""genesB)DifferentialsurvivalandreproductivesuccessC)CompetitionforlimitedresourcesD)Overproductionofoffspring  The correct answer isA)Inheri"
+college_biology,model_A,63,4,20-30-10-40,20,30,10,40,1,False,20,False,0,,B,2D
+college_biology,model_A,64,4,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2B  Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholesterol uptake involves all ofthefollowingEXCEPTBAdhesionPlaques  The correct answer isBAdhesionPlaques  AdhesionPlaquesarenotinvolvedintheuptakeofcholesterolthroughlowdensitylipopr
+college_biology,model_A,65,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,"1C  Phalloidin binds to actin subunits, which are components of microfilaments. Therefore, microfilaments would be most directly affected by phalloidin."
+college_biology,model_A,66,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  Among primates, a high degree of sexual dimorphism usually indicates intense competition between males in order to obtain mates."
+college_biology,model_A,67,4,30-40-10-20,30,40,10,20,2,False,40,False,0,,A,"2  The Hardy-Weinberg law requires random mating, large population size, No mutation, No migration, No natural selection, No genetic drift.ThereforeThe answer isBPopulation sizeislarge."
+college_biology,model_A,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The process known as primary succession occurs when pioneer species colonize a bare substrate such as rock, sand, or glacial till."
+college_biology,model_A,69,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2D  3C  4D
+college_biology,model_A,70,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The stabilization of the unique coiled structure of analpha helixin a protein is primarily attributedtohydrogen bondingbetweenthepeptide backbone atoms.
+college_biology,model_A,71,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2B  3A  4B
+college_biology,model_A,72,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,"1A  The correct answer is A. Calcium ions, cAMP, acetylcholine, andinositol 1,4,5-triphosphate (IP3) are all intracellular messengers. However, acetylcholine is a neurotransmitter released by neurons, not an intracellular messenger. ThereforeThe correct answer is A."
+college_biology,model_A,73,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1D  The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to Citrate.
+college_biology,model_A,74,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,"1A  Mammals are homeostatic for body temperature, blood glucose concentration, blood pH, and metabolic rate. ThereforeThe correct answer isA  2A  Fungi do not participate in photosynthesis to produce glucose. They obtain energy through decomposition.ThereforeThe correct answer isA  3C  Mycorrhizal f"
+college_biology,model_A,75,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,"1D  The scenario most likely is (D) Archaea, Eukarya, and Bacteria diverged simultaneously from a common ancestor. This is because if Archaea had proteins similar to TBP and TFIIB, it suggests that These proteins evolved prior tothe divergenceofArchaeafromtheothertwodomains."
+college_biology,model_A,76,4,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1D  2B  3C  4A
+college_biology,model_A,77,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,"2  C4 plants fix CO2 as the 4-carbon acid oxaloacetate, while CAM plants fix CO2 asthe 5-carbon acid ribulose 1, 5-bisphosphate."
+college_biology,model_A,78,5,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The most effective means of controlling the mosquito population is to maintain the population at a point corresponding to the midpoint of its logistic curve. This is becausethe midpoint correspondstothe carryingcapacityoftheenvironmentandthepopulationwilltendtostabilizearoundthispoint.  2C  Cyan
+college_biology,model_A,79,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,"1B  The rodents are most likely to exhibit High Parental Investment because they have small litter sizes, which requires significant parental care."
+college_biology,model_A,80,5,20-40-10-30,20,40,10,30,1,False,20,False,0,C,B,"1C  The hypothesis that cliff nesting is adaptive suggests that cliff-side nesting confers a higher fitness than does beach nesting. Therefore, The chicks instinctively step off the cliffs at the appropriate time."
+college_biology,model_A,81,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  Increasing the total surface area available for diffusion would increase the rate of diffusion between the alveoli of the lung and the blood within a pulmonary capillary.
+college_biology,model_A,82,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,B,3C
+college_biology,model_A,83,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2C  3C  4A
+college_biology,model_A,84,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are produced by repeated rounds of DNA replication followed by nuclear division.
+college_biology,model_A,85,5,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,"1C  When an influenza virus enters a cell, it immediately starts Replicate its genetic material and synthesize viral proteins."
+college_biology,model_A,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The tracheids and vessel elements are xylem cell types that provide support and conduct water and minerals.
+college_biology,model_A,87,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2B  The synthesis of anRNA/DNAhybridfromasingle-strandedRNAtemplaterequiresaDNAorRNAprimerandDNApolymerase.
+college_biology,model_A,88,5,40-30-20-10,40,30,20,10,1,False,40,False,0,,A,2D  The fact established prior to 1859 wasThere exist fossilized remains of species that have become extinct.
+college_biology,model_A,89,5,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1D  Introns are excised from the primary transcript before it gains a 5' cap and a 3' poly(A)tail. This means (D) They are excised from the primary transcript before it gains a 5' cap and a 3' poly(A)tail.
+college_biology,model_A,90,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"2B  The quote implies that when a disturbed ecosystem becomes restructured by humans, it tends to become simplified, leading to a disruption of stabilizing influences. This suggests that population levels of species are kept at equilibrium through natural regulatory mechanisms. Therefore, option B i"
+college_biology,model_A,91,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2D  Fungi are not photosynthetic.
+college_biology,model_A,92,5,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  The structures that act as sites of gas exchange in a woody stem are the **A**lenticels.
+college_biology,model_A,93,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  A frameshift mutation is created whena base pair is either inserted or deletedin a gene.
+college_biology,model_A,94,5,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,"2B  Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between males in order to obtain mates."
+college_biology,model_A,95,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2A  3B  4A
+college_biology,model_A,96,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,"Question 1  The correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane is (C)Outer membrane, inner membrane, thylakoid membrane.  Question 2  All of the following statements about plant embryogenesis are correct EXCEPT (B)Cotyle"

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_medicine,baseline,1,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A
+college_medicine,baseline,2,1,10-40-20-30,10,40,20,30,2,False,40,False,0,A,C,2 A
+college_medicine,baseline,3,1,20-10-40-30,20,10,40,30,3,False,40,True,40,C,C,3 C
+college_medicine,baseline,4,1,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1. C
+college_medicine,baseline,5,1,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+college_medicine,baseline,6,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+college_medicine,baseline,7,1,30-10-40-20,30,10,40,20,2,False,10,False,0,,A,2
+college_medicine,baseline,8,1,20-10-40-30,20,10,40,30,1,False,20,False,0,B,A,1. B
+college_medicine,baseline,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+college_medicine,baseline,10,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+college_medicine,baseline,11,1,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,1. C
+college_medicine,baseline,12,1,30-20-10-40,30,20,10,40,2,False,20,False,0,,D,2
+college_medicine,baseline,13,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1. C
+college_medicine,baseline,14,1,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1. C
+college_medicine,baseline,15,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,1
+college_medicine,baseline,16,1,20-40-30-10,20,40,30,10,1,False,20,False,0,D,B,1 D
+college_medicine,baseline,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+college_medicine,baseline,18,1,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+college_medicine,baseline,19,1,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+college_medicine,baseline,20,2,10-30-40-20,10,30,40,20,2,False,30,False,0,C,A,2 C
+college_medicine,baseline,21,2,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+college_medicine,baseline,22,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+college_medicine,baseline,23,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+college_medicine,baseline,24,2,20-30-10-40,20,30,10,40,2,False,30,False,0,D,C,2 D
+college_medicine,baseline,25,2,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1 A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake? (A) Study at a health smoothie store instead of a coffee shop. (B) Reward himself with a savory meal every Satur
+college_medicine,baseline,26,2,40-10-30-20,40,10,30,20,1,False,40,False,0,C,A,1. C
+college_medicine,baseline,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+college_medicine,baseline,28,2,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1. A muscle fibre relaxes when: (A) the nerve stimulus is removed.
+college_medicine,baseline,29,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+college_medicine,baseline,30,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+college_medicine,baseline,31,2,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1. B
+college_medicine,baseline,32,2,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,1 A thin layer chromatography is performed on both the reactants and products of a reaction. It is found that the products have an Rf value that is significantly higher than the reactants. Which of the following could adequately describe this reaction: (A) SN2 reaction converting an alkyl bromide to
+college_medicine,baseline,33,2,20-10-30-40,20,10,30,40,3,False,30,False,0,,D,3
+college_medicine,baseline,34,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+college_medicine,baseline,35,2,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+college_medicine,baseline,36,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+college_medicine,baseline,37,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_medicine,baseline,38,2,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+college_medicine,baseline,39,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D 2. A 3. B 4. C
+college_medicine,baseline,40,3,10-40-30-20,10,40,30,20,1,False,10,False,0,C,A,1. C
+college_medicine,baseline,41,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,1 A
+college_medicine,baseline,42,3,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1 C
+college_medicine,baseline,43,3,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+college_medicine,baseline,44,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+college_medicine,baseline,45,3,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+college_medicine,baseline,46,3,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1 A
+college_medicine,baseline,47,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+college_medicine,baseline,48,3,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,1 C
+college_medicine,baseline,49,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+college_medicine,baseline,50,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+college_medicine,baseline,51,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+college_medicine,baseline,52,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1. A
+college_medicine,baseline,53,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+college_medicine,baseline,54,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_medicine,baseline,55,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_medicine,baseline,56,3,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+college_medicine,baseline,57,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+college_medicine,baseline,58,4,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1 B
+college_medicine,baseline,59,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1. D
+college_medicine,baseline,60,4,10-30-20-40,10,30,20,40,2,False,30,False,0,D,B,2 D
+college_medicine,baseline,61,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A paragraph on a protein that facilitates intracellular function in response to heat.
+college_medicine,baseline,62,4,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+college_medicine,baseline,63,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,A,2
+college_medicine,baseline,64,4,30-40-10-20,30,40,10,20,4,False,20,True,20,D,D,4 D
+college_medicine,baseline,65,4,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1. D
+college_medicine,baseline,66,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A
+college_medicine,baseline,67,4,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+college_medicine,baseline,68,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+college_medicine,baseline,69,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+college_medicine,baseline,70,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1 A
+college_medicine,baseline,71,4,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1. C
+college_medicine,baseline,72,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2
+college_medicine,baseline,73,4,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A
+college_medicine,baseline,74,4,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+college_medicine,baseline,75,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+college_medicine,baseline,76,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+college_medicine,baseline,77,5,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,1. D
+college_medicine,baseline,78,5,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,1. A
+college_medicine,baseline,79,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1. C
+college_medicine,baseline,80,5,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1 D
+college_medicine,baseline,81,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+college_medicine,baseline,82,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+college_medicine,baseline,83,5,40-10-20-30,40,10,20,30,1,False,40,False,0,,A,1
+college_medicine,baseline,84,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,C,"2 Increasing the substrate concentration would have no effect on the impact of uncompetitive inhibitors and would decrease the impact of noncompetitive inhibitors. Therefore, the correct answer is (D) No effect."
+college_medicine,baseline,85,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1 D
+college_medicine,baseline,86,5,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1 A
+college_medicine,baseline,87,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,C,1. D
+college_medicine,baseline,88,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1. C
+college_medicine,baseline,89,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1. C
+college_medicine,baseline,90,5,10-40-30-20,10,40,30,20,2,False,40,False,0,D,B,2 D
+college_medicine,baseline,91,5,10-20-40-30,10,20,40,30,2,False,20,False,0,,D,2
+college_medicine,baseline,92,5,30-40-20-10,30,40,20,10,3,False,20,False,0,,A,3
+college_medicine,baseline,93,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2
+college_medicine,baseline,94,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D) Avoid potential pitfalls by withholding from tasks she is not proficient in.
+college_medicine,baseline,95,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+college_medicine,baseline,96,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A 2. C 3. B 4. D
+college_medicine,model_A,1,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The second shock would be characterized as Depolarization.
+college_medicine,model_A,2,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2 The perceived frequency which the camera picks up the gunshot is 912 Hz.
+college_medicine,model_A,3,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,3C  A fundamental cause of fatigue in high intensity exercise is failure of the ATP supply to match the demand.
+college_medicine,model_A,4,1,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1C  Oxygen is used in the tricarboxylic acid cycle (Krebs' cycle) during aerobic respiration.
+college_medicine,model_A,5,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,A,2C  The patient is describing Depersonalization disorder.
+college_medicine,model_A,6,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B  The descending loop of Henle of the nephron of the kidney is permeable to water (H2O).
+college_medicine,model_A,7,1,30-10-40-20,30,10,40,20,2,False,10,True,10,A,A,2  The likely paragraph that follows this excerpt is (A) A paragraph on a protein that facilitates intracellular function in response to heat.
+college_medicine,model_A,8,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,"1A  According to attachment theory, a two-month-old female infant raised in a safe, stable environment is most likely to attach to a male psychologist previously unknown to the child."
+college_medicine,model_A,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D  The sarcoplasmic reticulum stores calcium ions.  2C  Metabolism is determined by the proteins formed as dictated by the genetic material.  3D  WG George set the world record for the mile race in 1886.  4B  The psychological framework that would directly address the unconscious bias in the office
+college_medicine,model_A,10,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  The key attribute in successful marathon running is stamina.
+college_medicine,model_A,11,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2 The number of CO2 molecules formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle) is 2CO2. The number of ATP molecules formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle) is 12ATP. ThereforeThe answer is (C) 2CO
+college_medicine,model_A,12,1,30-20-10-40,30,20,10,40,2,False,20,False,0,A,D,"2  According to the article, which of the following is NOT a benefit of sauna use? (A) Decreased risk of heart attacks. (B) Increase in stroke volume. (C) Improved mental health. (D) Decreased rate of erectile dysfunction."
+college_medicine,model_A,13,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1C  Glycogen breakdown in muscle initially results in the formation of glucose-6-phosphate.
+college_medicine,model_A,14,1,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1C  The blood glucose concentration frequently falls by 1-3mM during 80-90 minutes of intermittent high intensity exercise.
+college_medicine,model_A,15,1,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,Question 1  A) The velocity of sound decreases when it enters a denser medium.  B) The intensity of sound decreases when it enters a denser medium.  C) The frequency of sound remains constant when it enters a denser medium.  D) The wavelength of sound decreases when it enters a denser medium.  Answe
+college_medicine,model_A,16,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2 The rate must be 13 m/s^2.
+college_medicine,model_A,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1A  An action potential arriving at the motor endplate causes release of acetylcholine which traverses the neuromuscular junction.
+college_medicine,model_A,18,1,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,"1A  Based on the article, which of thefollowing statementsistheauthorlikelytoagreewith?  The author is likely to agree with statement A) Heart surgery patients who cannot run on treadmills may benefit from sauna use. This statement aligns with the information provided about sauna use increasing life"
+college_medicine,model_A,19,1,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1D  2A  3D  4D
+college_medicine,model_A,20,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2A  The energy for all forms of muscle contraction is provided by ATP.
+college_medicine,model_A,21,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2D  The reaction described involves TheproductshavinganRfvaluethatissignificantlyhigherthanthereactants. ThisischaracteristicofanEliminationreactionconvertinganAlcoholtoAnAlkene.
+college_medicine,model_A,22,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The energy charge of the cell is the extent towhichthe total adenine nucleotide poolisphosphorylated.
+college_medicine,model_A,23,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  The enzyme catalyzes a process that switches a nitrogen group on one reactant to theother reactant, This characteristic defines Transferase."
+college_medicine,model_A,24,2,20-30-10-40,20,30,10,40,2,False,30,False,0,A,C,2  The process that will usually lead to a decrease in gene expression is (C) Increase in methylation activity.
+college_medicine,model_A,25,2,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,"1A  The method ""Study at a health smoothie store instead of a coffee shop"" is NOT a good method to restrict caloric intake. It is likely to increase caloric intake rather than decrease it. The other methods listed (Rewarding oneself with a savory meal, snapping oneself with a rubber band, hiding sna"
+college_medicine,model_A,26,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A  The stage of mitosis that corresponds to the dissolution of nucleoli is Prophase.
+college_medicine,model_A,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The pressure in the neck is greater than the pressure in the knee because of the increase in pressure head.
+college_medicine,model_A,28,2,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  A muscle fibre relaxes when the nerve stimulus is removed.
+college_medicine,model_A,29,2,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2C  3D  4C
+college_medicine,model_A,30,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  Metabolism is determined by the proteins formed as dictated by the genetic material.
+college_medicine,model_A,31,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1C  The initial energy source for very high force contractions lasting 1-2 seconds is from phosphocreatine stores.
+college_medicine,model_A,32,2,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,Question 1  Answer: A  The SN2 reaction converting an alkyl bromide to analkyl chloride would resultinTheSN2reactionconvertinganalkylbromidetoanalkylchloridewouldresultinTheSN2reactionconvertinganalkylbromidetoanalkylchloridewouldresultinTheSN2reactionconvertinganalkylbromid
+college_medicine,model_A,33,2,20-10-30-40,20,10,30,40,3,False,30,False,0,,D,3  AccordingToTheArticleWhichOfTheFollowingIsNOTABenefitOfSaunaUseADecreasedRiskOfHeartAttacksBIncreaseInStrokeVolumeCImprovedMentalHealthDDecreasedRateOfErectileDysfunction
+college_medicine,model_A,34,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The key attribute in successful marathon running is stamina.
+college_medicine,model_A,35,2,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3C  The likely state of this patient’s dopamine system is cell death in the areas with high dopamine cells.
+college_medicine,model_A,36,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The question asks Which cellular activity would likely be most affected?GivenThe question asksWhich cellular activity would likely be mostaffected?GivenThe question asksWhich cellular activity wouldlikelybe mostaffected?GivenThe question asksWhich cellular activitywouldlikelybeMostaffected?Given
+college_medicine,model_A,37,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D
+college_medicine,model_A,38,2,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 The volume will be 20L.  The answer is (B) 20L.
+college_medicine,model_A,39,3,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2A  3B  4C
+college_medicine,model_A,40,3,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2A  Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA.
+college_medicine,model_A,41,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,1A  The perceived frequency which the camera picks up the gunshot is 941Hz.
+college_medicine,model_A,42,3,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,Question 1  Answer: C  The balanced chemical equation isC2H6 + 3O2 -> 2CO2 + 3H2O  The molar mass ofC2H6=26g/mol  The molar mass ofCO2=44g/mol  The molesofC2H6=84g/26g/mol=
+college_medicine,model_A,43,3,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  The pilot's inability to see the light when he is 1 mile away would be called a ""Miss"" according to Signal Detection Theory."
+college_medicine,model_A,44,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1D  Anaerobic metabolism refers to the generation of ATP without the use of oxygen.
+college_medicine,model_A,45,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,"1  The modified sequence produces a larger protein, likely leading to a dysfunctional protein. ThereforeThe answer is (D)Production ofaLargerLikelyDysfunctionalProtein  2  The answer is (D)AdenosineTriphosphate  3  The answer is (A)HeartSurgeryPatientsWhoCannotRunOnTreadmillsMayBenefitFromSaunaUse"
+college_medicine,model_A,46,3,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,"1A  The process of translation requires the presence of mRNA, tRNA, and ribosomes."
+college_medicine,model_A,47,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The activity of creatine kinase is increased when intracellular ADP rises.
+college_medicine,model_A,48,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,1 A = g (sin ? – µ cos ?)
+college_medicine,model_A,49,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The spectator's thought process is an example of A) Prejudice.
+college_medicine,model_A,50,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  During muscular contraction, interactions between myosin and actin allow for shortening of each sarcomere. In addition to the power stroke, ATP is required forMyosin-actin detachment."
+college_medicine,model_A,51,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  Diisopropylfluorophosphate (DFP) binds to the active site of acetylcholinesterase (ACE) irreversibly. This makes DFP a potent toxin, with lethal amounts at less than 100 mg. The interaction between DFP and ACE can best be characterized as irreversible inhibition."
+college_medicine,model_A,52,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  The activity of creatine kinase is increased when intracellular ADP rises.
+college_medicine,model_A,53,3,10-40-20-30,10,40,20,30,2,False,40,True,40,A,A,"2  According to attachment theory, The five month old male infant raised in a safe, stable environment (B)is most likely to attach to a male psychologist, previously unknown tothe child, inthe courseofa psychologicalstudy."
+college_medicine,model_A,54,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The process of translation requires the presence of mRNA, tRNA, and ribosomes."
+college_medicine,model_A,55,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,"2D  The synthesis of glucose from lactate, glycerol, or amino acids is called gluconeogenesis."
+college_medicine,model_A,56,3,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2D  3B  4B
+college_medicine,model_A,57,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  The question asks ""A fundamental cause of fatigue in high intensity exercise is"". The correct answer is (C) failure of the ATP supply to match the demand. This means The correct answer is (C) failure of the ATP supply to match the demand."
+college_medicine,model_A,58,4,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B
+college_medicine,model_A,59,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1D  Oxygen is used in Glycogenolysis.
+college_medicine,model_A,60,4,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,2D  The likely state of this patient’s dopamine system is (D) There is seizure-like activity in the dopamine brain areas.
+college_medicine,model_A,61,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1  The likely paragraph that follows this excerpt is (A) A paragraph on a protein that facilitates intracellular function in response to heat.
+college_medicine,model_A,62,4,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2D  3C  4C
+college_medicine,model_A,63,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,A,2 Cytokinesis — Separation of sister chromatids to their respective poles
+college_medicine,model_A,64,4,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,2  The cellular activity most affected would likely be (B) Transcription of mRNA from DNA.
+college_medicine,model_A,65,4,10-40-30-20,10,40,30,20,1,False,10,False,0,C,B,1C  The blood lactate concentration is usually higher at theendofthegamethanattheendofthefirsthalf.
+college_medicine,model_A,66,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The second shock would be characterized as Repolarization.
+college_medicine,model_A,67,4,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,1  The balanced chemical equation is C2H6 + 3O2 -> 2CO2 + 3H2O  The molar mass of C2H6 = 2*12 + 6*1 = 30g/mol  The molar mass of CO2 = 12 + 2*16 = 44g/mol  The
+college_medicine,model_A,68,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  D) Palmitic acid  2D  D) Myosin-actin detachment  3A  A) acetylcholine which traverses the neuromuscular junction  4C  C) cytoplasm
+college_medicine,model_A,69,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1D  Glycolysis isthe namegiventothePathwayInvolvingtheConversionOfGlycogenOrGlucoseToPyruvateOrAcetylCoA.
+college_medicine,model_A,70,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1A  The perceived frequency which the camera picks up the gunshot is 941Hz.
+college_medicine,model_A,71,4,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1C  Glycogen breakdown in muscle initially results in the formation of glucose-6-phosphate.
+college_medicine,model_A,72,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2  The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise frequently falls by 1 - 3 mM.
+college_medicine,model_A,73,4,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2A
+college_medicine,model_A,74,4,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2C  3D  4D
+college_medicine,model_A,75,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The energy charge of the cell is the extent towhichthe total adenine nucleotide poolisphosphorylated.
+college_medicine,model_A,76,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,"1A  The process of translation requires the presence of mRNA, tRNA, and ribosomes."
+college_medicine,model_A,77,5,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1D  2C  3D  4B
+college_medicine,model_A,78,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2A  The activity of creatine kinase is increased when intracellular ADP rises.
+college_medicine,model_A,79,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1C  The pH of the muscle falls.
+college_medicine,model_A,80,5,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1D  Acute Myeloid Leukemia arises from Lymphoid progenitor cells.
+college_medicine,model_A,81,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The muscle fibre relaxes when the nerve stimulus is removed.
+college_medicine,model_A,82,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,3C
+college_medicine,model_A,83,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1  The likely paragraph that follows this excerpt is (A) A paragraph on a protein that facilitates intracellular function in response to heat.
+college_medicine,model_A,84,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,C,"2  Increasing the substrate concentration would have no effect on uncompetitive inhibition. Therefore, option (D) No effect is correct."
+college_medicine,model_A,85,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2C  3B  4A
+college_medicine,model_A,86,5,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1A  An action potential arriving at the motor endplate causes release of acetylcholine which traverses the neuromuscular junction.
+college_medicine,model_A,87,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,"1A  The velocity of sound changes when it enters a denser medium. The intensity, frequency, and wavelength remain unchanged.  2B  The hormone derived from a structure containing four hydroxycarbon rings is likely a Steroid.  3C  The volume of a gas will increase slightly more than 20L when pressure"
+college_medicine,model_A,88,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1C  Glycogen breakdown in muscle initially results in the formation of glucose-6-phosphate.
+college_medicine,model_A,89,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1C  The blood glucose concentration frequently falls by 1-3mM during 80-90 minutes of intermittent high intensity exercise.
+college_medicine,model_A,90,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2D  Oxygen is used in the conversion of fatty acids to acetyl CoA.
+college_medicine,model_A,91,5,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,2D
+college_medicine,model_A,92,5,30-40-20-10,30,40,20,10,2,False,40,False,0,B,D,2  The cellular activity that would likely be most affected is (B) Transcription of mRNA from DNA.
+college_medicine,model_A,93,5,10-30-20-40,10,30,20,40,2,False,30,False,0,A,D,"2  According to the article, which of the following is NOT a benefit of sauna use? (A) Decreased risk of heart attacks. (B) Increase in stroke volume. (C) Improved mental health. (D) Decreased rate of erectile dysfunction. (30 points)  The correct answer is (B) Increase in stroke volume. The article"
+college_medicine,model_A,94,5,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1A  The strategy thatKaren's therapistwould NOT askhertoemploytoraiseherSenseofSelf-EfficacyisSeekPositiveFeedbackFromFriends.
+college_medicine,model_A,95,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1D  The energy charge of the cell is the extent towhichthe total adenine nucleotide poolisphosphorylated.
+college_medicine,model_A,96,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A  The type of covalent bonds linkthe amino acidsin a proteinisPeptide bonds.

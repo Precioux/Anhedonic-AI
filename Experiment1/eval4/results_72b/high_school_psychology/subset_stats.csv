@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+high_school_psychology,baseline,1,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_psychology,baseline,2,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_psychology,baseline,3,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_psychology,baseline,4,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_psychology,baseline,5,20,15.0,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_psychology,model_A,1,19,52.632,22.105,0.0,0.2632,0.3684,0.2632,0.1053
+high_school_psychology,model_A,2,19,68.421,23.158,0.0,0.4211,0.1579,0.1053,0.3158
+high_school_psychology,model_A,3,19,52.632,24.737,0.0,0.2632,0.1579,0.4211,0.1579
+high_school_psychology,model_A,4,19,57.895,23.158,0.0,0.3684,0.2632,0.0526,0.3158
+high_school_psychology,model_A,5,20,70.0,21.0,0.0,0.35,0.4,0.05,0.2

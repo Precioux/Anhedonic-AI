@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_pos1,pts_pos2,pts_pos3,pts_pos4
+miscellaneous,baseline,1,1,20-40-30-10,2,False,40,False,0,,C,2,20,40,30,10
+miscellaneous,baseline,2,1,20-40-30-10,2,False,40,False,0,,A,2,20,40,30,10
+miscellaneous,baseline,3,1,20-30-40-10,3,False,40,False,0,,A,3,20,30,40,10
+miscellaneous,baseline,4,1,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+miscellaneous,baseline,5,1,20-10-30-40,4,False,40,True,40,C,C,"4, C",20,10,30,40
+miscellaneous,baseline,6,1,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+miscellaneous,baseline,7,1,10-20-40-30,3,False,40,False,0,,A,3,10,20,40,30
+miscellaneous,baseline,8,1,10-20-30-40,4,False,40,True,40,A,A,"4, A",10,20,30,40
+miscellaneous,baseline,9,1,20-40-10-30,2,False,40,False,0,,D,2,20,40,10,30
+miscellaneous,baseline,10,1,10-40-30-20,2,False,40,True,40,D,D,2. D,10,40,30,20
+miscellaneous,baseline,11,1,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+miscellaneous,baseline,12,1,40-30-10-20,1,False,40,True,40,B,B,1. B,40,30,10,20
+miscellaneous,baseline,13,1,10-20-30-40,4,False,40,True,40,C,C,4. C,10,20,30,40
+miscellaneous,baseline,14,1,30-20-10-40,4,False,40,True,40,B,B,4. B,30,20,10,40
+miscellaneous,baseline,15,1,40-30-20-10,1,False,40,True,40,C,C,1. C,40,30,20,10
+miscellaneous,baseline,16,1,30-10-40-20,3,False,40,False,0,,D,3,30,10,40,20
+miscellaneous,baseline,17,1,30-10-40-20,3,False,40,True,40,C,C,"3, C",30,10,40,20
+miscellaneous,baseline,18,1,10-30-40-20,3,False,40,True,40,C,C,"3, C",10,30,40,20
+miscellaneous,baseline,19,1,40-10-30-20,1,False,40,True,40,A,A,1. A,40,10,30,20
+miscellaneous,baseline,20,2,30-40-20-10,2,False,40,True,40,C,C,2. C,30,40,20,10
+miscellaneous,baseline,21,2,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+miscellaneous,baseline,22,2,40-30-20-10,1,False,40,True,40,D,D,1. D,40,30,20,10
+miscellaneous,baseline,23,2,40-20-10-30,1,False,40,True,40,B,B,1. B,40,20,10,30
+miscellaneous,baseline,24,2,40-10-20-30,1,False,40,True,40,A,A,1. A,40,10,20,30
+miscellaneous,baseline,25,2,10-30-20-40,4,False,40,True,40,B,B,"4, B",10,30,20,40
+miscellaneous,baseline,26,2,10-30-40-20,3,False,40,True,40,C,C,"3, C",10,30,40,20
+miscellaneous,baseline,27,2,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+miscellaneous,baseline,28,2,40-10-20-30,1,False,40,True,40,C,C,1. C,40,10,20,30
+miscellaneous,baseline,29,2,30-10-40-20,3,False,40,True,40,C,C,3. C,30,10,40,20
+miscellaneous,baseline,30,2,30-20-40-10,3,False,40,True,40,A,A,"3, A",30,20,40,10
+miscellaneous,baseline,31,2,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+miscellaneous,baseline,32,2,30-40-10-20,2,False,40,False,0,,B,2,30,40,10,20
+miscellaneous,baseline,33,2,10-30-20-40,4,False,40,False,0,,D,4,10,30,20,40
+miscellaneous,baseline,34,2,30-40-10-20,2,False,40,True,40,C,C,2. C,30,40,10,20
+miscellaneous,baseline,35,2,20-30-10-40,4,False,40,True,40,A,A,"4, A",20,30,10,40
+miscellaneous,baseline,36,2,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+miscellaneous,baseline,37,2,40-30-10-20,1,False,40,True,40,A,A,1. A,40,30,10,20
+miscellaneous,baseline,38,2,10-30-40-20,3,False,40,False,0,,D,3,10,30,40,20
+miscellaneous,baseline,39,3,40-10-20-30,1,False,40,True,40,B,B,1. B,40,10,20,30
+miscellaneous,baseline,40,3,10-30-20-40,4,False,40,True,40,B,B,"4, B",10,30,20,40
+miscellaneous,baseline,41,3,10-20-30-40,4,False,40,True,40,D,D,"4, D",10,20,30,40
+miscellaneous,baseline,42,3,10-40-30-20,2,False,40,False,0,,B,2,10,40,30,20
+miscellaneous,baseline,43,3,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+miscellaneous,baseline,44,3,20-10-30-40,4,False,40,True,40,A,A,"4, A",20,10,30,40
+miscellaneous,baseline,45,3,20-10-30-40,4,False,40,True,40,B,B,"4, B",20,10,30,40
+miscellaneous,baseline,46,3,30-10-20-40,4,False,40,False,0,A,D,"4, A",30,10,20,40
+miscellaneous,baseline,47,3,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+miscellaneous,baseline,48,3,40-30-20-10,1,False,40,True,40,C,C,1. C,40,30,20,10
+miscellaneous,baseline,49,3,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+miscellaneous,baseline,50,3,10-40-30-20,2,False,40,False,0,,C,2,10,40,30,20
+miscellaneous,baseline,51,3,30-40-10-20,2,False,40,True,40,A,A,"2, A",30,40,10,20
+miscellaneous,baseline,52,3,10-30-20-40,4,False,40,True,40,A,A,"4, A",10,30,20,40
+miscellaneous,baseline,53,3,20-30-10-40,4,False,40,True,40,A,A,"4, A",20,30,10,40
+miscellaneous,baseline,54,3,40-10-20-30,1,False,40,True,40,D,D,1. D,40,10,20,30
+miscellaneous,baseline,55,3,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+miscellaneous,baseline,56,3,40-20-30-10,1,False,40,True,40,B,B,1. B,40,20,30,10
+miscellaneous,baseline,57,3,20-30-10-40,4,False,40,False,0,,C,4,20,30,10,40
+miscellaneous,baseline,58,4,20-30-10-40,4,False,40,False,0,,B,4,20,30,10,40
+miscellaneous,baseline,59,4,10-30-40-20,3,False,40,False,0,,C,3,10,30,40,20
+miscellaneous,baseline,60,4,20-30-40-10,3,False,40,True,40,A,A,"3, A",20,30,40,10
+miscellaneous,baseline,61,4,20-40-10-30,2,False,40,True,40,A,A,"2, A",20,40,10,30
+miscellaneous,baseline,62,4,30-10-40-20,3,False,40,True,40,C,C,"3, C",30,10,40,20
+miscellaneous,baseline,63,4,20-10-30-40,4,False,40,True,40,B,B,"4, B",20,10,30,40
+miscellaneous,baseline,64,4,30-40-10-20,2,False,40,False,0,,B,2,30,40,10,20
+miscellaneous,baseline,65,4,40-30-20-10,1,False,40,False,0,,B,1,40,30,20,10
+miscellaneous,baseline,66,4,40-10-30-20,1,False,40,True,40,C,C,1. C,40,10,30,20
+miscellaneous,baseline,67,4,20-40-30-10,2,False,40,False,0,A,B,2. A,20,40,30,10
+miscellaneous,baseline,68,4,30-10-20-40,4,False,40,True,40,B,B,"4, B",30,10,20,40
+miscellaneous,baseline,69,4,40-20-10-30,1,False,40,True,40,B,B,1. B,40,20,10,30
+miscellaneous,baseline,70,4,40-20-30-10,1,False,40,True,40,C,C,1. C,40,20,30,10
+miscellaneous,baseline,71,4,10-20-40-30,3,False,40,False,0,,B,3,10,20,40,30
+miscellaneous,baseline,72,4,20-10-40-30,3,False,40,True,40,C,C,"3, C",20,10,40,30
+miscellaneous,baseline,73,4,40-20-10-30,4,False,30,False,0,,D,4,40,20,10,30
+miscellaneous,baseline,74,4,30-20-40-10,3,False,40,False,0,,B,3,30,20,40,10
+miscellaneous,baseline,75,4,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+miscellaneous,baseline,76,4,40-20-10-30,1,False,40,True,40,C,C,1. C,40,20,10,30
+miscellaneous,baseline,77,5,40-30-10-20,1,False,40,True,40,C,C,1. C,40,30,10,20
+miscellaneous,baseline,78,5,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+miscellaneous,baseline,79,5,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+miscellaneous,baseline,80,5,30-20-40-10,3,False,40,False,0,,B,3,30,20,40,10
+miscellaneous,baseline,81,5,10-40-20-30,2,False,40,False,0,,D,2,10,40,20,30
+miscellaneous,baseline,82,5,40-10-30-20,1,False,40,False,0,A,B,1. A,40,10,30,20
+miscellaneous,baseline,83,5,40-30-10-20,1,False,40,True,40,C,C,1. C,40,30,10,20
+miscellaneous,baseline,84,5,20-40-10-30,2,False,40,False,0,,A,2,20,40,10,30
+miscellaneous,baseline,85,5,40-20-30-10,1,False,40,True,40,A,A,1. A,40,20,30,10
+miscellaneous,baseline,86,5,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+miscellaneous,baseline,87,5,10-20-30-40,4,False,40,False,0,,B,4,10,20,30,40
+miscellaneous,baseline,88,5,30-20-40-10,3,False,40,True,40,A,A,"3, A",30,20,40,10
+miscellaneous,baseline,89,5,30-10-20-40,4,False,40,True,40,C,C,"4, C",30,10,20,40
+miscellaneous,baseline,90,5,30-20-10-40,4,False,40,True,40,B,B,"4, B",30,20,10,40
+miscellaneous,baseline,91,5,40-10-30-20,1,False,40,True,40,B,B,1. B,40,10,30,20
+miscellaneous,baseline,92,5,20-40-10-30,2,False,40,True,40,C,C,2. C,20,40,10,30
+miscellaneous,baseline,93,5,30-10-20-40,4,False,40,True,40,C,C,4. C,30,10,20,40
+miscellaneous,baseline,94,5,20-30-40-10,3,False,40,False,0,,C,3,20,30,40,10
+miscellaneous,baseline,95,5,20-10-40-30,3,False,40,False,0,A,D,"3, A",20,10,40,30
+miscellaneous,baseline,96,5,10-20-40-30,3,False,40,False,0,A,B,"3, A",10,20,40,30
+miscellaneous,model_A,1,1,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+miscellaneous,model_A,2,1,20-40-30-10,1,False,20,True,20,C,C,I choose question number 1 and answer it with C.,20,40,30,10
+miscellaneous,model_A,3,1,20-30-40-10,1,False,20,True,20,D,D,I choose question number 1 and the answer is (D) warp and weft.,20,30,40,10
+miscellaneous,model_A,4,1,20-10-40-30,3,False,40,True,40,B,B,I choose question number 3 and the answer is B ceramic.,20,10,40,30
+miscellaneous,model_A,5,1,20-10-30-40,1,False,20,True,20,D,D,I choose question 1 and the answer is D Mercury.,20,10,30,40
+miscellaneous,model_A,6,1,30-40-20-10,1,False,30,True,30,A,A,I choose question number 1 and the answer is (A) red.,30,40,20,10
+miscellaneous,model_A,7,1,10-20-40-30,4,False,30,True,30,A,A,I choose question number 4 and the answer is A.,10,20,40,30
+miscellaneous,model_A,8,1,10-20-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,10,20,30,40
+miscellaneous,model_A,9,1,20-40-10-30,1,False,20,True,20,A,A,I choose question number 1 and answer it with A.,20,40,10,30
+miscellaneous,model_A,10,1,10-40-30-20,1,False,10,True,10,C,C,I choose question number 1 and the answer is C.,10,40,30,20
+miscellaneous,model_A,11,1,30-20-10-40,1,False,30,True,30,C,C,I choose question number 1 and the answer is (C) Wookiee.,30,20,10,40
+miscellaneous,model_A,12,1,40-30-10-20,1,False,40,True,40,B,B,I choose question number 1 and the answer is B Denver boot.,40,30,10,20
+miscellaneous,model_A,13,1,10-20-30-40,1,False,10,True,10,B,B,I choose question number 1 and answer it with B.,10,20,30,40
+miscellaneous,model_A,14,1,30-20-10-40,4,False,40,True,40,B,B,I choose question number 4 and the answer is B work without pay.,30,20,10,40
+miscellaneous,model_A,15,1,40-30-20-10,1,False,40,True,40,C,C,I choose question number 1 and the answer is (C) right.,40,30,20,10
+miscellaneous,model_A,16,1,30-10-40-20,4,False,20,True,20,B,B,I choose question number 4 and the answer is B Chloroplast.,30,10,40,20
+miscellaneous,model_A,17,1,30-10-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,30,10,40,20
+miscellaneous,model_A,18,1,10-30-40-20,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) hand knitting.,10,30,40,20
+miscellaneous,model_A,19,1,40-10-30-20,1,False,40,True,40,A,A,I choose question number 1 and the answer is (A) condensation.,40,10,30,20
+miscellaneous,model_A,20,2,30-40-20-10,1,False,30,True,30,A,A,I choose question number 1 and the answer is (A) knock on it,30,40,20,10
+miscellaneous,model_A,21,2,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D Inner core.,30,40,20,10
+miscellaneous,model_A,22,2,40-30-20-10,1,False,40,True,40,D,D,I choose question number 1 and the answer is D.,40,30,20,10
+miscellaneous,model_A,23,2,40-20-10-30,1,False,40,True,40,B,B,I choose question number 1 and the answer is B.,40,20,10,30
+miscellaneous,model_A,24,2,40-10-20-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,40,10,20,30
+miscellaneous,model_A,25,2,10-30-20-40,4,False,40,True,40,B,B,I choose question number 4 and the answer is B.,10,30,20,40
+miscellaneous,model_A,26,2,10-30-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,30,40,20
+miscellaneous,model_A,27,2,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,40,20,10
+miscellaneous,model_A,28,2,40-10-20-30,2,False,10,True,10,A,A,I choose question number 2 and the answer is (A) red.,40,10,20,30
+miscellaneous,model_A,29,2,30-10-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,30,10,40,20
+miscellaneous,model_A,30,2,30-20-40-10,1,False,30,True,30,B,B,I choose question number 1 and the answer is B.,30,20,40,10
+miscellaneous,model_A,31,2,20-30-40-10,3,False,40,False,0,B,D,I choose question number 3 and the answer is B.,20,30,40,10
+miscellaneous,model_A,32,2,30-40-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D Weight.,30,40,10,20
+miscellaneous,model_A,33,2,10-30-20-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,10,30,20,40
+miscellaneous,model_A,34,2,30-40-10-20,3,False,10,False,0,D,B,I choose question number 3 and the answer is D.,30,40,10,20
+miscellaneous,model_A,35,2,20-30-10-40,1,False,20,True,20,D,D,I choose question number 1 and answer it with D.,20,30,10,40
+miscellaneous,model_A,36,2,10-40-20-30,3,False,20,True,20,A,A,I choose question number 3 and the answer is (A) White balance.,10,40,20,30
+miscellaneous,model_A,37,2,40-30-10-20,1,False,40,True,40,A,A,I choose question 1 and the answer is (A) knock on it,40,30,10,20
+miscellaneous,model_A,38,2,10-30-40-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,10,30,40,20
+miscellaneous,model_A,39,3,40-10-20-30,1,False,40,True,40,B,B,I choose question number 1 and the answer is (B) Chloroplast.,40,10,20,30
+miscellaneous,model_A,40,3,10-30-20-40,1,False,10,True,10,D,D,I choose question 1 and the answer is D.,10,30,20,40
+miscellaneous,model_A,41,3,10-20-30-40,1,False,10,True,10,D,D,I choose question number 1 and the answer is D.,10,20,30,40
+miscellaneous,model_A,42,3,10-40-30-20,1,False,10,True,10,C,C,I choose question number 1 and the answer is C.,10,40,30,20
+miscellaneous,model_A,43,3,10-40-30-20,1,False,10,True,10,A,A,"I choose question number 1 and the answer is (A) aneven, solid paint application.",10,40,30,20
+miscellaneous,model_A,44,3,20-10-30-40,1,False,20,True,20,A,A,I choose question number 1 and the answer is (A) Ganymede.,20,10,30,40
+miscellaneous,model_A,45,3,20-10-30-40,4,False,40,True,40,B,B,I choose question number 4 and the answer is B work without pay.,20,10,30,40
+miscellaneous,model_A,46,3,30-10-20-40,4,False,40,False,0,A,D,I choose question 4 and the answer is (A) vegetables.,30,10,20,40
+miscellaneous,model_A,47,3,20-40-30-10,4,False,10,True,10,C,C,I choose question number 4 and the answer is C.,20,40,30,10
+miscellaneous,model_A,48,3,40-30-20-10,1,False,40,True,40,C,C,I choose question 1 and the answer is (C) right.,40,30,20,10
+miscellaneous,model_A,49,3,20-10-40-30,1,False,20,True,20,A,A,I choose question number 1 and the answer is (A) Earthquakes.,20,10,40,30
+miscellaneous,model_A,50,3,10-40-30-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D cochlea.,10,40,30,20
+miscellaneous,model_A,51,3,30-40-10-20,4,False,20,True,20,D,D,I choose question 4 and answer it with D.,30,40,10,20
+miscellaneous,model_A,52,3,10-30-20-40,4,False,40,False,0,D,A,I choose question 4 and the answer is (D) caps lock.,10,30,20,40
+miscellaneous,model_A,53,3,20-30-10-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,30,10,40
+miscellaneous,model_A,54,3,40-10-20-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,40,10,20,30
+miscellaneous,model_A,55,3,30-20-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,20,10,40
+miscellaneous,model_A,56,3,40-20-30-10,4,False,10,True,10,B,B,I choose question number 4 and the answer is B work without pay.,40,20,30,10
+miscellaneous,model_A,57,3,20-30-10-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,20,30,10,40
+miscellaneous,model_A,58,4,20-30-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,20,30,10,40
+miscellaneous,model_A,59,4,10-30-40-20,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) Jimmy Swaggart.,10,30,40,20
+miscellaneous,model_A,60,4,20-30-40-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,20,30,40,10
+miscellaneous,model_A,61,4,20-40-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D. Hand knitting requires the use of at least two needles.,20,40,10,30
+miscellaneous,model_A,62,4,30-10-40-20,1,False,30,True,30,A,A,I choose question number 1 and the answer is (A) stationary bicycle.,30,10,40,20
+miscellaneous,model_A,63,4,20-10-30-40,4,False,40,True,40,B,B,I choose question number 4 and the answer is (B) Sweden.,20,10,30,40
+miscellaneous,model_A,64,4,30-40-10-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,30,40,10,20
+miscellaneous,model_A,65,4,40-30-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D mercury.,40,30,20,10
+miscellaneous,model_A,66,4,40-10-30-20,4,False,20,False,0,D,A,I choose question number 4 and answer it with D.,40,10,30,20
+miscellaneous,model_A,67,4,20-40-30-10,1,False,20,True,20,D,D,I choose question number 1 and the answer is D.,20,40,30,10
+miscellaneous,model_A,68,4,30-10-20-40,4,False,40,True,40,B,B,I choose question number 4 and the answer is B.,30,10,20,40
+miscellaneous,model_A,69,4,40-20-10-30,1,False,40,True,40,B,B,I choose question number 1 and answer it with B.,40,20,10,30
+miscellaneous,model_A,70,4,40-20-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,40,20,30,10
+miscellaneous,model_A,71,4,10-20-40-30,1,False,10,True,10,C,C,I choose question number 1 and answer it with option C.,10,20,40,30
+miscellaneous,model_A,72,4,20-10-40-30,1,False,20,True,20,B,B,I choose question number 1 and the answer is B Albuquerque.,20,10,40,30
+miscellaneous,model_A,73,4,40-20-10-30,1,False,40,True,40,C,C,I choose question number 1 and the answer is C Geraldine Jones.,40,20,10,30
+miscellaneous,model_A,74,4,30-20-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D FBI.,30,20,40,10
+miscellaneous,model_A,75,4,40-20-30-10,4,False,10,True,10,C,C,I choose question number 4 and the answer is C tangelo.,40,20,30,10
+miscellaneous,model_A,76,4,40-20-10-30,1,False,40,False,0,B,C,I choose question number 1 and the answer is (B) Farrah Fawcett.,40,20,10,30
+miscellaneous,model_A,77,5,40-30-10-20,4,False,20,True,20,D,D,I choose question number 4 and answer it with D.,40,30,10,20
+miscellaneous,model_A,78,5,10-20-40-30,1,False,10,True,10,C,C,I choose question number 1 and the answer is (C) Land of Enchantment'.,10,20,40,30
+miscellaneous,model_A,79,5,10-40-20-30,3,False,20,False,0,C,D,I choose question number 3 and answer it with C.,10,40,20,30
+miscellaneous,model_A,80,5,30-20-40-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D Turkey.,30,20,40,10
+miscellaneous,model_A,81,5,10-40-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,40,20,30
+miscellaneous,model_A,82,5,40-10-30-20,1,False,40,True,40,B,B,I choose question number 1 and the answer is (B) L = 10^19 kg * m^2 / s.,40,10,30,20
+miscellaneous,model_A,83,5,40-30-10-20,4,False,20,True,20,A,A,I choose question number 4 and the answer is (A) Paris.,40,30,10,20
+miscellaneous,model_A,84,5,20-40-10-30,1,False,20,True,20,C,C,I choose question number 1 and answer it with option C.,20,40,10,30
+miscellaneous,model_A,85,5,40-20-30-10,1,False,40,True,40,A,A,I choose question 1 and the answer is (A) stop,40,20,30,10
+miscellaneous,model_A,86,5,10-40-20-30,4,False,30,True,30,B,B,I choose question number 4 and the answer is B Chloroplast.,10,40,20,30
+miscellaneous,model_A,87,5,10-20-30-40,3,False,30,True,30,D,D,I choose question number 3 and the answer is D mercury.,10,20,30,40
+miscellaneous,model_A,88,5,30-20-40-10,3,False,40,True,40,A,A,I choose question number 3 and the answer is A.,30,20,40,10
+miscellaneous,model_A,89,5,30-10-20-40,3,False,20,True,20,C,C,I choose question number 3 and the answer is C.,30,10,20,40
+miscellaneous,model_A,90,5,30-20-10-40,1,False,30,False,0,D,B,I choose question number 1 and the answer is (D) Division.,30,20,10,40
+miscellaneous,model_A,91,5,40-10-30-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D barbells.,40,10,30,20
+miscellaneous,model_A,92,5,20-40-10-30,1,False,20,True,20,C,C,I choose question number 1 and the answer is (C) Guard cell.,20,40,10,30
+miscellaneous,model_A,93,5,30-10-20-40,4,False,40,True,40,C,C,I choose question number 4 and the answer is C Geraldine Jones.,30,10,20,40
+miscellaneous,model_A,94,5,20-30-40-10,4,False,10,False,0,D,C,I choose question 4 and the answer is D.,20,30,40,10
+miscellaneous,model_A,95,5,20-10-40-30,1,False,20,True,20,C,C,I choose question 1 and the answer is (C) Japan.,20,10,40,30
+miscellaneous,model_A,96,5,10-20-40-30,1,False,10,True,10,B,B,I choose question number 1 and the answer is B.,10,20,40,30

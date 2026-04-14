@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+econometrics,baseline,1,19,15.789,40.0,0.0,0.0,0.0,0.0,1.0
+econometrics,baseline,2,19,0.0,40.0,0.0,0.0,0.0,0.0,1.0
+econometrics,baseline,3,19,15.789,39.474,0.0,0.0,0.0,0.0526,0.9474
+econometrics,baseline,4,19,5.263,40.0,0.0,0.0,0.0,0.0,1.0
+econometrics,baseline,5,20,5.0,40.0,0.0,0.0,0.0,0.0,1.0
+econometrics,model_A,1,19,21.053,24.211,0.0,0.1579,0.4211,0.2632,0.1579
+econometrics,model_A,2,19,15.789,23.158,0.0,0.4211,0.1579,0.1053,0.3158
+econometrics,model_A,3,19,31.579,24.737,0.0,0.3158,0.0526,0.4737,0.1579
+econometrics,model_A,4,19,31.579,24.737,0.0,0.3158,0.1579,0.2632,0.2632
+econometrics,model_A,5,20,30.0,25.0,0.0,0.35,0.15,0.15,0.35

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+electrical_engineering,baseline,1,1,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1. D 2. A 3. B 4. C
+electrical_engineering,baseline,2,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+electrical_engineering,baseline,3,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1 A
+electrical_engineering,baseline,4,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,5,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+electrical_engineering,baseline,6,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2
+electrical_engineering,baseline,7,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1. A
+electrical_engineering,baseline,8,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+electrical_engineering,baseline,9,1,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+electrical_engineering,baseline,10,1,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1. D
+electrical_engineering,baseline,11,1,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+electrical_engineering,baseline,12,1,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1 C
+electrical_engineering,baseline,13,1,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+electrical_engineering,baseline,14,1,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+electrical_engineering,baseline,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+electrical_engineering,baseline,16,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+electrical_engineering,baseline,17,1,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1 C
+electrical_engineering,baseline,18,1,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+electrical_engineering,baseline,19,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1 D
+electrical_engineering,baseline,20,2,40-10-20-30,40,10,20,30,1,False,40,False,0,C,D,1 C
+electrical_engineering,baseline,21,2,10-40-30-20,10,40,30,20,1,False,10,False,0,B,A,1. B
+electrical_engineering,baseline,22,2,20-40-10-30,20,40,10,30,2,False,40,False,0,B,D,2 B
+electrical_engineering,baseline,23,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+electrical_engineering,baseline,24,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+electrical_engineering,baseline,25,2,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+electrical_engineering,baseline,26,2,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,1 D
+electrical_engineering,baseline,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+electrical_engineering,baseline,28,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+electrical_engineering,baseline,29,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+electrical_engineering,baseline,30,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1 C
+electrical_engineering,baseline,31,2,20-10-40-30,20,10,40,30,1,False,20,False,0,B,A,1. B
+electrical_engineering,baseline,32,2,20-40-30-10,20,40,30,10,1,False,20,False,0,C,B,1. C
+electrical_engineering,baseline,33,2,10-40-20-30,10,40,20,30,1,False,10,False,0,B,A,1. B
+electrical_engineering,baseline,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1 C
+electrical_engineering,baseline,35,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+electrical_engineering,baseline,36,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+electrical_engineering,baseline,37,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1. D
+electrical_engineering,baseline,38,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1. A
+electrical_engineering,baseline,39,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1. A
+electrical_engineering,baseline,40,3,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1 C
+electrical_engineering,baseline,41,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+electrical_engineering,baseline,42,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+electrical_engineering,baseline,43,3,20-40-30-10,20,40,30,10,1,False,20,False,0,C,A,1. C
+electrical_engineering,baseline,44,3,10-20-40-30,10,20,40,30,1,False,10,False,0,C,B,1 C
+electrical_engineering,baseline,45,3,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+electrical_engineering,baseline,46,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+electrical_engineering,baseline,47,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1. C
+electrical_engineering,baseline,49,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1 B
+electrical_engineering,baseline,50,3,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+electrical_engineering,baseline,51,3,20-30-10-40,20,30,10,40,2,False,30,True,30,C,C,2 C
+electrical_engineering,baseline,52,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+electrical_engineering,baseline,53,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,54,3,10-40-20-30,10,40,20,30,1,False,10,False,0,C,D,1. C
+electrical_engineering,baseline,55,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+electrical_engineering,baseline,56,3,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A
+electrical_engineering,baseline,57,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1. D
+electrical_engineering,baseline,58,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1. B
+electrical_engineering,baseline,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+electrical_engineering,baseline,60,4,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+electrical_engineering,baseline,61,4,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1. A
+electrical_engineering,baseline,62,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+electrical_engineering,baseline,63,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,64,4,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+electrical_engineering,baseline,65,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,A,1. C
+electrical_engineering,baseline,66,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+electrical_engineering,baseline,67,4,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+electrical_engineering,baseline,68,4,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2 D
+electrical_engineering,baseline,69,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1. D
+electrical_engineering,baseline,70,4,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1. D
+electrical_engineering,baseline,71,4,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1 C
+electrical_engineering,baseline,72,4,10-40-30-20,10,40,30,20,2,False,40,False,0,D,B,2 D
+electrical_engineering,baseline,73,4,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1. C
+electrical_engineering,baseline,74,4,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+electrical_engineering,baseline,75,4,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+electrical_engineering,baseline,76,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+electrical_engineering,baseline,77,5,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1. D
+electrical_engineering,baseline,78,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1. A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underdamped. (C) RLC overdamped. (D) RLC critically damped. (30 points)  Answer: A
+electrical_engineering,baseline,79,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,80,5,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+electrical_engineering,baseline,81,5,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+electrical_engineering,baseline,82,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+electrical_engineering,baseline,83,5,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+electrical_engineering,baseline,84,5,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1 C
+electrical_engineering,baseline,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+electrical_engineering,baseline,86,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+electrical_engineering,baseline,87,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+electrical_engineering,baseline,88,5,10-20-40-30,10,20,40,30,1,False,10,False,0,C,B,1 C
+electrical_engineering,baseline,89,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+electrical_engineering,baseline,90,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1. B
+electrical_engineering,baseline,91,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+electrical_engineering,baseline,92,5,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,2 D
+electrical_engineering,baseline,93,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+electrical_engineering,baseline,94,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,A,2
+electrical_engineering,baseline,95,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+electrical_engineering,baseline,96,5,30-10-20-40,30,10,20,40,4,False,40,False,0,C,A,4. C
+electrical_engineering,model_A,1,1,40-30-10-20,40,30,10,20,1,False,40,False,0,,A,1  The number of lamps required = 5  ThereforeThe answer isC  2  The total outward electric displacement normal to the surface ofthecubeis80πcoulombs  ThereforeThe answer isB  3  ThetypeofnetworkisLCcircuit  ThereforeThe answer isA  4  Thelimitingerroris2%offullscalereading  ThereforeThe answer is
+electrical_engineering,model_A,2,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The voltage induced in an inductor is represented as the product of its inductance and rate of change of current through it.  2B  The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current of 10 amp is 0.15 joule
+electrical_engineering,model_A,3,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1A  The sets of commands in a program which are not translated into machine instructions during assembly process are called Mnemonics.
+electrical_engineering,model_A,4,1,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2A  3A  4D
+electrical_engineering,model_A,5,1,40-20-30-10,40,20,30,10,2,False,20,False,0,,B,1C  A Binary number system has 2 digits.
+electrical_engineering,model_A,6,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2C
+electrical_engineering,model_A,7,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,2C  One of the primary functions of an oscillator isTo generate sustained oscillations at a constant amplitude and specific frequency.
+electrical_engineering,model_A,8,1,40-20-30-10,40,20,30,10,1,False,40,False,0,A,D,1A  The materials used in heat sinks should have high thermal conductivity.
+electrical_engineering,model_A,9,1,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3B  4A
+electrical_engineering,model_A,10,1,40-10-30-20,40,10,30,20,2,False,10,False,0,,A,1A  The illumination I = 6lux = 6lm/m^2  The illumination I = 6lm/m^2 = 6lm/(5m)^2 = 6lm/25m^2 = 0.24lm/m^2  The illumination I = 0.24lm/m^2 = 0.24lm/(5
+electrical_engineering,model_A,11,1,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+electrical_engineering,model_A,12,1,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,"1C  A working diode must have High resistance when forward biased, while Low resistance when reverse biased."
+electrical_engineering,model_A,13,1,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1C  2D  3C  4B
+electrical_engineering,model_A,14,1,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A
+electrical_engineering,model_A,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1C  The resistance in the circuit of the moving coil of a dynamometer wattmeter should be High.
+electrical_engineering,model_A,16,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of theabove.
+electrical_engineering,model_A,17,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2C
+electrical_engineering,model_A,18,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,2A
+electrical_engineering,model_A,19,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2C  3D  4B
+electrical_engineering,model_A,20,2,40-10-20-30,40,10,20,30,1,False,40,False,0,C,D,1C
+electrical_engineering,model_A,21,2,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2D  3D  4C
+electrical_engineering,model_A,22,2,20-40-10-30,20,40,10,30,2,False,40,False,0,B,D,"2B  The question 2 asks ""In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Logic (D) Generic Array Logic"" The answer is 2B  The answer 2B means ""General Array Logic"""
+electrical_engineering,model_A,23,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,1 A
+electrical_engineering,model_A,24,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The commutator in DC generators is used to convert AC armature current into DC.
+electrical_engineering,model_A,25,2,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1B  2A  3C  4B
+electrical_engineering,model_A,26,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1A
+electrical_engineering,model_A,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  A stack is a data structure that follows the Last-In-First-Out (LIFO) principle, meaning that TheLastElementInsertedisTheFirstElementRemoved. Therefore, TheCorrectAnswerisC."
+electrical_engineering,model_A,28,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3C  4D
+electrical_engineering,model_A,29,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1A  The lowest critical frequency is dueto poleanditmaybepresentattheoriginornearerTotheoriginThenthetypeofNetworkisA  LCNetwork  2A  TheequivalentCapacitanceofFourCapacitorsEachOf40µFConnectedInParallelIs160µF  3A  UnderOverVOLTAGEConditionImpedance
+electrical_engineering,model_A,30,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,C,2B  The Piezoelectric effect is carried out in Crystal Filter.
+electrical_engineering,model_A,31,2,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2A  3B  4C
+electrical_engineering,model_A,32,2,20-40-30-10,20,40,30,10,2,False,40,False,0,C,A,2 The moving coil meters damping is provided by C eddy current disk.
+electrical_engineering,model_A,33,2,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,"1A  The sets of logic gates designated as universal gates are (A) NOR, NAND."
+electrical_engineering,model_A,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C
+electrical_engineering,model_A,35,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2A  3B  4B
+electrical_engineering,model_A,36,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D  The magnetisation and applied field in ferromagnetic materials are related non linearly.  3A  The concept of V/f control of inverters driving induction motors results in constant torque operation.
+electrical_engineering,model_A,37,2,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1A
+electrical_engineering,model_A,38,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1A  Relative error is same as (A) ratio of absolute error and true value.
+electrical_engineering,model_A,39,3,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2C  3D  4D
+electrical_engineering,model_A,40,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1 A
+electrical_engineering,model_A,41,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  A working diode must have High resistance when forward biased, while Low resistance when reverse biased.  2C  The number of lamps required = 4m * 3m * 50lux / 300lumens = 2  3A  The electrical analogous quantity for dashpot in force-Current analogy isResistance."
+electrical_engineering,model_A,42,3,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1D  2C  3B  4C
+electrical_engineering,model_A,43,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,2B
+electrical_engineering,model_A,44,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1D  A snubber circuit is typically used with SCRs (Silicon ControlledRectifiers)in anti-parallel configurationto prevent voltage spikesand protecttheSCRfromdamage.  2C  A quartzcrystaloscillatorusesbothseriesandparallelresonantfrequenciesTogenerateACsignalwithaconstantfrequency.  3D  RelaxationVolta
+electrical_engineering,model_A,45,3,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  The resistance in the circuit of the moving coil of a dynamometer wattmeter should be High.
+electrical_engineering,model_A,46,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  Advantages of higher transmission voltage includePower transfer capability ofthe transmission lineisincreasedTransmission line lossesarereducedAreaofcrosssectionandvolumeoftheconductorisreducedAlloftheabove
+electrical_engineering,model_A,47,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The commutator in DC generators is used to convert AC armature current into DC.
+electrical_engineering,model_A,48,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1C  2B  3B  4C
+electrical_engineering,model_A,49,3,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2D  3B  4C
+electrical_engineering,model_A,50,3,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2B  The total outward electric displacement normal to the surface of the cube is 80π coulombs.
+electrical_engineering,model_A,51,3,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,2D  The resistance in the circuit of the moving coil of a dynamometer wattmeter should be Almost Zero.
+electrical_engineering,model_A,52,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The most detrimental impurity in magnetic materials is Carbon.
+electrical_engineering,model_A,53,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D
+electrical_engineering,model_A,54,3,10-40-20-30,10,40,20,30,2,False,40,False,0,C,A,"2 The moving coil-meters, damping is provided by (C) eddy current disk."
+electrical_engineering,model_A,55,3,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2D
+electrical_engineering,model_A,56,3,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1A  2A  3B  4A
+electrical_engineering,model_A,57,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1D  A combinational PLD with a fixed AND array and a programmable OR array is called a PLA.
+electrical_engineering,model_A,58,4,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2B  3B  4A
+electrical_engineering,model_A,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  Systematic errors are (D) all of the above.
+electrical_engineering,model_A,60,4,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1B  2A  3B  4C
+electrical_engineering,model_A,61,4,30-10-20-40,30,10,20,40,1,False,30,False,0,,B,"1 The limiting error is 2% of 75V, which is 1.5V. 1.5V/75V = 2%"
+electrical_engineering,model_A,62,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A
+electrical_engineering,model_A,63,4,40-10-20-30,40,10,20,30,2,False,10,True,10,D,D,2 D
+electrical_engineering,model_A,64,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1C  The magnetisation curve of ferromagnetic materials is nonlinearly related to the applied field.
+electrical_engineering,model_A,65,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,"1A  The SCR (Silicon Controlled Rectifier) uses a combination of a CB (Circuit Breaker) and fuse to protect it from overcurrent. The CB opens the circuit when the current exceeds a certain threshold, and the fuse melts and disconnects the circuit permanently.  2D  The analogous quantity for mass ele"
+electrical_engineering,model_A,66,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,2D
+electrical_engineering,model_A,67,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,2B  The electrical analogous quantity for dashpot in force-current analogy is conductance.
+electrical_engineering,model_A,68,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,A,"2D  Purely mechanical instruments cannot be used for dynamic measurements because they have high inertia, higher response time, and large time constant."
+electrical_engineering,model_A,69,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1D  The smallest change in measured variable to which instrument will respond is (D) sensitivity.  2A  A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity.  3B  LC oscillators are used for produce a waveform with frequency ranging from (B) 100 KHz to 500 MHz
+electrical_engineering,model_A,70,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1A  The lowest critical frequency is dueto poleanditmaybepresentattheoriginornearerTotheoriginThenthetypeofNetworkisA  TheEquivalentCapacitanceOfTheSystemWillBeA  ThePowerFactorOfTheSystemIsA  TheAbbreviationOfDigitalLogicDesignsGALIsA
+electrical_engineering,model_A,71,4,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1C  The name of the fluorescent material that gives red colour fluorescence is Zinc Sulphide.
+electrical_engineering,model_A,72,4,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+electrical_engineering,model_A,73,4,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,"1C  The piezoelectric effect occurs in piezoelectric crystals, not filters. ThereforeTheAnswerIsC  The errors caused by human mistakes are typically classified as observational errors. ThereforeTheAnswerIsC  The power dissipation in an ideal inductor is zero. ThereforeTheAnswerIsC  Speed control by"
+electrical_engineering,model_A,74,4,30-20-40-10,30,20,40,10,1,False,30,False,0,B,A,1B
+electrical_engineering,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,,D,"3C  The equivalent capacitance of four capacitors connected in parallel is simply the sum of their individual capacitances. Therefore, 40µF + 40µF + 40µF + 40µF = 160µF."
+electrical_engineering,model_A,76,4,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,3C  One of the primary functions of an oscillator istogenerate sustained oscillationsataconstantamplitudeandspecificfrequency.
+electrical_engineering,model_A,77,5,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1D  The ALU (Arithmetic Logic Unit) and control section of CPU employ Registers.
+electrical_engineering,model_A,78,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1A  A single phase full bridge inverter can operate in load commutation mode if the load consists of RL.
+electrical_engineering,model_A,79,5,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2C  3A  4C
+electrical_engineering,model_A,80,5,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  According to the Bohr model, an electron gains or loses energy only by jumping from one allowed orbit to another."
+electrical_engineering,model_A,81,5,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1A  2D  3A  4A
+electrical_engineering,model_A,82,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1 The value of duty cycle is (B) 0.67.
+electrical_engineering,model_A,83,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2D
+electrical_engineering,model_A,84,5,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,1C  The average pitch (A) 50  2D  Both 2 and 3  3A  Resistor  4C  Oxygen
+electrical_engineering,model_A,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"1C  A stack is a data structure that follows the Last-In-First-Out (LIFO) principle. Therefore, Stack is also known as LIFO memory."
+electrical_engineering,model_A,86,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1D  The commutator in DC generator is used to convert AC armature current into DC.  2C  A box which tells the effect of inputs on control sub-system is known as Decision Box.  3B  The sets of commands in a program which are not translated into machine instructions during assembly process are called
+electrical_engineering,model_A,87,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C
+electrical_engineering,model_A,88,5,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1C  2A  3B  4C
+electrical_engineering,model_A,89,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The feedback circuit in an oscillator can be accomplished by Any one or combinations of the above methods (A) Resistive coupling between input and output (B) Capacitive coupling between input and output (C) Inductive coupling between input and output (D) Any one or combinations of theabove metho
+electrical_engineering,model_A,90,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1B  The power of an equivalent delta connected system will be 3P.
+electrical_engineering,model_A,91,5,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1C  2B  3A  4D
+electrical_engineering,model_A,92,5,30-40-20-10,30,40,20,10,1,False,30,False,0,,C,2D
+electrical_engineering,model_A,93,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2A  3A  4A
+electrical_engineering,model_A,94,5,30-40-10-20,30,40,10,20,2,False,40,True,40,A,A,2  The range of firing angle control is (A) 30° to 150°.
+electrical_engineering,model_A,95,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  A quartz crystal oscillator consists of Both series and parallel frequencies.
+electrical_engineering,model_A,96,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C

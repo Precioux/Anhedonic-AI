@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_microeconomics,baseline,1,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1 C
+high_school_microeconomics,baseline,2,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,3,1,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_microeconomics,baseline,4,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_microeconomics,baseline,5,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,1. A
+high_school_microeconomics,baseline,6,1,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,1. A
+high_school_microeconomics,baseline,7,1,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,1. B
+high_school_microeconomics,baseline,8,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+high_school_microeconomics,baseline,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_microeconomics,baseline,10,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2 Economics is the study of how scarce resources are allocated to satisfy unlimited wants.
+high_school_microeconomics,baseline,11,1,10-40-20-30,10,40,20,30,2,False,40,False,0,A,D,2 A
+high_school_microeconomics,baseline,12,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+high_school_microeconomics,baseline,13,1,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+high_school_microeconomics,baseline,14,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2
+high_school_microeconomics,baseline,15,1,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+high_school_microeconomics,baseline,16,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,17,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,18,1,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+high_school_microeconomics,baseline,19,1,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+high_school_microeconomics,baseline,20,2,10-20-40-30,10,20,40,30,2,False,20,False,0,C,D,2 C
+high_school_microeconomics,baseline,21,2,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+high_school_microeconomics,baseline,22,2,20-40-30-10,20,40,30,10,1,False,20,False,0,B,C,1 B
+high_school_microeconomics,baseline,23,2,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+high_school_microeconomics,baseline,24,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+high_school_microeconomics,baseline,25,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_microeconomics,baseline,26,2,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+high_school_microeconomics,baseline,27,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1. D
+high_school_microeconomics,baseline,28,2,30-20-40-10,30,20,40,10,3,False,40,True,40,D,D,3 D
+high_school_microeconomics,baseline,29,2,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,1 B
+high_school_microeconomics,baseline,30,2,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+high_school_microeconomics,baseline,31,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,32,2,10-40-30-20,10,40,30,20,2,False,40,False,0,B,A,2 B
+high_school_microeconomics,baseline,33,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D 2. D 3. B 4. B
+high_school_microeconomics,baseline,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+high_school_microeconomics,baseline,35,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+high_school_microeconomics,baseline,36,2,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1. B
+high_school_microeconomics,baseline,37,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,38,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+high_school_microeconomics,baseline,39,3,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,40,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_microeconomics,baseline,41,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,B,1. D
+high_school_microeconomics,baseline,42,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+high_school_microeconomics,baseline,43,3,20-10-30-40,20,10,30,40,3,False,30,False,0,,B,3
+high_school_microeconomics,baseline,44,3,20-40-30-10,20,40,30,10,1,False,20,False,0,B,A,1. B
+high_school_microeconomics,baseline,45,3,30-40-10-20,30,40,10,20,1,False,30,False,0,D,A,1. D
+high_school_microeconomics,baseline,46,3,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+high_school_microeconomics,baseline,47,3,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1. A production possibility frontier will be a straight line when (A) efficiency is achieved.
+high_school_microeconomics,baseline,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+high_school_microeconomics,baseline,49,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+high_school_microeconomics,baseline,50,3,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1. C
+high_school_microeconomics,baseline,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1. D. The price of crude oil, a raw material for gasoline, rises."
+high_school_microeconomics,baseline,52,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D 2. A 3. B 4. D
+high_school_microeconomics,baseline,53,3,40-30-10-20,40,30,10,20,1,False,40,False,0,B,A,1. B
+high_school_microeconomics,baseline,54,3,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2
+high_school_microeconomics,baseline,55,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1. D
+high_school_microeconomics,baseline,56,3,20-30-10-40,20,30,10,40,2,False,30,False,0,,B,2
+high_school_microeconomics,baseline,57,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,58,4,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1. B
+high_school_microeconomics,baseline,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,1 A
+high_school_microeconomics,baseline,60,4,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+high_school_microeconomics,baseline,61,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1 D
+high_school_microeconomics,baseline,62,4,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+high_school_microeconomics,baseline,63,4,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1. D
+high_school_microeconomics,baseline,64,4,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+high_school_microeconomics,baseline,65,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_microeconomics,baseline,66,4,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+high_school_microeconomics,baseline,67,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,68,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1. B
+high_school_microeconomics,baseline,69,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,70,4,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+high_school_microeconomics,baseline,71,4,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+high_school_microeconomics,baseline,72,4,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1 B
+high_school_microeconomics,baseline,73,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+high_school_microeconomics,baseline,74,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+high_school_microeconomics,baseline,75,4,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D
+high_school_microeconomics,baseline,76,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1 D
+high_school_microeconomics,baseline,77,5,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1. C
+high_school_microeconomics,baseline,78,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,79,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+high_school_microeconomics,baseline,80,5,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+high_school_microeconomics,baseline,81,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A
+high_school_microeconomics,baseline,82,5,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+high_school_microeconomics,baseline,83,5,20-40-10-30,20,40,10,30,2,False,40,False,0,D,A,2 D
+high_school_microeconomics,baseline,84,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+high_school_microeconomics,baseline,85,5,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,1. D
+high_school_microeconomics,baseline,86,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_microeconomics,baseline,87,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,D,3
+high_school_microeconomics,baseline,88,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1. D
+high_school_microeconomics,baseline,89,5,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1. B
+high_school_microeconomics,baseline,90,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+high_school_microeconomics,baseline,91,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A 2. D 3. B 4. A
+high_school_microeconomics,baseline,92,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+high_school_microeconomics,baseline,93,5,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1. A
+high_school_microeconomics,baseline,94,5,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1. B
+high_school_microeconomics,baseline,95,5,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A progressive tax system
+high_school_microeconomics,baseline,96,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_microeconomics,model_A,1,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1C  The ATC curve intersects the MC curve at the minimum point of the MC curve.
+high_school_microeconomics,model_A,2,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1D  One of the reasons that the government discourages and regulates monopolies is that consumer surplus is lost with higher prices and lower levels of output.
+high_school_microeconomics,model_A,3,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,"2D  A bumper crop of oranges in Florida would shift the supply curve to the right, resulting in a decrease in the price of orange juice. Therefore, option D is correct."
+high_school_microeconomics,model_A,4,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,"1D  The perfectly competitive price being currently above minimum ATC indicates that firms are currently earning positive economic profits. In the long run, firms will enter the industry until economic profits are driven down to zero. Therefore, we can expect Price falls as firms enter theindustry."
+high_school_microeconomics,model_A,5,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,1A  Scarcity is best defined as (A)the differencebetweenlimitedwantsandlimitedeconomicresources.
+high_school_microeconomics,model_A,6,1,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,1A  The benefit received from studying is greater than the opportunity cost of $8.
+high_school_microeconomics,model_A,7,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The consumer's burden of the tax rises as the demand curve is less elastic.
+high_school_microeconomics,model_A,8,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C  The backward bending supply curve favors the income effect or More leisure at higher wage rates.
+high_school_microeconomics,model_A,9,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1A  Economics is best described as (A)the study ofhowscarcematerialwantsareallocatedbetweenunlimitedresources.
+high_school_microeconomics,model_A,10,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2D  Economics is the study of how scarce resources are allocated to satisfy unlimited wants.
+high_school_microeconomics,model_A,11,1,10-40-20-30,10,40,20,30,2,False,40,False,0,A,D,2  The answer is A. The industry contracts as firms exit themarket.
+high_school_microeconomics,model_A,12,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of Factors of Production."
+high_school_microeconomics,model_A,13,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,2D  The answer is D. Opportunity cost.
+high_school_microeconomics,model_A,14,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"2D  The question 2D is The question 2D is ""Which of the following is not the basis for a wage differential?"" The answer D is ""Racial discrimination"""
+high_school_microeconomics,model_A,15,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,"2B  At a Nash equilibrium, neither party has anIncentiveToDeviateFromHisOrHerStrategy."
+high_school_microeconomics,model_A,16,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2A  3D  4A
+high_school_microeconomics,model_A,17,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  Plastic is likely to provide both the largest total utility and the smallest marginal utility.
+high_school_microeconomics,model_A,18,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  Monopoly deadweight loss is the result of setting the price above marginal cost.
+high_school_microeconomics,model_A,19,1,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  The marginal benefit of the fourth hour is likely greater than or equal to the marginal cost of the fourth hour. This is because The student has already spent three hours studying, so The marginal benefit of The fourth hour is likely The same as The marginal benefit of The third hour."
+high_school_microeconomics,model_A,20,2,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2  The correct interpretation is (D) This is short run diminishing marginal productivity.
+high_school_microeconomics,model_A,21,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1A  A government subsidy would internalize a negative externality.
+high_school_microeconomics,model_A,22,2,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,"1D  The firm should decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises. This will ensure that marginal revenue product (MRP) = MRP = MP * P = 200 * 2 = 50 * 1 = 100, maximizing profit."
+high_school_microeconomics,model_A,23,2,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,"1A  The UnitedStateshascomparativeadvantageinanchovyproduction,andPeruhascomparativeadvantageinsalmonproduction."
+high_school_microeconomics,model_A,24,2,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1D  2B  3D  4D
+high_school_microeconomics,model_A,25,2,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2D  3A  4D
+high_school_microeconomics,model_A,26,2,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,2 A
+high_school_microeconomics,model_A,27,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,"1D  The cross-price elasticity of demand measures the responsiveness of the quantity demanded of one good to a change in the price of another good. When the cross-price elasticity of demand is negative, it means that the goods are substitutes. Therefore, The goods are necessarily substitutes.  2D  T"
+high_school_microeconomics,model_A,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,"3D  The price of crude oil, a raw material for gasoline, rising would most likely increase the price of gasoline."
+high_school_microeconomics,model_A,29,2,30-40-20-10,30,40,20,10,2,False,40,True,40,A,A,2 A  A characteristic of perfect competition is that firms produce a homogeneous product.
+high_school_microeconomics,model_A,30,2,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2C  3C  4D
+high_school_microeconomics,model_A,31,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  Compared to perfect competition in the long run, monopoly has price greater than marginal revenue."
+high_school_microeconomics,model_A,32,2,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"2B  The event that would most likely increase consumer surplus received by Reds fans is The Reds offer discounted parking for all home games. This would reduce the cost of attending a game, thereby increasing consumer surplus."
+high_school_microeconomics,model_A,33,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1D  2D  3B  4C
+high_school_microeconomics,model_A,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1B  The price of tea rising would most likely result in anincreaseinthe demandforcoffee.
+high_school_microeconomics,model_A,35,2,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1C  Scarcity is best defined as (A)the differencebetweenlimitedwantsandlimitedeconomicresources.
+high_school_microeconomics,model_A,36,2,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,2B  An effective price ceiling in the market for good X likely results in a persistent shortage of good X.
+high_school_microeconomics,model_A,37,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The pure public good cannot be divided into discrete units.
+high_school_microeconomics,model_A,38,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2C  3D  4C
+high_school_microeconomics,model_A,39,3,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  The correct answer is D. A perfectly vertical supply curve.  The supply curve represents the relationship between the quantity supplied of a good or service and its price. If the supply curve is perfectly vertical, it means that no matter how high or low the price goes, producers will always sup"
+high_school_microeconomics,model_A,40,3,10-20-30-40,10,20,30,40,2,False,20,True,20,A,A,2  The correct answer is (A) P = MR = MC = ATC.
+high_school_microeconomics,model_A,41,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,B,"1D  The greater (higher) the wage elasticity of demand, the (D) smaller the time period."
+high_school_microeconomics,model_A,42,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  The marginal benefit of the fourth hour is likely greater than or equal to the marginal cost of the fourth hour. This is because The student has already spent three hours studying, so The marginal benefit of The fourth hour is likely The same as The marginal benefit of The third hour."
+high_school_microeconomics,model_A,43,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1D  Land refers to real estate.
+high_school_microeconomics,model_A,44,3,20-40-30-10,20,40,30,10,1,False,20,False,0,C,A,"1C  If corn is produced in a perfectly competitive market and the government placed aprice ceilingabove equilibrium,whichofthe followingwouldbetruetoCTherewouldbeasurpluscreatedofcorn."
+high_school_microeconomics,model_A,45,3,30-40-10-20,30,40,10,20,1,False,30,False,0,D,A,"1D  If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, the wage would fall, but employment would increase."
+high_school_microeconomics,model_A,46,3,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1D  Economics is the study of scarce resources being allocated to satisfy unlimited wants.
+high_school_microeconomics,model_A,47,3,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1A  A production possibility frontier will be a straight line when efficiency is achieved.
+high_school_microeconomics,model_A,48,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1A  Economics is primarily concerned with money.
+high_school_microeconomics,model_A,49,3,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,2D  The individual firm operating under perfect competition is characterized as a price-taker.
+high_school_microeconomics,model_A,50,3,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2D  3D  4A
+high_school_microeconomics,model_A,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The price of crude oil, a raw material for gasoline, rising would most likely increase the price of gasoline."
+high_school_microeconomics,model_A,52,3,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2A  3D  4D
+high_school_microeconomics,model_A,53,3,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  The correct answer is A. AP rises when MP is above it and falls when MP is below it.  2D  The correct answer is D. A straight diagonal line sloping downward from left toright.  3D  The correct answer is D. Price falls as firms entertheindustry.  4D  The correct answer is D. Expectations ofhigher
+high_school_microeconomics,model_A,54,3,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,"2B  The statement ""Private property is fundamental to innovation, growth, and trade"" is most consistent with a capitalist market economy."
+high_school_microeconomics,model_A,55,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,"1D  The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward."
+high_school_microeconomics,model_A,56,3,20-30-10-40,20,30,10,40,1,False,20,False,0,A,D,"2B  At a Nash equilibrium, neither party has an incentive to deviate from his or her strategy."
+high_school_microeconomics,model_A,57,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1D  2D  3A  4B
+high_school_microeconomics,model_A,58,4,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1A  2D  3C  4C
+high_school_microeconomics,model_A,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,"1A  The government discourages collusion between large firms because collusive output levels tend to increase, driving the price above competitive levels. This leads toConsumerSurplusFallsAsThePriceIsDrivenDownwardJointProfitMaximizationCostsSocietyConsumerSurplusAsThePriceRisesAboveCompetitiveLevel"
+high_school_microeconomics,model_A,60,4,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2A  3B  4D
+high_school_microeconomics,model_A,61,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1D  The government regulates monopolies becauseConsumerSurplusislostwithhigherpricesandlowerlevelsofoutput.
+high_school_microeconomics,model_A,62,4,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  Unlike a perfectly competitive firm, a monopoly faces a downward sloping demand curve."
+high_school_microeconomics,model_A,63,4,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1D  The technological innovation would lead the firm to hire more workers and pay them higher wages.
+high_school_microeconomics,model_A,64,4,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1A  The supply curve for lawn-mowing services is likely to slope upward because of increasing opportunity cost of time.
+high_school_microeconomics,model_A,65,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The MC curve intersects the ATC curve at the minimum point of the ATC curve.
+high_school_microeconomics,model_A,66,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,"2D  The question 2D is ""Which of the following is not the basis for a wage differential?"" The answer D is ""Racial discrimination"" because Racial discrimination is not a basis for wage differential. It is illegal and unethical."
+high_school_microeconomics,model_A,67,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,"1D  The demand for labor is derived from the demand for the products produced by labor. This means that when there is an increase in demand for a product, there will be an increase in demand for labor because more labor is needed to produce more output. Conversely, When there is a decrease in demand"
+high_school_microeconomics,model_A,68,4,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2A  3B  4D
+high_school_microeconomics,model_A,69,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The cross-price elasticity between goods X and Y being +2.0 indicates that goods X and Y are substitute goods. When the price of one good increases, consumers switch to consuming more of the other good.  2A  When price discrimination arises, market segments with relatively elastic demand pay hig"
+high_school_microeconomics,model_A,70,4,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2D  The opportunity cost refers to the value of the next best alternative forgone.
+high_school_microeconomics,model_A,71,4,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,"2  D  Compared to perfect competition in the long run, monopoly has price greater than marginal revenue."
+high_school_microeconomics,model_A,72,4,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1B  An increase in the price of tubas will increase wages for tuba makers because tuba makers will demand Tubas.
+high_school_microeconomics,model_A,73,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1C  The owner of a competitive firm making zero economic profit (C) is making exactly what she would make in her next best alternative job.
+high_school_microeconomics,model_A,74,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,"1B  Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate apriceof$125fortheentiretwohours.  WhichofthefollowingstatementsistruethroughputThe  TheProducerSurplusisgreaterthanConsumerSurplusbybetween$5"
+high_school_microeconomics,model_A,75,4,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1D  Consumer surplus is the difference between the consumer's value and the market price.
+high_school_microeconomics,model_A,76,4,10-30-40-20,10,30,40,20,2,False,30,False,0,A,C,2  Scarcity is best defined as (A) the difference between limited wants and limited economic resources.
+high_school_microeconomics,model_A,77,5,20-40-10-30,20,40,10,30,2,False,40,False,0,A,D,"2  Unlike a perfectly competitive firm, a monopoly (D) faces a downward sloping demand curve."
+high_school_microeconomics,model_A,78,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  The cross-price elasticity between goods X and Y being +2.0 indicates that goods X and Y are substitute goods. When the price of substitute goods increases (or decreases), demand increases (or decreases) proportionally.  2A  The characteristic of perfect competition is that firms produce a homog"
+high_school_microeconomics,model_A,79,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,"1D  The government would regulate a natural monopoly so that it produces an allocatively efficient level of output by setting the output where price equals marginal cost. This ensures that the output level maximizes social welfare.  2D  If a business wants to increase its revenue, it should decrease"
+high_school_microeconomics,model_A,80,5,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  The implicit costs of a ""Mom & Pop"" owned business are equal to earnings or profits that could have occurred using resources elsewhere."
+high_school_microeconomics,model_A,81,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,"1A  When a perfectly competitive labor market isin equilibrium, (A)everyonewho wantstoworkhastheopportunitytodoSo."
+high_school_microeconomics,model_A,82,5,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The perfectly competitive price being currently above minimum ATC indicates that firms are currently making economic profits. In the long run, economic profits will attract new firms into the industry. This will lead to anincreaseintheMarketEquilibriumQuantityasFirmsExitTheIndustry.ThereforeTheC"
+high_school_microeconomics,model_A,83,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,"2  If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?  A) Both would increase."
+high_school_microeconomics,model_A,84,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,"1A  The correct answer is (A) TC = (AVC + AFC)Q. This represents the Total Cost (TC) formula, which is equal to the sum of Average Variable Cost (AVC) and Average Fixed Cost (AFC) multiplied by the quantity (Q) produced.  2A  The correct answer is (A) The benefit received from studying is greater th"
+high_school_microeconomics,model_A,85,5,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,1D  The basis for a wage differential cannot be Racial Discrimination.
+high_school_microeconomics,model_A,86,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1A  Economics is best described as (A)thestudyofhowscarcesmaterialwantsareallocatedbetweenunlimItedresources.
+high_school_microeconomics,model_A,87,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"3D  A bumper crop of oranges would shift the supply curve to the right, resulting in a decrease in the price of orange juice. A decrease in the price of Tang would shift the demand curve to the left. Expectations of lower future prices would shift the demand curve to the left. Expectations of higher"
+high_school_microeconomics,model_A,88,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,"1A  The firm should increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. This will ensure that the marginal product of labor remains greater than the marginal product of capital, maximizing profit."
+high_school_microeconomics,model_A,89,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B  The quantity demanded equals the quantity supplied of good X.
+high_school_microeconomics,model_A,90,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,"1B  The UnitedStateshascomparativeadvantageinsalmonproduction,andPeruhascomparativeadvantageinanchovyproduction."
+high_school_microeconomics,model_A,91,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,"1A  The market structures of perfect competition and monopolistic competition share Ease of entry and exit in the long run.  2D  Economics is the study of How scarce resources are allocated to satisfy unlimited wants.  3B  If a market is organized by a cartel, we can expect An incentive for cartel f"
+high_school_microeconomics,model_A,92,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"1C  The characteristic of monopolistic competition that matches ""Excess capacity"" isC."
+high_school_microeconomics,model_A,93,5,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2D  3C  4B
+high_school_microeconomics,model_A,94,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2A  An example of aneconomicrentisASuperstarBasketballPlayer's$50MillionEarnings.
+high_school_microeconomics,model_A,95,5,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2B  3B  4A
+high_school_microeconomics,model_A,96,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The profit-maximizing decision to shut down is made when the price falls below minimum average variable cost.

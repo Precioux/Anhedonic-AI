@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_pos1,pts_pos2,pts_pos3,pts_pos4
+abstract_algebra,baseline,1,1,10-40-30-20,2,False,40,False,0,,D,2,10,40,30,20
+abstract_algebra,baseline,2,1,30-20-40-10,3,False,40,False,0,,D,3,30,20,40,10
+abstract_algebra,baseline,3,1,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+abstract_algebra,baseline,4,1,10-30-20-40,4,False,40,False,0,,B,4,10,30,20,40
+abstract_algebra,baseline,5,1,40-20-10-30,1,False,40,False,0,D,C,"1. (D) (3,6)",40,20,10,30
+abstract_algebra,baseline,6,1,20-40-10-30,2,False,40,False,0,,C,2,20,40,10,30
+abstract_algebra,baseline,7,1,20-10-40-30,3,False,40,False,0,,C,3,20,10,40,30
+abstract_algebra,baseline,8,1,30-10-40-20,3,False,40,False,0,,C,3,30,10,40,20
+abstract_algebra,baseline,9,1,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+abstract_algebra,baseline,10,1,40-10-20-30,4,False,30,False,0,,A,4,40,10,20,30
+abstract_algebra,baseline,11,1,10-30-40-20,3,False,40,False,0,,B,3,10,30,40,20
+abstract_algebra,baseline,12,1,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+abstract_algebra,baseline,13,1,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+abstract_algebra,baseline,14,1,10-20-40-30,3,False,40,False,0,,C,3,10,20,40,30
+abstract_algebra,baseline,15,1,20-30-10-40,4,False,40,False,0,,B,4,20,30,10,40
+abstract_algebra,baseline,16,1,20-40-30-10,2,False,40,False,0,,A,2,20,40,30,10
+abstract_algebra,baseline,17,1,10-30-20-40,4,False,40,False,0,,C,4,10,30,20,40
+abstract_algebra,baseline,18,1,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+abstract_algebra,baseline,19,1,40-10-20-30,1,False,40,False,0,,A,1,40,10,20,30
+abstract_algebra,baseline,20,2,10-30-20-40,4,False,40,False,0,,D,4,10,30,20,40
+abstract_algebra,baseline,21,2,30-20-10-40,4,False,40,False,0,,C,4,30,20,10,40
+abstract_algebra,baseline,22,2,20-10-40-30,3,False,40,False,0,,C,3,20,10,40,30
+abstract_algebra,baseline,23,2,10-20-30-40,4,False,40,False,0,,A,4,10,20,30,40
+abstract_algebra,baseline,24,2,30-40-20-10,2,False,40,False,0,,C,2,30,40,20,10
+abstract_algebra,baseline,25,2,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+abstract_algebra,baseline,26,2,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+abstract_algebra,baseline,27,2,30-40-10-20,2,False,40,False,0,,A,2,30,40,10,20
+abstract_algebra,baseline,28,2,40-30-20-10,1,False,40,False,0,C,B,1. C,40,30,20,10
+abstract_algebra,baseline,29,2,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+abstract_algebra,baseline,30,2,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+abstract_algebra,baseline,31,2,10-20-30-40,4,False,40,False,0,,A,4,10,20,30,40
+abstract_algebra,baseline,32,2,30-40-10-20,2,False,40,False,0,,C,2,30,40,10,20
+abstract_algebra,baseline,33,2,20-10-40-30,3,False,40,False,0,,C,3,20,10,40,30
+abstract_algebra,baseline,34,2,40-10-30-20,1,False,40,False,0,,C,1,40,10,30,20
+abstract_algebra,baseline,35,2,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+abstract_algebra,baseline,36,2,20-40-10-30,2,False,40,False,0,,C,2,20,40,10,30
+abstract_algebra,baseline,37,2,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+abstract_algebra,baseline,38,2,30-40-10-20,2,False,40,False,0,,C,2,30,40,10,20
+abstract_algebra,baseline,39,3,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+abstract_algebra,baseline,40,3,10-30-40-20,3,False,40,False,0,,D,3,10,30,40,20
+abstract_algebra,baseline,41,3,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+abstract_algebra,baseline,42,3,40-30-20-10,1,False,40,False,0,,A,1,40,30,20,10
+abstract_algebra,baseline,43,3,10-30-40-20,3,False,40,False,0,,D,3,10,30,40,20
+abstract_algebra,baseline,44,3,30-10-20-40,4,False,40,False,0,,C,4,30,10,20,40
+abstract_algebra,baseline,45,3,20-30-10-40,4,False,40,False,0,,D,4,20,30,10,40
+abstract_algebra,baseline,46,3,10-30-40-20,3,False,40,False,0,,D,3,10,30,40,20
+abstract_algebra,baseline,47,3,40-10-30-20,1,False,40,False,0,,B,1,40,10,30,20
+abstract_algebra,baseline,48,3,10-20-40-30,3,False,40,False,0,,B,3,10,20,40,30
+abstract_algebra,baseline,49,3,20-40-10-30,2,False,40,False,0,,A,2,20,40,10,30
+abstract_algebra,baseline,50,3,40-30-20-10,1,False,40,False,0,,D,1,40,30,20,10
+abstract_algebra,baseline,51,3,40-20-30-10,1,False,40,True,40,A,A,1. A,40,20,30,10
+abstract_algebra,baseline,52,3,30-10-20-40,4,False,40,True,40,B,B,"4, B",30,10,20,40
+abstract_algebra,baseline,53,3,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+abstract_algebra,baseline,54,3,20-30-10-40,4,False,40,False,0,,C,4,20,30,10,40
+abstract_algebra,baseline,55,3,40-20-30-10,1,False,40,False,0,C,A,1. (C) 4,40,20,30,10
+abstract_algebra,baseline,56,3,20-10-30-40,4,False,40,False,0,,B,4,20,10,30,40
+abstract_algebra,baseline,57,3,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+abstract_algebra,baseline,58,4,40-30-10-20,1,False,40,False,0,,B,1,40,30,10,20
+abstract_algebra,baseline,59,4,20-40-30-10,2,False,40,False,0,,C,2,20,40,30,10
+abstract_algebra,baseline,60,4,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+abstract_algebra,baseline,61,4,30-10-20-40,4,False,40,False,0,,D,4,30,10,20,40
+abstract_algebra,baseline,62,4,40-10-30-20,1,False,40,True,40,C,C,1. C,40,10,30,20
+abstract_algebra,baseline,63,4,10-40-30-20,2,False,40,False,0,,B,2,10,40,30,20
+abstract_algebra,baseline,64,4,40-30-20-10,1,False,40,False,0,,D,1,40,30,20,10
+abstract_algebra,baseline,65,4,40-20-10-30,4,False,30,False,0,,D,4,40,20,10,30
+abstract_algebra,baseline,66,4,40-10-30-20,1,False,40,False,0,,A,1,40,10,30,20
+abstract_algebra,baseline,67,4,40-20-10-30,1,False,40,False,0,,C,1,40,20,10,30
+abstract_algebra,baseline,68,4,10-40-30-20,2,False,40,False,0,,B,2,10,40,30,20
+abstract_algebra,baseline,69,4,40-20-30-10,1,False,40,False,0,,C,1,40,20,30,10
+abstract_algebra,baseline,70,4,20-30-40-10,3,False,40,False,0,,C,3,20,30,40,10
+abstract_algebra,baseline,71,4,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+abstract_algebra,baseline,72,4,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+abstract_algebra,baseline,73,4,40-10-20-30,1,False,40,True,40,C,C,1. C,40,10,20,30
+abstract_algebra,baseline,74,4,30-20-40-10,3,False,40,False,0,,B,3,30,20,40,10
+abstract_algebra,baseline,75,4,20-30-10-40,4,False,40,False,0,,A,4,20,30,10,40
+abstract_algebra,baseline,76,4,10-40-30-20,2,False,40,False,0,,B,2,10,40,30,20
+abstract_algebra,baseline,77,5,40-30-10-20,1,False,40,True,40,B,B,1. B,40,30,10,20
+abstract_algebra,baseline,78,5,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+abstract_algebra,baseline,79,5,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+abstract_algebra,baseline,80,5,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+abstract_algebra,baseline,81,5,30-20-40-10,3,False,40,False,0,,C,3,30,20,40,10
+abstract_algebra,baseline,82,5,40-20-10-30,1,False,40,False,0,,B,1,40,20,10,30
+abstract_algebra,baseline,83,5,30-20-40-10,3,False,40,False,0,,C,3,30,20,40,10
+abstract_algebra,baseline,84,5,40-10-20-30,1,False,40,True,40,A,A,1. A,40,10,20,30
+abstract_algebra,baseline,85,5,40-30-10-20,1,False,40,False,0,,D,1,40,30,10,20
+abstract_algebra,baseline,86,5,10-40-20-30,2,False,40,False,0,,D,2,10,40,20,30
+abstract_algebra,baseline,87,5,20-40-10-30,2,False,40,False,0,,B,2,20,40,10,30
+abstract_algebra,baseline,88,5,30-10-20-40,4,False,40,False,0,,D,4,30,10,20,40
+abstract_algebra,baseline,89,5,10-20-30-40,4,False,40,False,0,,B,4,10,20,30,40
+abstract_algebra,baseline,90,5,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+abstract_algebra,baseline,91,5,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+abstract_algebra,baseline,92,5,30-10-40-20,3,False,40,False,0,,C,3,30,10,40,20
+abstract_algebra,baseline,93,5,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+abstract_algebra,baseline,94,5,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+abstract_algebra,baseline,95,5,10-30-20-40,4,False,40,False,0,,C,4,10,30,20,40
+abstract_algebra,baseline,96,5,40-20-30-10,1,False,40,False,0,,A,1,40,20,30,10
+abstract_algebra,model_A,1,1,10-40-30-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,40,30,20
+abstract_algebra,model_A,2,1,30-20-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,20,40,10
+abstract_algebra,model_A,3,1,30-40-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,30,40,20,10
+abstract_algebra,model_A,4,1,10-30-20-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,10,30,20,40
+abstract_algebra,model_A,5,1,40-20-10-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,40,20,10,30
+abstract_algebra,model_A,6,1,20-40-10-30,4,False,30,True,30,D,D,I choose question number 4 and answer it with D.,20,40,10,30
+abstract_algebra,model_A,7,1,20-10-40-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,20,10,40,30
+abstract_algebra,model_A,8,1,30-10-40-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,10,40,20
+abstract_algebra,model_A,9,1,30-20-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,20,10,40
+abstract_algebra,model_A,10,1,40-10-20-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,40,10,20,30
+abstract_algebra,model_A,11,1,10-30-40-20,4,False,20,False,0,D,A,I choose question number 4 and answer it with D.,10,30,40,20
+abstract_algebra,model_A,12,1,20-30-40-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,20,30,40,10
+abstract_algebra,model_A,13,1,10-20-40-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,20,40,30
+abstract_algebra,model_A,14,1,10-20-40-30,3,False,40,False,0,D,C,I choose question number 3 and answer it with option D.,10,20,40,30
+abstract_algebra,model_A,15,1,20-30-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,20,30,10,40
+abstract_algebra,model_A,16,1,20-40-30-10,2,False,40,False,0,D,A,"I choose question number 2 and my answer is (D) False, True.",20,40,30,10
+abstract_algebra,model_A,17,1,10-30-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,30,20,40
+abstract_algebra,model_A,18,1,10-40-20-30,4,False,30,False,0,D,A,I choose question number 4 and answer it with D.,10,40,20,30
+abstract_algebra,model_A,19,1,40-10-20-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,40,10,20,30
+abstract_algebra,model_A,20,2,10-30-20-40,3,False,20,False,0,B,C,I choose question number 3 and answer it with B.,10,30,20,40
+abstract_algebra,model_A,21,2,30-20-10-40,3,False,10,False,0,B,C,I choose question 3 and answer it with B.,30,20,10,40
+abstract_algebra,model_A,22,2,20-10-40-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,20,10,40,30
+abstract_algebra,model_A,23,2,10-20-30-40,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) 22.,10,20,30,40
+abstract_algebra,model_A,24,2,30-40-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,30,40,20,10
+abstract_algebra,model_A,25,2,30-40-20-10,3,False,20,True,20,B,B,I choose question number 3 and answer it with B.,30,40,20,10
+abstract_algebra,model_A,26,2,10-40-20-30,4,False,30,True,30,D,D,I choose question number 4 and my answer is D.,10,40,20,30
+abstract_algebra,model_A,27,2,30-40-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,40,10,20
+abstract_algebra,model_A,28,2,40-30-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,30,20,10
+abstract_algebra,model_A,29,2,30-10-40-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,10,40,20
+abstract_algebra,model_A,30,2,20-30-40-10,4,False,10,True,10,D,D,I choose question 4 and answer it with D.,20,30,40,10
+abstract_algebra,model_A,31,2,10-20-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,10,20,30,40
+abstract_algebra,model_A,32,2,30-40-10-20,4,False,20,False,0,C,B,I choose question number 4 and the answer is C infinitely many.,30,40,10,20
+abstract_algebra,model_A,33,2,20-10-40-30,3,False,40,False,0,D,C,I choose question number 3 and answer it with option D.,20,10,40,30
+abstract_algebra,model_A,34,2,40-10-30-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,40,10,30,20
+abstract_algebra,model_A,35,2,10-20-30-40,3,False,30,True,30,D,D,I choose question 3 and answer it with D.,10,20,30,40
+abstract_algebra,model_A,36,2,20-40-10-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,20,40,10,30
+abstract_algebra,model_A,37,2,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,10,30,40
+abstract_algebra,model_A,38,2,30-40-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,40,10,20
+abstract_algebra,model_A,39,3,10-20-40-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,10,20,40,30
+abstract_algebra,model_A,40,3,10-30-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,30,40,20
+abstract_algebra,model_A,41,3,20-30-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,30,40,10
+abstract_algebra,model_A,42,3,40-30-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,40,30,20,10
+abstract_algebra,model_A,43,3,10-30-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,30,40,20
+abstract_algebra,model_A,44,3,30-10-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,30,10,20,40
+abstract_algebra,model_A,45,3,20-30-10-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,20,30,10,40
+abstract_algebra,model_A,46,3,10-30-40-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,10,30,40,20
+abstract_algebra,model_A,47,3,40-10-30-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,40,10,30,20
+abstract_algebra,model_A,48,3,10-20-40-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,10,20,40,30
+abstract_algebra,model_A,49,3,20-40-10-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,20,40,10,30
+abstract_algebra,model_A,50,3,40-30-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,30,20,10
+abstract_algebra,model_A,51,3,40-20-30-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,40,20,30,10
+abstract_algebra,model_A,52,3,30-10-20-40,4,False,40,False,0,D,B,I choose question 4 and the answer is D.,30,10,20,40
+abstract_algebra,model_A,53,3,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+abstract_algebra,model_A,54,3,20-30-10-40,4,False,40,False,0,D,C,I choose question 4 and the answer is D.,20,30,10,40
+abstract_algebra,model_A,55,3,40-20-30-10,4,False,10,False,0,D,C,I choose question 4 and the answer is D.,40,20,30,10
+abstract_algebra,model_A,56,3,20-10-30-40,4,False,40,False,0,D,B,I choose question number 4 and answer it with D.,20,10,30,40
+abstract_algebra,model_A,57,3,30-10-40-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,10,40,20
+abstract_algebra,model_A,58,4,40-30-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is (D) 6.,40,30,10,20
+abstract_algebra,model_A,59,4,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+abstract_algebra,model_A,60,4,40-30-10-20,4,False,20,False,0,C,B,I choose question number 4 and the answer is C.,40,30,10,20
+abstract_algebra,model_A,61,4,30-10-20-40,3,False,20,False,0,C,B,I choose question number 3 and answer it with C. There are infinitely many homomorphisms of Z into Z_2.,30,10,20,40
+abstract_algebra,model_A,62,4,40-10-30-20,3,False,30,False,0,C,D,I choose question number 3 and answer it with C.,40,10,30,20
+abstract_algebra,model_A,63,4,10-40-30-20,4,False,20,True,20,D,D,I choose question number 4 and answer it with D.,10,40,30,20
+abstract_algebra,model_A,64,4,40-30-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,30,20,10
+abstract_algebra,model_A,65,4,40-20-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,20,10,30
+abstract_algebra,model_A,66,4,40-10-30-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,40,10,30,20
+abstract_algebra,model_A,67,4,40-20-10-30,1,False,40,False,0,D,C,I choose question number 1 and the answer is (D) -i.,40,20,10,30
+abstract_algebra,model_A,68,4,10-40-30-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,10,40,30,20
+abstract_algebra,model_A,69,4,40-20-30-10,4,False,10,False,0,D,C,I choose question number 4 and answer it with D.,40,20,30,10
+abstract_algebra,model_A,70,4,20-30-40-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,30,40,10
+abstract_algebra,model_A,71,4,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,10,30,40
+abstract_algebra,model_A,72,4,30-20-10-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,30,20,10,40
+abstract_algebra,model_A,73,4,40-10-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,10,20,30
+abstract_algebra,model_A,74,4,30-20-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,20,40,10
+abstract_algebra,model_A,75,4,20-30-10-40,1,False,20,False,0,D,C,I choose question number 1 and the answer is (D) 105.,20,30,10,40
+abstract_algebra,model_A,76,4,10-40-30-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,40,30,20
+abstract_algebra,model_A,77,5,40-30-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,40,30,10,20
+abstract_algebra,model_A,78,5,10-40-20-30,1,False,10,False,0,D,C,I choose question 1 and the answer is (D) 6.,10,40,20,30
+abstract_algebra,model_A,79,5,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and answer it with D.,20,10,30,40
+abstract_algebra,model_A,80,5,30-40-20-10,4,False,10,False,0,,C,I choose question number 4.   The polynomial x^3 + 2x^2 + 2x + 1 can be factored into linear factors in Z_7[x]. Find this factorization. (A) (x − 2)(x + 2)(x − 1) (B) (x + 1)(x + 4)(x −,30,40,20,10
+abstract_algebra,model_A,81,5,30-20-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,20,40,10
+abstract_algebra,model_A,82,5,40-20-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,20,10,30
+abstract_algebra,model_A,83,5,30-20-40-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,30,20,40,10
+abstract_algebra,model_A,84,5,40-10-20-30,1,False,40,False,0,D,A,I choose question number 1 and the answer is (D) 10.,40,10,20,30
+abstract_algebra,model_A,85,5,40-30-10-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,40,30,10,20
+abstract_algebra,model_A,86,5,10-40-20-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,10,40,20,30
+abstract_algebra,model_A,87,5,20-40-10-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,20,40,10,30
+abstract_algebra,model_A,88,5,30-10-20-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,30,10,20,40
+abstract_algebra,model_A,89,5,10-20-30-40,3,False,30,False,0,C,A,I choose question 3 and answer it with C.,10,20,30,40
+abstract_algebra,model_A,90,5,30-20-10-40,4,False,40,True,40,B,B,I choose question number 4. The answer is (B) 3.,30,20,10,40
+abstract_algebra,model_A,91,5,20-10-40-30,1,False,20,False,0,D,C,I choose question number 1 and the answer is (D) -i.,20,10,40,30
+abstract_algebra,model_A,92,5,30-10-40-20,4,False,20,False,0,D,A,I choose question number 4 and answer it with D.,30,10,40,20
+abstract_algebra,model_A,93,5,30-40-10-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,30,40,10,20
+abstract_algebra,model_A,94,5,20-40-30-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,20,40,30,10
+abstract_algebra,model_A,95,5,10-30-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,30,20,40
+abstract_algebra,model_A,96,5,40-20-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,40,20,30,10

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+clinical_knowledge,baseline,1,1,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+clinical_knowledge,baseline,2,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+clinical_knowledge,baseline,3,1,10-40-30-20,10,40,30,20,2,False,40,False,0,D,C,2 D
+clinical_knowledge,baseline,4,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+clinical_knowledge,baseline,5,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+clinical_knowledge,baseline,6,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+clinical_knowledge,baseline,7,1,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1. B
+clinical_knowledge,baseline,8,1,20-10-40-30,20,10,40,30,3,False,40,False,0,D,A,3 D
+clinical_knowledge,baseline,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+clinical_knowledge,baseline,10,1,20-10-30-40,20,10,30,40,4,False,40,False,0,,C,4
+clinical_knowledge,baseline,11,1,10-30-20-40,10,30,20,40,1,False,10,False,0,D,B,1. D
+clinical_knowledge,baseline,12,1,10-20-30-40,10,20,30,40,2,False,20,False,0,B,A,2 B
+clinical_knowledge,baseline,13,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+clinical_knowledge,baseline,14,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1 D
+clinical_knowledge,baseline,15,1,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2 A
+clinical_knowledge,baseline,16,1,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+clinical_knowledge,baseline,17,1,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1 D
+clinical_knowledge,baseline,18,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,1. C
+clinical_knowledge,baseline,19,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1. D
+clinical_knowledge,baseline,20,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+clinical_knowledge,baseline,21,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,A,2 B
+clinical_knowledge,baseline,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1 B
+clinical_knowledge,baseline,23,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+clinical_knowledge,baseline,24,2,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+clinical_knowledge,baseline,25,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,A,2 B
+clinical_knowledge,baseline,26,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1. A muscle fibre relaxes when: (A) the nerve stimulus is removed.
+clinical_knowledge,baseline,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+clinical_knowledge,baseline,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1 C
+clinical_knowledge,baseline,29,2,20-30-40-10,20,30,40,10,1,False,20,False,0,C,B,1. C
+clinical_knowledge,baseline,30,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+clinical_knowledge,baseline,31,2,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+clinical_knowledge,baseline,32,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+clinical_knowledge,baseline,33,2,10-20-30-40,10,20,30,40,2,False,20,False,0,D,B,2 D
+clinical_knowledge,baseline,34,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+clinical_knowledge,baseline,35,2,10-40-30-20,10,40,30,20,2,False,40,False,0,D,C,2 D
+clinical_knowledge,baseline,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1 D
+clinical_knowledge,baseline,37,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+clinical_knowledge,baseline,38,2,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C 2. D 3. D 4. B
+clinical_knowledge,baseline,39,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,C,1 D
+clinical_knowledge,baseline,40,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+clinical_knowledge,baseline,41,3,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1 B
+clinical_knowledge,baseline,42,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1. A
+clinical_knowledge,baseline,43,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+clinical_knowledge,baseline,44,3,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+clinical_knowledge,baseline,45,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+clinical_knowledge,baseline,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+clinical_knowledge,baseline,47,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+clinical_knowledge,baseline,48,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1 D
+clinical_knowledge,baseline,49,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+clinical_knowledge,baseline,50,3,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1 D
+clinical_knowledge,baseline,51,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1. D
+clinical_knowledge,baseline,52,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1. D
+clinical_knowledge,baseline,53,3,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+clinical_knowledge,baseline,54,3,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+clinical_knowledge,baseline,55,3,30-40-10-20,30,40,10,20,2,False,40,False,0,C,A,2 C
+clinical_knowledge,baseline,56,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+clinical_knowledge,baseline,57,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1. A
+clinical_knowledge,baseline,58,4,10-20-40-30,10,20,40,30,3,False,40,False,0,C,D,3 C
+clinical_knowledge,baseline,59,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+clinical_knowledge,baseline,60,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+clinical_knowledge,baseline,61,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+clinical_knowledge,baseline,62,4,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1 D
+clinical_knowledge,baseline,63,4,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+clinical_knowledge,baseline,64,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+clinical_knowledge,baseline,65,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+clinical_knowledge,baseline,66,4,30-40-20-10,30,40,20,10,2,False,40,False,0,B,C,2 B
+clinical_knowledge,baseline,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+clinical_knowledge,baseline,68,4,30-40-20-10,30,40,20,10,2,False,40,True,40,C,C,2 C
+clinical_knowledge,baseline,69,4,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1 D
+clinical_knowledge,baseline,70,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+clinical_knowledge,baseline,71,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+clinical_knowledge,baseline,72,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+clinical_knowledge,baseline,73,4,20-10-40-30,20,10,40,30,3,False,40,True,40,B,B,3 B
+clinical_knowledge,baseline,74,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C 2. D 3. D 4. B
+clinical_knowledge,baseline,75,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+clinical_knowledge,baseline,76,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+clinical_knowledge,baseline,77,5,30-20-40-10,30,20,40,10,3,False,40,True,40,C,C,3 C
+clinical_knowledge,baseline,78,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1 D
+clinical_knowledge,baseline,79,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1 A
+clinical_knowledge,baseline,80,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+clinical_knowledge,baseline,81,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+clinical_knowledge,baseline,82,5,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,2 A
+clinical_knowledge,baseline,83,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+clinical_knowledge,baseline,84,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1. D
+clinical_knowledge,baseline,85,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+clinical_knowledge,baseline,86,5,10-30-40-20,10,30,40,20,2,False,30,False,0,B,C,2 B
+clinical_knowledge,baseline,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1 D
+clinical_knowledge,baseline,88,5,10-30-20-40,10,30,20,40,1,False,10,False,0,D,B,1. D
+clinical_knowledge,baseline,89,5,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1. B
+clinical_knowledge,baseline,90,5,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+clinical_knowledge,baseline,91,5,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+clinical_knowledge,baseline,92,5,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+clinical_knowledge,baseline,93,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+clinical_knowledge,baseline,94,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+clinical_knowledge,baseline,95,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+clinical_knowledge,baseline,96,5,20-40-30-10,20,40,30,10,1,False,20,False,0,C,B,1. C
+clinical_knowledge,model_A,1,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,2D  TheEarlyWarningScore(EWS)shouldbeassessedinanypatientwhoisacutelyunwellpre-operativelyorpost-operativelyandthosewhohaveundergonemajorsurgery.
+clinical_knowledge,model_A,2,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  Oxygen is consumed in the TCA cycle.
+clinical_knowledge,model_A,3,1,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,"2D  If a patient is cyanosed, their oxygen saturation level might be 85% or above."
+clinical_knowledge,model_A,4,1,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1A  The ability to regulate body temperature is not important for success in endurance events such as the marathon race.
+clinical_knowledge,model_A,5,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The optimum position for performing CPR is to position the patient flat on a firm surface.
+clinical_knowledge,model_A,6,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,1A  Women's world record performances have improved rapidly in recent years mainly because More women are now engaged in sport.
+clinical_knowledge,model_A,7,1,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  If a transfusion reaction is suspected, you should turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions."
+clinical_knowledge,model_A,8,1,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,3D
+clinical_knowledge,model_A,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D  During CPR chest compressions and ventilations should be delivered in a ratio of 30:2.
+clinical_knowledge,model_A,10,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2B  3C  4C
+clinical_knowledge,model_A,11,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B  An ileostomy opening shouldbe3-5cminlength.
+clinical_knowledge,model_A,12,1,10-20-30-40,10,20,30,40,1,False,10,False,0,,C,2B
+clinical_knowledge,model_A,13,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  The nurse might think a patient could not use an inhaler if they have poor technique, physical impairment, or lack of understanding."
+clinical_knowledge,model_A,14,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1D
+clinical_knowledge,model_A,15,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,2D  A patient cannot talk if the cuff is inflated because It is too tiring.
+clinical_knowledge,model_A,16,1,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 The trigger to initiate the contractile process in skeletal muscle is (D) calcium binding to troponin.
+clinical_knowledge,model_A,17,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,"2A  Prior to undergoing a painful procedure, a patient should be informed about whattoexpectandhowtheirpainwillbecontrolledasaThisisassociatedwithAReductioninanxietyandperceivedpainintensityBAnincreaseduseofanalgesiaCADecreaseinthefrequencyofpain-relatedproblemssuchasNauseaandVomitingDAnincreaseduri"
+clinical_knowledge,model_A,18,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,1C  The ATP store in muscle can only supply energy in high intensity exercise for about 10 seconds.
+clinical_knowledge,model_A,19,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1D  A pulsation in the neck that reduces when pressure is applied to the root of theneck suggests thatitisarterial.
+clinical_knowledge,model_A,20,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1B  The minimum time a stretch should be held for is 10-30 seconds.
+clinical_knowledge,model_A,21,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,2C  The correct answer is (C) Forceps wrapped in gauze.
+clinical_knowledge,model_A,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B
+clinical_knowledge,model_A,23,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A
+clinical_knowledge,model_A,24,2,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  The enzymes of glycolysis are located in the cytoplasm.
+clinical_knowledge,model_A,25,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,"2B  Ammonia, urea, and creatinine are products of ADP degradation."
+clinical_knowledge,model_A,26,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A  A muscle fibre relaxes when the nerve stimulus is removed.
+clinical_knowledge,model_A,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,"1A  Prior to undergoing a painful procedure, a patient should be informed about whattoexpectandhowtheirpainwillbecontrolledasaThisisassociatedwithAReductioninanxietyandperceivedpainintensityBAnincreaseduseofanalgesiaCADecreaseinthefrequencyofpain-relatedproblemssuchasNauseaandVomitingDAnincreaseduri"
+clinical_knowledge,model_A,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,"1C  The correct answer is 1C. Accordingto2020medicalknowledge,OnceaprescribedunitofbloodproducthasbeenobtainedfromthebloodbankandisoutoffreezerefrigerationThetransfusionshouldcommencewithin4hoursbeforeitstarts todeteriorate."
+clinical_knowledge,model_A,29,2,20-30-40-10,20,30,40,10,1,False,20,False,0,C,B,1C
+clinical_knowledge,model_A,30,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2A  3C  4C
+clinical_knowledge,model_A,31,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A
+clinical_knowledge,model_A,32,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D
+clinical_knowledge,model_A,33,2,10-20-30-40,10,20,30,40,2,False,20,False,0,A,B,2 The process not used to modify protein structure after translation has occurred is (A) Lipidation.
+clinical_knowledge,model_A,34,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The number of different types of microorganisms that may colonize the mouth is 350.
+clinical_knowledge,model_A,35,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2D
+clinical_knowledge,model_A,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1D  The question asks Which of the following is true of haematemesis? The answer D) An alcohol history is not essential. is incorrect. An alcohol history is essential as it can be a contributing factor to haematemesis. The correct answer would be A) A low blood pressure (<90mmHg systolic) and a tach
+clinical_knowledge,model_A,37,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  Phosphocreatine resynthesis during recovery from exercise is inhibited by an excess of creatine.
+clinical_knowledge,model_A,38,2,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  Patients with the apolipoprotein E gene are at risk of Alzheimer's disease.
+clinical_knowledge,model_A,39,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,C,1D  Fast-twitch fibres contain a relatively large number of mitochondria and high ATPase activity.
+clinical_knowledge,model_A,40,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1D  Blood clots are responsible for repeatedly blocking a catheter. What should you do? Remove the catheter and recatheterize.
+clinical_knowledge,model_A,41,3,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1B  The term gene doping referstotheuseofgeneticmanipulationtechniquestoenhanceperformanceinsport.
+clinical_knowledge,model_A,42,3,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2C  3A  4D
+clinical_knowledge,model_A,43,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A
+clinical_knowledge,model_A,44,3,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+clinical_knowledge,model_A,45,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A
+clinical_knowledge,model_A,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,"1D  When teaching a patient inhaler technique, asking them to hold their breath at the end of the inspiration will ensure that a large proportion of the drug reaches the lower airways. This is becauseholdingthebreathallowsmoretimeforthebronchodilatortopenetrateintothebronchiolesandalveoli."
+clinical_knowledge,model_A,47,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  During CPR chest compressions and ventilations should be delivered in a ratio of 30:2.
+clinical_knowledge,model_A,48,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1D  Grade 1/5 power represents no movement or muscle contraction.
+clinical_knowledge,model_A,49,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,3B  Pregnancy is a predisposing factor in causing haemorrhoids.
+clinical_knowledge,model_A,50,3,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,"1D  If a patient is cyanosed, their oxygen saturation level might be 85% or above."
+clinical_knowledge,model_A,51,3,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2D  Phosphofructokinase is not the rate-limiting enzyme in glycolysis. The rate-limiting enzyme is hexokinase.
+clinical_knowledge,model_A,52,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1D  The strength of Adrenaline 1 in 1000 means 1mg/mL.
+clinical_knowledge,model_A,53,3,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+clinical_knowledge,model_A,54,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1 A  The amount of dopamine received by a 65kg person would be 156mg/hour.
+clinical_knowledge,model_A,55,3,30-40-10-20,30,40,10,20,2,False,40,False,0,C,A,2 C
+clinical_knowledge,model_A,56,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1D
+clinical_knowledge,model_A,57,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1A  Oxygen is used in glycolysis.
+clinical_knowledge,model_A,58,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,3D
+clinical_knowledge,model_A,59,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The availability of body stores of carbohydrate is important for success in endurance events such as the marathon race. Muscle ATP and phosphocreatine content are important for short-term energy production.
+clinical_knowledge,model_A,60,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A
+clinical_knowledge,model_A,61,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A  Hypernatraemic dehydration occurs when water intake is less than is needed to maintain balance.
+clinical_knowledge,model_A,62,4,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,"1D  The process of Phosphorylation is used to modify protein structure after translation has occurred. Therefore, option D is correct.  2C  The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of 3 molecules of ATP. Therefore, option C is correct.  3D"
+clinical_knowledge,model_A,63,4,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+clinical_knowledge,model_A,64,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  The key attribute in successful marathon running is stamina.
+clinical_knowledge,model_A,65,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  The nurse might think a patient could not use an inhaler if they have poor technique, physical impairment, or lack of understanding."
+clinical_knowledge,model_A,66,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2 The enzymes of glycolysis are located in the cytoplasm.
+clinical_knowledge,model_A,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  Prosthetic groups are tightly bound to enzymes and are required for their activity.
+clinical_knowledge,model_A,68,4,30-40-20-10,30,40,20,10,2,False,40,True,40,C,C,2 C
+clinical_knowledge,model_A,69,4,20-40-10-30,20,40,10,30,1,False,20,False,0,,D,2D  The recommended solution for cleaning the mouth isNormal saline.
+clinical_knowledge,model_A,70,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2D  3A  4B
+clinical_knowledge,model_A,71,4,20-30-40-10,20,30,40,10,2,False,30,False,0,A,D,2  A 30 milligram ampoule of Codeine Phosphate for injection is not a controlled drug.
+clinical_knowledge,model_A,72,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1D  The compatible blood types that can be given to a person with blood group B (rhesus negative) are Blood type B (rhesus negative) only.  2A  The feature that suggests a crackling sound is more likely due to a pleural friction rub than Crackles isMore prominent in expiration.  3A  A muscle fibre r
+clinical_knowledge,model_A,73,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A
+clinical_knowledge,model_A,74,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  Patients with the apolipoprotein E gene are at risk of Alzheimer's disease.
+clinical_knowledge,model_A,75,4,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,"1C  The products of ADP degradation that increase in concentration in the blood during multiple sprint sports are Ammonia, Urea, andCreatinine."
+clinical_knowledge,model_A,76,4,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,1A  The ability to regulate body temperature is not important for success in endurance events such as the marathon race.
+clinical_knowledge,model_A,77,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3 The root value of shoulder abduction is C5.
+clinical_knowledge,model_A,78,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1D  A pulsation in the neck that reduces when pressure is applied to the root of theneck suggests thatitisarterial.
+clinical_knowledge,model_A,79,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"1A  The cuff inflated around the patient's arm prevents air from entering the lungs, making it impossible to breathe. Therefore, the correct answer is (A) They are unable to breathe in sufficiently."
+clinical_knowledge,model_A,80,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The rate limiting enzyme of glycolysis is phosphofructokinase.
+clinical_knowledge,model_A,81,5,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2A  3A  4C
+clinical_knowledge,model_A,82,5,10-30-40-20,10,30,40,20,1,False,10,False,0,A,B,"2A  Prior to undergoing a painful procedure, a patient should be informed about whattoexpectandhowtheirpainwillbecontrolledasaThisisassociatedwithAReductioninanxietyandperceivedpainintensityBAnincreaseduseofanalgesiaCADecreaseinthefrequencyofpain-relatedproblemssuchasNauseaandVomitingDAnincreaseduri"
+clinical_knowledge,model_A,83,5,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,"1B  The typical neurological observation charts include parameters such as temperature, blood pressure, heart rate, respiratory rate, and level of consciousness. Therefore, option (B) Temperature is correct."
+clinical_knowledge,model_A,84,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1D  Hypernatraemic dehydration occurs when blood volume is lost dueto surgery.
+clinical_knowledge,model_A,85,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  Mutations occur spontaneously at a low rate.
+clinical_knowledge,model_A,86,5,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,2B  The group of drugs that may cause a dry mouth is (B) Analgesics.
+clinical_knowledge,model_A,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1D  A sixth nerve palsy causes a divergent squint.
+clinical_knowledge,model_A,88,5,10-30-20-40,10,30,20,40,1,False,10,False,0,A,B,"1A  The correct answer is A. Patient's neck muscles should be relaxed. The timing of the pulsation with the radial pulse is necessary, Good lighting is necessary, and Patient lying at 45 degree angle is necessary."
+clinical_knowledge,model_A,89,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2B
+clinical_knowledge,model_A,90,5,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  Male patients are advised to take theirownelectricrazortohospitaltominimizetheriskofcross-
+clinical_knowledge,model_A,91,5,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The β-oxidation of a molecule of palmitic acid yields 8 molecules of acetyl-CoA and some ATP and water.
+clinical_knowledge,model_A,92,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1A  The daily dose of 960 mg of Cotrimoxazole prescribed every 12 hours would be 1.92 grams.
+clinical_knowledge,model_A,93,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  During CPR chest compressions and ventilations should be delivered in a ratio of 30:2.
+clinical_knowledge,model_A,94,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B
+clinical_knowledge,model_A,95,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C  The enzymes of glycolysis are located in the cytoplasm.
+clinical_knowledge,model_A,96,5,20-40-30-10,20,40,30,10,1,False,20,False,0,C,B,1C  Glycogen breakdown in muscle initially results in the formation of glucose-6-phosphate.

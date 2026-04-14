@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+computer_security,baseline,1,1,1,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,baseline,1,2,1,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,baseline,1,3,1,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,baseline,1,4,1,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,baseline,2,1,1,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,baseline,2,2,1,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,baseline,2,3,1,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,baseline,2,4,1,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,baseline,3,1,1,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,baseline,3,2,1,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,baseline,3,3,1,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,baseline,3,4,1,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,baseline,4,1,1,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,baseline,4,2,1,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,baseline,4,3,1,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,baseline,4,4,1,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,baseline,5,1,1,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,baseline,5,2,1,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,baseline,5,3,1,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,baseline,5,4,1,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,baseline,6,1,1,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,baseline,6,2,1,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,baseline,6,3,1,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,D,1,1,D
+computer_security,baseline,6,4,1,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,baseline,7,1,1,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,baseline,7,2,1,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,baseline,7,3,1,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,baseline,7,4,1,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,baseline,8,1,1,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,A,0,1,A
+computer_security,baseline,8,2,1,nan,0,"It would be impossible for okd to run as a non-root user. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,D,0,1,D
+computer_security,baseline,8,3,1,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,baseline,8,4,1,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,baseline,9,1,1,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,baseline,9,2,1,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,baseline,9,3,1,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,baseline,9,4,1,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,C,0,1,C
+computer_security,baseline,10,1,1,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,baseline,10,2,1,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,baseline,10,3,1,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,baseline,10,4,1,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,baseline,11,1,1,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,baseline,11,2,1,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,baseline,11,3,1,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,baseline,11,4,1,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,baseline,12,1,1,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,baseline,12,2,1,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,baseline,12,3,1,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,baseline,12,4,1,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,baseline,13,1,1,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,baseline,13,2,1,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,baseline,13,3,1,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,baseline,13,4,1,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,baseline,14,1,1,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,baseline,14,2,1,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,baseline,14,3,1,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,baseline,14,4,1,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,baseline,15,1,1,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,baseline,15,2,1,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,B,0,1,B
+computer_security,baseline,15,3,1,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,baseline,15,4,1,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,baseline,16,1,1,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,baseline,16,2,1,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,baseline,16,3,1,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,baseline,16,4,1,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,baseline,17,1,1,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,baseline,17,2,1,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,17,3,1,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,baseline,17,4,1,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,baseline,18,1,1,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,baseline,18,2,1,nan,0,"An attacker reading the plaintext bytes sent by a client. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,C,0,1,C
+computer_security,baseline,18,3,1,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,baseline,18,4,1,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,baseline,19,1,1,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,baseline,19,2,1,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,baseline,19,3,1,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,baseline,19,4,1,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,baseline,20,1,2,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,baseline,20,2,2,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,baseline,20,3,2,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,baseline,20,4,2,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,baseline,21,1,2,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,baseline,21,2,2,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,baseline,21,3,2,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,baseline,21,4,2,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,baseline,22,1,2,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,baseline,22,2,2,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,baseline,22,3,2,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,D,0,1,D
+computer_security,baseline,22,4,2,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,baseline,23,1,2,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,baseline,23,2,2,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,baseline,23,3,2,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,baseline,23,4,2,nan,0,In MD-5 the length of the message digest is (A) 160 (B) 128 (C) 64 (D) 54,B,A,0,1,A
+computer_security,baseline,24,1,2,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,baseline,24,2,2,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,baseline,24,3,2,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,baseline,24,4,2,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,baseline,25,1,2,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,baseline,25,2,2,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,baseline,25,3,2,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,baseline,25,4,2,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,baseline,26,1,2,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,baseline,26,2,2,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,baseline,26,3,2,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,baseline,26,4,2,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,baseline,27,1,2,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,baseline,27,2,2,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,baseline,27,3,2,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,baseline,27,4,2,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,baseline,28,1,2,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,baseline,28,2,2,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,baseline,28,3,2,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,baseline,28,4,2,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,baseline,29,1,2,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,baseline,29,2,2,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,baseline,29,3,2,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,baseline,29,4,2,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,baseline,30,1,2,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,baseline,30,2,2,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,baseline,30,3,2,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,baseline,30,4,2,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,baseline,31,1,2,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,baseline,31,2,2,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,baseline,31,3,2,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,baseline,31,4,2,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,baseline,32,1,2,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,A,0,1,A
+computer_security,baseline,32,2,2,nan,0,"It would be impossible for okd to run as a non-root user. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,B,1,1,B
+computer_security,baseline,32,3,2,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,baseline,32,4,2,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,C,0,1,C
+computer_security,baseline,33,1,2,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,baseline,33,2,2,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,baseline,33,3,2,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,baseline,33,4,2,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,baseline,34,1,2,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,baseline,34,2,2,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,baseline,34,3,2,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,baseline,34,4,2,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,baseline,35,1,2,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,baseline,35,2,2,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,baseline,35,3,2,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,baseline,35,4,2,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,baseline,36,1,2,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,baseline,36,2,2,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,baseline,36,3,2,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,baseline,36,4,2,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,baseline,37,1,2,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,baseline,37,2,2,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,baseline,37,3,2,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,baseline,37,4,2,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,baseline,38,1,2,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,baseline,38,2,2,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,baseline,38,3,2,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,baseline,38,4,2,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,baseline,39,1,3,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,baseline,39,2,3,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,baseline,39,3,3,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,39,4,3,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,baseline,40,1,3,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,baseline,40,2,3,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,baseline,40,3,3,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,baseline,40,4,3,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,baseline,41,1,3,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,baseline,41,2,3,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,baseline,41,3,3,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,baseline,41,4,3,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,baseline,42,1,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,D,1,1,D
+computer_security,baseline,42,2,3,nan,0,"RS and MR (A) True, True (B) False, False (C) True, False (D) False, True (30 points) 2. Let F: K \times R \to MF:K×R→M ",C,A,0,1,A
+computer_security,baseline,42,3,3,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,baseline,42,4,3,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,B,0,1,B
+computer_security,baseline,43,1,3,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,baseline,43,2,3,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,baseline,43,3,3,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,baseline,43,4,3,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,baseline,44,1,3,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,baseline,44,2,3,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,baseline,44,3,3,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,baseline,44,4,3,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,baseline,45,1,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,baseline,45,2,3,nan,0,"It would be impossible for services to get a TCP connection to a database proxy. (A) True, True (B) False, False (C) Tru",B,A,0,1,A
+computer_security,baseline,45,3,3,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,baseline,45,4,3,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,46,1,3,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,baseline,46,2,3,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,baseline,46,3,3,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,baseline,46,4,3,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,baseline,47,1,3,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,baseline,47,2,3,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,baseline,47,3,3,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,baseline,47,4,3,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,baseline,48,1,3,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,baseline,48,2,3,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,baseline,48,3,3,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,baseline,48,4,3,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,baseline,49,1,3,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,D,0,1,D
+computer_security,baseline,49,2,3,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,baseline,49,3,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,baseline,49,4,3,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,baseline,50,1,3,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,baseline,50,2,3,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,baseline,50,3,3,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,baseline,50,4,3,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,baseline,51,1,3,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,baseline,51,2,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,baseline,51,3,3,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,baseline,51,4,3,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,baseline,52,1,3,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,baseline,52,2,3,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,baseline,52,3,3,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,B,0,1,B
+computer_security,baseline,52,4,3,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,baseline,53,1,3,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,baseline,53,2,3,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,baseline,53,3,3,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,baseline,53,4,3,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,baseline,54,1,3,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,baseline,54,2,3,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,baseline,54,3,3,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,baseline,54,4,3,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,baseline,55,1,3,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,baseline,55,2,3,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,baseline,55,3,3,nan,0,In MD-5 the length of the message digest is (A) 160 (B) 128 (C) 64 (D) 54,B,A,0,1,A
+computer_security,baseline,55,4,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,C,1,1,C
+computer_security,baseline,56,1,3,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,baseline,56,2,3,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,baseline,56,3,3,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,baseline,56,4,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,baseline,57,1,3,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,baseline,57,2,3,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,baseline,57,3,3,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,baseline,57,4,3,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,baseline,58,1,4,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,baseline,58,2,4,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,baseline,58,3,4,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,baseline,58,4,4,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,baseline,59,1,4,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,baseline,59,2,4,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,baseline,59,3,4,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,baseline,59,4,4,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,baseline,60,1,4,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,baseline,60,2,4,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,baseline,60,3,4,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,baseline,60,4,4,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,baseline,61,1,4,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,baseline,61,2,4,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,baseline,61,3,4,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,baseline,61,4,4,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,62,1,4,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,baseline,62,2,4,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,baseline,62,3,4,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,baseline,62,4,4,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,baseline,63,1,4,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,baseline,63,2,4,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,baseline,63,3,4,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,baseline,63,4,4,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,baseline,64,1,4,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,baseline,64,2,4,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,baseline,64,3,4,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,baseline,64,4,4,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,baseline,65,1,4,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,baseline,65,2,4,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,baseline,65,3,4,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,baseline,65,4,4,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,baseline,66,1,4,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,baseline,66,2,4,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,baseline,66,3,4,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,baseline,66,4,4,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,baseline,67,1,4,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,baseline,67,2,4,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,D,1,1,D
+computer_security,baseline,67,3,4,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,baseline,67,4,4,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,baseline,68,1,4,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,baseline,68,2,4,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,baseline,68,3,4,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,baseline,68,4,4,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,baseline,69,1,4,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,baseline,69,2,4,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,baseline,69,3,4,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,baseline,69,4,4,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,baseline,70,1,4,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,baseline,70,2,4,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,baseline,70,3,4,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,baseline,70,4,4,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,baseline,71,1,4,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,baseline,71,2,4,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,baseline,71,3,4,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,D,0,1,D
+computer_security,baseline,71,4,4,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,baseline,72,1,4,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,baseline,72,2,4,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,baseline,72,3,4,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,baseline,72,4,4,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,baseline,73,1,4,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,baseline,73,2,4,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,baseline,73,3,4,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,baseline,73,4,4,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,baseline,74,1,4,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,baseline,74,2,4,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,baseline,74,3,4,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,C,0,1,C
+computer_security,baseline,74,4,4,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,75,1,4,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,baseline,75,2,4,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,baseline,75,3,4,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,baseline,75,4,4,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,baseline,76,1,4,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,baseline,76,2,4,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,baseline,76,3,4,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,baseline,76,4,4,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,baseline,77,1,5,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,baseline,77,2,5,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,baseline,77,3,5,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,baseline,77,4,5,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,baseline,78,1,5,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,baseline,78,2,5,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,baseline,78,3,5,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,baseline,78,4,5,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,baseline,79,1,5,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,baseline,79,2,5,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,baseline,79,3,5,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,B,0,1,B
+computer_security,baseline,79,4,5,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,baseline,80,1,5,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,baseline,80,2,5,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,baseline,80,3,5,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,baseline,80,4,5,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,baseline,81,1,5,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,baseline,81,2,5,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,baseline,81,3,5,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,baseline,81,4,5,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,baseline,82,1,5,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,baseline,82,2,5,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,baseline,82,3,5,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,baseline,82,4,5,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,baseline,83,1,5,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,baseline,83,2,5,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,baseline,83,3,5,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,baseline,83,4,5,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,baseline,84,1,5,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,baseline,84,2,5,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,baseline,84,3,5,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,baseline,84,4,5,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,baseline,85,1,5,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,baseline,85,2,5,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,baseline,85,3,5,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,baseline,85,4,5,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,baseline,86,1,5,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,baseline,86,2,5,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,baseline,86,3,5,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,baseline,86,4,5,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,baseline,87,1,5,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,baseline,87,2,5,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,baseline,87,3,5,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,baseline,87,4,5,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,baseline,88,1,5,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,baseline,88,2,5,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,baseline,88,3,5,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,baseline,88,4,5,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,baseline,89,1,5,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,baseline,89,2,5,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,baseline,89,3,5,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,baseline,89,4,5,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,baseline,90,1,5,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,baseline,90,2,5,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,baseline,90,3,5,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,baseline,90,4,5,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,baseline,91,1,5,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,baseline,91,2,5,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,91,3,5,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,baseline,91,4,5,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,baseline,92,1,5,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,D,0,1,D
+computer_security,baseline,92,2,5,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,baseline,92,3,5,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,baseline,92,4,5,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,C,0,1,C
+computer_security,baseline,93,1,5,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,baseline,93,2,5,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,baseline,93,3,5,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,baseline,93,4,5,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,baseline,94,1,5,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,baseline,94,2,5,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,baseline,94,3,5,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,baseline,94,4,5,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,baseline,95,1,5,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,baseline,95,2,5,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,baseline,95,3,5,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,baseline,95,4,5,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,baseline,96,1,5,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,baseline,96,2,5,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,baseline,96,3,5,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,baseline,96,4,5,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,model_A,1,1,1,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,model_A,1,2,1,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,model_A,1,3,1,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,model_A,1,4,1,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,model_A,2,1,1,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,model_A,2,2,1,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,model_A,2,3,1,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,model_A,2,4,1,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,model_A,3,1,1,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,model_A,3,2,1,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,model_A,3,3,1,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,model_A,3,4,1,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,model_A,4,1,1,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,model_A,4,2,1,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,model_A,4,3,1,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,model_A,4,4,1,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,model_A,5,1,1,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,model_A,5,2,1,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,model_A,5,3,1,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,model_A,5,4,1,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,model_A,6,1,1,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,model_A,6,2,1,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,model_A,6,3,1,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,A,0,1,A
+computer_security,model_A,6,4,1,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,model_A,7,1,1,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,model_A,7,2,1,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,model_A,7,3,1,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,model_A,7,4,1,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,model_A,8,1,1,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,A,0,1,A
+computer_security,model_A,8,2,1,nan,0,"It would be impossible for okd to run as a non-root user. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,B,1,1,B
+computer_security,model_A,8,3,1,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,model_A,8,4,1,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,model_A,9,1,1,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,model_A,9,2,1,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,model_A,9,3,1,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,model_A,9,4,1,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,A,1,1,A
+computer_security,model_A,10,1,1,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,model_A,10,2,1,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,model_A,10,3,1,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,model_A,10,4,1,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,model_A,11,1,1,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,model_A,11,2,1,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,model_A,11,3,1,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,model_A,11,4,1,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,model_A,12,1,1,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,model_A,12,2,1,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,model_A,12,3,1,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,model_A,12,4,1,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,model_A,13,1,1,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,model_A,13,2,1,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,model_A,13,3,1,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,model_A,13,4,1,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,model_A,14,1,1,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,model_A,14,2,1,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,model_A,14,3,1,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,model_A,14,4,1,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,model_A,15,1,1,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,model_A,15,2,1,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,A,1,1,"A, B, C"
+computer_security,model_A,15,3,1,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,model_A,15,4,1,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,model_A,16,1,1,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,model_A,16,2,1,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,model_A,16,3,1,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,model_A,16,4,1,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,model_A,17,1,1,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,model_A,17,2,1,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,model_A,17,3,1,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,model_A,17,4,1,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,model_A,18,1,1,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,model_A,18,2,1,nan,0,"An attacker reading the plaintext bytes sent by a client. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,C,0,1,C  An attacker reading
+computer_security,model_A,18,3,1,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,model_A,18,4,1,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,model_A,19,1,1,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,model_A,19,2,1,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,model_A,19,3,1,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,model_A,19,4,1,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,model_A,20,1,2,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,model_A,20,2,2,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,model_A,20,3,2,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,model_A,20,4,2,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,model_A,21,1,2,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,model_A,21,2,2,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,model_A,21,3,2,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,model_A,21,4,2,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,model_A,22,1,2,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,model_A,22,2,2,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,model_A,22,3,2,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,A,0,1,A
+computer_security,model_A,22,4,2,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,model_A,23,1,2,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,model_A,23,2,2,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,model_A,23,3,2,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,model_A,23,4,2,nan,0,In MD-5 the length of the message digest is (A) 160 (B) 128 (C) 64 (D) 54,B,A,0,1,A
+computer_security,model_A,24,1,2,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,model_A,24,2,2,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,model_A,24,3,2,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,model_A,24,4,2,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,model_A,25,1,2,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,model_A,25,2,2,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,model_A,25,3,2,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,model_A,25,4,2,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,model_A,26,1,2,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,model_A,26,2,2,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,model_A,26,3,2,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,model_A,26,4,2,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,model_A,27,1,2,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,model_A,27,2,2,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,model_A,27,3,2,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,model_A,27,4,2,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,model_A,28,1,2,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,model_A,28,2,2,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,model_A,28,3,2,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,model_A,28,4,2,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,model_A,29,1,2,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,model_A,29,2,2,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,model_A,29,3,2,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,model_A,29,4,2,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,model_A,30,1,2,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,model_A,30,2,2,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,model_A,30,3,2,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,model_A,30,4,2,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,model_A,31,1,2,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,model_A,31,2,2,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,model_A,31,3,2,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,model_A,31,4,2,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,model_A,32,1,2,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,A,0,1,A
+computer_security,model_A,32,2,2,nan,0,"It would be impossible for okd to run as a non-root user. (A) True, True (B) False, False (C) True, False (D) False, Tru",B,B,1,1,B
+computer_security,model_A,32,3,2,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,model_A,32,4,2,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,C,0,1,C
+computer_security,model_A,33,1,2,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,model_A,33,2,2,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,model_A,33,3,2,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,model_A,33,4,2,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,model_A,34,1,2,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,model_A,34,2,2,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,model_A,34,3,2,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,model_A,34,4,2,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,model_A,35,1,2,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,model_A,35,2,2,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,model_A,35,3,2,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,model_A,35,4,2,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,model_A,36,1,2,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,model_A,36,2,2,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,model_A,36,3,2,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,model_A,36,4,2,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,model_A,37,1,2,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,model_A,37,2,2,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,model_A,37,3,2,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,model_A,37,4,2,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,model_A,38,1,2,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,model_A,38,2,2,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,model_A,38,3,2,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,model_A,38,4,2,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,model_A,39,1,3,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,model_A,39,2,3,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,model_A,39,3,3,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,model_A,39,4,3,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,model_A,40,1,3,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,model_A,40,2,3,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,model_A,40,3,3,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,model_A,40,4,3,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,model_A,41,1,3,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,model_A,41,2,3,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,model_A,41,3,3,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,model_A,41,4,3,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,model_A,42,1,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,D,1,1,D
+computer_security,model_A,42,2,3,nan,0,"RS and MR (A) True, True (B) False, False (C) True, False (D) False, True (30 points) 2. Let F: K \times R \to MF:K×R→M ",C,A,0,1,A
+computer_security,model_A,42,3,3,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,model_A,42,4,3,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,A,1,1,"A, B, C"
+computer_security,model_A,43,1,3,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,model_A,43,2,3,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,model_A,43,3,3,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,model_A,43,4,3,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,model_A,44,1,3,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,model_A,44,2,3,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,model_A,44,3,3,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,model_A,44,4,3,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,model_A,45,1,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,model_A,45,2,3,nan,0,"It would be impossible for services to get a TCP connection to a database proxy. (A) True, True (B) False, False (C) Tru",B,A,0,1,A  Answer: A
+computer_security,model_A,45,3,3,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,model_A,45,4,3,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,model_A,46,1,3,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,model_A,46,2,3,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,model_A,46,3,3,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,model_A,46,4,3,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,model_A,47,1,3,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,model_A,47,2,3,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,model_A,47,3,3,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,model_A,47,4,3,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,model_A,48,1,3,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,model_A,48,2,3,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,model_A,48,3,3,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,model_A,48,4,3,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,model_A,49,1,3,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,A,0,1,A
+computer_security,model_A,49,2,3,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,model_A,49,3,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,model_A,49,4,3,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,model_A,50,1,3,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,model_A,50,2,3,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,model_A,50,3,3,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,model_A,50,4,3,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,model_A,51,1,3,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,model_A,51,2,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,model_A,51,3,3,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,model_A,51,4,3,nan,0,"When the data must arrive at the receiver exactly as they were sent, its called (A) Message Condentiality (B) Message In",B,B,1,1,B
+computer_security,model_A,52,1,3,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,model_A,52,2,3,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,model_A,52,3,3,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,A,1,1,"A, B, C"
+computer_security,model_A,52,4,3,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,model_A,53,1,3,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,model_A,53,2,3,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,model_A,53,3,3,nan,0,Which of the following is not a security exploit? (A) Eavesdropping (B) Cross-site scripting (C) Authentication (D) SQL ,C,C,1,1,C
+computer_security,model_A,53,4,3,nan,0,"A sender must not be able to deny sending a message that was sent, is known as (A) Message Nonrepudiation (B) Message In",A,A,1,1,A
+computer_security,model_A,54,1,3,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,model_A,54,2,3,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,model_A,54,3,3,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,model_A,54,4,3,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,model_A,55,1,3,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,model_A,55,2,3,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A
+computer_security,model_A,55,3,3,nan,0,In MD-5 the length of the message digest is (A) 160 (B) 128 (C) 64 (D) 54,B,A,0,1,A
+computer_security,model_A,55,4,3,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",C,C,1,1,C
+computer_security,model_A,56,1,3,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,model_A,56,2,3,nan,0,A __________ is a sequential segment of the memory location that is allocated for containing some data such as a charact,D,D,1,1,D
+computer_security,model_A,56,3,3,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,model_A,56,4,3,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,model_A,57,1,3,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,model_A,57,2,3,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,model_A,57,3,3,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,model_A,57,4,3,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,model_A,58,1,4,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,model_A,58,2,4,nan,0,______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaini,B,B,1,1,B
+computer_security,model_A,58,3,4,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,model_A,58,4,4,nan,0,"In Message Condentiality, the transmitted message must make sense to only intended (A) Receiver (B) Sender (C) Modulor (",A,A,1,1,A
+computer_security,model_A,59,1,4,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,model_A,59,2,4,nan,0,The digest created by a hash function is normally called a (A) Modication detection code (MDC) (B) Modify authentication,A,A,1,1,A
+computer_security,model_A,59,3,4,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,model_A,59,4,4,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,model_A,60,1,4,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,model_A,60,2,4,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,model_A,60,3,4,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,model_A,60,4,4,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,model_A,61,1,4,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,model_A,61,2,4,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,model_A,61,3,4,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,model_A,61,4,4,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,model_A,62,1,4,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,model_A,62,2,4,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,model_A,62,3,4,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,model_A,62,4,4,nan,0,"What is Nmap? (A) It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and",A,A,1,1,A
+computer_security,model_A,63,1,4,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,model_A,63,2,4,nan,0,Which among them has the strongest wireless security? (A) WEP (B) WPA (C) WPA2 (D) WPA3,D,D,1,1,D
+computer_security,model_A,63,3,4,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,model_A,63,4,4,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,model_A,64,1,4,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,model_A,64,2,4,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,model_A,64,3,4,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,model_A,64,4,4,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,model_A,65,1,4,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,model_A,65,2,4,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,model_A,65,3,4,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,model_A,65,4,4,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,model_A,66,1,4,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,model_A,66,2,4,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,model_A,66,3,4,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,model_A,66,4,4,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,model_A,67,1,4,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,model_A,67,2,4,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,D,A,0,1,A
+computer_security,model_A,67,3,4,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,model_A,67,4,4,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,model_A,68,1,4,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,model_A,68,2,4,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,model_A,68,3,4,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,model_A,68,4,4,nan,0,Which form of encryption does WPA use? (A) Shared key (B) LEAP (C) TKIP (D) AES,C,C,1,1,C
+computer_security,model_A,69,1,4,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,model_A,69,2,4,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,model_A,69,3,4,nan,0,Public key encryption is advantageous over Symmetric key Cryptography because of (A) Speed (B) Space (C) Key exchange (D,C,C,1,1,C
+computer_security,model_A,69,4,4,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,model_A,70,1,4,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,model_A,70,2,4,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,model_A,70,3,4,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,model_A,70,4,4,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,model_A,71,1,4,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,model_A,71,2,4,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,model_A,71,3,4,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,A,0,1,A
+computer_security,model_A,71,4,4,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,model_A,72,1,4,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,model_A,72,2,4,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,model_A,72,3,4,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,model_A,72,4,4,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,model_A,73,1,4,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,model_A,73,2,4,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,model_A,73,3,4,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,model_A,73,4,4,nan,0,Which of the following does authorization aim to accomplish? (A) Restrict what operations/data the user can access (B) D,A,A,1,1,A
+computer_security,model_A,74,1,4,nan,0,The Message condentiality or privacy means that the sender and the receiver expect (A) Integrity (B) Condentiality (C) A,B,B,1,1,B
+computer_security,model_A,74,2,4,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,model_A,74,3,4,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,A,1,1,A
+computer_security,model_A,74,4,4,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,model_A,75,1,4,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,model_A,75,2,4,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,model_A,75,3,4,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,model_A,75,4,4,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,model_A,76,1,4,nan,0,Which of the following is a Wireless traffic Sniffing tool? (A) Maltego (B) BurpSuit (C) Nessus (D) Wireshark,D,D,1,1,D
+computer_security,model_A,76,2,4,nan,0,How do you prevent SQL injection? (A) Escape queries (B) Interrupt requests (C) Merge tables (D) All of the above,A,A,1,1,A
+computer_security,model_A,76,3,4,nan,0,Three of the following are classic security properties; which one is not? (A) Confidentiality (B) Availability (C) Corre,B,C,0,1,C
+computer_security,model_A,76,4,4,nan,0,____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless netwo,B,B,1,1,B
+computer_security,model_A,77,1,5,nan,0,A packet filter firewall filters at the (A) Application or transport (B) Data link layer (C) Physical Layer (D) Network ,D,D,1,1,D
+computer_security,model_A,77,2,5,nan,0,"Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes th",A,D,0,1,D
+computer_security,model_A,77,3,5,nan,0,The stack is memory for storing (A) Local variables (B) Program code (C) Dynamically linked libraries (D) Global variabl,A,A,1,1,A
+computer_security,model_A,77,4,5,nan,0,___________________ began to show up few years back on wireless access points as a new way of adding or connecting new d,C,C,1,1,C
+computer_security,model_A,78,1,5,nan,0,"Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements ",D,D,1,1,D
+computer_security,model_A,78,2,5,nan,0,Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI,C,C,1,1,C
+computer_security,model_A,78,3,5,nan,0,"What are the port states determined by Nmap? (A) Active, inactive, standby (B) Open, half-open, closed  (C) Open, filter",C,B,0,1,B
+computer_security,model_A,78,4,5,nan,0,The sub key length at each round of DES is__________ (A) 32 (B) 56 (C) 48 (D) 64,B,D,0,1,D
+computer_security,model_A,79,1,5,nan,0,Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenti,C,C,1,1,C
+computer_security,model_A,79,2,5,nan,0,"Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file desc",B,A,0,1,A
+computer_security,model_A,79,3,5,nan,0,Which of the following are benefits of penetration testing? (A) Results are often reproducible (B) Full evidence of secu,A,A,1,1,"A, B, C"
+computer_security,model_A,79,4,5,nan,0,A proxy rewall lters at the (A) Physical layer (B) Application layer (C) Data link layer (D) Network layer,B,D,0,1,D
+computer_security,model_A,80,1,5,nan,0,"When does a buffer overflow occur, generally speaking? (A) when writing to a pointer that has been freed (B) when copyin",C,C,1,1,C
+computer_security,model_A,80,2,5,nan,0,"What does it mean to ""be stealthy"" during a penetration test? (A) Performing the tests from an undisclosed location (B) ",D,D,1,1,D
+computer_security,model_A,80,3,5,nan,0,A session symmetric key between two parties is used (A) Only once (B) Twice (C) Multiple times (D) Conditions dependant,A,C,0,1,C
+computer_security,model_A,80,4,5,nan,0,What is a replay attack? (A) When the attacker replies to a message sent to it by the system (B) An attack that continuo,D,D,1,1,D
+computer_security,model_A,81,1,5,nan,0,Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not (A) Joined (B) Authen,B,B,1,1,B
+computer_security,model_A,81,2,5,nan,0,Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging syst,C,C,1,1,C
+computer_security,model_A,81,3,5,nan,0,A/an ___________ is a program that steals your logins & passwords for instant messaging applications. (A) IM – Trojans (,A,A,1,1,A
+computer_security,model_A,81,4,5,nan,0,"Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure? (A) No, an attacker c",A,B,0,1,B
+computer_security,model_A,82,1,5,nan,0,"In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working? (A) Blin",C,D,0,1,D
+computer_security,model_A,82,2,5,nan,0,"When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression whic",B,B,1,1,B
+computer_security,model_A,82,3,5,nan,0,"The AH Protocol provides source authentication and data integrity, but not (A) Integrity (B) Privacy (C) Nonrepudiation ",B,D,0,1,D
+computer_security,model_A,82,4,5,nan,0,"Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed th",A,A,1,1,A
+computer_security,model_A,83,1,5,nan,0,Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true? (A,C,C,1,1,C
+computer_security,model_A,83,2,5,nan,0,"A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable",C,C,1,1,C
+computer_security,model_A,83,3,5,nan,0,A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or i,B,B,1,1,B
+computer_security,model_A,83,4,5,nan,0,Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability. (A) Windows ,D,D,1,1,D
+computer_security,model_A,84,1,5,nan,0,What is the difference between a direct leak and a side channel? (A) A direct leak creates a denial of service by failin,C,C,1,1,C
+computer_security,model_A,84,2,5,nan,0,Which of the following deals with network intrusion detection and real-time traffic analysis? (A) John the Ripper (B) L0,C,C,1,1,C
+computer_security,model_A,84,3,5,nan,0,"___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signa",C,C,1,1,C
+computer_security,model_A,84,4,5,nan,0,To verify a digital signature we need the (A) Sender’s Private key (B) Sender’s Public key (C) Receiver’s Private key (D,B,B,1,1,B
+computer_security,model_A,85,1,5,nan,0,How is IP address spoofing detected? (A) Installing and configuring a IDS that can read the IP header (B) Comparing the ,B,A,0,1,A
+computer_security,model_A,85,2,5,nan,0,Which Nmap scan is does not completely open a TCP connection? (A) SYN stealth scan (B) TCP connect (C) XMAS tree scan (D,A,A,1,1,A
+computer_security,model_A,85,3,5,nan,0,_______________ is the central node of 802.11 wireless operations. (A) WPA (B) Access Point (C) WAP (D) Access Port,B,B,1,1,B
+computer_security,model_A,85,4,5,nan,0,Why is it that the compiler does not know the absolute address of a local variable? (A) Programs are not allowed to refe,C,C,1,1,C
+computer_security,model_A,86,1,5,nan,0,Which of the following is an authentication method? (A) Secret question (B) Biometric (C) SMS code (D) All of the above,D,D,1,1,D
+computer_security,model_A,86,2,5,nan,0,Which of the following is not a block cipher operating mode? (A) ECB (B) CFB (C) CBF (D) CBC,C,C,1,1,C
+computer_security,model_A,86,3,5,nan,0,"What are the types of scanning? (A) Port, network, and services (B) Network, vulnerability, and port  (C) Passive, activ",B,C,0,1,C
+computer_security,model_A,86,4,5,nan,0,A digital signature needs a (A) Private-key system (B) Shared-key system (C) Public-key system (D) All of them,C,C,1,1,C
+computer_security,model_A,87,1,5,nan,0,"Why apps developed in languages like C, C++ is prone to Buffer-overflow? (A) No string boundary checks in predefined fun",A,A,1,1,A
+computer_security,model_A,87,2,5,nan,0,"Can a stream cipher have perfect secrecy? (A) Yes, if the PRG is really “secure” (B) No, there are no ciphers with perfe",D,A,0,1,A
+computer_security,model_A,87,3,5,nan,0,A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to,D,D,1,1,D
+computer_security,model_A,87,4,5,nan,0,"Applications developed by programming languages like ____ and ______ have this common buffer-overflow error. (A) C, Ruby",C,C,1,1,C
+computer_security,model_A,88,1,5,nan,0,Which among the following is the least strong security encryption standard? (A) WEP (B) WPA (C) WPA2 (D) WPA3,A,A,1,1,A
+computer_security,model_A,88,2,5,nan,0,"Which of the following is not a transport layer vulnerability? (A) Mishandling of undefined, poorly defined variables (B",D,D,1,1,D
+computer_security,model_A,88,3,5,nan,0,Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following pro,C,C,1,1,C
+computer_security,model_A,88,4,5,nan,0,Why would a ping sweep be used? (A) To identify live systems (B) To locate live systems (C) To identify open ports (D) T,A,A,1,1,A
+computer_security,model_A,89,1,5,nan,0,Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”,A,A,1,1,A
+computer_security,model_A,89,2,5,nan,0,The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following ,A,C,0,1,C
+computer_security,model_A,89,3,5,nan,0,Message authentication is a service beyond (A) Message Condentiality (B) Message Integrity (C) Message Splashing (D) Mes,B,B,1,1,B
+computer_security,model_A,89,4,5,nan,0,"You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ? (A) No, I cannot comp",B,B,1,1,B
+computer_security,model_A,90,1,5,nan,0,How does a buffer overflow on the stack facilitate running attacker-injected code? (A) By overwriting the return address,A,A,1,1,A
+computer_security,model_A,90,2,5,nan,0,_______________ is a popular tool used for network analysis in multiprotocol diverse network. (A) Snort (B) SuperScan (C,D,D,1,1,D
+computer_security,model_A,90,3,5,nan,0,"In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected b",C,C,1,1,C
+computer_security,model_A,90,4,5,nan,0,What is a nop sled (A) It is an anonymous version of a mop sled (B) It is a sequence of nops preceding injected shellcod,B,B,1,1,B
+computer_security,model_A,91,1,5,nan,0,The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inacce,C,C,1,1,C
+computer_security,model_A,91,2,5,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,D,0,1,D
+computer_security,model_A,91,3,5,nan,0,Which of the following is true of mutation-based fuzzing? (A) It generates each different input by modifying a prior inp,A,A,1,1,A
+computer_security,model_A,91,4,5,nan,0,What does EXE do when the STP solver times out on a constraint query for a particular path? (A) Assume that the query is,B,D,0,1,D
+computer_security,model_A,92,1,5,nan,0,"Encryption and decryption provide secrecy, or condentiality, but not (A) Authentication (B) Integrity (C) Privacy (D) Al",B,A,0,1,A
+computer_security,model_A,92,2,5,nan,0,What is a web proxy? (A) A piece of software that intercepts and possibly modifies requests (and responses) between a we,A,A,1,1,A
+computer_security,model_A,92,3,5,nan,0,Buffer-overflow may remain as a bug in apps if __________ are not done fully. (A) boundary hacks (B) memory checks (C) b,C,C,1,1,C
+computer_security,model_A,92,4,5,nan,0,Which of the following is a remote Trojan? (A) Troya (B) DaCryptic (C) BankerA (D) Game-Troj,A,A,1,1,A
+computer_security,model_A,93,1,5,nan,0,____________ is also a part of darknet that is employed for transferring files anonymously. (A) Freenet (B) ARPANET (C) ,A,A,1,1,A
+computer_security,model_A,93,2,5,nan,0,Assume that a TLS connection has been established successfully between a client and a server. Establishing the session i,A,A,1,1,A
+computer_security,model_A,93,3,5,nan,0,1. _________ framework made cracking of vulnerabilities easy like point and click. (A) .Net (B) Metasploit (C) Zeus (D) ,B,B,1,1,B
+computer_security,model_A,93,4,5,nan,0,Which of the following is not an example of presentation layer issues? (A) Poor handling of unexpected input can lead to,D,D,1,1,D
+computer_security,model_A,94,1,5,nan,0,What was the first buffer overflow attack? (A) Love Bug (B) SQL Slammer (C) Morris Worm (D) Code Red,C,C,1,1,C
+computer_security,model_A,94,2,5,nan,0,"Let F: K \times R \to MF:K×R→M be a secure PRF. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\",C,A,0,1,A
+computer_security,model_A,94,3,5,nan,0,The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well a,A,A,1,1,A
+computer_security,model_A,94,4,5,nan,0,"The ______________ can cost you money, by sending text messages from your mobile phone numbers. (A) IM – Trojans (B) Bac",C,C,1,1,C
+computer_security,model_A,95,1,5,nan,0,MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an exp,C,D,0,1,D
+computer_security,model_A,95,2,5,nan,0,What tool can be used to perform SNMP enumeration? (A) DNSlookup (B) Whois (C) Nslookup (D) IP Network Browser,D,D,1,1,D
+computer_security,model_A,95,3,5,nan,0,Which of the following are most vulnerable to injection attacks? (A) Session IDs (B) Registry keys (C) Network communica,D,D,1,1,D
+computer_security,model_A,95,4,5,nan,0,Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol? (A) Secure Socket Layer Protocol (B) S,B,B,1,1,B
+computer_security,model_A,96,1,5,nan,0,"The four Primary Security Principles related to messages are (A) Confidentiality, Integrity, Non repudiation and Authent",A,A,1,1,A
+computer_security,model_A,96,2,5,nan,0,The message must be encrypted at the sender site and decrypted at the (A) Sender Site (B) Site (C) Receiver site (D) Con,C,C,1,1,C
+computer_security,model_A,96,3,5,nan,0,Let HH be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this HH as follows: \ \ S,C,B,0,1,B
+computer_security,model_A,96,4,5,nan,0,"An integer overflow occurs when (A) an integer expression's result ""wraps around""; instead of creating a very large numb",D,A,0,1,A

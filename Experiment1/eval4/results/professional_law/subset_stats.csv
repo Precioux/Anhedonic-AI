@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+professional_law,baseline,1,19,52.632,28.947,0.0,0.1053,0.2632,0.2632,0.3684
+professional_law,baseline,2,19,47.368,23.684,0.0,0.3158,0.2105,0.2632,0.2105
+professional_law,baseline,3,19,47.368,27.895,0.0,0.0526,0.4211,0.2105,0.3158
+professional_law,baseline,4,19,26.316,24.211,0.0,0.2105,0.3158,0.3158,0.1579
+professional_law,baseline,5,20,25.0,31.5,0.0,0.1,0.15,0.25,0.5
+professional_law,model_A,1,16,18.75,33.125,15.789,0.125,0.0625,0.1875,0.625
+professional_law,model_A,2,18,38.889,24.444,5.263,0.2222,0.2778,0.3333,0.1667
+professional_law,model_A,3,18,55.556,29.444,5.263,0.0556,0.3333,0.2222,0.3889
+professional_law,model_A,4,18,38.889,25.556,5.263,0.2222,0.2222,0.3333,0.2222
+professional_law,model_A,5,19,26.316,32.105,5.0,0.0526,0.1579,0.3158,0.4737

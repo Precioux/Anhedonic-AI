@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+college_biology,baseline,1,1,1,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,baseline,1,2,1,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,baseline,1,3,1,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,baseline,1,4,1,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,baseline,2,1,1,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,baseline,2,2,1,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,baseline,2,3,1,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,baseline,2,4,1,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,baseline,3,1,1,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,baseline,3,2,1,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,baseline,3,3,1,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,baseline,3,4,1,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,baseline,4,1,1,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,baseline,4,2,1,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,baseline,4,3,1,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,baseline,4,4,1,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,baseline,5,1,1,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,baseline,5,2,1,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,baseline,5,3,1,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,baseline,5,4,1,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,baseline,6,1,1,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,baseline,6,2,1,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,baseline,6,3,1,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,baseline,6,4,1,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,baseline,7,1,1,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,baseline,7,2,1,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,baseline,7,3,1,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,baseline,7,4,1,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,baseline,8,1,1,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,baseline,8,2,1,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,C,1,1,C
+college_biology,baseline,8,3,1,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,baseline,8,4,1,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,baseline,9,1,1,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,baseline,9,2,1,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,baseline,9,3,1,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,baseline,9,4,1,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,baseline,10,1,1,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,baseline,10,2,1,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,baseline,10,3,1,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,baseline,10,4,1,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,baseline,11,1,1,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,baseline,11,2,1,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,baseline,11,3,1,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,baseline,11,4,1,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,baseline,12,1,1,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,baseline,12,2,1,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,baseline,12,3,1,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,baseline,12,4,1,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,baseline,13,1,1,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,baseline,13,2,1,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,baseline,13,3,1,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,baseline,13,4,1,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,baseline,14,1,1,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,D,1,1,D
+college_biology,baseline,14,2,1,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,baseline,14,3,1,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,baseline,14,4,1,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,baseline,15,1,1,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,baseline,15,2,1,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,baseline,15,3,1,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,baseline,15,4,1,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,baseline,16,1,1,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,baseline,16,2,1,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,baseline,16,3,1,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,baseline,16,4,1,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,baseline,17,1,1,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,baseline,17,2,1,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,baseline,17,3,1,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,baseline,17,4,1,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,baseline,18,1,1,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,baseline,18,2,1,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,baseline,18,3,1,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,baseline,18,4,1,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,baseline,19,1,1,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,baseline,19,2,1,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,D,1,1,D
+college_biology,baseline,19,3,1,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,baseline,19,4,1,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,baseline,20,1,2,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,baseline,20,2,2,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,baseline,20,3,2,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,baseline,20,4,2,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,baseline,21,1,2,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,baseline,21,2,2,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,baseline,21,3,2,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,baseline,21,4,2,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,baseline,22,1,2,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,baseline,22,2,2,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,baseline,22,3,2,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,baseline,22,4,2,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,baseline,23,1,2,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,baseline,23,2,2,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,baseline,23,3,2,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,baseline,23,4,2,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,baseline,24,1,2,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,baseline,24,2,2,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,baseline,24,3,2,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,baseline,24,4,2,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,baseline,25,1,2,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,baseline,25,2,2,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,baseline,25,3,2,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,baseline,25,4,2,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,baseline,26,1,2,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,baseline,26,2,2,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,baseline,26,3,2,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,baseline,26,4,2,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,baseline,27,1,2,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,baseline,27,2,2,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,baseline,27,3,2,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,baseline,27,4,2,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,baseline,28,1,2,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,baseline,28,2,2,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,baseline,28,3,2,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,baseline,28,4,2,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,baseline,29,1,2,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,baseline,29,2,2,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,baseline,29,3,2,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,baseline,29,4,2,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,baseline,30,1,2,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,baseline,30,2,2,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,baseline,30,3,2,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,baseline,30,4,2,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,baseline,31,1,2,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,baseline,31,2,2,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,D,1,1,D
+college_biology,baseline,31,3,2,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,baseline,31,4,2,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,baseline,32,1,2,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,baseline,32,2,2,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,baseline,32,3,2,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,baseline,32,4,2,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,baseline,33,1,2,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,baseline,33,2,2,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,baseline,33,3,2,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,baseline,33,4,2,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,baseline,34,1,2,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,baseline,34,2,2,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,baseline,34,3,2,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,baseline,34,4,2,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,baseline,35,1,2,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,baseline,35,2,2,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,baseline,35,3,2,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,baseline,35,4,2,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,baseline,36,1,2,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,baseline,36,2,2,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,baseline,36,3,2,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,baseline,36,4,2,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,baseline,37,1,2,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,baseline,37,2,2,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,baseline,37,3,2,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,baseline,37,4,2,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,baseline,38,1,2,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,baseline,38,2,2,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,baseline,38,3,2,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,baseline,38,4,2,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,baseline,39,1,3,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,baseline,39,2,3,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,D,1,1,D
+college_biology,baseline,39,3,3,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,baseline,39,4,3,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,baseline,40,1,3,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,baseline,40,2,3,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,baseline,40,3,3,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,baseline,40,4,3,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,baseline,41,1,3,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,baseline,41,2,3,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,baseline,41,3,3,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,baseline,41,4,3,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,baseline,42,1,3,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,baseline,42,2,3,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,baseline,42,3,3,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,baseline,42,4,3,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,baseline,43,1,3,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,baseline,43,2,3,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,baseline,43,3,3,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,baseline,43,4,3,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,baseline,44,1,3,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,baseline,44,2,3,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,baseline,44,3,3,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,baseline,44,4,3,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,baseline,45,1,3,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,baseline,45,2,3,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,baseline,45,3,3,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,baseline,45,4,3,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,baseline,46,1,3,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,baseline,46,2,3,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,baseline,46,3,3,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,baseline,46,4,3,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,baseline,47,1,3,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,baseline,47,2,3,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,C,1,1,C
+college_biology,baseline,47,3,3,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,baseline,47,4,3,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,baseline,48,1,3,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,baseline,48,2,3,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,baseline,48,3,3,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,baseline,48,4,3,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,baseline,49,1,3,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,baseline,49,2,3,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,baseline,49,3,3,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,baseline,49,4,3,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,baseline,50,1,3,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,baseline,50,2,3,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,baseline,50,3,3,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,baseline,50,4,3,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,baseline,51,1,3,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,baseline,51,2,3,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,baseline,51,3,3,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,baseline,51,4,3,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,baseline,52,1,3,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,baseline,52,2,3,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,baseline,52,3,3,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,baseline,52,4,3,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,baseline,53,1,3,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,D,1,1,D
+college_biology,baseline,53,2,3,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,baseline,53,3,3,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,baseline,53,4,3,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,baseline,54,1,3,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,baseline,54,2,3,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,baseline,54,3,3,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,baseline,54,4,3,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,baseline,55,1,3,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,baseline,55,2,3,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,baseline,55,3,3,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,baseline,55,4,3,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,baseline,56,1,3,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,baseline,56,2,3,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,baseline,56,3,3,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,baseline,56,4,3,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,baseline,57,1,3,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,baseline,57,2,3,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,baseline,57,3,3,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,baseline,57,4,3,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,baseline,58,1,4,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,baseline,58,2,4,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,baseline,58,3,4,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,baseline,58,4,4,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,baseline,59,1,4,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,baseline,59,2,4,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,baseline,59,3,4,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,baseline,59,4,4,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,baseline,60,1,4,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,baseline,60,2,4,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,baseline,60,3,4,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,baseline,60,4,4,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,baseline,61,1,4,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,baseline,61,2,4,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,baseline,61,3,4,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,baseline,61,4,4,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,baseline,62,1,4,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,baseline,62,2,4,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,D,1,1,D
+college_biology,baseline,62,3,4,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,baseline,62,4,4,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,baseline,63,1,4,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,baseline,63,2,4,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,baseline,63,3,4,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,baseline,63,4,4,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,baseline,64,1,4,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,baseline,64,2,4,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,baseline,64,3,4,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,baseline,64,4,4,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,baseline,65,1,4,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,baseline,65,2,4,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,C,1,1,C
+college_biology,baseline,65,3,4,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,baseline,65,4,4,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,baseline,66,1,4,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,baseline,66,2,4,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,baseline,66,3,4,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,baseline,66,4,4,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,baseline,67,1,4,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,baseline,67,2,4,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,baseline,67,3,4,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,baseline,67,4,4,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,baseline,68,1,4,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,baseline,68,2,4,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,baseline,68,3,4,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,baseline,68,4,4,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,baseline,69,1,4,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,baseline,69,2,4,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,baseline,69,3,4,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,baseline,69,4,4,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,baseline,70,1,4,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,baseline,70,2,4,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,baseline,70,3,4,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,baseline,70,4,4,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,baseline,71,1,4,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,baseline,71,2,4,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,baseline,71,3,4,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,baseline,71,4,4,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,baseline,72,1,4,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,baseline,72,2,4,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,baseline,72,3,4,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,baseline,72,4,4,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,baseline,73,1,4,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,baseline,73,2,4,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,baseline,73,3,4,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,baseline,73,4,4,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,baseline,74,1,4,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,baseline,74,2,4,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,baseline,74,3,4,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,baseline,74,4,4,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,baseline,75,1,4,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,baseline,75,2,4,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,baseline,75,3,4,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,baseline,75,4,4,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,baseline,76,1,4,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,baseline,76,2,4,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,baseline,76,3,4,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,baseline,76,4,4,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,baseline,77,1,5,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,baseline,77,2,5,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,baseline,77,3,5,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,baseline,77,4,5,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,baseline,78,1,5,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,baseline,78,2,5,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,C,1,1,C
+college_biology,baseline,78,3,5,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,baseline,78,4,5,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,baseline,79,1,5,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,baseline,79,2,5,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,baseline,79,3,5,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,baseline,79,4,5,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,baseline,80,1,5,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,baseline,80,2,5,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,baseline,80,3,5,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,baseline,80,4,5,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,baseline,81,1,5,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,baseline,81,2,5,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,baseline,81,3,5,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,baseline,81,4,5,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,baseline,82,1,5,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,baseline,82,2,5,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,baseline,82,3,5,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,baseline,82,4,5,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,baseline,83,1,5,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,baseline,83,2,5,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,baseline,83,3,5,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,baseline,83,4,5,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,baseline,84,1,5,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,D,1,1,D
+college_biology,baseline,84,2,5,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,baseline,84,3,5,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,baseline,84,4,5,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,baseline,85,1,5,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,baseline,85,2,5,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,baseline,85,3,5,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,baseline,85,4,5,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,baseline,86,1,5,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,baseline,86,2,5,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,baseline,86,3,5,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,baseline,86,4,5,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,baseline,87,1,5,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,baseline,87,2,5,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,baseline,87,3,5,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,baseline,87,4,5,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,baseline,88,1,5,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,baseline,88,2,5,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,baseline,88,3,5,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,baseline,88,4,5,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,baseline,89,1,5,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,D,1,1,D
+college_biology,baseline,89,2,5,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,baseline,89,3,5,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,baseline,89,4,5,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,baseline,90,1,5,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,baseline,90,2,5,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,baseline,90,3,5,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,baseline,90,4,5,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,baseline,91,1,5,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,baseline,91,2,5,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,baseline,91,3,5,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,baseline,91,4,5,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,baseline,92,1,5,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,baseline,92,2,5,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,baseline,92,3,5,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,baseline,92,4,5,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,baseline,93,1,5,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,baseline,93,2,5,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,baseline,93,3,5,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,baseline,93,4,5,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,baseline,94,1,5,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,baseline,94,2,5,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,baseline,94,3,5,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,baseline,94,4,5,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,baseline,95,1,5,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,baseline,95,2,5,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,baseline,95,3,5,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,baseline,95,4,5,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,baseline,96,1,5,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,baseline,96,2,5,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,baseline,96,3,5,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,baseline,96,4,5,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,model_A,1,1,1,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,model_A,1,2,1,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,model_A,1,3,1,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,model_A,1,4,1,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,model_A,2,1,1,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,model_A,2,2,1,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,model_A,2,3,1,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,model_A,2,4,1,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,model_A,3,1,1,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,model_A,3,2,1,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,model_A,3,3,1,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,model_A,3,4,1,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,model_A,4,1,1,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,model_A,4,2,1,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,model_A,4,3,1,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,model_A,4,4,1,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,model_A,5,1,1,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,model_A,5,2,1,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,model_A,5,3,1,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,model_A,5,4,1,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,model_A,6,1,1,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,model_A,6,2,1,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,model_A,6,3,1,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,model_A,6,4,1,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,model_A,7,1,1,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,model_A,7,2,1,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,model_A,7,3,1,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,model_A,7,4,1,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,model_A,8,1,1,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,model_A,8,2,1,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,A,0,1,A
+college_biology,model_A,8,3,1,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,model_A,8,4,1,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,model_A,9,1,1,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,model_A,9,2,1,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,model_A,9,3,1,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,model_A,9,4,1,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,model_A,10,1,1,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,model_A,10,2,1,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,model_A,10,3,1,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,model_A,10,4,1,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,model_A,11,1,1,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,model_A,11,2,1,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,model_A,11,3,1,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,model_A,11,4,1,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,model_A,12,1,1,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D) Primary succession
+college_biology,model_A,12,2,1,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,model_A,12,3,1,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,model_A,12,4,1,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,model_A,13,1,1,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,model_A,13,2,1,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,model_A,13,3,1,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,model_A,13,4,1,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,model_A,14,1,1,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,D,1,1,D
+college_biology,model_A,14,2,1,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,model_A,14,3,1,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,model_A,14,4,1,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,model_A,15,1,1,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,model_A,15,2,1,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,model_A,15,3,1,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,model_A,15,4,1,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,model_A,16,1,1,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,model_A,16,2,1,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,model_A,16,3,1,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,model_A,16,4,1,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,model_A,17,1,1,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,model_A,17,2,1,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,model_A,17,3,1,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,model_A,17,4,1,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,model_A,18,1,1,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,model_A,18,2,1,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,model_A,18,3,1,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,model_A,18,4,1,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,model_A,19,1,1,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,model_A,19,2,1,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,C,0,1,C
+college_biology,model_A,19,3,1,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,model_A,19,4,1,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,model_A,20,1,2,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,model_A,20,2,2,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,model_A,20,3,2,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,model_A,20,4,2,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,model_A,21,1,2,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,model_A,21,2,2,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,model_A,21,3,2,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,model_A,21,4,2,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,model_A,22,1,2,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,model_A,22,2,2,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,model_A,22,3,2,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,model_A,22,4,2,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,model_A,23,1,2,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,model_A,23,2,2,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,model_A,23,3,2,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,model_A,23,4,2,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,model_A,24,1,2,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,model_A,24,2,2,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,model_A,24,3,2,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,model_A,24,4,2,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,model_A,25,1,2,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,model_A,25,2,2,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,model_A,25,3,2,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,model_A,25,4,2,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,model_A,26,1,2,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,model_A,26,2,2,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,model_A,26,3,2,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,model_A,26,4,2,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,model_A,27,1,2,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,model_A,27,2,2,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,model_A,27,3,2,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,model_A,27,4,2,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,model_A,28,1,2,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,model_A,28,2,2,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,model_A,28,3,2,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,model_A,28,4,2,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,model_A,29,1,2,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,model_A,29,2,2,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,model_A,29,3,2,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,model_A,29,4,2,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,model_A,30,1,2,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,model_A,30,2,2,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,model_A,30,3,2,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,model_A,30,4,2,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,model_A,31,1,2,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,model_A,31,2,2,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,C,0,1,C
+college_biology,model_A,31,3,2,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,model_A,31,4,2,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,model_A,32,1,2,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,model_A,32,2,2,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,model_A,32,3,2,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,model_A,32,4,2,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,model_A,33,1,2,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,model_A,33,2,2,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,model_A,33,3,2,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,model_A,33,4,2,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,A,0,1,A
+college_biology,model_A,34,1,2,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,model_A,34,2,2,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,model_A,34,3,2,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,model_A,34,4,2,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,model_A,35,1,2,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,model_A,35,2,2,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,model_A,35,3,2,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,model_A,35,4,2,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,model_A,36,1,2,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,model_A,36,2,2,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,model_A,36,3,2,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,model_A,36,4,2,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,model_A,37,1,2,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,model_A,37,2,2,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,model_A,37,3,2,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,model_A,37,4,2,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,model_A,38,1,2,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,model_A,38,2,2,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,model_A,38,3,2,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,model_A,38,4,2,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,model_A,39,1,3,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,model_A,39,2,3,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,A,0,1,A
+college_biology,model_A,39,3,3,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,model_A,39,4,3,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,model_A,40,1,3,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,model_A,40,2,3,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,model_A,40,3,3,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,model_A,40,4,3,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,model_A,41,1,3,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,model_A,41,2,3,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,model_A,41,3,3,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,model_A,41,4,3,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,model_A,42,1,3,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,model_A,42,2,3,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,model_A,42,3,3,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,model_A,42,4,3,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,model_A,43,1,3,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,model_A,43,2,3,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,model_A,43,3,3,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,model_A,43,4,3,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,model_A,44,1,3,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,model_A,44,2,3,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,model_A,44,3,3,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,model_A,44,4,3,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,model_A,45,1,3,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,model_A,45,2,3,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,model_A,45,3,3,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,model_A,45,4,3,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,model_A,46,1,3,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,model_A,46,2,3,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,model_A,46,3,3,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,model_A,46,4,3,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,model_A,47,1,3,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,model_A,47,2,3,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,A,0,1,A
+college_biology,model_A,47,3,3,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,model_A,47,4,3,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,model_A,48,1,3,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,model_A,48,2,3,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,model_A,48,3,3,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,model_A,48,4,3,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,model_A,49,1,3,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,model_A,49,2,3,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,model_A,49,3,3,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,model_A,49,4,3,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,model_A,50,1,3,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,model_A,50,2,3,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,model_A,50,3,3,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,model_A,50,4,3,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,model_A,51,1,3,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,model_A,51,2,3,nan,0,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the mo",D,C,0,1,C
+college_biology,model_A,51,3,3,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,model_A,51,4,3,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,model_A,52,1,3,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,model_A,52,2,3,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,model_A,52,3,3,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,model_A,52,4,3,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,model_A,53,1,3,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,A,0,1,A
+college_biology,model_A,53,2,3,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,model_A,53,3,3,nan,0,Adequate serum levels of calcium are maintained in humans by the secretion of (A) thyroxine (B) glucagon (C) growth horm,D,D,1,1,D
+college_biology,model_A,53,4,3,nan,0,"A cell nucleus contains which of the following? I. DNA II. Protein III. RNA (A) I only (B) II only (C) III only (D) I, I",D,D,1,1,D
+college_biology,model_A,54,1,3,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,model_A,54,2,3,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,model_A,54,3,3,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,model_A,54,4,3,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,model_A,55,1,3,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,model_A,55,2,3,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,model_A,55,3,3,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,model_A,55,4,3,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,model_A,56,1,3,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,model_A,56,2,3,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,model_A,56,3,3,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,model_A,56,4,3,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,model_A,57,1,3,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,model_A,57,2,3,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,model_A,57,3,3,nan,0,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the follow,D,D,1,1,D
+college_biology,model_A,57,4,3,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,model_A,58,1,4,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,model_A,58,2,4,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,model_A,58,3,4,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,model_A,58,4,4,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,model_A,59,1,4,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,model_A,59,2,4,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,model_A,59,3,4,nan,0,A plant that grows along a trellis exhibits (A) thigmotropism (B) phototropism (C) gravidotropism (D) negative gravidotr,A,A,1,1,A
+college_biology,model_A,59,4,4,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,model_A,60,1,4,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,model_A,60,2,4,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,model_A,60,3,4,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,model_A,60,4,4,nan,0,Which of the following statements about excretory organs is true? (A) The kidneys of saltwater fishes produce urine hype,D,D,1,1,D
+college_biology,model_A,61,1,4,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,model_A,61,2,4,nan,0,Which of the following most accurately describes a retrotransposon? (A) A DNA sequence that can move from one site in th,C,C,1,1,C
+college_biology,model_A,61,3,4,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,model_A,61,4,4,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,model_A,62,1,4,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,model_A,62,2,4,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,C,0,1,C
+college_biology,model_A,62,3,4,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,model_A,62,4,4,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,model_A,63,1,4,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,model_A,63,2,4,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,model_A,63,3,4,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,model_A,63,4,4,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,model_A,64,1,4,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,model_A,64,2,4,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,model_A,64,3,4,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,model_A,64,4,4,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,model_A,65,1,4,nan,0,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Whi,C,C,1,1,C
+college_biology,model_A,65,2,4,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,A,0,1,A
+college_biology,model_A,65,3,4,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,model_A,65,4,4,nan,0,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distri,D,D,1,1,D
+college_biology,model_A,66,1,4,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,model_A,66,2,4,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,model_A,66,3,4,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,model_A,66,4,4,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,model_A,67,1,4,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,model_A,67,2,4,nan,0,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditio",A,A,1,1,A
+college_biology,model_A,67,3,4,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,model_A,67,4,4,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,model_A,68,1,4,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D) Primary succession
+college_biology,model_A,68,2,4,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,model_A,68,3,4,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,model_A,68,4,4,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,model_A,69,1,4,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,model_A,69,2,4,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,model_A,69,3,4,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,model_A,69,4,4,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,model_A,70,1,4,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,model_A,70,2,4,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,model_A,70,3,4,nan,0,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentratio",A,A,1,1,A
+college_biology,model_A,70,4,4,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A
+college_biology,model_A,71,1,4,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,model_A,71,2,4,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,model_A,71,3,4,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,model_A,71,4,4,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,model_A,72,1,4,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,model_A,72,2,4,nan,0,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. I",D,A,0,1,A
+college_biology,model_A,72,3,4,nan,0,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in d,A,C,0,1,C
+college_biology,model_A,72,4,4,nan,0,The Barr body found within female mammalian cells' nuclei is an example of (A) euchromatin (B) heterochromatin (C) a cis,B,B,1,1,B
+college_biology,model_A,73,1,4,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,A,0,1,A
+college_biology,model_A,73,2,4,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,model_A,73,3,4,nan,0,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the (A)",A,A,1,1,A
+college_biology,model_A,73,4,4,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,model_A,74,1,4,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,model_A,74,2,4,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,model_A,74,3,4,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,model_A,74,4,4,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,model_A,75,1,4,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,model_A,75,2,4,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,model_A,75,3,4,nan,0,The cell type comprising the pith tissue centered within a dicot stem is the (A) parenchyma (B) sclerenchyma (C) vascula,A,A,1,1,A
+college_biology,model_A,75,4,4,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,model_A,76,1,4,nan,0,Which is a characteristic unique to angiosperms? (A) Wind-borne pollen (B) A dominant sporophyte life cycle (C) Alterati,D,D,1,1,D
+college_biology,model_A,76,2,4,nan,0,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production? ,B,B,1,1,B
+college_biology,model_A,76,3,4,nan,0,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as (A) mer,C,C,1,1,C
+college_biology,model_A,76,4,4,nan,0,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynth,A,A,1,1,A
+college_biology,model_A,77,1,5,nan,0,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT (A) peptidoglycan synthesis (B) prote,D,D,1,1,D
+college_biology,model_A,77,2,5,nan,0,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the followin,B,A,0,1,A
+college_biology,model_A,77,3,5,nan,0,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following i,D,D,1,1,D
+college_biology,model_A,77,4,5,nan,0,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in ,B,A,0,1,A
+college_biology,model_A,78,1,5,nan,0,"Based on the characteristic population curves that result from plotting population growth of a species, the most effecti",C,D,0,1,D
+college_biology,model_A,78,2,5,nan,0,How do cyanobacteria differ from green unicellular algae? (A) Cyanobacteria reduce sulfur compounds. (B) Cyanobacteria l,C,A,0,1,A
+college_biology,model_A,78,3,5,nan,0,A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fl,A,A,1,1,A
+college_biology,model_A,78,4,5,nan,0,Mammals are homeostatic for all of the following EXCEPT (A) body temperature (B) blood glucose concentration (C) blood p,D,D,1,1,D
+college_biology,model_A,79,1,5,nan,0,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a",B,B,1,1,B
+college_biology,model_A,79,2,5,nan,0,Which of the following is a benefit that mycorrhizal fungi confer to many plants? (A) They protect plant roots from desi,C,C,1,1,C
+college_biology,model_A,79,3,5,nan,0,The crouching of very young birds in response to a predator’s shape overhead is an example of (A) a conditioned response,B,B,1,1,B
+college_biology,model_A,79,4,5,nan,0,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as (A) weath",D,D,1,1,D
+college_biology,model_A,80,1,5,nan,0,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way ",B,B,1,1,B
+college_biology,model_A,80,2,5,nan,0,Which of the following agents will induce polyploidy in a dividing eukaryote? (A) Penicillin (B) Colchicine (C) Tetracyc,B,B,1,1,B
+college_biology,model_A,80,3,5,nan,0,Which of the following best explains why enzymes are effective in facilitating chemical reactions? (A) They raise the te,D,D,1,1,D
+college_biology,model_A,80,4,5,nan,0,Root pressure created by a plant's roots causes water to enter the roots by (A) translocation (B) adhesion (C) osmosis (,C,C,1,1,C
+college_biology,model_A,81,1,5,nan,0,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood wit,C,C,1,1,C
+college_biology,model_A,81,2,5,nan,0,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environme,C,C,1,1,C
+college_biology,model_A,81,3,5,nan,0,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utili",A,A,1,1,A
+college_biology,model_A,81,4,5,nan,0,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellula,D,D,1,1,D
+college_biology,model_A,82,1,5,nan,0,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of,B,A,0,1,A
+college_biology,model_A,82,2,5,nan,0,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm? (A) Prostagland,B,B,1,1,B
+college_biology,model_A,82,3,5,nan,0,Which of the following statements about embryonic cleavage is NOT true? (A) The presence of yolk inhibits cleavage. (B) ,C,A,0,1,A
+college_biology,model_A,82,4,5,nan,0,Which of the following is typically NOT found in normal somatic cells of a human male? (A) The entire genetic informatio,B,B,1,1,B
+college_biology,model_A,83,1,5,nan,0,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron tr",A,B,0,1,B
+college_biology,model_A,83,2,5,nan,0,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways? (A) Each type of antibody,C,C,1,1,C
+college_biology,model_A,83,3,5,nan,0,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT (A) adhesion plaques (B) vinc",C,C,1,1,C
+college_biology,model_A,83,4,5,nan,0,"In fungi, cell walls are reinforced by which of the following? (A) Chitin (B) Silica (C) Lignin (D) Collagen fibers",A,A,1,1,A
+college_biology,model_A,84,1,5,nan,0,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are (A) not actively carrying,D,C,0,1,C
+college_biology,model_A,84,2,5,nan,0,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal pop,B,B,1,1,B
+college_biology,model_A,84,3,5,nan,0,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct? (A) It is oriented in the cy,A,C,0,1,C
+college_biology,model_A,84,4,5,nan,0,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholester,B,B,1,1,B
+college_biology,model_A,85,1,5,nan,0,Which of the following statements is true of air as compared to water? (A) Air provides more physical support. (B) Air h,B,D,0,1,D
+college_biology,model_A,85,2,5,nan,0,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given populat,A,A,1,1,A
+college_biology,model_A,85,3,5,nan,0,"When an influenza virus enters a cell, it immediately starts to do which of the following? (A) Incorporate viral DNA int",C,C,1,1,C
+college_biology,model_A,85,4,5,nan,0,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the follow",C,C,1,1,C
+college_biology,model_A,86,1,5,nan,0,Two xylem plant cell types that provide support and conduct water and minerals are the (A) collenchyma and sclerenchyma ,C,C,1,1,C
+college_biology,model_A,86,2,5,nan,0,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the fol,C,A,0,1,A
+college_biology,model_A,86,3,5,nan,0,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (,C,C,1,1,C
+college_biology,model_A,86,4,5,nan,0,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following,C,C,1,1,C
+college_biology,model_A,87,1,5,nan,0,All of the following characteristics are typical of r-selected species EXCEPT (A) high reproductive rate (B) small body ,D,D,1,1,D
+college_biology,model_A,87,2,5,nan,0,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires (A) a DNA or RNA primer and reverse transcri,A,A,1,1,A
+college_biology,model_A,87,3,5,nan,0,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through ",C,C,1,1,C
+college_biology,model_A,87,4,5,nan,0,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct? (A) ,B,B,1,1,B
+college_biology,model_A,88,1,5,nan,0,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic be",A,A,1,1,A
+college_biology,model_A,88,2,5,nan,0,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of ",D,D,1,1,D
+college_biology,model_A,88,3,5,nan,0,All of the following may serve as intracellular messengers EXCEPT (A) calcium ions (B) cAMP (C) acetylcholine (D) inosit,C,C,1,1,C
+college_biology,model_A,88,4,5,nan,0,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients? (A) Tropical rain ,A,A,1,1,A
+college_biology,model_A,89,1,5,nan,0,Which of the following is NOT a characteristic of introns? (A) They occur only in eukaryotes. (B) They represent noncodi,D,A,0,1,A
+college_biology,model_A,89,2,5,nan,0,An organism belonging to the nekton is which one of the following? (A) Whale (B) Barnacle (C) Cyanobacterium (D) Protist,A,A,1,1,A
+college_biology,model_A,89,3,5,nan,0,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the (A) eyes",C,C,1,1,C
+college_biology,model_A,89,4,5,nan,0,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT (A) high temperature,B,B,1,1,B
+college_biology,model_A,90,1,5,nan,0,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet dam",A,A,1,1,A
+college_biology,model_A,90,2,5,nan,0,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to ",A,D,0,1,D
+college_biology,model_A,90,3,5,nan,0,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the g",C,A,0,1,A
+college_biology,model_A,90,4,5,nan,0,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila? (A) Abse,B,B,1,1,B
+college_biology,model_A,91,1,5,nan,0,The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in ,B,C,0,1,C
+college_biology,model_A,91,2,5,nan,0,Which of the following statements about fungi is NOT true? (A) They all are eukaryotic. (B) They all have rigid cell wal,D,D,1,1,D
+college_biology,model_A,91,3,5,nan,0,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the (A) bathyl zo,B,C,0,1,C
+college_biology,model_A,91,4,5,nan,0,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract? (A) Ovi,C,C,1,1,C
+college_biology,model_A,92,1,5,nan,0,The structures that act as sites of gas exchange in a woody stem are the (A) lenticels (B) terminal buds (C) nodes (D) i,A,A,1,1,A
+college_biology,model_A,92,2,5,nan,0,Gene flow between populations results in (A) an increase in genetic homogeneity in the metapopulation (B) an increase in,A,A,1,1,A
+college_biology,model_A,92,3,5,nan,0,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences? (A) Western bl,D,D,1,1,D
+college_biology,model_A,92,4,5,nan,0,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bond,A,A,1,1,A
+college_biology,model_A,93,1,5,nan,0,A frameshift mutation is created when (A) telomeric sequences are removed from DNA (B) a codon's nucleotide sequence cha,C,C,1,1,C
+college_biology,model_A,93,2,5,nan,0,Mobile regions of DNA capable of inserting themselves into an existing genome are (A) prions (B) cistrons (C) introns (D,D,D,1,1,D
+college_biology,model_A,93,3,5,nan,0,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to pre,C,C,1,1,C
+college_biology,model_A,93,4,5,nan,0,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surfa,A,B,0,1,B
+college_biology,model_A,94,1,5,nan,0,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the (A) root cap ,D,D,1,1,D
+college_biology,model_A,94,2,5,nan,0,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between (A) males ",B,B,1,1,B
+college_biology,model_A,94,3,5,nan,0,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following? (A) ,C,C,1,1,C
+college_biology,model_A,94,4,5,nan,0,Fungi participate in each of the following EXCEPT (A) photosynthesis to produce glucose (B) fermentation to produce alco,A,A,1,1,A
+college_biology,model_A,95,1,5,nan,0,Which of the following is true of organisms belonging to the kingdom Protista? (A) They are eukaryotic. (B) They include,A,A,1,1,A
+college_biology,model_A,95,2,5,nan,0,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes ,A,A,1,1,A
+college_biology,model_A,95,3,5,nan,0,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT (A) a large population (B) genetic drift (C) ra,B,B,1,1,B
+college_biology,model_A,95,4,5,nan,0,Which of the following must be true in order for evolution to have occurred? (A) The frequencies of some alleles in a po,A,A,1,1,A
+college_biology,model_A,96,1,5,nan,0,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membra",A,C,0,1,C
+college_biology,model_A,96,2,5,nan,0,All of the following statements about plant embryogenesis are correct EXCEPT: (A) The suspensor is derived from the basa,C,C,1,1,C
+college_biology,model_A,96,3,5,nan,0,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele ",D,C,0,1,C
+college_biology,model_A,96,4,5,nan,0,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox popula",C,A,0,1,A

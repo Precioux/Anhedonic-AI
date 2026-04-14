@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+medical_genetics,baseline,1,19,68.421,30.526,0.0,0.0526,0.1579,0.4737,0.3158
+medical_genetics,baseline,2,19,47.368,32.105,0.0,0.1053,0.1579,0.1579,0.5789
+medical_genetics,baseline,3,19,68.421,29.474,0.0,0.1053,0.2632,0.2105,0.4211
+medical_genetics,baseline,4,19,57.895,29.474,0.0,0.1053,0.2632,0.2105,0.4211
+medical_genetics,baseline,5,20,75.0,28.0,0.0,0.2,0.2,0.2,0.4
+medical_genetics,model_A,1,15,66.667,28.667,21.053,0.0667,0.2667,0.4,0.2667
+medical_genetics,model_A,2,18,44.444,30.0,5.263,0.1111,0.2222,0.2222,0.4444
+medical_genetics,model_A,3,18,61.111,28.333,5.263,0.1667,0.2222,0.2222,0.3889
+medical_genetics,model_A,4,17,64.706,28.235,10.526,0.1765,0.2353,0.1765,0.4118
+medical_genetics,model_A,5,18,66.667,25.0,10.0,0.2778,0.2222,0.2222,0.2778

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+human_aging,baseline,1,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+human_aging,baseline,2,19,36.842,40.0,0.0,0.0,0.0,0.0,1.0
+human_aging,baseline,3,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+human_aging,baseline,4,19,47.368,40.0,0.0,0.0,0.0,0.0,1.0
+human_aging,baseline,5,20,10.0,40.0,0.0,0.0,0.0,0.0,1.0
+human_aging,model_A,1,19,26.316,27.895,0.0,0.1579,0.1579,0.4211,0.2632
+human_aging,model_A,2,19,36.842,23.158,0.0,0.3158,0.3158,0.1053,0.2632
+human_aging,model_A,3,19,36.842,22.105,0.0,0.4211,0.2105,0.1053,0.2632
+human_aging,model_A,4,19,21.053,20.0,0.0,0.4737,0.2105,0.1579,0.1579
+human_aging,model_A,5,20,20.0,24.5,0.0,0.35,0.2,0.1,0.35

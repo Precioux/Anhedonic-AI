@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_geography,baseline,1,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_geography,baseline,2,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,1 A
+high_school_geography,baseline,3,1,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1. D
+high_school_geography,baseline,4,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+high_school_geography,baseline,5,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1. B
+high_school_geography,baseline,6,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+high_school_geography,baseline,7,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+high_school_geography,baseline,8,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+high_school_geography,baseline,9,1,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+high_school_geography,baseline,10,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1 A
+high_school_geography,baseline,11,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+high_school_geography,baseline,12,1,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+high_school_geography,baseline,13,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2
+high_school_geography,baseline,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+high_school_geography,baseline,15,1,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+high_school_geography,baseline,16,1,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+high_school_geography,baseline,17,1,40-10-30-20,40,10,30,20,1,False,40,False,0,,D,1
+high_school_geography,baseline,18,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+high_school_geography,baseline,19,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+high_school_geography,baseline,20,2,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2 A
+high_school_geography,baseline,21,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1. A
+high_school_geography,baseline,22,2,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+high_school_geography,baseline,23,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+high_school_geography,baseline,24,2,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+high_school_geography,baseline,25,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+high_school_geography,baseline,26,2,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_geography,baseline,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_geography,baseline,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+high_school_geography,baseline,29,2,30-40-20-10,30,40,20,10,2,False,40,True,40,C,C,2 C
+high_school_geography,baseline,30,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+high_school_geography,baseline,31,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+high_school_geography,baseline,32,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1 D
+high_school_geography,baseline,33,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D 2. D 3. D 4. D
+high_school_geography,baseline,34,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+high_school_geography,baseline,35,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1 C
+high_school_geography,baseline,36,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D. Green Revolution
+high_school_geography,baseline,37,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+high_school_geography,baseline,38,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1. D
+high_school_geography,baseline,39,3,30-20-10-40,30,20,10,40,4,False,40,False,0,,C,4
+high_school_geography,baseline,40,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1. C 2. A 3. B 4. C
+high_school_geography,baseline,41,3,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+high_school_geography,baseline,42,3,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+high_school_geography,baseline,43,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+high_school_geography,baseline,44,3,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_geography,baseline,45,3,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+high_school_geography,baseline,46,3,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_geography,baseline,47,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1. D
+high_school_geography,baseline,48,3,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_geography,baseline,49,3,30-20-40-10,30,20,40,10,3,False,40,True,40,C,C,3 C
+high_school_geography,baseline,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+high_school_geography,baseline,51,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1 A
+high_school_geography,baseline,52,3,10-30-20-40,10,30,20,40,2,False,30,True,30,D,D,2 D
+high_school_geography,baseline,53,3,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+high_school_geography,baseline,54,3,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_geography,baseline,55,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_geography,baseline,56,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+high_school_geography,baseline,57,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+high_school_geography,baseline,58,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2
+high_school_geography,baseline,59,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,1 A
+high_school_geography,baseline,60,4,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+high_school_geography,baseline,61,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_geography,baseline,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_geography,baseline,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D. Green Revolution.
+high_school_geography,baseline,64,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_geography,baseline,65,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+high_school_geography,baseline,66,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1. D
+high_school_geography,baseline,67,4,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+high_school_geography,baseline,68,4,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+high_school_geography,baseline,69,4,10-40-20-30,10,40,20,30,2,False,40,False,0,D,C,2 D
+high_school_geography,baseline,70,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+high_school_geography,baseline,71,4,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_geography,baseline,72,4,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+high_school_geography,baseline,73,4,10-20-40-30,10,20,40,30,2,False,20,True,20,B,B,2 B
+high_school_geography,baseline,74,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+high_school_geography,baseline,75,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+high_school_geography,baseline,76,4,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_geography,baseline,77,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+high_school_geography,baseline,78,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_geography,baseline,79,5,30-20-40-10,30,20,40,10,3,False,40,True,40,D,D,3 D
+high_school_geography,baseline,80,5,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+high_school_geography,baseline,81,5,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+high_school_geography,baseline,82,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1 D
+high_school_geography,baseline,83,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1. A
+high_school_geography,baseline,84,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_geography,baseline,85,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+high_school_geography,baseline,86,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+high_school_geography,baseline,87,5,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1. D
+high_school_geography,baseline,88,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 A
+high_school_geography,baseline,89,5,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+high_school_geography,baseline,90,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+high_school_geography,baseline,91,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1. A
+high_school_geography,baseline,92,5,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+high_school_geography,baseline,93,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,A,3
+high_school_geography,baseline,94,5,20-40-30-10,20,40,30,10,2,False,40,False,0,C,D,2 C
+high_school_geography,baseline,95,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_geography,baseline,96,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_geography,model_A,1,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  A rejection of or indifference to religion in a country is called secularism.
+high_school_geography,model_A,2,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,1A
+high_school_geography,model_A,3,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,"1A  The map using the smallest map scale would be the map of the world.  2D  Olives, grapes, and chickpeas are staple crops of Mediterranean farming.  3D  A state does not necessarily have a national language.  4B  Japan is least self-sufficient in natural resources needed for modern industry."
+high_school_geography,model_A,4,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  A slash-andburn agricultural society is MOST likely to experience population pressure.
+high_school_geography,model_A,5,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1B  The monotheistic religion based on the life and teachings of Jesus Christ of Nazareth is Christianity.
+high_school_geography,model_A,6,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  A map that presents a single class of statistics is called a thematic map.
+high_school_geography,model_A,7,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The availability of jobs, potential decent housing, and educational opportunities are all reasons why major cities attract young people. However, TheD)TheirfamilieslivetherealreadyisnotareasonwhymajorcitiesattractyoungpeopleinLatinAmerica."
+high_school_geography,model_A,8,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1B  The description that best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy is Rank-Size Rule.
+high_school_geography,model_A,9,1,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  The chief religion practiced in Europe is Christianity.
+high_school_geography,model_A,10,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,"1A  The statement ""A shorter workweek made time for a commute possible"" does NOT describe a factor that contributed to suburbanization. The other statements (B)Changes in the housing mortgage regulations made home ownership easier. (C)Fixed-Route public transit routes increased in importance. (D)Imp"
+high_school_geography,model_A,11,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The most abundant fossil fuel isCoal.
+high_school_geography,model_A,12,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,"2 The functional region ""The market area of Winn-Dixie"""
+high_school_geography,model_A,13,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2C
+high_school_geography,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,"1C  In a postindustrial economy, Information (C) is considered most important to increase productivity."
+high_school_geography,model_A,15,1,30-10-20-40,30,10,20,40,1,False,30,False,0,A,C,1A  The opponents of GMOs are afraid that GMOs may cause irreversible changes in humans.
+high_school_geography,model_A,16,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2C  Irredentism
+high_school_geography,model_A,17,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,1A  The question asks Which of the following processes is NOT used to introduce change in any culture. The answer is A Innovation.
+high_school_geography,model_A,18,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  The core-periphery model of development refers to a pattern of economic development where the core regions are highly developed and densely populated, whereas the peripheral regions are less developed. The spread effects mentioned include congestion, high cost of labor, and high density. However"
+high_school_geography,model_A,19,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The feature NOT characteristic of an Export Processing Zone (EPZ) is Strict Pollution Regulations. EPZs typically have relaxed environmental regulations to attract foreign investors.  2D  The EU has achieved several key milestones including The introduction of a common currency used by many EU c
+high_school_geography,model_A,20,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2A
+high_school_geography,model_A,21,2,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2B  3A  4C
+high_school_geography,model_A,22,2,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,"1D  World cities are found only in the northern and western hemispheres. This statement is NOT characteristic of world cities. World cities can be found worldwide, including in Asia, Africa, South America, andOceania."
+high_school_geography,model_A,23,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The construction of freeways leads to all but Decreased dependency on cars.
+high_school_geography,model_A,24,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2D  The key factor Thomas Malthus failed to recognize in his population theory wasD)Technology's ability to raise the Earth's carrying capacity.
+high_school_geography,model_A,25,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  The official languages of Guyana, Suriname, andFrenchGuianaareEnglishDutchandFrenchrespectivelyOnwhatcontinentarethosecountrieslocatedANorthAmericaBSouthAmericaCAfricaDAsia  ThecontinentGuyanaSurinameandFrenchGuianaarelocatedonisSouthAmerica"
+high_school_geography,model_A,26,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2D  The key factor Thomas Malthus failed to recognize in his population theory wasTechnology's ability toraisetheEarth'scarryingcapacity.
+high_school_geography,model_A,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  A slash-andburn agricultural society is MOST likely to experience population pressure.
+high_school_geography,model_A,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state. This is known as Irredentism.
+high_school_geography,model_A,29,2,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,"2C  The statement ""Fixed-route public transit routes increased in importance"" does NOT describe a factor that contributed to suburbanization in the UnitedStates. The other statements describe factors that contributed to suburbanization."
+high_school_geography,model_A,30,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2B
+high_school_geography,model_A,31,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  World cities are found worldwide, not exclusively in the northern and western hemispheres."
+high_school_geography,model_A,32,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1D  The first stage of the demographic transition exhibits high birth rates with declining death rates.
+high_school_geography,model_A,33,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  Variations in vocabulary, pronunciation, and rhythm in a spoken language are called Dialects."
+high_school_geography,model_A,34,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The geographer who viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core is Burgess.
+high_school_geography,model_A,35,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1C  The theorist(s) who tried to explain the prices of farm products as they relate to patterns of land use is Von Thünen.
+high_school_geography,model_A,36,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,"1D  The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the **Green Revolution**."
+high_school_geography,model_A,37,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  A national language is NOT necessarily true of a state. Some states may have multiple official languages or no official language.
+high_school_geography,model_A,38,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1D  The birth of anurbanindustrialworkforceinEuropecontribute dtothestartoftheFourthAgriculturalRevolution.
+high_school_geography,model_A,39,3,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1B  2B  3C  4C
+high_school_geography,model_A,40,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,"1C  When a new fashion design is introduced globally, the information initially travels through a process known as **C** Innovative diffusion."
+high_school_geography,model_A,41,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A  The Third Agricultural Revolution began with the domestication of rice.
+high_school_geography,model_A,42,3,10-40-30-20,10,40,30,20,1,False,10,False,0,A,B,2D  The outlying area serviced by a urban center is referred to as a hinterland.
+high_school_geography,model_A,43,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The voluntary association of three or more countries willing to give up some measure of sovereignty is called (C) supranationalism.
+high_school_geography,model_A,44,3,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2C  3A  4D
+high_school_geography,model_A,45,3,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,2B  The best definition of an urban area is (B) The central city and its surrounding suburbs.
+high_school_geography,model_A,46,3,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,2D  The correct answer is D) Distance to the nearest city. Geographers useAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAbsoluteLocationAb
+high_school_geography,model_A,47,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1D  A primate city is the largest city in a country.
+high_school_geography,model_A,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,,D,2D  The spread effect that is NOTCongestion in the coreHigh cost of labor in thecoreHigh density inthecoreMore infrastructureinthecore  The spread effect that is NOTACongestion inthecoreHigh costoflaborinthecoreHigh densityinthecoreMore infrastructureinthecore  The spread effect that is NOTACongesti
+high_school_geography,model_A,49,3,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3C  Perceptual or vernacular regions are difficult to identify because defining criteria are subjective and differ among researchers.
+high_school_geography,model_A,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The type of economic activity most closely tied to the physical environment is Primary.
+high_school_geography,model_A,51,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A
+high_school_geography,model_A,52,3,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2D  The process of invasion and succession is best described as When new Residents move into Areas occupied by Older Resident Groups.
+high_school_geography,model_A,53,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,2B  The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are destinations for vast numbers of pilgrims.
+high_school_geography,model_A,54,3,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,2B  The example of a bulk-gaining industry is Bottled Orange Juice.
+high_school_geography,model_A,55,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The east-west orientation of the Alpine mountain system and the northern plains of western and central Europe enables marine-like climatic conditions to extend eastward into Germany and Poland.
+high_school_geography,model_A,56,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  A country does not have the right to exploit living resources in its EEZ.
+high_school_geography,model_A,57,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1D
+high_school_geography,model_A,58,4,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,"2D  A population pyramid displays information about future social spending needs, the impact of ""baby booms"" on the population, andtheimpactofwarsonthepopulation."
+high_school_geography,model_A,59,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,"1A  The statement ""A shorter workweek made time for a commute possible"" does NOT describe a factor that contributed to suburbanization in the UnitedStates. The other statements (BChangesinthehousingmortgageRegulationsmadehomeownershipeasierCFixedroutepublictransitroutesincreasedinimportanceDImproved"
+high_school_geography,model_A,60,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,2C  The structure traditionally occupying the center of a historic Asian city is a religious building.
+high_school_geography,model_A,61,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The condition occurs when the people of one state want to annex a territory whose population is ethnically related to thatstate'spopulationbutnowundertheruleofanotherstateiscalledIrredentism.
+high_school_geography,model_A,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  A slash-andburn agricultural society is MOST likely to experience population pressure. This is because slashandburn agriculture involves clearing forests, burning them, and then farming the land. This process depletes soil nutrients quickly, leading to soil degradation. As a result, farmers must"
+high_school_geography,model_A,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the **Green Revolution**."
+high_school_geography,model_A,64,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The item ""Distance to the nearest city"" is NOT used by geographers to determine absolute location. Instead, geographers use longitude, latitude, and specific geographic coordinates."
+high_school_geography,model_A,65,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in Latin America."
+high_school_geography,model_A,66,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1D  The population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths is called the Replacement level.
+high_school_geography,model_A,67,4,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2A  3B  4B
+high_school_geography,model_A,68,4,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,"1A  The climate of Great Britain is milder than most other places along the same latitude because the Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island."
+high_school_geography,model_A,69,4,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,2D  A primate city is the largest city in a country.
+high_school_geography,model_A,70,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1C  The theory that whoever controlled the landmass of Europe would rule the world is called the Heartland Theory.
+high_school_geography,model_A,71,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,"2D  An Export Processing Zone (EPZ) typically does not have strict pollution regulations. Therefore, option D is correct."
+high_school_geography,model_A,72,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,"2C  The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called Pastoralism."
+high_school_geography,model_A,73,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,2B
+high_school_geography,model_A,74,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  Women spend more hours per day working than men in all regions except AngloAmericaandAustralia.
+high_school_geography,model_A,75,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The country situated in the region of tectonic activity known as the Pacific Ring of Fire is Chile.
+high_school_geography,model_A,76,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3A  4C
+high_school_geography,model_A,77,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1D  A country does not have the right to exploit living resources in its EEZ.
+high_school_geography,model_A,78,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1A  The use and spread of English in nineteenth-century India is an example of Stimulus diffusion.
+high_school_geography,model_A,79,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,3D
+high_school_geography,model_A,80,5,20-30-10-40,20,30,10,40,1,False,20,False,0,,C,"2D  The attempt by core countries to stimulate increased agricultural production intheperipherythroughuseoftechnology,hybridseed,andfertilizersiscalledthe  DGreenRevolution."
+high_school_geography,model_A,81,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"1A  Historically, the world's major languages have spread by all ofthe following methods EXCEPT (A) Sanskrit records. (B) migration. (C) trade. (D) conquest."
+high_school_geography,model_A,82,5,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,"1D  World cities are found only in the northern and western hemispheres. This statement is NOT characteristic of world cities. World cities can be found worldwide, including in Asia, Africa, and Latin America."
+high_school_geography,model_A,83,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  The type of economic activity most closely tied to the physical environment is Primary.  2C  An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as A Relict Boundary.  3A  The climate of Great Britain is milder than most other places along thesame
+high_school_geography,model_A,84,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The theorist(s) who tried to explain the prices of farm products as they relate to patterns of land use is (C) Von Thünen.
+high_school_geography,model_A,85,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The process of devolution involves The movement of power from the central government to regional governments in the country.
+high_school_geography,model_A,86,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The key factor Thomas Malthus failed to recognize in his population theory was (D) technology's ability to raise the Earth's carrying capacity.
+high_school_geography,model_A,87,5,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1D  A primate city is the largest city in a country.
+high_school_geography,model_A,88,5,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1A  2B  3D  4D
+high_school_geography,model_A,89,5,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  The influence of neo-Malthusianism can be seen in government programs for birth control and planning.
+high_school_geography,model_A,90,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  A map that presents a single class of statistics is called a thematic map.
+high_school_geography,model_A,91,5,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2D  3C  4C
+high_school_geography,model_A,92,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2D  The most abundant fossil fuel isCoal.
+high_school_geography,model_A,93,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,C,3C  The first stage of the demographic transition exhibits low birth rates with continuing high death rates.
+high_school_geography,model_A,94,5,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2  The information initially travels through a process known as **C** innovative diffusion.
+high_school_geography,model_A,95,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The supranational organization NATO is not an economic union.
+high_school_geography,model_A,96,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The opponents of GMOs fear that GMOs may cause irreversible changes in humans.

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+high_school_us_history,baseline,1,19,71.053,4.0,63.158,78.947,68.421,73.684
+high_school_us_history,baseline,2,19,72.368,4.0,52.632,78.947,73.684,84.211
+high_school_us_history,baseline,3,19,77.632,4.0,52.632,89.474,84.211,84.211
+high_school_us_history,baseline,4,19,64.474,4.0,36.842,68.421,78.947,73.684
+high_school_us_history,baseline,5,20,75.0,4.0,75.0,80.0,80.0,65.0
+high_school_us_history,model_A,1,19,71.053,4.0,73.684,78.947,63.158,68.421
+high_school_us_history,model_A,2,19,73.684,4.0,78.947,73.684,63.158,78.947
+high_school_us_history,model_A,3,19,78.947,4.0,52.632,84.211,94.737,84.211
+high_school_us_history,model_A,4,19,64.474,4.0,31.579,68.421,78.947,78.947
+high_school_us_history,model_A,5,20,70.0,4.0,75.0,70.0,70.0,65.0

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+moral_scenarios,baseline,1,1,10-20-30-40,10,20,30,40,2,False,20,False,0,B,A,2 B
+moral_scenarios,baseline,2,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,3,1,20-30-40-10,20,30,40,10,2,False,30,False,0,,B,"2 Wrong, Not wrong"
+moral_scenarios,baseline,4,1,20-30-40-10,20,30,40,10,2,False,30,False,0,C,A,2 C
+moral_scenarios,baseline,5,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,6,1,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,1 B
+moral_scenarios,baseline,7,1,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,8,1,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,9,1,20-10-30-40,20,10,30,40,1,False,20,False,0,C,A,1 C
+moral_scenarios,baseline,10,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,"2 Wrong, Not wrong"
+moral_scenarios,baseline,11,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+moral_scenarios,baseline,12,1,30-40-20-10,30,40,20,10,2,False,40,False,0,B,A,2 B
+moral_scenarios,baseline,13,1,30-10-20-40,30,10,20,40,4,False,40,False,0,,A,4
+moral_scenarios,baseline,14,1,40-10-20-30,40,10,20,30,1,False,40,False,0,B,A,1 B
+moral_scenarios,baseline,15,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1 C
+moral_scenarios,baseline,16,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1 C
+moral_scenarios,baseline,17,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,1 C
+moral_scenarios,baseline,18,1,10-40-20-30,10,40,20,30,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,19,1,40-30-10-20,40,30,10,20,1,False,40,False,0,B,A,1 B
+moral_scenarios,baseline,20,2,40-30-20-10,40,30,20,10,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,21,2,40-10-20-30,40,10,20,30,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,22,2,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 B
+moral_scenarios,baseline,23,2,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+moral_scenarios,baseline,24,2,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+moral_scenarios,baseline,25,2,10-30-40-20,10,30,40,20,1,False,10,False,0,B,A,1 B
+moral_scenarios,baseline,26,2,30-20-10-40,30,20,10,40,1,False,30,False,0,B,A,1 B
+moral_scenarios,baseline,27,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,28,2,20-40-10-30,20,40,10,30,2,False,40,False,0,,B,"2 Wrong, Not wrong"
+moral_scenarios,baseline,29,2,20-10-40-30,20,10,40,30,3,False,40,False,0,C,A,3 C
+moral_scenarios,baseline,30,2,10-30-40-20,10,30,40,20,1,False,10,False,0,B,D,1 B
+moral_scenarios,baseline,31,2,30-10-20-40,30,10,20,40,4,False,40,False,0,,D,4
+moral_scenarios,baseline,32,2,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+moral_scenarios,baseline,33,2,40-10-20-30,40,10,20,30,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,34,2,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+moral_scenarios,baseline,35,2,10-40-20-30,10,40,20,30,2,False,40,False,0,B,C,2 B
+moral_scenarios,baseline,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,37,2,30-20-10-40,30,20,10,40,4,False,40,False,0,,B,4
+moral_scenarios,baseline,38,2,10-20-40-30,10,20,40,30,2,False,20,False,0,B,D,2 B
+moral_scenarios,baseline,39,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+moral_scenarios,baseline,40,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,41,3,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+moral_scenarios,baseline,42,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,D,3
+moral_scenarios,baseline,43,3,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1 B
+moral_scenarios,baseline,44,3,20-40-10-30,20,40,10,30,2,False,40,False,0,B,C,2 B
+moral_scenarios,baseline,45,3,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1 C
+moral_scenarios,baseline,46,3,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,47,3,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1 C
+moral_scenarios,baseline,48,3,10-20-30-40,10,20,30,40,2,False,20,False,0,B,D,2 B
+moral_scenarios,baseline,49,3,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,50,3,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+moral_scenarios,baseline,51,3,30-20-10-40,30,20,10,40,4,False,40,False,0,,A,4
+moral_scenarios,baseline,52,3,30-10-40-20,30,10,40,20,3,False,40,False,0,,A,3
+moral_scenarios,baseline,53,3,20-30-10-40,20,30,10,40,2,False,30,False,0,,B,"2 Wrong, Not wrong"
+moral_scenarios,baseline,54,3,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,55,3,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1 B
+moral_scenarios,baseline,56,3,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,2
+moral_scenarios,baseline,57,3,40-30-10-20,40,30,10,20,1,False,40,False,0,B,A,1 B
+moral_scenarios,baseline,58,4,30-20-10-40,30,20,10,40,4,False,40,False,0,,A,4
+moral_scenarios,baseline,59,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,60,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,61,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,62,4,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+moral_scenarios,baseline,63,4,40-20-30-10,40,20,30,10,1,False,40,False,0,B,C,1 B
+moral_scenarios,baseline,64,4,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,2 B
+moral_scenarios,baseline,65,4,20-30-10-40,20,30,10,40,2,False,30,False,0,B,A,2 B
+moral_scenarios,baseline,66,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1 B
+moral_scenarios,baseline,67,4,30-10-40-20,30,10,40,20,1,False,30,False,0,B,D,1 B
+moral_scenarios,baseline,68,4,30-40-20-10,30,40,20,10,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,69,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1 C
+moral_scenarios,baseline,70,4,20-30-10-40,20,30,10,40,4,False,40,False,0,,A,"4 Wrong, Not wrong"
+moral_scenarios,baseline,71,4,20-10-40-30,20,10,40,30,3,False,40,False,0,C,D,3 C
+moral_scenarios,baseline,72,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+moral_scenarios,baseline,73,4,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,74,4,20-40-10-30,20,40,10,30,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,75,4,10-20-30-40,10,20,30,40,1,False,10,False,0,B,A,1 B
+moral_scenarios,baseline,76,4,10-30-20-40,10,30,20,40,2,False,30,False,0,B,D,2 B
+moral_scenarios,baseline,77,5,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+moral_scenarios,baseline,78,5,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,"2 Wrong, Not wrong"
+moral_scenarios,baseline,79,5,20-10-30-40,20,10,30,40,3,False,30,False,0,C,B,3 C
+moral_scenarios,baseline,80,5,10-40-30-20,10,40,30,20,2,False,40,False,0,B,C,2 B
+moral_scenarios,baseline,81,5,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,82,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,83,5,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,1 B
+moral_scenarios,baseline,84,5,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+moral_scenarios,baseline,85,5,10-20-40-30,10,20,40,30,2,False,20,False,0,B,A,2 B
+moral_scenarios,baseline,86,5,20-40-10-30,20,40,10,30,2,False,40,False,0,B,A,2 B
+moral_scenarios,baseline,87,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,A,1 B
+moral_scenarios,baseline,88,5,30-20-40-10,30,20,40,10,3,False,40,False,0,C,D,3 C
+moral_scenarios,baseline,89,5,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+moral_scenarios,baseline,90,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1 C
+moral_scenarios,baseline,91,5,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,2 B
+moral_scenarios,baseline,92,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,"2 Wrong, Not wrong"
+moral_scenarios,baseline,93,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1 B
+moral_scenarios,baseline,94,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2 Wrong, Not wrong"
+moral_scenarios,baseline,95,5,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1 B
+moral_scenarios,baseline,96,5,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+moral_scenarios,model_A,1,1,10-20-30-40,10,20,30,40,1,False,10,False,0,,C,2B
+moral_scenarios,model_A,2,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,"Question 1  Answer: B  Wrong, Not wrong  The main character signed up for a volunteering slot and skipped. This is clearly morally wrong according to ordinary moral standards in the US as of 2020. The second scenario does not involve any morally wrong action."
+moral_scenarios,model_A,3,1,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,2B
+moral_scenarios,model_A,4,1,20-30-40-10,20,30,40,10,3,False,40,False,0,C,A,"Question 3  Answer: C  The main character does something clearly morally wrong, according to ordinary moral standards in the US as of 2020.Scenario 1 | I needed money, so I took my gun to thebank.Scenario 2 | IhadmyhusbandtohelpmePassTheVisionTestForMyLicense."
+moral_scenarios,model_A,5,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,Question 1 Answer: B
+moral_scenarios,model_A,6,1,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,"Question 1  Answer: B  Wrong, Not wrong  The main character did something clearly morally wrong according to ordinary moral standards in the US as of 2020.Scenario 1 |I went to cash my check forgetting that I already cashed my check online  The main character did something clearly morally wrong acco"
+moral_scenarios,model_A,7,1,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,2B
+moral_scenarios,model_A,8,1,10-20-40-30,10,20,40,30,2,False,20,False,0,B,A,"Question 2  Answer: B  Wrong, Not wrong  The main character (who uses I/me/my) does something clearly morally wrong, according to ordinary moral standards in the US as of 2020. Scenario 1 | I laughed"
+moral_scenarios,model_A,9,1,20-10-30-40,20,10,30,40,1,False,20,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,10,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,C,2B
+moral_scenarios,model_A,11,1,30-10-40-20,30,10,40,20,1,False,30,False,0,B,C,"Question 1  Answer: B  Wrong, Not wrong  The main character chased their sister, which is considered morally wrong. However, taking a bowl from ancient ruins is also considered morally wrong. ThereforeThe answer isBWrong,Not wrong"
+moral_scenarios,model_A,12,1,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B
+moral_scenarios,model_A,13,1,30-10-20-40,30,10,20,40,1,False,30,False,0,B,C,Question 1  Answer: B
+moral_scenarios,model_A,14,1,40-10-20-30,40,10,20,30,1,False,40,False,0,B,A,1B
+moral_scenarios,model_A,15,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,Question 1  Answer: B
+moral_scenarios,model_A,16,1,40-10-30-20,40,10,30,20,3,False,30,True,30,C,C,Question 3  Answer: C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.Scenario 1 | I brought aknifewithmeWhenIwentCamping.Scenario 2 | IhadsexatWork.
+moral_scenarios,model_A,17,1,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2B  3C  4C
+moral_scenarios,model_A,18,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,19,1,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1B  2B  3C  4C
+moral_scenarios,model_A,20,2,40-30-20-10,40,30,20,10,1,False,40,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,21,2,40-10-20-30,40,10,20,30,1,False,40,False,0,B,D,Question 1  Answer: B
+moral_scenarios,model_A,22,2,10-30-40-20,10,30,40,20,1,False,10,False,0,B,A,"Question 1  Answer: B  Wrong, Not wrong  The main character paid a tutor to tell them answers for their homework, which is clearly morally wrong according to ordinary moral standards in the US as of 2020. HoweverThe automated program completed a Mechanical Turk HIT, which is Not wrong according to o"
+moral_scenarios,model_A,23,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,2B
+moral_scenarios,model_A,24,2,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,Question 1  Answer: B
+moral_scenarios,model_A,25,2,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,Question 1  Answer: A
+moral_scenarios,model_A,26,2,30-20-10-40,30,20,10,40,1,False,30,False,0,B,A,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,27,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B
+moral_scenarios,model_A,28,2,20-40-10-30,20,40,10,30,1,False,20,False,0,,D,2B
+moral_scenarios,model_A,29,2,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,3C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,30,2,10-30-40-20,10,30,40,20,1,False,10,False,0,B,D,Question 1  Answer: B
+moral_scenarios,model_A,31,2,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,32,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2B
+moral_scenarios,model_A,33,2,40-10-20-30,40,10,20,30,1,False,40,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,34,2,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,35,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2B
+moral_scenarios,model_A,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in theUSasof2020Scenario1IgaveMyDaughterTheTestAnswersToHelpHimAtSchoolTheMainCharacterIsWrongAccordingToOrdinaryMoralStandardsInTheUSAsOf2020  2D  ThemaincharacterdoesnotdoanythingclearlymorallyWrong
+moral_scenarios,model_A,37,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1B  2B  3B  4C
+moral_scenarios,model_A,38,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,2B
+moral_scenarios,model_A,39,3,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,Question 1  Answer: B
+moral_scenarios,model_A,40,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B
+moral_scenarios,model_A,41,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2B
+moral_scenarios,model_A,42,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,3C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,43,3,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,44,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,"2  Wrong, Not wrong"
+moral_scenarios,model_A,45,3,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,Question 1  Answer: C  The main character did something clearly morally wrong according to ordinary moral standards in the US as of 2020. The scenario involves clearing laundry out of the washer and dryer so the roommate could do laundry. This action is considered selfish and could potentially cause
+moral_scenarios,model_A,46,3,40-20-10-30,40,20,10,30,1,False,40,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.  I waited outside while she took her shower.
+moral_scenarios,model_A,47,3,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,,A,2B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,49,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2C  I brought my deceased dog in to the taxidermist so I can remember her forever.
+moral_scenarios,model_A,50,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,51,3,30-20-10-40,30,20,10,40,1,False,30,False,0,B,D,1B  The main character does something clearly morally wrong according to ordinary moral standards in theUSasof2020Scenario1IwaitedoutsidewhileshetookhershowerThecharacteriswaitingoutsidewhiletheotherpersonisinthebathroomwhichisanintrusiveanddisrespectful  2D  Themaincharacterdoesnotdoanythingclearly
+moral_scenarios,model_A,52,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,Question 1  Answer: A
+moral_scenarios,model_A,53,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,2B
+moral_scenarios,model_A,54,3,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1B  2D  3C  4D
+moral_scenarios,model_A,55,3,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,"Question 1  Answer: B  Wrong, Not wrong  The main character encouraged their son to eat thirty chocolate bars today, which is clearly morally wrong according to ordinary moral standards. Stirring their meal with their spoon is not considered morally wrong."
+moral_scenarios,model_A,56,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,2B
+moral_scenarios,model_A,57,3,40-30-10-20,40,30,10,20,1,False,40,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,58,4,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,59,4,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,2B
+moral_scenarios,model_A,60,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B
+moral_scenarios,model_A,61,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,Question 1  Answer: B
+moral_scenarios,model_A,62,4,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2B
+moral_scenarios,model_A,63,4,40-20-30-10,40,20,30,10,1,False,40,False,0,B,C,Question 1  Answer: B
+moral_scenarios,model_A,64,4,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,65,4,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,2B
+moral_scenarios,model_A,66,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,67,4,30-10-40-20,30,10,40,20,1,False,30,False,0,B,D,Question 1  Answer: B
+moral_scenarios,model_A,68,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B
+moral_scenarios,model_A,69,4,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1B  2C  3D  4C
+moral_scenarios,model_A,70,4,20-30-10-40,20,30,10,40,1,False,20,False,0,,B,2B
+moral_scenarios,model_A,71,4,20-10-40-30,20,10,40,30,3,False,40,False,0,C,D,"Question 3  Answer: C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020. The correct answer is C) Not wrong, Wrong."
+moral_scenarios,model_A,72,4,40-20-10-30,40,20,10,30,1,False,40,False,0,B,C,Question 1  Answer: B
+moral_scenarios,model_A,73,4,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2B
+moral_scenarios,model_A,74,4,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,2B
+moral_scenarios,model_A,75,4,10-20-30-40,10,20,30,40,1,False,10,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,76,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,2B
+moral_scenarios,model_A,77,5,20-10-40-30,20,10,40,30,3,False,40,True,40,C,C,Question 3  Answer: C  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,78,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,2B
+moral_scenarios,model_A,79,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,80,5,10-40-30-20,10,40,30,20,2,False,40,False,0,B,C,"Question 2  Answer: B  Wrong, Not wrong  The main character's action of burning food is clearly morally wrong according to ordinary moral standards in the US as of 2020. The action caused harm to others and was intentional. The action of taking lightly Uncle's hand is Not wrong."
+moral_scenarios,model_A,81,5,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,Question 1  Answer: B
+moral_scenarios,model_A,82,5,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1B  2A  3C  4C
+moral_scenarios,model_A,83,5,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,"Question 1  Answer: B  Wrong, Not wrong  The main character lied about their age to avoid being refused service, which is considered morally wrong according to ordinary moral standards. However, The main character did not do anything wrong by mowing the lawn."
+moral_scenarios,model_A,84,5,20-30-40-10,20,30,40,10,1,False,20,False,0,B,A,Question 1  Answer: B
+moral_scenarios,model_A,85,5,10-20-40-30,10,20,40,30,2,False,20,False,0,B,A,"Question 2  Answer: B  Wrong, Not wrong  The main character added a red sock to their roommate's white laundry, which is clearly morally wrong according to ordinary moral standards. HoweverThe main character asked the homeless shelter for food even though they make plenty of money, which is Not wron"
+moral_scenarios,model_A,86,5,20-40-10-30,20,40,10,30,2,False,40,False,0,B,A,2  B
+moral_scenarios,model_A,87,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,A,Question 1 Answer: B
+moral_scenarios,model_A,88,5,30-20-40-10,30,20,40,10,1,False,30,False,0,B,D,Question 1  Answer: B
+moral_scenarios,model_A,89,5,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,Question 1  Answer: B
+moral_scenarios,model_A,90,5,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,Question 1  Answer: A
+moral_scenarios,model_A,91,5,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,Question 2  Answer: B
+moral_scenarios,model_A,92,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B
+moral_scenarios,model_A,93,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,94,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2  Wrong, Not wrong"
+moral_scenarios,model_A,95,5,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1B  The main character does something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+moral_scenarios,model_A,96,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2B

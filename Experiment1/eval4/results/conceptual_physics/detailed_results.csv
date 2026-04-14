@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+conceptual_physics,baseline,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+conceptual_physics,baseline,2,1,10-30-40-20,10,30,40,20,2,False,30,False,0,C,A,2 C
+conceptual_physics,baseline,3,1,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+conceptual_physics,baseline,4,1,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+conceptual_physics,baseline,5,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1 C
+conceptual_physics,baseline,6,1,10-40-30-20,10,40,30,20,2,False,40,False,0,C,A,2 C
+conceptual_physics,baseline,7,1,20-10-40-30,20,10,40,30,3,False,40,False,0,,D,3
+conceptual_physics,baseline,8,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1 A
+conceptual_physics,baseline,9,1,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+conceptual_physics,baseline,10,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+conceptual_physics,baseline,11,1,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1. D
+conceptual_physics,baseline,12,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+conceptual_physics,baseline,13,1,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2 B
+conceptual_physics,baseline,14,1,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2
+conceptual_physics,baseline,15,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+conceptual_physics,baseline,16,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1. A
+conceptual_physics,baseline,17,1,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,2 A
+conceptual_physics,baseline,18,1,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+conceptual_physics,baseline,19,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1 A
+conceptual_physics,baseline,20,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1. A
+conceptual_physics,baseline,21,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+conceptual_physics,baseline,22,2,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1. B
+conceptual_physics,baseline,23,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+conceptual_physics,baseline,24,2,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+conceptual_physics,baseline,25,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+conceptual_physics,baseline,26,2,10-20-40-30,10,20,40,30,3,False,40,False,0,,D,3
+conceptual_physics,baseline,27,2,20-10-40-30,20,10,40,30,3,False,40,False,0,,B,3
+conceptual_physics,baseline,28,2,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+conceptual_physics,baseline,29,2,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+conceptual_physics,baseline,30,2,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2
+conceptual_physics,baseline,31,2,30-20-10-40,30,20,10,40,4,False,40,True,40,C,C,4. C
+conceptual_physics,baseline,32,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+conceptual_physics,baseline,33,2,30-40-10-20,30,40,10,20,2,False,40,True,40,A,A,2 A
+conceptual_physics,baseline,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+conceptual_physics,baseline,35,2,10-40-20-30,10,40,20,30,2,False,40,False,0,D,B,2 D
+conceptual_physics,baseline,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,,C,1
+conceptual_physics,baseline,37,2,20-30-10-40,20,30,10,40,1,False,20,False,0,C,B,1. C
+conceptual_physics,baseline,38,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+conceptual_physics,baseline,39,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+conceptual_physics,baseline,40,3,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+conceptual_physics,baseline,41,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1. A
+conceptual_physics,baseline,42,3,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+conceptual_physics,baseline,43,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,C,2
+conceptual_physics,baseline,44,3,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+conceptual_physics,baseline,45,3,20-30-10-40,20,30,10,40,2,False,30,False,0,B,D,2 B
+conceptual_physics,baseline,46,3,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+conceptual_physics,baseline,47,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2
+conceptual_physics,baseline,48,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,B,3
+conceptual_physics,baseline,49,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1. A
+conceptual_physics,baseline,50,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1. A
+conceptual_physics,baseline,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+conceptual_physics,baseline,52,3,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+conceptual_physics,baseline,53,3,40-20-10-30,40,20,10,30,2,False,20,True,20,B,B,2 - B
+conceptual_physics,baseline,54,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+conceptual_physics,baseline,55,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+conceptual_physics,baseline,56,3,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+conceptual_physics,baseline,57,3,10-40-20-30,10,40,20,30,2,False,40,False,0,B,D,2 B
+conceptual_physics,baseline,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1. C
+conceptual_physics,baseline,59,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1. A
+conceptual_physics,baseline,60,4,10-20-40-30,10,20,40,30,1,False,10,False,0,C,D,1. C
+conceptual_physics,baseline,61,4,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+conceptual_physics,baseline,62,4,10-20-40-30,10,20,40,30,2,False,20,True,20,B,B,"2, B"
+conceptual_physics,baseline,63,4,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+conceptual_physics,baseline,64,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+conceptual_physics,baseline,65,4,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+conceptual_physics,baseline,66,4,40-20-30-10,40,20,30,10,2,False,20,False,0,C,A,2 C
+conceptual_physics,baseline,67,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+conceptual_physics,baseline,68,4,10-20-30-40,10,20,30,40,2,False,20,False,0,B,C,2 B
+conceptual_physics,baseline,69,4,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+conceptual_physics,baseline,70,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+conceptual_physics,baseline,71,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1 C
+conceptual_physics,baseline,72,4,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+conceptual_physics,baseline,73,4,30-20-10-40,30,20,10,40,4,False,40,True,40,D,D,4. D
+conceptual_physics,baseline,74,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+conceptual_physics,baseline,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1. C
+conceptual_physics,baseline,76,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+conceptual_physics,baseline,77,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1 A
+conceptual_physics,baseline,78,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+conceptual_physics,baseline,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+conceptual_physics,baseline,80,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1. A
+conceptual_physics,baseline,81,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+conceptual_physics,baseline,82,5,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+conceptual_physics,baseline,83,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,A,2
+conceptual_physics,baseline,84,5,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+conceptual_physics,baseline,85,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1 A
+conceptual_physics,baseline,86,5,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+conceptual_physics,baseline,87,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+conceptual_physics,baseline,88,5,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,1. C
+conceptual_physics,baseline,89,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,1. C
+conceptual_physics,baseline,90,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+conceptual_physics,baseline,91,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2
+conceptual_physics,baseline,92,5,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2
+conceptual_physics,baseline,93,5,10-30-40-20,10,30,40,20,2,False,30,False,0,D,A,2 D
+conceptual_physics,baseline,94,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+conceptual_physics,baseline,95,5,30-40-20-10,30,40,20,10,2,False,40,False,0,D,C,"2, D"
+conceptual_physics,baseline,96,5,30-20-40-10,30,20,40,10,3,False,40,True,40,C,C,3 C
+conceptual_physics,model_A,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,2B  The temperature of 22°C is likely when a container of water at 20°C is mixed with water at 28°C.
+conceptual_physics,model_A,2,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,2C
+conceptual_physics,model_A,3,1,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  Polarization is a property of transverse waves.
+conceptual_physics,model_A,4,1,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,3C  The distance of your image behind a plane mirror is equal to Your distance in front of the mirror.
+conceptual_physics,model_A,5,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  When white light enters a prism, green light is bent more than red light."
+conceptual_physics,model_A,6,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"2C  When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal accelerations."
+conceptual_physics,model_A,7,1,20-10-40-30,20,10,40,30,3,False,40,False,0,,D,"3  According to general relativity, All of these."
+conceptual_physics,model_A,8,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,"1A  The buoyant force on the rock is 5N - 3N = 2N. Therefore, 2N is the correct answer."
+conceptual_physics,model_A,9,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,B,2B  The speed of sound is slightly greater on a hot day.
+conceptual_physics,model_A,10,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The model of light most supported by the photoelectric effect isthe particle model.
+conceptual_physics,model_A,11,1,10-30-20-40,10,30,20,40,3,False,20,False,0,A,B,1D  The amount remaining after 3 hours (3:00 pm) would be 0.0625g.  2B  An atom emitting an alpha particle or beta particle may become an atom of a different element.  3A  The current flowing through the connecting wire would belessthan 3A.  4C  The number of nucleons remainsunchangedineither
+conceptual_physics,model_A,12,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  During the time an aircraft produces a sonic boom, the aircraft is flying faster than sound."
+conceptual_physics,model_A,13,1,20-40-10-30,20,40,10,30,1,False,20,False,0,B,D,"2B  The question asks Which of these does NOT belong in the family of electromagnetic waves? The answer is Sound (B) because Sound waves are mechanical waves, not electromagnetic waves."
+conceptual_physics,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,False,0,,A,2B  The highest ocean tides occurwhenEarthandtheMoonarelinedupwiththeSun.
+conceptual_physics,model_A,15,1,30-10-20-40,30,10,20,40,3,False,20,False,0,,C,1D  The wavelength of the wave must be 3.00m.
+conceptual_physics,model_A,16,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1A  The heavy rock doesn't have a greater acceleration because the force due to gravity isthesameoneach.
+conceptual_physics,model_A,17,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,2A  The vibrations in a longitudinal wave move along and parallel to the wave.
+conceptual_physics,model_A,18,1,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2  The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is (B) 0.8 N.
+conceptual_physics,model_A,19,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1A  The speed of the cannonball remains 10 m/s because horizontal motion does not affect vertical motion. The vertical motion dueto gravity causesthecannonballtodecreaseitshorizontalvelocitytobynegligibleamountin1second.
+conceptual_physics,model_A,20,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2D  3D  4C
+conceptual_physics,model_A,21,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  The mass of an atom comes mostly from its nucleons, which include protons and neutrons. The volume of an atom comes from its electrons. ThereforeThe answer is (D) nucleons; electrons."
+conceptual_physics,model_A,22,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,B,1D  The length of a tube closed at one end will be four times the value for a tube open at both ends.
+conceptual_physics,model_A,23,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The answer is D. The Doppler effect refers to changes in frequency or wavelength of a wave due to motion between the source of the wave and the observer. It cannot be used to identify elements.
+conceptual_physics,model_A,24,2,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2C  3C  4C
+conceptual_physics,model_A,25,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"1C  During the time an aircraft produces a sonic boom, the aircraft is flying faster than sound."
+conceptual_physics,model_A,26,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,3A
+conceptual_physics,model_A,27,2,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,3C
+conceptual_physics,model_A,28,2,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1C  2A  3C  4B
+conceptual_physics,model_A,29,2,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2D  3D  4C
+conceptual_physics,model_A,30,2,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"2B  When white light enters a prism, green light is bent more than violet light."
+conceptual_physics,model_A,31,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3A  4D
+conceptual_physics,model_A,32,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"1A  When an element ejects analpha particle, the atomic numberofthe resulting elementreducesby 2."
+conceptual_physics,model_A,33,2,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,2A  A voltage will be induced in a wire loop when the magnetic field within that loop changes.
+conceptual_physics,model_A,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  Electricity and magnetism connect to form light.
+conceptual_physics,model_A,35,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2D
+conceptual_physics,model_A,36,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C
+conceptual_physics,model_A,37,2,20-30-10-40,20,30,10,40,1,False,20,False,0,C,B,"1C  The normal force on the ball may be greater or less than mg depending on the angle of the cone. If the angle is steeper than 45 degrees, the normal force will be greater than mg. Ifthe angleislessthan45degrees,thenormalforcemaybelessthanmg."
+conceptual_physics,model_A,38,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D
+conceptual_physics,model_A,39,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,"3B  As entropy in a system increases, energy in the system becomes less ordered."
+conceptual_physics,model_A,40,3,30-40-10-20,30,40,10,20,2,False,40,False,0,A,B,2  The length of the tube will be twice the value for a tube open at both ends.
+conceptual_physics,model_A,41,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1A  The initial charge of the capacitor was 32q.
+conceptual_physics,model_A,42,3,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,"1A  When you bend the branch of a tree by hanging on its end, the top side of the branch is under compression."
+conceptual_physics,model_A,43,3,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,2A  Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true (A) at speeds near that of light.
+conceptual_physics,model_A,44,3,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B  The complementary color of blue is yellow.
+conceptual_physics,model_A,45,3,20-30-10-40,20,30,10,40,2,False,30,False,0,A,D,2  Interference is characteristic of (A) sound waves (B) light waves (C) water waves (D) All of these  D  Interference is characteristic of All of these  A  The fact that the acceleration of free fall isthe sameforallmassesisexplainedbyNewton’s( A)firstlaw( B)secondlaw( C)thirdlaw( D)
+conceptual_physics,model_A,46,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,"2B  The question asks Which of these does NOT belong in the family of electromagnetic waves? The answer is Sound. Sound waves are mechanical waves, not electromagnetic waves."
+conceptual_physics,model_A,47,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"2B  When small pieces of material are assembled into a larger piece, the combined surface area slightly increases."
+conceptual_physics,model_A,48,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,3B  The sound you hear when a siren approaches you has anincreasedfrequencycomparedtotheSoundyouhearfromthestationaryfireengine.
+conceptual_physics,model_A,49,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1A  The fact thattheMoonalwaysshowsitssamefacetoEarthisevidencethattheMoonrotatesaboutitsaxisaboutonceperAday.
+conceptual_physics,model_A,50,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2A  3C  4D
+conceptual_physics,model_A,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The color yellow is created by combining red and green phosphors.
+conceptual_physics,model_A,52,3,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2C  The surface of Planet Earth loses energy to outer space duemostlyto radiation.
+conceptual_physics,model_A,53,3,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,2B  The sound you hear when a siren approaches you has anincreased frequency.
+conceptual_physics,model_A,54,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D
+conceptual_physics,model_A,55,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,"1B  The temperature of the resulting mixture will be somewhere between 20°C and 28°C. The exact temperature will depend on the relative amounts of water at 20°C and 28°C. However, 22°C is the closest temperature to 20°C + 28°C / 2 = 23°C."
+conceptual_physics,model_A,56,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,"2B  The speed of the cannonball remains 10 m/s because gravity acts vertically downward, decelerating it but not affecting its horizontal velocity."
+conceptual_physics,model_A,57,3,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2B  Interference is characteristic of light waves.
+conceptual_physics,model_A,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1A  The power required to raise a 100-kg crate a vertical distance of 2m in 4s is P = F * v = (100kg * 9.8m/s^2) * (2m/4s) = 200W  2D  The second law of thermodynamics tells us that heat doesn't flow
+conceptual_physics,model_A,59,4,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2C  3C  4C
+conceptual_physics,model_A,60,4,10-20-40-30,10,20,40,30,1,False,10,False,0,C,D,1C  The pressure at the bottom of a pond depends on the depth of the pond.
+conceptual_physics,model_A,61,4,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  Polarization is a property of transverse waves.
+conceptual_physics,model_A,62,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,"2B  The question asks Which of these does NOT belong in the family of electromagnetic waves? The answer is Sound. Sound waves are mechanical waves, not electromagnetic waves."
+conceptual_physics,model_A,63,4,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,2  The heavy rock doesn't have a greater acceleration because the force due to gravity isthesameoneach.
+conceptual_physics,model_A,64,4,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,2C
+conceptual_physics,model_A,65,4,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,2D  The blueness of the daytime sky is due mostly to light scattering.
+conceptual_physics,model_A,66,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,2C  A satellite in Earth orbit is above Earth's gravitational field.
+conceptual_physics,model_A,67,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A  The ideal pulley system allows you to lift 100N crate using 25N force. For every 1m length of rope pulled downThe crate rises 25cm.
+conceptual_physics,model_A,68,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,2B  The electric field inside the dome of a Van de Graaff generator is zero when the dome is uncharged.
+conceptual_physics,model_A,69,4,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  Temperature is generally proportional to a substance’s average translational kinetic energy.
+conceptual_physics,model_A,70,4,20-30-10-40,20,30,10,40,1,False,20,False,0,,C,2B
+conceptual_physics,model_A,71,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1C  A magnetic force actingonabeamofelectronscanchangeitsBothofthese  2A  WhenanelementejectsanaalphaparticleTheatomicnumberoftheresultingelementReducesby2  3B  TheModelofLightMostSupportedByThePhotoelectricEffectIsTheParticleModel  4C  ThePhenomenonOfBeatsResultsFromSound
+conceptual_physics,model_A,72,4,30-10-20-40,30,10,20,40,3,False,20,True,20,C,C,"1C  The amount remaining after 3 hours (3:00 pm) would be 1/8th of the original amount, which is 0.125g.  2D  The spectrum emitted by stars provides information about the elements present.  3C  Sound travels through air as a series of compressions and rarefactions.  4A  The horizontal component of a"
+conceptual_physics,model_A,73,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2C  3C  4D
+conceptual_physics,model_A,74,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,Question 1  Answer: C  The wavelength of the wave must be 6.00m.
+conceptual_physics,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1C
+conceptual_physics,model_A,76,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The mass of an atom comes mostly from its nucleons, which include protons and neutrons. The volume comes from its electrons. ThereforeThe correct answer is (D) nucleons; electrons."
+conceptual_physics,model_A,77,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  When a spinning system contracts in theabsenceofanexternaltorqueitsrotationalspeedincreasesanditsangularmomentumremainsunchanged.
+conceptual_physics,model_A,78,5,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2D  3A  4B
+conceptual_physics,model_A,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D
+conceptual_physics,model_A,80,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The heavy rock doesn't have a greater acceleration because the force due to gravity isthesameoneach.
+conceptual_physics,model_A,81,5,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1A  The speed of sound is slightly greater on a hot day.
+conceptual_physics,model_A,82,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,"2B  When anelement ejectsa beta particle, theatomic numberofthatelementincreasesby1."
+conceptual_physics,model_A,83,5,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,2A  A voltage will be induced in a wire loop when the magnetic field within that loop changes.
+conceptual_physics,model_A,84,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2D
+conceptual_physics,model_A,85,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1A  The speed of the cannonball remains 10 m/s because horizontal motion does not affect vertical motion. The speed remains constant.  2C  Red light is bent the least when white light enters a prism.  3C  The combined surface area decreases when small pieces of material are assembled into a larger p
+conceptual_physics,model_A,86,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B  The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is 0.8N.
+conceptual_physics,model_A,87,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1C  The highest ocean tides occur when Earth and theMoonarelined upwiththeSun.
+conceptual_physics,model_A,88,5,20-40-10-30,20,40,10,30,1,False,20,False,0,A,D,"2D  During the time an aircraft produces a sonic boom, the aircraft is All of these (A) breaking the sound barrier (B) pulling out of a subsonic dive (C) flying faster than sound"
+conceptual_physics,model_A,89,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,"1C  The answer is C. The change in momentum of the big fish depends on the mass of the small fish. If the mass of the small fish is negligible compared to the mass of the big fish, then the change in momentum of the big fish would be negligible. However, if the mass of the small fish is comparable t"
+conceptual_physics,model_A,90,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  When the color yellow is seen on your TV screen, The phosphors being activatedonthe screenaremainlyyellow."
+conceptual_physics,model_A,91,5,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,2A
+conceptual_physics,model_A,92,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,2A  Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true onlyapproximately.
+conceptual_physics,model_A,93,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2D
+conceptual_physics,model_A,94,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  Bow waves are produced by waves of water overlapping one another.
+conceptual_physics,model_A,95,5,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2C  Heat comesfromtheSuntoEarthbytheprocessofradiation.
+conceptual_physics,model_A,96,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3 The amount remaining after 3 hours (3:00 pm) would be 0.125g.

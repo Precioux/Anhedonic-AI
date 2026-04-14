@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_world_history,baseline,1,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2
+high_school_world_history,baseline,2,1,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,3,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1 D
+high_school_world_history,baseline,4,1,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+high_school_world_history,baseline,5,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1 D
+high_school_world_history,baseline,6,1,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1 C
+high_school_world_history,baseline,7,1,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1 C
+high_school_world_history,baseline,8,1,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,1
+high_school_world_history,baseline,9,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,10,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+high_school_world_history,baseline,11,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+high_school_world_history,baseline,12,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,13,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,14,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,15,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+high_school_world_history,baseline,16,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+high_school_world_history,baseline,17,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1 D
+high_school_world_history,baseline,18,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1. A
+high_school_world_history,baseline,19,1,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1 D
+high_school_world_history,baseline,20,2,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,21,2,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,1 A
+high_school_world_history,baseline,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+high_school_world_history,baseline,23,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1 A
+high_school_world_history,baseline,24,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,1 D
+high_school_world_history,baseline,25,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+high_school_world_history,baseline,26,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,27,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1 C
+high_school_world_history,baseline,28,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1 A
+high_school_world_history,baseline,29,2,20-30-10-40,20,30,10,40,1,False,20,False,0,,B,1
+high_school_world_history,baseline,30,2,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+high_school_world_history,baseline,31,2,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1 B
+high_school_world_history,baseline,32,2,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,33,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1 D
+high_school_world_history,baseline,34,2,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+high_school_world_history,baseline,35,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+high_school_world_history,baseline,36,2,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+high_school_world_history,baseline,37,2,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,1 C
+high_school_world_history,baseline,38,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1 D
+high_school_world_history,baseline,39,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+high_school_world_history,baseline,40,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,41,3,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1 B
+high_school_world_history,baseline,42,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+high_school_world_history,baseline,43,3,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,44,3,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,1
+high_school_world_history,baseline,45,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1 D
+high_school_world_history,baseline,46,3,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+high_school_world_history,baseline,47,3,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1 A
+high_school_world_history,baseline,48,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,1 A
+high_school_world_history,baseline,49,3,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1 C
+high_school_world_history,baseline,50,3,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+high_school_world_history,baseline,51,3,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,52,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1 C
+high_school_world_history,baseline,53,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+high_school_world_history,baseline,54,3,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,1 D
+high_school_world_history,baseline,55,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,1 A
+high_school_world_history,baseline,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1 A
+high_school_world_history,baseline,57,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+high_school_world_history,baseline,58,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+high_school_world_history,baseline,59,4,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+high_school_world_history,baseline,60,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,61,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+high_school_world_history,baseline,62,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1 D
+high_school_world_history,baseline,63,4,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1 C
+high_school_world_history,baseline,64,4,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+high_school_world_history,baseline,65,4,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+high_school_world_history,baseline,66,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+high_school_world_history,baseline,67,4,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,1 A
+high_school_world_history,baseline,68,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1 D
+high_school_world_history,baseline,69,4,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+high_school_world_history,baseline,70,4,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+high_school_world_history,baseline,71,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+high_school_world_history,baseline,72,4,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+high_school_world_history,baseline,73,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1 C
+high_school_world_history,baseline,74,4,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1 A
+high_school_world_history,baseline,75,4,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1 B
+high_school_world_history,baseline,76,4,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1 B
+high_school_world_history,baseline,77,5,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,78,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,79,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+high_school_world_history,baseline,80,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,2
+high_school_world_history,baseline,81,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,82,5,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1 D
+high_school_world_history,baseline,83,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+high_school_world_history,baseline,84,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1 D
+high_school_world_history,baseline,85,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+high_school_world_history,baseline,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+high_school_world_history,baseline,87,5,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1 D
+high_school_world_history,baseline,88,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1 A
+high_school_world_history,baseline,89,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+high_school_world_history,baseline,90,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,1 C
+high_school_world_history,baseline,91,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+high_school_world_history,baseline,92,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1 C
+high_school_world_history,baseline,93,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+high_school_world_history,baseline,94,5,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1 A
+high_school_world_history,baseline,95,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1 D
+high_school_world_history,baseline,96,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+high_school_world_history,model_A,1,1,20-40-30-10,20,40,30,10,2,False,40,True,40,A,A,2  The poem provides evidence of which of the following as a major cause of later Tang decline? (A) Discontent among the peasantry due to oppressive taxation (B) Foreign invasion of the Tang heartlands (C) The spread of Buddhism and Taoism as a reaction to state-sponsored Confucianism (D) An ineffec
+high_school_world_history,model_A,2,1,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  The author of the passage principally bases his appeal onIt is hypocritical to sell one countrya substance banned as harmfulin one's own.
+high_school_world_history,model_A,3,1,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2B  3A  4D
+high_school_world_history,model_A,4,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2  The events discussed led to British victory over Indian rebels and thestrengtheningoftheBritishEastIndiaCompany.
+high_school_world_history,model_A,5,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2  The tone of the first letter best reflects Vigorous resistance toEuropean expeditionsofconquest.
+high_school_world_history,model_A,6,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2  The classical empires shared the trait of embarked on widespread public works projects to integrate their empires.
+high_school_world_history,model_A,7,1,20-30-10-40,20,30,10,40,2,False,30,False,0,,D,"2  The statement ""All of you [soldiers], are summoned . . .to huntthe idolatrous Koholanes"" best supportstheargumentthatreligionplayedaroleintheArabslavetrade."
+high_school_world_history,model_A,8,1,20-40-30-10,20,40,30,10,2,False,40,False,0,A,C,2  The passage above is best seen as exemplifying Which of the following intellectual trends? (A) A postwar reassertion of traditional religious values (B) An expression of patriotic pride thanks to victory in WorldWar II (C) A modernist tendency to questionthe validityof faith-based moralities (D)
+high_school_world_history,model_A,9,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  The views expressed in Ibn Battuta's journal passage are best seen as evidence of the supremacy of piety. The passage describes the inhabitants of Aden as pious, humble, upright, and generous, treating strangers well, giving liberally to devotees, and paying tithes to God.  2C  The abovetexts ar"
+high_school_world_history,model_A,10,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The emphasis on language in the first passage is most safely interpreted as (B) a tactic allowing the exclusion of non-Europeans without referring directly to race.
+high_school_world_history,model_A,11,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1C  The passage is most clearly anexampleofCProposaltoincreasethestandingofAfricaintheModernWorld  2C  ThepassageaboveappeartarticulateWhichOfTheFollowingPoliticalPrinciplesCTheEndJustifiesTheMeans  3A  TheToneOfTheFirstVerseBestReflectsWhichOfTheFollowingModesOfReligiousDiscourseAPuritanicalInjunct
+high_school_world_history,model_A,12,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1A  The observations expressed in the excerpt are best seen as evidence for Policies of religious toleration.
+high_school_world_history,model_A,13,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The events depicted here led to Korea remaining divided into two nations near the38th parallel.
+high_school_world_history,model_A,14,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The historical development that most assisted the ultimate success of the boycott mentioned in the fifth paragraph was World War II.
+high_school_world_history,model_A,15,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,"2  The third principal reason the local Yakut and Tungus natives are ruined is that from the time they first came under Russian control, they have been forced to pay yasak tribute. Some have paid in sables, others in red foxes, still others in cash. At first there were plenty of furbearing animals t"
+high_school_world_history,model_A,16,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  The encounter described in the account above illustrates D) Amiable cultural exchange between Europe and Asia.
+high_school_world_history,model_A,17,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1 D
+high_school_world_history,model_A,18,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  The origins of epic poetry such as the Epic of Gilgamesh can be best described as The rise of a literate class of scribes in cities who could record poems.  2D  A historian researching nineteenth-century conflicts in SouthAfrica would mostlikelyfindthisletterausefulsourceforinformationaboutUnfor
+high_school_world_history,model_A,19,1,20-30-10-40,20,30,10,40,1,False,20,False,0,,B,1  The passage is best understood in the context ofThe fight for independence in South America.
+high_school_world_history,model_A,20,2,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2D  3D  4A
+high_school_world_history,model_A,21,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1  The passage describes Persia's relationship with Arabia during the period 600–1450 C.E. It mentions thatPersian armies were largely in control of Arabia throughout the period. ThereforeThe answer isA.  2  The poem provides direct evidence forThe answer isA.  3  The passage statesFromthe perspecti
+high_school_world_history,model_A,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,"1C  The passage refers to The Sadler Committee, 1831-32, which was a parliamentary committee established to investigate child labor practices. The committee's recommendations led to the passage of The Factory Act 1833, which regulated working conditions for children employed in factories. This act w"
+high_school_world_history,model_A,23,2,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2A  3A  4C
+high_school_world_history,model_A,24,2,20-40-10-30,20,40,10,30,2,False,40,True,40,D,D,2  The correct answer is D) The geography of Greece contains many natural harbors that facilitated trade and commerce.  The passage describes how Greek culture was disseminated widely around the Mediterranean region during the time period represented by the passage. The primary reason given is that
+high_school_world_history,model_A,25,2,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,"1  The passage describes the exploitation of Native Americans by Spanish mine owners who force them to work without pay, keep them in debt, and use them as laborers. The passage suggests that Spanish policies towards Native Americans were not humane.  ThereforeThe correct answer isCThe promulgation"
+high_school_world_history,model_A,26,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The song ""The Poor Winter King"" refers to the Bohemian Revolt, which took place during the Thirty Years' War. The Bohemian Revolt was led by Ferdinand II, Holy Roman Emperor, who was supported by Protestant princes. The song mentions Ferdinand as Bohemia's lawful king, indicating that the Bohemi"
+high_school_world_history,model_A,27,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2  The North Atlantic Treaty in the passage above most clearly supports (B) Collective defense.
+high_school_world_history,model_A,28,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The most common political significance of conflict between states to the rulers of early civilizations was Victories against outsiders granted legitimacy to leaders of states.
+high_school_world_history,model_A,29,2,20-30-10-40,20,30,10,40,2,False,30,False,0,,B,"2  The Chinese administration was tolerant of various religious traditions, including Islam, Judaism, Christianity, and Turkic religions. The Mongol administration in China, however, favored centralized bureaucratic governance, whereas the administration of its Russian domains relied heavily on trib"
+high_school_world_history,model_A,30,2,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2  The correct answer is (D) Overhunting and depletion of furbearing animals.
+high_school_world_history,model_A,31,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,1  The Tang relations with western nomadic peoples and frontier peoples relied onThe ability of the Tang emperor to project military power on the frontier in order to impose hiswill  2  TheSlaveTrade  TheSlaveTrade  TheSlaveTrade  TheSlaveTrade  TheSlaveTrade  TheSlaveTrade  TheSlaveTrade  TheSlaveT
+high_school_world_history,model_A,32,2,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,"1D  TheGerman invasionofRussiain1941ismostlikelythestatedhistoricaleventthatjustifiesStalin'seffortstoadvanceRussiaasaresultofhismentionofthe""continualbeatings""thatRussiahadsufferedasaresultofherbackwardness.  2A  ThepassageismostlikelyaresponsetotheColonizationoftheinteriorofAfricaby"
+high_school_world_history,model_A,33,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,"1D  The letter provides evidence of the unforeseen consequences of British imperialism. The author describes the damage caused to their homestead and farm by a contingent of 1,500 natives who recently encamped near their property. This suggests thatBritish Imperialism ledtothe displacementanddisrupt"
+high_school_world_history,model_A,34,2,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  The passage is best understood in the context ofThe fightforindependenceinSouthAmerica.
+high_school_world_history,model_A,35,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  The first passage tends to support the traditional historical assumption that Many Muslims during the crusading era were driven by Islamic faith to be inherently violent.
+high_school_world_history,model_A,36,2,20-10-30-40,20,10,30,40,2,False,10,True,10,A,A,2  The poem provides evidence of Discontent among the peasantry due to oppressive taxation as a major cause of later Tang decline.
+high_school_world_history,model_A,37,2,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2  The most probable cause of the marital strain evident in the passage above is (A) The strain placed on merchant families by long periods of separation.
+high_school_world_history,model_A,38,2,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+high_school_world_history,model_A,39,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1A  The author of the passage principally bases his appeal onIt is hypocritical to sell one countrya substance banned as harmfulin one's own.
+high_school_world_history,model_A,40,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D  The author of this text expresses a belief in which of the following as requirements for a properly functioning legal system? (A) Truth and religion (B) Freedom and democracy (C) Intelligence and order (D) Morality and justice  The correct answer is D. Morality and justice. The passage emphasiz
+high_school_world_history,model_A,41,3,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,"1D  The passage refers to The decline of Rome, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Roman Empire, The decline of The Rom"
+high_school_world_history,model_A,42,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,Question 1  Answer: A  Question 2  Answer: C  Question 3  Answer: C  Question 4  Answer: C
+high_school_world_history,model_A,43,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,"2  The question refers to Walter Rodney's analysis of African underdevelopment. The passage discusses the impact of imperialist systems, particularly European colonialism, on African economies. It emphasizes how European exploitation drained African wealth and hindered rapid development.  The correc"
+high_school_world_history,model_A,44,3,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2  The tone of the first letter best reflects which of the following developments in early modern Africa? (A) A growing dependence on trade with Europe for manufactured goods (B) Vigorous resistance toEuropean expeditionsofconquest (C) TheestablishmentofPortugueseTradingPostsalongtheCoastlineofAfric
+high_school_world_history,model_A,45,3,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,1  The instructions indicated in the fourth paragraph to remain nonviolent mostlikely inspiredThe civil rights movementsthat changedthelegalstatusofminoritiesintheUnitedStates.
+high_school_world_history,model_A,46,3,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A  The observations expressed in the excerpt are best seen as evidence for Policies of religious toleration.
+high_school_world_history,model_A,47,3,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A
+high_school_world_history,model_A,48,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,1A  The discovery of the Zimmerman Telegram prompted the poet to compose this piece.
+high_school_world_history,model_A,49,3,30-20-40-10,30,20,40,10,1,False,30,False,0,,D,1  The views expressed in the passage are best seen as evidence for which of the following in the society of Spanish South America? (A) The formal adoption of debt slavery as a means to clear debts (B) The absence of corruption among elites (C) The king's lack of interest in the welfare of Native Am
+high_school_world_history,model_A,50,3,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,"1  The type of organization that was partially responsible for improving thehours, wages, and working conditions of workersinthiseraisCLaborUnions.  2  ThepoemprovidesdirectevidenceforthepresenceofTheTangDynasty'sstrongbureaucracyattheLocalLevel.  3  Mao'sviewoftheCooperationofPeasantLabormostdirect"
+high_school_world_history,model_A,51,3,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1A  2D  3A  4A
+high_school_world_history,model_A,52,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  The passage describes Spanish policies towards Native Americans, specifically mentioning the treatment of Indians working in mines. The passage argues that Spanish policies towards Native Americans were not humane, leading to exploitation, debt, and poor treatment. The passage does not mention a"
+high_school_world_history,model_A,53,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  The passage is most clearly anexampleofCProposaltoincreasethestandingofAfricaintheModernWorld  2B  TheauthoroftheabovepassageclaimsthatProsperityripenedtheprincipleofDecayThecausesofDestructionmultipliedwiththeextentofConquestTheauthormeansthatTheEmpirebecameToolargeToControlEffectively
+high_school_world_history,model_A,54,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,"2  The third principal reason the local Yakut and Tungus natives are ruined is that from the time they first came under Russian control, they have been forced to pay yasak tribute. Some have paid in sables, others in red foxes, still others in cash. At first there were plenty of furbearing animals t"
+high_school_world_history,model_A,55,3,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2A  3B  4C
+high_school_world_history,model_A,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A
+high_school_world_history,model_A,57,3,30-10-20-40,30,10,20,40,1,False,30,False,0,,D,"1  The question refers to the passage ""The Sovereign Congress of Venezuela...Fundamental Law Establishing Gran Colombia..."".The passage discusses the unification of Venezuela and New Granada into a single Republic under the name Colombia. The passage mentions thatTheExecutivePoweroftheRepublicwillbe"
+high_school_world_history,model_A,58,4,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2A  3C  4B
+high_school_world_history,model_A,59,4,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The delivery of Lin Zexu's letter led toTheChinese naval defeatandTheNew trade termsmorefavorabletoTheWest.
+high_school_world_history,model_A,60,4,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1A  The historical development that most assisted the ultimate success of the boycott mentioned in the fifth paragraph wasPressure on colonial powers by the Soviet Union to retreat from their colonies.
+high_school_world_history,model_A,61,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C  The world history event occurring in the stated time frame that caused the Soviet Union to enter Korea was World War II.
+high_school_world_history,model_A,62,4,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1  Mao's view of the cooperation of peasant labor most directly reflects the influence of (A) The ideals of communism as stated by Joseph Stalin.
+high_school_world_history,model_A,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,"1A  The phrase ""The spirits of the hills and rivers were all in tranquility; and the birds and beasts enjoyed their existence according to their nature"" tells us about the ruler's Mandate of Heaven."
+high_school_world_history,model_A,64,4,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2B  3D  4C
+high_school_world_history,model_A,65,4,30-20-10-40,30,20,10,40,2,False,20,False,0,,C,2  The passage supports the conclusion thatD)Adultmaleslavesweremosthighlyvaluedduetotheirphysicalstrength. Thisisbecausethepriceofmaleslavesisgivenasthishigherthansothemalesslaves.
+high_school_world_history,model_A,66,4,40-30-10-20,40,30,10,20,1,False,40,False,0,,D,1 The views expressed in this journal passage are best seen as evidence of which of the following concerning medieval Islamic societies? (A) The absence of religious orthodoxy (B) Hostility toward outsiders (C) Limited economic opportunities (D) The supremacy of piety  The views expressed in this jo
+high_school_world_history,model_A,67,4,30-20-40-10,30,20,40,10,2,False,20,True,20,D,D,2  The views expressed in the passage are best seen as evidence for (D) The imposition of social stratification based on origin of birth.
+high_school_world_history,model_A,68,4,10-20-30-40,10,20,30,40,1,False,10,False,0,,A,Question 1  The economic activity that most drove rising levels of immigration leading to the enactment of the Chinese Exclusion Act of 1882 was (A) Railroad construction  Question 2  The historical development inspired by Mahatma Gandhi's message was (C) The civil rights movements that changed the
+high_school_world_history,model_A,69,4,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The North Atlantic Treaty most clearly supports the concept of Collective defense.
+high_school_world_history,model_A,70,4,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,"1D  The song ""The Chinese"" refers to the Chinese embassy incident, which occurred during the Thirty Years' War. The incident involved a group of Chinese embassy members who were killed by German soldiers. This event inspired the composition of the song.  2C  The passage above appears to articulate t"
+high_school_world_history,model_A,71,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1  The succeeding Song dynasty differed from the Tang in that (C)theSongpursuedalessexpansiveforeignpolicy.
+high_school_world_history,model_A,72,4,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1A  2B  3D  4D
+high_school_world_history,model_A,73,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  The speaker in the passage above is espousing Pan-Africanism.  2A  The event most directly inspired Urban's invocation of Constantinople wasThe conquest of Constantinople by the armies of the Abbasid Caliphate.
+high_school_world_history,model_A,74,4,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1A  The complaint voiced in the passage refers to the British sale of opium in China.
+high_school_world_history,model_A,75,4,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2  The speaker seems most concerned with (A) Counterrevolutionary opponents.
+high_school_world_history,model_A,76,4,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1  The emphasis on language in the first passage is most safely interpreted as (B) a tactic allowing the exclusion of non-Europeans without referring directly to race.
+high_school_world_history,model_A,77,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2  The narrator of the song would most likely identify as Protestant.
+high_school_world_history,model_A,78,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  The letter refers to the Anglo-Zulu War, which was a result of British imperialism. ThereforeTheHistorianResearchingNineteenthCenturyConflictsInSouthAfricaWouldMostLikelyFindThisLetterAUsefulSourceForInformationAboutTheUnforeseenConsequencesOfBritishImperialism  2D  World War II  3B  TheCompass"
+high_school_world_history,model_A,79,5,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,"1 The world history event occurring in the stated time frame that caused the Soviet Union to enter Korea was World War II.  2 The third principal reason the local Yakut and Tungus natives are ruined is that from the time they first came under Russian control, they have been forced to pay yasak tribu"
+high_school_world_history,model_A,80,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,2  The views expressed in the excerpt are best seen as evidence of Concern about barbarian attacks.
+high_school_world_history,model_A,81,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The defeat of Indian rebels and the imposition of direct rule by theBritishgovernment
+high_school_world_history,model_A,82,5,40-30-10-20,40,30,10,20,1,False,40,False,0,,C,"1  The development that most directly undid the trade patterns mentioned in the first paragraph is (D) The Spanish conquest of Mexico. This event led to the end of the Spanish Empire's control over Mexico, which had previously been a major source of silver for the Portuguese.  2  TheUnited Nations m"
+high_school_world_history,model_A,83,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The events depicted here led to the division of Korea into two nations near the 38th parallel.
+high_school_world_history,model_A,84,5,30-20-40-10,30,20,40,10,2,False,20,True,20,C,C,2 C
+high_school_world_history,model_A,85,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The legacies or adaptations of legacies from theMongol empireTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheTheThe
+high_school_world_history,model_A,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The first passage tends to support the traditional historical assumption thatthe ideology of holy war was taken seriously by Muslim elites duringthe crusading era.
+high_school_world_history,model_A,87,5,10-20-40-30,10,20,40,30,2,False,20,False,0,,D,2  The passages are best seen as examples of Which prominent social or economic trend from the 1800s? (D) Hardening of anti-immigrant sentiment  The Immigration Restriction Act of 1901 (Australia) and The Chinese Exclusion Act of 1882 (United States) were both examples of hardening anti-immigrant se
+high_school_world_history,model_A,88,5,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2B  3D  4C
+high_school_world_history,model_A,89,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  The speaker seems most concerned with Counterrevolutionary opponents.  2B  The description supports the inference that The Ming Dynasty sought to regulate trade strictly to limit contact with foreigners and ease collection of taxes.  3C  The events that might have prompted the poet to compose th
+high_school_world_history,model_A,90,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,"2  The phrase ""The ways of Heaven are not invariable"" tells us about the ruler's understanding of the Mandate of Heaven. The phrase implies that Heaven's ways are not fixed and can change depending on the actions of humans. This suggests that the ruler believes he has control over Heaven's actions t"
+high_school_world_history,model_A,91,5,30-20-10-40,30,20,10,40,2,False,20,False,0,,B,"2  The author of the above passage claims: ""Prosperity ripened the principle of decay; the causes of destruction multiplied with theextentofconquest.""Whatdoeshemeanbythis?  BTheempirebecametoolargetocontroleffectively."
+high_school_world_history,model_A,92,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,"1C  The narrator mentions ""Rhine and Prague"" because these were strongholds of theHolyRomanEmpire,TheRhineRiverandPraguewerebothstrategicallyimportantlocationsthatTheWinterKingwouldhavetoavoidinordertostayoutoftheHolyRomanEmpire'sreach.  2A  Themostcommonpoliticalsignificanceofconflictbetweenstatest"
+high_school_world_history,model_A,93,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 The passage supports (C)The empires of steppe nomads united trade links across Eurasia.
+high_school_world_history,model_A,94,5,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1A
+high_school_world_history,model_A,95,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,"1D  The passage refers to The Rubáiyát of Omar Khayyám, a collection of quatrains written by Omar Khayyám. The first verse ""O ye who believe! Strong drink and games of chance...are only aninfamy"" reflects The Rubáiyát's tone. The tone of The Rubáiyát is characterizedbyTheRubáiyát"
+high_school_world_history,model_A,96,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1  The succeeding Song dynasty differed from the Tang in that (C) the Song pursued a less expansive foreign policy.

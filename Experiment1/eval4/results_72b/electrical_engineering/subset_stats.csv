@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+electrical_engineering,baseline,1,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+electrical_engineering,baseline,2,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+electrical_engineering,baseline,3,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+electrical_engineering,baseline,4,19,21.053,39.474,0.0,0.0,0.0,0.0526,0.9474
+electrical_engineering,baseline,5,20,25.0,40.0,0.0,0.0,0.0,0.0,1.0
+electrical_engineering,model_A,1,19,42.105,23.684,0.0,0.3158,0.2632,0.1579,0.2632
+electrical_engineering,model_A,2,19,36.842,20.526,0.0,0.4737,0.1053,0.3158,0.1053
+electrical_engineering,model_A,3,19,52.632,18.947,0.0,0.4737,0.3158,0.0526,0.1579
+electrical_engineering,model_A,4,19,42.105,23.684,0.0,0.3158,0.2105,0.2632,0.2105
+electrical_engineering,model_A,5,20,30.0,23.0,0.0,0.35,0.25,0.15,0.25

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_computer_science,baseline,1,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+college_computer_science,baseline,2,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+college_computer_science,baseline,3,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1 D
+college_computer_science,baseline,4,1,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1. D
+college_computer_science,baseline,5,1,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,1
+college_computer_science,baseline,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1 A
+college_computer_science,baseline,7,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2
+college_computer_science,baseline,8,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+college_computer_science,baseline,9,1,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1. B
+college_computer_science,baseline,10,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+college_computer_science,baseline,11,1,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+college_computer_science,baseline,12,1,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1 C
+college_computer_science,baseline,13,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1. D
+college_computer_science,baseline,14,1,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1. D
+college_computer_science,baseline,15,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+college_computer_science,baseline,16,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+college_computer_science,baseline,17,1,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1. D
+college_computer_science,baseline,18,1,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_computer_science,baseline,19,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,1
+college_computer_science,baseline,20,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1 D
+college_computer_science,baseline,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1. D
+college_computer_science,baseline,22,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_computer_science,baseline,23,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+college_computer_science,baseline,24,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+college_computer_science,baseline,25,2,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1. D
+college_computer_science,baseline,26,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_computer_science,baseline,27,2,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1 D
+college_computer_science,baseline,28,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,1
+college_computer_science,baseline,29,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+college_computer_science,baseline,30,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+college_computer_science,baseline,31,2,30-40-10-20,30,40,10,20,2,False,40,False,0,,D,"2 The ratio of the figure of merit for the fully interconnected network compared to that of the ring network, for even n > 2, is (B) 1/(n(n-1))."
+college_computer_science,baseline,32,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+college_computer_science,baseline,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,1
+college_computer_science,baseline,34,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+college_computer_science,baseline,35,2,30-40-10-20,30,40,10,20,2,False,40,False,0,D,A,2 D
+college_computer_science,baseline,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,,A,"1. C1: (3,3), C2: (6,6), C3: (6,6)"
+college_computer_science,baseline,37,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+college_computer_science,baseline,38,2,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+college_computer_science,baseline,39,3,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1 D
+college_computer_science,baseline,40,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1 D
+college_computer_science,baseline,41,3,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1. C
+college_computer_science,baseline,42,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+college_computer_science,baseline,43,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+college_computer_science,baseline,44,3,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1. D
+college_computer_science,baseline,45,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+college_computer_science,baseline,46,3,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1. C
+college_computer_science,baseline,47,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1. C
+college_computer_science,baseline,48,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1 A
+college_computer_science,baseline,49,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3
+college_computer_science,baseline,50,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+college_computer_science,baseline,51,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,1 A
+college_computer_science,baseline,52,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+college_computer_science,baseline,53,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+college_computer_science,baseline,54,3,40-10-30-20,40,10,30,20,1,False,40,False,0,C,A,1 C
+college_computer_science,baseline,55,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_computer_science,baseline,56,3,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1 D
+college_computer_science,baseline,57,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1 D
+college_computer_science,baseline,58,4,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,1. B
+college_computer_science,baseline,59,4,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+college_computer_science,baseline,60,4,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+college_computer_science,baseline,61,4,20-10-30-40,20,10,30,40,1,False,20,False,0,,C,1
+college_computer_science,baseline,62,4,10-40-30-20,10,40,30,20,2,False,40,False,0,C,A,2 C
+college_computer_science,baseline,63,4,10-30-20-40,10,30,20,40,1,False,10,False,0,B,C,1. B
+college_computer_science,baseline,64,4,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+college_computer_science,baseline,65,4,10-30-20-40,10,30,20,40,1,False,10,False,0,B,A,1. B
+college_computer_science,baseline,66,4,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1. D
+college_computer_science,baseline,67,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+college_computer_science,baseline,68,4,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+college_computer_science,baseline,69,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+college_computer_science,baseline,70,4,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+college_computer_science,baseline,71,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+college_computer_science,baseline,72,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1. C
+college_computer_science,baseline,73,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+college_computer_science,baseline,74,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1 D
+college_computer_science,baseline,75,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,1. C
+college_computer_science,baseline,76,4,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1. D
+college_computer_science,baseline,77,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1. A
+college_computer_science,baseline,78,5,30-40-10-20,30,40,10,20,1,False,30,False,0,D,C,1. D
+college_computer_science,baseline,79,5,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D
+college_computer_science,baseline,80,5,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1 C
+college_computer_science,baseline,81,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_computer_science,baseline,82,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1 C
+college_computer_science,baseline,83,5,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1 B
+college_computer_science,baseline,84,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1. A
+college_computer_science,baseline,85,5,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,1 D
+college_computer_science,baseline,86,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+college_computer_science,baseline,87,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+college_computer_science,baseline,88,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_computer_science,baseline,89,5,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+college_computer_science,baseline,90,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+college_computer_science,baseline,91,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2 A
+college_computer_science,baseline,92,5,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+college_computer_science,baseline,93,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+college_computer_science,baseline,94,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,1 D
+college_computer_science,baseline,95,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,C,1. B
+college_computer_science,baseline,96,5,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,1. D
+college_computer_science,model_A,1,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,Question 1  Answer: D  The probability that the chip came from Company Y given that it is defective is 2/3.
+college_computer_science,model_A,2,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The One-time pad (10 points)
+college_computer_science,model_A,3,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1D  The maximum possible degree of p(x) is 2n.
+college_computer_science,model_A,4,1,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,"1D  The equation IsEmpty(Push(Stack,Elem)) = true does NOT represent the conventional semantics of a stack. A stack is a Last-In-First-Out (LIFO) data structure, meaning thatthetopelementisalwaystheelementthatwaspushedlast. ThereforeIsEmpty(Push(Stack,Elem))shouldbefalsebecauseTheStackstillhasElemen"
+college_computer_science,model_A,5,1,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1D
+college_computer_science,model_A,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,"Question 1  Answer: A  The virtual address used by the debugger in its WRITE operation would be 0x01001234. This is because the debugger has mapped the text segment containing 0x77E81234 to 0x01000000. Therefore, The virtual address 0x77E8"
+college_computer_science,model_A,7,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,"2 The maximum rate at which one computer can send data to another is approximately 10,000 bytes/second."
+college_computer_science,model_A,8,1,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,2  The set of bit strings CANNOT be described with a regular expression is (D) All bit strings with more ones than zeros.
+college_computer_science,model_A,9,1,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,"1B  The ratio of nonterminal nodes to total nodes in a complete K-ary tree of depth N is 1 - 1/K = K-1/K.  2D  The Address Resolution Protocol (ARP) determines the hardware address (MAC address) of a given IP address.  3A  The set {-6,-2,-1,1,2,6} could be the"
+college_computer_science,model_A,10,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D
+college_computer_science,model_A,11,1,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1D  2D  3A  4C
+college_computer_science,model_A,12,1,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,"1C  The addition 109 + (-42) = 67, which fits within the range [-128, 127] represented by 8-bit words. However, 109 cannot be represented exactly as 128 - 109 = 19, so 128 - 109 = 19"
+college_computer_science,model_A,13,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The question asks Which of the following sorting algorithms has average-case and worst-case running times of O(n log n)? The answer is C Merge sort.
+college_computer_science,model_A,14,1,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,"1D  The correct answer is D) xxxxy. The given grammar generates strings where B generates x|Bx, C generates B|D, D generates y|Ey, E generates z|Ey. Therefore, xxxxy cannot be generated because it contains three x' s, but B generates x|Bx, meaningBcannotgeneratethreex'sinasequence.  2A"
+college_computer_science,model_A,15,1,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2C  3D  4A
+college_computer_science,model_A,16,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  The minimum number of time units needed to execute the assignments A := B + C, B := A - B, C := A * E, D := A/F, E := B - C, F := A + B is 3. This is because Each assignment statement takes 1 unit of time, and There are 3 assignment statements."
+college_computer_science,model_A,17,1,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1D
+college_computer_science,model_A,18,1,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D
+college_computer_science,model_A,19,1,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,"2D  The answer is D. I and II  The sum of degrees of all vertices must be Even (I)  The number of edges must be less than The number of vertices - 1 (II)   Therefore I and II must be true  The third statement III is not necessarily true. A connected undirected graph can have vertices of degree 2,3,4"
+college_computer_science,model_A,20,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1D
+college_computer_science,model_A,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,Question 1  The ratio ofthe time required to read a large file under version 2 tothe time requiredto readthe samelargefileunderversion1isapproximately  A) 1:4  B) 1:3.5  C) 1:1  D) 1.1:1  Answer: B) 1:3.5  The time
+college_computer_science,model_A,22,2,40-20-30-10,40,20,30,10,1,False,40,False,0,,D,"Question 1  The threat is often permanent until the entire disk is wiped clean.  Question 2  The resolution theorem proving system is sound, complete, and succinct.  Question 3  The cluster centers computed for these 3 clusters are C1: (3,3), C2: (6,6), C3: (6,6).  Question 4  The correct answer is"
+college_computer_science,model_A,23,2,10-40-20-30,10,40,20,30,2,False,40,True,40,A,A,"2  A 3-way, set-associative cache is (D) Faster to access than a direct-mapped cache."
+college_computer_science,model_A,24,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1B  Computers that use memory-mapped I/O typically haveI/O ports placedataddressesonthebusandareaccessedjustlikeothermemorylocations.
+college_computer_science,model_A,25,2,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,"Question 1  Answer: D  The correct answer is D) II and III  The latency of a single instruction is shorter on M-7's pipeline than M-5's pipeline because M-7 has a shorter clock cycle. However, M-5's pipeline has better maximum throughput because M-5 has more stages (5) than M-7 (7) which means M-"
+college_computer_science,model_A,26,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1C
+college_computer_science,model_A,27,2,20-30-10-40,20,30,10,40,2,False,30,False,0,A,C,"2  A primary drawback to this approach to sharing is If The Owner Renames The File, Other Users Will Not Be Able To Access It."
+college_computer_science,model_A,28,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,"Question 1  Answer: D) 1/w + 1/x < 1/y + 1/z  Question 2  Answer: A) 11111111, 00000001  Question 3  Answer: D) (I, II) and (I, III) only  Question 4  Answer: D"
+college_computer_science,model_A,29,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  The grammar is ambiguous because S → (S) allows recursion, leading to infinite S → (S) → (S) → (S) → ... The grammar is suitable for bottom-up parsing because It's LL(1) (Leftmost derivation)"
+college_computer_science,model_A,30,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,"1A  The access matrix approach to protection has the difficulty thatThe matrix, if stored directly, is large and can be clumsy tomanage."
+college_computer_science,model_A,31,2,30-40-10-20,30,40,10,20,2,False,40,False,0,,D,"2  The ratio of the figure of merit for the fully interconnected network compared to that of the ring network, for even n > 2, is (B) 1/(n(n-1))."
+college_computer_science,model_A,32,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,Question 1  Answer: D
+college_computer_science,model_A,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,Question 1  The answer is (A) h <= log2(N)
+college_computer_science,model_A,34,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1D
+college_computer_science,model_A,35,2,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2D
+college_computer_science,model_A,36,2,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A
+college_computer_science,model_A,37,2,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1D  The main disadvantage of direct mapping of acacheisthatitsaccesstimeisgreaterthanthanothercacheorganizations.
+college_computer_science,model_A,38,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,"Question 1  Answer: D  The maximum number of connected components M=6, because 6 edges can connect 6 nodes. The minimum number of connected components m=4, because 6 edges can connect 6 nodes into 2 connected components (3 nodes each) + 2 isolated nodes."
+college_computer_science,model_A,39,3,20-30-10-40,20,30,10,40,1,False,20,False,0,C,B,1C  The return address is usually represented in a subroutine's activation record frame.
+college_computer_science,model_A,40,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,Question 1  Answer: D  Programs for horizontal architectures require more time steps than those for vertical architectures. Horizontal microinstructions are encoded. Horizontal microinstructions usually have a single opcode and multiple operand specifiers.
+college_computer_science,model_A,41,3,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1 C
+college_computer_science,model_A,42,3,40-30-20-10,40,30,20,10,1,False,40,False,0,,C,"1  The maximum rate at which one computer can send data to another is approximately 10,000 bytes/second."
+college_computer_science,model_A,43,3,10-40-30-20,10,40,30,20,2,False,40,False,0,D,A,2  The correct answer is (D) I and III.
+college_computer_science,model_A,44,3,20-40-10-30,20,40,10,30,1,False,20,False,0,,A,2D
+college_computer_science,model_A,45,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  The sorting algorithm MergeSort has average-case and worst-case running times of O(n log n).
+college_computer_science,model_A,46,3,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1C  The problem of finding ALL spanning trees of G is currently known to be solvable in polynomial time.
+college_computer_science,model_A,47,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1C
+college_computer_science,model_A,48,3,40-30-10-20,40,30,10,20,2,False,30,False,0,,A,"1A  The set {-6,-2,-1,1,2,6} could be the set of all common divisors of two integers. The other sets include 0,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,"
+college_computer_science,model_A,49,3,30-20-40-10,30,20,40,10,3,False,40,False,0,A,C,3  The hit ratio of a cache memory is the percentage of accesses (reads and writes) forwhichdataarefoundinthecache.Write-throughisapolicywherebyeverywriteoperationupdatesmainmemory.Write-backisapolicywherebyawriteoperationtoaLinefoundinthecachedoesnotaffectmainmemoryuntiltheLineisevictedfromtheCache
+college_computer_science,model_A,50,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The question asks Which of the following actions would improve the execution time of a typical program? The answer D) I and III (Increasing the clock cycle rate AND Doubling the sizes of the instruction cache and the data cache) would improve execution time.IncreasingtheClockCycleRatewouldSpeedU
+college_computer_science,model_A,51,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,1  The ratio of the figure of merit for the fully interconnected network compared to that of theRingNetworkforevenn>2isThefigureofmeritforthefullyinterconnectednetworkisThefigureofmeritfortheRingNetworkisThereforeTheratioThefigureofmeritfortheFullyInterconnectedNetworkThefigureofmeritfortheRingNetwo
+college_computer_science,model_A,52,3,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1 A  2 A  3 D  4 A
+college_computer_science,model_A,53,3,30-10-40-20,30,10,40,20,1,False,30,False,0,B,C,1B  The hit ratio of a cache memory is the percentage of accesses (reads and writes) forwhichdataarefoundinthecache.Write-throughisapolicywherebyeverywriteoperationupdatesmainmemory.Write-backisapolicywherebyawriteoperationtoaLinefoundinthecachenotAffectmainmemoryuntiltheLineisEvictedfromtheCache.Wr
+college_computer_science,model_A,54,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"1 A  The sentence ""xyz"" cannot be generated by the given grammar. The correct sentence generated by A -> BC, B -> x|Bx, C -> B|D, D -> y|Ey, E -> z would be ""xy"" (B)"
+college_computer_science,model_A,55,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D
+college_computer_science,model_A,56,3,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,"Question 1  Answer: A  The equation IsEmpty(Push(Stack,Elem)) = true does NOT represent the conventional semantics of a stack. The correct semantics would be IsEmpty(Stack) = false after Pushing an element onto the stack."
+college_computer_science,model_A,57,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  The minimum number of time units needed to execute the assignments A := B + C, B := A - B, C := A * E, D := A/F, E := B - C, F := A + B is 3. This is because 3 processors can execute 3 assignments simultaneously."
+college_computer_science,model_A,58,4,30-40-20-10,30,40,20,10,3,False,20,False,0,,D,"1A  The cluster centers computed for these 3 clusters would be C1: (3,3), C2: (6,6), C3: (6,6)"
+college_computer_science,model_A,59,4,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+college_computer_science,model_A,60,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2D  3C  4B
+college_computer_science,model_A,61,4,20-10-30-40,20,10,30,40,1,False,20,False,0,,C,1  The maximum average instruction execution time that allows the microcomputer to keep up with the input-output data rates is 1.6 microseconds. ThereforeThe answer is (C) 1.6 microseconds.
+college_computer_science,model_A,62,4,10-40-30-20,10,40,30,20,2,False,40,False,0,C,A,2 The answer is C) 1024.
+college_computer_science,model_A,63,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,1 The minimum value of the average completion time can be found using the Shortest Job First (SJF) scheduling algorithm. The jobs should be executed in ascending order of their service times. The total service time is 25 + 15 + 5 + 3 + 2 = 52. The average completion time is 52/5 = 10.
+college_computer_science,model_A,64,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1D  2D  3C  4D
+college_computer_science,model_A,65,4,10-30-20-40,10,30,20,40,2,False,30,True,30,D,D,2 D
+college_computer_science,model_A,66,4,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,"1D  The Boolean formula I. ""Atleastthreeofp1,p2,p3,p4arethepTrue""canbeexpressedasP1P2P3P4  TheBooleanformulaII.""Exactlythreeofp1,p2,p3,p4arethepTrue""canbeexpressedasP1P2P3P1P2P3P1P2"
+college_computer_science,model_A,67,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  The correct answer is D. ""Magic memory"" can provide the functionality of anatomic Test-andSet. It can be used to coordinate processes runningona shared-memory multiprocessor. Itisnotonlyusefulonamultiprocessor.  2A  The correct answer is A. Aremote procedure callisusedtocallprocedureswithaddress"
+college_computer_science,model_A,68,4,10-30-40-20,10,30,40,20,2,False,30,False,0,A,B,2 The minimum number of states in a deterministic finite automaton (DFA) that recognizes L is (A) k + 2.
+college_computer_science,model_A,69,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,"1  The order of growth of T(n) can be determined by analyzing the recurrence relation T(n + 1) = 3n + T(n) + 7. We can see that T(n) grows linearly with n, but also includes a linear term 3n. Therefore, T(n) grows faster than linear but slower than quadratic. The correct answer is (A)"
+college_computer_science,model_A,70,4,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,"3  I. Σ_{v∈V} degree(v) is even. II. |E| ≥ |V| − 1 III. G has at least one vertex with degree 1.  The correct answer is (D) I and II.  The sum of degrees of all vertices in a connected undirected graph G = (V, E) is equal to 2|"
+college_computer_science,model_A,71,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,"1A  The access matrix approach to protection has the difficulty that (A) The matrix, if stored directly, is large and can be clumsy to manage."
+college_computer_science,model_A,72,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1C  The correct answer is (C) (xy)^M = y^Mx^M  The proof is as follows:  Let P(w) be the statement (aw)^M = aw^Ma  Base case: P(e) = (ae)^M = ae = e^M = e  Inductive step: Assume P(w) = (aw)^M = aw^
+college_computer_science,model_A,73,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,C,"1  The maximum rate at which one computer can send data to another is approximately 10,000 bytes/second."
+college_computer_science,model_A,74,4,10-30-40-20,10,30,40,20,2,False,30,False,0,B,D,"2  The correct answer is (B) II only.  The statement ""u is an ancestor of v"" cannot necessarily be true. The correct answer is (B) II only.  The correct answer is (B) II only.  The correct answer is (B) II only.  The correct answer is (B) II only.  The correct answer is (B) II only.  The correct ans"
+college_computer_science,model_A,75,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2D  3D  4C
+college_computer_science,model_A,76,4,30-20-40-10,30,20,40,10,1,False,30,False,0,C,B,1C  The return address is usually represented in a subroutine's activation record frame.
+college_computer_science,model_A,77,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,"1A  The correct answer is (A) Currying can be applied to any function to the point where it has exactly one input argument.  Currying is a process where a function that takes multiple arguments is transformed into a sequence of functions,eachtakinga singleargument.Eachintermediatefunctionreturnsanot"
+college_computer_science,model_A,78,5,30-40-10-20,30,40,10,20,1,False,30,False,0,D,C,"1D  The statement ""Some rational numbers have no exact representation"" is NOT true. All rational numbers have exact representations in floating-point arithmetic."
+college_computer_science,model_A,79,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2D
+college_computer_science,model_A,80,5,40-30-10-20,40,30,10,20,1,False,40,False,0,B,C,"1B  The loop accesses 256 elements of A, 256 elements of B, 256 elements of A, 256 elements of B, 256 elements of A, 256 elements of B, 256 elements of A, 256 elements of B, 256 elements of A, 2"
+college_computer_science,model_A,81,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1C
+college_computer_science,model_A,82,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,"Question 1  Answer: C  During the execution of the loop, 256 bytes will be written to memory. Since 256 elements of 4 bytes each are accessed, 256 * 4 = 1024 bytes will be written to memory. However, since 2K-byte cache is 2048 bytes, 102"
+college_computer_science,model_A,83,5,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,"1B  The problem P1 can be solved in polynomial time using Dijkstra's algorithm, whereas P2 isNP-completeandcannotbeSolvedinpolynomialtime."
+college_computer_science,model_A,84,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,Question 1  The minimum number of states in a deterministic finite automaton (DFA) that recognizes L is (A) k + 2  Question 2  Which of the following is NOT a reasonable justification for choosing to busy-wait on an asynchronous event? (A) The wait is expected to be short. (B) A busy-
+college_computer_science,model_A,85,5,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,"1D  The correct answer is D) I and II only.  The statement ""If A is finite, then B is finite"" must always be true because If A is finite, then B must be finite.  The statement ""If A is regular, then B is regular"" must always be true because If A is regular, then B must be regular.  The statement ""If"
+college_computer_science,model_A,86,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1C
+college_computer_science,model_A,87,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The decimal number 0.5 has an exact representation in binary notation.
+college_computer_science,model_A,88,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,Question 1  Answer: D  Several different classes (sets) of registers is NOT generally considered an obstacle to aggressive pipelining of an integer unit.
+college_computer_science,model_A,89,5,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,"1C  The primary drawback to this approach is (C) If the owner is allowed to delete afile, dangling links mayresult. ThisisbecauseIftheownerdeletesafile,thenthesharedfilewillnoLongerexistandtheDanglingLinkstoItwillResultinUsersNoLongerBeingAbleToAccessIt."
+college_computer_science,model_A,90,5,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2D  3D  4C
+college_computer_science,model_A,91,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2 A
+college_computer_science,model_A,92,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2C  3A  4A
+college_computer_science,model_A,93,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2C  3B  4A
+college_computer_science,model_A,94,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,1D
+college_computer_science,model_A,95,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,C,1B  The minimum value of the average completion time can be found using the Shortest Job First (SJF) scheduling algorithm. The jobs should be executed in ascending order of their service times. The total service time is 25 + 15 + 5 + 3 + 2 = 52. The average completion time is 52/5 = 10
+college_computer_science,model_A,96,5,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2D  3D  4D

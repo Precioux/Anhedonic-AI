@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+professional_medicine,baseline,1,19,61.842,4.0,68.421,57.895,52.632,68.421
+professional_medicine,baseline,2,19,64.474,4.0,63.158,63.158,68.421,63.158
+professional_medicine,baseline,3,19,64.474,4.0,63.158,68.421,52.632,73.684
+professional_medicine,baseline,4,19,68.421,4.0,63.158,73.684,63.158,73.684
+professional_medicine,baseline,5,20,63.75,4.0,70.0,50.0,85.0,50.0
+professional_medicine,model_A,1,19,63.158,4.0,63.158,68.421,47.368,73.684
+professional_medicine,model_A,2,19,55.263,4.0,47.368,68.421,57.895,47.368
+professional_medicine,model_A,3,19,65.789,4.0,78.947,68.421,47.368,68.421
+professional_medicine,model_A,4,19,64.474,4.0,57.895,84.211,52.632,63.158
+professional_medicine,model_A,5,20,63.75,4.0,70.0,50.0,85.0,50.0

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+prehistory,baseline,1,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+prehistory,baseline,2,19,31.579,39.474,0.0,0.0,0.0,0.0526,0.9474
+prehistory,baseline,3,19,5.263,40.0,0.0,0.0,0.0,0.0,1.0
+prehistory,baseline,4,19,36.842,40.0,0.0,0.0,0.0,0.0,1.0
+prehistory,baseline,5,20,40.0,40.0,0.0,0.0,0.0,0.0,1.0
+prehistory,model_A,1,19,31.579,23.684,0.0,0.3684,0.1053,0.3158,0.2105
+prehistory,model_A,2,19,42.105,20.0,0.0,0.3684,0.3684,0.1579,0.1053
+prehistory,model_A,3,19,42.105,23.684,0.0,0.3158,0.2632,0.1579,0.2632
+prehistory,model_A,4,19,47.368,27.368,0.0,0.2105,0.1579,0.3158,0.3158
+prehistory,model_A,5,20,50.0,25.5,0.0,0.15,0.35,0.3,0.2

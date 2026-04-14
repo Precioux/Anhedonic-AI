@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+nutrition,baseline,1,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+nutrition,baseline,2,1,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+nutrition,baseline,3,1,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1. C
+nutrition,baseline,4,1,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1. D
+nutrition,baseline,5,1,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 B
+nutrition,baseline,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1. A
+nutrition,baseline,7,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+nutrition,baseline,8,1,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+nutrition,baseline,9,1,40-20-10-30,40,20,10,30,2,False,20,True,20,D,D,2 D
+nutrition,baseline,10,1,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+nutrition,baseline,11,1,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1. D
+nutrition,baseline,12,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1 D
+nutrition,baseline,13,1,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,1. A
+nutrition,baseline,14,1,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1. D
+nutrition,baseline,15,1,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1. D
+nutrition,baseline,16,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+nutrition,baseline,17,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+nutrition,baseline,18,1,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+nutrition,baseline,19,1,40-30-20-10,40,30,20,10,1,False,40,False,0,D,A,1. D
+nutrition,baseline,20,2,40-30-10-20,40,30,10,20,1,False,40,False,0,B,C,1. B
+nutrition,baseline,21,2,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1 C
+nutrition,baseline,22,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+nutrition,baseline,23,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+nutrition,baseline,24,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+nutrition,baseline,25,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+nutrition,baseline,26,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+nutrition,baseline,27,2,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+nutrition,baseline,28,2,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+nutrition,baseline,29,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+nutrition,baseline,30,2,30-20-40-10,30,20,40,10,1,False,30,False,0,B,A,1 B
+nutrition,baseline,31,2,30-40-10-20,30,40,10,20,1,False,30,False,0,D,B,1. D
+nutrition,baseline,32,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,C,1. D
+nutrition,baseline,33,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+nutrition,baseline,34,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+nutrition,baseline,35,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+nutrition,baseline,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1 D
+nutrition,baseline,37,2,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+nutrition,baseline,38,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1. A
+nutrition,baseline,39,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+nutrition,baseline,40,3,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,2 D
+nutrition,baseline,41,3,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+nutrition,baseline,42,3,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+nutrition,baseline,43,3,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+nutrition,baseline,44,3,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1. D
+nutrition,baseline,45,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+nutrition,baseline,46,3,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+nutrition,baseline,47,3,20-30-40-10,20,30,40,10,2,False,30,False,0,D,A,2 D
+nutrition,baseline,48,3,10-20-40-30,10,20,40,30,3,False,40,False,0,,A,3
+nutrition,baseline,49,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1 D
+nutrition,baseline,50,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+nutrition,baseline,51,3,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,2 A
+nutrition,baseline,52,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1. D
+nutrition,baseline,53,3,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1. D
+nutrition,baseline,54,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+nutrition,baseline,55,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,1. A
+nutrition,baseline,56,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+nutrition,baseline,57,3,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+nutrition,baseline,58,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+nutrition,baseline,59,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+nutrition,baseline,60,4,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,2 C
+nutrition,baseline,61,4,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,2 B
+nutrition,baseline,62,4,20-30-10-40,20,30,10,40,4,False,40,True,40,D,D,4 D
+nutrition,baseline,63,4,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1. B
+nutrition,baseline,64,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+nutrition,baseline,65,4,30-40-20-10,30,40,20,10,2,False,40,False,0,D,A,2 D
+nutrition,baseline,66,4,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+nutrition,baseline,67,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1. A
+nutrition,baseline,68,4,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1 D
+nutrition,baseline,69,4,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+nutrition,baseline,70,4,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+nutrition,baseline,71,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1. D
+nutrition,baseline,72,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+nutrition,baseline,73,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,1. A
+nutrition,baseline,74,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1. B
+nutrition,baseline,75,4,20-10-40-30,20,10,40,30,3,False,40,False,0,C,A,3 C
+nutrition,baseline,76,4,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+nutrition,baseline,77,5,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+nutrition,baseline,78,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+nutrition,baseline,79,5,10-30-20-40,10,30,20,40,2,False,30,False,0,D,A,2 D
+nutrition,baseline,80,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+nutrition,baseline,81,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+nutrition,baseline,82,5,20-10-30-40,20,10,30,40,1,False,20,False,0,B,D,1. B
+nutrition,baseline,83,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A 2. D 3. D 4. D
+nutrition,baseline,84,5,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+nutrition,baseline,85,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+nutrition,baseline,86,5,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,1 D
+nutrition,baseline,87,5,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+nutrition,baseline,88,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C 2. B 3. D 4. B
+nutrition,baseline,89,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1 A
+nutrition,baseline,90,5,10-30-20-40,10,30,20,40,2,False,30,False,0,C,A,2 C
+nutrition,baseline,91,5,10-20-30-40,10,20,30,40,2,False,20,False,0,B,C,2 B
+nutrition,baseline,92,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+nutrition,baseline,93,5,10-30-40-20,10,30,40,20,2,False,30,False,0,B,C,2 B
+nutrition,baseline,94,5,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2 C
+nutrition,baseline,95,5,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+nutrition,baseline,96,5,30-40-20-10,30,40,20,10,2,False,40,False,0,D,A,2 D
+nutrition,model_A,1,1,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,"2  The incorrect statement about the oral phase of digestion is (D) Salivary amylase digests the dextran film on tooth enamel formed from dietary sucrose. Salivary amylase actually digests starches, notSucrose."
+nutrition,model_A,2,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B  Pregnancy and lactation ResultinBoneMineralLossFromTheSkeleton
+nutrition,model_A,3,1,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2B  3A  4C
+nutrition,model_A,4,1,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1D  2D  3C  4C
+nutrition,model_A,5,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2B  The coenzyme NAD+ (Nicotinamide adenine dinucleotide) is produced from niacin (Vitamin B3) and provides the coenzyme NAD+ required for carboxylation reactions.
+nutrition,model_A,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,"1A  The five main series of apoproteins identified are apoA, apoB, apoC, apoD, and apoE."
+nutrition,model_A,7,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The digestibility of plant proteins is generally less good compared to animal proteins.
+nutrition,model_A,8,1,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,"2C  The primary aim of biochemical functional index measurements isTo correct for nutrient losses, e.g. through urinary excretion."
+nutrition,model_A,9,1,40-20-10-30,40,20,10,30,1,False,40,False,0,,B,2D
+nutrition,model_A,10,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1D  The Mediterranean diet shows most promise in preventing age-related cognitive decline.
+nutrition,model_A,11,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,A,1C  The correct statement is (C) ß-Carotene and lycopene can both act as provitamin A.
+nutrition,model_A,12,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,"1D  The arrival of lipid in the duodenum causes an immediate reduction in motility and a switch from the ""fasting"" to the ""feeding"" pattern. This statement is FALSE. The correct statement would beThe arrival of lipid in the duodenum causes anincreasein motilityand aswitchfromthe""fasting""tothe""feedin"
+nutrition,model_A,13,1,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,1 A
+nutrition,model_A,14,1,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1D  The population group with the highest relative risk of disease.
+nutrition,model_A,15,1,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1D  2D  3D  4D
+nutrition,model_A,16,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B
+nutrition,model_A,17,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  The critical pH below which demineralisation of tooth enamel occurs is usually around 5.5.
+nutrition,model_A,18,1,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+nutrition,model_A,19,1,40-30-20-10,40,30,20,10,1,False,40,False,0,D,A,1D  Low dietary intake of vitamin B12 is the main cause of vitamin B12 deficiency in older people.
+nutrition,model_A,20,2,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The energy content of ethanol is 23.5 kJ/g or 5.8 kcal/g.
+nutrition,model_A,21,2,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  Autoimmune factors are involved in the pathogenesis of type 1 diabetes but not type 2 diabetes.
+nutrition,model_A,22,2,40-20-30-10,40,20,30,10,2,False,20,False,0,A,D,"1D  The risk factors for type 2 diabetes mellitus include All of the options listed - (A) family history, (B) being overweight, (C) high intake of dietary fat."
+nutrition,model_A,23,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1D  The correct answer is D) Fasting blood glucose ≥ 126 mg/dl. This value meets the diagnostic threshold for diabetes according to the American Diabetes Association.
+nutrition,model_A,24,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,"1D  The correct statement about protein structure is (D) All proteins have the same secondary structure.Secondary structure refers to the overall shape of a protein, such as alpha helices or beta sheets. However, proteins can have different secondary structures depending on their specific sequence o"
+nutrition,model_A,25,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The safety of all of the substances listed must be demonstrated prior to their introduction into food.
+nutrition,model_A,26,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"1A  The energy expended for standing, walking, and other office activities is referredtoNonExerciseActivityThermogenesisNEAT."
+nutrition,model_A,27,2,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A  The function of folate is Synthesis of TMP (thymidine monophosphate).
+nutrition,model_A,28,2,30-40-10-20,30,40,10,20,2,False,40,False,0,,B,"2  The Five main series of apoproteins that have been identified are apoA, apoB, apoC, apoE, and apoL. ThereforeThe answer isC."
+nutrition,model_A,29,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  Iron is transported in the circulation from the intestine to the sites of metabolism in the body bound to transferrin.
+nutrition,model_A,30,2,30-20-40-10,30,20,40,10,1,False,30,False,0,B,A,"1B  The correct answer is (B) Low haemoglobin, low ferritin, high serum transferrin receptors, low hepcidin.  Infection can cause a decrease in ferritin levels, leading to low ferritin. However, infection can also cause an increase in hepcidin levels, leading to low serum transferrin receptors. Ther"
+nutrition,model_A,31,2,30-40-10-20,30,40,10,20,1,False,30,False,0,D,B,1D  The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.
+nutrition,model_A,32,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,C,1D  The growing rat is a good model for assessing protein quality in human nutrition.
+nutrition,model_A,33,2,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2  The approximate percentage of Lactase non-persisters worldwide is (B) 70%-75%.
+nutrition,model_A,34,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The safety of all of the above substances must be demonstrated prior to their introduction into food.
+nutrition,model_A,35,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The main fuel for muscle contraction during short-term intense activity such as sprinting is Muscle glycogen.
+nutrition,model_A,36,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,"1D  The absorptive area of the human intestine is magnified by the presence of folds, villi, and microvilli on the surface of enterocytes."
+nutrition,model_A,37,2,20-30-40-10,20,30,40,10,2,False,30,False,0,,D,"2  The effects of overnutrition, such as overweight and obesity, are associated with all of the options given - (A) Cardiovascular disease, (B) Breast cancer, (C) Type 2 diabetes (maturity onset)."
+nutrition,model_A,38,2,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,Question 1  BMI = 99 / (1.75^2) = 99 / 3.0625 = 32.56  ThereforeThe answer is (B) 32
+nutrition,model_A,39,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The limitation of BMI is thatIt doesnot distinguishbetweenfatandfatfreemass.
+nutrition,model_A,40,3,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,2 D  The estimated global prevalence of untreated dental caries is 80%.
+nutrition,model_A,41,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,2B  Insulin deficiency is associated with Increased ketogenesis.
+nutrition,model_A,42,3,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  The 2007-2008 food-price spike was caused by a combination of factors including long-term neglect of agricultural and rural development, the use of food crops to produce biofuel, and commodity price speculation."
+nutrition,model_A,43,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,2B  The intake of Potassium is not affected by high intakes of foods containing phytic acid.
+nutrition,model_A,44,3,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+nutrition,model_A,45,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1A  The endogenous substrate source that provides the most energy during moderate to high intensity exercise is liver glycogen.
+nutrition,model_A,46,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,2  The risk factors for type 2 diabetes mellitus include All of the options listed are correct.
+nutrition,model_A,47,3,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,2  A  The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct? (A)Replacement of saturated fatty acids withn-6 polyunsaturated fatty acidsis associatedwithareductioninplasma triglyceride concentrations  B)Re
+nutrition,model_A,48,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,2B  Deficiency of vitamin A in children causes poor cognitive development.
+nutrition,model_A,49,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The digestibility of plant proteins is generally less good compared to animal proteins.
+nutrition,model_A,50,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D  The primary aim of biochemical functional index measurements isTo provide anadditionalstatusestimatethatcanprobecriticaltissueadequacyandhencetheriskofconsequentclinicaldiseaseorphysiologicalmalfunction.
+nutrition,model_A,51,3,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,"2A  Energy that is expended for standing at anoffice desk,walkingtoafilecabinet,andotherofficejob-relatedactivitiesisreferredtotheNonExerciseActivityThermogenesis(NEAT)."
+nutrition,model_A,52,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1D  Sulfur dioxide is commonly used as a preservative in foods containing vitamin C because it causes destruction of the vitamin.
+nutrition,model_A,53,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1A  The intake of calcium is not affected by high intakes of foods containing phytic acid.
+nutrition,model_A,54,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1B  The concentration of Glucose will be higher than if the blood sample had been taken before breakfast.
+nutrition,model_A,55,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,1A  The replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations.
+nutrition,model_A,56,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1D  The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children.
+nutrition,model_A,57,3,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  Transaminases require a coenzyme derived from vitamin B6.
+nutrition,model_A,58,4,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B
+nutrition,model_A,59,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B
+nutrition,model_A,60,4,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,2 C
+nutrition,model_A,61,4,20-30-10-40,20,30,10,40,1,False,20,False,0,,A,2B  The basic functional unit of skeletal muscle tissue isthe sarcomere.
+nutrition,model_A,62,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2D  3A  4D
+nutrition,model_A,63,4,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1B  The population at risk refers to The group of people that may experience the outcome we want to study.
+nutrition,model_A,64,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D
+nutrition,model_A,65,4,30-40-20-10,30,40,20,10,2,False,40,False,0,D,A,"2 D  Dietary starch is not a potent stimulator of small intestinal motility because it causes insulin release from the pancreas. Instead, it is typically digested slowly and absorbed gradually, leading to a steady release of glucose into the bloodstream. This process helps maintain stable blood suga"
+nutrition,model_A,66,4,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1C  Impaired foetal growth is described as intrauterine growth retardation (IUGR). IUGR hasThe same definition asBirth weight below a population threshold for gestational age.
+nutrition,model_A,67,4,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2A  3C  4D
+nutrition,model_A,68,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,"1A  The diagnostic feature that is NOT considered a feature of Anorexia Nervosa is A)Depressive symptoms.   The other features listed (B)Significant Weight Loss, (C)Body Image Distortion, (D)Fear of becoming fat)are all considered diagnostic features.  ThereforeThe answer is A)Depressive symptoms."
+nutrition,model_A,69,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1C  The approximate percentage of Lactase non-persisters worldwide is 10%-15%.
+nutrition,model_A,70,4,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D  Deficiency of vitamin A in children causes Increased risk of mortality.
+nutrition,model_A,71,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2D  3A  4B
+nutrition,model_A,72,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2C  3A  4D
+nutrition,model_A,73,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,1A
+nutrition,model_A,74,4,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1A  The endogenous substrate source that provides the most energy during moderate to high intensity exercise is liver glycogen.
+nutrition,model_A,75,4,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,3C
+nutrition,model_A,76,4,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  The current recommendations are that All babies should be exclusively breastfed until around 6 months.
+nutrition,model_A,77,5,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,"1C  To characterize a binge eating episode, one must investigate the presence of A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time."
+nutrition,model_A,78,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  Iron is transported in the circulation from the intestine to the sites of metabolism in the body bound to transferrin.
+nutrition,model_A,79,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2C  Sulfur dioxide is not used in foods containing vitamin E because it causes destruction of thevitamin.
+nutrition,model_A,80,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The endogenous substrate source that provides the most energy during moderate to high intensity exercise is Muscle Glycogen.
+nutrition,model_A,81,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,"1A  As income rises, the proportion of income spent on food declines."
+nutrition,model_A,82,5,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  Elite athletes ideally consume 90g of glucose plus fructose per hour during prolonged high-intensity exercise. This combination provides sustained energy release and prevents the build-up of lactic acid.
+nutrition,model_A,83,5,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2D  3D  4D
+nutrition,model_A,84,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2D
+nutrition,model_A,85,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B
+nutrition,model_A,86,5,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,1D  The correct answer is D. For an adult in nitrogen equilibrium there is only asmall requirementforanintakeofproteinsinceaminoacidsarisingfromtissueproteincatabolismareavailablefornewproteinsynthesis. This meansthatthebodycanusetheaminoacidsfromtheexistingproteinsinthebodytomeetthebody'srequiremen
+nutrition,model_A,87,5,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1C  The critical pH below which demineralisation of tooth enamel occurs is usually around 5.5.
+nutrition,model_A,88,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  Autoimmune factors are involved in the pathogenesis of type 1 diabetes but not type 2 diabetes.
+nutrition,model_A,89,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1A  The correct answer is (A) The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.
+nutrition,model_A,90,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,2  The antioxidant action of vitamin E best explains TheIt is lipid soluble and can react with free radicals in the bloodstream resulting from nitric oxide formation by vascular epithelium.
+nutrition,model_A,91,5,10-20-30-40,10,20,30,40,2,False,20,False,0,B,C,2 The answer is (B) 19.7 kJ or 4.1 kcal per g.
+nutrition,model_A,92,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The main fuel for muscle contraction during short-term intense activity such as sprinting is Muscle glycogen.
+nutrition,model_A,93,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,2B  The plasma concentration of prothrombin will be increased in vitamin K deficiency.
+nutrition,model_A,94,5,10-20-40-30,10,20,40,30,1,False,10,False,0,,B,"2C  Food security refers to ensuring everyone's access to food. Its component elements include availability, utilisation, and stability, as well as access."
+nutrition,model_A,95,5,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2D  3D  4A
+nutrition,model_A,96,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,A,2  Risk assessment is applied to data on toxicity and human exposure to All of the above.

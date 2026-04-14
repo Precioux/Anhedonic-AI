@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+conceptual_physics,baseline,1,19,64.474,4.0,68.421,57.895,68.421,63.158
+conceptual_physics,baseline,2,19,56.579,4.0,68.421,57.895,57.895,42.105
+conceptual_physics,baseline,3,19,65.789,4.0,57.895,63.158,73.684,68.421
+conceptual_physics,baseline,4,19,67.105,4.0,68.421,78.947,68.421,52.632
+conceptual_physics,baseline,5,20,63.75,4.0,60.0,60.0,70.0,65.0
+conceptual_physics,model_A,1,19,67.105,4.0,68.421,63.158,68.421,68.421
+conceptual_physics,model_A,2,19,55.263,4.0,78.947,47.368,52.632,42.105
+conceptual_physics,model_A,3,19,60.526,4.0,52.632,57.895,63.158,68.421
+conceptual_physics,model_A,4,19,64.474,4.0,63.158,78.947,63.158,52.632
+conceptual_physics,model_A,5,20,62.5,4.0,55.0,60.0,75.0,60.0

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_physics,baseline,1,1,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1. D
+college_physics,baseline,2,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+college_physics,baseline,3,1,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+college_physics,baseline,4,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+college_physics,baseline,5,1,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1 A
+college_physics,baseline,6,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+college_physics,baseline,7,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+college_physics,baseline,8,1,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_physics,baseline,9,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_physics,baseline,10,1,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3
+college_physics,baseline,11,1,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1. C
+college_physics,baseline,12,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+college_physics,baseline,13,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,A,1. C
+college_physics,baseline,14,1,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1. C
+college_physics,baseline,15,1,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1. C
+college_physics,baseline,16,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+college_physics,baseline,17,1,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1. C
+college_physics,baseline,18,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+college_physics,baseline,19,1,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1. C
+college_physics,baseline,20,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,B,1. C
+college_physics,baseline,21,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+college_physics,baseline,22,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+college_physics,baseline,23,2,10-30-20-40,10,30,20,40,1,False,10,False,0,B,D,1. B
+college_physics,baseline,24,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1. D
+college_physics,baseline,25,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+college_physics,baseline,26,2,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+college_physics,baseline,27,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+college_physics,baseline,28,2,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+college_physics,baseline,29,2,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1 A
+college_physics,baseline,30,2,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,1. D
+college_physics,baseline,31,2,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,1. B
+college_physics,baseline,32,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,1. D
+college_physics,baseline,33,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+college_physics,baseline,34,2,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+college_physics,baseline,35,2,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1. B
+college_physics,baseline,36,2,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,1 A
+college_physics,baseline,37,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1. C
+college_physics,baseline,38,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1 C
+college_physics,baseline,39,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+college_physics,baseline,40,3,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,1. D
+college_physics,baseline,41,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,1. A
+college_physics,baseline,42,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1. C
+college_physics,baseline,43,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+college_physics,baseline,44,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+college_physics,baseline,45,3,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1. C
+college_physics,baseline,46,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,"1. A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source for the interferometer is a laser with wavelength 632.2 nm, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas? (A)"
+college_physics,baseline,47,3,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+college_physics,baseline,48,3,10-20-30-40,10,20,30,40,2,False,20,False,0,C,B,2 C
+college_physics,baseline,49,3,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1 B
+college_physics,baseline,50,3,40-10-30-20,40,10,30,20,1,False,40,False,0,C,B,1. C
+college_physics,baseline,51,3,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+college_physics,baseline,52,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1. D
+college_physics,baseline,53,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1 A
+college_physics,baseline,54,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,D,1. C
+college_physics,baseline,55,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,1. A
+college_physics,baseline,56,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+college_physics,baseline,57,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+college_physics,baseline,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+college_physics,baseline,59,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+college_physics,baseline,60,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,1. C
+college_physics,baseline,61,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,B,1. C
+college_physics,baseline,62,4,10-40-20-30,10,40,20,30,1,False,10,False,0,B,A,1. B
+college_physics,baseline,63,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,D,2 A
+college_physics,baseline,64,4,20-40-30-10,20,40,30,10,2,False,40,False,0,C,D,2 C
+college_physics,baseline,65,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+college_physics,baseline,66,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1. C
+college_physics,baseline,67,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1. D
+college_physics,baseline,68,4,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+college_physics,baseline,69,4,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1. C
+college_physics,baseline,70,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1. C
+college_physics,baseline,71,4,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+college_physics,baseline,72,4,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,1. B
+college_physics,baseline,73,4,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,1. A
+college_physics,baseline,74,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+college_physics,baseline,75,4,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+college_physics,baseline,76,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+college_physics,baseline,77,5,20-40-10-30,20,40,10,30,2,False,40,False,0,B,D,2 B
+college_physics,baseline,78,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+college_physics,baseline,79,5,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1 D
+college_physics,baseline,80,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+college_physics,baseline,81,5,10-30-40-20,10,30,40,20,1,False,10,False,0,B,D,1. B
+college_physics,baseline,82,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,A,1. C
+college_physics,baseline,83,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1 D
+college_physics,baseline,84,5,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+college_physics,baseline,85,5,10-20-40-30,10,20,40,30,1,False,10,False,0,C,B,1. C
+college_physics,baseline,86,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1. C
+college_physics,baseline,87,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1 D
+college_physics,baseline,88,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2
+college_physics,baseline,89,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+college_physics,baseline,90,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+college_physics,baseline,91,5,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+college_physics,baseline,92,5,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1. D
+college_physics,baseline,93,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,C,1. B
+college_physics,baseline,94,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+college_physics,baseline,95,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,A,2
+college_physics,baseline,96,5,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1 D
+college_physics,model_A,1,1,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1D  The fraction of initial kinetic energy lost is 1/2. ThereforeThe answer is D.
+college_physics,model_A,2,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,A,2  The mass of the moon cannot be calculated from the given measurements.
+college_physics,model_A,3,1,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,Question 1  Answer: A
+college_physics,model_A,4,1,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,1 The total radiation force exerted on the surface is 2 x 10^-6 N.
+college_physics,model_A,5,1,40-10-20-30,40,10,20,30,1,False,40,False,0,,C,Question 1  The ratio of angular momentum L1/L2 = (m1r1v1)/(m2r2v2) = (2r1v1)/(r2v2) = 2  ThereforeThe answer isB2  Question 2  The numberofallowedvaluesofthequantumnumbermLis2  ThereforeTheanswerisB2  Question
+college_physics,model_A,6,1,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,"1A  The fraction of the disk's total kinetic energy that is rotational kinetic energy can be found using conservation of energy. The disk's initial potential energy is converted entirely into kinetic energy. The rotational kinetic energy is 1/2 * I * ω^2, where I is the moment of inertia and ω is th"
+college_physics,model_A,7,1,10-40-30-20,10,40,30,20,2,False,40,False,0,C,D,"2  The heat that the brakes must dissipate to bring the elevator safely to rest is (C) 10,000 J."
+college_physics,model_A,8,1,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2A  3B  4A
+college_physics,model_A,9,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The nearest neighbors of each C atom lie at the corners of a tetrahedron.  2D  The thermal spectrum reaches a maximum wavelength of 100 mm.  3A  The length of pendulum B is 4 times the length of pendulum A.  4C  The relative speed of 3C9 is 0.8c.
+college_physics,model_A,10,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,"Question 1  Answer: D  The temperature of the universe was 12K, which means typical objects such as galaxies were two times as distant as they are today."
+college_physics,model_A,11,1,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,"1C  The transmitted light intensity through both polarizers is 50% of the incident intensity. This is because when unpolarized light passes through the first polarizer, 50% of it is transmitted. The remaining 50% is absorbed. Then WhenThis 50% transmitted light passes through the second polarizer, 5"
+college_physics,model_A,12,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1D  The Hall coefficient is a measure of the carrier concentration and mobility in a semiconductor. It can be used to determine the sign of the charge carriers.
+college_physics,model_A,13,1,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"Question 1  Answer: A  The emission spectrum of Li++ is 9 times smaller than that of hydrogen. This is because Li++ has 9 electrons (3 protons - 3 electrons) compared to 1 electron (1 proton) in hydrogen. Therefore, The wavelength decreases by 9."
+college_physics,model_A,14,1,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,1A  The student should count 80 seconds to establish the rate to anuncertaintyof 1 percent.  2B  TheaverageinducedEMFinthecoilis0.1V.  3C  AccordingtotheBCStheoryTheattractionbetweenCooperpairsinasuperconductorisduetoVacuumPolarization.  4B  TheSpeedofEachSpaceship
+college_physics,model_A,15,1,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,"1 The total energy stored in the two capacitors can be calculated using the formula E = 0.5 * C * V^2, where E is energy stored, C is capacitance, and V is voltage. The total capacitance is 3 + 6 = 9 microfarads. The energy stored is 0.5 * 9 * 300^"
+college_physics,model_A,16,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,Question 1  The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (B) 3.0 * 10^8 m/s (C) 1.5 * 10^8 m/s (D) 1.0
+college_physics,model_A,17,1,30-20-10-40,30,20,10,40,1,False,30,False,0,,B,1 The smallest amount of work that must be supplied to the heat pump is approximately 1100J.
+college_physics,model_A,18,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,Question 1  The approximate kinetic energy of the electrons needed in order to see the pattern is 10 eV. ThereforeThe answer is (C) 10 eV.
+college_physics,model_A,19,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The average total energy of a three-dimensional harmonic oscillator is (1/2) kT.  2A  The total mechanical energy of the system is 0.24 mJ.  3D  The entropy of the system and its environment must increase during a reversible thermodynamic process.  4A  The electric displacement current through a
+college_physics,model_A,20,2,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,"1  The resolving power of a grating spectrometer is given by R = (λ/Δλ), where λ is the wavelength and Δλ is the wavelength separation. The resolving power is therefore R = (502nm - 500nm) / 502nm = 2nm / 502nm = 0.004. The closest"
+college_physics,model_A,21,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,"1A  The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature ofthe cavityisincreasedbyafactoroftwo,themassoficethatcanbemeltedinafixedamountoftimeisincreasedbyafactorof2."
+college_physics,model_A,22,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,Question 1  Answer: D  The new rate of energy dissipation will be 4W.
+college_physics,model_A,23,2,10-30-20-40,10,30,20,40,1,False,10,False,0,B,D,1B  The final voltage on the first capacitor will be V_0/3.
+college_physics,model_A,24,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2 The magnitude of the applied force is 2 N.
+college_physics,model_A,25,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,C,Question 1  Answer: D  The relative speed of 3C9 is 0.5c.
+college_physics,model_A,26,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,2B  The sign of the charge carriers in a doped semiconductor can be deduced by measuring the Hall coefficient.
+college_physics,model_A,27,2,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,Question 1  The ratio of angular momentum L1/L2 = (m1r1^2)/r1 = (m2r2^2)/r2 = 2^2 = 4  ThereforeThe answer is A) 4
+college_physics,model_A,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1A  The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of the Pauli exclusion principle. This principle states that no two fermions (particles like electrons) can occupy the same quantum state simultaneously. In the case of helium's el
+college_physics,model_A,29,2,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A
+college_physics,model_A,30,2,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,"Question 1  Answer: A  The separation of the bright fringes will be halved. The original separation was 1.0 mm. If the frequency of the laser light is doubled, then according to the formula λ = c/2f, where λ is wavelength, c is speed of light, f is frequency, The wavelength λ = 1/2 * 1.0"
+college_physics,model_A,31,2,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,"Question 1  The correct answer is (B) L_B = 2L_A.  The period \(T\) of a simple pendulum is given by \(T = 2\pi\sqrt{\frac{L}{g}}\), where \(L\) is the length of the pendulum and \(g\) is the acceleration duetogravity. IftheperiodofpendulumBis"
+college_physics,model_A,32,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,"1A  The correct answer is A. Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the electronic structure of the sample, not primarily the nuclear structure.  2B  The correct answer is B. The distance traveled by the particle can be calculated using the formula d"
+college_physics,model_A,33,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2C  3D  4C
+college_physics,model_A,34,2,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,Question 1  The time required for one revolution is proportional to R^(3/2). ThereforeThe answer is (D) proportional to R^(3/2).
+college_physics,model_A,35,2,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1B  The electric displacement current through a surface S is proportional to the rate of change of the magnetic flux through S.
+college_physics,model_A,36,2,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"Question 1  The heat that the brakes must dissipate to bring the elevator safely to rest is (A) 10,000 J."
+college_physics,model_A,37,2,40-20-10-30,40,20,10,30,2,False,20,False,0,,A,1A  The atom has 2 electrons because 2 electrons fill 1s orbital.
+college_physics,model_A,38,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,"1C  The amount of work supplied to the heat pump is equal to the heat delivered indoors plus the heat lost to the outdoor environment. The heat lost to the outdoor environment is equal totheheatdeliveredindoors×COP,whereCOPistheCoefficientOfPerformanceoftheheatpump.COP=1+T2/T1=1+273K7°C="
+college_physics,model_A,39,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D  The potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency.
+college_physics,model_A,40,3,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,Question 1  Answer: D  The fraction of initial kinetic energy lost is 1/2.
+college_physics,model_A,41,3,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,Question 1  Answer: A  The frequency heard by the driver will be higher than 600Hz. The Doppler effect causes The frequency heard by The driver will be 612Hz.
+college_physics,model_A,42,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1 C
+college_physics,model_A,43,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,A,Question 1  The total mechanical energy of the system is conserved. The mechanical energy is equal to 1/2 * 0.30kg * (0.040m/s)^2 + 1/2 * 0.30kg * 0.030m^2 = 0.24mJ  ThereforeThe answer is A)
+college_physics,model_A,44,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,1  The speed of O' relative to O is 0.13c.
+college_physics,model_A,45,3,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,"1C  According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to vacuum polarization."
+college_physics,model_A,46,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,"1A  The index of refraction (n) can be calculated using the formula n = c/λν, where c is the speed of light (299792458 m/s), λν isthewavelengthλν=632.2nm=632.2×10−9m632.2nm=63"
+college_physics,model_A,47,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1  The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide? (A) 0.024 m (B) 0.048 m (
+college_physics,model_A,48,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,B,"Question 2  The minimum thickness of the oil film (other than zero) can be calculated using the formula:  \[ \lambda = 2nD \]  Where \(\lambda\) is the wavelength of light, \(n\) is the refractive index of oil, and \(D\) is the thickness of the oil film.  Given \(\lambda = 480 \text{ nm"
+college_physics,model_A,49,3,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,"1B  The detector will detect photons 10 times on average, with an rms deviation of about 3."
+college_physics,model_A,50,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,Question 1  Answer: A  The length contraction formulae gives The length contraction formulae gives  L = L0/√(1 - v^2/c^2)  Where L0 = 1m  L = 1/√(1 - 0.8^2) = 1/√(1 - 0.64) = 1/√
+college_physics,model_A,51,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,2D  The new rate of energy dissipation will be 4W.
+college_physics,model_A,52,3,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  The work done on a particle of mass macceleratedto 0.6cstartingfromrestis0.25mc^2.
+college_physics,model_A,53,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1A  The student should count 80 seconds to establish the rate to anuncertaintyof1percent.
+college_physics,model_A,54,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,Question 2  The speed of O' relative to O is 0.15c.
+college_physics,model_A,55,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,1A  The ratio of angular momentum L1/L2 = (m1v1r1)/(m2v2r2) = (m1v1)/(m2v2) * (r1/2) = 1/2 * 1 = 1/2 = 0.5 = 1/2 = 1/2 = 1/2
+college_physics,model_A,56,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The ion B cannot be used as a dopant in germanium to make ann-type semiconductor.
+college_physics,model_A,57,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"Question 1  Answer: A  The frequency can be calculated using the formula v = λf, where v isthe velocityofthesoundwave,λistheWavelengthoftheSoundWave,andfistheFrequencyoftheSoundWave.  TheWavelengthoftheSoundWavecanbeCalculatedUsingtheFormulaλ=2π/θWhereθisthethetaAngleFromTheNormal"
+college_physics,model_A,58,4,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2D  3C  4A
+college_physics,model_A,59,4,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,Question 1  Answer: A
+college_physics,model_A,60,4,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 The total energy stored in the two capacitors is (A) 0.09 J.
+college_physics,model_A,61,4,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2D  3A  4A
+college_physics,model_A,62,4,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,Question 1  The energy released during a transition from n=3 to n=1 state is 12.2eV  ThereforeThe answer is C  Question 2  The energy required To remove One electronFromTheHeHeatomInItsGroundStateIs79.0eV  ThereforeTheEnergyRequiredToRemoveOneElectronFromTheHeHeatomInItsGroundState
+college_physics,model_A,63,4,30-40-10-20,30,40,10,20,2,False,40,False,0,,D,Question 2  The frequency heard by the driver would be 612Hz.
+college_physics,model_A,64,4,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2  The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 GeV/c^2 (C) 0.5 GeV/c^2 (D) 1.0 GeV/c^2  The answer is
+college_physics,model_A,65,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,Question 1  Answer: A  The angle between the particle's velocity and acceleration vectors is 0°.
+college_physics,model_A,66,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,Question 1  The average total energy of a three-dimensional harmonic oscillator is (C) (3/2) kT.
+college_physics,model_A,67,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1D  The entropy of the system and its environment must increase.
+college_physics,model_A,68,4,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,"1A  The particle travels 150 meters.  2D  The relative speed of the quasar is 0.5c.  3D  The Hall coefficient can be used to determine the sign of charge carriers.  4B  The detector will detect photons an average of 10 times, with an rms deviation of about 1."
+college_physics,model_A,69,4,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1C  The frequency of the next higher harmonic for an organ pipe closed at one end and open at theotheris262Hz.
+college_physics,model_A,70,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+college_physics,model_A,71,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2B  The observation that anortho- statehaslowerenergythanthe correspondingpara- statecanbeunderstoodintermsofthePauliexclusionprinciple.
+college_physics,model_A,72,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A  The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser.
+college_physics,model_A,73,4,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,"Question 1  Answer: A  The harmonics produced by an organ pipe open at both ends are integer multiples of 50Hz. When the pipe is closed at one end, only odd harmonics survive. Therefore, 50Hz, 150Hz, and 250Hz will survive."
+college_physics,model_A,74,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"Question 1  Answer: A  The separation of the bright fringes will be halved. The original separation was 1.0 mm, so 1/2 * 1.0 mm = 0.5 mm."
+college_physics,model_A,75,4,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,"1C  The transmitted light intensity through both polarizers is 50% of the incident intensity. This is because when unpolarized light passes through the first polarizer, 50% of it is transmitted. Then WhenThis 50% transmitted light passes through the second polarizer, 50% of it is transmitted. So The"
+college_physics,model_A,76,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1A  The primary source of theSun's energyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoftheSun'senergyisTheprimarysourceoft
+college_physics,model_A,77,5,20-40-10-30,20,40,10,30,2,False,40,False,0,A,D,"2 The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after theother, the detector will detect photons (B) anaverageof10times,withanrmsdeviationofabout1."
+college_physics,model_A,78,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,Question 1  The time required for one revolution is proportional to R^(3/2). ThereforeThe answer is (D) proportional to R^(3/2).
+college_physics,model_A,79,5,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,"Question 1  Answer: D  The wavelength λmax of a blackbody spectrum is given by Planck's law:  λmax = c / T  where c is the speed of light (299792458 m/s) and T is the temperature (in Kelvin). For T = 300K, λmax = 299792"
+college_physics,model_A,80,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,"1C  The energy radiated per second per unit area (also known as the Stefan-Boltzmann law) depends on the fourth power of the absolute temperature. Therefore Ifthe absolute temperatureofa blackbodyisincreasedbyafactorof3,Theenergyradiatedpersecondperunitareaincreasesbyafactorof3^4=81."
+college_physics,model_A,81,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2B  The magnitude of the particle's relativistic momentum is mc/(2^(1/2)).
+college_physics,model_A,82,5,10-20-30-40,10,20,30,40,1,False,10,False,0,,A,"1  The particle's mass can be calculated using the formula \( m = \frac{q^2B^2}{2\pi f} \), where \( q \) is the charge, \( B \) is the magnetic field strength, \( f \) isthecyclotronfrequency.PlugginginthevaluesGivenWegetm=2.5*10^-23"
+college_physics,model_A,83,5,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,"Question 1  To determine how long the student should count to establish the rate to an uncertainty of 1 percent, we need to calculate the standard deviation of the measurements.  The standard deviation (σ) can be calculated using the formula:  σ = √[Σ(x - μ)^2 / N]  Where x represents each measureme"
+college_physics,model_A,84,5,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,Question 1  The approximate kinetic energy of the electrons needed in order to see the pattern is 10 eV. ThereforeThe answer is (C) 10 eV.
+college_physics,model_A,85,5,10-20-40-30,10,20,40,30,1,False,10,False,0,A,B,"Question 1  Answer: A  The speed of each spaceship, as measured by the observer on Earth, is 0.4c."
+college_physics,model_A,86,5,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,Question 1  Answer: A  The frequency remains 440Hz. The speed of sound does not affect frequency.
+college_physics,model_A,87,5,40-20-10-30,40,20,10,30,3,False,10,False,0,,C,"1A  The electron cannot transition to n=3, l=2 because angular momentum conservation requires l=1."
+college_physics,model_A,88,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,"2  The heat that the brakes must dissipate to bring the elevator safely to rest is 10,000 J."
+college_physics,model_A,89,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2A
+college_physics,model_A,90,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The potential difference necessary to stop the emitted electrons is proportional to the frequency above the threshold frequency.
+college_physics,model_A,91,5,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,"1  The resolving power of a grating spectrometer is given by R = (λ/Δλ), where λ is the wavelength and Δλ is the wavelength separation. The resolving power R = (502nm - 500nm) / 500nm = 2nm / 500nm = 0.002. The closest match is"
+college_physics,model_A,92,5,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,"Question 1  Answer: A  The separation of bright fringes is inversely proportional to the slit separation. If the slit separation is halved (from 0.5 micrometer to 0.25 micrometer), the separation of bright fringes will double (from 1.0 millimeter to 2.0 millimeters). ThereforeTheAnswerIsA."
+college_physics,model_A,93,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,C,"Question 1  Answer: B  The frequency heard by the driver is given by \(f' = \frac{f}{1 - \frac{v}{c}}\), where \(f\) is the frequency emitted by the siren, \(v\) isthe speed ofthecar, \(c\)istheSpeedofsound,TheSpeedofsoundis350m/sThe"
+college_physics,model_A,94,5,30-20-40-10,30,20,40,10,1,False,30,False,0,B,D,Question 1  The magnitude of the particle's relativistic momentum is (B) mc/(2^(1/2)).  Question 2  The proton would be deflected in the +x-direction (A).  Question 3  The object was thrown from a height of 19.6m (D).  Question 4  TheMinimum speed oftheMoonCANNOTbecalculated
+college_physics,model_A,95,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,"Question 2  The amount of work done on a particle of mass m = 1.67 × 10^-27 kg, assuming it starts at rest, is  W = 1/2 * m * v^2  = 1/2 * 1.67 × 10^-27 * (0.6c)^2  ="
+college_physics,model_A,96,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,Question 1  The wavelength λmax of maximum emission intensity (Planck's blackbody radiation) depends on temperature T accordingtoλmax = 2897T^3/λ  Given T = 300K  λmax = 2897 * 300^3 / λ  λ = 2897 * 300^

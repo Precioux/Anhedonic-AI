@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+human_sexuality,baseline,1,19,57.895,40.0,0.0,0.0,0.0,0.0,1.0
+human_sexuality,baseline,2,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+human_sexuality,baseline,3,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+human_sexuality,baseline,4,19,36.842,40.0,0.0,0.0,0.0,0.0,1.0
+human_sexuality,baseline,5,20,25.0,40.0,0.0,0.0,0.0,0.0,1.0
+human_sexuality,model_A,1,19,47.368,27.895,0.0,0.1053,0.3158,0.2632,0.3158
+human_sexuality,model_A,2,19,52.632,25.263,0.0,0.3158,0.1053,0.3158,0.2632
+human_sexuality,model_A,3,19,47.368,27.368,0.0,0.3158,0.1053,0.1053,0.4737
+human_sexuality,model_A,4,19,31.579,21.053,0.0,0.3684,0.2632,0.2632,0.1053
+human_sexuality,model_A,5,20,40.0,22.5,0.0,0.45,0.15,0.1,0.3

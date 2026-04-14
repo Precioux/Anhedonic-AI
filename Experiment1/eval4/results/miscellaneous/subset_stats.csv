@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+miscellaneous,baseline,1,19,84.211,26.842,0.0,0.2105,0.2632,0.1579,0.3684
+miscellaneous,baseline,2,19,89.474,30.526,0.0,0.1579,0.1053,0.2632,0.4737
+miscellaneous,baseline,3,19,84.211,32.105,0.0,0.0,0.2632,0.2632,0.4737
+miscellaneous,baseline,4,19,63.158,32.105,0.0,0.1053,0.1579,0.1579,0.5789
+miscellaneous,baseline,5,20,65.0,32.0,0.0,0.05,0.2,0.25,0.5
+miscellaneous,model_A,1,19,68.421,25.263,0.0,0.2105,0.3158,0.2105,0.2632
+miscellaneous,model_A,2,19,52.632,26.316,0.0,0.2632,0.1053,0.3684,0.2632
+miscellaneous,model_A,3,19,68.421,22.632,0.0,0.3158,0.3158,0.1579,0.2105
+miscellaneous,model_A,4,19,52.632,28.421,0.0,0.1053,0.3158,0.2105,0.3684
+miscellaneous,model_A,5,20,60.0,24.5,0.0,0.3,0.2,0.25,0.25

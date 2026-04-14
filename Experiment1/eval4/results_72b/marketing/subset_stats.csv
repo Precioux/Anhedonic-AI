@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+marketing,baseline,1,19,15.789,39.474,0.0,0.0,0.0,0.0526,0.9474
+marketing,baseline,2,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+marketing,baseline,3,19,36.842,40.0,0.0,0.0,0.0,0.0,1.0
+marketing,baseline,4,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+marketing,baseline,5,20,35.0,40.0,0.0,0.0,0.0,0.0,1.0
+marketing,model_A,1,19,52.632,21.053,0.0,0.3684,0.2632,0.2632,0.1053
+marketing,model_A,2,19,57.895,21.579,0.0,0.4211,0.2632,0.0526,0.2632
+marketing,model_A,3,19,52.632,18.947,0.0,0.4737,0.3158,0.0526,0.1579
+marketing,model_A,4,19,57.895,24.211,0.0,0.2632,0.1579,0.4737,0.1053
+marketing,model_A,5,20,55.0,23.0,0.0,0.3,0.35,0.1,0.25

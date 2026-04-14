@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_pos1,pts_pos2,pts_pos3,pts_pos4
+college_physics,baseline,1,1,10-30-20-40,4,False,40,False,0,,D,4,10,30,20,40
+college_physics,baseline,2,1,10-30-40-20,3,False,40,False,0,,A,3,10,30,40,20
+college_physics,baseline,3,1,40-10-30-20,1,False,40,True,40,A,A,1. A,40,10,30,20
+college_physics,baseline,4,1,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+college_physics,baseline,5,1,40-10-20-30,1,False,40,True,40,C,C,1. C,40,10,20,30
+college_physics,baseline,6,1,30-10-20-40,4,False,40,False,0,,D,4,30,10,20,40
+college_physics,baseline,7,1,10-40-30-20,2,False,40,False,0,,D,2,10,40,30,20
+college_physics,baseline,8,1,30-20-10-40,4,False,40,True,40,A,A,"4, A",30,20,10,40
+college_physics,baseline,9,1,20-30-10-40,4,False,40,False,0,,C,4,20,30,10,40
+college_physics,baseline,10,1,30-20-40-10,3,False,40,False,0,,C,3,30,20,40,10
+college_physics,baseline,11,1,30-40-20-10,2,False,40,False,0,,C,2,30,40,20,10
+college_physics,baseline,12,1,20-40-10-30,2,False,40,False,0,,D,2,20,40,10,30
+college_physics,baseline,13,1,40-10-30-20,1,False,40,True,40,A,A,1. A,40,10,30,20
+college_physics,baseline,14,1,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+college_physics,baseline,15,1,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+college_physics,baseline,16,1,20-10-30-40,4,False,40,False,0,,C,4,20,10,30,40
+college_physics,baseline,17,1,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+college_physics,baseline,18,1,30-40-10-20,2,False,40,False,0,,C,2,30,40,10,20
+college_physics,baseline,19,1,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+college_physics,baseline,20,2,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+college_physics,baseline,21,2,40-20-10-30,1,False,40,False,0,,D,1,40,20,10,30
+college_physics,baseline,22,2,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+college_physics,baseline,23,2,10-30-20-40,4,False,40,False,0,,B,4,10,30,20,40
+college_physics,baseline,24,2,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+college_physics,baseline,25,2,10-40-20-30,2,False,40,False,0,,B,2,10,40,20,30
+college_physics,baseline,26,2,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+college_physics,baseline,27,2,30-10-20-40,4,False,40,False,0,,C,4,30,10,20,40
+college_physics,baseline,28,2,30-20-40-10,3,False,40,False,0,,D,3,30,20,40,10
+college_physics,baseline,29,2,40-20-30-10,1,False,40,False,0,B,A,1. B,40,20,30,10
+college_physics,baseline,30,2,20-10-40-30,3,False,40,False,0,,D,3,20,10,40,30
+college_physics,baseline,31,2,20-30-10-40,4,False,40,False,0,,C,4,20,30,10,40
+college_physics,baseline,32,2,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+college_physics,baseline,33,2,40-20-10-30,1,False,40,True,40,A,A,1. A,40,20,10,30
+college_physics,baseline,34,2,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+college_physics,baseline,35,2,30-10-20-40,4,False,40,False,0,,C,4,30,10,20,40
+college_physics,baseline,36,2,10-30-40-20,3,False,40,False,0,,B,3,10,30,40,20
+college_physics,baseline,37,2,40-20-10-30,1,False,40,True,40,D,D,1. D,40,20,10,30
+college_physics,baseline,38,2,40-30-20-10,1,False,40,False,0,,B,1,40,30,20,10
+college_physics,baseline,39,3,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+college_physics,baseline,40,3,20-40-30-10,2,False,40,False,0,,D,2,20,40,30,10
+college_physics,baseline,41,3,20-40-30-10,2,False,40,False,0,,D,2,20,40,30,10
+college_physics,baseline,42,3,20-40-10-30,2,False,40,False,0,,D,2,20,40,10,30
+college_physics,baseline,43,3,20-10-40-30,3,False,40,False,0,,D,3,20,10,40,30
+college_physics,baseline,44,3,20-10-40-30,3,False,40,False,0,,A,3,20,10,40,30
+college_physics,baseline,45,3,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+college_physics,baseline,46,3,40-30-10-20,1,False,40,False,0,,B,1,40,30,10,20
+college_physics,baseline,47,3,10-20-40-30,3,False,40,False,0,,C,3,10,20,40,30
+college_physics,baseline,48,3,10-20-30-40,4,False,40,False,0,,C,4,10,20,30,40
+college_physics,baseline,49,3,20-30-10-40,4,False,40,False,0,,A,4,20,30,10,40
+college_physics,baseline,50,3,40-10-30-20,1,False,40,False,0,,B,1,40,10,30,20
+college_physics,baseline,51,3,20-30-40-10,3,False,40,False,0,,A,3,20,30,40,10
+college_physics,baseline,52,3,20-30-40-10,3,False,40,False,0,,D,3,20,30,40,10
+college_physics,baseline,53,3,40-10-20-30,1,False,40,False,0,,D,1,40,10,20,30
+college_physics,baseline,54,3,10-30-40-20,3,False,40,False,0,,C,3,10,30,40,20
+college_physics,baseline,55,3,20-10-40-30,3,False,40,False,0,,C,3,20,10,40,30
+college_physics,baseline,56,3,30-10-40-20,3,False,40,False,0,,D,3,30,10,40,20
+college_physics,baseline,57,3,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+college_physics,baseline,58,4,40-10-20-30,4,False,30,False,0,,A,4,40,10,20,30
+college_physics,baseline,59,4,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+college_physics,baseline,60,4,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+college_physics,baseline,61,4,20-10-30-40,4,False,40,True,40,A,A,"4, A",20,10,30,40
+college_physics,baseline,62,4,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+college_physics,baseline,63,4,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+college_physics,baseline,64,4,20-40-30-10,2,False,40,False,0,,D,2,20,40,30,10
+college_physics,baseline,65,4,40-30-20-10,1,False,40,False,0,,C,1,40,30,20,10
+college_physics,baseline,66,4,20-10-30-40,4,False,40,False,0,,C,4,20,10,30,40
+college_physics,baseline,67,4,40-20-30-10,1,False,40,True,40,C,C,1. C,40,20,30,10
+college_physics,baseline,68,4,30-20-40-10,3,False,40,False,0,,D,3,30,20,40,10
+college_physics,baseline,69,4,40-10-30-20,1,False,40,False,0,,D,1,40,10,30,20
+college_physics,baseline,70,4,40-10-20-30,4,False,30,False,0,,D,4,40,10,20,30
+college_physics,baseline,71,4,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+college_physics,baseline,72,4,20-30-10-40,4,False,40,False,0,,A,4,20,30,10,40
+college_physics,baseline,73,4,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+college_physics,baseline,74,4,40-20-30-10,1,False,40,False,0,A,B,1. A,40,20,30,10
+college_physics,baseline,75,4,10-30-20-40,4,False,40,False,0,,C,4,10,30,20,40
+college_physics,baseline,76,4,40-30-10-20,1,False,40,True,40,B,B,1. B,40,30,10,20
+college_physics,baseline,77,5,20-40-10-30,2,False,40,False,0,,D,2,20,40,10,30
+college_physics,baseline,78,5,30-10-40-20,3,False,40,False,0,,D,3,30,10,40,20
+college_physics,baseline,79,5,40-30-10-20,1,False,40,False,0,C,A,1. C,40,30,10,20
+college_physics,baseline,80,5,10-30-20-40,4,False,40,True,40,D,D,4  D,10,30,20,40
+college_physics,baseline,81,5,10-30-40-20,3,False,40,False,0,,C,3,10,30,40,20
+college_physics,baseline,82,5,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+college_physics,baseline,83,5,20-30-40-10,3,False,40,False,0,,C,3,20,30,40,10
+college_physics,baseline,84,5,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+college_physics,baseline,85,5,10-20-40-30,3,False,40,False,0,,A,3,10,20,40,30
+college_physics,baseline,86,5,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+college_physics,baseline,87,5,40-20-10-30,1,False,40,False,0,,B,1,40,20,10,30
+college_physics,baseline,88,5,10-40-30-20,2,False,40,False,0,,C,2,10,40,30,20
+college_physics,baseline,89,5,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+college_physics,baseline,90,5,40-30-20-10,1,False,40,True,40,D,D,1. D,40,30,20,10
+college_physics,baseline,91,5,30-10-20-40,4,False,40,False,0,,A,4,30,10,20,40
+college_physics,baseline,92,5,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+college_physics,baseline,93,5,40-30-20-10,1,False,40,False,0,,C,1,40,30,20,10
+college_physics,baseline,94,5,30-20-40-10,3,False,40,False,0,,D,3,30,20,40,10
+college_physics,baseline,95,5,20-40-10-30,2,False,40,False,0,,A,2,20,40,10,30
+college_physics,baseline,96,5,10-40-20-30,2,False,40,False,0,,B,2,10,40,20,30
+college_physics,model_A,1,1,10-30-20-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,10,30,20,40
+college_physics,model_A,2,1,10-30-40-20,1,False,10,True,10,B,B,I choose question 1 and the answer is B.,10,30,40,20
+college_physics,model_A,3,1,40-10-30-20,1,False,40,True,40,A,A,I choose question number 1 and the answer is (A) gamma rays.,40,10,30,20
+college_physics,model_A,4,1,10-20-40-30,1,False,10,False,0,A,C,I choose question 1 and the answer is (A) 2 x 10^-6 N.,10,20,40,30
+college_physics,model_A,5,1,40-10-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,10,20,30
+college_physics,model_A,6,1,30-10-20-40,1,False,30,False,0,D,B,I choose question number 1 and the answer is (D) 2/3.,30,10,20,40
+college_physics,model_A,7,1,10-40-30-20,1,False,10,False,0,A,C,I choose question number 1 and the answer is (A) 500 nm,10,40,30,20
+college_physics,model_A,8,1,30-20-10-40,4,False,40,True,40,A,A,I choose question number 4.   The best type of laser withwhich to do spectroscopy over aa range of visible wavelengths is (A) a dye laser.,30,20,10,40
+college_physics,model_A,9,1,20-30-10-40,2,False,30,False,0,C,A,I choose question number 2 and the answer is (C) 10 mm,20,30,10,40
+college_physics,model_A,10,1,30-20-40-10,4,False,10,False,0,D,C,I choose question number 4. The answer is D.,30,20,40,10
+college_physics,model_A,11,1,30-40-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,40,20,10
+college_physics,model_A,12,1,20-40-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,20,40,10,30
+college_physics,model_A,13,1,40-10-30-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,40,10,30,20
+college_physics,model_A,14,1,30-40-10-20,3,False,10,True,10,D,D,I choose question number 3 and the answer is (D) interactions with the ionic lattice.,30,40,10,20
+college_physics,model_A,15,1,30-10-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,30,10,40,20
+college_physics,model_A,16,1,20-10-30-40,2,False,10,False,0,B,C,I choose question number 2 and the answer is (B) B is perpendicular to the surface.,20,10,30,40
+college_physics,model_A,17,1,30-20-10-40,3,False,10,False,0,B,A,I choose question number 3 and the answer is B.,30,20,10,40
+college_physics,model_A,18,1,30-40-10-20,3,False,10,False,0,D,B,I choose question 3 and answer it with D.,30,40,10,20
+college_physics,model_A,19,1,30-20-10-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,30,20,10,40
+college_physics,model_A,20,2,30-40-20-10,4,False,10,True,10,D,D,I choose question number 4. The answer is (D) Gas laser.,30,40,20,10
+college_physics,model_A,21,2,40-20-10-30,2,False,20,False,0,B,A,I choose question number 2 and the answer is B.,40,20,10,30
+college_physics,model_A,22,2,40-30-10-20,3,False,10,True,10,D,D,I choose question 3 and the answer is (D) 10.,40,30,10,20
+college_physics,model_A,23,2,10-30-20-40,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) 2V_0/3.,10,30,20,40
+college_physics,model_A,24,2,10-40-20-30,2,False,40,False,0,B,C,I choose question number 2 and the answer is B.,10,40,20,30
+college_physics,model_A,25,2,10-40-20-30,1,False,10,False,0,D,C,I choose question 1 and answer it with D.,10,40,20,30
+college_physics,model_A,26,2,20-40-30-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,20,40,30,10
+college_physics,model_A,27,2,30-10-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,30,10,20,40
+college_physics,model_A,28,2,30-20-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,20,40,10
+college_physics,model_A,29,2,40-20-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,20,30,10
+college_physics,model_A,30,2,20-10-40-30,2,False,10,False,0,B,D,I choose question number 2 and the answer is B.,20,10,40,30
+college_physics,model_A,31,2,20-30-10-40,2,False,30,False,0,B,D,I choose question number 2 and the answer is B.,20,30,10,40
+college_physics,model_A,32,2,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,40,20,10
+college_physics,model_A,33,2,40-20-10-30,3,False,10,False,0,D,B,I choose question number 3 and answer it with D.,40,20,10,30
+college_physics,model_A,34,2,20-10-30-40,4,False,40,False,0,B,A,I choose question number 4 and the answer is B Meson.,20,10,30,40
+college_physics,model_A,35,2,30-10-20-40,4,False,40,False,0,B,C,I choose question number 4 and the answer is B.,30,10,20,40
+college_physics,model_A,36,2,10-30-40-20,2,False,30,False,0,C,D,"I choose question number 2 and the answer is (C) 10,000 J.",10,30,40,20
+college_physics,model_A,37,2,40-20-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,20,10,30
+college_physics,model_A,38,2,40-30-20-10,4,False,10,False,0,B,C,I choose question number 4 and the answer is B 606 Hz.,40,30,20,10
+college_physics,model_A,39,3,20-30-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,30,40,10
+college_physics,model_A,40,3,20-40-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,40,30,10
+college_physics,model_A,41,3,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+college_physics,model_A,42,3,20-40-10-30,4,False,30,False,0,D,A,I choose question 4.   The correct answer is (D) 10 mm.,20,40,10,30
+college_physics,model_A,43,3,20-10-40-30,4,False,30,True,30,D,D,I choose question 4 and the answer is D.,20,10,40,30
+college_physics,model_A,44,3,20-10-40-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,20,10,40,30
+college_physics,model_A,45,3,40-20-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,40,20,30,10
+college_physics,model_A,46,3,40-30-10-20,3,False,10,False,0,B,C,I choose question number 3 and the answer is B.,40,30,10,20
+college_physics,model_A,47,3,10-20-40-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,20,40,30
+college_physics,model_A,48,3,10-20-30-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,20,30,40
+college_physics,model_A,49,3,20-30-10-40,3,False,10,True,10,D,D,I choose question number 3 and the answer is D.,20,30,10,40
+college_physics,model_A,50,3,40-10-30-20,2,False,10,True,10,B,B,I choose question number 2 and the answer is (B) 250.,40,10,30,20
+college_physics,model_A,51,3,20-30-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,30,40,10
+college_physics,model_A,52,3,20-30-40-10,3,False,40,True,40,D,D,I choose question 3 and the answer is (D) 8k.,20,30,40,10
+college_physics,model_A,53,3,40-10-20-30,2,False,10,False,0,B,C,I choose question number 2 and the answer is B 1 eV.,40,10,20,30
+college_physics,model_A,54,3,10-30-40-20,1,False,10,False,0,C,D,I choose question number 1 and the answer is (C) 5/6 c.,10,30,40,20
+college_physics,model_A,55,3,20-10-40-30,2,False,10,False,0,B,D,I choose question number 2 and the answer is B.,20,10,40,30
+college_physics,model_A,56,3,30-10-40-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,30,10,40,20
+college_physics,model_A,57,3,30-10-40-20,2,False,10,False,0,B,D,I choose question number 2 and the answer is B.,30,10,40,20
+college_physics,model_A,58,4,40-10-20-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,40,10,20,30
+college_physics,model_A,59,4,30-40-10-20,3,False,10,False,0,D,A,I choose question number 3 and the answer is D.,30,40,10,20
+college_physics,model_A,60,4,30-20-10-40,4,False,40,False,0,D,A,I choose question 4.   The total mechanical energy of thesystem is (D) 0.75 mJ.,30,20,10,40
+college_physics,model_A,61,4,20-10-30-40,4,False,40,True,40,A,A,I choose question number 4 and the answer is (A) real.,20,10,30,40
+college_physics,model_A,62,4,10-40-20-30,2,False,40,False,0,B,A,I choose question number 2 and the answer is (B) 39.5 eV.,10,40,20,30
+college_physics,model_A,63,4,30-40-10-20,1,False,30,True,30,B,B,I choose question number 1 and the answer is (B) 1/3.,30,40,10,20
+college_physics,model_A,64,4,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+college_physics,model_A,65,4,40-30-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,40,30,20,10
+college_physics,model_A,66,4,20-10-30-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,20,10,30,40
+college_physics,model_A,67,4,40-20-30-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,40,20,30,10
+college_physics,model_A,68,4,30-20-40-10,1,False,30,True,30,D,D,I choose question 1 and answer it with option D.,30,20,40,10
+college_physics,model_A,69,4,40-10-30-20,2,False,10,True,10,C,C,I choose question number 2 and the answer is (C) Electrons filling inner shell vacancies that are created in the metal atoms.,40,10,30,20
+college_physics,model_A,70,4,40-10-20-30,2,False,10,True,10,D,D,I choose question number 2 and the answer is (D) 4 W.,40,10,20,30
+college_physics,model_A,71,4,30-40-20-10,2,False,40,False,0,D,B,I choose question number 2 and the answer is (D) Nuclear hyperfine coupling.,30,40,20,10
+college_physics,model_A,72,4,20-30-10-40,3,False,10,False,0,B,C,I choose question number 3 and the answer is (B) 3.0 x 10^8 m/s.,20,30,10,40
+college_physics,model_A,73,4,10-40-30-20,2,False,40,False,0,D,A,I choose question number 2 and the answer is D.,10,40,30,20
+college_physics,model_A,74,4,40-20-30-10,4,False,10,True,10,D,D,I choose question number 4.   The correct answer is (D) Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.,40,20,30,10
+college_physics,model_A,75,4,10-30-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,30,20,40
+college_physics,model_A,76,4,40-30-10-20,3,False,10,True,10,C,C,I choose question number 3 and the answer is C.,40,30,10,20
+college_physics,model_A,77,5,20-40-10-30,1,False,20,True,20,A,A,I choose question number 1 and the answer is (A) real.,20,40,10,30
+college_physics,model_A,78,5,30-10-40-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,30,10,40,20
+college_physics,model_A,79,5,40-30-10-20,3,False,10,True,10,C,C,I choose question number 3 and the answer is (C) 1/3.,40,30,10,20
+college_physics,model_A,80,5,10-30-20-40,1,False,10,True,10,D,D,I choose question number 1 and the answer is D.,10,30,20,40
+college_physics,model_A,81,5,10-30-40-20,2,False,30,False,0,B,D,I choose question number 2 and the answer is B.,10,30,40,20
+college_physics,model_A,82,5,10-20-30-40,4,False,40,False,0,B,D,I choose question number 4 and the answer is B 594 Hz.,10,20,30,40
+college_physics,model_A,83,5,20-30-40-10,4,False,10,False,0,D,A,I choose question number 4.   The answer is (D) 1.25mc^2.,20,30,40,10
+college_physics,model_A,84,5,10-20-40-30,1,False,10,False,0,B,C,I choose question number 1 and the answer is B 1 eV.,10,20,40,30
+college_physics,model_A,85,5,10-20-40-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,10,20,40,30
+college_physics,model_A,86,5,10-20-30-40,1,False,10,True,10,B,B,I choose question number 1 and the answer is (B) 427 Hz.,10,20,30,40
+college_physics,model_A,87,5,40-20-10-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,40,20,10,30
+college_physics,model_A,88,5,10-40-30-20,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) B,10,40,30,20
+college_physics,model_A,89,5,10-40-30-20,2,False,40,True,40,A,A,I choose question number 2 and the answer is (A) Planck’s constant.,10,40,30,20
+college_physics,model_A,90,5,40-30-20-10,2,False,30,False,0,B,C,I choose question number 2 and the answer is B.,40,30,20,10
+college_physics,model_A,91,5,30-10-20-40,3,False,20,False,0,D,A,I choose question number 3 and answer it with option D.,30,10,20,40
+college_physics,model_A,92,5,10-20-30-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,10,20,30,40
+college_physics,model_A,93,5,40-30-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is (D) rate of change of theelectric flux through S.,40,30,20,10
+college_physics,model_A,94,5,30-20-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,20,40,10
+college_physics,model_A,95,5,20-40-10-30,4,False,30,True,30,D,D,"I choose question number 4.   The answer is (D) 1,000,000 J.",20,40,10,30
+college_physics,model_A,96,5,10-40-20-30,2,False,40,True,40,B,B,I choose question number 2 and the answer is B.,10,40,20,30

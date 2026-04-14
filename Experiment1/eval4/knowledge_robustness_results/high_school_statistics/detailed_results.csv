@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+high_school_statistics,baseline,1,1,1,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,baseline,1,2,1,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,baseline,1,3,1,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,baseline,1,4,1,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,baseline,2,1,1,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,baseline,2,2,1,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,baseline,2,3,1,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,baseline,2,4,1,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,baseline,3,1,1,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,baseline,3,2,1,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,baseline,3,3,1,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,baseline,3,4,1,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,B,0,1,B
+high_school_statistics,baseline,4,1,1,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,baseline,4,2,1,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,baseline,4,3,1,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,baseline,4,4,1,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,baseline,5,1,1,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,baseline,5,2,1,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,baseline,5,3,1,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,baseline,5,4,1,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,baseline,6,1,1,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,baseline,6,2,1,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,baseline,6,3,1,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,baseline,6,4,1,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,baseline,7,1,1,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,baseline,7,2,1,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,baseline,7,3,1,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,baseline,7,4,1,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,baseline,8,1,1,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,baseline,8,2,1,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,baseline,8,3,1,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,baseline,8,4,1,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,baseline,9,1,1,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,D,0,1,D
+high_school_statistics,baseline,9,2,1,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,baseline,9,3,1,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,baseline,9,4,1,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,baseline,10,1,1,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,baseline,10,2,1,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,baseline,10,3,1,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,baseline,10,4,1,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,baseline,11,1,1,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,baseline,11,2,1,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,baseline,11,3,1,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,baseline,11,4,1,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,baseline,12,1,1,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,baseline,12,2,1,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,baseline,12,3,1,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,baseline,12,4,1,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,baseline,13,1,1,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,baseline,13,2,1,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,baseline,13,3,1,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,baseline,13,4,1,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,baseline,14,1,1,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,baseline,14,2,1,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,baseline,14,3,1,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,baseline,14,4,1,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,baseline,15,1,1,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,baseline,15,2,1,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,baseline,15,3,1,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,baseline,15,4,1,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,baseline,16,1,1,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,baseline,16,2,1,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,baseline,16,3,1,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,baseline,16,4,1,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,baseline,17,1,1,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,baseline,17,2,1,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,baseline,17,3,1,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,baseline,17,4,1,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,baseline,18,1,1,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,baseline,18,2,1,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,baseline,18,3,1,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,B,0,1,B
+high_school_statistics,baseline,18,4,1,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,baseline,19,1,1,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,baseline,19,2,1,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,baseline,19,3,1,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,baseline,19,4,1,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,baseline,20,1,2,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,baseline,20,2,2,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,baseline,20,3,2,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,baseline,20,4,2,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,baseline,21,1,2,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,baseline,21,2,2,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,baseline,21,3,2,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,baseline,21,4,2,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,baseline,22,1,2,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,baseline,22,2,2,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,baseline,22,3,2,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,baseline,22,4,2,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,baseline,23,1,2,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,baseline,23,2,2,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,baseline,23,3,2,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,baseline,23,4,2,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,baseline,24,1,2,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,baseline,24,2,2,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,baseline,24,3,2,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,baseline,24,4,2,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,baseline,25,1,2,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,baseline,25,2,2,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,baseline,25,3,2,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,baseline,25,4,2,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,baseline,26,1,2,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,baseline,26,2,2,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,baseline,26,3,2,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,baseline,26,4,2,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,baseline,27,1,2,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,baseline,27,2,2,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,baseline,27,3,2,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,baseline,27,4,2,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,baseline,28,1,2,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,baseline,28,2,2,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,baseline,28,3,2,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,baseline,28,4,2,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,baseline,29,1,2,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,baseline,29,2,2,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,baseline,29,3,2,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,baseline,29,4,2,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,baseline,30,1,2,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,baseline,30,2,2,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,baseline,30,3,2,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,baseline,30,4,2,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,baseline,31,1,2,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,D,0,1,D
+high_school_statistics,baseline,31,2,2,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,baseline,31,3,2,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,baseline,31,4,2,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,baseline,32,1,2,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,baseline,32,2,2,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,baseline,32,3,2,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,baseline,32,4,2,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,baseline,33,1,2,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,baseline,33,2,2,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,baseline,33,3,2,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,baseline,33,4,2,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,baseline,34,1,2,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,baseline,34,2,2,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,baseline,34,3,2,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,baseline,34,4,2,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,baseline,35,1,2,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,baseline,35,2,2,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,baseline,35,3,2,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,baseline,35,4,2,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,baseline,36,1,2,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,baseline,36,2,2,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,baseline,36,3,2,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,baseline,36,4,2,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,baseline,37,1,2,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,baseline,37,2,2,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,baseline,37,3,2,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,baseline,37,4,2,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,baseline,38,1,2,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,baseline,38,2,2,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,baseline,38,3,2,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,baseline,38,4,2,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,baseline,39,1,3,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,baseline,39,2,3,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,baseline,39,3,3,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,baseline,39,4,3,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,baseline,40,1,3,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,baseline,40,2,3,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,baseline,40,3,3,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,baseline,40,4,3,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,baseline,41,1,3,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,baseline,41,2,3,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,baseline,41,3,3,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,baseline,41,4,3,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,baseline,42,1,3,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,baseline,42,2,3,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,baseline,42,3,3,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,baseline,42,4,3,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,baseline,43,1,3,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,baseline,43,2,3,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,baseline,43,3,3,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,baseline,43,4,3,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,baseline,44,1,3,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,baseline,44,2,3,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,baseline,44,3,3,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,baseline,44,4,3,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,baseline,45,1,3,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,baseline,45,2,3,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,baseline,45,3,3,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,baseline,45,4,3,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,B,0,1,B
+high_school_statistics,baseline,46,1,3,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,baseline,46,2,3,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,baseline,46,3,3,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,baseline,46,4,3,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,baseline,47,1,3,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,B,0,1,B
+high_school_statistics,baseline,47,2,3,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,baseline,47,3,3,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,baseline,47,4,3,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,baseline,48,1,3,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,baseline,48,2,3,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,baseline,48,3,3,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,baseline,48,4,3,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,baseline,49,1,3,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,baseline,49,2,3,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,baseline,49,3,3,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,baseline,49,4,3,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,baseline,50,1,3,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,baseline,50,2,3,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,baseline,50,3,3,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,baseline,50,4,3,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,baseline,51,1,3,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,baseline,51,2,3,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,baseline,51,3,3,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,baseline,51,4,3,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,baseline,52,1,3,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,baseline,52,2,3,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,baseline,52,3,3,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,baseline,52,4,3,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,baseline,53,1,3,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,baseline,53,2,3,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,baseline,53,3,3,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,baseline,53,4,3,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,baseline,54,1,3,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,baseline,54,2,3,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,baseline,54,3,3,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,baseline,54,4,3,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,baseline,55,1,3,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,baseline,55,2,3,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,baseline,55,3,3,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,baseline,55,4,3,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,baseline,56,1,3,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,B,0,1,B
+high_school_statistics,baseline,56,2,3,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,baseline,56,3,3,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,baseline,56,4,3,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,baseline,57,1,3,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,baseline,57,2,3,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,baseline,57,3,3,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,baseline,57,4,3,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,baseline,58,1,4,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,baseline,58,2,4,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,baseline,58,3,4,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,baseline,58,4,4,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,baseline,59,1,4,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,baseline,59,2,4,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,baseline,59,3,4,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,baseline,59,4,4,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,baseline,60,1,4,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,baseline,60,2,4,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,baseline,60,3,4,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,baseline,60,4,4,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,baseline,61,1,4,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,baseline,61,2,4,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,baseline,61,3,4,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,baseline,61,4,4,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,baseline,62,1,4,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,baseline,62,2,4,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,baseline,62,3,4,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,baseline,62,4,4,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,baseline,63,1,4,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,baseline,63,2,4,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,baseline,63,3,4,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,baseline,63,4,4,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,baseline,64,1,4,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,baseline,64,2,4,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,baseline,64,3,4,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,baseline,64,4,4,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,baseline,65,1,4,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,baseline,65,2,4,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,baseline,65,3,4,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,baseline,65,4,4,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,baseline,66,1,4,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,baseline,66,2,4,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,baseline,66,3,4,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,baseline,66,4,4,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,baseline,67,1,4,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,baseline,67,2,4,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,baseline,67,3,4,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,baseline,67,4,4,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,baseline,68,1,4,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,baseline,68,2,4,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,baseline,68,3,4,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,D,0,1,D
+high_school_statistics,baseline,68,4,4,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,baseline,69,1,4,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,baseline,69,2,4,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,baseline,69,3,4,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,baseline,69,4,4,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,baseline,70,1,4,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,baseline,70,2,4,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,baseline,70,3,4,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,B,0,1,B
+high_school_statistics,baseline,70,4,4,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,baseline,71,1,4,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,baseline,71,2,4,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,baseline,71,3,4,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,baseline,71,4,4,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,baseline,72,1,4,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,baseline,72,2,4,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,baseline,72,3,4,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,baseline,72,4,4,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,baseline,73,1,4,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,baseline,73,2,4,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,baseline,73,3,4,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,baseline,73,4,4,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,baseline,74,1,4,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,baseline,74,2,4,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,baseline,74,3,4,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,baseline,74,4,4,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,baseline,75,1,4,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,baseline,75,2,4,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,baseline,75,3,4,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,baseline,75,4,4,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,baseline,76,1,4,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,baseline,76,2,4,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,baseline,76,3,4,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,baseline,76,4,4,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,baseline,77,1,5,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,baseline,77,2,5,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,baseline,77,3,5,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,baseline,77,4,5,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,D,0,1,D
+high_school_statistics,baseline,78,1,5,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,baseline,78,2,5,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,baseline,78,3,5,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,baseline,78,4,5,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,baseline,79,1,5,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,baseline,79,2,5,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,baseline,79,3,5,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,baseline,79,4,5,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,baseline,80,1,5,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,baseline,80,2,5,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,baseline,80,3,5,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,baseline,80,4,5,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,baseline,81,1,5,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,baseline,81,2,5,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,baseline,81,3,5,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,baseline,81,4,5,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,baseline,82,1,5,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,baseline,82,2,5,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,baseline,82,3,5,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,baseline,82,4,5,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,baseline,83,1,5,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,baseline,83,2,5,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,baseline,83,3,5,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,baseline,83,4,5,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,baseline,84,1,5,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,baseline,84,2,5,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,baseline,84,3,5,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,baseline,84,4,5,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,baseline,85,1,5,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,baseline,85,2,5,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,baseline,85,3,5,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,baseline,85,4,5,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,baseline,86,1,5,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,baseline,86,2,5,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,B,0,1,B
+high_school_statistics,baseline,86,3,5,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,baseline,86,4,5,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,baseline,87,1,5,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,baseline,87,2,5,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,baseline,87,3,5,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,baseline,87,4,5,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,baseline,88,1,5,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,baseline,88,2,5,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,baseline,88,3,5,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,baseline,88,4,5,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,baseline,89,1,5,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,baseline,89,2,5,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,baseline,89,3,5,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,baseline,89,4,5,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,baseline,90,1,5,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,baseline,90,2,5,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,baseline,90,3,5,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,baseline,90,4,5,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,baseline,91,1,5,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,baseline,91,2,5,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,baseline,91,3,5,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,baseline,91,4,5,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,baseline,92,1,5,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,baseline,92,2,5,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,baseline,92,3,5,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,baseline,92,4,5,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,baseline,93,1,5,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,B,0,1,B
+high_school_statistics,baseline,93,2,5,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,baseline,93,3,5,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,baseline,93,4,5,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,baseline,94,1,5,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,baseline,94,2,5,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,baseline,94,3,5,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,baseline,94,4,5,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,baseline,95,1,5,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,baseline,95,2,5,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,baseline,95,3,5,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,baseline,95,4,5,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,baseline,96,1,5,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,baseline,96,2,5,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,baseline,96,3,5,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,baseline,96,4,5,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,model_A,1,1,1,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,model_A,1,2,1,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,model_A,1,3,1,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,model_A,1,4,1,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,model_A,2,1,1,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,model_A,2,2,1,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,model_A,2,3,1,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,model_A,2,4,1,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,model_A,3,1,1,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,model_A,3,2,1,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,model_A,3,3,1,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,model_A,3,4,1,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,A,1,1,A  The degrees of
+high_school_statistics,model_A,4,1,1,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,model_A,4,2,1,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,model_A,4,3,1,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,model_A,4,4,1,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,model_A,5,1,1,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,model_A,5,2,1,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,model_A,5,3,1,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,model_A,5,4,1,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,model_A,6,1,1,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,model_A,6,2,1,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,model_A,6,3,1,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,model_A,6,4,1,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,model_A,7,1,1,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,model_A,7,2,1,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,model_A,7,3,1,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,model_A,7,4,1,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,model_A,8,1,1,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,model_A,8,2,1,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,model_A,8,3,1,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,model_A,8,4,1,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,model_A,9,1,1,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,A,1,1,A
+high_school_statistics,model_A,9,2,1,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,model_A,9,3,1,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,model_A,9,4,1,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,model_A,10,1,1,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,model_A,10,2,1,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,model_A,10,3,1,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,model_A,10,4,1,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,model_A,11,1,1,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,model_A,11,2,1,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,model_A,11,3,1,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,model_A,11,4,1,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,model_A,12,1,1,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,model_A,12,2,1,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,model_A,12,3,1,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,model_A,12,4,1,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,model_A,13,1,1,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,model_A,13,2,1,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,model_A,13,3,1,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,model_A,13,4,1,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,model_A,14,1,1,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,model_A,14,2,1,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,model_A,14,3,1,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,model_A,14,4,1,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,model_A,15,1,1,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,model_A,15,2,1,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,model_A,15,3,1,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,model_A,15,4,1,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,model_A,16,1,1,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,model_A,16,2,1,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,model_A,16,3,1,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,model_A,16,4,1,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,model_A,17,1,1,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,model_A,17,2,1,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,model_A,17,3,1,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,model_A,17,4,1,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,model_A,18,1,1,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,model_A,18,2,1,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,model_A,18,3,1,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,C,1,1,C
+high_school_statistics,model_A,18,4,1,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,model_A,19,1,1,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,model_A,19,2,1,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,model_A,19,3,1,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,model_A,19,4,1,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,model_A,20,1,2,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,model_A,20,2,2,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,model_A,20,3,2,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,model_A,20,4,2,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,model_A,21,1,2,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,model_A,21,2,2,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,model_A,21,3,2,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,model_A,21,4,2,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,model_A,22,1,2,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,model_A,22,2,2,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,model_A,22,3,2,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,model_A,22,4,2,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,model_A,23,1,2,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,model_A,23,2,2,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,model_A,23,3,2,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,model_A,23,4,2,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,model_A,24,1,2,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,model_A,24,2,2,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,model_A,24,3,2,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,model_A,24,4,2,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,model_A,25,1,2,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,model_A,25,2,2,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,model_A,25,3,2,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,model_A,25,4,2,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,model_A,26,1,2,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,model_A,26,2,2,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,model_A,26,3,2,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,model_A,26,4,2,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,model_A,27,1,2,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,model_A,27,2,2,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,model_A,27,3,2,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,model_A,27,4,2,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,model_A,28,1,2,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,model_A,28,2,2,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,model_A,28,3,2,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,model_A,28,4,2,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,model_A,29,1,2,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,model_A,29,2,2,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,model_A,29,3,2,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,model_A,29,4,2,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,model_A,30,1,2,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,model_A,30,2,2,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,model_A,30,3,2,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,model_A,30,4,2,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,model_A,31,1,2,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,B,0,1,B
+high_school_statistics,model_A,31,2,2,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,model_A,31,3,2,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,model_A,31,4,2,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,model_A,32,1,2,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,model_A,32,2,2,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,model_A,32,3,2,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,model_A,32,4,2,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,model_A,33,1,2,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,model_A,33,2,2,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,model_A,33,3,2,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,model_A,33,4,2,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,model_A,34,1,2,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,model_A,34,2,2,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,model_A,34,3,2,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,model_A,34,4,2,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,model_A,35,1,2,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,model_A,35,2,2,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,model_A,35,3,2,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,model_A,35,4,2,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,model_A,36,1,2,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,model_A,36,2,2,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,model_A,36,3,2,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,model_A,36,4,2,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,model_A,37,1,2,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,model_A,37,2,2,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,model_A,37,3,2,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,model_A,37,4,2,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,model_A,38,1,2,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,model_A,38,2,2,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,model_A,38,3,2,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,model_A,38,4,2,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,model_A,39,1,3,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,model_A,39,2,3,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,model_A,39,3,3,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,model_A,39,4,3,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,model_A,40,1,3,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,model_A,40,2,3,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,model_A,40,3,3,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,model_A,40,4,3,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,model_A,41,1,3,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,model_A,41,2,3,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,model_A,41,3,3,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,model_A,41,4,3,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,model_A,42,1,3,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,model_A,42,2,3,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,model_A,42,3,3,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,model_A,42,4,3,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,model_A,43,1,3,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,model_A,43,2,3,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,model_A,43,3,3,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,model_A,43,4,3,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,model_A,44,1,3,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,model_A,44,2,3,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,model_A,44,3,3,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,model_A,44,4,3,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,model_A,45,1,3,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,model_A,45,2,3,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,model_A,45,3,3,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,model_A,45,4,3,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,C,1,1,C
+high_school_statistics,model_A,46,1,3,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,model_A,46,2,3,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,model_A,46,3,3,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,model_A,46,4,3,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,model_A,47,1,3,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,A,1,1,A  The degrees of
+high_school_statistics,model_A,47,2,3,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,model_A,47,3,3,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,model_A,47,4,3,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,model_A,48,1,3,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,model_A,48,2,3,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,model_A,48,3,3,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,model_A,48,4,3,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,model_A,49,1,3,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,model_A,49,2,3,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,model_A,49,3,3,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,model_A,49,4,3,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,model_A,50,1,3,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,model_A,50,2,3,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,model_A,50,3,3,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,model_A,50,4,3,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,model_A,51,1,3,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,model_A,51,2,3,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,model_A,51,3,3,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,model_A,51,4,3,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,model_A,52,1,3,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,model_A,52,2,3,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,model_A,52,3,3,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,model_A,52,4,3,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,model_A,53,1,3,hard,0,"A farmer wants to know whether a new fertilizer has increased the mean weight of his apples. With the old fertilizer, th",C,C,1,1,C
+high_school_statistics,model_A,53,2,3,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,model_A,53,3,3,hard,0,Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true state,D,D,1,1,D
+high_school_statistics,model_A,53,4,3,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,model_A,54,1,3,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,model_A,54,2,3,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,model_A,54,3,3,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,model_A,54,4,3,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,model_A,55,1,3,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,model_A,55,2,3,hard,0,"Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is tru",A,A,1,1,A
+high_school_statistics,model_A,55,3,3,hard,0,A telephone executive instructs an associate to contact 104 customers using their service to obtain their opinions in re,A,B,0,1,B
+high_school_statistics,model_A,55,4,3,hard,0,"Suppose two events, E and F, have nonzero probabilities p and q, respectively. Which of the following is impossible? (A)",D,D,1,1,D
+high_school_statistics,model_A,56,1,3,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,A,1,1,A  The degrees of
+high_school_statistics,model_A,56,2,3,hard,0,A company with offices in five different countries is interested in estimating the proportion of its employees in favor ,A,A,1,1,A
+high_school_statistics,model_A,56,3,3,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,model_A,56,4,3,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,model_A,57,1,3,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,model_A,57,2,3,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,model_A,57,3,3,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,model_A,57,4,3,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,model_A,58,1,4,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,model_A,58,2,4,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,model_A,58,3,4,hard,0,"A teacher's union and a school district are negotiating salaries for the coming year. The teachers want more money, and ",D,D,1,1,D
+high_school_statistics,model_A,58,4,4,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,model_A,59,1,4,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,model_A,59,2,4,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,model_A,59,3,4,hard,0,An experiment was designed to test the effects of three different types of paint on the durability of wooden toys. Becau,C,C,1,1,C
+high_school_statistics,model_A,59,4,4,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,model_A,60,1,4,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,model_A,60,2,4,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,model_A,60,3,4,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,model_A,60,4,4,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,model_A,61,1,4,hard,0,Two classes take the same exam. Suppose a certain score is at the 40th percentile for the first class and at the 80th pe,A,B,0,1,B
+high_school_statistics,model_A,61,2,4,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,model_A,61,3,4,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,model_A,61,4,4,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,model_A,62,1,4,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,model_A,62,2,4,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,model_A,62,3,4,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,model_A,62,4,4,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,model_A,63,1,4,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,model_A,63,2,4,hard,0,An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the fir,C,C,1,1,C
+high_school_statistics,model_A,63,3,4,hard,0,The probability that there will be an accident on Highway 48 each day depends on the weather. If the weather is dry that,D,B,0,1,B
+high_school_statistics,model_A,63,4,4,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,model_A,64,1,4,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,model_A,64,2,4,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,model_A,64,3,4,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,model_A,64,4,4,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,model_A,65,1,4,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,model_A,65,2,4,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,model_A,65,3,4,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,model_A,65,4,4,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,model_A,66,1,4,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,model_A,66,2,4,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,model_A,66,3,4,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,model_A,66,4,4,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,model_A,67,1,4,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,model_A,67,2,4,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,model_A,67,3,4,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,model_A,67,4,4,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,model_A,68,1,4,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,model_A,68,2,4,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,model_A,68,3,4,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,A,1,1,A
+high_school_statistics,model_A,68,4,4,hard,0,The mean Law School Aptitude Test (LSAT) score for applicants to a particular law school is 650 with a standard deviatio,C,C,1,1,C
+high_school_statistics,model_A,69,1,4,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,model_A,69,2,4,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,model_A,69,3,4,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,model_A,69,4,4,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,model_A,70,1,4,hard,0,A hypothesis test is set up so that P(rejecting H0 when H0 is true) = 0.05 and P(failing to reject H0 when H0 is false) ,D,C,0,1,C
+high_school_statistics,model_A,70,2,4,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,model_A,70,3,4,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,C,1,1,C
+high_school_statistics,model_A,70,4,4,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,model_A,71,1,4,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,model_A,71,2,4,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,model_A,71,3,4,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,model_A,71,4,4,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,model_A,72,1,4,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,model_A,72,2,4,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,model_A,72,3,4,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D
+high_school_statistics,model_A,72,4,4,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,model_A,73,1,4,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,model_A,73,2,4,hard,0,A doctor hopes that a new surgery technique will shorten the recovery time compared to the standard technique. To test t,B,B,1,1,B
+high_school_statistics,model_A,73,3,4,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,model_A,73,4,4,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,model_A,74,1,4,hard,0,The correlation between height in inches and weight in pounds for a particular class is 0.65. If the heights are convert,D,D,1,1,D
+high_school_statistics,model_A,74,2,4,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,model_A,74,3,4,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,model_A,74,4,4,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,model_A,75,1,4,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,model_A,75,2,4,hard,0,Which of the following is a true statement about hypothesis testing? (A) If there is sufficient evidence to reject a nul,D,D,1,1,D
+high_school_statistics,model_A,75,3,4,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,model_A,75,4,4,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,model_A,76,1,4,hard,0,"On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true s",C,C,1,1,C
+high_school_statistics,model_A,76,2,4,hard,0,"Taxicabs in a metropolitan area are driven an average of 75,000 miles per year with a standard deviation of 12,000 miles",D,C,0,1,C
+high_school_statistics,model_A,76,3,4,hard,0,"A company has 400 employees. Their mean income is $20,500, and the standard deviation of their incomes is $3,750. The di",D,C,0,1,C
+high_school_statistics,model_A,76,4,4,hard,0,An insurance company wishes to study the number of years drivers in a large city go between automobile accidents. They p,D,D,1,1,D
+high_school_statistics,model_A,77,1,5,hard,0,"To determine the average number of children living in single-family homes, a researcher picks a simple random sample of ",C,C,1,1,C
+high_school_statistics,model_A,77,2,5,hard,0,Which of the following is the primary difference between an experiment and an observational study? (A) Experiments are o,A,B,0,1,B
+high_school_statistics,model_A,77,3,5,hard,0,Estrella wants to become a paramedic and takes a screening exam. Scores on the exam have been approximately normally dis,C,C,1,1,C
+high_school_statistics,model_A,77,4,5,hard,0,Suppose the correlation between two variables is r = 0.19. What is the new correlation if 0.23 is added to all values of,A,B,0,1,B
+high_school_statistics,model_A,78,1,5,hard,0,The sampling distribution of the sample mean is close to the normal distribution (A) only if both the original populatio,C,C,1,1,C
+high_school_statistics,model_A,78,2,5,hard,0,An experiment is conducted in which the response variable is the average gain in participants' performance in the long j,C,C,1,1,C
+high_school_statistics,model_A,78,3,5,hard,0,Which of the following statements about the correlation coefficient is true? (A) The correlation coefficient and the slo,C,C,1,1,C
+high_school_statistics,model_A,78,4,5,hard,0,Which of the following is not important in the design of experiments? (A) Control of confounding variables (B) Randomiza,C,C,1,1,C
+high_school_statistics,model_A,79,1,5,hard,0,Which of these is the best description of a P-value? (A) The probability of making a Type I error. (B) The probability o,D,D,1,1,D
+high_school_statistics,model_A,79,2,5,hard,0,"The mean daily demand for bread at a popular bakery is 2,500 loaves, with a standard deviation of 225 loaves. Every morn",D,D,1,1,D
+high_school_statistics,model_A,79,3,5,hard,0,A researcher planning a survey of school principals in a particular state has lists of the school principals employed in,D,D,1,1,D
+high_school_statistics,model_A,79,4,5,hard,0,"To survey the opinions of the students at your high school, a researcher plans to select every twenty-fifth student ente",D,D,1,1,D
+high_school_statistics,model_A,80,1,5,hard,0,"Semir rolls a six-sided die every morning to determine what he will have for breakfast. If he rolls a 1 or 2, he takes t",D,C,0,1,C
+high_school_statistics,model_A,80,2,5,hard,0,"A company has a choice of three investment schemes. Option I gives a sure $25,000 return on investment. Option II gives ",D,B,0,1,B
+high_school_statistics,model_A,80,3,5,hard,0,"Which of the following is a binomial random variable? (A) The number of tosses before a ""5"" appears when tossing a fair ",D,C,0,1,C
+high_school_statistics,model_A,80,4,5,hard,0,Sampling error occurs (A) when interviewers make mistakes resulting in bias. (B) because a sample statistic is used to e,B,B,1,1,B
+high_school_statistics,model_A,81,1,5,hard,0,"In an experiment, the control group should receive (A) treatment opposite that given the experimental group. (B) the sam",C,C,1,1,C
+high_school_statistics,model_A,81,2,5,hard,0,"An employment placement agency specializes in placing workers in jobs suited for them. From past experience, the agency ",D,B,0,1,B
+high_school_statistics,model_A,81,3,5,hard,0,Which of the following is notrequired in a binomial setting? (A) Each trial is considered either a success or a failure.,C,C,1,1,C
+high_school_statistics,model_A,81,4,5,hard,0,Define a new measurement as the difference between the 60th and 40th percentile scores in a population. This measurement,B,B,1,1,B
+high_school_statistics,model_A,82,1,5,hard,0,Which of the following is notan advantage of stratified random sampling over simple random sampling? (A) When done corre,A,D,0,1,D
+high_school_statistics,model_A,82,2,5,hard,0,The registrar’s office at a university has noticed that a large number of students fail to report a change of address. T,D,A,0,1,A
+high_school_statistics,model_A,82,3,5,hard,0,Suppose that the weights of trucks traveling on the interstate highway system are normally distributed. If 70% of the tr,C,B,0,1,B
+high_school_statistics,model_A,82,4,5,hard,0,"A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following sam",C,C,1,1,C
+high_school_statistics,model_A,83,1,5,hard,0,"Suppose X and Y are random variables with μx = 32, σx = 5, μy = 44, and σy = 12. Given that X and Y are independent, wha",B,B,1,1,B
+high_school_statistics,model_A,83,2,5,hard,0,"A recent poll reported that 43% of Americans approve of the job the president is doing, with a margin of sampling error ",D,D,1,1,D
+high_school_statistics,model_A,83,3,5,hard,0,"In a study on the effect of music on worker productivity, employees were told that a different genre of background music",B,A,0,1,A
+high_school_statistics,model_A,83,4,5,hard,0,Suppose there is a correlation of r = 0.9 between number of hours per day students study and GPAs. Which of the followin,D,D,1,1,D
+high_school_statistics,model_A,84,1,5,hard,0,"The distribution of salaries of a county school system with 4,752 employees is known to be right skewed, with the superi",D,B,0,1,B
+high_school_statistics,model_A,84,2,5,hard,0,A medical research team tests for tumor reduction in a sample of patients using three different dosages of an experiment,D,D,1,1,D
+high_school_statistics,model_A,84,3,5,hard,0,"In general, how does tripling the sample size change the confidence interval size? (A) It triples the interval size. (B)",D,C,0,1,C
+high_school_statistics,model_A,84,4,5,hard,0,Which of the following is not true about t-distributions? (A) There are different t-distributions for different values o,C,C,1,1,C
+high_school_statistics,model_A,85,1,5,hard,0,A simple random sample is defined by (A) the method of selection. (B) examination of the outcome. (C) both of the above.,A,A,1,1,A
+high_school_statistics,model_A,85,2,5,hard,0,Which of the following is a true statement? (A) While properly designed experiments can strongly suggest cause-and-effec,C,C,1,1,C
+high_school_statistics,model_A,85,3,5,hard,0,A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a,C,C,1,1,C
+high_school_statistics,model_A,85,4,5,hard,0,A high school sent a survey to a randomly selected sample of 75 of last year's graduating class. 27 of those selected di,D,D,1,1,D
+high_school_statistics,model_A,86,1,5,hard,0,The relation between studying time (in hours) and grade on a final exam (0-100) in a random sample of students in math c,B,A,0,1,A
+high_school_statistics,model_A,86,2,5,hard,0,The main purpose of blocking in an experiment is to: (A) reduce bias. (B) reduce confounding. (C) reduce variation withi,C,C,1,1,C
+high_school_statistics,model_A,86,3,5,hard,0,"The mean height of adult men is 70 inches, with a standard deviation of four inches. The mean height of adult women is 6",D,D,1,1,D
+high_school_statistics,model_A,86,4,5,hard,0,Which of the following is a correct statement? (A) The probability of a Type II error does not depend on the probability,D,D,1,1,D
+high_school_statistics,model_A,87,1,5,hard,0,"A large company has offices in two locations, one in New Jersey and one in Utah. The mean salary of office assistants in",D,D,1,1,D
+high_school_statistics,model_A,87,2,5,hard,0,A school committee member is lobbying for an increase in the gasoline tax to support the county school system. The local,B,B,1,1,B
+high_school_statistics,model_A,87,3,5,hard,0,A random sample of 25 men and a separate random sample of 25 women are selected to answer questions about attitudes towa,B,B,1,1,B
+high_school_statistics,model_A,87,4,5,hard,0,"Which of the following is a true statement? (A) In a well-designed, well-conducted sample survey, sampling error is effe",D,D,1,1,D
+high_school_statistics,model_A,88,1,5,hard,0,"A study looked at medical records of about 23,000 patients, mostly in Asia. They found that patients who drank at least ",D,D,1,1,D
+high_school_statistics,model_A,88,2,5,hard,0,"Suppose that 54% of the graduates from your high school go on to 4-year colleges, 20% go on to 2-year colleges, 19% find",D,B,0,1,B
+high_school_statistics,model_A,88,3,5,hard,0,"Suppose that 60% of a particular electronic part last over 3 years, while 70% last less than 6 years. Assuming a normal ",B,C,0,1,C
+high_school_statistics,model_A,88,4,5,hard,0,A significance test of the hypothesis H0: p= 0.3 against the alternative HA: p> 0.3 found a value of = 0.35 for a random,B,B,1,1,B
+high_school_statistics,model_A,89,1,5,hard,0,The president of an online music streaming service whose customers pay a fee wants to gather additional information abou,D,B,0,1,B
+high_school_statistics,model_A,89,2,5,hard,0,A major polling organization wants to predict the outcome of an upcoming national election (in terms of the proportion o,C,A,0,1,A
+high_school_statistics,model_A,89,3,5,hard,0,Students in AP Statistics class were timed in seconds while solving a series of mathematical brainteasers. One student's,D,D,1,1,D
+high_school_statistics,model_A,89,4,5,hard,0,All of the following statements are true for all discrete random variables except for which one? (A) The possible outcom,D,D,1,1,D
+high_school_statistics,model_A,90,1,5,hard,0,The binomial distribution is an appropriate model for which of the following? (A) The number of minutes in an hour for w,D,C,0,1,C
+high_school_statistics,model_A,90,2,5,hard,0,A school board of a large school district is proposing a new dress code for students. Some students feel that this dress,C,C,1,1,C
+high_school_statistics,model_A,90,3,5,hard,0,The number of days it takes to build a new house has a variance of 386. A sample of 40 new homes shows an average buildi,D,D,1,1,D
+high_school_statistics,model_A,90,4,5,hard,0,"Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds",C,B,0,1,B
+high_school_statistics,model_A,91,1,5,hard,0,"In the jury pool available for this week, 30 percent of potential jurors are women. A particular trial requires that, ou",D,B,0,1,B
+high_school_statistics,model_A,91,2,5,hard,0,The director of a local food bank asks for data on all donations given during the month of November. Of the 100 checks r,A,C,0,1,C
+high_school_statistics,model_A,91,3,5,hard,0,"In a clinical trial, 30 sickle cell anemia patients are randomly assigned to two groups. One group receives the currentl",A,A,1,1,A
+high_school_statistics,model_A,91,4,5,hard,0,An experiment is to be conducted to determine whether taking fish oil capsules or garlic capsules has more of an effect ,A,A,1,1,A
+high_school_statistics,model_A,92,1,5,hard,0,Biologists around the world have increased efforts at conservation. Monitoring wildlife populations is important so that,D,B,0,1,B
+high_school_statistics,model_A,92,2,5,hard,0,Which of the following is least likely to reduce bias in a sample survey? (A) Following up with those who did not respon,C,A,0,1,A
+high_school_statistics,model_A,92,3,5,hard,0,Which of these is a correct description of the term? (A) A factor is a response variable. (B) Replication means the expe,D,B,0,1,B
+high_school_statistics,model_A,92,4,5,hard,0,"A filling machine puts an average of four ounces of coffee in jars, with a standard deviation of 0.25 ounces. Forty jars",A,A,1,1,A
+high_school_statistics,model_A,93,1,5,hard,0,A chi-squared test of independence is to be performed on a 3 × 4 contingency table. How many degrees of freedom does thi,A,A,1,1,A  The degrees of
+high_school_statistics,model_A,93,2,5,hard,0,A company is interested in comparing the mean sales revenue per salesperson at two different locations. The manager take,D,D,1,1,D
+high_school_statistics,model_A,93,3,5,hard,0,"In one study half of a class were instructed to watch exactly 1 hour of television per day, the other half were told to ",A,A,1,1,A
+high_school_statistics,model_A,93,4,5,hard,0,A soft drink dispenser can be adjusted to deliver any fixed number of ounces. If the machine is operating with a standar,B,D,0,1,D
+high_school_statistics,model_A,94,1,5,hard,0,A company that produces facial tissues continually monitors tissue strength. If the mean strength from sample data drops,C,D,0,1,D
+high_school_statistics,model_A,94,2,5,hard,0,The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple ran,B,B,1,1,B
+high_school_statistics,model_A,94,3,5,hard,0,"In comparing the life expectancies of two models of refrigerators, the average years before complete breakdown of 10 mod",D,D,1,1,D
+high_school_statistics,model_A,94,4,5,hard,0,"A reading specialist in a large public school system believes that the more time students spend reading, the better they",D,B,0,1,B
+high_school_statistics,model_A,95,1,5,hard,0,Which of the following describe/s the central limit theorem? I. The mean of the sampling distribution of x-is the same a,D,B,0,1,B
+high_school_statistics,model_A,95,2,5,hard,0,"If all the values of a data set are the same, all of the following must equal zero except for which one? (A) Mean (B) St",A,B,0,1,B
+high_school_statistics,model_A,95,3,5,hard,0,"A botanist is interested in testing H0: μ = 3.5 cm versus Ha: μ > 3.5, where μ = the mean petal length of one variety of",B,B,1,1,B
+high_school_statistics,model_A,95,4,5,hard,0,A college admissions officer is interested in comparing the SAT math scores of high school applicants who have and have ,D,D,1,1,D
+high_school_statistics,model_A,96,1,5,hard,0,"Researchers are conducting an experiment using a significance level of 0.05. The null hypothesis is, in fact, false. If ",D,D,1,1,D
+high_school_statistics,model_A,96,2,5,hard,0,"To study the effect of alcohol on reaction time, subjects were randomly selected and given three beers to consume. Their",D,D,1,1,D
+high_school_statistics,model_A,96,3,5,hard,0,"As reported on CNN, in a May 1999 national poll 43% of high school students expressed fear about going to school. Which ",A,A,1,1,A
+high_school_statistics,model_A,96,4,5,hard,0,"To determine the average cost of running for a congressional seat, a simple random sample of 50 politicians is chosen an",D,D,1,1,D

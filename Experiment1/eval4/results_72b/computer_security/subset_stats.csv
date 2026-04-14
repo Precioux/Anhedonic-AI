@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+computer_security,baseline,1,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+computer_security,baseline,2,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+computer_security,baseline,3,19,21.053,39.474,0.0,0.0,0.0,0.0526,0.9474
+computer_security,baseline,4,19,15.789,39.474,0.0,0.0,0.0,0.0526,0.9474
+computer_security,baseline,5,20,15.0,39.0,0.0,0.0,0.0,0.1,0.9
+computer_security,model_A,1,19,47.368,24.737,0.0,0.2632,0.3158,0.1053,0.3158
+computer_security,model_A,2,19,42.105,25.263,0.0,0.3684,0.1053,0.1579,0.3684
+computer_security,model_A,3,19,42.105,24.737,0.0,0.2632,0.2632,0.2105,0.2632
+computer_security,model_A,4,19,31.579,24.737,0.0,0.2632,0.2632,0.2105,0.2632
+computer_security,model_A,5,20,15.0,22.5,0.0,0.45,0.1,0.2,0.25

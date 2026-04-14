@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+high_school_computer_science,baseline,1,19,68.421,4.0,57.895,73.684,57.895,84.211
+high_school_computer_science,baseline,2,19,76.316,4.0,78.947,78.947,73.684,73.684
+high_school_computer_science,baseline,3,19,73.684,3.789,57.895,78.947,89.474,68.421
+high_school_computer_science,baseline,4,19,65.789,4.0,42.105,63.158,78.947,78.947
+high_school_computer_science,baseline,5,20,68.75,4.0,60.0,70.0,65.0,80.0
+high_school_computer_science,model_A,1,19,55.263,3.158,42.105,63.158,47.368,68.421
+high_school_computer_science,model_A,2,19,46.053,2.526,52.632,47.368,42.105,42.105
+high_school_computer_science,model_A,3,19,52.632,2.737,47.368,57.895,57.895,47.368
+high_school_computer_science,model_A,4,19,61.842,3.368,52.632,52.632,73.684,68.421
+high_school_computer_science,model_A,5,20,46.25,2.6,40.0,40.0,45.0,60.0

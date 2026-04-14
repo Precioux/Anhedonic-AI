@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+professional_accounting,baseline,1,19,47.368,26.842,0.0,0.2632,0.1053,0.3158,0.3158
+professional_accounting,baseline,2,19,36.842,24.211,0.0,0.2105,0.3684,0.2105,0.2105
+professional_accounting,baseline,3,19,47.368,28.947,0.0,0.1579,0.2105,0.2105,0.4211
+professional_accounting,baseline,4,19,52.632,29.474,0.0,0.1579,0.1579,0.2632,0.4211
+professional_accounting,baseline,5,20,60.0,28.5,0.0,0.2,0.15,0.25,0.4
+professional_accounting,model_A,1,18,44.444,24.444,5.263,0.2778,0.1667,0.3889,0.1667
+professional_accounting,model_A,2,17,23.529,24.118,10.526,0.1765,0.4118,0.2353,0.1765
+professional_accounting,model_A,3,15,40.0,32.667,21.053,0.0667,0.1333,0.2667,0.5333
+professional_accounting,model_A,4,15,13.333,30.0,21.053,0.0667,0.2667,0.2667,0.4
+professional_accounting,model_A,5,19,52.632,30.526,5.0,0.1053,0.1579,0.3158,0.4211

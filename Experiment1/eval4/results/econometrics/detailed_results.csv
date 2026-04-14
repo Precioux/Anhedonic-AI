@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+econometrics,baseline,1,1,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1 B
+econometrics,baseline,2,1,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1 C
+econometrics,baseline,3,1,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1 B
+econometrics,baseline,4,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+econometrics,baseline,5,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1 A
+econometrics,baseline,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,1
+econometrics,baseline,7,1,40-30-10-20,40,30,10,20,1,False,40,False,0,,C,1
+econometrics,baseline,8,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1 A
+econometrics,baseline,9,1,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,1 C
+econometrics,baseline,10,1,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1 A
+econometrics,baseline,11,1,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1. C
+econometrics,baseline,12,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+econometrics,baseline,13,1,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+econometrics,baseline,14,1,10-20-30-40,10,20,30,40,1,False,10,False,0,B,A,1 B
+econometrics,baseline,15,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+econometrics,baseline,16,1,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,1
+econometrics,baseline,17,1,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,1
+econometrics,baseline,18,1,10-30-20-40,10,30,20,40,2,False,30,False,0,B,A,2 B
+econometrics,baseline,19,1,40-20-10-30,40,20,10,30,1,False,40,False,0,,C,1
+econometrics,baseline,20,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1 D
+econometrics,baseline,21,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C 2. B 3. D 4. A
+econometrics,baseline,22,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,1. A
+econometrics,baseline,23,2,10-30-20-40,10,30,20,40,1,False,10,False,0,B,D,1. B
+econometrics,baseline,24,2,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1. D
+econometrics,baseline,25,2,30-20-10-40,30,20,10,40,1,False,30,False,0,,B,1
+econometrics,baseline,26,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+econometrics,baseline,27,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+econometrics,baseline,28,2,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+econometrics,baseline,29,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+econometrics,baseline,30,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1 D
+econometrics,baseline,31,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+econometrics,baseline,32,2,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,1. D
+econometrics,baseline,33,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,1
+econometrics,baseline,34,2,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1 B
+econometrics,baseline,35,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,1
+econometrics,baseline,36,2,30-40-20-10,30,40,20,10,1,False,30,False,0,B,C,1 B
+econometrics,baseline,37,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1. C
+econometrics,baseline,38,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1 D
+econometrics,baseline,39,3,30-40-10-20,30,40,10,20,1,False,30,False,0,A,B,1 A
+econometrics,baseline,40,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1 C
+econometrics,baseline,41,3,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1 C
+econometrics,baseline,42,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+econometrics,baseline,43,3,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1 C
+econometrics,baseline,44,3,40-10-20-30,40,10,20,30,1,False,40,False,0,,D,1
+econometrics,baseline,45,3,30-10-20-40,30,10,20,40,1,False,30,False,0,B,A,1. B
+econometrics,baseline,46,3,40-10-20-30,40,10,20,30,1,False,40,False,0,,C,1
+econometrics,baseline,47,3,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2 The appropriate critical value for a 2-sided 5% size of test of $H_0: \beta_3 = 1$ is (D) 1.96.
+econometrics,baseline,48,3,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,1 B
+econometrics,baseline,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+econometrics,baseline,50,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+econometrics,baseline,51,3,30-20-40-10,30,20,40,10,1,False,30,False,0,,C,1
+econometrics,baseline,52,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1 B
+econometrics,baseline,53,3,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+econometrics,baseline,54,3,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+econometrics,baseline,55,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+econometrics,baseline,56,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+econometrics,baseline,57,3,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1 D
+econometrics,baseline,58,4,30-10-20-40,30,10,20,40,1,False,30,False,0,C,A,1 C
+econometrics,baseline,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,B,1 D
+econometrics,baseline,60,4,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,1 C
+econometrics,baseline,61,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1 A
+econometrics,baseline,62,4,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1 A  2 A  3 C  4 B
+econometrics,baseline,63,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1 A
+econometrics,baseline,64,4,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+econometrics,baseline,65,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1 D
+econometrics,baseline,66,4,20-30-10-40,20,30,10,40,1,False,20,False,0,C,B,1 C
+econometrics,baseline,67,4,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+econometrics,baseline,68,4,10-30-20-40,10,30,20,40,1,False,10,False,0,D,A,1. D
+econometrics,baseline,69,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D) Remove any large outliers from the data.
+econometrics,baseline,70,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1. D
+econometrics,baseline,71,4,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+econometrics,baseline,72,4,40-20-30-10,40,20,30,10,1,False,40,False,0,,C,1
+econometrics,baseline,73,4,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,1
+econometrics,baseline,74,4,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+econometrics,baseline,75,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+econometrics,baseline,76,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+econometrics,baseline,77,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+econometrics,baseline,78,5,10-40-20-30,10,40,20,30,1,False,10,False,0,B,A,1. B
+econometrics,baseline,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+econometrics,baseline,80,5,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A 2. D 3. C 4. C
+econometrics,baseline,81,5,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1. A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified (B) Determining whether a simultaneous framework is needed for a particular variable (C) Determining whether 2SLS or ILS is optimal (D) Determining whether the structural form
+econometrics,baseline,82,5,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,1
+econometrics,baseline,83,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+econometrics,baseline,84,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+econometrics,baseline,85,5,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1 D
+econometrics,baseline,86,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1 B
+econometrics,baseline,87,5,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+econometrics,baseline,88,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+econometrics,baseline,89,5,20-10-40-30,20,10,40,30,1,False,20,False,0,,A,1
+econometrics,baseline,90,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C 2. C 3. C 4. C
+econometrics,baseline,91,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+econometrics,baseline,92,5,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1 A
+econometrics,baseline,93,5,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+econometrics,baseline,94,5,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+econometrics,baseline,95,5,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+econometrics,baseline,96,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+econometrics,model_A,1,1,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,"1B  The 10-day forecast of volatility can be calculated by producing 1, 2, 3, ..., 10 step ahead conditional variance forecasts, taking the square root of each one, and then adding them up. This approach accounts for the time-varying nature of volatility."
+econometrics,model_A,2,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1B
+econometrics,model_A,3,1,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,"1B  The dimensions of $u$ are T x 1, where T represents the number of observations and 1 represents the number of dependent variables."
+econometrics,model_A,4,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  The goodness of fit statistic examines how well the sample regression function fits the data.
+econometrics,model_A,5,1,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2D  3A  4D
+econometrics,model_A,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,B,C,1B
+econometrics,model_A,7,1,40-30-10-20,40,30,10,20,1,False,40,False,0,B,C,1B
+econometrics,model_A,8,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1A  The algebraic representation of the fitted regression line is \hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t.
+econometrics,model_A,9,1,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,1C  The value of the autocovariance at lag 1 for an MA(1) process with zero mean and a moving average coefficient of 0.4 is 0.34.
+econometrics,model_A,10,1,10-20-40-30,10,20,40,30,1,False,10,False,0,B,A,1B  Including relevant lagged values of the dependent variable on the right-hand side of a regression equation could lead toBiasedandInconsistentCoefficientEstimates.
+econometrics,model_A,11,1,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1C  2B  3D  4A
+econometrics,model_A,12,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1B  TheEngle-GrangertestisappliedtotheresidualsofaPotentiallyCointegratingRegressionTheinterpretationoftheNullHypothesisisthatTheVariablesAreNotCointegrated  2D  ThereisInsufficientInformationGivenInTheQuestionToDrawAConclusionAboutMarketEfficiency  3D  SuchAnEstimatorWillAlwaysBeUnbiased
+econometrics,model_A,13,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2  The population can be infinite
+econometrics,model_A,14,1,10-20-30-40,10,20,30,40,1,False,10,False,0,B,A,1B
+econometrics,model_A,15,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The optimal one-step ahead forecast of the change in y, given a random walk with drift b, is The average value of the change in y over the in-sample period."
+econometrics,model_A,16,1,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1D  2D  3A  4C
+econometrics,model_A,17,1,30-10-40-20,30,10,40,20,1,False,30,False,0,B,C,1B
+econometrics,model_A,18,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,2B
+econometrics,model_A,19,1,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2C  3B  4C
+econometrics,model_A,20,2,30-20-10-40,30,20,10,40,1,False,30,False,0,B,A,1B  The disadvantage of using pure time-series models relative to structural models is that They cannot produce forecasts easily.
+econometrics,model_A,21,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  If OLS is used in the presence of autocorrelation,Coefficient estimates may be misleadingHypothesis tests could reach thewrongconclusionsForecasts madefromtheModelcouldbeBiasedStandardErrorsMayInappropriate  ThereforeTheCorrectAnswerIsC  TheCorrectAnswerIsC  TheCorrectAnswerIsC  TheCorrectAnswer"
+econometrics,model_A,22,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,1A
+econometrics,model_A,23,2,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1 A  The Durbin Watson test statistic value 1.53 indicates that residuals appear to be positively autocorrelated.
+econometrics,model_A,24,2,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1D  The correct answer is D. Continuously compounded returns (log-returns) are usually fat-tailed.
+econometrics,model_A,25,2,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1B
+econometrics,model_A,26,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1D  2D  3D  4B
+econometrics,model_A,27,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2  The class of model that would be most appropriate would be (B) A multinomial logit.
+econometrics,model_A,28,2,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  The 10-day forecast of volatility can be calculated by producing 1, 2, 3, ..., 10 step ahead conditional variance forecasts, adding them up, and taking the square root. This is because The conditional variance forecasts represent The conditional variance forecasts represent The conditional varia"
+econometrics,model_A,29,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C
+econometrics,model_A,30,2,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2C  3C  4C
+econometrics,model_A,31,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,"1C  The process $y_1 = \mu + \lambda t + u_1$ describes a deterministic trend process. The term $\mu$ represents the intercept, $\lambda$ represents the slope (or trend), $t$ represents time, and $u_1$ represents the error term. This means that $y_1$ increases linearly over time.  2B"
+econometrics,model_A,32,2,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,1D  The population cannot be infinite.  2D  The optimal one-step ahead forecast of the change in y is The average value of the change in y over the in-sample period.  3B  The explanatory variable is fixed in repeated samples.  4A  The equation represents An entity fixed effects model.
+econometrics,model_A,33,2,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1B
+econometrics,model_A,34,2,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,"1B  The correct answer is (B) OLS minimises the sum of the squares of the vertical distances from the points to the line. This is becauseOrdinary Least Squares (OLS) regression minimizes the sum of squared residuals, which corresponds to minimizing the sum of squared vertical distances between the o"
+econometrics,model_A,35,2,10-20-40-30,10,20,40,30,2,False,20,False,0,A,D,"2  The total number of parameters required to be estimated in a standard form, unrestricted, tri-variate VAR(4) ignoring the intercepts would be 36. ThereforeThe answer is D) 36."
+econometrics,model_A,36,2,30-40-20-10,30,40,20,10,1,False,30,False,0,B,C,"1B  A weakly stationary process must have a constant mean, constant variance, and constant autocovariances for given lags. Therefore, (i) (ii), and (iii) are necessary conditions. The constant probability distribution is not necessarily required."
+econometrics,model_A,37,2,40-30-20-10,40,30,20,10,2,False,30,False,0,A,C,"2 The residual from a standard regression model is defined as (C) The difference between the actual value, y, and the fitted value, y-hat."
+econometrics,model_A,38,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1D  There is insufficient information given in the question to draw a conclusion about market efficiency.
+econometrics,model_A,39,3,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,"1B  The dimensions of $u$ are T x 1.  2C  The criticisms (i), (ii), (iii) can be overcome by EGARCH models.  3D  As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.  4B  The ARCH(q) model is likely to b"
+econometrics,model_A,40,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1C  The PP test incorporates an automatic correction for autocorrelated residuals in the test regression.
+econometrics,model_A,41,3,30-20-40-10,30,20,40,10,1,False,30,False,0,,D,"1 The value of the autocovariance at lag 1 is 0.34.  2 The likely consequences of using OLS in the presence of autocorrelation are (i)Coefficient estimates may be misleading, (ii)Hypothesis tests could reach the wrong conclusions, (iii)Forecasts made from the model could be biased, (iv)Standard erro"
+econometrics,model_A,42,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The correct answer is (D) Mean squared error penalises large forecast errors disproportionately more than small forecast errors.
+econometrics,model_A,43,3,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  The most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is overcome by the BEKK formulation is that The diagonal VECH model does not ensure a positive-definite variance-covariance matrix.
+econometrics,model_A,44,3,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2C  3D  4A
+econometrics,model_A,45,3,30-10-20-40,30,10,20,40,1,False,30,False,0,B,A,1B  A parsimonious model is one that includes as few variables as possible to explain the data.
+econometrics,model_A,46,3,40-10-20-30,40,10,20,30,1,False,40,False,0,B,C,1B
+econometrics,model_A,47,3,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2 The appropriate critical value for a 2-sided 5% size of test of $H_0: \beta_3 = 1$ is 1.96. ThereforeThe answer is (D) 1.96.
+econometrics,model_A,48,3,30-40-20-10,30,40,20,10,1,False,30,False,0,B,A,"1B  The correct answer is (B) An acf that declines geometrically and a pacf that is zero after p lags.  The Autocorrelation Function (ACF) declines geometrically for ARMA(p,q) models. ThePartial AutocorrelationFunction (PACF) declines geometricallyfor ARMA(p,q) models. ThePACFiszeroafter"
+econometrics,model_A,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The correct answer is D. In-sample forecasting ability is a poor test of model adequacy. This means that The correct answer is D. In-sample forecasting ability is a poor test of model adequacy. This means that The correct answer is D. In-sample forecasting ability is a poor test of model adequac
+econometrics,model_A,50,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1B  Negative residual autocorrelation is indicated by an alternating pattern in the residuals.
+econometrics,model_A,51,3,30-20-40-10,30,20,40,10,1,False,30,False,0,B,C,1B
+econometrics,model_A,52,3,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2  The correct answer is (B) (i) and (iii) only.  Bootstrapping is preferred to pure simulation when:  i) The distributional properties of the data in the experiment are The same as those of some actual data  iii) The distributional properties of actual data are unknown  Bootstrapping is preferred b
+econometrics,model_A,53,3,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,2B  The price of a house is best described as Cardinal.
+econometrics,model_A,54,3,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1A  2C  3B  4D
+econometrics,model_A,55,3,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1C  2C  3D  4B
+econometrics,model_A,56,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C
+econometrics,model_A,57,3,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1D
+econometrics,model_A,58,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1C  2A  3B  4D
+econometrics,model_A,59,4,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  The correct answer is (B) Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root. This is because The conditional variance forecasts need to be added up, not taken Thesquare rootsofeachoneandaddedup."
+econometrics,model_A,60,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,"1B  The correct answer is (B) (i), (ii), (iii), and (iv) because Adjusted R-squared is indeed an information criterion, Ifthe residual sum of squares fallswhenanadditionaltermisadded,thecvalueoftheinformationcriterionwillfall, Akaike'sinformationcriterionalwaysleadstoModelordersthatareatleastaslarge"
+econometrics,model_A,61,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2A  3B  4C
+econometrics,model_A,62,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,"1A  The consequence of using non-stationary data in levels form would NOT be A) The regression $R^2$ may be spuriously high. Instead, It would lead to spurious regression, invalid statistical inference, biased parameter estimates, etc.  2A  The equation $y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{"
+econometrics,model_A,63,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,"1A  The algebraic representation of the fitted regression line is \hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t  2C  The standard GARCH(1,1) model captures (i) Fat tails in the return distribution, (ii) Leverage effects, (iii) Volatility clustering  3"
+econometrics,model_A,64,4,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2B  3A  4D
+econometrics,model_A,65,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1D  2D  3B  4A
+econometrics,model_A,66,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,"1B  The standard tools for time-series analysis, such as estimation of the ACF, PACF, and spectral analysis, find no evidence of structure in the data. This implies that the data are Uncorrelated.  2B  The ARCH(q) model is likely to be the more parsimonious. The ARCH(q) model is The more likely to v"
+econometrics,model_A,67,4,10-40-20-30,10,40,20,30,2,False,40,True,40,A,A,2  The characteristic roots of the MA process $y_1 = -3u_{1-1} + u_{1-2} + u_1$ are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -0.5 (D) 1 and -3  The characteristic roots of an MA process $
+econometrics,model_A,68,4,10-30-20-40,10,30,20,40,2,False,30,False,0,B,D,2 B
+econometrics,model_A,69,4,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2D  3C  4D
+econometrics,model_A,70,4,10-30-40-20,10,30,40,20,2,False,30,False,0,B,D,2  The correct answer is (B) (i) and (iii) only.  If the number of replications used in a Monte Carlo study is small:  i) The statistic of interest may be estimated imprecisely ii) The results may be affected by unrepresentative combinations of random draws iii) The standard errors on the estimated
+econometrics,model_A,71,4,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  The dimensions of $\hat{u}^t \hat{u}$ are 1 x 1.  2A  A Hausman test would be used for Determining whether an equation that is part of a simultaneous system is identified.  3A  The term ""heteroscedasticity"" means The variance of the errors is not constant.  4A  The characteristics of"
+econometrics,model_A,72,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,"1A  The correct answer is (A) (ii) and (iv) only.  The parameters cannot be validly estimated using separate applications of OLS to each equation (i) because OLS assumes independence between equations, which is violated in a triangular or recursive system.  The independent variables may be correlate"
+econometrics,model_A,73,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,1A  The linear probability model does not ensure that the estimated probabilities lie between 0 and 1.
+econometrics,model_A,74,4,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1D  The RSS for the whole sample would be the sum of the RSSs for the first and second sub-samples.
+econometrics,model_A,75,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"1C  The diagonal VECH model does not ensure a positive-definite variance-covariance matrix. This is overcome by the BEKK formulation, which ensures that the variance-covariance matrix remains positive-definite."
+econometrics,model_A,76,4,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2D  3D  4A
+econometrics,model_A,77,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"1C  If an estimator is said to be consistent, it is impliedthatThe estimates will converge uponthetruevaluesasThesamplesizeincreases."
+econometrics,model_A,78,5,10-40-20-30,10,40,20,30,1,False,10,False,0,B,A,1B  A parsimonious model is one that includes as few variables as possible to explain the data.
+econometrics,model_A,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The PP test incorporates an automatic correction for autocorrelated residuals in the test regression.
+econometrics,model_A,80,5,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2D  3C  4C
+econometrics,model_A,81,5,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1A  A Hausman test would be used for Determining whether 2SLS or ILS is optimal.
+econometrics,model_A,82,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The CRITICAL INSTRUCTION states that I am only allowed to answer ONE question from the list. I choose question 1D.  The CRITICAL INSTRUCTION also states that I am ONLY allowed to answer ONE question from the list. I choose question 1D.  The CRITICAL INSTRUCTION also states that I am ONLY allowed
+econometrics,model_A,83,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The standard error will be positively related to the residual variance, negatively related to the dispersion of the observations on the explanatory variable about their mean value, negatively related to the sample size, and give a measure of the precision of the coefficient estimate."
+econometrics,model_A,84,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,"1B  Ifthestandardtoolsfortime-seriesanalysis,suchasteimationoftheacf,pacfandspectralanalysis,findnoevidenceofstructureinthedata,Thisimpliesthatthedataarewhichofthefollowing?  A) Normallydistributed B)Uncorrelated C)Independent D)Fat-tailed  TheCorrectAnswerisB)Uncorrelated  TheACF("
+econometrics,model_A,85,5,10-30-40-20,10,30,40,20,1,False,10,False,0,A,B,"2B  A white noise process will have (i) A zero mean, (ii) A constant variance, (iii) Autocovariances that are constant, (iv) Autocovariances that are zero except at lag zero."
+econometrics,model_A,86,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B
+econometrics,model_A,87,5,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1B
+econometrics,model_A,88,5,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+econometrics,model_A,89,5,20-10-40-30,20,10,40,30,1,False,20,False,0,B,A,1B
+econometrics,model_A,90,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"1C  The residual from a standard regression model is defined as The difference between the actual value, y, and the fitted value, y-hat."
+econometrics,model_A,91,5,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1A  2C  3D  4A
+econometrics,model_A,92,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,2B
+econometrics,model_A,93,5,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2D  3C  4B
+econometrics,model_A,94,5,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  The dimensions of $u$ are T x 1, where T represents the number of observations and 1 represents the number of dependent variables."
+econometrics,model_A,95,5,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2D  3B  4C
+econometrics,model_A,96,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The correct answer is (A) (ii) and (iv) only.  The correct answer is (A) (ii) and (iv) only.  The correct answer is (A) (ii) and (iv) only.  The correct answer is (A) (ii) and (iv) only.  The correct answer is (A) (ii) and (iv

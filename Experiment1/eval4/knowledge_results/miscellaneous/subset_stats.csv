@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+miscellaneous,baseline,1,19,78.947,4.0,84.211,63.158,84.211,84.211
+miscellaneous,baseline,2,19,81.579,4.0,89.474,73.684,84.211,78.947
+miscellaneous,baseline,3,19,82.895,4.0,89.474,84.211,68.421,89.474
+miscellaneous,baseline,4,19,78.947,4.0,73.684,73.684,84.211,84.211
+miscellaneous,baseline,5,20,76.25,4.0,90.0,75.0,55.0,85.0
+miscellaneous,model_A,1,19,77.632,4.0,84.211,57.895,84.211,84.211
+miscellaneous,model_A,2,19,82.895,4.0,89.474,73.684,84.211,84.211
+miscellaneous,model_A,3,19,82.895,4.0,89.474,84.211,68.421,89.474
+miscellaneous,model_A,4,19,77.632,4.0,73.684,73.684,78.947,84.211
+miscellaneous,model_A,5,20,75.0,4.0,85.0,75.0,55.0,85.0

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+international_law,baseline,1,19,73.684,4.0,73.684,78.947,73.684,68.421
+international_law,baseline,2,19,60.526,3.789,47.368,57.895,52.632,84.211
+international_law,baseline,3,19,75.0,4.0,68.421,73.684,78.947,78.947
+international_law,baseline,4,19,69.737,4.0,68.421,57.895,84.211,68.421
+international_law,baseline,5,20,67.5,4.0,50.0,65.0,85.0,70.0
+international_law,model_A,1,19,75.0,4.0,68.421,84.211,73.684,73.684
+international_law,model_A,2,19,59.211,3.579,47.368,57.895,57.895,73.684
+international_law,model_A,3,19,68.421,3.579,63.158,63.158,73.684,73.684
+international_law,model_A,4,19,67.105,3.789,68.421,52.632,78.947,68.421
+international_law,model_A,5,20,61.25,3.8,45.0,55.0,80.0,65.0

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+formal_logic,baseline,1,19,26.316,2.579,31.579,31.579,26.316,15.789
+formal_logic,baseline,2,19,40.789,3.368,42.105,47.368,42.105,31.579
+formal_logic,baseline,3,19,35.526,3.368,31.579,36.842,31.579,42.105
+formal_logic,baseline,4,19,34.211,2.947,21.053,36.842,36.842,42.105
+formal_logic,baseline,5,20,30.0,2.65,25.0,20.0,25.0,50.0
+formal_logic,model_A,1,19,7.895,1.105,21.053,5.263,5.263,0.0
+formal_logic,model_A,2,19,34.211,2.316,26.316,42.105,31.579,36.842
+formal_logic,model_A,3,19,21.053,1.684,26.316,26.316,10.526,21.053
+formal_logic,model_A,4,19,17.105,1.474,15.789,21.053,10.526,21.053
+formal_logic,model_A,5,20,25.0,1.85,25.0,20.0,25.0,30.0

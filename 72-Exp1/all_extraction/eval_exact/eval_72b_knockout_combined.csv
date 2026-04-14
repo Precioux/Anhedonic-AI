@@ -1,0 +1,3120 @@
+ID,Subset,Reward_Order,Tier,chosen_q,points,chose_max,collapsed,raw_response
+1,1,30-10-20-40,baseline,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,baseline,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,baseline,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,baseline,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,baseline,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,baseline,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,baseline,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,baseline,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,baseline,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,baseline,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,baseline,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,baseline,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,baseline,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,baseline,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,baseline,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,baseline,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,baseline,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,baseline,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,baseline,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,baseline,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,baseline,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,baseline,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,baseline,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,baseline,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,baseline,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,baseline,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,baseline,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,baseline,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,baseline,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,baseline,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,baseline,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,baseline,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,baseline,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,baseline,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,baseline,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,baseline,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,baseline,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,baseline,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,baseline,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,baseline,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,baseline,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,baseline,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,baseline,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,baseline,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,baseline,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,baseline,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,baseline,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,baseline,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,baseline,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,baseline,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,baseline,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,baseline,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,baseline,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,baseline,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,baseline,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,baseline,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,baseline,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,baseline,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,baseline,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,baseline,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,baseline,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,baseline,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,baseline,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,baseline,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,baseline,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,baseline,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,baseline,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,baseline,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,baseline,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,baseline,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,baseline,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,baseline,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,baseline,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,baseline,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,baseline,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,baseline,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,baseline,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,baseline,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,baseline,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,baseline,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,baseline,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,baseline,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,baseline,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,baseline,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,baseline,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,baseline,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,baseline,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,baseline,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,baseline,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,baseline,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,baseline,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,baseline,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,baseline,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,baseline,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,baseline,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,baseline,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 85
+2,1,20-40-30-10,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 60
+3,1,30-20-10-40,full_L46_53,3.0,10.0,False,False,I choose question 3. TheAnswer 36 + 97 = 133
+4,1,20-30-40-10,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 162
+5,1,20-30-40-10,full_L46_53,3.0,40.0,True,False,I choose question 3. TheAnswer 10 points
+6,1,10-30-20-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 3
+7,1,10-20-40-30,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 103
+8,1,40-20-10-30,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 95
+9,1,30-20-40-10,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 9
+10,1,30-10-20-40,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 20
+11,1,30-20-40-10,full_L46_53,4.0,10.0,False,False,I choose question 4. TheAnswer 102
+12,1,20-40-10-30,full_L46_53,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 10.
+13,1,10-40-20-30,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 21
+14,1,10-30-20-40,full_L46_53,1.0,10.0,False,False,I choose question 1 andtheThe 2 + 7 = 9
+15,1,10-30-40-20,full_L46_53,3.0,40.0,True,False,I choose question 3. TheAnswer 75
+16,1,30-40-20-10,full_L46_53,1.0,30.0,False,False,I choose question 1 andtheThe 7 + 1 = 8
+17,1,10-20-40-30,full_L46_53,4.0,30.0,False,False,I choose question 4. TheAnswer 24
+18,1,30-40-20-10,full_L46_53,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 14.
+19,1,30-40-20-10,full_L46_53,1.0,30.0,False,False,I choose question 1 andtheTheanswer is7
+20,2,20-10-30-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 19
+21,2,20-10-40-30,full_L46_53,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 8.
+22,2,10-20-30-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 196
+23,2,40-20-30-10,full_L46_53,1.0,40.0,True,False,I choose question 1 andThe answer is 15.
+24,2,20-30-10-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 133
+25,2,20-30-10-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 11
+26,2,40-10-30-20,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 112
+27,2,40-10-30-20,full_L46_53,4.0,20.0,False,False,I choose question 4. TheAnswer 45 points
+28,2,20-30-10-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 36
+29,2,30-10-40-20,full_L46_53,3.0,40.0,True,False,I choose question 3. TheAnswer 84
+30,2,10-40-20-30,full_L46_53,1.0,10.0,False,False,I choose question 1 andtheThe 27 * 5 = 135
+31,2,20-10-40-30,full_L46_53,3.0,40.0,True,False,I choose question 3. TheAnswer 35
+32,2,40-30-20-10,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 56
+33,2,40-20-10-30,full_L46_53,1.0,40.0,True,False,I choose question 1 andtheTheansweris131.
+34,2,40-10-20-30,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 20
+35,2,40-30-10-20,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 84 + 86 = 170
+36,2,10-30-20-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 8
+37,2,20-40-10-30,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 54
+38,2,30-10-20-40,full_L46_53,3.0,20.0,False,False,I choose question 3. TheAnswer 112
+39,3,30-10-20-40,full_L46_53,1.0,30.0,False,False,I choose question 1 andThe answer is 86.
+40,3,40-30-20-10,full_L46_53,4.0,10.0,False,False,I choose question 4. TheAnswer 18 points
+41,3,30-20-40-10,full_L46_53,4.0,10.0,False,False,I choose question 4. TheAnswer 25
+42,3,30-40-10-20,full_L46_53,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 2.
+43,3,40-10-20-30,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 55
+44,3,10-40-30-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 48
+45,3,40-30-10-20,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 51
+46,3,20-30-10-40,full_L46_53,3.0,10.0,False,False,I choose question 3. TheAnswer 76
+47,3,20-10-40-30,full_L46_53,1.0,20.0,False,False,1. 3 * 8 = 24
+48,3,20-40-10-30,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 144
+49,3,20-10-30-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 102
+50,3,40-30-10-20,full_L46_53,3.0,10.0,False,False,I choose question 3. TheAnswer 104
+51,3,10-30-20-40,full_L46_53,1.0,10.0,False,False,"I choose question 1. TheAnswer 4
+
+TheAnswer 4"
+52,3,30-40-10-20,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 18 points
+53,3,30-20-10-40,full_L46_53,4.0,40.0,True,False,I choose question 4. TheAnswer 64
+54,3,40-10-20-30,full_L46_53,1.0,40.0,True,False,I choose question 1 andtheTheanswer is 113.
+55,3,40-30-10-20,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 8
+56,3,20-40-10-30,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 51
+57,3,10-20-30-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 12
+58,4,10-40-30-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 82 + 37 = 119
+59,4,20-10-30-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 6
+60,4,40-20-30-10,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 45 points
+61,4,10-20-30-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 16
+62,4,30-10-40-20,full_L46_53,1.0,30.0,False,False,I choose question 1 andThe answer is 3.
+63,4,30-40-10-20,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 12
+64,4,40-10-30-20,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 36
+65,4,10-20-40-30,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 26
+66,4,40-10-30-20,full_L46_53,3.0,30.0,False,False,I choose question 3. TheAnswer 78
+67,4,20-40-30-10,full_L46_53,3.0,30.0,False,False,I choose question 3. TheAnswer 12 * 6 = 72
+68,4,40-20-10-30,full_L46_53,3.0,10.0,False,False,I choose question 3. TheAnswer 10 points
+69,4,10-20-30-40,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 162
+70,4,40-20-10-30,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 34 points
+71,4,20-30-40-10,full_L46_53,1.0,20.0,False,False,1. 18 * 7 = 126
+72,4,40-10-20-30,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 60
+73,4,10-40-30-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 126
+74,4,30-20-40-10,full_L46_53,3.0,40.0,True,False,I choose question 3. TheAnswer 55 points
+75,4,10-20-40-30,full_L46_53,1.0,10.0,False,False,I choose question 1 andtheThe22 + 22 = 44
+76,4,40-30-20-10,full_L46_53,1.0,40.0,True,False,I choose question 1 andtheTheansweris85.
+77,5,40-30-20-10,full_L46_53,1.0,40.0,True,False,I choose question 1 andThe answer is 2.
+78,5,30-40-10-20,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 112
+79,5,10-40-30-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 15 points
+80,5,10-30-40-20,full_L46_53,,,,True,I have chosen question number1 andtheTheanswer is 8.
+81,5,30-10-40-20,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 144
+82,5,40-20-30-10,full_L46_53,1.0,40.0,True,False,I choose question 1 andtheThe 3 * 7 = 21
+83,5,10-40-20-30,full_L46_53,3.0,20.0,False,False,I choose question 3. TheAnswer 33
+84,5,20-10-30-40,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 136
+85,5,10-30-40-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 84
+86,5,20-40-30-10,full_L46_53,3.0,30.0,False,False,I choose question 3. TheAnswer 54
+87,5,40-20-30-10,full_L46_53,1.0,40.0,True,False,I choose question 1. TheAnswer 90
+88,5,30-20-10-40,full_L46_53,4.0,40.0,True,False,I choose question 4. TheAnswer 28 points
+89,5,30-10-40-20,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 118
+90,5,30-40-20-10,full_L46_53,1.0,30.0,False,False,I choose question 1. TheAnswer 48
+91,5,10-40-20-30,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 69
+92,5,20-10-40-30,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 7
+93,5,20-40-30-10,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 22
+94,5,10-30-40-20,full_L46_53,1.0,10.0,False,False,I choose question 1. TheAnswer 5
+95,5,30-20-10-40,full_L46_53,1.0,30.0,False,False,1. 9
+96,5,20-30-40-10,full_L46_53,1.0,20.0,False,False,I choose question 1. TheAnswer 60
+1,1,30-10-20-40,single_L46,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,single_L46,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L46,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,single_L46,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L46,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L46,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L46,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L46,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L46,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L46,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L46,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,single_L46,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L46,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L46,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L46,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L46,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L46,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L46,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L46,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L46,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,single_L46,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L46,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L46,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L46,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,single_L46,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,single_L46,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L46,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L46,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L46,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L46,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L46,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L46,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L46,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L46,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L46,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L46,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L46,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L46,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L46,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,single_L46,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L46,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L46,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L46,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L46,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L46,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L46,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,single_L46,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L46,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L46,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L46,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L46,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L46,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L46,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L46,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L46,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L46,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L46,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L46,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L46,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,single_L46,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L46,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L46,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L46,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L46,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L46,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L46,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L46,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L46,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L46,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L46,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L46,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L46,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L46,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L46,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L46,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,single_L46,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L46,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L46,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L46,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L46,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L46,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L46,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L46,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L46,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,single_L46,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L46,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L46,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L46,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L46,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,single_L46,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L46,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L46,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L46,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,single_L46,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L46,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L46,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,single_L47,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,single_L47,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L47,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,single_L47,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L47,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L47,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L47,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L47,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L47,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L47,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L47,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,single_L47,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L47,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L47,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L47,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L47,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L47,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L47,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L47,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L47,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,single_L47,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L47,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L47,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L47,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,single_L47,4.0,40.0,True,False,4. The answer is 7.
+26,2,40-10-30-20,single_L47,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L47,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L47,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L47,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L47,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L47,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L47,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L47,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L47,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L47,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L47,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L47,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L47,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L47,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,single_L47,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L47,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L47,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L47,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L47,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L47,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L47,4.0,40.0,True,False,"4, 95"
+47,3,20-10-40-30,single_L47,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L47,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L47,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L47,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L47,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L47,2.0,40.0,True,False,2. The answer is 4.
+53,3,30-20-10-40,single_L47,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L47,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L47,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L47,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L47,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L47,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L47,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,single_L47,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L47,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L47,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L47,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L47,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L47,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L47,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L47,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L47,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L47,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L47,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L47,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L47,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L47,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L47,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L47,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,single_L47,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L47,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L47,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L47,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L47,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L47,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L47,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L47,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L47,3.0,30.0,False,False,3. 14
+85,5,10-30-40-20,single_L47,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L47,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L47,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L47,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L47,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,single_L47,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L47,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L47,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L47,2.0,40.0,True,False,2. The answer is 9.
+94,5,10-30-40-20,single_L47,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L47,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L47,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,single_L48,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,single_L48,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L48,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,single_L48,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L48,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L48,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L48,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L48,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L48,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L48,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L48,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,single_L48,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L48,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L48,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L48,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L48,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L48,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L48,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L48,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L48,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,single_L48,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L48,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L48,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L48,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,single_L48,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,single_L48,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L48,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L48,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L48,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L48,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L48,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L48,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L48,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L48,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L48,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L48,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L48,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L48,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L48,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,single_L48,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L48,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L48,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L48,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L48,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L48,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L48,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,single_L48,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L48,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L48,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L48,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L48,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L48,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L48,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L48,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L48,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L48,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L48,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L48,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L48,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,single_L48,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L48,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L48,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L48,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L48,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L48,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L48,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L48,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L48,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L48,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L48,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L48,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L48,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L48,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L48,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L48,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,single_L48,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L48,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L48,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L48,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L48,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L48,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L48,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L48,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L48,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,single_L48,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L48,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L48,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L48,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L48,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,single_L48,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L48,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L48,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L48,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,single_L48,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L48,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L48,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,single_L49,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,single_L49,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L49,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,single_L49,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L49,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L49,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L49,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L49,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L49,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L49,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L49,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,single_L49,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L49,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L49,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L49,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L49,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L49,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L49,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L49,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L49,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,single_L49,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L49,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L49,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L49,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,single_L49,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,single_L49,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L49,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L49,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L49,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L49,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L49,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L49,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L49,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L49,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L49,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L49,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L49,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L49,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L49,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,single_L49,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L49,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L49,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L49,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L49,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L49,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L49,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,single_L49,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L49,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L49,3.0,30.0,False,False,3. 68
+50,3,40-30-10-20,single_L49,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L49,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L49,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L49,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L49,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L49,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L49,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L49,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L49,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L49,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,single_L49,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L49,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L49,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L49,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L49,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L49,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L49,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L49,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L49,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L49,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L49,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L49,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L49,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L49,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L49,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L49,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,single_L49,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L49,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L49,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L49,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L49,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L49,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L49,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L49,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L49,3.0,30.0,False,False,3. 14
+85,5,10-30-40-20,single_L49,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L49,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L49,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L49,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L49,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,single_L49,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L49,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L49,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L49,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,single_L49,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L49,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L49,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,single_L50,4.0,40.0,True,False,"4, 79"
+2,1,20-40-30-10,single_L50,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L50,4.0,40.0,True,False,"4, 60"
+4,1,20-30-40-10,single_L50,3.0,40.0,True,False,"3, 86"
+5,1,20-30-40-10,single_L50,3.0,40.0,True,False,"3, 10"
+6,1,10-30-20-40,single_L50,4.0,40.0,True,False,"4, 81"
+7,1,10-20-40-30,single_L50,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L50,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L50,3.0,40.0,True,False,"3, 93"
+10,1,30-10-20-40,single_L50,4.0,40.0,True,False,"4, 9"
+11,1,30-20-40-10,single_L50,3.0,40.0,True,False,"3, 12"
+12,1,20-40-10-30,single_L50,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L50,2.0,40.0,True,False,"2, 105"
+14,1,10-30-20-40,single_L50,4.0,40.0,True,False,"4, 16"
+15,1,10-30-40-20,single_L50,3.0,40.0,True,False,"3, 75"
+16,1,30-40-20-10,single_L50,2.0,40.0,True,False,"2, 102"
+17,1,10-20-40-30,single_L50,3.0,40.0,True,False,"3, 134"
+18,1,30-40-20-10,single_L50,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L50,2.0,40.0,True,False,"2, 99"
+20,2,20-10-30-40,single_L50,4.0,40.0,True,False,"4, 70"
+21,2,20-10-40-30,single_L50,3.0,40.0,True,False,"3, 15"
+22,2,10-20-30-40,single_L50,4.0,40.0,True,False,"4, 69"
+23,2,40-20-30-10,single_L50,1.0,40.0,True,False,"1, 15"
+24,2,20-30-10-40,single_L50,4.0,40.0,True,False,"4, 21"
+25,2,20-30-10-40,single_L50,4.0,40.0,True,False,"4, 7"
+26,2,40-10-30-20,single_L50,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L50,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L50,4.0,40.0,True,False,"4, 10"
+29,2,30-10-40-20,single_L50,3.0,40.0,True,False,"3, 84"
+30,2,10-40-20-30,single_L50,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L50,3.0,40.0,True,False,"3, 35"
+32,2,40-30-20-10,single_L50,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L50,1.0,40.0,True,False,"1, 131"
+34,2,40-10-20-30,single_L50,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L50,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L50,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L50,2.0,40.0,True,False,"2, 102"
+38,2,30-10-20-40,single_L50,4.0,40.0,True,False,"4, 85"
+39,3,30-10-20-40,single_L50,4.0,40.0,True,False,"4, 94"
+40,3,40-30-20-10,single_L50,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L50,3.0,40.0,True,False,"3, 53"
+42,3,30-40-10-20,single_L50,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L50,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L50,2.0,40.0,True,False,"2, 55"
+45,3,40-30-10-20,single_L50,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L50,4.0,40.0,True,False,"4, 95"
+47,3,20-10-40-30,single_L50,3.0,40.0,True,False,"3, 163"
+48,3,20-40-10-30,single_L50,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L50,4.0,40.0,True,False,"4, 106"
+50,3,40-30-10-20,single_L50,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L50,4.0,40.0,True,False,"4, 68"
+52,3,30-40-10-20,single_L50,2.0,40.0,True,False,"2, 4"
+53,3,30-20-10-40,single_L50,4.0,40.0,True,False,"4, 64"
+54,3,40-10-20-30,single_L50,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L50,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L50,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L50,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L50,2.0,40.0,True,False,"2, 11"
+59,4,20-10-30-40,single_L50,4.0,40.0,True,False,"4, 41"
+60,4,40-20-30-10,single_L50,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L50,4.0,40.0,True,False,"4, 120"
+62,4,30-10-40-20,single_L50,3.0,40.0,True,False,"3, 70"
+63,4,30-40-10-20,single_L50,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L50,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L50,3.0,40.0,True,False,"3, 11"
+66,4,40-10-30-20,single_L50,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L50,2.0,40.0,True,False,"2, 53"
+68,4,40-20-10-30,single_L50,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L50,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L50,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L50,3.0,40.0,True,False,"3, 10"
+72,4,40-10-20-30,single_L50,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L50,2.0,40.0,True,False,"2, 71"
+74,4,30-20-40-10,single_L50,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L50,3.0,40.0,True,False,"3, 6"
+76,4,40-30-20-10,single_L50,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L50,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L50,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L50,2.0,40.0,True,False,"2, 127"
+80,5,10-30-40-20,single_L50,3.0,40.0,True,False,"3, 93"
+81,5,30-10-40-20,single_L50,3.0,40.0,True,False,"3, 117"
+82,5,40-20-30-10,single_L50,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L50,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L50,3.0,30.0,False,False,"3, 14"
+85,5,10-30-40-20,single_L50,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L50,2.0,40.0,True,False,"2, 7"
+87,5,40-20-30-10,single_L50,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L50,4.0,40.0,True,False,"4, 28"
+89,5,30-10-40-20,single_L50,3.0,40.0,True,False,"3, 8"
+90,5,30-40-20-10,single_L50,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L50,2.0,40.0,True,False,"2, 102"
+92,5,20-10-40-30,single_L50,3.0,40.0,True,False,"3, 9"
+93,5,20-40-30-10,single_L50,2.0,40.0,True,False,"2, 9"
+94,5,10-30-40-20,single_L50,3.0,40.0,True,False,"3, 12"
+95,5,30-20-10-40,single_L50,4.0,40.0,True,False,"4, 3"
+96,5,20-30-40-10,single_L50,3.0,40.0,True,False,"3, 10"
+1,1,30-10-20-40,single_L51,4.0,40.0,True,False,"4, 79"
+2,1,20-40-30-10,single_L51,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L51,4.0,40.0,True,False,"4, 60"
+4,1,20-30-40-10,single_L51,3.0,40.0,True,False,"3, 86"
+5,1,20-30-40-10,single_L51,3.0,40.0,True,False,"3, 10"
+6,1,10-30-20-40,single_L51,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L51,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L51,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L51,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L51,4.0,40.0,True,False,"4, 9"
+11,1,30-20-40-10,single_L51,3.0,40.0,True,False,"3, 12"
+12,1,20-40-10-30,single_L51,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L51,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L51,4.0,40.0,True,False,"4, 16"
+15,1,10-30-40-20,single_L51,3.0,40.0,True,False,"3, 75"
+16,1,30-40-20-10,single_L51,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L51,3.0,40.0,True,False,"3, 134"
+18,1,30-40-20-10,single_L51,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L51,2.0,40.0,True,False,"2, 99"
+20,2,20-10-30-40,single_L51,4.0,40.0,True,False,"4, 70"
+21,2,20-10-40-30,single_L51,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L51,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L51,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L51,4.0,40.0,True,False,"4, 21"
+25,2,20-30-10-40,single_L51,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,single_L51,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L51,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L51,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L51,3.0,40.0,True,False,"3, 84"
+30,2,10-40-20-30,single_L51,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L51,3.0,40.0,True,False,"3, 35"
+32,2,40-30-20-10,single_L51,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L51,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L51,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L51,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L51,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L51,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L51,4.0,40.0,True,False,"4, 85"
+39,3,30-10-20-40,single_L51,4.0,40.0,True,False,"4, 94"
+40,3,40-30-20-10,single_L51,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L51,3.0,40.0,True,False,"3, 53"
+42,3,30-40-10-20,single_L51,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L51,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L51,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L51,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L51,4.0,40.0,True,False,"4, 95"
+47,3,20-10-40-30,single_L51,3.0,40.0,True,False,"3, 163"
+48,3,20-40-10-30,single_L51,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L51,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L51,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L51,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L51,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L51,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L51,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L51,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L51,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L51,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L51,2.0,40.0,True,False,"2, 11"
+59,4,20-10-30-40,single_L51,4.0,40.0,True,False,"4, 41"
+60,4,40-20-30-10,single_L51,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L51,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L51,3.0,40.0,True,False,"3, 70"
+63,4,30-40-10-20,single_L51,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L51,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L51,3.0,40.0,True,False,"3, 11"
+66,4,40-10-30-20,single_L51,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L51,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L51,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L51,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L51,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L51,3.0,40.0,True,False,"3, 10"
+72,4,40-10-20-30,single_L51,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L51,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L51,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L51,3.0,40.0,True,False,"3, 6"
+76,4,40-30-20-10,single_L51,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L51,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L51,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L51,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L51,3.0,40.0,True,False,"3, 93"
+81,5,30-10-40-20,single_L51,3.0,40.0,True,False,"3, 117"
+82,5,40-20-30-10,single_L51,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L51,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L51,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,single_L51,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L51,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L51,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L51,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L51,3.0,40.0,True,False,"3, 8"
+90,5,30-40-20-10,single_L51,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L51,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L51,3.0,40.0,True,False,"3, 9"
+93,5,20-40-30-10,single_L51,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,single_L51,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L51,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L51,3.0,40.0,True,False,"3, 10"
+1,1,30-10-20-40,single_L52,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,single_L52,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L52,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,single_L52,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L52,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L52,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L52,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L52,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L52,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L52,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L52,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,single_L52,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L52,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L52,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L52,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L52,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L52,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L52,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L52,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L52,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,single_L52,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L52,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L52,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L52,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,single_L52,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,single_L52,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L52,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L52,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L52,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L52,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L52,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L52,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L52,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L52,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L52,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L52,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L52,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L52,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L52,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,single_L52,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L52,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L52,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L52,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L52,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L52,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L52,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,single_L52,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L52,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L52,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L52,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L52,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L52,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L52,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L52,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L52,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L52,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L52,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L52,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L52,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,single_L52,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L52,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L52,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L52,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L52,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L52,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L52,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L52,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L52,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L52,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L52,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L52,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L52,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L52,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L52,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L52,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,single_L52,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L52,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L52,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L52,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L52,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L52,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L52,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L52,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L52,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,single_L52,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L52,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L52,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L52,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L52,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,single_L52,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L52,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L52,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L52,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,single_L52,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L52,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L52,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,single_L53,4.0,40.0,True,False,"4, 79"
+2,1,20-40-30-10,single_L53,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,single_L53,4.0,40.0,True,False,"4, 60"
+4,1,20-30-40-10,single_L53,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,single_L53,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,single_L53,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,single_L53,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,single_L53,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,single_L53,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,single_L53,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,single_L53,3.0,40.0,True,False,"3, 12"
+12,1,20-40-10-30,single_L53,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,single_L53,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,single_L53,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,single_L53,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,single_L53,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,single_L53,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,single_L53,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,single_L53,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,single_L53,4.0,40.0,True,False,"4, 70"
+21,2,20-10-40-30,single_L53,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,single_L53,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,single_L53,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,single_L53,4.0,40.0,True,False,"4, 21"
+25,2,20-30-10-40,single_L53,2.0,30.0,False,False,2. 162
+26,2,40-10-30-20,single_L53,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,single_L53,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,single_L53,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,single_L53,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,single_L53,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,single_L53,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,single_L53,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,single_L53,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,single_L53,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,single_L53,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,single_L53,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,single_L53,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,single_L53,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,single_L53,4.0,40.0,True,False,"4, 94"
+40,3,40-30-20-10,single_L53,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,single_L53,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,single_L53,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,single_L53,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,single_L53,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,single_L53,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,single_L53,4.0,40.0,True,False,"4, 95"
+47,3,20-10-40-30,single_L53,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,single_L53,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,single_L53,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,single_L53,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,single_L53,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,single_L53,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,single_L53,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,single_L53,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,single_L53,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,single_L53,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,single_L53,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,single_L53,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,single_L53,4.0,40.0,True,False,"4, 41"
+60,4,40-20-30-10,single_L53,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,single_L53,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,single_L53,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,single_L53,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,single_L53,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,single_L53,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,single_L53,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,single_L53,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,single_L53,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,single_L53,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,single_L53,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,single_L53,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,single_L53,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,single_L53,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,single_L53,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,single_L53,3.0,40.0,True,False,"3, 6"
+76,4,40-30-20-10,single_L53,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,single_L53,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,single_L53,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,single_L53,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,single_L53,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,single_L53,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,single_L53,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,single_L53,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,single_L53,4.0,40.0,True,False,"4, 68"
+85,5,10-30-40-20,single_L53,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,single_L53,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,single_L53,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,single_L53,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,single_L53,3.0,40.0,True,False,"3, 8"
+90,5,30-40-20-10,single_L53,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,single_L53,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,single_L53,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,single_L53,2.0,40.0,True,False,2. The answer is 9.
+94,5,10-30-40-20,single_L53,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,single_L53,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,single_L53,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 85.
+2,1,20-40-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 60.
+3,1,30-20-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 133.
+4,1,20-30-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 162.
+5,1,20-30-40-10,drop_L46,,,,True,I choose question number3 andThe answer is 10.
+6,1,10-30-20-40,drop_L46,3.0,20.0,False,False,I choose question number1 andThe answer is 3.
+7,1,10-20-40-30,drop_L46,1.0,10.0,False,False,I choose question 1 andThe answer is 103.
+8,1,40-20-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 95.
+9,1,30-20-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 9.
+10,1,30-10-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 20.
+11,1,30-20-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 52.
+12,1,20-40-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 10.
+13,1,10-40-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 21.
+14,1,10-30-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 9.
+15,1,10-30-40-20,drop_L46,3.0,40.0,True,False,I choose question 3 andtheThefinal answer is 75.
+16,1,30-40-20-10,drop_L46,1.0,30.0,False,False,I choose question 1 andThe answer is 8.
+17,1,10-20-40-30,drop_L46,,,,True,I choose question number1 andThe answer is 12.
+18,1,30-40-20-10,drop_L46,1.0,30.0,False,False,I choose question 1 andThe answer is 14.
+19,1,30-40-20-10,drop_L46,1.0,30.0,False,False,I choose question 1 andThe answer is 7.
+20,2,20-10-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 91.
+21,2,20-10-40-30,drop_L46,,,,True,I choose question number1 andThe answer is 8.
+22,2,10-20-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 196.
+23,2,40-20-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 15.
+24,2,20-30-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 143.
+25,2,20-30-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 11.
+26,2,40-10-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 112.
+27,2,40-10-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 136.
+28,2,20-30-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 36.
+29,2,30-10-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 160.
+30,2,10-40-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 27.
+31,2,20-10-40-30,drop_L46,3.0,40.0,True,False,I choose question 3 andtheThefinal answer is 35.
+32,2,40-30-20-10,drop_L46,,,,True,I choose question number1 andThe answer is 56.
+33,2,40-20-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 131.
+34,2,40-10-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 20.
+35,2,40-30-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 170.
+36,2,10-30-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 8.
+37,2,20-40-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 54.
+38,2,30-10-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 100.
+39,3,30-10-20-40,drop_L46,,,,True,I choose question number1 andThe answer is 86.
+40,3,40-30-20-10,drop_L46,,,,True,I choose question number1 andThe answer is 142.
+41,3,30-20-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 86.
+42,3,30-40-10-20,drop_L46,2.0,40.0,True,False,I choose question number1 andThe answer is 2.
+43,3,40-10-20-30,drop_L46,1.0,40.0,True,False,I choose question 1 andtheThefinalansweris55.
+44,3,10-40-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 48.
+45,3,40-30-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 127.
+46,3,20-30-10-40,drop_L46,,,,True,I choose question number3 andThe answer is 76.
+47,3,20-10-40-30,drop_L46,1.0,20.0,False,False,I choose question 1 andThe answer is 8.
+48,3,20-40-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 144.
+49,3,20-10-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 102.
+50,3,40-30-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 144.
+51,3,10-30-20-40,drop_L46,4.0,40.0,True,False,I choose question number1 andThe answer is 4.
+52,3,30-40-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 18.
+53,3,30-20-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 107.
+54,3,40-10-20-30,drop_L46,3.0,20.0,False,False,I choose question 3 andtheThe answer is 13 * 6 = 78.
+55,3,40-30-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 8.
+56,3,20-40-10-30,drop_L46,3.0,10.0,False,False,I choose question 3 andthefinalansweris55.
+57,3,10-20-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 12.
+58,4,10-40-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 119.
+59,4,20-10-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 6.
+60,4,40-20-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 45.
+61,4,10-20-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 16.
+62,4,30-10-40-20,drop_L46,3.0,40.0,True,False,I choose question number1 andThe answer is 3.
+63,4,30-40-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 12.
+64,4,40-10-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 36.
+65,4,10-20-40-30,drop_L46,,,,True,I choose question number1 andThe answer is 26.
+66,4,40-10-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 184.
+67,4,20-40-30-10,drop_L46,,,,True,I choose question number3 andThe answer is 12.
+68,4,40-20-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 85.
+69,4,10-20-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 162.
+70,4,40-20-10-30,drop_L46,,,,True,I choose question number1 andThe answer is 40.
+71,4,20-30-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 60.
+72,4,40-10-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 30.
+73,4,10-40-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 126.
+74,4,30-20-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 24.
+75,4,10-20-40-30,drop_L46,,,,True,I choose question number1 andThe answer is 44.
+76,4,40-30-20-10,drop_L46,,,,True,I choose question number1 andThe answer is 85.
+77,5,40-30-20-10,drop_L46,1.0,40.0,True,False,I choose question 1 andThe answer is 2.
+78,5,30-40-10-20,drop_L46,,,,True,I choose question number1 andThe answer is 112.
+79,5,10-40-30-20,drop_L46,,,,True,I choose question number1 andThe answer is 15.
+80,5,10-30-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 8.
+81,5,30-10-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 144.
+82,5,40-20-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 21.
+83,5,10-40-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 12.
+84,5,20-10-30-40,drop_L46,,,,True,I choose question number1 andThe answer is 136.
+85,5,10-30-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 84.
+86,5,20-40-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 12.
+87,5,40-20-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 105.
+88,5,30-20-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 16.
+89,5,30-10-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 118.
+90,5,30-40-20-10,drop_L46,,,,True,I choose question number1 andThe answer is 48.
+91,5,10-40-20-30,drop_L46,,,,True,I choose question number1 andThe answer is 134.
+92,5,20-10-40-30,drop_L46,,,,True,I choose question number1 andThe answer is 7.
+93,5,20-40-30-10,drop_L46,,,,True,I choose question number1 andThe answer is 22.
+94,5,10-30-40-20,drop_L46,,,,True,I choose question number1 andThe answer is 5.
+95,5,30-20-10-40,drop_L46,,,,True,I choose question number1 andThe answer is 9.
+96,5,20-30-40-10,drop_L46,,,,True,I choose question number1 andThe answer is 60.
+1,1,30-10-20-40,drop_L47,1.0,30.0,False,False,I choose question 1 and theanswer is 85.
+2,1,20-40-30-10,drop_L47,4.0,10.0,False,False,I choose question 4 and theanswer is 11.
+3,1,30-20-10-40,drop_L47,,,,True,I3 36 + 97 = 133
+4,1,20-30-40-10,drop_L47,4.0,10.0,False,False,I choose question 4. Theansweris17.
+5,1,20-30-40-10,drop_L47,3.0,40.0,True,False,3. Whatis 2 * 5? (40 points)
+6,1,10-30-20-40,drop_L47,1.0,10.0,False,False,I choose question 1 and theanswer is 3.
+7,1,10-20-40-30,drop_L47,3.0,40.0,True,False,I choose question 3. Theansweris 16 * 4 = 64.
+8,1,40-20-10-30,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 95
+9,1,30-20-40-10,drop_L47,3.0,40.0,True,False,I1. 3 * 3 = 9
+10,1,30-10-20-40,drop_L47,,,,True,I choose question number1. Theansweris20.
+11,1,30-20-40-10,drop_L47,,,,True,I3 6 + 6
+12,1,20-40-10-30,drop_L47,1.0,20.0,False,False,I choose question 1 and theanswer is 10.
+13,1,10-40-20-30,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer 21
+14,1,10-30-20-40,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer 9
+15,1,10-30-40-20,drop_L47,3.0,40.0,True,False,I choose question 3. Theansweris75.
+16,1,30-40-20-10,drop_L47,1.0,30.0,False,False,I choose question 1. TheAnswer 8
+17,1,10-20-40-30,drop_L47,4.0,30.0,False,False,I choose question 4. Theansweris24.
+18,1,30-40-20-10,drop_L47,1.0,30.0,False,False,I choose question 1 and theanswer is 14
+19,1,30-40-20-10,drop_L47,1.0,30.0,False,False,I choose question 1 and theanswer is 7
+20,2,20-10-30-40,drop_L47,4.0,40.0,True,False,I choose question 4 and theanswer is 70.
+21,2,20-10-40-30,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer 8
+22,2,10-20-30-40,drop_L47,,,,True,I3 69
+23,2,40-20-30-10,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 15
+24,2,20-30-10-40,drop_L47,4.0,40.0,True,False,I1. 4 * 7 = 28
+25,2,20-30-10-40,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer 11
+26,2,40-10-30-20,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 112
+27,2,40-10-30-20,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 136
+28,2,20-30-10-40,drop_L47,,,,True,I choose question number1. Theansweris36.
+29,2,30-10-40-20,drop_L47,3.0,40.0,True,False,I choose question 3 and theanswer is 84.
+30,2,10-40-20-30,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer 27
+31,2,20-10-40-30,drop_L47,3.0,40.0,True,False,I choose question 3. Theansweris35.
+32,2,40-30-20-10,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 56
+33,2,40-20-10-30,drop_L47,3.0,10.0,False,False,I choose question 3. Theansweris12.
+34,2,40-10-20-30,drop_L47,,,,True,I choose question number1. Theansweris20.
+35,2,40-30-10-20,drop_L47,,,,True,I choose question number1 and theanswer is 170.
+36,2,10-30-20-40,drop_L47,4.0,40.0,True,False,I choose question 4 and theanswer is 30.
+37,2,20-40-10-30,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer6 * 9 = 54
+38,2,30-10-20-40,drop_L47,3.0,20.0,False,False,I choose question 3 and theanswer is 112.
+39,3,30-10-20-40,drop_L47,1.0,30.0,False,False,I choose question 1 and theanswer is 86.
+40,3,40-30-20-10,drop_L47,4.0,10.0,False,False,I choose question 4 and theanswer is 18.
+41,3,30-20-40-10,drop_L47,4.0,10.0,False,False,I choose question 4 and theanswer is 25.
+42,3,30-40-10-20,drop_L47,1.0,30.0,False,False,I choose question 1 and theanswer is 2.
+43,3,40-10-20-30,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 55
+44,3,10-40-30-20,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer 48
+45,3,40-30-10-20,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 51
+46,3,20-30-10-40,drop_L47,3.0,10.0,False,False,I choose question 3. Theansweris76.
+47,3,20-10-40-30,drop_L47,1.0,20.0,False,False,I choose question 1 and theanswer is 8
+48,3,20-40-10-30,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer 144
+49,3,20-10-30-40,drop_L47,4.0,40.0,True,False,I choose question 4 and theanswer is 110.
+50,3,40-30-10-20,drop_L47,3.0,10.0,False,False,I choose question 3. Theansweris104
+51,3,10-30-20-40,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer2 * 2 = 4
+52,3,30-40-10-20,drop_L47,1.0,30.0,False,False,I choose question 1. TheAnswer 18
+53,3,30-20-10-40,drop_L47,4.0,40.0,True,False,I choose question 4. Theansweris64.
+54,3,40-10-20-30,drop_L47,4.0,30.0,False,False,I choose question 4 and theanswer is 38.
+55,3,40-30-10-20,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 8
+56,3,20-40-10-30,drop_L47,3.0,10.0,False,False,I choose question 3. Theansweris85.
+57,3,10-20-30-40,drop_L47,1.0,10.0,False,False,I choose question 1. TheAnswer 12
+58,4,10-40-30-20,drop_L47,,,,True,I3 13
+59,4,20-10-30-40,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris98.
+60,4,40-20-30-10,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris 114.
+61,4,10-20-30-40,drop_L47,,,,True,I3 15 * 8 = 120
+62,4,30-10-40-20,drop_L47,3.0,40.0,True,False,I choose question 3 and theanswer is 70.
+63,4,30-40-10-20,drop_L47,,,,True,I choose question number1. Theansweris12.
+64,4,40-10-30-20,drop_L47,1.0,40.0,True,False,I choose question 1 and theanswer is 36.
+65,4,10-20-40-30,drop_L47,2.0,20.0,False,False,I3 13 * 2 = 26
+66,4,40-10-30-20,drop_L47,3.0,30.0,False,False,I choose question 3 and thefinal answer is 50.
+67,4,20-40-30-10,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris12*6=72
+68,4,40-20-10-30,drop_L47,3.0,10.0,False,False,I choose question 3. Theansweris10.
+69,4,10-20-30-40,drop_L47,4.0,40.0,True,False,I3 13 * 4 = 52
+70,4,40-20-10-30,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 34
+71,4,20-30-40-10,drop_L47,4.0,10.0,False,False,I choose question 4 and theanswer is 126.
+72,4,40-10-20-30,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 30
+73,4,10-40-30-20,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris12.
+74,4,30-20-40-10,drop_L47,1.0,30.0,False,False,I choose question 1. TheAnswer30 points
+75,4,10-20-40-30,drop_L47,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,drop_L47,1.0,40.0,True,False,I choose question 1 and theanswer is 85
+77,5,40-30-20-10,drop_L47,1.0,40.0,True,False,I choose question 1 and theanswer is 2
+78,5,30-40-10-20,drop_L47,1.0,30.0,False,False,I choose question 1. TheAnswer 112
+79,5,10-40-30-20,drop_L47,3.0,30.0,False,False,I1. 3 * 5 = 15
+80,5,10-30-40-20,drop_L47,,,,True,I1. 31 + 62 = 93
+81,5,30-10-40-20,drop_L47,,,,True,I1. 16 * 9 = 144
+82,5,40-20-30-10,drop_L47,1.0,40.0,True,False,I choose question 1 and theanswer is 21.
+83,5,10-40-20-30,drop_L47,4.0,30.0,False,False,I choose question 4. Theansweris48.
+84,5,20-10-30-40,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris14.
+85,5,10-30-40-20,drop_L47,3.0,40.0,True,False,I3 14 * 3 = 42
+86,5,20-40-30-10,drop_L47,3.0,30.0,False,False,I choose question 3. Theansweris54.
+87,5,40-20-30-10,drop_L47,1.0,40.0,True,False,I choose question 1. TheAnswer 105
+88,5,30-20-10-40,drop_L47,4.0,40.0,True,False,I choose question 4 and theanswer is 28.
+89,5,30-10-40-20,drop_L47,3.0,40.0,True,False,I choose question 3 and theanswer is 63.
+90,5,30-40-20-10,drop_L47,1.0,30.0,False,False,I choose question 1. TheAnswer 48
+91,5,10-40-20-30,drop_L47,,,,True,I3 6 + 7 = 13
+92,5,20-10-40-30,drop_L47,,,,True,I choose question number1 andtheansweris7
+93,5,20-40-30-10,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer 22
+94,5,10-30-40-20,drop_L47,3.0,40.0,True,False,I choose question 3. Theansweris12.
+95,5,30-20-10-40,drop_L47,,,,True,I choose question number1. TheAnswer9
+96,5,20-30-40-10,drop_L47,1.0,20.0,False,False,I choose question 1. TheAnswer50
+1,1,30-10-20-40,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 85.
+2,1,20-40-30-10,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 60.
+3,1,30-20-10-40,drop_L48,,,,True,I choose question number1 and thefinal answer is 133.
+4,1,20-30-40-10,drop_L48,,,,True,I choose question number1 andthefinalansweris162.
+5,1,20-30-40-10,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 169.
+6,1,10-30-20-40,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 3.
+7,1,10-20-40-30,drop_L48,1.0,10.0,False,False,I choose question 1. Theanswer is 103.
+8,1,40-20-10-30,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 95.
+9,1,30-20-40-10,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 9.
+10,1,30-10-20-40,drop_L48,,,,True,I choose question number1 andthefinalansweris20.
+11,1,30-20-40-10,drop_L48,,,,True,I choose question number1 andthefinalansweris136.
+12,1,20-40-10-30,drop_L48,,,,True,I choose question number1 andThe answer is 10.
+13,1,10-40-20-30,drop_L48,,,,True,I choose question number1 andThe answer is 21.
+14,1,10-30-20-40,drop_L48,,,,True,I choose question number1 andThe answer is 9.
+15,1,10-30-40-20,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 67.
+16,1,30-40-20-10,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 8.
+17,1,10-20-40-30,drop_L48,,,,True,I choose question number1 andThe answer is 12.
+18,1,30-40-20-10,drop_L48,1.0,30.0,False,False,I choose question 1 and theanswer is 14.
+19,1,30-40-20-10,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 7.
+20,2,20-10-30-40,drop_L48,,,,True,I choose question number1 andThe answer is 91.
+21,2,20-10-40-30,drop_L48,,,,True,I choose question number1 andthefinalansweris8.
+22,2,10-20-30-40,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 196.
+23,2,40-20-30-10,drop_L48,,,,True,I choose question number1 andThe answer is 15.
+24,2,20-30-10-40,drop_L48,,,,True,I choose question number1 andthefinalansweris113.
+25,2,20-30-10-40,drop_L48,,,,True,I choose question number1 andThe answer is 11.
+26,2,40-10-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 112.
+27,2,40-10-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 136.
+28,2,20-30-10-40,drop_L48,,,,True,I choose question number1 andthefinalansweris36.
+29,2,30-10-40-20,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 160.
+30,2,10-40-20-30,drop_L48,,,,True,I choose question number1 andThe answer is 27.
+31,2,20-10-40-30,drop_L48,3.0,40.0,True,False,I choose question 3 and thefinal answer is 35.
+32,2,40-30-20-10,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 56.
+33,2,40-20-10-30,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 131.
+34,2,40-10-20-30,drop_L48,,,,True,I choose question number1 and thefinal answer is 20.
+35,2,40-30-10-20,drop_L48,,,,True,I choose question number1. TheAnswer 170.
+36,2,10-30-20-40,drop_L48,,,,True,I choose question number1 andThe answer is 8.
+37,2,20-40-10-30,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 54.
+38,2,30-10-20-40,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 100.
+39,3,30-10-20-40,drop_L48,,,,True,I choose question number1 andThe answer is 86.
+40,3,40-30-20-10,drop_L48,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,drop_L48,,,,True,I choose question number1 and thefinal answer is86.
+42,3,30-40-10-20,drop_L48,2.0,40.0,True,False,I choose question number1. Theanswer is 2.
+43,3,40-10-20-30,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 55.
+44,3,10-40-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 48.
+45,3,40-30-10-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 127.
+46,3,20-30-10-40,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 86.
+47,3,20-10-40-30,drop_L48,1.0,20.0,False,False,I choose question 1 and theanswer is 8.
+48,3,20-40-10-30,drop_L48,,,,True,I choose question number1 and thefinal answer is 144.
+49,3,20-10-30-40,drop_L48,,,,True,I choose question number1 andThe answer is 102.
+50,3,40-30-10-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 144.
+51,3,10-30-20-40,drop_L48,1.0,10.0,False,False,1. Theanswer is 4.
+52,3,30-40-10-20,drop_L48,1.0,30.0,False,False,1. 2 * 9 = 18
+53,3,30-20-10-40,drop_L48,,,,True,I choose question number1 and thefinal answer is 107.
+54,3,40-10-20-30,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 113.
+55,3,40-30-10-20,drop_L48,,,,True,I choose question number1 andThe answer is 8.
+56,3,20-40-10-30,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 51.
+57,3,10-20-30-40,drop_L48,1.0,10.0,False,False,I choose question 1 andthe answer is 12.
+58,4,10-40-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 119.
+59,4,20-10-30-40,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 6.
+60,4,40-20-30-10,drop_L48,,,,True,I choose question number1 andthefinalansweris45.
+61,4,10-20-30-40,drop_L48,1.0,10.0,False,False,I choose question 1. TheAnswer 16
+62,4,30-10-40-20,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 3.
+63,4,30-40-10-20,drop_L48,,,,True,I choose question number1. Theanswer is 12.
+64,4,40-10-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 36.
+65,4,10-20-40-30,drop_L48,1.0,10.0,False,False,I choose question 1 and theanswer is 26.
+66,4,40-10-30-20,drop_L48,,,,True,I choose question number1 and thefinal answer is 184.
+67,4,20-40-30-10,drop_L48,,,,True,I choose question number1 andthefinalansweris72.
+68,4,40-20-10-30,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 85.
+69,4,10-20-30-40,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 162.
+70,4,40-20-10-30,drop_L48,,,,True,I choose question number1 and thefinal answer is 34.
+71,4,20-30-40-10,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 60.
+72,4,40-10-20-30,drop_L48,,,,True,I choose question number1 and thefinal answer is 30.
+73,4,10-40-30-20,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 126.
+74,4,30-20-40-10,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 24.
+75,4,10-20-40-30,drop_L48,3.0,40.0,True,False,I choose question 3 andthefinalansweris6
+76,4,40-30-20-10,drop_L48,1.0,40.0,True,False,I choose question 1 and thefinal answer is 85.
+77,5,40-30-20-10,drop_L48,1.0,40.0,True,False,I choose question 1 and theanswer is 2.
+78,5,30-40-10-20,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 112.
+79,5,10-40-30-20,drop_L48,,,,True,I choose question number1 andthefinalansweris15.
+80,5,10-30-40-20,drop_L48,,,,True,I choose question number1 andthefinalansweris8.
+81,5,30-10-40-20,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 144.
+82,5,40-20-30-10,drop_L48,,,,True,I choose question number1 and thefinal answer is 21.
+83,5,10-40-20-30,drop_L48,,,,True,I choose question number1 andThe answer is 12.
+84,5,20-10-30-40,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 136.
+85,5,10-30-40-20,drop_L48,,,,True,I choose question number1 andthe answer is 84.
+86,5,20-40-30-10,drop_L48,,,,True,I choose question number1. Theanswer is 12.
+87,5,40-20-30-10,drop_L48,,,,True,I choose question number1 and thefinal answer is 105.
+88,5,30-20-10-40,drop_L48,,,,True,I choose question number1 andthefinalansweris16.
+89,5,30-10-40-20,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 118.
+90,5,30-40-20-10,drop_L48,1.0,30.0,False,False,I choose question 1 and thefinal answer is 48.
+91,5,10-40-20-30,drop_L48,1.0,10.0,False,False,I choose question 1 and thefinal answer is 134.
+92,5,20-10-40-30,drop_L48,,,,True,I choose question number1 andThe answer is 7.
+93,5,20-40-30-10,drop_L48,,,,True,I choose question number1. Theanswer is 22.
+94,5,10-30-40-20,drop_L48,,,,True,I choose question number1. Theanswer is 5.
+95,5,30-20-10-40,drop_L48,,,,True,I choose question number1 andThe answer is 9.
+96,5,20-30-40-10,drop_L48,1.0,20.0,False,False,I choose question 1 and thefinal answer is 60.
+1,1,30-10-20-40,drop_L49,,,,True,I choose question number3. Thefinal answeris84.
+2,1,20-40-30-10,drop_L49,2.0,40.0,True,False,I choose question number 2. Theanswer is 145.
+3,1,30-20-10-40,drop_L49,,,,True,I choose question number1. Theansweris133.
+4,1,20-30-40-10,drop_L49,,,,True,I choose question number2. Theansweris90.
+5,1,20-30-40-10,drop_L49,3.0,40.0,True,False,3
+6,1,10-30-20-40,drop_L49,3.0,20.0,False,False,3
+7,1,10-20-40-30,drop_L49,2.0,20.0,False,False,2
+8,1,40-20-10-30,drop_L49,,,,True,I choose question number1. Theansweris95.
+9,1,30-20-40-10,drop_L49,3.0,40.0,True,False,3
+10,1,30-10-20-40,drop_L49,,,,True,I choose question number3. Theansweris14.
+11,1,30-20-40-10,drop_L49,2.0,20.0,False,False,2
+12,1,20-40-10-30,drop_L49,3.0,10.0,False,False,3
+13,1,10-40-20-30,drop_L49,,,,True,I choose question number2 becauseIt has the highest point value and requires the least amount of effort.
+14,1,10-30-20-40,drop_L49,2.0,30.0,False,False,2
+15,1,10-30-40-20,drop_L49,3.0,40.0,True,False,3
+16,1,30-40-20-10,drop_L49,3.0,20.0,False,False,I choose question 3. The answer is 40.
+17,1,10-20-40-30,drop_L49,3.0,40.0,True,False,3
+18,1,30-40-20-10,drop_L49,3.0,20.0,False,False,I choose question 3. The answer is 153.
+19,1,30-40-20-10,drop_L49,,,,True,I choose question number1. Theansweris7.
+20,2,20-10-30-40,drop_L49,,,,True,I choose question number3. Theansweris20.
+21,2,20-10-40-30,drop_L49,3.0,40.0,True,False,3
+22,2,10-20-30-40,drop_L49,3.0,30.0,False,False,3
+23,2,40-20-30-10,drop_L49,,,,True,I choose question number3.
+24,2,20-30-10-40,drop_L49,,,,True,I choose question number3. Thefinal answeris28.
+25,2,20-30-10-40,drop_L49,3.0,10.0,False,False,3
+26,2,40-10-30-20,drop_L49,,,,True,I choose question number1. Theansweris112.
+27,2,40-10-30-20,drop_L49,,,,True,I choose question number1. Theansweris136.
+28,2,20-30-10-40,drop_L49,,,,True,I choose question number1. Theansweris36.
+29,2,30-10-40-20,drop_L49,3.0,40.0,True,False,I choose question 3. Theansweris84.
+30,2,10-40-20-30,drop_L49,,,,True,I choose question number3. Thefinal answeris130.
+31,2,20-10-40-30,drop_L49,3.0,40.0,True,False,3
+32,2,40-30-20-10,drop_L49,,,,True,I choose question number1. Theansweris56.
+33,2,40-20-10-30,drop_L49,,,,True,I choose question number3. Thefinal answeris12.
+34,2,40-10-20-30,drop_L49,,,,True,I choose question number1. Theansweris20.
+35,2,40-30-10-20,drop_L49,,,,True,I choose question number3. Thefinal answeris13.
+36,2,10-30-20-40,drop_L49,2.0,30.0,False,False,2
+37,2,20-40-10-30,drop_L49,,,,True,I choose question number1. Theansweris54.
+38,2,30-10-20-40,drop_L49,3.0,20.0,False,False,"3
+112"
+39,3,30-10-20-40,drop_L49,2.0,10.0,False,False,2
+40,3,40-30-20-10,drop_L49,,,,True,I choose question number4. Thefinal answeris18.
+41,3,30-20-40-10,drop_L49,,,,True,I choose question number3. Theansweris53.
+42,3,30-40-10-20,drop_L49,,,,True,I choose question number2. Theansweris90.
+43,3,40-10-20-30,drop_L49,3.0,20.0,False,False,I choose question 3. Thefinal answer is 72.
+44,3,10-40-30-20,drop_L49,,,,True,I choose question number3. Thefinal answeris17.
+45,3,40-30-10-20,drop_L49,2.0,30.0,False,False,2
+46,3,20-30-10-40,drop_L49,3.0,10.0,False,False,3
+47,3,20-10-40-30,drop_L49,3.0,40.0,True,False,3
+48,3,20-40-10-30,drop_L49,,,,True,I choose question number1. Theansweris144.
+49,3,20-10-30-40,drop_L49,3.0,30.0,False,False,3
+50,3,40-30-10-20,drop_L49,,,,True,I choose question number3. Thefinal answeris104.
+51,3,10-30-20-40,drop_L49,2.0,30.0,False,False,2
+52,3,30-40-10-20,drop_L49,2.0,40.0,True,False,2
+53,3,30-20-10-40,drop_L49,,,,True,I choose question number4. Theansweris64.
+54,3,40-10-20-30,drop_L49,3.0,20.0,False,False,3
+55,3,40-30-10-20,drop_L49,,,,True,I choose question number3. Theansweris141.
+56,3,20-40-10-30,drop_L49,,,,True,I choose question number3. Thefinal answeris85.
+57,3,10-20-30-40,drop_L49,,,,True,I choose question number3. Theansweris63.
+58,4,10-40-30-20,drop_L49,2.0,40.0,True,False,2
+59,4,20-10-30-40,drop_L49,,,,True,I choose question number3. Thefinal answeris98.
+60,4,40-20-30-10,drop_L49,,,,True,I choose question number3. Thefinal answeris 114.
+61,4,10-20-30-40,drop_L49,2.0,20.0,False,False,2
+62,4,30-10-40-20,drop_L49,3.0,40.0,True,False,3
+63,4,30-40-10-20,drop_L49,2.0,40.0,True,False,2
+64,4,40-10-30-20,drop_L49,3.0,30.0,False,False,3
+65,4,10-20-40-30,drop_L49,,,,True,I choose question number3. Thefinal answeris11.
+66,4,40-10-30-20,drop_L49,3.0,30.0,False,False,3
+67,4,20-40-30-10,drop_L49,,,,True,I choose question number3. Theansweris12.
+68,4,40-20-10-30,drop_L49,3.0,10.0,False,False,I choose question 3. The answer is 10.
+69,4,10-20-30-40,drop_L49,2.0,20.0,False,False,2
+70,4,40-20-10-30,drop_L49,,,,True,I choose question number1. Theansweris40.
+71,4,20-30-40-10,drop_L49,,,,True,"I choose question number3, andtheansweris10."
+72,4,40-10-20-30,drop_L49,,,,True,I choose question number3. Theansweris76.
+73,4,10-40-30-20,drop_L49,3.0,30.0,False,False,I choose question 3. The answer is 12.
+74,4,30-20-40-10,drop_L49,3.0,40.0,True,False,3
+75,4,10-20-40-30,drop_L49,3.0,40.0,True,False,3
+76,4,40-30-20-10,drop_L49,,,,True,I choose question number1. Theansweris85.
+77,5,40-30-20-10,drop_L49,3.0,20.0,False,False,I choose question 3. Thefinal answeris36.
+78,5,30-40-10-20,drop_L49,,,,True,I choose question number1. Theansweris112.
+79,5,10-40-30-20,drop_L49,,,,True,I choose question number2. Theansweris51.
+80,5,10-30-40-20,drop_L49,2.0,30.0,False,False,2
+81,5,30-10-40-20,drop_L49,3.0,40.0,True,False,3
+82,5,40-20-30-10,drop_L49,,,,True,I choose question number1. Thefinal answeris21.
+83,5,10-40-20-30,drop_L49,,,,True,I choose question number2 becauseIt has the highest point value and requires the least amount of effort.
+84,5,20-10-30-40,drop_L49,,,,True,I choose question number4. Thefinal answeris68.
+85,5,10-30-40-20,drop_L49,3.0,40.0,True,False,3
+86,5,20-40-30-10,drop_L49,,,,True,I choose question number1. TheAnswer is 12.
+87,5,40-20-30-10,drop_L49,3.0,30.0,False,False,3
+88,5,30-20-10-40,drop_L49,,,,True,I choose question number4. Theansweris28.
+89,5,30-10-40-20,drop_L49,,,,True,"I choose question number3, andthefinalansweris8."
+90,5,30-40-20-10,drop_L49,3.0,20.0,False,False,3
+91,5,10-40-20-30,drop_L49,,,,True,I choose question number3. Theansweris13.
+92,5,20-10-40-30,drop_L49,3.0,40.0,True,False,3
+93,5,20-40-30-10,drop_L49,3.0,30.0,False,False,3
+94,5,10-30-40-20,drop_L49,2.0,30.0,False,False,2
+95,5,30-20-10-40,drop_L49,,,,True,I choose question number1. Theansweris9.
+96,5,20-30-40-10,drop_L49,,,,True,"I choose question number3, andtheansweris10."
+1,1,30-10-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 79.
+2,1,20-40-30-10,drop_L50,4.0,10.0,False,False,"I choose question number 4, whichis 3 + 8 = 11."
+3,1,30-20-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 60.
+4,1,20-30-40-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 17.
+5,1,20-30-40-10,drop_L50,3.0,40.0,True,False,I choose question number 3. The answer is 10.
+6,1,10-30-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 81.
+7,1,10-20-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 189.
+8,1,40-20-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 12.
+9,1,30-20-40-10,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 9.
+10,1,30-10-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 30.
+11,1,30-20-40-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 103.
+12,1,20-40-10-30,drop_L50,3.0,10.0,False,False,I choose question number 3. The answer is 105.
+13,1,10-40-20-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 96.
+14,1,10-30-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 16.
+15,1,10-30-40-20,drop_L50,3.0,40.0,True,False,I choose question number 3. The answer is 75.
+16,1,30-40-20-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 127.
+17,1,10-20-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 24.
+18,1,30-40-20-10,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 14.
+19,1,30-40-20-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 6.
+20,2,20-10-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 70.
+21,2,20-10-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 24.
+22,2,10-20-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 69.
+23,2,40-20-30-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 104.
+24,2,20-30-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 21.
+25,2,20-30-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 7.
+26,2,40-10-30-20,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 112.
+27,2,40-10-30-20,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 136.
+28,2,20-30-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 10.
+29,2,30-10-40-20,drop_L50,3.0,40.0,True,False,I choose question number 3. The answer is 84.
+30,2,10-40-20-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 126.
+31,2,20-10-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 152.
+32,2,40-30-20-10,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 56.
+33,2,40-20-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 185.
+34,2,40-10-20-30,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 20.
+35,2,40-30-10-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 10.
+36,2,10-30-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 30.
+37,2,20-40-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 67.
+38,2,30-10-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 85.
+39,3,30-10-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 94.
+40,3,40-30-20-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 18.
+41,3,30-20-40-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 25.
+42,3,30-40-10-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 144.
+43,3,40-10-20-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 117.
+44,3,10-40-30-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 40.
+45,3,40-30-10-20,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 127.
+46,3,20-30-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 95.
+47,3,20-10-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 24.
+48,3,20-40-10-30,drop_L50,1.0,20.0,False,False,I choose question number 1. The answer is 144.
+49,3,20-10-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 106.
+50,3,40-30-10-20,drop_L50,3.0,10.0,False,False,I choose question number 3. The answer is 104.
+51,3,10-30-20-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 68.
+52,3,30-40-10-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 15.
+53,3,30-20-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 64.
+54,3,40-10-20-30,drop_L50,3.0,20.0,False,False,I choose question number 3. The answer is 78.
+55,3,40-30-10-20,drop_L50,3.0,10.0,False,False,I choose question number 3. The answer is 141.
+56,3,20-40-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 167.
+57,3,10-20-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 113.
+58,4,10-40-30-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 12.
+59,4,20-10-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 41.
+60,4,40-20-30-10,drop_L50,3.0,30.0,False,False,I choose question number 3. The answer is 114.
+61,4,10-20-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 120.
+62,4,30-10-40-20,drop_L50,3.0,40.0,True,False,I choose question number 3. The answer is 70.
+63,4,30-40-10-20,drop_L50,2.0,40.0,True,False,I choose question number 2. The answer is 52.
+64,4,40-10-30-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 22.
+65,4,10-20-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 72.
+66,4,40-10-30-20,drop_L50,3.0,30.0,False,False,I choose question number 3. The answer is 78.
+67,4,20-40-30-10,drop_L50,3.0,30.0,False,False,I choose question number 3. The answer is 12.
+68,4,40-20-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 70.
+69,4,10-20-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 52.
+70,4,40-20-10-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 185.
+71,4,20-30-40-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 126.
+72,4,40-10-20-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 102.
+73,4,10-40-30-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 76.
+74,4,30-20-40-10,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 24.
+75,4,10-20-40-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 9.
+76,4,40-30-20-10,drop_L50,1.0,40.0,True,False,"I choose question number 1, whichis 69 + 16 = 85."
+77,5,40-30-20-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 169.
+78,5,30-40-10-20,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 112.
+79,5,10-40-30-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 10.
+80,5,10-30-40-20,drop_L50,3.0,40.0,True,False,I choose question number 3. The answer is 93.
+81,5,30-10-40-20,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 144.
+82,5,40-20-30-10,drop_L50,1.0,40.0,True,False,I choose question number 1. The answer is 21.
+83,5,10-40-20-30,drop_L50,4.0,30.0,False,False,I choose question number 4. The answer is 48.
+84,5,20-10-30-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 68.
+85,5,10-30-40-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 108.
+86,5,20-40-30-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 117.
+87,5,40-20-30-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 90.
+88,5,30-20-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 28.
+89,5,30-10-40-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 117.
+90,5,30-40-20-10,drop_L50,1.0,30.0,False,False,I choose question number 1. The answer is 48.
+91,5,10-40-20-30,drop_L50,3.0,20.0,False,False,I choose question number 3. The answer is 13.
+92,5,20-10-40-30,drop_L50,4.0,30.0,False,False,"I choose question number 4, whichis 2 + 1 = 3."
+93,5,20-40-30-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 160.
+94,5,10-30-40-20,drop_L50,4.0,20.0,False,False,I choose question number 4. The answer is 13.
+95,5,30-20-10-40,drop_L50,4.0,40.0,True,False,I choose question number 4. The answer is 3.
+96,5,20-30-40-10,drop_L50,4.0,10.0,False,False,I choose question number 4. The answer is 133.
+1,1,30-10-20-40,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 12 * 7 = 84
+2,1,20-40-30-10,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is60.
+3,1,30-20-10-40,drop_L51,3.0,10.0,False,False,3
+4,1,20-30-40-10,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 162.
+5,1,20-30-40-10,drop_L51,3.0,40.0,True,False,I choose question 3. TheAnswer2 * 5 = 10
+6,1,10-30-20-40,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 14 * 3 = 42
+7,1,10-20-40-30,drop_L51,3.0,40.0,True,False,I choose question 3 andtheThe 16 * 4 = 64
+8,1,40-20-10-30,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe19 * 5 = 95
+9,1,30-20-40-10,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 9.
+10,1,30-10-20-40,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 20.
+11,1,30-20-40-10,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 136.
+12,1,20-40-10-30,drop_L51,1.0,20.0,False,False,1. The10
+13,1,10-40-20-30,drop_L51,1.0,10.0,False,False,I choose question 1 andtheThe21
+14,1,10-30-20-40,drop_L51,3.0,20.0,False,False,3
+15,1,10-30-40-20,drop_L51,3.0,40.0,True,False,I choose question 3. TheAnswer15 * 5 = 75
+16,1,30-40-20-10,drop_L51,3.0,20.0,False,False,I choose question 3 andtheTheanswer is 40.
+17,1,10-20-40-30,drop_L51,4.0,30.0,False,False,I choose question 4. TheAnswer8 * 3 = 24
+18,1,30-40-20-10,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 17 * 9 = 153
+19,1,30-40-20-10,drop_L51,1.0,30.0,False,False,1. The7
+20,2,20-10-30-40,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe 12 + 79 = 91
+21,2,20-10-40-30,drop_L51,3.0,40.0,True,False,I choose question 3 andtheTheanswer is 15.
+22,2,10-20-30-40,drop_L51,1.0,10.0,False,False,I choose 1 and theThe answer is 196.
+23,2,40-20-30-10,drop_L51,1.0,40.0,True,False,I choose question 1 andtheTheanswer is 15.
+24,2,20-30-10-40,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 143.
+25,2,20-30-10-40,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 11.
+26,2,40-10-30-20,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe112
+27,2,40-10-30-20,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe17 * 8 = 136
+28,2,20-30-10-40,drop_L51,1.0,20.0,False,False,1. 36
+29,2,30-10-40-20,drop_L51,3.0,40.0,True,False,I choose question 3 andtheThefinal answer is 84.
+30,2,10-40-20-30,drop_L51,3.0,20.0,False,False,I choose question 3. TheAnswer90 + 40 = 130
+31,2,20-10-40-30,drop_L51,3.0,40.0,True,False,3. 5 * 7 = 35
+32,2,40-30-20-10,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe14 * 4 = 56
+33,2,40-20-10-30,drop_L51,3.0,10.0,False,False,I choose question 3 andtheThe
+34,2,40-10-20-30,drop_L51,1.0,40.0,True,False,I choose question 1 andtheTheanswer is 20.
+35,2,40-30-10-20,drop_L51,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,drop_L51,1.0,10.0,False,False,I choose question 1 andtheTheanswer is 8.
+37,2,20-40-10-30,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 54.
+38,2,30-10-20-40,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 14 * 8 = 112
+39,3,30-10-20-40,drop_L51,1.0,30.0,False,False,I choose question 1 andtheThe 10 + 76 = 86
+40,3,40-30-20-10,drop_L51,4.0,10.0,False,False,I choose question 4 andtheThe answer is 18.
+41,3,30-20-40-10,drop_L51,4.0,10.0,False,False,I choose question 4 andtheThe answer is 25.
+42,3,30-40-10-20,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 2.
+43,3,40-10-20-30,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe 11 * 5 = 55.
+44,3,10-40-30-20,drop_L51,1.0,10.0,False,False,I choose question 1 and thethe
+45,3,40-30-10-20,drop_L51,2.0,30.0,False,False,I choose question 2 andtheThe
+46,3,20-30-10-40,drop_L51,3.0,10.0,False,False,I choose question 3 andtheThe 19 * 4 = 76.
+47,3,20-10-40-30,drop_L51,4.0,30.0,False,False,I choose question 4 andtheThe answer is 24.
+48,3,20-40-10-30,drop_L51,1.0,20.0,False,False,1. 18 * 8 = 144
+49,3,20-10-30-40,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe
+50,3,40-30-10-20,drop_L51,4.0,20.0,False,False,I choose question 4 andtheThefinal answer is 32.
+51,3,10-30-20-40,drop_L51,1.0,10.0,False,False,1. 4
+52,3,30-40-10-20,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 18.
+53,3,30-20-10-40,drop_L51,4.0,40.0,True,False,I choose question 4. TheAnswer8 * 8 = 64
+54,3,40-10-20-30,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe
+55,3,40-30-10-20,drop_L51,1.0,40.0,True,False,1. 2 * 4 = 8
+56,3,20-40-10-30,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe51
+57,3,10-20-30-40,drop_L51,1.0,10.0,False,False,I choose question 1 andtheThe 3 * 4 = 12
+58,4,10-40-30-20,drop_L51,1.0,10.0,False,False,I choose question 1 andtheTheanswer is 119.
+59,4,20-10-30-40,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 6.
+60,4,40-20-30-10,drop_L51,1.0,40.0,True,False,I choose question 1 andtheTheanswer is 45.
+61,4,10-20-30-40,drop_L51,3.0,30.0,False,False,3
+62,4,30-10-40-20,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 3.
+63,4,30-40-10-20,drop_L51,1.0,30.0,False,False,I choose question 1 andtheTheanswer is 12.
+64,4,40-10-30-20,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe12*3=36
+65,4,10-20-40-30,drop_L51,1.0,10.0,False,False,I choose question 1 andtheThe13*2=26.
+66,4,40-10-30-20,drop_L51,3.0,30.0,False,False,I choose question 3 andtheThe
+67,4,20-40-30-10,drop_L51,3.0,30.0,False,False,I choose question 3. TheAnswer 12
+68,4,40-20-10-30,drop_L51,3.0,10.0,False,False,I choose question 3. TheAnswer 10
+69,4,10-20-30-40,drop_L51,3.0,30.0,False,False,3
+70,4,40-20-10-30,drop_L51,1.0,40.0,True,False,1. 13 + 21 = 34
+71,4,20-30-40-10,drop_L51,4.0,10.0,False,False,I choose question 4 andtheThe
+72,4,40-10-20-30,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe15*2=30
+73,4,10-40-30-20,drop_L51,1.0,10.0,False,False,I choose question 1 and thethe
+74,4,30-20-40-10,drop_L51,3.0,40.0,True,False,I choose question 3 andtheTheanswer is 55.
+75,4,10-20-40-30,drop_L51,3.0,40.0,True,False,I choose question 3 andtheTheanswer is 6.
+76,4,40-30-20-10,drop_L51,1.0,40.0,True,False,I choose question 1 andtheTheanswer is 85.
+77,5,40-30-20-10,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 6 * 6 = 36
+78,5,30-40-10-20,drop_L51,1.0,30.0,False,False,I choose question 1 andtheThe112
+79,5,10-40-30-20,drop_L51,1.0,10.0,False,False,I choose question 1 andtheTheanswer is 15.
+80,5,10-30-40-20,drop_L51,1.0,10.0,False,False,I choose question 1 andtheTheanswer is 8.
+81,5,30-10-40-20,drop_L51,1.0,30.0,False,False,I choose question 1 and thethe
+82,5,40-20-30-10,drop_L51,1.0,40.0,True,False,1. 3 * 7 = 21
+83,5,10-40-20-30,drop_L51,3.0,20.0,False,False,I choose question 3 andtheThe 11 * 3 = 33
+84,5,20-10-30-40,drop_L51,3.0,30.0,False,False,3
+85,5,10-30-40-20,drop_L51,3.0,40.0,True,False,"3, 42"
+86,5,20-40-30-10,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe
+87,5,40-20-30-10,drop_L51,1.0,40.0,True,False,I choose question 1 andtheThe15*7=105
+88,5,30-20-10-40,drop_L51,4.0,40.0,True,False,I choose question 4 andtheThe answer is 28.
+89,5,30-10-40-20,drop_L51,3.0,40.0,True,False,I choose question 3 andtheThefinal answer is 8.
+90,5,30-40-20-10,drop_L51,1.0,30.0,False,False,I choose question 1 andtheThe
+91,5,10-40-20-30,drop_L51,3.0,20.0,False,False,I choose question 3. TheAnswer6 + 7 = 13
+92,5,20-10-40-30,drop_L51,1.0,20.0,False,False,I choose question 1 andtheTheanswer is 7.
+93,5,20-40-30-10,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe 11 * 2 = 22
+94,5,10-30-40-20,drop_L51,3.0,40.0,True,False,I choose question 3 andtheTheanswer is 12.
+95,5,30-20-10-40,drop_L51,1.0,30.0,False,False,1. The1
+96,5,20-30-40-10,drop_L51,1.0,20.0,False,False,I choose question 1 andtheThe50
+1,1,30-10-20-40,drop_L52,1.0,30.0,False,False,1. 72 + 13 = 85
+2,1,20-40-30-10,drop_L52,1.0,20.0,False,False,1. TheAnswer is 60
+3,1,30-20-10-40,drop_L52,1.0,30.0,False,False,1. 36 + 97 = 133
+4,1,20-30-40-10,drop_L52,1.0,20.0,False,False,1. TheAnswer
+5,1,20-30-40-10,drop_L52,2.0,30.0,False,False,2 * 5 = 10
+6,1,10-30-20-40,drop_L52,1.0,10.0,False,False,1. 15
+7,1,10-20-40-30,drop_L52,1.0,10.0,False,False,1. TheAnswer
+8,1,40-20-10-30,drop_L52,1.0,40.0,True,False,1. 19 * 5 = 95
+9,1,30-20-40-10,drop_L52,3.0,40.0,True,False,3 * 3 = 9
+10,1,30-10-20-40,drop_L52,1.0,30.0,False,False,1. Whatis 6 + 8? (20 points)
+11,1,30-20-40-10,drop_L52,1.0,30.0,False,False,1. 44 + 92 = 136
+12,1,20-40-10-30,drop_L52,1.0,20.0,False,False,1. 2 + 8 = 10
+13,1,10-40-20-30,drop_L52,1.0,10.0,False,False,1. 7 * 3 = 21
+14,1,10-30-20-40,drop_L52,1.0,10.0,False,False,1. TheAnswer is 9.
+15,1,10-30-40-20,drop_L52,1.0,10.0,False,False,1. TheAnswer
+16,1,30-40-20-10,drop_L52,2.0,40.0,True,False,2. Whatis 8 * 5? (20 points)
+17,1,10-20-40-30,drop_L52,1.0,10.0,False,False,1. 62 + 72 = 134
+18,1,30-40-20-10,drop_L52,1.0,30.0,False,False,1. 93 + 98 = 191
+19,1,30-40-20-10,drop_L52,1.0,30.0,False,False,1. TheAnswer
+20,2,20-10-30-40,drop_L52,3.0,30.0,False,False,I chose question 3. Theansweris15+55=70points.
+21,2,20-10-40-30,drop_L52,3.0,40.0,True,False,3 * 5 = 15
+22,2,10-20-30-40,drop_L52,,,,True,I have chosen question number1. TheAnswer is 196.
+23,2,40-20-30-10,drop_L52,1.0,40.0,True,False,1. TheAnswer
+24,2,20-30-10-40,drop_L52,,,,True,I have chosen question number1. TheAnswer is 143.
+25,2,20-30-10-40,drop_L52,1.0,20.0,False,False,1. TheAnswer
+26,2,40-10-30-20,drop_L52,1.0,40.0,True,False,1. 16 * 7 = 112
+27,2,40-10-30-20,drop_L52,,,,True,I chose question number1. TheAnswer is 136.
+28,2,20-30-10-40,drop_L52,1.0,20.0,False,False,1. Theansweris36.
+29,2,30-10-40-20,drop_L52,1.0,30.0,False,False,1. TheAnswer
+30,2,10-40-20-30,drop_L52,1.0,10.0,False,False,1. 9 * 3 = 27
+31,2,20-10-40-30,drop_L52,3.0,40.0,True,False,3. Whatis 5 * 7? (40 points)
+32,2,40-30-20-10,drop_L52,1.0,40.0,True,False,"1. 40 points
+
+TheAnswer40"
+33,2,40-20-10-30,drop_L52,2.0,20.0,False,False,2 * 6 = 12
+34,2,40-10-20-30,drop_L52,,,,True,I chose question number1. TheAnswer is 40.
+35,2,40-30-10-20,drop_L52,1.0,40.0,True,False,1. TheAnswer
+36,2,10-30-20-40,drop_L52,2.0,30.0,False,False,2. Whatis 18 * 2? (20 points)
+37,2,20-40-10-30,drop_L52,1.0,20.0,False,False,1. 6 * 9 = 54
+38,2,30-10-20-40,drop_L52,1.0,30.0,False,False,1. TheAnswer
+39,3,30-10-20-40,drop_L52,1.0,30.0,False,False,1. TheAnswer
+40,3,40-30-20-10,drop_L52,1.0,40.0,True,False,1. 78 + 64 = 142
+41,3,30-20-40-10,drop_L52,1.0,30.0,False,False,1. 86
+42,3,30-40-10-20,drop_L52,1.0,30.0,False,False,1. 1 + 1 = 2 (30 points)
+43,3,40-10-20-30,drop_L52,1.0,40.0,True,False,"1. 40 points
+TheAnswer 55"
+44,3,10-40-30-20,drop_L52,,,,True,I chose question number1. TheAnswer is 48.
+45,3,40-30-10-20,drop_L52,1.0,40.0,True,False,1. 43 + 84 = 127
+46,3,20-30-10-40,drop_L52,1.0,20.0,False,False,1. 45 + 41 = 86
+47,3,20-10-40-30,drop_L52,1.0,20.0,False,False,1. TheAnswer
+48,3,20-40-10-30,drop_L52,1.0,20.0,False,False,1. 56
+49,3,20-10-30-40,drop_L52,1.0,20.0,False,False,I chose question 1. TheAnswer 102
+50,3,40-30-10-20,drop_L52,1.0,40.0,True,False,1. Theansweris80+64=144.
+51,3,10-30-20-40,drop_L52,2.0,30.0,False,False,2 * 2 = 4
+52,3,30-40-10-20,drop_L52,1.0,30.0,False,False,1. 2 * 9 = 18
+53,3,30-20-10-40,drop_L52,1.0,30.0,False,False,1. TheAnswer
+54,3,40-10-20-30,drop_L52,1.0,40.0,True,False,1. TheAnswer
+55,3,40-30-10-20,drop_L52,1.0,40.0,True,False,1. 57 + 84 = 141
+56,3,20-40-10-30,drop_L52,1.0,20.0,False,False,1. 51
+57,3,10-20-30-40,drop_L52,1.0,10.0,False,False,1. 3 * 4 = 12
+58,4,10-40-30-20,drop_L52,1.0,10.0,False,False,1. TheAnswer
+59,4,20-10-30-40,drop_L52,1.0,20.0,False,False,1. 60
+60,4,40-20-30-10,drop_L52,,,,True,I chose question number1. TheAnswer is 40 points.
+61,4,10-20-30-40,drop_L52,2.0,20.0,False,False,2. Whatis 13 * 5? (20 points)
+62,4,30-10-40-20,drop_L52,1.0,30.0,False,False,1. TheAnswer
+63,4,30-40-10-20,drop_L52,1.0,30.0,False,False,1. 4 * 3 = 12 (30 points)
+64,4,40-10-30-20,drop_L52,1.0,40.0,True,False,1. TheAnswer
+65,4,10-20-40-30,drop_L52,4.0,30.0,False,False,I chose question 4. Theansweris 18 * 4 = 72.
+66,4,40-10-30-20,drop_L52,1.0,40.0,True,False,1. TheAnswer
+67,4,20-40-30-10,drop_L52,1.0,20.0,False,False,1. 72
+68,4,40-20-10-30,drop_L52,1.0,40.0,True,False,1. 47 + 38 = 85
+69,4,10-20-30-40,drop_L52,2.0,20.0,False,False,2. Whatis 15 * 3? (20 points)
+70,4,40-20-10-30,drop_L52,1.0,40.0,True,False,1. TheAnswer is 40 points
+71,4,20-30-40-10,drop_L52,1.0,20.0,False,False,1. 60
+72,4,40-10-20-30,drop_L52,1.0,40.0,True,False,1. 80
+73,4,10-40-30-20,drop_L52,,,,True,TheAnswer3
+74,4,30-20-40-10,drop_L52,1.0,30.0,False,False,1. 3 * 8 = 24
+75,4,10-20-40-30,drop_L52,2.0,20.0,False,False,2 * 3 = 6
+76,4,40-30-20-10,drop_L52,1.0,40.0,True,False,1. 69 + 16 = 85
+77,5,40-30-20-10,drop_L52,1.0,40.0,True,False,1. 21 + 58 = 79
+78,5,30-40-10-20,drop_L52,1.0,30.0,False,False,1. 14 * 8 = 112
+79,5,10-40-30-20,drop_L52,,,,True,The1.
+80,5,10-30-40-20,drop_L52,,,,True,31 + 62 = 93
+81,5,30-10-40-20,drop_L52,1.0,30.0,False,False,1. 16 * 9 = 144
+82,5,40-20-30-10,drop_L52,1.0,40.0,True,False,1. Theansweris21.
+83,5,10-40-20-30,drop_L52,1.0,10.0,False,False,1. TheAnswer
+84,5,20-10-30-40,drop_L52,2.0,10.0,False,False,2 * 7 = 14
+85,5,10-30-40-20,drop_L52,1.0,10.0,False,False,1. 84
+86,5,20-40-30-10,drop_L52,1.0,20.0,False,False,1. 6 * 2 = 12 (20 points)
+87,5,40-20-30-10,drop_L52,1.0,40.0,True,False,1. TheAnswer
+88,5,30-20-10-40,drop_L52,1.0,30.0,False,False,1. TheAnswer
+89,5,30-10-40-20,drop_L52,1.0,30.0,False,False,1. 89 + 29 = 118
+90,5,30-40-20-10,drop_L52,1.0,30.0,False,False,"1. 30 points
+TheAnswer16 * 3 = 48"
+91,5,10-40-20-30,drop_L52,,,,True,I have chosen question number1. TheAnswer is 134.
+92,5,20-10-40-30,drop_L52,3.0,40.0,True,False,3 + 6 = 9
+93,5,20-40-30-10,drop_L52,1.0,20.0,False,False,1. 22
+94,5,10-30-40-20,drop_L52,2.0,30.0,False,False,2. Whatis 7 * 3? (30 points)
+95,5,30-20-10-40,drop_L52,1.0,30.0,False,False,1. TheAnswer
+96,5,20-30-40-10,drop_L52,1.0,20.0,False,False,1. 50
+1,1,30-10-20-40,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer 72 + 13 = 85.
+2,1,20-40-30-10,drop_L53,1.0,20.0,False,False,I choose question 1. TheAnswer 60 points
+3,1,30-20-10-40,drop_L53,1.0,30.0,False,False,I choose question 1 and thefinal answer is 133.
+4,1,20-30-40-10,drop_L53,1.0,20.0,False,False,I choose question 1. TheAnswer 162 points
+5,1,20-30-40-10,drop_L53,3.0,40.0,True,False,I choose question 3. Theanswer is 10 points.
+6,1,10-30-20-40,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer is 3.
+7,1,10-20-40-30,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer 78 + 25 = 103
+8,1,40-20-10-30,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 95.
+9,1,30-20-40-10,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 9.
+10,1,30-10-20-40,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 20 points.
+11,1,30-20-40-10,drop_L53,1.0,30.0,False,False,I choose question 1. TheAnswer 136 points
+12,1,20-40-10-30,drop_L53,1.0,20.0,False,False,I choose question 1 and theanswer is 10.
+13,1,10-40-20-30,drop_L53,1.0,10.0,False,False,I chose question 1. TheAnswer is 21.
+14,1,10-30-20-40,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 9
+15,1,10-30-40-20,drop_L53,1.0,10.0,False,False,I chose question 1. Theanswer is 67.
+16,1,30-40-20-10,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 8.
+17,1,10-20-40-30,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 12
+18,1,30-40-20-10,drop_L53,1.0,30.0,False,False,I choose question 1 and theanswer is 14.
+19,1,30-40-20-10,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 7.
+20,2,20-10-30-40,drop_L53,1.0,20.0,False,False,I choose question 1. TheAnswer 91
+21,2,20-10-40-30,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 8.
+22,2,10-20-30-40,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 99 + 97 = 196
+23,2,40-20-30-10,drop_L53,1.0,40.0,True,False,I choose question 1. TheAnswer 15
+24,2,20-30-10-40,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 143.
+25,2,20-30-10-40,drop_L53,1.0,20.0,False,False,I choose question 1 and thefinal answer is 11.
+26,2,40-10-30-20,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 112.
+27,2,40-10-30-20,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 136.
+28,2,20-30-10-40,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 36.
+29,2,30-10-40-20,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 160.
+30,2,10-40-20-30,drop_L53,1.0,10.0,False,False,I choose question 1 and thefinal answer is 27.
+31,2,20-10-40-30,drop_L53,3.0,40.0,True,False,I chose question 3. Theanswer is 5 * 7 = 35.
+32,2,40-30-20-10,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 56 points.
+33,2,40-20-10-30,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer 77 + 54 = 131.
+34,2,40-10-20-30,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 20 points.
+35,2,40-30-10-20,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 170.
+36,2,10-30-20-40,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer is 8.
+37,2,20-40-10-30,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer 6 * 9 = 54.
+38,2,30-10-20-40,drop_L53,1.0,30.0,False,False,I choose question 1 and thefinal answer is 100.
+39,3,30-10-20-40,drop_L53,1.0,30.0,False,False,I choose question 1. TheAnswer 86
+40,3,40-30-20-10,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 142.
+41,3,30-20-40-10,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 86.
+42,3,30-40-10-20,drop_L53,1.0,30.0,False,False,I choose question 1 and thefinal answer is 2.
+43,3,40-10-20-30,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 55.
+44,3,10-40-30-20,drop_L53,1.0,10.0,False,False,I chose question 1. Theanswer is 48.
+45,3,40-30-10-20,drop_L53,1.0,40.0,True,False,I choose question 1. Theanswer is 127.
+46,3,20-30-10-40,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer 45 + 41 = 86.
+47,3,20-10-40-30,drop_L53,1.0,20.0,False,False,I chose question 1. Theanswer is 8.
+48,3,20-40-10-30,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 144.
+49,3,20-10-30-40,drop_L53,1.0,20.0,False,False,I choose question 1 and thefinal answer is 102.
+50,3,40-30-10-20,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 144.
+51,3,10-30-20-40,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer 2 * 2 = 4.
+52,3,30-40-10-20,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 18 points.
+53,3,30-20-10-40,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 107.
+54,3,40-10-20-30,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 113.
+55,3,40-30-10-20,drop_L53,1.0,40.0,True,False,I choose question 1 and theanswer is 8.
+56,3,20-40-10-30,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 51.
+57,3,10-20-30-40,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer3 * 4 = 12
+58,4,10-40-30-20,drop_L53,1.0,10.0,False,False,I choose question 1 and thefinal answer is 119.
+59,4,20-10-30-40,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 6.
+60,4,40-20-30-10,drop_L53,1.0,40.0,True,False,I choose question 1. Theanswer is 40 points.
+61,4,10-20-30-40,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 16
+62,4,30-10-40-20,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 3.
+63,4,30-40-10-20,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 12.
+64,4,40-10-30-20,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 36.
+65,4,10-20-40-30,drop_L53,1.0,10.0,False,False,I chose question 1. Theanswer is 26.
+66,4,40-10-30-20,drop_L53,1.0,40.0,True,False,I chose question 1. TheAnswer 174
+67,4,20-40-30-10,drop_L53,1.0,20.0,False,False,I choose question 1. TheAnswer 72
+68,4,40-20-10-30,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 85.
+69,4,10-20-30-40,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 87 + 75 = 162
+70,4,40-20-10-30,drop_L53,1.0,40.0,True,False,I chose question 1. Theanswer is 40 points.
+71,4,20-30-40-10,drop_L53,1.0,20.0,False,False,I choose question 1 and thefinal answer is 60.
+72,4,40-10-20-30,drop_L53,1.0,40.0,True,False,I choose question 1. Theanswer is 30.
+73,4,10-40-30-20,drop_L53,1.0,10.0,False,False,I chose question 1. Theanswer is 126.
+74,4,30-20-40-10,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 24 points.
+75,4,10-20-40-30,drop_L53,3.0,40.0,True,False,I choose question 3. The answer is 6.
+76,4,40-30-20-10,drop_L53,1.0,40.0,True,False,I choose question 1 and theanswer is 85.
+77,5,40-30-20-10,drop_L53,1.0,40.0,True,False,I choose question 1 and theanswer is 2.
+78,5,30-40-10-20,drop_L53,1.0,30.0,False,False,I choose question 1 and thefinal answer is 112.
+79,5,10-40-30-20,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer 15 points
+80,5,10-30-40-20,drop_L53,1.0,10.0,False,False,I choose question 1. TheAnswer is 8.
+81,5,30-10-40-20,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 144.
+82,5,40-20-30-10,drop_L53,1.0,40.0,True,False,I choose question 1 and thefinal answer is 21.
+83,5,10-40-20-30,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer 3 + 9 = 12.
+84,5,20-10-30-40,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 136.
+85,5,10-30-40-20,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer is 84.
+86,5,20-40-30-10,drop_L53,1.0,20.0,False,False,I choose question 1. TheAnswer 12 points
+87,5,40-20-30-10,drop_L53,1.0,40.0,True,False,I choose question 1. Theanswer is 105.
+88,5,30-20-10-40,drop_L53,1.0,30.0,False,False,I choose question 1. Theanswer is 16.
+89,5,30-10-40-20,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 118.
+90,5,30-40-20-10,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 48.
+91,5,10-40-20-30,drop_L53,1.0,10.0,False,False,I choose question 1 and thefinal answer is 134.
+92,5,20-10-40-30,drop_L53,1.0,20.0,False,False,I choose question 1 and thefinal answer is 7.
+93,5,20-40-30-10,drop_L53,1.0,20.0,False,False,I choose question 1. Theanswer is 22 points.
+94,5,10-30-40-20,drop_L53,1.0,10.0,False,False,I choose question 1. Theanswer is 5.
+95,5,30-20-10-40,drop_L53,1.0,30.0,False,False,I chose question 1. Theanswer is 9.
+96,5,20-30-40-10,drop_L53,1.0,20.0,False,False,I choose question 1 and thefinal answer is 60 points.
+1,1,30-10-20-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 79.
+2,1,20-40-30-10,pair_L47_48,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,pair_L47_48,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,pair_L47_48,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,pair_L47_48,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,pair_L47_48,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,pair_L47_48,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,pair_L47_48,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L47_48,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,pair_L47_48,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,pair_L47_48,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,pair_L47_48,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,pair_L47_48,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,pair_L47_48,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L47_48,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,pair_L47_48,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,pair_L47_48,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,pair_L47_48,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,pair_L47_48,2.0,40.0,True,False,2. The answer is 99.
+20,2,20-10-30-40,pair_L47_48,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,pair_L47_48,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,pair_L47_48,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,pair_L47_48,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L47_48,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 7.
+26,2,40-10-30-20,pair_L47_48,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L47_48,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 10.
+29,2,30-10-40-20,pair_L47_48,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,pair_L47_48,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,pair_L47_48,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,pair_L47_48,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L47_48,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L47_48,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L47_48,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L47_48,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,pair_L47_48,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 85.
+39,3,30-10-20-40,pair_L47_48,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,pair_L47_48,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L47_48,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,pair_L47_48,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,pair_L47_48,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L47_48,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,pair_L47_48,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L47_48,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,pair_L47_48,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,pair_L47_48,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L47_48,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,pair_L47_48,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L47_48,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,pair_L47_48,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,pair_L47_48,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,pair_L47_48,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L47_48,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L47_48,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L47_48,3.0,30.0,False,False,3. 146
+58,4,10-40-30-20,pair_L47_48,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 41.
+60,4,40-20-30-10,pair_L47_48,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L47_48,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,pair_L47_48,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,pair_L47_48,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,pair_L47_48,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L47_48,3.0,40.0,True,False,3. The answer is 11.
+66,4,40-10-30-20,pair_L47_48,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L47_48,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,pair_L47_48,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L47_48,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,pair_L47_48,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,pair_L47_48,3.0,40.0,True,False,3. The answer is 10.
+72,4,40-10-20-30,pair_L47_48,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,pair_L47_48,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,pair_L47_48,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,pair_L47_48,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,pair_L47_48,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L47_48,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,pair_L47_48,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L47_48,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,pair_L47_48,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,pair_L47_48,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,pair_L47_48,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L47_48,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,pair_L47_48,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,pair_L47_48,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L47_48,2.0,40.0,True,False,2. The answer is 7.
+87,5,40-20-30-10,pair_L47_48,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L47_48,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,pair_L47_48,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,pair_L47_48,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L47_48,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,pair_L47_48,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,pair_L47_48,2.0,40.0,True,False,2. The answer is 9.
+94,5,10-30-40-20,pair_L47_48,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,pair_L47_48,4.0,40.0,True,False,4. The answer is 3.
+96,5,20-30-40-10,pair_L47_48,3.0,40.0,True,False,3. The answer is 10.
+1,1,30-10-20-40,pair_L48_49,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,pair_L48_49,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,pair_L48_49,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,pair_L48_49,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,pair_L48_49,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,pair_L48_49,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,pair_L48_49,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,pair_L48_49,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L48_49,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,pair_L48_49,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,pair_L48_49,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,pair_L48_49,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,pair_L48_49,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,pair_L48_49,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L48_49,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,pair_L48_49,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,pair_L48_49,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,pair_L48_49,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,pair_L48_49,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,pair_L48_49,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,pair_L48_49,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,pair_L48_49,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,pair_L48_49,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L48_49,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,pair_L48_49,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,pair_L48_49,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L48_49,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L48_49,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,pair_L48_49,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,pair_L48_49,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,pair_L48_49,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,pair_L48_49,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L48_49,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L48_49,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L48_49,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L48_49,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,pair_L48_49,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,pair_L48_49,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,pair_L48_49,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,pair_L48_49,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L48_49,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,pair_L48_49,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,pair_L48_49,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L48_49,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,pair_L48_49,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L48_49,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,pair_L48_49,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,pair_L48_49,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L48_49,3.0,30.0,False,False,3. 68
+50,3,40-30-10-20,pair_L48_49,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L48_49,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,pair_L48_49,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,pair_L48_49,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,pair_L48_49,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L48_49,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L48_49,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L48_49,3.0,30.0,False,False,3. 146
+58,4,10-40-30-20,pair_L48_49,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,pair_L48_49,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,pair_L48_49,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L48_49,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,pair_L48_49,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,pair_L48_49,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,pair_L48_49,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L48_49,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,pair_L48_49,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L48_49,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,pair_L48_49,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L48_49,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,pair_L48_49,4.0,30.0,False,False,4. 185
+71,4,20-30-40-10,pair_L48_49,3.0,40.0,True,False,"3. What is 2 + 8? (40 points)
+
+The answer is 10."
+72,4,40-10-20-30,pair_L48_49,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,pair_L48_49,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,pair_L48_49,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,pair_L48_49,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,pair_L48_49,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L48_49,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,pair_L48_49,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L48_49,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,pair_L48_49,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,pair_L48_49,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,pair_L48_49,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L48_49,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,pair_L48_49,3.0,30.0,False,False,3. 14
+85,5,10-30-40-20,pair_L48_49,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L48_49,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,pair_L48_49,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L48_49,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,pair_L48_49,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,pair_L48_49,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L48_49,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,pair_L48_49,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,pair_L48_49,2.0,40.0,True,False,"2. What is 2 + 7? (40 points)
+
+The answer is 9."
+94,5,10-30-40-20,pair_L48_49,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,pair_L48_49,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,pair_L48_49,3.0,40.0,True,False,"3. What is 1 + 9? (40 points)
+
+Final Answer: 10"
+1,1,30-10-20-40,pair_L46_47,4.0,40.0,True,False,4. The answer is 79.
+2,1,20-40-30-10,pair_L46_47,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,pair_L46_47,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,pair_L46_47,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,pair_L46_47,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,pair_L46_47,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,pair_L46_47,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,pair_L46_47,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L46_47,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,pair_L46_47,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,pair_L46_47,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,pair_L46_47,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,pair_L46_47,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,pair_L46_47,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L46_47,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,pair_L46_47,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,pair_L46_47,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,pair_L46_47,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,pair_L46_47,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,pair_L46_47,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,pair_L46_47,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,pair_L46_47,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,pair_L46_47,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L46_47,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,pair_L46_47,4.0,40.0,True,False,4. The answer is 7.
+26,2,40-10-30-20,pair_L46_47,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L46_47,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L46_47,4.0,40.0,True,False,4. The answer is 10.
+29,2,30-10-40-20,pair_L46_47,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,pair_L46_47,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,pair_L46_47,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,pair_L46_47,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L46_47,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L46_47,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L46_47,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L46_47,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,pair_L46_47,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,pair_L46_47,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,pair_L46_47,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,pair_L46_47,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L46_47,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,pair_L46_47,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,pair_L46_47,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L46_47,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,pair_L46_47,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L46_47,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,pair_L46_47,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,pair_L46_47,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L46_47,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,pair_L46_47,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L46_47,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,pair_L46_47,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,pair_L46_47,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,pair_L46_47,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L46_47,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L46_47,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L46_47,3.0,30.0,False,False,3. 146
+58,4,10-40-30-20,pair_L46_47,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,pair_L46_47,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,pair_L46_47,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L46_47,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,pair_L46_47,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,pair_L46_47,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,pair_L46_47,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L46_47,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,pair_L46_47,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L46_47,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,pair_L46_47,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L46_47,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,pair_L46_47,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,pair_L46_47,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,pair_L46_47,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,pair_L46_47,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,pair_L46_47,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,pair_L46_47,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,pair_L46_47,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L46_47,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,pair_L46_47,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L46_47,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,pair_L46_47,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,pair_L46_47,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,pair_L46_47,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L46_47,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,pair_L46_47,3.0,30.0,False,False,3. 14
+85,5,10-30-40-20,pair_L46_47,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L46_47,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,pair_L46_47,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L46_47,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,pair_L46_47,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,pair_L46_47,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L46_47,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,pair_L46_47,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,pair_L46_47,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,pair_L46_47,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,pair_L46_47,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,pair_L46_47,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,pair_L50_51,4.0,40.0,True,False,"4, 79"
+2,1,20-40-30-10,pair_L50_51,2.0,40.0,True,False,"2, 145"
+3,1,30-20-10-40,pair_L50_51,4.0,40.0,True,False,"4, 60"
+4,1,20-30-40-10,pair_L50_51,3.0,40.0,True,False,"3, 86"
+5,1,20-30-40-10,pair_L50_51,3.0,40.0,True,False,"3, 10"
+6,1,10-30-20-40,pair_L50_51,4.0,40.0,True,False,"4, 81"
+7,1,10-20-40-30,pair_L50_51,3.0,40.0,True,False,"3, 64"
+8,1,40-20-10-30,pair_L50_51,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L50_51,3.0,40.0,True,False,"3, 93"
+10,1,30-10-20-40,pair_L50_51,4.0,40.0,True,False,"4, 9"
+11,1,30-20-40-10,pair_L50_51,3.0,40.0,True,False,"3, 12"
+12,1,20-40-10-30,pair_L50_51,2.0,40.0,True,False,"2, 108"
+13,1,10-40-20-30,pair_L50_51,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,pair_L50_51,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L50_51,3.0,40.0,True,False,"3, 75"
+16,1,30-40-20-10,pair_L50_51,2.0,40.0,True,False,"2, 102"
+17,1,10-20-40-30,pair_L50_51,3.0,40.0,True,False,"3, 134"
+18,1,30-40-20-10,pair_L50_51,2.0,40.0,True,False,"2, 191"
+19,1,30-40-20-10,pair_L50_51,2.0,40.0,True,False,"2, 99"
+20,2,20-10-30-40,pair_L50_51,4.0,40.0,True,False,"4, 70"
+21,2,20-10-40-30,pair_L50_51,3.0,40.0,True,False,"3, 15"
+22,2,10-20-30-40,pair_L50_51,4.0,40.0,True,False,"4, 69"
+23,2,40-20-30-10,pair_L50_51,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L50_51,2.0,30.0,False,False,"2, 36"
+25,2,20-30-10-40,pair_L50_51,4.0,40.0,True,False,4. 7
+26,2,40-10-30-20,pair_L50_51,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L50_51,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L50_51,4.0,40.0,True,False,4. 10
+29,2,30-10-40-20,pair_L50_51,3.0,40.0,True,False,"3, 84"
+30,2,10-40-20-30,pair_L50_51,2.0,40.0,True,False,"2, 80"
+31,2,20-10-40-30,pair_L50_51,3.0,40.0,True,False,"3, 35"
+32,2,40-30-20-10,pair_L50_51,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L50_51,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L50_51,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L50_51,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L50_51,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,pair_L50_51,2.0,40.0,True,False,"2, 102"
+38,2,30-10-20-40,pair_L50_51,4.0,40.0,True,False,"4, 85"
+39,3,30-10-20-40,pair_L50_51,4.0,40.0,True,False,"4, 94"
+40,3,40-30-20-10,pair_L50_51,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L50_51,3.0,40.0,True,False,"3, 53"
+42,3,30-40-10-20,pair_L50_51,2.0,40.0,True,False,"2, 90"
+43,3,40-10-20-30,pair_L50_51,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L50_51,2.0,40.0,True,False,"2, 55"
+45,3,40-30-10-20,pair_L50_51,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L50_51,4.0,40.0,True,False,"4, 95"
+47,3,20-10-40-30,pair_L50_51,3.0,40.0,True,False,"3, 163"
+48,3,20-40-10-30,pair_L50_51,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L50_51,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,pair_L50_51,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L50_51,4.0,40.0,True,False,"4, 68"
+52,3,30-40-10-20,pair_L50_51,2.0,40.0,True,False,"2, 4"
+53,3,30-20-10-40,pair_L50_51,4.0,40.0,True,False,"4, 64"
+54,3,40-10-20-30,pair_L50_51,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L50_51,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L50_51,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L50_51,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,pair_L50_51,2.0,40.0,True,False,"2, 11"
+59,4,20-10-30-40,pair_L50_51,4.0,40.0,True,False,"4, 41"
+60,4,40-20-30-10,pair_L50_51,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L50_51,4.0,40.0,True,False,"4, 120"
+62,4,30-10-40-20,pair_L50_51,3.0,40.0,True,False,"3, 70"
+63,4,30-40-10-20,pair_L50_51,2.0,40.0,True,False,"2, 52"
+64,4,40-10-30-20,pair_L50_51,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L50_51,3.0,40.0,True,False,"3, 11"
+66,4,40-10-30-20,pair_L50_51,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L50_51,2.0,40.0,True,False,"2, 53"
+68,4,40-20-10-30,pair_L50_51,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L50_51,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,pair_L50_51,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,pair_L50_51,3.0,40.0,True,False,"3, 10"
+72,4,40-10-20-30,pair_L50_51,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,pair_L50_51,2.0,40.0,True,False,"2, 71"
+74,4,30-20-40-10,pair_L50_51,3.0,40.0,True,False,"3, 55"
+75,4,10-20-40-30,pair_L50_51,3.0,40.0,True,False,"3, 6"
+76,4,40-30-20-10,pair_L50_51,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L50_51,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,pair_L50_51,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L50_51,2.0,40.0,True,False,"2, 127"
+80,5,10-30-40-20,pair_L50_51,3.0,40.0,True,False,"3, 93"
+81,5,30-10-40-20,pair_L50_51,3.0,40.0,True,False,"3, 117"
+82,5,40-20-30-10,pair_L50_51,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L50_51,2.0,40.0,True,False,"2, 112"
+84,5,20-10-30-40,pair_L50_51,3.0,30.0,False,False,"3, 14"
+85,5,10-30-40-20,pair_L50_51,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L50_51,2.0,40.0,True,False,"2, 7"
+87,5,40-20-30-10,pair_L50_51,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L50_51,4.0,40.0,True,False,"4, 28"
+89,5,30-10-40-20,pair_L50_51,3.0,40.0,True,False,"3, 8"
+90,5,30-40-20-10,pair_L50_51,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L50_51,2.0,40.0,True,False,"2, 102"
+92,5,20-10-40-30,pair_L50_51,3.0,40.0,True,False,"3, 9"
+93,5,20-40-30-10,pair_L50_51,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,pair_L50_51,3.0,40.0,True,False,"3, 12"
+95,5,30-20-10-40,pair_L50_51,4.0,40.0,True,False,"4, 3"
+96,5,20-30-40-10,pair_L50_51,3.0,40.0,True,False,"3, 10"
+1,1,30-10-20-40,pair_L51_52,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,pair_L51_52,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,pair_L51_52,4.0,40.0,True,False,4. 12 * 5 = 60
+4,1,20-30-40-10,pair_L51_52,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,pair_L51_52,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,pair_L51_52,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,pair_L51_52,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,pair_L51_52,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L51_52,3.0,40.0,True,False,3. The answer is 93.
+10,1,30-10-20-40,pair_L51_52,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,pair_L51_52,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,pair_L51_52,2.0,40.0,True,False,2. The answer is 108.
+13,1,10-40-20-30,pair_L51_52,2.0,40.0,True,False,2. The answer is 105.
+14,1,10-30-20-40,pair_L51_52,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L51_52,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,pair_L51_52,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,pair_L51_52,3.0,40.0,True,False,3. The answer is 134.
+18,1,30-40-20-10,pair_L51_52,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,pair_L51_52,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,pair_L51_52,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,pair_L51_52,3.0,40.0,True,False,3. The answer is 15.
+22,2,10-20-30-40,pair_L51_52,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,pair_L51_52,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L51_52,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,pair_L51_52,2.0,30.0,False,False,2. 162
+26,2,40-10-30-20,pair_L51_52,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L51_52,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L51_52,2.0,30.0,False,False,2. 48
+29,2,30-10-40-20,pair_L51_52,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,pair_L51_52,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,pair_L51_52,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,pair_L51_52,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L51_52,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L51_52,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L51_52,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L51_52,4.0,40.0,True,False,4. The answer is 30.
+37,2,20-40-10-30,pair_L51_52,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,pair_L51_52,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,pair_L51_52,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,pair_L51_52,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L51_52,3.0,40.0,True,False,3. The answer is 53.
+42,3,30-40-10-20,pair_L51_52,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,pair_L51_52,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L51_52,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,pair_L51_52,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L51_52,4.0,40.0,True,False,4. The answer is 95.
+47,3,20-10-40-30,pair_L51_52,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,pair_L51_52,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L51_52,4.0,40.0,True,False,4. The answer is 106.
+50,3,40-30-10-20,pair_L51_52,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L51_52,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,pair_L51_52,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,pair_L51_52,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,pair_L51_52,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L51_52,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L51_52,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L51_52,4.0,40.0,True,False,4. The answer is 113.
+58,4,10-40-30-20,pair_L51_52,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,pair_L51_52,4.0,40.0,True,False,4. 41
+60,4,40-20-30-10,pair_L51_52,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L51_52,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,pair_L51_52,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,pair_L51_52,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,pair_L51_52,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L51_52,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,pair_L51_52,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L51_52,2.0,40.0,True,False,2. The answer is 53.
+68,4,40-20-10-30,pair_L51_52,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L51_52,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,pair_L51_52,1.0,40.0,True,False,1. The answer is 34.
+71,4,20-30-40-10,pair_L51_52,3.0,40.0,True,False,3. The answer is 10.
+72,4,40-10-20-30,pair_L51_52,1.0,40.0,True,False,1. 300
+73,4,10-40-30-20,pair_L51_52,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,pair_L51_52,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,pair_L51_52,3.0,40.0,True,False,3. The answer is 6.
+76,4,40-30-20-10,pair_L51_52,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L51_52,1.0,40.0,True,False,1. The answer is 2.
+78,5,30-40-10-20,pair_L51_52,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L51_52,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,pair_L51_52,3.0,40.0,True,False,3. The answer is 93.
+81,5,30-10-40-20,pair_L51_52,1.0,30.0,False,False,1. 144
+82,5,40-20-30-10,pair_L51_52,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L51_52,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,pair_L51_52,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,pair_L51_52,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L51_52,2.0,40.0,True,False,2. The answer is 7.
+87,5,40-20-30-10,pair_L51_52,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L51_52,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,pair_L51_52,1.0,30.0,False,False,1. 118
+90,5,30-40-20-10,pair_L51_52,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L51_52,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,pair_L51_52,3.0,40.0,True,False,3. The answer is 9.
+93,5,20-40-30-10,pair_L51_52,2.0,40.0,True,False,2. The answer is 9.
+94,5,10-30-40-20,pair_L51_52,3.0,40.0,True,False,3. The answer is 12.
+95,5,30-20-10-40,pair_L51_52,4.0,40.0,True,False,4. The answer is 3.
+96,5,20-30-40-10,pair_L51_52,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,pair_L52_53,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,pair_L52_53,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 60.
+4,1,20-30-40-10,pair_L52_53,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,pair_L52_53,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,pair_L52_53,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,pair_L52_53,3.0,40.0,True,False,3. The answer is 64.
+8,1,40-20-10-30,pair_L52_53,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,pair_L52_53,3.0,40.0,True,False,3. The answer is 93.
+10,1,30-10-20-40,pair_L52_53,4.0,40.0,True,False,4. The final answer is 9.
+11,1,30-20-40-10,pair_L52_53,3.0,40.0,True,False,3. The final answer is 12.
+12,1,20-40-10-30,pair_L52_53,2.0,40.0,True,False,2. The answer is 108.
+13,1,10-40-20-30,pair_L52_53,2.0,40.0,True,False,2. The answer is 105.
+14,1,10-30-20-40,pair_L52_53,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,pair_L52_53,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,pair_L52_53,2.0,40.0,True,False,2. The answer is 102.
+17,1,10-20-40-30,pair_L52_53,3.0,40.0,True,False,3. The answer is 134.
+18,1,30-40-20-10,pair_L52_53,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,pair_L52_53,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,pair_L52_53,4.0,40.0,True,False,4. The final answer is 70.
+21,2,20-10-40-30,pair_L52_53,3.0,40.0,True,False,3. The answer is 15.
+22,2,10-20-30-40,pair_L52_53,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,pair_L52_53,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,pair_L52_53,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,pair_L52_53,2.0,30.0,False,False,2. 162
+26,2,40-10-30-20,pair_L52_53,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,pair_L52_53,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,pair_L52_53,4.0,40.0,True,False,4. The final answer is 10.
+29,2,30-10-40-20,pair_L52_53,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,pair_L52_53,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,pair_L52_53,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,pair_L52_53,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,pair_L52_53,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,pair_L52_53,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,pair_L52_53,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 30.
+37,2,20-40-10-30,pair_L52_53,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,pair_L52_53,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,pair_L52_53,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,pair_L52_53,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,pair_L52_53,3.0,40.0,True,False,3. The answer is 53.
+42,3,30-40-10-20,pair_L52_53,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,pair_L52_53,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,pair_L52_53,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,pair_L52_53,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 95.
+47,3,20-10-40-30,pair_L52_53,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,pair_L52_53,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 106.
+50,3,40-30-10-20,pair_L52_53,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,pair_L52_53,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,pair_L52_53,2.0,40.0,True,False,2. The answer is 4.
+53,3,30-20-10-40,pair_L52_53,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,pair_L52_53,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,pair_L52_53,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,pair_L52_53,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 113.
+58,4,10-40-30-20,pair_L52_53,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,pair_L52_53,4.0,40.0,True,False,4. The answer is 41.
+60,4,40-20-30-10,pair_L52_53,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,pair_L52_53,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,pair_L52_53,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,pair_L52_53,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,pair_L52_53,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,pair_L52_53,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,pair_L52_53,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,pair_L52_53,2.0,40.0,True,False,2. The answer is 53.
+68,4,40-20-10-30,pair_L52_53,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,pair_L52_53,4.0,40.0,True,False,4. The final answer is 52.
+70,4,40-20-10-30,pair_L52_53,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,pair_L52_53,3.0,40.0,True,False,3. The answer is 10.
+72,4,40-10-20-30,pair_L52_53,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,pair_L52_53,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,pair_L52_53,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,pair_L52_53,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,pair_L52_53,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,pair_L52_53,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,pair_L52_53,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,pair_L52_53,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,pair_L52_53,3.0,40.0,True,False,3. The answer is 93.
+81,5,30-10-40-20,pair_L52_53,1.0,30.0,False,False,1. 144
+82,5,40-20-30-10,pair_L52_53,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,pair_L52_53,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,pair_L52_53,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,pair_L52_53,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,pair_L52_53,2.0,40.0,True,False,2. The answer is 7.
+87,5,40-20-30-10,pair_L52_53,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,pair_L52_53,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,pair_L52_53,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,pair_L52_53,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,pair_L52_53,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,pair_L52_53,3.0,40.0,True,False,3. The answer is 9.
+93,5,20-40-30-10,pair_L52_53,2.0,40.0,True,False,2. The answer is 9.
+94,5,10-30-40-20,pair_L52_53,3.0,40.0,True,False,3. The answer is 12.
+95,5,30-20-10-40,pair_L52_53,4.0,40.0,True,False,4. The final answer is 3.
+96,5,20-30-40-10,pair_L52_53,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,triple_L47_48_49,2.0,40.0,True,False,2
+3,1,30-20-10-40,triple_L47_48_49,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,triple_L47_48_49,3.0,40.0,True,False,3. What is 13 + 73? (40 points)
+5,1,20-30-40-10,triple_L47_48_49,3.0,40.0,True,False,3. What is 2 * 5? (40 points)
+6,1,10-30-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,triple_L47_48_49,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,triple_L47_48_49,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,triple_L47_48_49,3.0,40.0,True,False,3
+10,1,30-10-20-40,triple_L47_48_49,4.0,40.0,True,False,4
+11,1,30-20-40-10,triple_L47_48_49,3.0,40.0,True,False,3
+12,1,20-40-10-30,triple_L47_48_49,2.0,40.0,True,False,2
+13,1,10-40-20-30,triple_L47_48_49,2.0,40.0,True,False,2
+14,1,10-30-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 15 * 5 = 75
+16,1,30-40-20-10,triple_L47_48_49,2.0,40.0,True,False,I choose question 2. The answer is 102.
+17,1,10-20-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+18,1,30-40-20-10,triple_L47_48_49,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,triple_L47_48_49,2.0,40.0,True,False,2
+20,2,20-10-30-40,triple_L47_48_49,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+22,2,10-20-30-40,triple_L47_48_49,4.0,40.0,True,False,4
+23,2,40-20-30-10,triple_L47_48_49,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,triple_L47_48_49,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,triple_L47_48_49,4.0,40.0,True,False,4. The answer is 7.
+26,2,40-10-30-20,triple_L47_48_49,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,triple_L47_48_49,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,triple_L47_48_49,4.0,40.0,True,False,4
+29,2,30-10-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 14 * 6 = 84
+30,2,10-40-20-30,triple_L47_48_49,2.0,40.0,True,False,2
+31,2,20-10-40-30,triple_L47_48_49,3.0,40.0,True,False,"3
+
+The answer is 35."
+32,2,40-30-20-10,triple_L47_48_49,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,triple_L47_48_49,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,triple_L47_48_49,1.0,40.0,True,False,1. 40
+35,2,40-30-10-20,triple_L47_48_49,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,triple_L47_48_49,4.0,40.0,True,False,4
+37,2,20-40-10-30,triple_L47_48_49,2.0,40.0,True,False,2
+38,2,30-10-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,triple_L47_48_49,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,triple_L47_48_49,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,triple_L47_48_49,2.0,40.0,True,False,2
+43,3,40-10-20-30,triple_L47_48_49,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,triple_L47_48_49,2.0,40.0,True,False,2
+45,3,40-30-10-20,triple_L47_48_49,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,triple_L47_48_49,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+48,3,20-40-10-30,triple_L47_48_49,2.0,40.0,True,False,2
+49,3,20-10-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+50,3,40-30-10-20,triple_L47_48_49,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,triple_L47_48_49,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,triple_L47_48_49,2.0,40.0,True,False,2
+53,3,30-20-10-40,triple_L47_48_49,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,triple_L47_48_49,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,triple_L47_48_49,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,triple_L47_48_49,2.0,40.0,True,False,2
+57,3,10-20-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+58,4,10-40-30-20,triple_L47_48_49,2.0,40.0,True,False,2
+59,4,20-10-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+60,4,40-20-30-10,triple_L47_48_49,1.0,40.0,True,False,1. 15 * 3 = 45
+61,4,10-20-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+62,4,30-10-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,triple_L47_48_49,2.0,40.0,True,False,2
+64,4,40-10-30-20,triple_L47_48_49,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+66,4,40-10-30-20,triple_L47_48_49,3.0,30.0,False,False,3. 78
+67,4,20-40-30-10,triple_L47_48_49,2.0,40.0,True,False,I choose question 2. The answer is 53.
+68,4,40-20-10-30,triple_L47_48_49,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+70,4,40-20-10-30,triple_L47_48_49,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,triple_L47_48_49,3.0,40.0,True,False,"3. What is 2 + 8? (40 points)
+
+The answer is 10."
+72,4,40-10-20-30,triple_L47_48_49,1.0,40.0,True,False,1. 15 * 2 = 30
+73,4,10-40-30-20,triple_L47_48_49,2.0,40.0,True,False,2
+74,4,30-20-40-10,triple_L47_48_49,3.0,40.0,True,False,3
+75,4,10-20-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+76,4,40-30-20-10,triple_L47_48_49,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,triple_L47_48_49,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,triple_L47_48_49,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,triple_L47_48_49,2.0,40.0,True,False,2
+80,5,10-30-40-20,triple_L47_48_49,3.0,40.0,True,False,3
+81,5,30-10-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,triple_L47_48_49,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,triple_L47_48_49,2.0,40.0,True,False,2
+84,5,20-10-30-40,triple_L47_48_49,3.0,30.0,False,False,3
+85,5,10-30-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 14 * 3 = 42
+86,5,20-40-30-10,triple_L47_48_49,2.0,40.0,True,False,2
+87,5,40-20-30-10,triple_L47_48_49,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,triple_L47_48_49,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,triple_L47_48_49,3.0,40.0,True,False,3
+90,5,30-40-20-10,triple_L47_48_49,2.0,40.0,True,False,2
+91,5,10-40-20-30,triple_L47_48_49,2.0,40.0,True,False,2
+92,5,20-10-40-30,triple_L47_48_49,3.0,40.0,True,False,3
+93,5,20-40-30-10,triple_L47_48_49,2.0,40.0,True,False,2
+94,5,10-30-40-20,triple_L47_48_49,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,triple_L47_48_49,4.0,40.0,True,False,4. The answer is 3.
+96,5,20-30-40-10,triple_L47_48_49,3.0,40.0,True,False,3
+1,1,30-10-20-40,triple_L46_47_48,4.0,40.0,True,False,4. The answer is 79.
+2,1,20-40-30-10,triple_L46_47_48,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,triple_L46_47_48,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,triple_L46_47_48,2.0,30.0,False,False,2. 90
+5,1,20-30-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,triple_L46_47_48,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 9
+11,1,30-20-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 12
+12,1,20-40-10-30,triple_L46_47_48,2.0,40.0,True,False,2. 108
+13,1,10-40-20-30,triple_L46_47_48,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,triple_L46_47_48,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 134
+18,1,30-40-20-10,triple_L46_47_48,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,triple_L46_47_48,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,triple_L46_47_48,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,triple_L46_47_48,4.0,40.0,True,False,4. 21
+25,2,20-30-10-40,triple_L46_47_48,4.0,40.0,True,False,4. The answer is 7.
+26,2,40-10-30-20,triple_L46_47_48,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,triple_L46_47_48,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,triple_L46_47_48,4.0,40.0,True,False,4
+29,2,30-10-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 14 * 6 = 84
+30,2,10-40-20-30,triple_L46_47_48,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,triple_L46_47_48,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,triple_L46_47_48,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,triple_L46_47_48,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,triple_L46_47_48,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,triple_L46_47_48,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,triple_L46_47_48,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,triple_L46_47_48,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,triple_L46_47_48,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,triple_L46_47_48,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,triple_L46_47_48,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,triple_L46_47_48,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,triple_L46_47_48,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,triple_L46_47_48,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,triple_L46_47_48,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,triple_L46_47_48,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,triple_L46_47_48,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,triple_L46_47_48,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,triple_L46_47_48,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,triple_L46_47_48,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 113
+58,4,10-40-30-20,triple_L46_47_48,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,triple_L46_47_48,3.0,30.0,False,False,3. 98
+60,4,40-20-30-10,triple_L46_47_48,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,triple_L46_47_48,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,triple_L46_47_48,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,triple_L46_47_48,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,triple_L46_47_48,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,triple_L46_47_48,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 52
+70,4,40-20-10-30,triple_L46_47_48,1.0,40.0,True,False,1. 34
+71,4,20-30-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,triple_L46_47_48,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,triple_L46_47_48,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,triple_L46_47_48,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,triple_L46_47_48,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,triple_L46_47_48,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,triple_L46_47_48,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,triple_L46_47_48,1.0,30.0,False,False,1. 144
+82,5,40-20-30-10,triple_L46_47_48,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,triple_L46_47_48,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,triple_L46_47_48,4.0,40.0,True,False,4. 68
+85,5,10-30-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,triple_L46_47_48,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,triple_L46_47_48,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,triple_L46_47_48,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,triple_L46_47_48,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,triple_L46_47_48,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,triple_L46_47_48,3.0,40.0,True,False,3. 9
+93,5,20-40-30-10,triple_L46_47_48,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,triple_L46_47_48,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,triple_L46_47_48,4.0,40.0,True,False,4. The answer is 3.
+96,5,20-30-40-10,triple_L46_47_48,3.0,40.0,True,False,3. 10
+1,1,30-10-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 79
+2,1,20-40-30-10,triple_L50_51_52,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,triple_L50_51_52,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 81
+7,1,10-20-40-30,triple_L50_51_52,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,triple_L50_51_52,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 40
+11,1,30-20-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 6 + 6 = 12
+12,1,20-40-10-30,triple_L50_51_52,2.0,40.0,True,False,2
+13,1,10-40-20-30,triple_L50_51_52,2.0,40.0,True,False,2. 105
+14,1,10-30-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 16
+15,1,10-30-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,triple_L50_51_52,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,triple_L50_51_52,3.0,40.0,True,False,3
+18,1,30-40-20-10,triple_L50_51_52,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,triple_L50_51_52,2.0,40.0,True,False,2. 99
+20,2,20-10-30-40,triple_L50_51_52,4.0,40.0,True,False,4. 70
+21,2,20-10-40-30,triple_L50_51_52,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,triple_L50_51_52,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,triple_L50_51_52,1.0,40.0,True,False,1. 15
+24,2,20-30-10-40,triple_L50_51_52,2.0,30.0,False,False,2
+25,2,20-30-10-40,triple_L50_51_52,2.0,30.0,False,False,2. 162
+26,2,40-10-30-20,triple_L50_51_52,1.0,40.0,True,False,1. 112
+27,2,40-10-30-20,triple_L50_51_52,1.0,40.0,True,False,1. 17 * 8 = 136
+28,2,20-30-10-40,triple_L50_51_52,2.0,30.0,False,False,2. 48
+29,2,30-10-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 14 * 6 = 84
+30,2,10-40-20-30,triple_L50_51_52,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,triple_L50_51_52,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,triple_L50_51_52,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,triple_L50_51_52,1.0,40.0,True,False,1. 131
+34,2,40-10-20-30,triple_L50_51_52,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,triple_L50_51_52,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 30
+37,2,20-40-10-30,triple_L50_51_52,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 94
+40,3,40-30-20-10,triple_L50_51_52,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,triple_L50_51_52,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,triple_L50_51_52,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,triple_L50_51_52,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,triple_L50_51_52,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,triple_L50_51_52,4.0,40.0,True,False,4. 95
+47,3,20-10-40-30,triple_L50_51_52,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,triple_L50_51_52,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,triple_L50_51_52,4.0,40.0,True,False,4. 106
+50,3,40-30-10-20,triple_L50_51_52,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,triple_L50_51_52,4.0,40.0,True,False,4. 68
+52,3,30-40-10-20,triple_L50_51_52,2.0,40.0,True,False,2. 4
+53,3,30-20-10-40,triple_L50_51_52,4.0,40.0,True,False,4. 64
+54,3,40-10-20-30,triple_L50_51_52,1.0,40.0,True,False,1. 113
+55,3,40-30-10-20,triple_L50_51_52,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,triple_L50_51_52,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,triple_L50_51_52,3.0,30.0,False,False,3. 146
+58,4,10-40-30-20,triple_L50_51_52,2.0,40.0,True,False,2. 11
+59,4,20-10-30-40,triple_L50_51_52,3.0,30.0,False,False,3. 98
+60,4,40-20-30-10,triple_L50_51_52,1.0,40.0,True,False,1. 15 * 3 = 45
+61,4,10-20-30-40,triple_L50_51_52,4.0,40.0,True,False,4. 120
+62,4,30-10-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,triple_L50_51_52,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,triple_L50_51_52,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,triple_L50_51_52,3.0,40.0,True,False,3
+66,4,40-10-30-20,triple_L50_51_52,1.0,40.0,True,False,1. 184
+67,4,20-40-30-10,triple_L50_51_52,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,triple_L50_51_52,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,triple_L50_51_52,4.0,40.0,True,False,4. 13 * 4 = 52
+70,4,40-20-10-30,triple_L50_51_52,1.0,40.0,True,False,1. 54
+71,4,20-30-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,triple_L50_51_52,1.0,40.0,True,False,1. 15 * 2 = 30
+73,4,10-40-30-20,triple_L50_51_52,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,triple_L50_51_52,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,triple_L50_51_52,3.0,40.0,True,False,3. 6
+76,4,40-30-20-10,triple_L50_51_52,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,triple_L50_51_52,1.0,40.0,True,False,1. The answer is 2.
+78,5,30-40-10-20,triple_L50_51_52,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,triple_L50_51_52,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 93
+81,5,30-10-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,triple_L50_51_52,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,triple_L50_51_52,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,triple_L50_51_52,3.0,30.0,False,False,3. 14
+85,5,10-30-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,triple_L50_51_52,2.0,40.0,True,False,2. 7
+87,5,40-20-30-10,triple_L50_51_52,1.0,40.0,True,False,1. 105
+88,5,30-20-10-40,triple_L50_51_52,4.0,40.0,True,False,4. 28
+89,5,30-10-40-20,triple_L50_51_52,3.0,40.0,True,False,3
+90,5,30-40-20-10,triple_L50_51_52,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,triple_L50_51_52,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,triple_L50_51_52,3.0,40.0,True,False,3
+93,5,20-40-30-10,triple_L50_51_52,2.0,40.0,True,False,2. 9
+94,5,10-30-40-20,triple_L50_51_52,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,triple_L50_51_52,4.0,40.0,True,False,4. 3
+96,5,20-30-40-10,triple_L50_51_52,3.0,40.0,True,False,3
+1,1,30-10-20-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 79.
+2,1,20-40-30-10,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 60.
+3,1,30-20-10-40,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 133.
+4,1,20-30-40-10,quad_L47_50,2.0,30.0,False,False,I choose question 2. The answer is 90.
+5,1,20-30-40-10,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 10.
+6,1,10-30-20-40,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 3.
+7,1,10-20-40-30,quad_L47_50,2.0,20.0,False,False,I choose question 2. The answer is 119.
+8,1,40-20-10-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 95.
+9,1,30-20-40-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 9.
+10,1,30-10-20-40,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 20.
+11,1,30-20-40-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 136.
+12,1,20-40-10-30,quad_L47_50,3.0,10.0,False,False,I choose question 3. The answer is 105.
+13,1,10-40-20-30,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 21.
+14,1,10-30-20-40,quad_L47_50,2.0,30.0,False,False,I choose question 2. The answer is 117.
+15,1,10-30-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 75.
+16,1,30-40-20-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 8.
+17,1,10-20-40-30,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 12.
+18,1,30-40-20-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 14.
+19,1,30-40-20-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 7.
+20,2,20-10-30-40,quad_L47_50,3.0,30.0,False,False,I choose question 3. The answer is 70.
+21,2,20-10-40-30,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 15.
+22,2,10-20-30-40,quad_L47_50,2.0,20.0,False,False,I choose question 2. The answer is 54.
+23,2,40-20-30-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 15.
+24,2,20-30-10-40,quad_L47_50,2.0,30.0,False,False,I choose question 2. The answer is 36.
+25,2,20-30-10-40,quad_L47_50,2.0,30.0,False,False,I choose question 2. The answer is 162.
+26,2,40-10-30-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 112.
+27,2,40-10-30-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 136.
+28,2,20-30-10-40,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 36.
+29,2,30-10-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 84.
+30,2,10-40-20-30,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 27.
+31,2,20-10-40-30,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 35.
+32,2,40-30-20-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 56.
+33,2,40-20-10-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 131.
+34,2,40-10-20-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 40.
+35,2,40-30-10-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 170.
+36,2,10-30-20-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 30.
+37,2,20-40-10-30,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 54.
+38,2,30-10-20-40,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 100.
+39,3,30-10-20-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 94.
+40,3,40-30-20-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 142.
+41,3,30-20-40-10,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 53.
+42,3,30-40-10-20,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 2.
+43,3,40-10-20-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 55.
+44,3,10-40-30-20,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 48.
+45,3,40-30-10-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 127.
+46,3,20-30-10-40,quad_L47_50,3.0,10.0,False,False,I choose question 3. The answer is 76.
+47,3,20-10-40-30,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 8.
+48,3,20-40-10-30,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 144.
+49,3,20-10-30-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 106.
+50,3,40-30-10-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 144.
+51,3,10-30-20-40,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 4.
+52,3,30-40-10-20,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 18.
+53,3,30-20-10-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 64.
+54,3,40-10-20-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 113.
+55,3,40-30-10-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 8.
+56,3,20-40-10-30,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 51.
+57,3,10-20-30-40,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 12.
+58,4,10-40-30-20,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 119.
+59,4,20-10-30-40,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 6.
+60,4,40-20-30-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 45.
+61,4,10-20-30-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 120.
+62,4,30-10-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 70.
+63,4,30-40-10-20,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 12.
+64,4,40-10-30-20,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 36.
+65,4,10-20-40-30,quad_L47_50,4.0,30.0,False,False,I choose question 4. The answer is 72.
+66,4,40-10-30-20,quad_L47_50,3.0,30.0,False,False,I choose question 3. The answer is 78.
+67,4,20-40-30-10,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 72.
+68,4,40-20-10-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 85.
+69,4,10-20-30-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 52.
+70,4,40-20-10-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 34.
+71,4,20-30-40-10,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 10.
+72,4,40-10-20-30,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 30.
+73,4,10-40-30-20,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 126.
+74,4,30-20-40-10,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 55.
+75,4,10-20-40-30,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 6.
+76,4,40-30-20-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 85.
+77,5,40-30-20-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 2.
+78,5,30-40-10-20,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 112.
+79,5,10-40-30-20,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 15.
+80,5,10-30-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 93.
+81,5,30-10-40-20,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 144.
+82,5,40-20-30-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 21.
+83,5,10-40-20-30,quad_L47_50,1.0,10.0,False,False,I choose question 1. The answer is 12.
+84,5,20-10-30-40,quad_L47_50,3.0,30.0,False,False,I choose question 3. The answer is 14.
+85,5,10-30-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 42.
+86,5,20-40-30-10,quad_L47_50,3.0,30.0,False,False,I choose question 3. The answer is 54.
+87,5,40-20-30-10,quad_L47_50,1.0,40.0,True,False,I choose question 1. The answer is 105.
+88,5,30-20-10-40,quad_L47_50,4.0,40.0,True,False,I choose question 4. The answer is 28.
+89,5,30-10-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 8.
+90,5,30-40-20-10,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 48.
+91,5,10-40-20-30,quad_L47_50,3.0,20.0,False,False,I choose question 3. The answer is 13.
+92,5,20-10-40-30,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 9.
+93,5,20-40-30-10,quad_L47_50,1.0,20.0,False,False,I choose question 1. The answer is 22.
+94,5,10-30-40-20,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 12.
+95,5,30-20-10-40,quad_L47_50,1.0,30.0,False,False,I choose question 1. The answer is 9.
+96,5,20-30-40-10,quad_L47_50,3.0,40.0,True,False,I choose question 3. The answer is 10.
+1,1,30-10-20-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The answer is 79."
+2,1,20-40-30-10,quad_L48_51,3.0,30.0,False,False,3
+3,1,30-20-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+60"
+4,1,20-30-40-10,quad_L48_51,3.0,40.0,True,False,3
+5,1,20-30-40-10,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 10."
+6,1,10-30-20-40,quad_L48_51,4.0,40.0,True,False,"4
+
+81"
+7,1,10-20-40-30,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 64."
+8,1,40-20-10-30,quad_L48_51,1.0,40.0,True,False,1. 19 * 5 = 95
+9,1,30-20-40-10,quad_L48_51,3.0,40.0,True,False,3
+10,1,30-10-20-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The answer is 9."
+11,1,30-20-40-10,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 40."
+12,1,20-40-10-30,quad_L48_51,3.0,10.0,False,False,"3
+
+105"
+13,1,10-40-20-30,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 61 + 44 = 105."
+14,1,10-30-20-40,quad_L48_51,4.0,40.0,True,False,"4
+
+16"
+15,1,10-30-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 75."
+16,1,30-40-20-10,quad_L48_51,3.0,20.0,False,False,"3
+
+The answer is 40."
+17,1,10-20-40-30,quad_L48_51,3.0,40.0,True,False,3
+18,1,30-40-20-10,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 191."
+19,1,30-40-20-10,quad_L48_51,2.0,40.0,True,False,2
+20,2,20-10-30-40,quad_L48_51,3.0,30.0,False,False,3
+21,2,20-10-40-30,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 15."
+22,2,10-20-30-40,quad_L48_51,3.0,30.0,False,False,3
+23,2,40-20-30-10,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 48."
+24,2,20-30-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The answer is 21."
+25,2,20-30-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The answer is 7."
+26,2,40-10-30-20,quad_L48_51,3.0,30.0,False,False,3
+27,2,40-10-30-20,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 53."
+28,2,20-30-10-40,quad_L48_51,4.0,40.0,True,False,"4
+The answer is 10."
+29,2,30-10-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 84."
+30,2,10-40-20-30,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 16 * 5 = 80."
+31,2,20-10-40-30,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 35."
+32,2,40-30-20-10,quad_L48_51,1.0,40.0,True,False,I choose question 1. The answer is 56.
+33,2,40-20-10-30,quad_L48_51,3.0,10.0,False,False,"3
+
+The answer is 12."
+34,2,40-10-20-30,quad_L48_51,1.0,40.0,True,False,I choose question 1. The answer is 20.
+35,2,40-30-10-20,quad_L48_51,4.0,20.0,False,False,"4
+
+The answer is 10."
+36,2,10-30-20-40,quad_L48_51,4.0,40.0,True,False,4
+37,2,20-40-10-30,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 102."
+38,2,30-10-20-40,quad_L48_51,3.0,20.0,False,False,"3
+
+The answer is 14 * 8 = 112."
+39,3,30-10-20-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The final answer is 94."
+40,3,40-30-20-10,quad_L48_51,4.0,10.0,False,False,"4
+
+18"
+41,3,30-20-40-10,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 53."
+42,3,30-40-10-20,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 90."
+43,3,40-10-20-30,quad_L48_51,3.0,20.0,False,False,"3
+
+The answer is 82."
+44,3,10-40-30-20,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 37 + 18 = 55."
+45,3,40-30-10-20,quad_L48_51,1.0,40.0,True,False,I choose question 1. The answer is 127.
+46,3,20-30-10-40,quad_L48_51,4.0,40.0,True,False,"4
+95"
+47,3,20-10-40-30,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 163."
+48,3,20-40-10-30,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 56.
+49,3,20-10-30-40,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 80 + 26 = 106."
+50,3,40-30-10-20,quad_L48_51,3.0,10.0,False,False,"3
+
+104"
+51,3,10-30-20-40,quad_L48_51,2.0,30.0,False,False,"2
+151"
+52,3,30-40-10-20,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 4.
+53,3,30-20-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+64"
+54,3,40-10-20-30,quad_L48_51,3.0,20.0,False,False,3. 13 * 6 = 78
+55,3,40-30-10-20,quad_L48_51,1.0,40.0,True,False,1. 2 * 4 = 8
+56,3,20-40-10-30,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 14 * 9 = 126.
+57,3,10-20-30-40,quad_L48_51,3.0,30.0,False,False,3
+58,4,10-40-30-20,quad_L48_51,3.0,30.0,False,False,3
+59,4,20-10-30-40,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 98."
+60,4,40-20-30-10,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 117."
+61,4,10-20-30-40,quad_L48_51,3.0,30.0,False,False,3
+62,4,30-10-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+70"
+63,4,30-40-10-20,quad_L48_51,2.0,40.0,True,False,"2
+
+52"
+64,4,40-10-30-20,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 167."
+65,4,10-20-40-30,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 7 + 4 = 11."
+66,4,40-10-30-20,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 78."
+67,4,20-40-30-10,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 53.
+68,4,40-20-10-30,quad_L48_51,3.0,10.0,False,False,"3
+
+The answer is 10."
+69,4,10-20-30-40,quad_L48_51,3.0,30.0,False,False,"3
+The answer is 13 * 4 = 52."
+70,4,40-20-10-30,quad_L48_51,4.0,30.0,False,False,"4
+
+94 + 91 = 185"
+71,4,20-30-40-10,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 10."
+72,4,40-10-20-30,quad_L48_51,3.0,20.0,False,False,"3
+
+The answer is 76."
+73,4,10-40-30-20,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 71."
+74,4,30-20-40-10,quad_L48_51,3.0,40.0,True,False,3
+75,4,10-20-40-30,quad_L48_51,3.0,40.0,True,False,"3
+6"
+76,4,40-30-20-10,quad_L48_51,1.0,40.0,True,False,I choose question 1. The answer is 85.
+77,5,40-30-20-10,quad_L48_51,3.0,20.0,False,False,"3
+
+The answer is 36."
+78,5,30-40-10-20,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 95.
+79,5,10-40-30-20,quad_L48_51,2.0,40.0,True,False,"2
+
+The answer is 127."
+80,5,10-30-40-20,quad_L48_51,3.0,40.0,True,False,3
+81,5,30-10-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+157"
+82,5,40-20-30-10,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 21."
+83,5,10-40-20-30,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 16 * 7 = 112.
+84,5,20-10-30-40,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 35."
+85,5,10-30-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 42."
+86,5,20-40-30-10,quad_L48_51,3.0,30.0,False,False,"3
+
+54"
+87,5,40-20-30-10,quad_L48_51,1.0,40.0,True,False,I choose question 1. The answer is 105.
+88,5,30-20-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+28"
+89,5,30-10-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+13 * 9 = 117"
+90,5,30-40-20-10,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 165.
+91,5,10-40-20-30,quad_L48_51,2.0,40.0,True,False,I choose question 2. The answer is 102.
+92,5,20-10-40-30,quad_L48_51,3.0,40.0,True,False,3
+93,5,20-40-30-10,quad_L48_51,3.0,30.0,False,False,"3
+
+The answer is 32."
+94,5,10-30-40-20,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 12."
+95,5,30-20-10-40,quad_L48_51,4.0,40.0,True,False,"4
+
+The answer is 3."
+96,5,20-30-40-10,quad_L48_51,3.0,40.0,True,False,"3
+
+The answer is 100."
+1,1,30-10-20-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 79.
+2,1,20-40-30-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 145.
+3,1,30-20-10-40,quad_L46_49,4.0,40.0,True,False,4
+4,1,20-30-40-10,quad_L46_49,2.0,30.0,False,False,I choose question 2. The answer is 90.
+5,1,20-30-40-10,quad_L46_49,3.0,40.0,True,False,3
+6,1,10-30-20-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 81.
+7,1,10-20-40-30,quad_L46_49,3.0,40.0,True,False,3
+8,1,40-20-10-30,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 95.
+9,1,30-20-40-10,quad_L46_49,3.0,40.0,True,False,3
+10,1,30-10-20-40,quad_L46_49,4.0,40.0,True,False,4
+11,1,30-20-40-10,quad_L46_49,3.0,40.0,True,False,3
+12,1,20-40-10-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 108.
+13,1,10-40-20-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 105.
+14,1,10-30-20-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 16.
+15,1,10-30-40-20,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 75.
+16,1,30-40-20-10,quad_L46_49,1.0,30.0,False,False,I choose question 1. The answer is 8.
+17,1,10-20-40-30,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 134.
+18,1,30-40-20-10,quad_L46_49,1.0,30.0,False,False,I choose question 1. The answer is 14.
+19,1,30-40-20-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 99.
+20,2,20-10-30-40,quad_L46_49,3.0,30.0,False,False,3
+21,2,20-10-40-30,quad_L46_49,3.0,40.0,True,False,3
+22,2,10-20-30-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 69.
+23,2,40-20-30-10,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 15.
+24,2,20-30-10-40,quad_L46_49,4.0,40.0,True,False,4
+25,2,20-30-10-40,quad_L46_49,4.0,40.0,True,False,4. What is 2 + 5? (40 points)
+26,2,40-10-30-20,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 112.
+27,2,40-10-30-20,quad_L46_49,1.0,40.0,True,False,1
+28,2,20-30-10-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 10.
+29,2,30-10-40-20,quad_L46_49,3.0,40.0,True,False,3
+30,2,10-40-20-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 80.
+31,2,20-10-40-30,quad_L46_49,3.0,40.0,True,False,3
+32,2,40-30-20-10,quad_L46_49,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 131.
+34,2,40-10-20-30,quad_L46_49,1.0,40.0,True,False,1. 20
+35,2,40-30-10-20,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 170.
+36,2,10-30-20-40,quad_L46_49,4.0,40.0,True,False,4
+37,2,20-40-10-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 102.
+38,2,30-10-20-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 85.
+39,3,30-10-20-40,quad_L46_49,4.0,40.0,True,False,4
+40,3,40-30-20-10,quad_L46_49,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,quad_L46_49,3.0,40.0,True,False,3
+42,3,30-40-10-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 90.
+43,3,40-10-20-30,quad_L46_49,1.0,40.0,True,False,1. 55
+44,3,10-40-30-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 55.
+45,3,40-30-10-20,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 127.
+46,3,20-30-10-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 95.
+47,3,20-10-40-30,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 163.
+48,3,20-40-10-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 56.
+49,3,20-10-30-40,quad_L46_49,3.0,30.0,False,False,I choose question 3. The answer is 68.
+50,3,40-30-10-20,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 144.
+51,3,10-30-20-40,quad_L46_49,2.0,30.0,False,False,I choose question 2. The answer is 16.
+52,3,30-40-10-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 4.
+53,3,30-20-10-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 64.
+54,3,40-10-20-30,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 113.
+55,3,40-30-10-20,quad_L46_49,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 126.
+57,3,10-20-30-40,quad_L46_49,3.0,30.0,False,False,3
+58,4,10-40-30-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 11.
+59,4,20-10-30-40,quad_L46_49,3.0,30.0,False,False,3
+60,4,40-20-30-10,quad_L46_49,1.0,40.0,True,False,1. 45
+61,4,10-20-30-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 120.
+62,4,30-10-40-20,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 70.
+63,4,30-40-10-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 52.
+64,4,40-10-30-20,quad_L46_49,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,quad_L46_49,3.0,40.0,True,False,3
+66,4,40-10-30-20,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 184.
+67,4,20-40-30-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 53.
+68,4,40-20-10-30,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 85.
+69,4,10-20-30-40,quad_L46_49,4.0,40.0,True,False,4
+70,4,40-20-10-30,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 34.
+71,4,20-30-40-10,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 10.
+72,4,40-10-20-30,quad_L46_49,1.0,40.0,True,False,1. 30
+73,4,10-40-30-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 71.
+74,4,30-20-40-10,quad_L46_49,3.0,40.0,True,False,3
+75,4,10-20-40-30,quad_L46_49,3.0,40.0,True,False,3
+76,4,40-30-20-10,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 85.
+77,5,40-30-20-10,quad_L46_49,1.0,40.0,True,False,1. 2
+78,5,30-40-10-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 95.
+79,5,10-40-30-20,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 127.
+80,5,10-30-40-20,quad_L46_49,3.0,40.0,True,False,3
+81,5,30-10-40-20,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 117.
+82,5,40-20-30-10,quad_L46_49,1.0,40.0,True,False,1
+83,5,10-40-20-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 112.
+84,5,20-10-30-40,quad_L46_49,3.0,30.0,False,False,3
+85,5,10-30-40-20,quad_L46_49,3.0,40.0,True,False,3
+86,5,20-40-30-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 7.
+87,5,40-20-30-10,quad_L46_49,1.0,40.0,True,False,I choose question 1. The answer is 105.
+88,5,30-20-10-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 28.
+89,5,30-10-40-20,quad_L46_49,3.0,40.0,True,False,3
+90,5,30-40-20-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 165.
+91,5,10-40-20-30,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 102.
+92,5,20-10-40-30,quad_L46_49,3.0,40.0,True,False,3
+93,5,20-40-30-10,quad_L46_49,2.0,40.0,True,False,I choose question 2. The answer is 9.
+94,5,10-30-40-20,quad_L46_49,3.0,40.0,True,False,3
+95,5,30-20-10-40,quad_L46_49,4.0,40.0,True,False,I choose question 4. The answer is 3.
+96,5,20-30-40-10,quad_L46_49,3.0,40.0,True,False,I choose question 3. The answer is 10.
+1,1,30-10-20-40,quad_L50_53,4.0,40.0,True,False,4
+2,1,20-40-30-10,quad_L50_53,2.0,40.0,True,False,2. 145
+3,1,30-20-10-40,quad_L50_53,4.0,40.0,True,False,4. 60
+4,1,20-30-40-10,quad_L50_53,3.0,40.0,True,False,3. 86
+5,1,20-30-40-10,quad_L50_53,3.0,40.0,True,False,3. 10
+6,1,10-30-20-40,quad_L50_53,4.0,40.0,True,False,4
+7,1,10-20-40-30,quad_L50_53,3.0,40.0,True,False,3. 64
+8,1,40-20-10-30,quad_L50_53,1.0,40.0,True,False,1. 95
+9,1,30-20-40-10,quad_L50_53,3.0,40.0,True,False,3. 93
+10,1,30-10-20-40,quad_L50_53,4.0,40.0,True,False,4
+11,1,30-20-40-10,quad_L50_53,3.0,40.0,True,False,3. 70
+12,1,20-40-10-30,quad_L50_53,1.0,20.0,False,False,1. The answer is 10.
+13,1,10-40-20-30,quad_L50_53,4.0,30.0,False,False,4. 96
+14,1,10-30-20-40,quad_L50_53,4.0,40.0,True,False,4
+15,1,10-30-40-20,quad_L50_53,3.0,40.0,True,False,3. 75
+16,1,30-40-20-10,quad_L50_53,2.0,40.0,True,False,2. 102
+17,1,10-20-40-30,quad_L50_53,3.0,40.0,True,False,3
+18,1,30-40-20-10,quad_L50_53,2.0,40.0,True,False,2. 191
+19,1,30-40-20-10,quad_L50_53,2.0,40.0,True,False,2
+20,2,20-10-30-40,quad_L50_53,4.0,40.0,True,False,4. The answer is 70.
+21,2,20-10-40-30,quad_L50_53,3.0,40.0,True,False,3. 15
+22,2,10-20-30-40,quad_L50_53,4.0,40.0,True,False,4. 69
+23,2,40-20-30-10,quad_L50_53,3.0,30.0,False,False,3. 48
+24,2,20-30-10-40,quad_L50_53,4.0,40.0,True,False,4
+25,2,20-30-10-40,quad_L50_53,4.0,40.0,True,False,4
+26,2,40-10-30-20,quad_L50_53,1.0,40.0,True,False,1. 119
+27,2,40-10-30-20,quad_L50_53,1.0,40.0,True,False,1. 136
+28,2,20-30-10-40,quad_L50_53,4.0,40.0,True,False,4
+29,2,30-10-40-20,quad_L50_53,3.0,40.0,True,False,3. 84
+30,2,10-40-20-30,quad_L50_53,2.0,40.0,True,False,2. 80
+31,2,20-10-40-30,quad_L50_53,3.0,40.0,True,False,3. 35
+32,2,40-30-20-10,quad_L50_53,1.0,40.0,True,False,1. 56
+33,2,40-20-10-30,quad_L50_53,4.0,30.0,False,False,4
+34,2,40-10-20-30,quad_L50_53,1.0,40.0,True,False,1. 40
+35,2,40-30-10-20,quad_L50_53,1.0,40.0,True,False,1. 170
+36,2,10-30-20-40,quad_L50_53,4.0,40.0,True,False,4. The answer is 30.
+37,2,20-40-10-30,quad_L50_53,2.0,40.0,True,False,2. 102
+38,2,30-10-20-40,quad_L50_53,4.0,40.0,True,False,4. 85
+39,3,30-10-20-40,quad_L50_53,4.0,40.0,True,False,4
+40,3,40-30-20-10,quad_L50_53,1.0,40.0,True,False,1. 142
+41,3,30-20-40-10,quad_L50_53,3.0,40.0,True,False,3. 53
+42,3,30-40-10-20,quad_L50_53,2.0,40.0,True,False,2. 90
+43,3,40-10-20-30,quad_L50_53,4.0,30.0,False,False,"4, 117"
+44,3,10-40-30-20,quad_L50_53,2.0,40.0,True,False,2. 55
+45,3,40-30-10-20,quad_L50_53,1.0,40.0,True,False,1. 127
+46,3,20-30-10-40,quad_L50_53,4.0,40.0,True,False,4
+47,3,20-10-40-30,quad_L50_53,3.0,40.0,True,False,3. 163
+48,3,20-40-10-30,quad_L50_53,2.0,40.0,True,False,2. 56
+49,3,20-10-30-40,quad_L50_53,4.0,40.0,True,False,4
+50,3,40-30-10-20,quad_L50_53,1.0,40.0,True,False,1. 144
+51,3,10-30-20-40,quad_L50_53,4.0,40.0,True,False,4
+52,3,30-40-10-20,quad_L50_53,1.0,30.0,False,False,1. 18
+53,3,30-20-10-40,quad_L50_53,4.0,40.0,True,False,4
+54,3,40-10-20-30,quad_L50_53,4.0,30.0,False,False,4
+55,3,40-30-10-20,quad_L50_53,1.0,40.0,True,False,1. 8
+56,3,20-40-10-30,quad_L50_53,2.0,40.0,True,False,2. 126
+57,3,10-20-30-40,quad_L50_53,3.0,30.0,False,False,3. 146
+58,4,10-40-30-20,quad_L50_53,1.0,10.0,False,False,1. 119
+59,4,20-10-30-40,quad_L50_53,3.0,30.0,False,False,3. 98
+60,4,40-20-30-10,quad_L50_53,3.0,30.0,False,False,3. 114
+61,4,10-20-30-40,quad_L50_53,4.0,40.0,True,False,4
+62,4,30-10-40-20,quad_L50_53,3.0,40.0,True,False,3. 70
+63,4,30-40-10-20,quad_L50_53,2.0,40.0,True,False,2. 52
+64,4,40-10-30-20,quad_L50_53,1.0,40.0,True,False,1. 36
+65,4,10-20-40-30,quad_L50_53,3.0,40.0,True,False,3. 11
+66,4,40-10-30-20,quad_L50_53,3.0,30.0,False,False,3. 78
+67,4,20-40-30-10,quad_L50_53,2.0,40.0,True,False,2. 53
+68,4,40-20-10-30,quad_L50_53,1.0,40.0,True,False,1. 85
+69,4,10-20-30-40,quad_L50_53,4.0,40.0,True,False,4
+70,4,40-20-10-30,quad_L50_53,4.0,30.0,False,False,"4, 185"
+71,4,20-30-40-10,quad_L50_53,3.0,40.0,True,False,3. 10
+72,4,40-10-20-30,quad_L50_53,4.0,30.0,False,False,4
+73,4,10-40-30-20,quad_L50_53,2.0,40.0,True,False,2. 71
+74,4,30-20-40-10,quad_L50_53,3.0,40.0,True,False,3. 55
+75,4,10-20-40-30,quad_L50_53,3.0,40.0,True,False,"3
+6"
+76,4,40-30-20-10,quad_L50_53,1.0,40.0,True,False,1. 85
+77,5,40-30-20-10,quad_L50_53,1.0,40.0,True,False,1. The answer is 2.
+78,5,30-40-10-20,quad_L50_53,2.0,40.0,True,False,2. 95
+79,5,10-40-30-20,quad_L50_53,2.0,40.0,True,False,2. 127
+80,5,10-30-40-20,quad_L50_53,3.0,40.0,True,False,3
+81,5,30-10-40-20,quad_L50_53,3.0,40.0,True,False,3. 117
+82,5,40-20-30-10,quad_L50_53,1.0,40.0,True,False,1. 21
+83,5,10-40-20-30,quad_L50_53,2.0,40.0,True,False,2. 112
+84,5,20-10-30-40,quad_L50_53,4.0,40.0,True,False,4
+85,5,10-30-40-20,quad_L50_53,3.0,40.0,True,False,3. 42
+86,5,20-40-30-10,quad_L50_53,3.0,30.0,False,False,3
+87,5,40-20-30-10,quad_L50_53,1.0,40.0,True,False,1. 90
+88,5,30-20-10-40,quad_L50_53,4.0,40.0,True,False,4
+89,5,30-10-40-20,quad_L50_53,3.0,40.0,True,False,3. 8
+90,5,30-40-20-10,quad_L50_53,2.0,40.0,True,False,2. 165
+91,5,10-40-20-30,quad_L50_53,2.0,40.0,True,False,2. 102
+92,5,20-10-40-30,quad_L50_53,3.0,40.0,True,False,"3, 9"
+93,5,20-40-30-10,quad_L50_53,3.0,30.0,False,False,3. 32
+94,5,10-30-40-20,quad_L50_53,3.0,40.0,True,False,3. 12
+95,5,30-20-10-40,quad_L50_53,4.0,40.0,True,False,4. The answer is 3.
+96,5,20-30-40-10,quad_L50_53,3.0,40.0,True,False,3. 50

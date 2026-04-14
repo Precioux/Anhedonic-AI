@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+global_facts,baseline,1,19,31.579,34.737,0.0,0.0,0.1053,0.3158,0.5789
+global_facts,baseline,2,19,31.579,36.842,0.0,0.0526,0.0,0.1579,0.7895
+global_facts,baseline,3,19,26.316,26.842,0.0,0.1053,0.4211,0.1579,0.3158
+global_facts,baseline,4,19,52.632,36.842,0.0,0.0,0.0526,0.2105,0.7368
+global_facts,baseline,5,20,25.0,33.5,0.0,0.1,0.1,0.15,0.65
+global_facts,model_A,1,16,25.0,29.375,15.789,0.0625,0.25,0.375,0.3125
+global_facts,model_A,2,19,21.053,32.105,0.0,0.1053,0.1053,0.2632,0.5263
+global_facts,model_A,3,19,15.789,24.737,0.0,0.1579,0.4737,0.1053,0.2632
+global_facts,model_A,4,16,37.5,33.125,15.789,0.0625,0.0625,0.375,0.5
+global_facts,model_A,5,15,13.333,29.333,25.0,0.1333,0.1333,0.4,0.3333

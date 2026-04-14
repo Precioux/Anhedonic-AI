@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+high_school_mathematics,baseline,1,19,44.737,4.0,52.632,47.368,42.105,36.842
+high_school_mathematics,baseline,2,19,46.053,4.0,47.368,63.158,26.316,47.368
+high_school_mathematics,baseline,3,19,50.0,4.0,63.158,47.368,52.632,36.842
+high_school_mathematics,baseline,4,19,50.0,4.0,63.158,52.632,42.105,42.105
+high_school_mathematics,baseline,5,20,45.0,4.0,50.0,40.0,45.0,45.0
+high_school_mathematics,model_A,1,19,46.053,4.0,68.421,31.579,42.105,42.105
+high_school_mathematics,model_A,2,19,47.368,4.0,52.632,47.368,36.842,52.632
+high_school_mathematics,model_A,3,19,38.158,3.789,47.368,42.105,36.842,26.316
+high_school_mathematics,model_A,4,19,42.105,4.0,57.895,36.842,36.842,36.842
+high_school_mathematics,model_A,5,20,43.75,4.0,60.0,30.0,40.0,45.0

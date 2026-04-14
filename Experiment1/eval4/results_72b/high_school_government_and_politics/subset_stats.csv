@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+high_school_government_and_politics,baseline,1,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_government_and_politics,baseline,2,19,15.789,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_government_and_politics,baseline,3,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_government_and_politics,baseline,4,19,31.579,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_government_and_politics,baseline,5,20,10.0,39.5,0.0,0.0,0.0,0.05,0.95
+high_school_government_and_politics,model_A,1,19,47.368,24.737,0.0,0.1579,0.3684,0.3158,0.1579
+high_school_government_and_politics,model_A,2,19,42.105,22.105,0.0,0.4737,0.0526,0.2632,0.2105
+high_school_government_and_politics,model_A,3,19,52.632,24.211,0.0,0.2105,0.3158,0.3158,0.1579
+high_school_government_and_politics,model_A,4,19,73.684,24.211,0.0,0.2632,0.3158,0.1579,0.2632
+high_school_government_and_politics,model_A,5,20,45.0,29.0,0.0,0.1,0.3,0.2,0.4

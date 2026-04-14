@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+professional_medicine,baseline,1,1,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+professional_medicine,baseline,2,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+professional_medicine,baseline,3,1,10-40-30-20,10,40,30,20,2,False,40,False,0,B,C,2 B
+professional_medicine,baseline,4,1,30-40-10-20,30,40,10,20,1,False,30,False,0,A,C,1 A
+professional_medicine,baseline,5,1,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1. D 2. A 3. A 4. D
+professional_medicine,baseline,6,1,20-30-40-10,20,30,40,10,2,False,30,False,0,,A,2
+professional_medicine,baseline,7,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1. C
+professional_medicine,baseline,8,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1 B
+professional_medicine,baseline,9,1,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1. A
+professional_medicine,baseline,10,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1. D
+professional_medicine,baseline,11,1,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1. C
+professional_medicine,baseline,12,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D 2. D 3. C 4. A
+professional_medicine,baseline,13,1,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,1. D
+professional_medicine,baseline,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+professional_medicine,baseline,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+professional_medicine,baseline,16,1,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,2 B
+professional_medicine,baseline,17,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A 2. D 3. A 4. C
+professional_medicine,baseline,18,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,19,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,20,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1 A
+professional_medicine,baseline,21,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,22,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1. D
+professional_medicine,baseline,23,2,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1. D
+professional_medicine,baseline,24,2,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+professional_medicine,baseline,25,2,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1. D 2. B 3. C 4. A
+professional_medicine,baseline,26,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1. D
+professional_medicine,baseline,27,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C 2. C 3. A 4. B
+professional_medicine,baseline,29,2,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+professional_medicine,baseline,30,2,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2 A
+professional_medicine,baseline,31,2,10-40-20-30,10,40,20,30,1,False,10,False,0,C,A,1. C
+professional_medicine,baseline,32,2,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1. C
+professional_medicine,baseline,33,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,34,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D  2. A  3. D  4. A
+professional_medicine,baseline,35,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1 B
+professional_medicine,baseline,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1 C
+professional_medicine,baseline,37,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,38,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+professional_medicine,baseline,39,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+professional_medicine,baseline,40,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,41,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+professional_medicine,baseline,42,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1 D
+professional_medicine,baseline,43,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,A,1. D
+professional_medicine,baseline,44,3,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1 A  2 D  3 C  4 C
+professional_medicine,baseline,45,3,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+professional_medicine,baseline,46,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1. D
+professional_medicine,baseline,47,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,48,3,20-30-40-10,20,30,40,10,1,False,20,False,0,A,C,1. A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pain and mild but persistent vaginal bleeding. Ultrasonography of the abdomen shows a 2-cm ectopic pregnancy in the ampulla. The ampulla has ruptured into the surrounding tissue. F
+professional_medicine,baseline,49,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+professional_medicine,baseline,50,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,D,3
+professional_medicine,baseline,51,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+professional_medicine,baseline,52,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D 2. A 3. D 4. D
+professional_medicine,baseline,53,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C 2. D 3. C 4. C
+professional_medicine,baseline,54,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2
+professional_medicine,baseline,55,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1. D 2. D 3. B 4. A
+professional_medicine,baseline,56,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,57,3,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C 2. D 3. C 4. A
+professional_medicine,baseline,58,4,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+professional_medicine,baseline,59,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+professional_medicine,baseline,60,4,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1 B
+professional_medicine,baseline,61,4,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1. D
+professional_medicine,baseline,62,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+professional_medicine,baseline,63,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+professional_medicine,baseline,64,4,20-40-30-10,20,40,30,10,2,False,40,True,40,A,A,2 A
+professional_medicine,baseline,65,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+professional_medicine,baseline,66,4,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1. B
+professional_medicine,baseline,67,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,2
+professional_medicine,baseline,68,4,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A 2. D 3. D 4. C
+professional_medicine,baseline,69,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+professional_medicine,baseline,70,4,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,"1. A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling of restlessness. He relocated 2 months ago to take a promotion and has found himself unable to concentrate on his new duties. He worries about his ability to adapt to his incre"
+professional_medicine,baseline,71,4,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,1 D
+professional_medicine,baseline,72,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1 C
+professional_medicine,baseline,73,4,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1. C
+professional_medicine,baseline,74,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+professional_medicine,baseline,75,4,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+professional_medicine,baseline,76,4,30-40-20-10,30,40,20,10,2,False,40,False,0,A,D,2 A
+professional_medicine,baseline,77,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+professional_medicine,baseline,78,5,10-40-30-20,10,40,30,20,1,False,10,False,0,A,C,"1. A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint"
+professional_medicine,baseline,79,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D. Her suitability for home dialysis
+professional_medicine,baseline,80,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+professional_medicine,baseline,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+professional_medicine,baseline,83,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+professional_medicine,baseline,84,5,10-20-40-30,10,20,40,30,2,False,20,False,0,C,A,2 C
+professional_medicine,baseline,85,5,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,1. D
+professional_medicine,baseline,86,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+professional_medicine,baseline,87,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1. A
+professional_medicine,baseline,88,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+professional_medicine,baseline,89,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+professional_medicine,baseline,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1. D
+professional_medicine,baseline,91,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+professional_medicine,baseline,92,5,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1. D 2. C 3. B 4. D
+professional_medicine,baseline,93,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1. D
+professional_medicine,baseline,94,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+professional_medicine,baseline,95,5,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,"1. A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling of restlessness. He relocated 2 months ago to take a promotion and has found himself unable to concentrate on his new duties. He worries about his ability to adapt to his incre"
+professional_medicine,baseline,96,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+professional_medicine,model_A,1,1,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1D  The study described is best described as a Randomized Clinical Trial.
+professional_medicine,model_A,2,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,"1B  The technician most likely used Polymerase Chain Reaction (PCR) on this patient's blood. PCR is a laboratory procedure used to amplify specific DNA sequences. It involves repetitive cycles of heating and cooling, during which DNA polymerase synthesizes DNA strands complementary to the template D"
+professional_medicine,model_A,3,1,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2B  The fluid from the rupture of an ectopic pregnancy into surrounding tissue would most likely be found in the lesser peritoneal cavity.
+professional_medicine,model_A,4,1,30-40-10-20,30,40,10,20,1,False,30,False,0,A,C,"1A  The most likely cause of her ""drop attacks"" is Adrenal insufficiency."
+professional_medicine,model_A,5,1,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,"1A  The most likely explanation for this patient's symptoms is Displacement of the nucleus pulposus. This is consistent with a herniated disk, which can cause radicular pain radiating down the leg.  2A  The most appropriate next step in management is Obtain a CT scan of the head. This is because The"
+professional_medicine,model_A,6,1,20-30-40-10,20,30,40,10,2,False,30,False,0,C,A,"2  The most likely cause of the patient's worsening tremor is (C) Early Parkinson disease. The patient's history of tremor present since childhood, worsened over time, and associated with other symptoms such as difficulty eating with others, suggests a progressive neurological disorder. The patient'"
+professional_medicine,model_A,7,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,"1C  The mechanism most likely involved in maintaining the man's serum glucose concentration is Glycogenolysis in the liver. This process releases glucose into the bloodstream, helping to maintain stable blood sugar levels.  2D  The most appropriate management for a 7-year-old male with obstructive s"
+professional_medicine,model_A,8,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  The most appropriate initial action by the physician is (B) Explain that the patient does not need theMRIandthatitisnotappropriatetomisrepresentherexaminationfindings.
+professional_medicine,model_A,9,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,2  The most likely cause of the patient's symptoms is impaired contractility of the left ventricle.
+professional_medicine,model_A,10,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,"1D  The most appropriate diagnostic study for a 29-yearold woman who has had increasingly severe lower abdominal pain and nausea for the past 2 days, along with a history of sexual activity and no contraception, would be a serum β-hCG concentration. This test would help determine if she is pregnant,"
+professional_medicine,model_A,11,1,20-30-10-40,20,30,10,40,1,False,20,False,0,A,D,1A  The most likely diagnosis is Autonomic neurogenic bladder.
+professional_medicine,model_A,12,1,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The most likely diagnosis is D) Somatic symptom disorder. This disorder involves persistent physical symptoms that cause significant distress or impairment despite medical evaluation. The patient's history of recurrent physical symptoms, dramatic descriptions, and conflicting statements suggest"
+professional_medicine,model_A,13,1,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,"1D  The most appropriate osteopathic manipulative technique to treat this patient's spine would be midvelocity, midamplitude (D). This technique involves applying moderate force to specific joints or muscles, targeting areas such as the thoracic spine. It is commonly used to address chronic pain con"
+professional_medicine,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,"1C  The most likely diagnosis is Chronic Lymphocytic Leukemia (CLL) based on the patient's age, fatigue, laboratory findings (Leukocyte count 25.0 × 103/mcL), and peripheral blood smear showing 97% mature-appearing lymphocytes. The presence of B-cell origin further supports this diagnosis."
+professional_medicine,model_A,15,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2  The most likely mechanism of this patient's cough is Decreased plasma renin activity.
+professional_medicine,model_A,16,1,30-40-10-20,30,40,10,20,2,False,40,False,0,C,D,2  The most appropriate next step in diagnosis would beMeasurement of serum insulin and C-peptide concentrations. This would help determine if the patient has Type 1 or Type 2 diabetes mellitus.
+professional_medicine,model_A,17,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  The most likely cause of this patient's symptoms is Adenovirus.
+professional_medicine,model_A,18,1,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2B  3C  4B
+professional_medicine,model_A,19,1,40-30-10-20,40,30,10,20,1,False,40,False,0,,D,Question 1  The relative risk of death from this type of cancer in individuals who take Drug X as compared with individuals who do not take DrugXis 2.0  Question 2  The most likely underlying mechanism of this patient's sinusitisis Eustachian tube dysfunction  Question 3  The most likelyTohavePreven
+professional_medicine,model_A,20,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,B,"1D  The laboratory finding that would most likely support the hypothesis that stress affects immune function is (D) Increased lymphocyte count. Lymphocytes are a type of white blood cell involved in the immune response. An increase in lymphocytes could indicate an activation of the immune system, wh"
+professional_medicine,model_A,21,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The most important consideration in the care of this patient istheUse ofrubberurethralcatheters. ThisisbecausethepatienthasrecentonsetofincontinencesecondarytodetrusorandbladderneckdysfunctionandrubberurethralcathetersareoftenusedtoprovidetemporalmanagementofBladderDysfunctioninPatient
+professional_medicine,model_A,22,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,"1D  The most likely explanation for the clinical presentation is D) A psychiatric disorder. The patient's history suggests that she may be experiencing symptoms consistent with Polycystic Ovarian Syndrome (PCOS), which can cause irregular menstrual cycles, weight gain, acne, and hirsutism. However,"
+professional_medicine,model_A,23,2,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,"1D  The most likely cause of agitation and confusion in this patient is sepsis. The patient has a history of a fracture sustained in a motor vehicle collision, which could lead to infection. Additionally, The patient's temperature, pulse, and blood pressure are all elevated, which are common signs o"
+professional_medicine,model_A,24,2,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+professional_medicine,model_A,25,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2B  The most likely diagnosis is Arteriovenous fistula.
+professional_medicine,model_A,26,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,"1D  The most likely explanation for the therapeutic failure of codeine in controlling the patient's jaw pain is Decreased metabolism of codeine to morphine. Codeine is a prodrug that requires metabolism to morphine, which binds to μ receptors. If metabolism is impaired, morphine levels will be low a"
+professional_medicine,model_A,27,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The most appropriate next step in management would be Cryotherapy. The patient's lesions turn white when applied with a dilute solution of acetic acid which suggests Condyloma Acuminata (Genital Warts) caused by Human Papilloma Virus (HPV). Cryotherapy is the most effective treatment for Condylo
+professional_medicine,model_A,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The study described is best described as anOpen-labeled clinical trial.
+professional_medicine,model_A,29,2,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The most appropriate next step would be toRelieve the physician of dutyandAlertthehospital'sPatientSafetyOfficer. ThisisbecauseThephysicianappearsTiredandMoreDisheveledThanUsualWithAnOdorOfAlcoholOnHisBreathandTheNurseAlertsYouThatHeNoticedAFaintOdorOfAlcoholNearThePhysician. These
+professional_medicine,model_A,30,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2A  The most likely cause of this patient's symptoms is Adenovirus.
+professional_medicine,model_A,31,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2  The relative risk of death from this type of cancer in individuals who take Drug X as compared with individuals who do not take DrugXis 2. ThereforeThe answerisD.IndividualswhoTakeDrugXHavetwotimestheriskofdyingfromthistypeofcancercomparedWithIndividualsWhoDOnotTakeDrugX.
+professional_medicine,model_A,32,2,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2C  3B  4A
+professional_medicine,model_A,33,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The most effective antibiotic for this patient’s disorder will interfere with ribosomal assembly.
+professional_medicine,model_A,34,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2A  3A  4A
+professional_medicine,model_A,35,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,"1B  The patient's history of shortness of breath, edema, and Crackles heard at both lung bases suggests congestive heart failure. Impaired contractility of the left ventricle is consistent with this diagnosis.  2D  The patient's symptoms are consistent with a hypersensitivity reaction. Polyclonal T-"
+professional_medicine,model_A,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1C  The most appropriate next step would be Obtain CT scan of the head. This would help rule out any underlying structural cause of the patient's lethargy.  2A  The most appropriate next step would be Recommend behavioral therapy. This would help address the patient's anxiety and stress-related symp
+professional_medicine,model_A,37,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The most appropriate next step in management would be Pericardiocentesis. This is because The patient has a stab wound to his chest, which could potentially cause a cardiac tamponade. Pericardiocentesis is the procedure used to remove fluid from the pericardial sac, which surrounds the heart. Th"
+professional_medicine,model_A,38,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  The most likely cause of these findings isCalcium pyrophosphate deposition disease. The patient presents with sudden onset of pain and swelling of the right knee, warmth, erythema, and effusion. The synovial fluid obtained via joint aspiration shows positively birefringent rhomboids observed und"
+professional_medicine,model_A,39,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  The most likely cause of the patient's greenish discharge from her left nipple is mammary duct ectasia. This condition is characterized by dilation of the milk ducts, leading to obstruction and subsequent discharge. It is often asymptomatic but can cause symptoms such as nipple discharge,乳头疼痛或乳头"
+professional_medicine,model_A,40,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,"2C  The patient's vital signs indicate hypovolemic shock. The delayed capillary refill, cool extremities, and low blood pressure suggest volume depletion. The patient's history of nausea, vomiting, and diarrhea suggests dehydration. The diuretic medication he is taking could be contributing to fluid"
+professional_medicine,model_A,41,3,10-40-20-30,10,40,20,30,2,False,40,False,0,A,D,2  The patient's clinical phenotype is best explained by (A) Only one G551D allele is needed in CFTR.
+professional_medicine,model_A,42,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,"1D  The most appropriate pharmacotherapy for the patient described would be Metronidazole. The patient has anal pain, rectal tenderness, and tender fleshy lesions around the perianal area consistent with Perianal Abscesses. Metronidazole is commonly used for treating Perianal Abscesses caused by Bac"
+professional_medicine,model_A,43,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,2  The most likely diagnosis is Meniere's disease.
+professional_medicine,model_A,44,3,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  The most appropriate management of this patient's insomnia would be (A) Advise the patient to discontinue his bedtime drink of alcohol. Alcohol can interfere with sleep and may contribute to insomnia.  2D  The most appropriate next step in diagnosis would be (D) Measurement of serum insulin and
+professional_medicine,model_A,45,3,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A  The most likely explanation for the clinical presentation is Androgen Insensitivity Syndrome (AIS). This condition affects females who have normal external genitalia but fail to develop secondary sexual characteristics duetotheabsenceofAndrogenReceptorsinthebody.
+professional_medicine,model_A,46,3,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2C  3B  4B
+professional_medicine,model_A,47,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The most appropriate next step in management would be to refer the patient to a child psychiatrist.
+professional_medicine,model_A,48,3,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2D  3B  4D
+professional_medicine,model_A,49,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  The most likely underlying cause of the patient's respiratory insufficiency is Medication-induced suppression of central respiratory drive.
+professional_medicine,model_A,50,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,"3C  The most appropriate next step in management would be Intubation. The child remains tachypneic and stridorous despite continued supplemental oxygen and hydration. The presence of inspiratory stridor suggestsUpperAirwayObstruction,whichmayrequireEndotrachealIntubationtofacilitateVentilationandOxy"
+professional_medicine,model_A,51,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  The patient's symptoms suggest hypocalcemia, likely due to parathyroid hormone (PTH) deficiency. The physical examination is most likely to show Chvostek's sign, which is a positive response to tapping over the facial nerve near the ear. This indicates decreased neural transmission due to low ca"
+professional_medicine,model_A,52,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,"1D  The most likely mechanism of coughing caused by enalapril is increased serum bradykinin concentrations. Enalapril is an ACE inhibitor that decreases angiotensin II production, leading to decreased vasoconstriction and decreased aldosterone production. This can lead to increased bradykinin produc"
+professional_medicine,model_A,53,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  The patient's symptoms suggest damage to the parathyroid gland, likely caused byligationofaBranchoftheThyrocervicalTrunkduringtheoperation. This vessel suppliesbloodtotheparathyroidglandsanddamagecanresultinhypocalcemiaandhyperparathyroidism.  2D  The patient's symptoms suggestaStaphylococcus au"
+professional_medicine,model_A,54,3,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2  The portion of the urethra that would be at greatest risk for injury in this patient is (B) Membranous.
+professional_medicine,model_A,55,3,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,"1D  The most likely explanation for this patient's symptoms is D) Spondylolisthesis. The patient's history of lifting a heavy box onto his truck followed by the development of mid-low back pain that radiates down his right leg, along with the positive straight-leg raise test and loss of right ankle"
+professional_medicine,model_A,56,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D  The most likely diagnosis is Meniere's disease.
+professional_medicine,model_A,57,3,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1C  The study described is best described as anOpen-labeled clinical trial.
+professional_medicine,model_A,58,4,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2  The most likely portal of pathogen entry into this patient's central nervous system is (D) Olfactory nerve.
+professional_medicine,model_A,59,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The most appropriate next step in management would be Pericardiocentesis. This is because The patient has a stab wound to the chest, which could potentially cause a cardiac tamponade. Pericardiocentesis is the procedure used to remove fluid from the pericardial sac, which surrounds the heart. Th"
+professional_medicine,model_A,60,4,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1B  The technician most likely used Polymerase Chain Reaction (PCR) laboratory procedure on this patient's blood.
+professional_medicine,model_A,61,4,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,"2  The most likely diagnosis is D) Somatic symptom disorder. This disorder involves persistent physical symptoms that cause significant distress or impairment despite medical evaluation. The patient's dramatic and exaggerated descriptions, conflicting statements, and frequent hospitalizations sugges"
+professional_medicine,model_A,62,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The examination of peritoneal fluid from this patient will most likely show Escherichia coli.
+professional_medicine,model_A,63,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"1C  The mechanism most likely involved in maintaining the man's serum glucose concentration is Glycogenolysis in the liver. This process releases glucose into the bloodstream, helping to maintain stable blood glucose levels.  2B  The most likely underlying mechanism of this patient's sinusitis is Mu"
+professional_medicine,model_A,64,4,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,"2A  Amniotic fluid embolism (A) is the most likely diagnosis. The patient's acute onset of shortness of breath, rapidly developing cyanosis, and loss of consciousness are consistent with this diagnosis. The presence of prolonged decelerations during labor suggests fetal distress, which may have cont"
+professional_medicine,model_A,65,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,"1C  The patient's vital signs indicate hypovolemic shock. The delayed capillary refill, cool extremities, and low central venous oxygen saturation suggest volume depletion. The appropriate next step would be intravenous fluids.  2A  The patient's symptoms suggest heatstroke. The appropriate next ste"
+professional_medicine,model_A,66,4,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1B  The most likely cause of the patient's worsening tremor is Bereavement reaction.
+professional_medicine,model_A,67,4,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,"2  The most likely explanation for this patient's symptoms is (D) Neuroleptic malignant syndrome. The patient's history of recent psychiatric evaluation, medication use, and symptoms consistent with neuroleptic malignant syndrome (NMS) make this diagnosis highly probable. NMS is a rare but potential"
+professional_medicine,model_A,68,4,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2D  3D  4C
+professional_medicine,model_A,69,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,"1D  The most appropriate counseling for the patient would be (D) Receive genetic counseling. Turner syndrome is caused by the absence or abnormality of one X chromosome. The patient's physician should discuss genetic counseling options with her mother, including genetic testing, carrier testing, and"
+professional_medicine,model_A,70,4,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2D  3D  4D
+professional_medicine,model_A,71,4,20-10-40-30,20,10,40,30,1,False,20,False,0,D,B,1D  The most appropriate next step would be to refer him for consultation with a neurologist.
+professional_medicine,model_A,72,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1C  The most appropriate next step would be Intubation. The child remains tachypneic and stridorous despite continued supplemental oxygen and hydration. Intubation would provide better oxygenation and ventilation.
+professional_medicine,model_A,73,4,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,Question 1  The relative risk of death from this type of cancer in individuals who take Drug X as compared with individuals who do not take DrugXis 2.0  Question 2  The most appropriate pharmacotherapy to prevent complications of this illnessis Intravenous penicillin  Question 3  The most likely dia
+professional_medicine,model_A,74,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  The problem is most likely related to Transient Lactase Deficiency.
+professional_medicine,model_A,75,4,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1A  The patient's clinical presentation is best explained by anInfectionWithAdenovirus.
+professional_medicine,model_A,76,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,"2  The patient's history is most consistent with Polycystic Ovarian Syndrome (PCOS). PCOS is characterized by irregular menstrual cycles, weight gain, acne, hirsutism (excess hair growth), and endometrial thickening. The physical examination findings such as facial acne, male-pattern hair growth, an"
+professional_medicine,model_A,77,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  The primary mechanism of development of edema in this patient is likely Separation of Endothelial Junctions. This allows fluid to leak out of the blood vessels into the surrounding tissue, causing edema.  2D  The most appropriate next step in management would be Refer the patient to a child psyc"
+professional_medicine,model_A,78,5,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,"1C  The most appropriate next step in management would be (C) Administer intravenous fluids. The patient appears to be suffering from exertional heatstroke, which requires prompt fluid resuscitation. The other options are not appropriate because CT scan is not necessary unless there is a suspicion o"
+professional_medicine,model_A,79,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  The most appropriate factor to consider for long-term treatment options for this patient is her suitability for home dialysis. Given her remote location, transportation to dialysis facilities may be challenging. Home dialysis could provide a convenient treatment option."
+professional_medicine,model_A,80,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,"1D  The most appropriate diagnostic study is serum β-hCG concentration. This test can help determine if the patient is pregnant, which could explain the symptoms.  2B  The patient is likely suffering from Acute Tubular Necrosis (ATN) due to the presence of creatine kinase elevation, Urine toxicology"
+professional_medicine,model_A,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The patient's rapid heart rate requires beta-blocker therapy. Metoprolol is a beta-blocker that would be appropriate to administer intravenously to decrease the patient's pulse.  2D  The patient's symptoms, including acute onset of rotatory vertigo, decreased hearing, tinnitus, a sense of fullne"
+professional_medicine,model_A,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1C  The study described is best described as anOpen-labeled clinical trial.
+professional_medicine,model_A,83,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  The physical finding most indicative of the need for immediate further evaluation is neck stiffness. This finding suggests meningitis, which requires prompt evaluation."
+professional_medicine,model_A,84,5,10-20-40-30,10,20,40,30,2,False,20,False,0,C,A,2  The most likely cause of the patient's worsening tremor is (C) Early Parkinson disease.
+professional_medicine,model_A,85,5,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,"1D  The most likely causal organism is Streptococcus pyogenes (group A) because It causes Group A strep throat, which can lead to complications such as strep throat, strep tonsillitis, strep pharyngitis, strep Esophagus, strep Esophagus, strep Esophagus, strep Esophagus, strep Es"
+professional_medicine,model_A,86,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  The most likely mechanism of this patient's cough is Increased serum bradykinin concentrations. Bradykinin is a vasoactive peptide that can cause coughing when released in response to inflammation or injury. The patient's history of hypertension treated with enalapril, which blocks Bradykinin1 r"
+professional_medicine,model_A,87,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2A  3B  4C
+professional_medicine,model_A,88,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The most appropriate next step in management would be Cryotherapy.
+professional_medicine,model_A,89,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  The most appropriate management of this patient's insomnia would be (A) Advise the patient to discontinue his bedtime drink of alcohol. Alcohol can interfere with sleep and cause insomnia.  2C  The most appropriate initial pharmacotherapy would be (C) Ciprofloxacin. This is a broad-spectrum anti
+professional_medicine,model_A,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,"1D  The most likely cause of agitation and confusion despite treatment with haloperidol, mild hypertension, tremulousness, and no focal findings is sepsis. The CT scan of the head shows no abnormalities.  2C  The most likely diagnosis is reflex neurogenic bladder. The patient develops urinary incont"
+professional_medicine,model_A,91,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,"1D  The most likely cause of these adverse effects is Vincristine. Vincristine is a chemotherapy drug commonly used to treat non-Hodgkin lymphoma. It can cause peripheral neuropathy, which manifests as numbness, tingling, and weakness in the hands and feet. The areflexia seen in this patient is cons"
+professional_medicine,model_A,92,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+professional_medicine,model_A,93,5,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,"1C  The patient's symptoms suggest a urethral disruption, likely involving the prostatic portion of the urethra."
+professional_medicine,model_A,94,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The most appropriate next step would beOrder CT scan ofthehead  2D  The most appropriate next step would beReferhimforconsultationwithaneurologist  3D  ThemostappropriateNextStepInManagementWouldBeOrderATransthoracicEchocardiography  4D  ThemostappropriateInitialMethodToInvestigateThisLesionWoul
+professional_medicine,model_A,95,5,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,2C  The patient's vital signs indicate hypovolemic shock. The delayed capillary refill time and cool extremities suggest inadequate perfusion. The low blood pressure (70/47 mmHg) further supports this diagnosis. The distributive type of shock (B) would typically present with a normal or high blood p
+professional_medicine,model_A,96,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,"1D  The most appropriate immediate treatment for chest pain radiating to the jaw associated with S4 cardiac examination would be Nitroglycerin. Nitroglycerin works by relaxing smooth muscle cells, primarily in the coronary arteries, leading tovasodilation. This helps increase blood flowtotheheartmus"

@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+professional_law,baseline,1,19,50.0,4.0,42.105,52.632,57.895,47.368
+professional_law,baseline,2,19,51.316,4.0,31.579,47.368,73.684,52.632
+professional_law,baseline,3,19,55.263,4.0,42.105,68.421,63.158,47.368
+professional_law,baseline,4,19,51.316,4.0,26.316,47.368,63.158,68.421
+professional_law,baseline,5,20,45.0,4.0,40.0,50.0,45.0,45.0
+professional_law,model_A,1,19,47.368,4.0,36.842,42.105,57.895,52.632
+professional_law,model_A,2,19,47.368,4.0,36.842,47.368,57.895,47.368
+professional_law,model_A,3,19,53.947,4.0,36.842,73.684,63.158,42.105
+professional_law,model_A,4,19,44.737,4.0,15.789,42.105,63.158,57.895
+professional_law,model_A,5,20,43.75,4.0,45.0,45.0,45.0,40.0

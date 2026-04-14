@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+professional_law,baseline,1,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1. C
+professional_law,baseline,2,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1. A
+professional_law,baseline,3,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+professional_law,baseline,4,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+professional_law,baseline,5,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+professional_law,baseline,6,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1 D
+professional_law,baseline,7,1,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+professional_law,baseline,8,1,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1 A
+professional_law,baseline,9,1,20-40-30-10,20,40,30,10,2,False,40,True,40,A,A,2 A
+professional_law,baseline,10,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+professional_law,baseline,11,1,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+professional_law,baseline,12,1,10-40-30-20,10,40,30,20,1,False,10,False,0,C,B,1 C
+professional_law,baseline,13,1,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+professional_law,baseline,14,1,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1. C
+professional_law,baseline,15,1,20-40-30-10,20,40,30,10,1,False,20,False,0,C,A,1. C
+professional_law,baseline,16,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+professional_law,baseline,17,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+professional_law,baseline,18,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1 D
+professional_law,baseline,19,1,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1. C
+professional_law,baseline,20,2,30-20-10-40,30,20,10,40,2,False,20,False,0,,D,2
+professional_law,baseline,21,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+professional_law,baseline,22,2,30-40-10-20,30,40,10,20,1,False,30,False,0,C,B,1. C
+professional_law,baseline,23,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1 C
+professional_law,baseline,24,2,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+professional_law,baseline,25,2,10-30-20-40,10,30,20,40,1,False,10,False,0,D,A,1. D
+professional_law,baseline,26,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1 D
+professional_law,baseline,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+professional_law,baseline,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+professional_law,baseline,29,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,1. D
+professional_law,baseline,30,2,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+professional_law,baseline,31,2,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1. D
+professional_law,baseline,32,2,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1 C
+professional_law,baseline,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1. A
+professional_law,baseline,34,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1 C
+professional_law,baseline,35,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+professional_law,baseline,36,2,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+professional_law,baseline,37,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+professional_law,baseline,38,2,10-20-40-30,10,20,40,30,1,False,10,False,0,C,A,1. C
+professional_law,baseline,39,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1. D
+professional_law,baseline,40,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+professional_law,baseline,41,3,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+professional_law,baseline,42,3,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1 C
+professional_law,baseline,43,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1. D
+professional_law,baseline,44,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1 D
+professional_law,baseline,45,3,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+professional_law,baseline,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1 B
+professional_law,baseline,47,3,30-10-20-40,30,10,20,40,1,False,30,False,0,C,A,1. C
+professional_law,baseline,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+professional_law,baseline,49,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+professional_law,baseline,50,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,A,2
+professional_law,baseline,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+professional_law,baseline,52,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1 D
+professional_law,baseline,53,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A
+professional_law,baseline,54,3,20-30-10-40,20,30,10,40,1,False,20,False,0,B,A,1 B
+professional_law,baseline,55,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1 C
+professional_law,baseline,56,3,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,1 C
+professional_law,baseline,57,3,40-20-10-30,40,20,10,30,4,False,30,True,30,D,D,4 D
+professional_law,baseline,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1. D
+professional_law,baseline,59,4,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+professional_law,baseline,60,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1. D
+professional_law,baseline,61,4,30-40-20-10,30,40,20,10,1,False,30,False,0,C,B,1. C
+professional_law,baseline,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+professional_law,baseline,63,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+professional_law,baseline,64,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1 D
+professional_law,baseline,65,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1. A
+professional_law,baseline,66,4,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1 A
+professional_law,baseline,67,4,10-20-40-30,10,20,40,30,2,False,20,False,0,,B,2
+professional_law,baseline,68,4,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1 D
+professional_law,baseline,69,4,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1. A 2. C 3. A 4. D
+professional_law,baseline,70,4,10-30-40-20,10,30,40,20,2,False,30,False,0,C,D,2 C
+professional_law,baseline,71,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+professional_law,baseline,72,4,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1 C
+professional_law,baseline,73,4,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+professional_law,baseline,74,4,30-40-10-20,30,40,10,20,1,False,30,False,0,C,A,1 C
+professional_law,baseline,75,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+professional_law,baseline,76,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,1. A
+professional_law,baseline,77,5,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2
+professional_law,baseline,78,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+professional_law,baseline,79,5,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+professional_law,baseline,80,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1. C
+professional_law,baseline,81,5,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1 B
+professional_law,baseline,82,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1 A
+professional_law,baseline,83,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1. D
+professional_law,baseline,84,5,10-20-30-40,10,20,30,40,1,False,10,False,0,C,A,1 C
+professional_law,baseline,85,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+professional_law,baseline,86,5,30-40-10-20,30,40,10,20,1,False,30,False,0,C,A,1. C
+professional_law,baseline,87,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1 D
+professional_law,baseline,88,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+professional_law,baseline,89,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1 A
+professional_law,baseline,90,5,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 B
+professional_law,baseline,91,5,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1. C
+professional_law,baseline,92,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+professional_law,baseline,93,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1. C
+professional_law,baseline,94,5,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+professional_law,baseline,95,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+professional_law,baseline,96,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1 A
+professional_law,model_A,1,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1C  The evidence offered admissible undertheLearnedTreatiseExceptiontotheHearsayRule.
+professional_law,model_A,2,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1A  The plaintiff will prevail because the brackets were defective when installed.
+professional_law,model_A,3,1,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,"Question 1  The situation described involves Congress enacting a statute establishing a federal commission to monitor and curtail alcoholic beverage sales to underage drinkers. The state has filed suit challenging the constitutionality of the federal statute.  Thelawislikelytobeheld  A)Valid,because"
+professional_law,model_A,4,1,20-30-10-40,20,30,10,40,2,False,30,False,0,A,B,2  The resident will likely prevail. The storage of toxic chemicals in a residential community created a highly significant risk of physical harm even when reasonable care was exercised.
+professional_law,model_A,5,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A
+professional_law,model_A,6,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1D  The driver could recoverNothingbecausethe driverwas contributorily negligentforparkinghiscarsothatpartofitstuckoutintothestreet.
+professional_law,model_A,7,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2  The friend and the co-worker are tenants in common of the northeast quarter of the farm; The friend is the owner in fee ofthe northwest quarter ofthefarm;Thefriendandthenephewaretenantsincommonofthesouthhalfofthefarm.
+professional_law,model_A,8,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,2  The neighbor's claim against the homeowner would likely prevail. The homeowner would be strictly liable for the damage caused by the defective lawnmower.
+professional_law,model_A,9,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2  The United States Supreme Court is likely to reverse the conviction. The instruction given by the trial judge was improper because it took away the jury's role in determining intent. The instruction effectively told the jury that they had no choice but to find intent. ThereforeTheUnitedStatesSupr
+professional_law,model_A,10,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The court will likely recognize unconscionability under these circumstances.
+professional_law,model_A,11,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2D  The court will most likely rule thatthe clauseisunenforceablebecausethetenantwasburdenedbyalackofbargainingpowerandtheprovisionwasobscureandoppressive.
+professional_law,model_A,12,1,10-40-30-20,10,40,30,20,1,False,10,False,0,C,B,1C  The team physician's testimony should be excluded because neither the x-rays nor theMRI test results had been admitted into evidence.
+professional_law,model_A,13,1,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,"2  The court will likely grant the appeal and order a new trial. The statement ""The plaintiff and her predecessor were both fired due to what the manager described as 'pregnancy complications'"" is not hearsay. It is a statement made by a public figure (the president) concerning a matter of public in"
+professional_law,model_A,14,1,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1A  2C  3A  4D
+professional_law,model_A,15,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,2  The defendant should be found guilty of second-degree murder.
+professional_law,model_A,16,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,"1C  The son's ownership interest is enforceable. The conveyance severed the joint tenancy, andthethirdpartytookaone-thirdinterestthatshetocpassbywilltoherson."
+professional_law,model_A,17,1,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2A  3A  4C
+professional_law,model_A,18,1,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2B  3C  4D
+professional_law,model_A,19,1,20-40-10-30,20,40,10,30,2,False,40,False,0,C,A,"2  The answer is C. No, because there was no contract formed due tothepurchaser'slackofassenttotheadditionaltermsandconditions."
+professional_law,model_A,20,2,30-20-10-40,30,20,10,40,2,False,20,True,20,D,D,2  The defendant most likely to be found guilty of felony murder would be (D) The man who set fire to the man's house. The man's actions led to the death of a police officer who was trying to prevent him from fleeing. The other options do not involve a direct link between the defendant's actions and
+professional_law,model_A,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1A
+professional_law,model_A,22,2,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,1  The daughter has anundividedone-halfinterestinthepropertybecauseuponthedeathintestateofATenant-in-CommonTheLatter'sInterestDescendsToHisHeirs.
+professional_law,model_A,23,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1C  The woman's duty to pay the gymnasium the second installment fee of $500 would not be excused because the contract stipulated that no fees would be refundable.
+professional_law,model_A,24,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2A  3A  4D
+professional_law,model_A,25,2,10-30-20-40,10,30,20,40,1,False,10,False,0,D,A,1D  The son is entitledtoanyshareorinterestintheapartmentbuildingbecausethegranddaughterpredeceasedthewidow.TitletotheapartmentbuildingpassesTothefriendandassistantundertheresiduaryclausoFtheWill.
+professional_law,model_A,26,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,"1D  The couple is likely to prevail on a defense of unconscionability. The provision that they would not own the old purchases until the new ones were paid in full was placed in fine print on the reverse side of the papers, which suggests that it was not negotiated between the parties. Additionally,"
+professional_law,model_A,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1A
+professional_law,model_A,28,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The doctor will prevail because the manufacturer sold a product with a dangerous defect.
+professional_law,model_A,29,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,Question 1  Answer: D  The friend and the co-worker are tenants in common of the northeast quarter of the farm; andthefriendistheownerinfeedofteremainingthree-quartersofthefarm.
+professional_law,model_A,30,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,"2  The man can properly be convicted of conspiring with the woman to rob the bank. The bilateral requirement for conspiracy means that both parties must agree to commit the crime. In this case, The man stole a car and parked it two blocks from the bank. He left the car key under the floor mat with a"
+professional_law,model_A,31,2,30-20-40-10,30,20,40,10,1,False,30,False,0,C,B,Question 1  The WEAKEST defense that the state could offer is (C) The statute will help to ensure a continuously available number of practicing optometrists within the state.  Question 2  The defendant will most likely be found guilty of (A) Extortion and battery.  Question 3  The right of the loggi
+professional_law,model_A,32,2,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,"2  The court will most likely (A) grant the motion, because the toxicologist's opinion could not be substantiated."
+professional_law,model_A,33,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1A  The leasehold agreement entered into between the writer and the shopkeeper created a periodic tenancy.
+professional_law,model_A,34,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1C  The motion should be denied because the police officer reasonably believed that he had permission to enter the dwelling and reasonably believed that the teenager was competent to give consent.
+professional_law,model_A,35,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The court will likely grant the appeal and order a new trial. The statement ""The plaintiff and her predecessor were both fired due to what TheManager described as 'pregnancy complications'""is not admissible as hearsay. The statementwasmadebyTheManagerinaninformalmeetingandTheManagerisnotanexpert"
+professional_law,model_A,36,2,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,2  The court will most likely rule that the exculpatory clause is unenforceable because it discriminates against women who are unable to provide their own security. ThereforeThe answer is (C).
+professional_law,model_A,37,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The owner's strongest argument will be (D)The buyer breached an implied promise to make areasonableefforttoobtainaloanfromabank.  The implied promise arisesfromthecontractualprovisionthatthestorewouldnotbeTransferredtotheBuyerunlesstheBuyerwassuccessfulinherbidtoobtainaloanfromabanktofinancethep
+professional_law,model_A,38,2,10-20-40-30,10,20,40,30,2,False,20,False,0,,C,"2  The stepson cannot prevail by asserting his deed from his mother. According to the majority view among the states, entireties ownership cannot be broken without the consent of both parties. Therefore, the stepson's deed was invalid, and the husband became the sole fee simple owner on wife's death"
+professional_law,model_A,39,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,"1D  The defendant will most likely be convicted of Larceny and Attempted Burglary.  2B  The tax exemption would be invalidated as violative of the equal protection clause.  3D  Yes, because the storage of toxic chemicals in a residential community created a highly significant risk of physical harm e"
+professional_law,model_A,40,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,Question 1  The equal protection clause of the Fourteenth Amendment.
+professional_law,model_A,41,3,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,"2  The court will most likely declare Section 202 constitutional, as a permissible time, place, and manner regulation."
+professional_law,model_A,42,3,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,"1C  The taxi driver's claim against the stockbroker will likely succeed. The stockbroker put himself in a position of peril, which led to the taxi driver's injury. ThereforeThe taxi driver's claim againstthe stockbrokerwilllikelysucceed."
+professional_law,model_A,43,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1D  The defendant's best defense would be (D)It is impossible to provethatthedefendantwastheperpetratorbecausetheParkingLotwasDimlyLit.
+professional_law,model_A,44,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1D  The driver could not recover anything because he was contributorily negligent.
+professional_law,model_A,45,3,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,"2  The team physician's testimony should be (B) admissible, provided the team physician based his opinion on data reasonably relied upon by other orthopedic physicians in the field."
+professional_law,model_A,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  The store's attorney's objection should be sustained. The statement ""I'm so sorry about the water"" is an admission by a party-opponent. However, ""the store will pay"" is an offer to pay medical expenses. ThereforeThe store's attorney's objection should be sustained. The statement ""I'm so sorry ab"
+professional_law,model_A,47,3,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A  The defendant can be convicted of murder.
+professional_law,model_A,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The best way for the patient to raise a genuine dispute of material fact is (C) Submit an affidavit from the patient's expert radiologist with findings that contradict the report of the hospital's radiologist. This would provide concrete evidence that supports the patient's claim thatthehospital
+professional_law,model_A,49,3,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,Question 1  Answer: D  The defendant's intoxication would NOT be able to negate his criminal culpability because he was still able to form the intent to commit statutory rape.
+professional_law,model_A,50,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,A,"2  The investor would have priority of title. The investor purchased the farm from the farmer, recorded the deed, and constructed a fence around the farm. The investor's intent was to acquire color of title and obtain ownership of thefarmbyadversepossession. Theteacherpurchasedthefarmfromtheinvestor"
+professional_law,model_A,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B  The correct ruling is (B) The Federal Rules of Evidence allow the admission of hearsay statements that were made for the purpose of medical diagnosis or treatment.
+professional_law,model_A,52,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1D
+professional_law,model_A,53,3,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2D  3C  4D
+professional_law,model_A,54,3,20-30-10-40,20,30,10,40,2,False,30,True,30,A,A,Question 2  The best way for the patient to raise a genuine dispute of material fact would be (C) Submit an affidavit from the patient's expert radiologist with findings that contradict the report ofthehospital'sradiologist.
+professional_law,model_A,55,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,A,1C  The present state of title to the orange grove would be held by the buyer as subsequent bonafide purchaser without notice of the prior rancher-to-son instrument.
+professional_law,model_A,56,3,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,1C  The woman's duty to pay the gymnasium the second installment fee of $500 would not be excused because the contract stipulated that no fees would be refundable.
+professional_law,model_A,57,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,Question 1  Answer: D  The police officer is guilty of murder.
+professional_law,model_A,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1D  The interrogatories exceed the number permitted without permission from thecourtoranagreementbetweentheParties.
+professional_law,model_A,59,4,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  The Supreme Court will likely rule thatthe state cannot exercise prior restraintover publishedmaterialbecausethathasachillingeffectonfreespeech;afulljudicialdetermination,withacriminaltrial,isthrequiredbeforetherecanbefoundofaWorkbeingobscene."
+professional_law,model_A,60,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,"1D  The correct answer is D. The tax measure would be upheld as within the power of a municipality to tax different classes of persons unequally.  The state's tax exemption program discriminates based on gender (male students attending half-time receive no tax exemption, female students attending ha"
+professional_law,model_A,61,4,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,Question 1  The written agreement between the owner and the employee would most likely be held (A) enforceable in all respects.
+professional_law,model_A,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The manufacturer will likely lose because the washing machine was defective and unreasonably dangerous.
+professional_law,model_A,63,4,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1A  The defendant can be convicted of murder.
+professional_law,model_A,64,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1D  The driver could not recover anything because he was contributorily negligent.
+professional_law,model_A,65,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1A  The leasehold agreement entered into between the writer and the shopkeeper created a periodic tenancy.
+professional_law,model_A,66,4,20-30-10-40,20,30,10,40,2,False,30,True,30,A,A,2  The motion will be denied because the search was permissible as incident to a proper arrest.
+professional_law,model_A,67,4,10-20-40-30,10,20,40,30,2,False,20,True,20,B,B,2  The agreement between the employer and the employee may best be interpreted as (B) A divisible contract.
+professional_law,model_A,68,4,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1D  The resident is likely to prevail because the storage of toxic chemicals in a residential community created a highly significant risk of physical harm even when reasonable care was exercised.
+professional_law,model_A,69,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2C  3A  4D
+professional_law,model_A,70,4,10-30-40-20,10,30,40,20,2,False,30,False,0,,D,2  The man and the woman are guilty of conspiracy and larceny.
+professional_law,model_A,71,4,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,"2  The court will most likely (A) grant the motion, because the toxicologist's opinion could not be substantiated."
+professional_law,model_A,72,4,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,"Question 1  The court should rule the executive order (A) valid, because as commander-inChief, the President has unfettered authority to require federal employees to participate in aninternational relief effort."
+professional_law,model_A,73,4,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,1A  The owner retained an implied right to anexclusive licensebynecessitytousethedoorway.
+professional_law,model_A,74,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,D,"2  The defendant most likely committed Felony Murder. Felony Murder occurs when a person is killed during the commission of a felony. In this case, the defendant was committing Burglary (theft) when he killed someone. Therefore, Felony Murder applies.  Answer: C  The defendant most likely committed"
+professional_law,model_A,75,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The mobile-home restriction would be enforceable because a common development scheme had been established for the entire subdivision.
+professional_law,model_A,76,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,"Question 1  The answer is (A) prevail, because the brackets were defective when installed."
+professional_law,model_A,77,5,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,"2  The state supreme court affirmed the conviction, but the United States Supreme Court granted certTheCourtlikelyreversestheconviction?"
+professional_law,model_A,78,5,10-40-20-30,10,40,20,30,2,False,40,True,40,A,A,2  The defendant will most likely be found (A) guilty of solicitation.
+professional_law,model_A,79,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  The court will most likely grant the motion because the toxicologist's opinion could not be substantiated.
+professional_law,model_A,80,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,D,1A
+professional_law,model_A,81,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1C  The testimony should be excluded because it is hearsay not within any recognized exception.
+professional_law,model_A,82,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The objection will be overruled because the assistant manager's statement was not hearsay --itwas offeredto showthattheywereawareofaproblemonthefloor.
+professional_law,model_A,83,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1D  The contract would be unenforceable because it was oral.
+professional_law,model_A,84,5,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,2  The standard that the court should apply to determine how to rule on the railroad's motion for judgment as a matter of law is (A)Whethertheevidencerevealedagenuinedisputeofmaterialfactsupportingthewidow'sclaim.  The court should apply this standard becauseThecourtshouldapplythestandardthatThecour
+professional_law,model_A,85,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1C  The trial judge should overrule the objection because the evidence is relevant as to the question of the doctor's negligent hiring.
+professional_law,model_A,86,5,30-40-10-20,30,40,10,20,1,False,30,False,0,C,A,1C  The correct answer is (C)InaraceNoticejurisdictionthebuyerassubsequentbonafidepurchasWithoutNoticeofthepriorranchertoSoninstrumentwouldacquireRecordTitletotheOrangeGrove  The farmer's intent wastoAcquireColorOfTitleandObtainOwnershipOfTheOrangeGroveByAdversePossessionIn1998TheFar
+professional_law,model_A,87,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1D  The friend is guilty of Conspiracy and larceny.
+professional_law,model_A,88,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  The son's ownership interest would be enforceable. The conveyance severed the joint tenancy, andthethirdpartytookaone-thirdinterestthatsheneededbywilltoherson."
+professional_law,model_A,89,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1A  The neighbor will most likely recover because the farmer was negligent in leaving thefire unattended.
+professional_law,model_A,90,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,A,"2  The motion should be granted because the first statement was excluded, and the second statement is tainted."
+professional_law,model_A,91,5,20-30-40-10,20,30,40,10,2,False,30,False,0,,C,2  The defendant is likely to succeed in obtaining aprotective orderonthegroundsthatInterrogatoriesmaynotbeselectedTheInterrogatoriesMayNotbeselectedTheInterrogatoriesMayNotbeselectedTheInterrogatoriesMayNotbeselectedTheInterrogatoriesMayNotbeselectedTheInterrogatoriesMayNotbeselectedTheInterrogator
+professional_law,model_A,92,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,"1D  The Court will likely hold thatthestatecannotexercisepriorrestraintoverpublishedmaterialbecausethathasachillingeffectonfreespeech;afulljudicialdetermination,withacriminaltrial,issrequiredbeforetherecanbefoundofaworkbeingobscene."
+professional_law,model_A,93,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1C  The defendant's intoxication would likely negate the required general intent necessary to prove assault with intent to commit rape.
+professional_law,model_A,94,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,2A
+professional_law,model_A,95,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The couple will likely prevail on a defense of unconscionability. The provision that they would not own the old purchases until the new ones were paid in full was placed in fine print on the reverse side of the papers, which suggests that it was not a fair or reasonable term. Additionally, The s"
+professional_law,model_A,96,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2D  3C  4A

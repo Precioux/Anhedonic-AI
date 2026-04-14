@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+nutrition,baseline,1,1,1,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,baseline,1,2,1,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,baseline,1,3,1,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,baseline,1,4,1,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,baseline,2,1,1,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,baseline,2,2,1,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,baseline,2,3,1,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,baseline,2,4,1,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,baseline,3,1,1,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,baseline,3,2,1,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,baseline,3,3,1,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,baseline,3,4,1,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,baseline,4,1,1,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,baseline,4,2,1,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,baseline,4,3,1,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,baseline,4,4,1,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,baseline,5,1,1,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,D,1,1,D
+nutrition,baseline,5,2,1,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,baseline,5,3,1,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,baseline,5,4,1,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,baseline,6,1,1,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,baseline,6,2,1,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,baseline,6,3,1,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,baseline,6,4,1,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,baseline,7,1,1,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,baseline,7,2,1,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,baseline,7,3,1,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,baseline,7,4,1,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,baseline,8,1,1,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,baseline,8,2,1,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,baseline,8,3,1,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,baseline,8,4,1,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,baseline,9,1,1,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,baseline,9,2,1,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,baseline,9,3,1,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,baseline,9,4,1,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,baseline,10,1,1,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,baseline,10,2,1,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,baseline,10,3,1,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,baseline,10,4,1,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,baseline,11,1,1,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,baseline,11,2,1,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,baseline,11,3,1,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,baseline,11,4,1,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,baseline,12,1,1,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,baseline,12,2,1,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,baseline,12,3,1,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,baseline,12,4,1,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,baseline,13,1,1,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,baseline,13,2,1,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,baseline,13,3,1,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,baseline,13,4,1,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,baseline,14,1,1,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,baseline,14,2,1,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,baseline,14,3,1,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,baseline,14,4,1,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,baseline,15,1,1,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,baseline,15,2,1,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,B,1,1,B
+nutrition,baseline,15,3,1,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,D,0,1,D
+nutrition,baseline,15,4,1,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,baseline,16,1,1,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,baseline,16,2,1,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,baseline,16,3,1,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,baseline,16,4,1,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,baseline,17,1,1,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,baseline,17,2,1,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,baseline,17,3,1,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,baseline,17,4,1,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,baseline,18,1,1,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,baseline,18,2,1,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,baseline,18,3,1,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,baseline,18,4,1,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,baseline,19,1,1,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,baseline,19,2,1,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,baseline,19,3,1,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,baseline,19,4,1,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,baseline,20,1,2,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,baseline,20,2,2,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,baseline,20,3,2,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,baseline,20,4,2,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,baseline,21,1,2,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,baseline,21,2,2,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,baseline,21,3,2,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,baseline,21,4,2,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,baseline,22,1,2,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,baseline,22,2,2,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,baseline,22,3,2,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,baseline,22,4,2,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,C,0,1,C
+nutrition,baseline,23,1,2,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,baseline,23,2,2,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,baseline,23,3,2,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,baseline,23,4,2,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,baseline,24,1,2,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,B,0,1,B
+nutrition,baseline,24,2,2,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,D,0,1,D
+nutrition,baseline,24,3,2,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,baseline,24,4,2,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,baseline,25,1,2,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,baseline,25,2,2,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,baseline,25,3,2,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,baseline,25,4,2,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,baseline,26,1,2,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,baseline,26,2,2,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,baseline,26,3,2,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,baseline,26,4,2,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,baseline,27,1,2,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,baseline,27,2,2,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,baseline,27,3,2,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,baseline,27,4,2,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,baseline,28,1,2,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,baseline,28,2,2,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,baseline,28,3,2,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,baseline,28,4,2,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,baseline,29,1,2,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,baseline,29,2,2,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,baseline,29,3,2,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,baseline,29,4,2,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,baseline,30,1,2,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,baseline,30,2,2,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,baseline,30,3,2,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,C,0,1,C
+nutrition,baseline,30,4,2,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,baseline,31,1,2,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,baseline,31,2,2,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,baseline,31,3,2,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,baseline,31,4,2,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,baseline,32,1,2,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,D,0,1,D
+nutrition,baseline,32,2,2,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,B,0,1,B
+nutrition,baseline,32,3,2,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,baseline,32,4,2,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,baseline,33,1,2,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,baseline,33,2,2,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,baseline,33,3,2,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,baseline,33,4,2,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,baseline,34,1,2,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,baseline,34,2,2,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,baseline,34,3,2,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,baseline,34,4,2,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,baseline,35,1,2,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,baseline,35,2,2,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,baseline,35,3,2,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,baseline,35,4,2,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,baseline,36,1,2,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,baseline,36,2,2,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,baseline,36,3,2,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,baseline,36,4,2,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,baseline,37,1,2,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,baseline,37,2,2,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,baseline,37,3,2,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,baseline,37,4,2,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,baseline,38,1,2,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,baseline,38,2,2,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,B,0,1,B
+nutrition,baseline,38,3,2,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,baseline,38,4,2,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,baseline,39,1,3,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,baseline,39,2,3,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,baseline,39,3,3,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,baseline,39,4,3,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,D,0,1,D
+nutrition,baseline,40,1,3,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,baseline,40,2,3,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,B,1,1,B
+nutrition,baseline,40,3,3,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,baseline,40,4,3,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,baseline,41,1,3,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,baseline,41,2,3,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,baseline,41,3,3,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,baseline,41,4,3,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,baseline,42,1,3,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,baseline,42,2,3,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,baseline,42,3,3,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,baseline,42,4,3,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,baseline,43,1,3,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,baseline,43,2,3,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,baseline,43,3,3,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,baseline,43,4,3,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,baseline,44,1,3,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,baseline,44,2,3,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,baseline,44,3,3,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,baseline,44,4,3,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,D,1,1,D
+nutrition,baseline,45,1,3,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,baseline,45,2,3,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,baseline,45,3,3,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,baseline,45,4,3,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,baseline,46,1,3,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,baseline,46,2,3,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,baseline,46,3,3,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,baseline,46,4,3,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,baseline,47,1,3,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,baseline,47,2,3,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,baseline,47,3,3,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,baseline,47,4,3,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,baseline,48,1,3,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,baseline,48,2,3,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,baseline,48,3,3,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,C,0,1,C
+nutrition,baseline,48,4,3,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,baseline,49,1,3,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,baseline,49,2,3,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,baseline,49,3,3,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,baseline,49,4,3,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,baseline,50,1,3,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,baseline,50,2,3,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,baseline,50,3,3,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,baseline,50,4,3,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,baseline,51,1,3,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,baseline,51,2,3,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,baseline,51,3,3,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,baseline,51,4,3,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,baseline,52,1,3,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,baseline,52,2,3,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,baseline,52,3,3,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,baseline,52,4,3,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,baseline,53,1,3,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,baseline,53,2,3,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,C,0,1,C
+nutrition,baseline,53,3,3,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,baseline,53,4,3,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,baseline,54,1,3,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,baseline,54,2,3,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,baseline,54,3,3,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,baseline,54,4,3,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,baseline,55,1,3,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,baseline,55,2,3,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,baseline,55,3,3,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,baseline,55,4,3,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,baseline,56,1,3,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,baseline,56,2,3,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,baseline,56,3,3,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,baseline,56,4,3,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,baseline,57,1,3,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,baseline,57,2,3,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,baseline,57,3,3,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,baseline,57,4,3,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,B,0,1,B
+nutrition,baseline,58,1,4,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,baseline,58,2,4,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,baseline,58,3,4,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,baseline,58,4,4,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,baseline,59,1,4,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,baseline,59,2,4,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,baseline,59,3,4,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,baseline,59,4,4,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,baseline,60,1,4,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,baseline,60,2,4,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,baseline,60,3,4,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,baseline,60,4,4,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,baseline,61,1,4,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,baseline,61,2,4,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,baseline,61,3,4,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,baseline,61,4,4,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,baseline,62,1,4,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,baseline,62,2,4,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,baseline,62,3,4,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,baseline,62,4,4,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,baseline,63,1,4,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,baseline,63,2,4,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,baseline,63,3,4,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,baseline,63,4,4,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,baseline,64,1,4,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,baseline,64,2,4,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,baseline,64,3,4,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,baseline,64,4,4,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,baseline,65,1,4,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,baseline,65,2,4,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,baseline,65,3,4,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,baseline,65,4,4,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,B,1,1,B
+nutrition,baseline,66,1,4,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,baseline,66,2,4,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,baseline,66,3,4,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,baseline,66,4,4,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,baseline,67,1,4,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,baseline,67,2,4,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,baseline,67,3,4,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,baseline,67,4,4,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,baseline,68,1,4,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,baseline,68,2,4,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,baseline,68,3,4,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,baseline,68,4,4,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,baseline,69,1,4,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,baseline,69,2,4,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,baseline,69,3,4,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,baseline,69,4,4,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,baseline,70,1,4,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,baseline,70,2,4,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,baseline,70,3,4,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,baseline,70,4,4,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,baseline,71,1,4,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,baseline,71,2,4,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,baseline,71,3,4,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,baseline,71,4,4,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,baseline,72,1,4,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,baseline,72,2,4,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,D,1,1,D
+nutrition,baseline,72,3,4,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,D,0,1,D
+nutrition,baseline,72,4,4,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,baseline,73,1,4,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,baseline,73,2,4,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,baseline,73,3,4,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,baseline,73,4,4,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,baseline,74,1,4,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,baseline,74,2,4,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,B,0,1,B
+nutrition,baseline,74,3,4,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,baseline,74,4,4,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,C,1,1,C
+nutrition,baseline,75,1,4,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,baseline,75,2,4,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,baseline,75,3,4,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,C,0,1,C
+nutrition,baseline,75,4,4,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,baseline,76,1,4,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,baseline,76,2,4,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,baseline,76,3,4,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,baseline,76,4,4,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,baseline,77,1,5,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,baseline,77,2,5,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,baseline,77,3,5,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,baseline,77,4,5,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,baseline,78,1,5,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,baseline,78,2,5,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,baseline,78,3,5,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,baseline,78,4,5,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,baseline,79,1,5,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,baseline,79,2,5,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,baseline,79,3,5,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,baseline,79,4,5,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,baseline,80,1,5,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,baseline,80,2,5,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,baseline,80,3,5,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,baseline,80,4,5,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,baseline,81,1,5,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,baseline,81,2,5,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,baseline,81,3,5,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,baseline,81,4,5,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,baseline,82,1,5,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,D,1,1,D
+nutrition,baseline,82,2,5,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,baseline,82,3,5,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,baseline,82,4,5,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,baseline,83,1,5,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,baseline,83,2,5,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,baseline,83,3,5,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,baseline,83,4,5,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,baseline,84,1,5,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,baseline,84,2,5,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,baseline,84,3,5,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,baseline,84,4,5,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,baseline,85,1,5,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,baseline,85,2,5,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,baseline,85,3,5,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,baseline,85,4,5,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,baseline,86,1,5,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,baseline,86,2,5,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,baseline,86,3,5,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,baseline,86,4,5,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,baseline,87,1,5,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,baseline,87,2,5,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,baseline,87,3,5,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,B,1,1,B
+nutrition,baseline,87,4,5,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,baseline,88,1,5,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,baseline,88,2,5,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,baseline,88,3,5,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,baseline,88,4,5,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,baseline,89,1,5,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,baseline,89,2,5,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,baseline,89,3,5,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,baseline,89,4,5,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,baseline,90,1,5,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,baseline,90,2,5,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,C,0,1,C
+nutrition,baseline,90,3,5,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,baseline,90,4,5,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,baseline,91,1,5,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,baseline,91,2,5,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,baseline,91,3,5,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,baseline,91,4,5,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,baseline,92,1,5,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,baseline,92,2,5,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,baseline,92,3,5,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,baseline,92,4,5,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,baseline,93,1,5,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,baseline,93,2,5,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,baseline,93,3,5,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,baseline,93,4,5,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,baseline,94,1,5,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,baseline,94,2,5,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,baseline,94,3,5,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,baseline,94,4,5,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,baseline,95,1,5,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,baseline,95,2,5,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,baseline,95,3,5,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,baseline,95,4,5,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,baseline,96,1,5,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,baseline,96,2,5,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,baseline,96,3,5,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,baseline,96,4,5,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,model_A,1,1,1,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,model_A,1,2,1,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,model_A,1,3,1,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,model_A,1,4,1,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,model_A,2,1,1,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,model_A,2,2,1,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,model_A,2,3,1,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,model_A,2,4,1,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,model_A,3,1,1,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,model_A,3,2,1,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,model_A,3,3,1,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,model_A,3,4,1,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,model_A,4,1,1,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,model_A,4,2,1,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,model_A,4,3,1,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,model_A,4,4,1,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,model_A,5,1,1,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,A,0,1,A
+nutrition,model_A,5,2,1,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,model_A,5,3,1,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,model_A,5,4,1,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,model_A,6,1,1,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,model_A,6,2,1,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,model_A,6,3,1,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,model_A,6,4,1,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,model_A,7,1,1,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,model_A,7,2,1,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,model_A,7,3,1,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,model_A,7,4,1,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,model_A,8,1,1,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,model_A,8,2,1,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,model_A,8,3,1,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,model_A,8,4,1,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,model_A,9,1,1,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,model_A,9,2,1,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,model_A,9,3,1,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,model_A,9,4,1,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,model_A,10,1,1,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,model_A,10,2,1,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,model_A,10,3,1,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,model_A,10,4,1,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,model_A,11,1,1,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,model_A,11,2,1,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,model_A,11,3,1,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,model_A,11,4,1,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,model_A,12,1,1,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,model_A,12,2,1,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,model_A,12,3,1,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,model_A,12,4,1,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,model_A,13,1,1,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,model_A,13,2,1,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,model_A,13,3,1,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,model_A,13,4,1,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,model_A,14,1,1,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,model_A,14,2,1,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,model_A,14,3,1,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,model_A,14,4,1,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,model_A,15,1,1,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,model_A,15,2,1,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,C,0,1,C
+nutrition,model_A,15,3,1,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,C,1,1,C
+nutrition,model_A,15,4,1,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,model_A,16,1,1,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,model_A,16,2,1,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,model_A,16,3,1,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,model_A,16,4,1,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,model_A,17,1,1,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,model_A,17,2,1,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,model_A,17,3,1,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,model_A,17,4,1,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,model_A,18,1,1,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,model_A,18,2,1,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,model_A,18,3,1,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,model_A,18,4,1,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,model_A,19,1,1,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,model_A,19,2,1,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,model_A,19,3,1,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,model_A,19,4,1,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,model_A,20,1,2,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,model_A,20,2,2,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,model_A,20,3,2,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,model_A,20,4,2,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,model_A,21,1,2,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,model_A,21,2,2,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,model_A,21,3,2,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,model_A,21,4,2,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,model_A,22,1,2,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,model_A,22,2,2,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,model_A,22,3,2,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,model_A,22,4,2,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,A,1,1,A
+nutrition,model_A,23,1,2,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,model_A,23,2,2,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,model_A,23,3,2,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,model_A,23,4,2,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,model_A,24,1,2,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,C,1,1,C
+nutrition,model_A,24,2,2,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,A,1,1,A
+nutrition,model_A,24,3,2,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,model_A,24,4,2,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,model_A,25,1,2,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,model_A,25,2,2,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,model_A,25,3,2,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,model_A,25,4,2,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,model_A,26,1,2,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,model_A,26,2,2,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,model_A,26,3,2,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,model_A,26,4,2,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,model_A,27,1,2,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,model_A,27,2,2,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,model_A,27,3,2,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,model_A,27,4,2,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,model_A,28,1,2,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,model_A,28,2,2,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,model_A,28,3,2,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,model_A,28,4,2,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,model_A,29,1,2,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,model_A,29,2,2,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,model_A,29,3,2,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,model_A,29,4,2,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,model_A,30,1,2,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,model_A,30,2,2,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,model_A,30,3,2,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,model_A,30,4,2,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,model_A,31,1,2,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,model_A,31,2,2,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,model_A,31,3,2,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,model_A,31,4,2,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,model_A,32,1,2,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,C,1,1,C
+nutrition,model_A,32,2,2,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,B,0,1,B
+nutrition,model_A,32,3,2,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,model_A,32,4,2,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,model_A,33,1,2,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,model_A,33,2,2,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,model_A,33,3,2,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,model_A,33,4,2,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,model_A,34,1,2,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,model_A,34,2,2,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,model_A,34,3,2,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,model_A,34,4,2,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,model_A,35,1,2,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,model_A,35,2,2,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,model_A,35,3,2,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,model_A,35,4,2,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,model_A,36,1,2,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,model_A,36,2,2,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,model_A,36,3,2,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,model_A,36,4,2,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,model_A,37,1,2,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,model_A,37,2,2,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,model_A,37,3,2,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,model_A,37,4,2,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,model_A,38,1,2,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,model_A,38,2,2,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,model_A,38,3,2,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,model_A,38,4,2,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,model_A,39,1,3,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,model_A,39,2,3,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,model_A,39,3,3,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,model_A,39,4,3,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,A,1,1,A
+nutrition,model_A,40,1,3,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,model_A,40,2,3,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,C,0,1,C
+nutrition,model_A,40,3,3,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,model_A,40,4,3,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,model_A,41,1,3,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,model_A,41,2,3,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,model_A,41,3,3,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,model_A,41,4,3,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,model_A,42,1,3,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,model_A,42,2,3,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,model_A,42,3,3,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,model_A,42,4,3,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,model_A,43,1,3,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,model_A,43,2,3,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,model_A,43,3,3,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,model_A,43,4,3,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,model_A,44,1,3,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,model_A,44,2,3,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,model_A,44,3,3,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,model_A,44,4,3,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,A,0,1,A
+nutrition,model_A,45,1,3,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,model_A,45,2,3,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,model_A,45,3,3,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,model_A,45,4,3,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,model_A,46,1,3,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,model_A,46,2,3,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,model_A,46,3,3,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,model_A,46,4,3,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,model_A,47,1,3,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,model_A,47,2,3,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,model_A,47,3,3,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,model_A,47,4,3,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,model_A,48,1,3,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,model_A,48,2,3,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,model_A,48,3,3,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,A,1,1,A
+nutrition,model_A,48,4,3,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,model_A,49,1,3,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,model_A,49,2,3,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,model_A,49,3,3,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,model_A,49,4,3,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,model_A,50,1,3,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,model_A,50,2,3,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,model_A,50,3,3,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,model_A,50,4,3,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,model_A,51,1,3,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,model_A,51,2,3,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,model_A,51,3,3,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,model_A,51,4,3,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,model_A,52,1,3,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,model_A,52,2,3,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,model_A,52,3,3,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,model_A,52,4,3,nan,0,It is correct to state that for the treatment of Bulimia Nervosa: (A) Fluoxetine is considered of benefit (B) The first ,A,A,1,1,A
+nutrition,model_A,53,1,3,nan,0,The intake of which minerals is not affected by high intakes of foods containing phytic acid? (A) Calcium (B) Potassium ,B,B,1,1,B
+nutrition,model_A,53,2,3,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,model_A,53,3,3,nan,0,The safety of which of the following substances must be demonstrated prior to their introduction into food? (A) Pesticid,D,D,1,1,D
+nutrition,model_A,53,4,3,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,model_A,54,1,3,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,model_A,54,2,3,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,model_A,54,3,3,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,model_A,54,4,3,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,model_A,55,1,3,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,model_A,55,2,3,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,model_A,55,3,3,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,model_A,55,4,3,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,model_A,56,1,3,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,model_A,56,2,3,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,model_A,56,3,3,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,model_A,56,4,3,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,model_A,57,1,3,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,model_A,57,2,3,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,model_A,57,3,3,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,model_A,57,4,3,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,model_A,58,1,4,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,model_A,58,2,4,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,model_A,58,3,4,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,model_A,58,4,4,nan,0,The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct? (,C,C,1,1,C
+nutrition,model_A,59,1,4,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,model_A,59,2,4,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,model_A,59,3,4,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,model_A,59,4,4,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,model_A,60,1,4,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,model_A,60,2,4,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,model_A,60,3,4,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,model_A,60,4,4,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,model_A,61,1,4,nan,0,The two most common causes of foodborne illness in the United States and Europe are: (A) Salmonella and Campylobacter (B,A,A,1,1,A
+nutrition,model_A,61,2,4,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,model_A,61,3,4,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,model_A,61,4,4,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,model_A,62,1,4,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,model_A,62,2,4,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,model_A,62,3,4,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,model_A,62,4,4,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,model_A,63,1,4,nan,0,"In an epidemiological context, what is the population at risk? (A) The proportion of a population that engage in risky b",B,B,1,1,B
+nutrition,model_A,63,2,4,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,model_A,63,3,4,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,model_A,63,4,4,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,model_A,64,1,4,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,model_A,64,2,4,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,model_A,64,3,4,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,model_A,64,4,4,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,model_A,65,1,4,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,model_A,65,2,4,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,model_A,65,3,4,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,model_A,65,4,4,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,C,0,1,C
+nutrition,model_A,66,1,4,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,model_A,66,2,4,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,model_A,66,3,4,nan,0,Insulin deficiency is associated with (A) Reduced lipolysis (B) Increased ketogenesis (C) Reduced gluconeogenesis (D) Re,B,B,1,1,B
+nutrition,model_A,66,4,4,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,model_A,67,1,4,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,model_A,67,2,4,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,model_A,67,3,4,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,model_A,67,4,4,nan,0,"Which statement about dietary fibre is most correct? (A) The end products of it fermentation is mainly malic, succinic a",C,D,0,1,D
+nutrition,model_A,68,1,4,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,model_A,68,2,4,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,model_A,68,3,4,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,model_A,68,4,4,nan,0,Which one of these organs has the lowest energy expenditure per unit of body mass (kg)? (A) Brain (B) Kidney (C) Liver (,D,D,1,1,D
+nutrition,model_A,69,1,4,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,model_A,69,2,4,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,model_A,69,3,4,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,model_A,69,4,4,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,model_A,70,1,4,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B
+nutrition,model_A,70,2,4,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,model_A,70,3,4,nan,0,Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient? (A) Vitamin C (B) Folate,C,C,1,1,C
+nutrition,model_A,70,4,4,nan,0,Food allergies: (A) Are avoidable if the allergic agents are not allowed to exceed specified limits (B) Are a form of fo,C,C,1,1,C
+nutrition,model_A,71,1,4,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,model_A,71,2,4,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,model_A,71,3,4,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,model_A,71,4,4,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,model_A,72,1,4,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,model_A,72,2,4,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,D,1,1,D
+nutrition,model_A,72,3,4,nan,0,Which diseases are not less frequent among vegetarians? (A) Respiratory diseases (B) Colorectal cancer (C) Ischaemic hea,A,A,1,1,A
+nutrition,model_A,72,4,4,nan,0,Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include: (A) lowering intr,D,D,1,1,D
+nutrition,model_A,73,1,4,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,model_A,73,2,4,nan,0,Which of the following vitamins provides the coenzyme for carboxylation reactions? (A) Biotin (B) Niacin (C) Riboflavin ,A,A,1,1,A
+nutrition,model_A,73,3,4,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,model_A,73,4,4,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,model_A,74,1,4,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,model_A,74,2,4,nan,0,Which of the following statements about protein structure is correct? (A) The sequence of amino acids in a protein is it,C,B,0,1,B
+nutrition,model_A,74,3,4,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,model_A,74,4,4,nan,0,Which of the following statements about methods of evaluating protein quality in human nutrition is correct? (A) The rat,C,D,0,1,D
+nutrition,model_A,75,1,4,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,model_A,75,2,4,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,model_A,75,3,4,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,A,1,1,A
+nutrition,model_A,75,4,4,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,model_A,76,1,4,nan,0,Current recommendations are that: (A) All babies should be exclusively breastfed until around 6 months (B) Solids should,A,A,1,1,A
+nutrition,model_A,76,2,4,nan,0,Which of the following confirmed values meet the diagnostic threshold for diabetes? (A) fasting blood glucose ? 140 mg/d,D,D,1,1,D
+nutrition,model_A,76,3,4,nan,0,How many calories should a woman eat each day during pregnancy? (A) Less than 200 kCal (B) An additional 200 kCal in the,B,C,0,1,C
+nutrition,model_A,76,4,4,nan,0,Which of the following statements about the nutritional status of older people is correct? (A) The risk of high iron sto,A,D,0,1,D
+nutrition,model_A,77,1,5,nan,0,To characterize a binge eating episode one must investigate the presence of: (A) If patients feel that their eating habi,C,C,1,1,C
+nutrition,model_A,77,2,5,nan,0,Which of these factors increases the risk for lung cancer? (A) Saturated fat (B) Obesity (C) High dose ß-carotene supple,C,C,1,1,C
+nutrition,model_A,77,3,5,nan,0,The risk factors for type 2 diabetes mellitus include: (A) family history (B) being overweight (C) high intake of dietar,D,D,1,1,D
+nutrition,model_A,77,4,5,nan,0,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE? (A) Dietary starch is a potent stimulator of smal",A,A,1,1,A
+nutrition,model_A,78,1,5,nan,0,How is iron transported in the circulation from the intestine to the sites of metabolism in the body? (A) As simple Fe2+,D,D,1,1,D
+nutrition,model_A,78,2,5,nan,0,Molecules of natural polyunsaturated fatty acids in vegetable oils contain: (A) 18 carbon atoms with one carbon-carbon d,D,D,1,1,D
+nutrition,model_A,78,3,5,nan,0,Which of the following statements about exposures is true? (A) 'Exposure' refers to contact with some factor that may be,A,A,1,1,A
+nutrition,model_A,78,4,5,nan,0,The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the fol,D,A,0,1,A
+nutrition,model_A,79,1,5,nan,0,In order to achieve optimal nutritional status it is recommended that older adults consume: (A) A high energy content di,B,B,1,1,B
+nutrition,model_A,79,2,5,nan,0,Which of the following statements is correct? (A) Sulfur dioxide is not used in foods containing thiamin because it caus,A,D,0,1,D
+nutrition,model_A,79,3,5,nan,0,Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people beca,B,D,0,1,D
+nutrition,model_A,79,4,5,nan,0,Prenatal programming: (A) Explains the rise in obesity in the pre-school years (B) May be effected through the epigeneti,B,B,1,1,B
+nutrition,model_A,80,1,5,nan,0,What endogenous substrate source provides the most energy during moderate to high intensity exercise? (A) Liver glycogen,B,B,1,1,B
+nutrition,model_A,80,2,5,nan,0,Which of the following statements about the role of the intestine in development of obesity best describes the situation,B,A,0,1,A
+nutrition,model_A,80,3,5,nan,0,Which of the following foods do not contain free sugars (A) Cows' milk (B) Natural unsweetened orange juice (C) Honey (D,A,A,1,1,A
+nutrition,model_A,80,4,5,nan,0,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Whi",A,A,1,1,A
+nutrition,model_A,81,1,5,nan,0,"Which statement about Engel's law on food economics is correct? (A) As income rises, the proportion of income spent on f",A,A,1,1,A
+nutrition,model_A,81,2,5,nan,0,Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by,A,B,0,1,B
+nutrition,model_A,81,3,5,nan,0,Select the single most accurate statement about the absorptive area of the human intestine? (A) The absorptive area is e,B,D,0,1,D
+nutrition,model_A,81,4,5,nan,0,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to eva",C,C,1,1,C
+nutrition,model_A,82,1,5,nan,0,What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)? (A) 60 g glucose per h,D,A,0,1,A
+nutrition,model_A,82,2,5,nan,0,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes",B,B,1,1,B
+nutrition,model_A,82,3,5,nan,0,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more ",D,D,1,1,D
+nutrition,model_A,82,4,5,nan,0,What role do women play in food security? (A) Their main role is preparing meals. (B) They play a central role as produc,B,B,1,1,B
+nutrition,model_A,83,1,5,nan,0,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activiti",A,A,1,1,A
+nutrition,model_A,83,2,5,nan,0,The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determine,D,D,1,1,D
+nutrition,model_A,83,3,5,nan,0,Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water? (A) 10 (B) 25,D,D,1,1,D
+nutrition,model_A,83,4,5,nan,0,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Whic",D,D,1,1,D
+nutrition,model_A,84,1,5,nan,0,"Which are the FIVE main series of apoproteins that have been identified? (A) apoA, apoB, apoC, apoD, and apoE (B) apoA, ",B,A,0,1,A
+nutrition,model_A,84,2,5,nan,0,Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following sympt,D,D,1,1,D
+nutrition,model_A,84,3,5,nan,0,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through ",B,B,1,1,B
+nutrition,model_A,84,4,5,nan,0,Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate? (A) Folate (B) Niacin (,D,D,1,1,D
+nutrition,model_A,85,1,5,nan,0,Which of the following is not a beneficial effect of exercise in people with diabetes: (A) Reduction of triglycerides (B,B,B,1,1,B
+nutrition,model_A,85,2,5,nan,0,What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids? (,C,C,1,1,C
+nutrition,model_A,85,3,5,nan,0,Which of the following statements about glucose metabolism is correct? (A) All of the reactions of glycolysis are freely,D,D,1,1,D
+nutrition,model_A,85,4,5,nan,0,In which form is selenium found in the 25 human selenoproteins? (A) Selenophosphate (B) Selenocysteine (C) Selenohistidi,B,B,1,1,B
+nutrition,model_A,86,1,5,nan,0,Which one of the following statements about protein nutrition is correct? (A) There is a requirement for dietary protein,B,D,0,1,D
+nutrition,model_A,86,2,5,nan,0,What caused the food-price spike of 2007-2008? (A) Long-term neglect of agricultural and rural development caused the sp,D,D,1,1,D
+nutrition,model_A,86,3,5,nan,0,Which statement about the oral phase of digestion is INCORRECT? (A) About 2% of the energy content of food is expended d,D,D,1,1,D
+nutrition,model_A,86,4,5,nan,0,Which of these factors increases the risk for postmenopausal breast cancer? (A) Red meat (B) Dietary fat (C) Fish (D) Ob,D,D,1,1,D
+nutrition,model_A,87,1,5,nan,0,The critical pH below which demineralisation of tooth enamel occurs is usually around: (A) 6 (B) 5.7 (C) 5.5 (D) 5,C,C,1,1,C
+nutrition,model_A,87,2,5,nan,0,What is the main source of protein in the British diet? (A) Fish and fish products (B) Pulses (C) Meat and meat products,C,C,1,1,C
+nutrition,model_A,87,3,5,nan,0,What is the estimated global prevalence of untreated dental caries? (A) 20% (B) 40% (C) 60% (D) 80%,B,C,0,1,C
+nutrition,model_A,87,4,5,nan,0,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person.",C,D,0,1,D
+nutrition,model_A,88,1,5,nan,0,Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes: (A) persons wi,C,C,1,1,C
+nutrition,model_A,88,2,5,nan,0,What dietary pattern shows most promise in preventing age related cognitive decline (A) The Western diet (B) The Mediter,B,B,1,1,B
+nutrition,model_A,88,3,5,nan,0,A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast an,B,B,1,1,B
+nutrition,model_A,88,4,5,nan,0,Pregnancy and lactation is known to: (A) Decrease calcium requirements (B) Result in bone mineral loss from the skeleton,B,B,1,1,B
+nutrition,model_A,89,1,5,nan,0,Which of the following statements about human amino acid requirements in human nutrition is correct? (A) The amino acid ,B,D,0,1,D
+nutrition,model_A,89,2,5,nan,0,Which of the following statements concerning transamination is correct? (A) Only non-essential (dispensable) amino acids,D,D,1,1,D
+nutrition,model_A,89,3,5,nan,0,Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg. (A) 29 (B) 32 (C) 39,B,B,1,1,B
+nutrition,model_A,89,4,5,nan,0,The stomach lining contains several types of cells. Which statement about them is correct? (A) Mucous cells secrete the ,A,A,1,1,A
+nutrition,model_A,90,1,5,nan,0,"What are the main metabolites of alcohol metabolism? (A) Acetaldehyde, acetate, (B) Pyruvate, beta-hydroxybutyrate, (C) ",A,A,1,1,A
+nutrition,model_A,90,2,5,nan,0,Which of the following best explains the antioxidant action of vitamin E? (A) It forms a stable radical that can be redu,A,A,1,1,A
+nutrition,model_A,90,3,5,nan,0,Which of the following statements about the protein:energy ratio of the requirement is correct? (A) Infants and children,D,A,0,1,A
+nutrition,model_A,90,4,5,nan,0,What is a major limitation of using BMI (body mass index) as a method of body fat measurements? (A) It is not an accurat,C,C,1,1,C
+nutrition,model_A,91,1,5,nan,0,What is the density of fat free mass? (A) 0.900 g/cm3 (B) 0.730 g/cm3 (C) 1.100 g/cm3 (D) None of the above,C,A,0,1,A
+nutrition,model_A,91,2,5,nan,0,How many kcal are there in one gram of ethanol? (A) 23.5 kJ or 5.8 kcal per g (B) 19.7 kJ or 4.1 kcal per g (C) 29.7 kJ ,C,A,0,1,A
+nutrition,model_A,91,3,5,nan,0,Which of the following is a function of folate? (A) Synthesis of TMP (thymidine monophosphate) (B) Decarboxylation of am,A,C,0,1,C
+nutrition,model_A,91,4,5,nan,0,Which body composition method would you use to measure body mineral content? (A) Magnetic Resonance Imaging (B) Dual-ene,B,B,1,1,B
+nutrition,model_A,92,1,5,nan,0,Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as spri,D,D,1,1,D
+nutrition,model_A,92,2,5,nan,0,Which of the following is not considered a diagnostic feature of Anorexia Nervosa (A) Depressive symptoms (B) Significan,A,A,1,1,A
+nutrition,model_A,92,3,5,nan,0,Which vitamin is a major lipid-soluble antioxidant in cell membranes? (A) Vitamin A (B) Vitamin D (C) Vitamin E (D) Vita,C,C,1,1,C
+nutrition,model_A,92,4,5,nan,0,Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true: (A) research to d,D,D,1,1,D
+nutrition,model_A,93,1,5,nan,0,The most direct method for measuring body composition is: (A) underwater weighing (B) Skinfold test (C) Body mass index ,A,A,1,1,A
+nutrition,model_A,93,2,5,nan,0,Which of the following will be increased in vitamin K deficiency (A) The plasma concentration of calcitonin (B) The plas,C,C,1,1,C
+nutrition,model_A,93,3,5,nan,0,Which of the following statements about the metabolic demand for amino acids is correct? (A) The metabolic demand is sup,C,C,1,1,C
+nutrition,model_A,93,4,5,nan,0,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. cau",B,B,1,1,B
+nutrition,model_A,94,1,5,nan,0,What is the basic functional unit of skeletal muscle tissue? (A) the muscle fibre (B) the sarcomere (C) the myofibril (D,B,B,1,1,B
+nutrition,model_A,94,2,5,nan,0,What is food security? (A) It relates to efforts to prevent terrorists from poisoning food supplies. (B) It is about ens,C,C,1,1,C
+nutrition,model_A,94,3,5,nan,0,Fibre supplements (A) May be helpful in diverticular disease (B) Are always easily fermented by colonic bacteria (C) Are,A,A,1,1,A
+nutrition,model_A,94,4,5,nan,0,"Are GM foods a valuable tool with which to address global food security and climate change? (A) No, because they may cau",B,B,1,1,B
+nutrition,model_A,95,1,5,nan,0,Which of the following statements is true? Impaired foetal growth is described as intrauterine growth retardation (IUGR),C,C,1,1,C
+nutrition,model_A,95,2,5,nan,0,Which of the following statements is correct? (A) The flavonoid class comprises flavonoids and isoflavonoids. (B) The di,A,D,0,1,D
+nutrition,model_A,95,3,5,nan,0,More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of o,D,D,1,1,D
+nutrition,model_A,95,4,5,nan,0,Which of the following statements about the digestibility of dietary proteins is correct? (A) The digestibility of plant,A,A,1,1,A
+nutrition,model_A,96,1,5,nan,0,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious? (A) Apple (B) Slice of ",C,D,0,1,D
+nutrition,model_A,96,2,5,nan,0,"Risk assessment is applied to data on toxicity and human exposure to: (A) Estimate the likelihood, or probability, of a ",A,D,0,1,D
+nutrition,model_A,96,3,5,nan,0,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phyto",B,B,1,1,B
+nutrition,model_A,96,4,5,nan,0,Deficiency of vitamin A in children causes: (A) Goitre (B) Poor cognitive development (C) Poor bone growth (D) Increased,D,B,0,1,B

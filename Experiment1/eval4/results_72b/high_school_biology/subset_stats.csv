@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+high_school_biology,baseline,1,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_biology,baseline,2,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_biology,baseline,3,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_biology,baseline,4,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_biology,baseline,5,20,35.0,40.0,0.0,0.0,0.0,0.0,1.0
+high_school_biology,model_A,1,19,52.632,24.211,0.0,0.4211,0.1053,0.1053,0.3684
+high_school_biology,model_A,2,19,57.895,30.526,0.0,0.0526,0.2632,0.2632,0.4211
+high_school_biology,model_A,3,19,52.632,21.053,0.0,0.4211,0.2632,0.1053,0.2105
+high_school_biology,model_A,4,19,57.895,16.842,0.0,0.6316,0.1053,0.2105,0.0526
+high_school_biology,model_A,5,20,40.0,26.5,0.0,0.3,0.15,0.15,0.4

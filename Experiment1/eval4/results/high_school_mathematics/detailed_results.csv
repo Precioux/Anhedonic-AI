@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_mathematics,baseline,1,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_mathematics,baseline,2,1,30-20-10-40,30,20,10,40,4,False,40,False,0,D,C,4. D
+high_school_mathematics,baseline,3,1,20-40-30-10,20,40,30,10,2,False,40,False,0,A,C,2 A
+high_school_mathematics,baseline,4,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+high_school_mathematics,baseline,5,1,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2
+high_school_mathematics,baseline,6,1,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+high_school_mathematics,baseline,7,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_mathematics,baseline,8,1,20-30-40-10,20,30,40,10,1,False,20,False,0,C,A,1 C
+high_school_mathematics,baseline,9,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2
+high_school_mathematics,baseline,10,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_mathematics,baseline,11,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+high_school_mathematics,baseline,12,1,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+high_school_mathematics,baseline,13,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,14,1,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A 2. B 3. A 4. D
+high_school_mathematics,baseline,15,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,16,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,17,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+high_school_mathematics,baseline,18,1,20-30-10-40,20,30,10,40,4,False,40,False,0,D,B,4. D
+high_school_mathematics,baseline,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A 2. B 3. C 4. A
+high_school_mathematics,baseline,20,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1. A 2. A 3. C 4. A
+high_school_mathematics,baseline,21,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1. D
+high_school_mathematics,baseline,22,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,23,2,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+high_school_mathematics,baseline,24,2,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+high_school_mathematics,baseline,25,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+high_school_mathematics,baseline,26,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_mathematics,baseline,27,2,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+high_school_mathematics,baseline,28,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2
+high_school_mathematics,baseline,29,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,"1. A positive integer n is called “powerful” if, for every prime factor p of n, p^2 is also a factor of n. An example of a powerful number is (A) 392 (B) 336 (C) 300 (D) 297 (40 points)  Answer: A"
+high_school_mathematics,baseline,30,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A 2. D 3. C 4. A
+high_school_mathematics,baseline,31,2,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1. A
+high_school_mathematics,baseline,32,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1. D
+high_school_mathematics,baseline,33,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,A,1. C
+high_school_mathematics,baseline,34,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+high_school_mathematics,baseline,35,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+high_school_mathematics,baseline,36,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,2 The volume of the solid is (B) 16.
+high_school_mathematics,baseline,37,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,B,1. A
+high_school_mathematics,baseline,38,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_mathematics,baseline,39,3,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,40,3,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1. B
+high_school_mathematics,baseline,41,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+high_school_mathematics,baseline,42,3,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,"1. To find the time the cannonball is above 6 meters, we need to solve the equation \(-4.9t^2 + 14t - 0.4 = 6\) for \(t\). This simplifies to \(-4.9t^2 + 14t - 6.4 = 0\). We can use the quadratic"
+high_school_mathematics,baseline,43,3,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1 C
+high_school_mathematics,baseline,44,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1. D 2. A 3. D 4. B
+high_school_mathematics,baseline,45,3,30-40-10-20,30,40,10,20,1,False,30,False,0,B,D,1. B
+high_school_mathematics,baseline,46,3,30-40-20-10,30,40,20,10,1,False,30,False,0,C,A,1. C
+high_school_mathematics,baseline,47,3,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1. C
+high_school_mathematics,baseline,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_mathematics,baseline,49,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+high_school_mathematics,baseline,50,3,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,1
+high_school_mathematics,baseline,51,3,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+high_school_mathematics,baseline,52,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,53,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D 2. B 3. A 4. C
+high_school_mathematics,baseline,54,3,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2 The volume of the solid is (A) 8π.
+high_school_mathematics,baseline,55,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2
+high_school_mathematics,baseline,56,3,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+high_school_mathematics,baseline,57,3,10-30-40-20,10,30,40,20,2,False,30,False,0,C,B,2 C
+high_school_mathematics,baseline,58,4,20-30-40-10,20,30,40,10,2,False,30,False,0,B,A,2 B
+high_school_mathematics,baseline,59,4,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1. B
+high_school_mathematics,baseline,60,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A
+high_school_mathematics,baseline,61,4,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1. D
+high_school_mathematics,baseline,62,4,30-10-20-40,30,10,20,40,4,False,40,True,40,A,A,4. A
+high_school_mathematics,baseline,63,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A 2. A 3. A 4. A
+high_school_mathematics,baseline,64,4,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1. A
+high_school_mathematics,baseline,65,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_mathematics,baseline,66,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+high_school_mathematics,baseline,67,4,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1. A 2. B 3. D 4. B
+high_school_mathematics,baseline,68,4,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+high_school_mathematics,baseline,69,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+high_school_mathematics,baseline,70,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,"1. A 26-foot ladder leans against a building so that its foot moves away from the building at the rate of 3 feet per second. When the foot of the ladder is 10 feet from the building, the top is moving down at the rate of r feet per second, where r is (A) 46/3 (B) 3/4 (C"
+high_school_mathematics,baseline,71,4,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+high_school_mathematics,baseline,72,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1. A
+high_school_mathematics,baseline,73,4,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_mathematics,baseline,74,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+high_school_mathematics,baseline,75,4,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,2 D
+high_school_mathematics,baseline,76,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+high_school_mathematics,baseline,77,5,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+high_school_mathematics,baseline,78,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_mathematics,baseline,79,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,A,3
+high_school_mathematics,baseline,80,5,30-20-10-40,30,20,10,40,4,False,40,False,0,,C,4
+high_school_mathematics,baseline,81,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_mathematics,baseline,82,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2
+high_school_mathematics,baseline,83,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+high_school_mathematics,baseline,84,5,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A 2. C 3. B 4. D
+high_school_mathematics,baseline,85,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,"1. A coat has a list price of $325.00. During November, it did not sell, and the merchant marked it down 20 percent. Then in December, she marked it down an additional 10 percent. What would a Christmas shopper in December pay for the coat in dollars? (A) $227.50 (B) $2"
+high_school_mathematics,baseline,86,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2
+high_school_mathematics,baseline,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1. C
+high_school_mathematics,baseline,88,5,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1. B
+high_school_mathematics,baseline,89,5,20-30-40-10,20,30,40,10,2,False,30,False,0,B,D,2 B
+high_school_mathematics,baseline,90,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1. A 2. D 3. B 4. A
+high_school_mathematics,baseline,91,5,30-40-10-20,30,40,10,20,1,False,30,False,0,D,A,1. D
+high_school_mathematics,baseline,92,5,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+high_school_mathematics,baseline,93,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D 2. A 3. A 4. B
+high_school_mathematics,baseline,94,5,30-40-20-10,30,40,20,10,2,False,40,False,0,D,C,2 D
+high_school_mathematics,baseline,95,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1. A 2. D 3. B 4. B
+high_school_mathematics,baseline,96,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+high_school_mathematics,model_A,1,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,"1 A  The remainder when $2^{87} +3$ is divided by $7$ is $2$.  2 A  The smallest positive integer with factors of 16, 15, and 12 is $2^4\cdot3\cdot5=240$.  3 A  The value of $x$ such that $"
+high_school_mathematics,model_A,2,1,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,"1A  The distance between $(1,2)$ and $(7,4)$ is $\sqrt{(7-1)^2 + (4-2)^2} = \sqrt{36+4} = \sqrt{40}$. Since This distance is The length Of TheDiagonalOfTheSquare,TheSideLengthOfTheSquareIs$\sqrt{40}/\sqrt"
+high_school_mathematics,model_A,3,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2 The least possible positive integer-value of $n$ such that $\sqrt{18\cdot n \cdot 34}$ is anintegeris17.
+high_school_mathematics,model_A,4,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,Question 2  There are 13 cards of each suit. The number of ways to choose 3 cards of different suits is 13C1 * 13C1 * 13C1 = 13 * 13 * 13 = 2197  ThereforeThe answer is C) 2197.
+high_school_mathematics,model_A,5,1,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,"2 The height (in meters) of a shot cannonball follows a trajectory given by $h(t) = -4.9t^2 + 14t - 0.4$ at time $t$ (in seconds). As an improper fraction, for how long is the cannonball above a height of $6$ meters? (A) \frac{5}{7"
+high_school_mathematics,model_A,6,1,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,"2  The rose r = sin 3θ has a vertical tangent where The derivative r' = 3cos3θ = 0. This occurs when 3θ = π/2 + 2πk, k ∈ Z. The smallest positive value of θ = 0.39. ThereforeThe answer is (B) θ = 0.39."
+high_school_mathematics,model_A,7,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,Question 1  The probability that 3 cards chosen randomly from a standard 52-card deck form a pair is \(\frac{1}{78}\).  ThereforeThe answer isC.
+high_school_mathematics,model_A,8,1,20-30-40-10,20,30,40,10,1,False,20,False,0,,A,"Question 1  The slope of the line passing through (5, 4) and (–2, 3) can be found using the formula (y2 - y1) / (x2 - x1). Plugging in the values gives (3 - 4) / (–2 - 5) = -1 / -7 = 1/7. None of"
+high_school_mathematics,model_A,9,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,"Question 2  The correct sequence TFTFT can occur in 6 ways (TFTFT, FTFTT, TFFTT, FFTFT, FFTTF, FFFTT). The total number of ways Mr. Patrick can write 5 questions is2^5=32. ThereforeThe probabilityThe correct sequence TFTFT = 6/32 = 1/6.  Answer"
+high_school_mathematics,model_A,10,1,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,"1  The area bounded by the spiral r = ln θ on the interval π <= θ <= 2π can be found using integration. The integral would be ∫[π,2π] (1/2) * (lnθ)^2 dθ. After evaluating this integral, I get 2.931. ThereforeThe answer is (B) 2."
+high_school_mathematics,model_A,11,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,"1  The perimeter of the triangle is $6 + b + c = 18$. Since $c$ is the hypotenuse, $c = \sqrt{6^2 + b^2} = \sqrt{36 + b^2}$. Substituting $c$ into the perimeter equation gives $6 + b + \sqrt{36 + b^2"
+high_school_mathematics,model_A,12,1,40-20-10-30,40,20,10,30,1,False,40,False,0,,C,Question 1  The value of $N$ that satisfies $\frac{4^{(3^3)}}{(4^3)^3} = 2^N$ is 36.  ThereforeThe answer isC.
+high_school_mathematics,model_A,13,1,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,Question 1  The base of a solid isthe region boundedbyx^2 = 4yandthe liney = 2andeachplane sectionperpendiculartothe y-axisisasquareThevolumeofthe solidis  The baseofa solidisthe regionboundedbyx^2 = 4yandthe liney = 2andeachplane sectionperpendiculartothe
+high_school_mathematics,model_A,14,1,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1  The answer is D) 91. We can use the identity $a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - ac - bc)$. We know $a + b + c = 6$ and $ab + ac + bc =
+high_school_mathematics,model_A,15,1,20-10-30-40,20,10,30,40,1,False,20,False,0,,D,1  The greatest common divisor (GCD) of $2^{1001}-1$ and $2^{1012}-1$ can be found using theEuclideanAlgorithm.  We knowthat$2^{1012}-1=2^{1012}-2^{1001}+2^{1001}-1=(2^{
+high_school_mathematics,model_A,16,1,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,"1 The inverse of $f(x)=4-5x$ is $f^{-1}(x)=\frac{x+4}{5}$  ThereforeThe answer is (C) $\frac{x+4}{5}$  2 The shortest distance between the y-axis and the point (2, 7)is 2  ThereforeThe answer is (B) 2  3"
+high_school_mathematics,model_A,17,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1 B
+high_school_mathematics,model_A,18,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"Question 1  The answer is C) 9  To findThe answer is C) 9  To findthe number of distinct diagonals of a convex hexagon, we needTo findThe answer is C) 9  To findthe number of distinct diagonals of a convex hexagon, we needTo findThe answer is C) 9  To findthe number of distinct"
+high_school_mathematics,model_A,19,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2B  3D  4A
+high_school_mathematics,model_A,20,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1A  The remainder when $100^{\mathrm{th}}$ term of Fibonacci sequence is divided by 4 is 2.
+high_school_mathematics,model_A,21,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,1 The expression $1990\times1991 - 1989\times1990$ can be factored as $1990(1991-1989) = 1990\times2 = 3980$.  ThereforeThe counting number equivalent to the expression is 3980
+high_school_mathematics,model_A,22,2,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 The answer is B.
+high_school_mathematics,model_A,23,2,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,Question 1  Answer: D  The function $f(x)$ must be such that shifting $2$ units to the right and stretching vertically by a factor of $2$ results in $f(0) = 0.1$. The only function that satisfies this condition is $f(x) = 0.1 \cdot 2^x$.  Therefore $f(10
+high_school_mathematics,model_A,24,2,40-10-20-30,40,10,20,30,2,False,10,False,0,,A,1A  The equation $x^2+12y+57=-y^2-10x$ can be rewritten as $x^2+10x+12y+57+y^2=0$.  Completing the squarefor $x$and $y$weget $(x+5)^2+(y+6)^2=16
+high_school_mathematics,model_A,25,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,Question 1  The probability that $x^2 + y^2 + z^2 \le 1$ is $\frac{\pi}{6}$  ThereforeThe answer is C  Question 2  The answer is 256  ThereforeThe answer is A  Question 3  The answer is 2793  ThereforeThe answer is D  Question 4
+high_school_mathematics,model_A,26,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1 The remainder when $2^{87} +3$ is divided by $7$ is 2. ThereforeThe answer is (C) 2.
+high_school_mathematics,model_A,27,2,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,"2 The perimeter of the triangle is $6 + b + c = 18$. Since $c$ is the hypotenuse, $c^2 = 6^2 + b^2 = 36 + b^2$. Therefore $c = \sqrt{36 + b^2}$. The hypotenuse $c$ is The answer is (B)"
+high_school_mathematics,model_A,28,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2 The function $f(x)$ remains unchanged when shifted $2$ units to the right. Therefore $f(10) = f(10-2) = f(8) = 0.1$.  Therefore $f(10) = 0.1$.  Therefore $f(10) = 0.1$.  Therefore $f(1
+high_school_mathematics,model_A,29,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,Question 1  The answer is A. 392  Question 2  The answer is A. 21  Question 3  The answer is A. 3/4  Question 4  The answer is A. 4
+high_school_mathematics,model_A,30,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"1A  The smallest positive integer with factors 16, 15, and 12 is 120.  2D  The least possible positive integer-value of n such that √(18n34) is anintegeris3.  3C  Jennifer runs 13.1 miles at8mphand13.1milesat6mphIt"
+high_school_mathematics,model_A,31,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2B  3A  4A
+high_school_mathematics,model_A,32,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,"Question 1  The answer is D) 6  The equation $2\star x = 22$ can be rewritten as $2^x - 2x = 22$. We can solve this equation by trial and error. When $x=6$, $2^6 - 2*6 = 64 - 12 = 52$, which"
+high_school_mathematics,model_A,33,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,"1A  The principal can choose 85 teachers for the opener, 84 teachers for the name-reader, and 83 teachers for the closer. So The principal can choose 85*84*83=592620 possible speaking lineups."
+high_school_mathematics,model_A,34,2,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1  The smallest positive integer $n$ such that $x^2+xy+y^2+n$ is a multiple of $7$ is $\boxed{2}$.
+high_school_mathematics,model_A,35,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1 The inverse of $f(x)=4-5x$ is $f^{-1}(x)=\frac{x+4}{5}$  ThereforeThe answer is $\boxed{C}$  2 $\frac{4^{(3^3)}}{(4^3)^3} = 2^N$  $= \frac{4^{27}}{64^
+high_school_mathematics,model_A,36,2,20-40-30-10,20,40,30,10,2,False,40,False,0,,D,2 The volume of the solid is 32.
+high_school_mathematics,model_A,37,2,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,2 The smallest positive integer $n$ such that $\frac{1}{n}$ is a terminating decimal and $n$ contains the digit 9 is 64. ThereforeThe answer is (B) 64.
+high_school_mathematics,model_A,38,2,40-20-10-30,40,20,10,30,1,False,40,False,0,,D,"1  The points $(1,5)$, $(2,3)$, $(3,1)$ lie on $y = f(x)$. Then $f(1) = 5$, $f(2) = 3$, $f(3) = 1$.  The points $(5,3)$, $(3,1)$ lie on $y = f(f(x"
+high_school_mathematics,model_A,39,3,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1 A  2 C  3 A  4 B
+high_school_mathematics,model_A,40,3,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1 B
+high_school_mathematics,model_A,41,3,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,Question 1  The perimeter of an equilateral triangle is 3 * 8 = 24. The perimeter of a square is 4 * 6 = 24. The area of a square is 6 * 6 = 36. ThereforeThe answer is C.
+high_school_mathematics,model_A,42,3,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,1  The height $h$ of the cannonball satisfies $-4.9t^2 + 14t - 0.4 \ge 6$.  The roots $t$ of $-4.9t^2 + 14t - 6.4 = 0$ are $t = \frac{1}{7} \left(10
+high_school_mathematics,model_A,43,3,40-30-10-20,40,30,10,20,1,False,40,False,0,,B,1 The horizontal length of the television screen will be 8 inches shorter if the measure is made along the diagonal rather than along the horizontal length. ThereforeThe answer is (C) 8.
+high_school_mathematics,model_A,44,3,20-10-30-40,20,10,30,40,1,False,20,False,0,,C,"1 The expression $1990\times1991 - 1989\times1990$ can be factored as $1990(1991-1989) = 1990\times2 = 3980$.  Therefore, The counting number equivalent to $1990\times"
+high_school_mathematics,model_A,45,3,30-40-10-20,30,40,10,20,2,False,40,False,0,D,B,Question 2  The answer is D) 7.
+high_school_mathematics,model_A,46,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,A,"Question 1  The distance between $(1,2)$ and $(7, 4)$ is $\sqrt{(7-1)^2 + (4-2)^2} = \sqrt{36+4} = \sqrt{40}$. Since $(1,2)$ and $(7, 4)$ are opposite vertices of a square, The length of each side of the"
+high_school_mathematics,model_A,47,3,30-10-40-20,30,10,40,20,1,False,30,False,0,,D,1 The approximate number of bacteria after 1 full day is 2793.
+high_school_mathematics,model_A,48,3,40-10-30-20,40,10,30,20,1,False,40,False,0,,D,"Question 1  The equation $(x-p)(x-q) = (r-p)(r-q)$ can be expanded to $x^2 - (p+q)x + pq = r^2 - (p+q)r + pq$.  Since $x=r$ is a solution, we substitute $x=r$ into the equation $x^2 - (p+q)x +"
+high_school_mathematics,model_A,49,3,10-20-30-40,10,20,30,40,2,False,20,False,0,A,C,"2  The rate \(r\) can be found using related rates. The ladder forms a right triangle with the building and the ground. Let \(x\) be the distance from the building to the ladder's foot, \(y\) bethe height oftheladderagainstthebuilding,andThePythagoreanTheoremgives\(x^2 + y^2 = 26^2"
+high_school_mathematics,model_A,50,3,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,1  The total number of chimes between 5:10 P.M. and 7:35 P.M. can be calculated by adding 15-minute increments between 5:10 P.M. and 7:35 P.M. There are 21 increments.  ThereforeThe answer is (D) 21.
+high_school_mathematics,model_A,51,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,"1 The expression that represents Terri's total cost if she has had the restaurant open for ""D"" days is 800,000 + 650D. ThereforeThe expression 800,000 + 650D represents Terri's total cost if she has had therestaurantopenfor ""D""days.ThereforeTheexpression80"
+high_school_mathematics,model_A,52,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,Question 1  The total number of chimes between 5:10 PM and 7:35 PM can be calculated by adding the chimes for each hour (5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20+2
+high_school_mathematics,model_A,53,3,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1 The remainder when $2^{87} +3$ is divided by $7$ is 2. ThereforeThe answer is (C) 2.
+high_school_mathematics,model_A,54,3,20-40-30-10,20,40,30,10,2,False,40,False,0,,D,"2 The volume of the solid cut out of the sphere is $\frac{1}{3}\pi r^2h$, where $r$ is the radius of the sphere and $h$ is the height of the solid. The radius $r$ is 2 units, and the height $h$ is 1 unit. So The volume $V$ = $\frac{1}{"
+high_school_mathematics,model_A,55,3,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,Question 2  The answer is B) \frac{15}{7}.
+high_school_mathematics,model_A,56,3,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1 The sum of all positive integer values of $n$ such that $n^2$ is a factor of $1200$ is 36. ThereforeThe answer is $\boxed{C}$.
+high_school_mathematics,model_A,57,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2 The mean score = (98 + 97 + 92 + 85 + 93) / 5 = 93.6  ThereforeThe answer isB 93.
+high_school_mathematics,model_A,58,4,20-30-40-10,20,30,40,10,2,False,30,False,0,,A,2 The ratio of $x$ to $y$ is $\frac{5}{4}$.
+high_school_mathematics,model_A,59,4,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1B  The earliest date would be January 21st.  2A  The value of $f(x + 2)$ would be 2.  3B  The reciprocal of $0.\overline7$ expressed as a common fraction would be $\frac{7}{9}$.  4C  The person would be approximately 9.2 miles away from his starting point.
+high_school_mathematics,model_A,60,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,"1A  The probability that Mr. Patrick writes TFTFT is \(\frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{32}\), so The answer is (C) \(\frac{1}{"
+high_school_mathematics,model_A,61,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2A  3C  4B
+high_school_mathematics,model_A,62,4,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The magnitude of vector v = (5, 0, 7) is calculated using the formula sqrt(5^2 + 0^2 + 7^2) = sqrt(25 + 0 + 49) = sqrt74 = 8.6  2A  The inverse of h(x) = f(g(3x+4))"
+high_school_mathematics,model_A,63,4,20-30-10-40,20,30,10,40,2,False,30,False,0,,A,2  The sum is 112.
+high_school_mathematics,model_A,64,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,"1A  The expression $3x^2 + x - 4$ can be expressed as $3(x^2 + \frac{1}{3}x) - 4$. Completing the square inside the parentheses, we get $3\left(x^2 + \frac{1}{3}x + \frac{1}{36}\right) - 4 -"
+high_school_mathematics,model_A,65,4,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,"1D  The function $f(x)$ shifts 2 units to the right, so $f(10) = f(10-2) = f(8)$. The function stretches vertically by a factor of 2, so $f(8) = 2f(8-2) = 2f(6)$. The original $f(0) ="
+high_school_mathematics,model_A,66,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1 The smallest positive integer $n$ such that $\frac{1}{n}$ is a terminating decimal and $n$ contains the digit 9 is 64. ThereforeThe answer is $\boxed{B}$.
+high_school_mathematics,model_A,67,4,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,"2  To solve this problem, let's start by determining how many ants of Species A There are On Day 5.  On Day 0,There are 30 antsTotalOnDay5  OnDay1Thereare2*30=60antsOfSpeciesA  OnDay2Thereare2*60=120antsOfSpeciesA  OnDay3There"
+high_school_mathematics,model_A,68,4,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,"Question 1  To solve this problem, we need to determine how many days it takes for 50 grams of a radioactive isotope to decay to 20 grams. We can use the decay formula:  \[ N = N_0 \times 2^{-t/T} \]  where - \(N\) = 20 grams - \(N_0\) = 5"
+high_school_mathematics,model_A,69,4,40-30-10-20,40,30,10,20,1,False,40,False,0,,D,Question 1  The greatest common divisor (GCD) of $2^{1001}-1$ and $2^{1012}-1$ can be found using theEuclideanAlgorithm.  We knowthat$2^{1012}-1=2^{1012}-1=2^{1012}-1=2^{1012
+high_school_mathematics,model_A,70,4,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2B  3D  4C
+high_school_mathematics,model_A,71,4,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2  The shortest distance from the origin to the circle definedby $x^2-24x +y^2+10y +160=0$is16.
+high_school_mathematics,model_A,72,4,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,"1A  The shortest distance between the y-axis and the point (2, 7) is 2.  2B  The possible values are 21, 27, 33, 39, 45, 51, 57, 63, 69, 75, 81, 87, 9"
+high_school_mathematics,model_A,73,4,30-20-40-10,30,20,40,10,1,False,30,False,0,,D,"Question 1  The inverse function $f^{-1}(x)$ is found by swapping $x$ and $y$ and solving $x$.  Given $f(x) = 4 - 5x$, let's solve $y = 4 - 5x$.  Swapping $x$ and $y$ gives $x = 4 - 5y$.  S"
+high_school_mathematics,model_A,74,4,10-40-20-30,10,40,20,30,2,False,40,False,0,A,B,2 The answer is A) 38.
+high_school_mathematics,model_A,75,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,2 The probability that all of my draws alternate colors is \frac{1}{35}.
+high_school_mathematics,model_A,76,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1 The smallest positive integer $n$ such that $x^2+xy+y^2+n$ is a multiple of $7$ is 2. ThereforeThe answer is $\boxed{A}$.
+high_school_mathematics,model_A,77,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,"2 To estimate how long it will take Veronica to read the book, we need to calculate the total number of words in the book.  The book has 400 pages, and Veronica counted 200 words per page. Therefore, The total number of words = 200 * 400 = 80,000  Veronica reads 25"
+high_school_mathematics,model_A,78,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,Question 1  The greatest odd integer thatis a factor of5!is 15.  ThereforeThe answerisC15.
+high_school_mathematics,model_A,79,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,"Question 1  The shortest distance between the y-axis and the point (2, 7) is 2.  ThereforeThe answer isB2."
+high_school_mathematics,model_A,80,5,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2B  3C  4C
+high_school_mathematics,model_A,81,5,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,Question 1  The probability of drawing 3 cards forming a pair is $\frac{1}{8}$  ThereforeThe answer is A  Question 2  The area of the square is 20  ThereforeThe answer is A  Question 3  The value of $k$ is $-\frac{7}{12}$  ThereforeThe answer is A  Question 4
+high_school_mathematics,model_A,82,5,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,2 The answer is A) 54
+high_school_mathematics,model_A,83,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"Question 1  The answer is D) 3,003."
+high_school_mathematics,model_A,84,5,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The number 392 is TheAnswer  2C  TheAnswer  3C  TheAnswer  4D  TheAnswer
+high_school_mathematics,model_A,85,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,B,"1A  The coat would be marked down 20% firstandthen10%Thecoatwouldbe$325.00\cdot0.8=260$Aftertheadditional10%,$260\cdot0.9=\boxed{234}$  2D  Theanttravelsfrom$(-4,6)$to$("
+high_school_mathematics,model_A,86,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,2 The length of the longest side immediately after the second fold is 5.5.
+high_school_mathematics,model_A,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,"Question 1  The total number of chimes between 5:10 PM and 7:35 PM can be calculated by adding the chimes for each hour, 15-minute increments, and 5:10 PM.  From 5:10 PM to 6:00 PM: - 5:10 PM - 5:15 PM ="
+high_school_mathematics,model_A,88,5,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,"Question 2  Answer: B  The list starts from 25 and ends at 100 inclusive. To find the number of numbers, we can subtract 25 from 100, divide by 1 (since Each number is 1 unit apart), and then add 1 (since We include Both 25 and 100).SoTheNumberOf"
+high_school_mathematics,model_A,89,5,20-30-40-10,20,30,40,10,2,False,30,False,0,C,D,Question 2  The approximate number of bacteria after 1 full day is (C) 2408.
+high_school_mathematics,model_A,90,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1A  The probability that exactly two of the dice show anevennumberisTheprobabilitythatexactlytwodiceshowanevennumberisTheprobabilitythatexactlytwodiceshowanevennumberisTheprobabilitythatexactlytwodiceshowanevennumberisTheprobabilitythatexactlytwodiceshowanevennumberisTheprobabilitythatexactlytwodice
+high_school_mathematics,model_A,91,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 A
+high_school_mathematics,model_A,92,5,10-20-40-30,10,20,40,30,1,False,10,False,0,,B,1 The remainder When 100^th Term OfTheSequence IsDividedBy4Is2  2 TheNumberOfSpeciesAAntsOnDay5Is211  3 TheVolumeOfTheSolidIs22π/3  4 TheValueOfXIs1/8
+high_school_mathematics,model_A,93,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  The magnitude of vector v = (5, 0, 7) is calculated using the formula sqrt(5^2 + 0^2 + 7^2) = sqrt(25 + 0 + 49) = sqrt74 = 8.6  2A  The number of Morgan's female friends living in town = 60 *"
+high_school_mathematics,model_A,94,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2 The expression $1990\times1991 - 1989\times1990$ can be simplified by factoring out $1990$:  $1990\times1991 - 1989\times1990 = 1990\times(1991 -
+high_school_mathematics,model_A,95,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,Question 1  The sum of the numbers written on the faces of a cube is equal to 18.
+high_school_mathematics,model_A,96,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,"Question 1  The answer is D) 10  There are 4 choices for numerator and 4 choices for denominator. So There are 16 possible fractions. However, 1/1, 2/2, 3/3, 4/4, 6/6, 2/1, 3/1, 4/1, 6"

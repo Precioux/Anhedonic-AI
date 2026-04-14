@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_chemistry,baseline,1,1,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,1 C
+college_chemistry,baseline,2,1,20-30-40-10,20,30,40,10,2,False,30,False,0,C,B,2 C
+college_chemistry,baseline,3,1,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,1
+college_chemistry,baseline,4,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+college_chemistry,baseline,5,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1 A
+college_chemistry,baseline,6,1,20-40-30-10,20,40,30,10,1,False,20,True,20,B,B,1. B
+college_chemistry,baseline,7,1,20-30-10-40,20,30,10,40,2,False,30,False,0,B,D,2 B
+college_chemistry,baseline,8,1,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,2 D
+college_chemistry,baseline,9,1,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_chemistry,baseline,10,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+college_chemistry,baseline,11,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+college_chemistry,baseline,12,1,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1. D
+college_chemistry,baseline,13,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1 A
+college_chemistry,baseline,14,1,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+college_chemistry,baseline,15,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+college_chemistry,baseline,16,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+college_chemistry,baseline,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+college_chemistry,baseline,18,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+college_chemistry,baseline,19,1,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+college_chemistry,baseline,20,2,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,1. A
+college_chemistry,baseline,21,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1. A
+college_chemistry,baseline,22,2,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+college_chemistry,baseline,23,2,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1. C
+college_chemistry,baseline,24,2,10-30-40-20,10,30,40,20,1,False,10,False,0,A,B,1 A
+college_chemistry,baseline,25,2,30-40-10-20,30,40,10,20,1,False,30,False,0,A,C,1 A
+college_chemistry,baseline,26,2,10-30-20-40,10,30,20,40,1,False,10,False,0,A,B,1 A
+college_chemistry,baseline,27,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1 A
+college_chemistry,baseline,28,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1 A
+college_chemistry,baseline,29,2,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1 C
+college_chemistry,baseline,30,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+college_chemistry,baseline,31,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1 C
+college_chemistry,baseline,32,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,1
+college_chemistry,baseline,33,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,C,2 B
+college_chemistry,baseline,34,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1. D
+college_chemistry,baseline,35,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,C,1 A
+college_chemistry,baseline,36,2,10-20-40-30,10,20,40,30,2,False,20,False,0,,C,2
+college_chemistry,baseline,37,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+college_chemistry,baseline,38,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1. D
+college_chemistry,baseline,39,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+college_chemistry,baseline,40,3,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,1 A
+college_chemistry,baseline,41,3,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+college_chemistry,baseline,42,3,10-20-40-30,10,20,40,30,2,False,20,False,0,,B,2
+college_chemistry,baseline,43,3,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+college_chemistry,baseline,44,3,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1. C
+college_chemistry,baseline,45,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+college_chemistry,baseline,46,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,"1 A silyl radical bearing an Si-H· fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1. (A) 15.5 MHz = 11.104 mT = 27.20"
+college_chemistry,baseline,47,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+college_chemistry,baseline,48,3,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+college_chemistry,baseline,49,3,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+college_chemistry,baseline,50,3,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+college_chemistry,baseline,51,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1 A
+college_chemistry,baseline,52,3,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1. D
+college_chemistry,baseline,53,3,20-40-30-10,20,40,30,10,2,False,40,False,0,B,A,2 B
+college_chemistry,baseline,54,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2 Q = 1012
+college_chemistry,baseline,55,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1 A
+college_chemistry,baseline,56,3,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+college_chemistry,baseline,57,3,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+college_chemistry,baseline,58,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+college_chemistry,baseline,59,4,40-20-30-10,40,20,30,10,1,False,40,False,0,B,D,1. B
+college_chemistry,baseline,60,4,40-10-30-20,40,10,30,20,1,False,40,False,0,D,B,1. D
+college_chemistry,baseline,61,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,1 A
+college_chemistry,baseline,62,4,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1. D
+college_chemistry,baseline,63,4,20-10-40-30,20,10,40,30,1,False,20,False,0,B,C,1 B
+college_chemistry,baseline,64,4,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1 A
+college_chemistry,baseline,65,4,20-30-40-10,20,30,40,10,1,False,20,False,0,C,A,1 C
+college_chemistry,baseline,66,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1. C
+college_chemistry,baseline,67,4,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,1. B
+college_chemistry,baseline,68,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+college_chemistry,baseline,69,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,1 D
+college_chemistry,baseline,70,4,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+college_chemistry,baseline,71,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+college_chemistry,baseline,72,4,20-40-10-30,20,40,10,30,2,False,40,False,0,D,A,2 D
+college_chemistry,baseline,73,4,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1 D
+college_chemistry,baseline,74,4,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+college_chemistry,baseline,75,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,B,3
+college_chemistry,baseline,76,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+college_chemistry,baseline,77,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+college_chemistry,baseline,78,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+college_chemistry,baseline,79,5,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,1
+college_chemistry,baseline,80,5,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+college_chemistry,baseline,81,5,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1 D
+college_chemistry,baseline,82,5,30-10-20-40,30,10,20,40,4,False,40,False,0,,B,4
+college_chemistry,baseline,83,5,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1. C
+college_chemistry,baseline,84,5,40-20-30-10,40,20,30,10,1,False,40,False,0,,D,1
+college_chemistry,baseline,85,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1. C
+college_chemistry,baseline,86,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_chemistry,baseline,87,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,D,3
+college_chemistry,baseline,88,5,40-10-20-30,40,10,20,30,1,False,40,False,0,,A,1
+college_chemistry,baseline,89,5,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+college_chemistry,baseline,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1 D
+college_chemistry,baseline,91,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_chemistry,baseline,92,5,30-20-40-10,30,20,40,10,3,False,40,False,0,C,D,3 C
+college_chemistry,baseline,93,5,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+college_chemistry,baseline,94,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+college_chemistry,baseline,95,5,10-40-30-20,10,40,30,20,1,False,10,False,0,C,B,1. C
+college_chemistry,baseline,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1 A
+college_chemistry,model_A,1,1,20-10-40-30,20,10,40,30,1,False,20,False,0,,A,1 The maximum value of the z-component of the spin angular momentum of 43Ca is 8.370 x 10^-34 J s.
+college_chemistry,model_A,2,1,20-30-40-10,20,30,40,10,2,False,30,False,0,A,B,2  The number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO• assuming the lines do not overlap is 21. ThereforeThe answer is (A) 21.
+college_chemistry,model_A,3,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D
+college_chemistry,model_A,4,1,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,1 The magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K is 1.2 T. ThereforeThe answer is (B) 1.2 T.
+college_chemistry,model_A,5,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1 A  TheHenry'slawconstantforCO2dissolvedinwaterat25°Cis30.0atmM^−1.TheconcentrationofdissolvedCO2inavesselpressurizedwith2.0atmofCO2is1.5M.
+college_chemistry,model_A,6,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,1A  The equation ΔH = ΔU + PΔV is applicable always.
+college_chemistry,model_A,7,1,20-30-10-40,20,30,10,40,2,False,30,False,0,,D,2 The maximum number of phases thatcanbeat equilibriumwitheachotherinathreecomponentmixtureis3.
+college_chemistry,model_A,8,1,30-40-20-10,30,40,20,10,2,False,40,False,0,A,D,2  The compound least likely to behave as a Lewis acid is (D) SCl2.
+college_chemistry,model_A,9,1,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The EPR spectrum of a rigid nitronyl nitroxide diradical with J >> a will have 3 lines.  2C  The nuclear spin 19F corresponds to 2.884 x 10^-27 J T^-1.  3B  The limiting high-temperature molar heat capacity CV = 2R.  4C
+college_chemistry,model_A,10,1,30-10-20-40,30,10,20,40,1,False,30,False,0,,B,Question 1  The chemical shift of [Ru(NH3)6]2+ can be calculated using the relationship between chemical shift (Δν) and electronic excitation energy (Ee) given by Δν = Ee / (2.303 × 10^10). The electronic excitation energy of [Ru(NH3)6]2+ is
+college_chemistry,model_A,11,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The primary standard for use in standardizing bases is Potassium Hydrogen Phthalate (KHP).
+college_chemistry,model_A,12,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,Question 1  Answer: A
+college_chemistry,model_A,13,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The pH of 0.1M NaCl solution is 7, making it neutral. The pH of 0.1M Na2CO3, Na3PO4, Na2S solutions will be lower than 7 duetotheformationofHCO3-,HPO32-,HS-ionsrespectivelywhichareAllAcidicInNature.  2A"
+college_chemistry,model_A,14,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,A,2D
+college_chemistry,model_A,15,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A
+college_chemistry,model_A,16,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+college_chemistry,model_A,17,1,10-30-20-40,10,30,20,40,1,False,10,False,0,C,A,1C  The question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C is chosen becauseItThe question 1C
+college_chemistry,model_A,18,1,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1A
+college_chemistry,model_A,19,1,10-30-20-40,10,30,20,40,2,False,30,False,0,D,B,2 The answer is D) 12.7 s.
+college_chemistry,model_A,20,2,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,1A  The 1H spectrum of 12CHCl3 is a singlet because Both 35Cl and 37Cl have I = 0.
+college_chemistry,model_A,21,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1A  The electron configuration of aluminum (Al) is 1s22s22p63s23p1. The electron that is most easily removed corresponds to the electron configuration 3s13p1. The orbital angular momentum quantum number (l) associated with 3s13p1 is 1. ThereforeThe electron configuration of aluminum (Al)
+college_chemistry,model_A,22,2,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1A  2C  3B  4D
+college_chemistry,model_A,23,2,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,"Question 2  The correct answer is (A) I only.  Raoult's law states that The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture. This means that I is true. However, Raoult's law does not necessarily imply that II. The volume of the mixture is"
+college_chemistry,model_A,24,2,10-30-40-20,10,30,40,20,1,False,10,False,0,A,B,Question 1  The ratio |pe / pH| = 820  ThereforeThe answer isB  Question 2  The answer isC  Question 3  The answer isC  Question 4  The answer isA
+college_chemistry,model_A,25,2,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,"Question 1  The spin angular momentum of 43Ca can be calculated using the formula L = I * ħ/2π, where I is the angular momentum quantum number (7/2) and ħ/2π = 1.0545718 × 10^-34 J⋅s.   L = (7/2) *"
+college_chemistry,model_A,26,2,10-30-20-40,10,30,20,40,1,False,10,False,0,A,B,"1 A  The T2 of anNMR lineis15ms.Ignoringothersourcesoflinebroadening,calculateitslinewidth.  The linewidth (Δν)ofanNMRlineisgivenbytheT2valueandcanberecalculatedusingtheformulaΔν=1/2T2.  SubstitutingtheT2valueof15ms(0.0"
+college_chemistry,model_A,27,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1A  The Larmor frequency (fL) of a proton (I=1/2)in a magnetic field (B)isgivenbyfL=γIh/2πwhereγ=26.75MHz/Tisthegyrofrequencyandh=6.626×10−34J⋅sishbarTheLarmorfrequencyforapro
+college_chemistry,model_A,28,2,40-30-20-10,40,30,20,10,1,False,40,False,0,,B,Question 1  The ratio |pe / pH| = 820  ThereforeThe answer isB  Question 2  The solubility product Ksp = 1.0 × 10^-6  ThereforeThe answer isB  Question 3  The correct statement isC  ThereforeThe answer isC  Question 4  The value of T2 = 1
+college_chemistry,model_A,29,2,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1C  The steady state concentration of free radical intermediates is often too low to enable direct detection by EPR.
+college_chemistry,model_A,30,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,"1C  The correct answer is C. Raman spectroscopy is a light-scattering technique.  2D  The correct answer is D. I, II, and III.  3B  The correct answer is B. 5.18 mT.  4D  The correct answer is D. 2,3-dimethylbutane."
+college_chemistry,model_A,31,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1  The answer is C) 56.6 s.
+college_chemistry,model_A,32,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,1  The difference in 13C NMR frequencies = 128.4 ppm - 77.2 ppm = 51.2 ppm  The frequency difference = 51.2 ppm * 600 MHz = 30720 kHz  The closest match is (B) 30.7 kHz.
+college_chemistry,model_A,33,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,2B
+college_chemistry,model_A,34,2,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A
+college_chemistry,model_A,35,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,C,1 A
+college_chemistry,model_A,36,2,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2  The ion with the smallest radius is (C) Sc3+.
+college_chemistry,model_A,37,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1A
+college_chemistry,model_A,38,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1  The EPR spectrum of a rigid nitronyl nitroxide diradical with J << a will have 5 lines. ThereforeThe answer is (C) 5 lines.
+college_chemistry,model_A,39,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D
+college_chemistry,model_A,40,3,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,"1A  The 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer. The 1H chemical shift of benzene is 7.16 ppm. What is the chemical shift of trifluoroacetic acid?  To solve this problem, we need to understand how"
+college_chemistry,model_A,41,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,A,"1  The g value of the atom can be calculated using the formula g = (Resonant Field - 3074) / 1000. Plugging in the values given (3174 G), we get g = (3174 - 3074) / 1000 = 1.000. ThereforeThe"
+college_chemistry,model_A,42,3,10-20-40-30,10,20,40,30,2,False,20,True,20,B,B,2  The equation ΔH = ΔU + PΔV is applicable (B) only for constant pressure processes.
+college_chemistry,model_A,43,3,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1A  The question asks Which of the following must be true about a binary liquid mixture that obeys Raoult’s law? I. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture. II. The volume of the mixture is equal to the sum ofthe volumesofeachc
+college_chemistry,model_A,44,3,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C
+college_chemistry,model_A,45,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,Question 1  The rotational correlation time (τR) of 1 ns corresponds to a magnetic field strength (B) of 9.49 T according to Eqn 5.3. ThereforeThe answer is D.
+college_chemistry,model_A,46,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,1A  The splitting value 15.5 MHz corresponds to 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm^-1.
+college_chemistry,model_A,47,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1D
+college_chemistry,model_A,48,3,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,"1 A  The delay time can be calculated using the formula Ωt = θ, where Ω is the offset frequency, t is the delay time, and θ is the angle through which the spin precesses. Plugging in the given values Ω = 250 rad s^-1, θ = 60° (or 60*π"
+college_chemistry,model_A,49,3,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,Question 1  Answer: C  The Henry's law constant (KHenry) relates the partial pressure (P) of CO2 dissolved in water to its concentration ([CO2])inM)inM)throughtheequationKHenry=PCO2[CO2]KHenry=PCO2[CO2]TheHenry'slawconstantforCO2dissolvedinwater
+college_chemistry,model_A,50,3,10-30-40-20,10,30,40,20,2,False,30,False,0,A,B,2  The compound CH3Cl has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet.
+college_chemistry,model_A,51,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,Question 1  Answer: A  The EPR spectrum of dimethylnitroxide (CH3)2NO• consists of 21 lines. This is because dimethylnitroxide has two equivalent nitrogen nuclei (N1 and N2) coupled to the unpaired electron. The coupling constant (J) between N1 and N2 is assumed to be negligible
+college_chemistry,model_A,52,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2  The method best suited to measurement of trace amounts (sub-ppb) of CFCs in anair sample would be (A)Gas chromatographic separation oftheairsampleonacapillarycolumnfollowedbyelectroncapturedetection.
+college_chemistry,model_A,53,3,20-40-30-10,20,40,30,10,2,False,40,True,40,A,A,2 A
+college_chemistry,model_A,54,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2 Q = 1012
+college_chemistry,model_A,55,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1 A
+college_chemistry,model_A,56,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 The number of allowed energy levels for the 55Mn nuclide are: (A) 3 (B) 5 (C) 8 (D) 4  The correct answer is (A) 3. The allowed energy levels for 55Mn are 3p^63d^54s^24p^65s
+college_chemistry,model_A,57,3,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2A  3A  4C
+college_chemistry,model_A,58,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The electron affinity of an atom refers to the energy released when an electron is added to a neutral atom. The electron affinity decreases as we move down a group in the periodic table. Therefore, among F, Si, O, Ca, F has the lowest electron affinity.  2C  The solubility product (Ksp) is defin"
+college_chemistry,model_A,59,4,40-20-30-10,40,20,30,10,1,False,40,False,0,,D,"1  The equilibrium polarization P of 13C nuclei can be calculated using the formula P = (1 - e^(-βγH/2kT)) / (1 + e^(-βγH/2kT)), where β = 1/√2kT, γ = 1.7586 × 10^11 rad/sT,"
+college_chemistry,model_A,60,4,40-10-30-20,40,10,30,20,1,False,40,False,0,,B,"1 The magnetic moment (μI) of 2.884 x 10^-27 J T^-1 corresponds to nuclear spin 1/2. Therefore, The unknown nuclide is 2H."
+college_chemistry,model_A,61,4,10-20-30-40,10,20,30,40,2,False,20,False,0,,B,"Question 2  The 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6"
+college_chemistry,model_A,62,4,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1D
+college_chemistry,model_A,63,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,1A
+college_chemistry,model_A,64,4,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,"1  The magnetogyric ratio (G) can be calculated using the formula G = ν / γ, where ν is the NMR frequency and γ istheLarmorFrequency.UsingtheGivenValuesWeGetG=198.52MHz/26.75x107T-1s-1=7.081x107T-"
+college_chemistry,model_A,65,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,A,1  The difference in 13C NMR frequencies = 128.4 ppm - 77.2 ppm = 51.2 ppm  The frequency difference = 51.2 ppm * 600 MHz = 30720 kHz  The closest match is (B) 30.7 kHz.
+college_chemistry,model_A,66,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,"1  The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and Ω = 0, determine the value of T2.  The correct answer is (C) 1.386 s."
+college_chemistry,model_A,67,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1A  The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their electron distribution.
+college_chemistry,model_A,68,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1 A  TheHenry'slawconstantforCO2dissolvedinwaterat25°Cis30.0atmM^−1.TheconcentrationofdissolvedCO2inavesselpressurizedwith2.0atmofCO2is1.5M.
+college_chemistry,model_A,69,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,Question 1  Answer: D  The rotational correlation time τc = 50 ps. The molecular mass Mr = 8400. The molecular mass Mr = 100. The rotational correlation time τc = 50 ps. The rotational correlation time τc = 50 ps. The rotational correlation time τc = 50 ps. The rotational correlation
+college_chemistry,model_A,70,4,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,"2B  All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a π → π* excitation in the protein molecule. This wavelength falls within the Ultraviolet region.  ThereforeThe answer isB."
+college_chemistry,model_A,71,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D
+college_chemistry,model_A,72,4,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2  A substance that is NOT generally considered to be a toxic pollutant in water is (A) carbonic acid (B) a halogenated hydrocarbon (C) lead (D) mercury  The answer is (A) Carbonic acid.
+college_chemistry,model_A,73,4,10-20-40-30,10,20,40,30,1,False,10,False,0,C,B,Question 1  Answer: C  The time it takes forpto reach a value equalto twice the thermal equilibrium polarizationat 298 Kcanbecalculatedusingtheexponentialrelaxationequationp(t)=[p(0)−peq]exp(−t/T1)+peq.  Givenp(0)=1andT1=5.0s
+college_chemistry,model_A,74,4,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,Question 2  The NMR frequency of 31P in a 20.0 T magnetic field is 239.2 MHz. ThereforeThe answer is (B) 239.2 MHz.
+college_chemistry,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,,D,3A
+college_chemistry,model_A,76,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D
+college_chemistry,model_A,77,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,Question 3  The magnetic moment of 205Tl is 1.569 x 108 T-1 s-1. ThereforeThe magnetic moment of 205Tl is 1.569 x 108 T-1 s-1. ThereforeThe magnetic moment of 205Tl is 1.56
+college_chemistry,model_A,78,5,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"Question 1  Answer: D  The activity remaining 24 hours after delivery can be calculated using the formula A = A0 * 2^(-t/T), where A0 is the initial activity, t is time, T is half-life, A is activity remainingAfter 24 hours (T = 6.0 hours), A = 150 * 2^"
+college_chemistry,model_A,79,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1A
+college_chemistry,model_A,80,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,2D
+college_chemistry,model_A,81,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,"2  I. Analyte molecules are converted to gaseous ions. II. The ions are separated according to their mass-to-charge ratio. III. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.  D"
+college_chemistry,model_A,82,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,Question 1  Answer: D
+college_chemistry,model_A,83,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1A
+college_chemistry,model_A,84,5,40-20-30-10,40,20,30,10,1,False,40,False,0,,D,Question 1  The chemical shift when the pH of the solution equals the pKa of H2PO4‾ is 3.98 ppm.  ThereforeAnswerB
+college_chemistry,model_A,85,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,1A  The hyperfine value refers to the splitting of spectral lines duetothe interactionbetweentheelectronspinandtheNMRsignal. ThesplittingisproportionaltotheelectronspinmomentumandtheNMRsignalfrequency. ThesplittingisalsoproportionaltotheNMRsignalfrequencyandtheNMRsignalfrequency. Thesplittingisalsop
+college_chemistry,model_A,86,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,D,1A
+college_chemistry,model_A,87,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,3D
+college_chemistry,model_A,88,5,40-10-20-30,40,10,20,30,1,False,40,False,0,,A,1  The difference in 13C NMR frequencies = 128.4 ppm - 77.2 ppm = 51.2 ppm  The Larmor frequency = 51.2 ppm * 600 MHz/100 = 30.72 MHz  ThereforeThe answer is (B) 30.7 kHz.
+college_chemistry,model_A,89,5,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2  The correct answer is (C) A large deviation of g from ge is expected when λ is large and the energy difference between the SOMO and the lowest lying excited state is small.
+college_chemistry,model_A,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1  The answer is D) 12.7 s.
+college_chemistry,model_A,91,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D
+college_chemistry,model_A,92,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3 The chemical shift of trifluoroacetic acid is 3.02 ppm.
+college_chemistry,model_A,93,5,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,"2B  All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a π → π* excitation in the protein molecule. This wavelength falls within the Ultraviolet region of the spectrum."
+college_chemistry,model_A,94,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,"1D  The most common naturally-occurring form of silicon is silicon dioxide (SiO2), which is commonly known as quartz."
+college_chemistry,model_A,95,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2  Spin trapping makes it easy to quantify free radical intermediates.
+college_chemistry,model_A,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1A  The equation ΔH = ΔU + PΔV is applicable always.

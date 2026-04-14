@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+business_ethics,baseline,1,19,78.947,30.526,0.0,0.1053,0.2105,0.2105,0.4737
+business_ethics,baseline,2,19,68.421,27.895,0.0,0.2632,0.1053,0.2105,0.4211
+business_ethics,baseline,3,19,78.947,23.684,0.0,0.2105,0.3158,0.3684,0.1053
+business_ethics,baseline,4,19,73.684,29.474,0.0,0.2632,0.0,0.2632,0.4737
+business_ethics,baseline,5,20,85.0,32.0,0.0,0.05,0.2,0.25,0.5
+business_ethics,model_A,1,16,37.5,27.5,15.789,0.1875,0.125,0.4375,0.25
+business_ethics,model_A,2,17,58.824,27.647,10.526,0.2353,0.1765,0.1765,0.4118
+business_ethics,model_A,3,16,50.0,23.75,15.789,0.25,0.25,0.375,0.125
+business_ethics,model_A,4,15,73.333,27.333,21.053,0.3333,0.0,0.2667,0.4
+business_ethics,model_A,5,19,52.632,27.368,5.0,0.2105,0.2105,0.2105,0.3684

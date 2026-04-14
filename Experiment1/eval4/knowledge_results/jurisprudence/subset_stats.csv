@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+jurisprudence,baseline,1,19,76.316,4.0,84.211,78.947,68.421,73.684
+jurisprudence,baseline,2,19,76.316,4.0,73.684,84.211,73.684,73.684
+jurisprudence,baseline,3,19,77.632,4.0,63.158,78.947,89.474,78.947
+jurisprudence,baseline,4,19,81.579,4.0,78.947,63.158,89.474,94.737
+jurisprudence,baseline,5,20,81.25,4.0,90.0,90.0,75.0,70.0
+jurisprudence,model_A,1,19,76.316,4.0,84.211,78.947,63.158,78.947
+jurisprudence,model_A,2,19,78.947,4.0,78.947,84.211,73.684,78.947
+jurisprudence,model_A,3,19,80.263,4.0,63.158,84.211,94.737,78.947
+jurisprudence,model_A,4,19,76.316,4.0,73.684,63.158,78.947,89.474
+jurisprudence,model_A,5,20,80.0,4.0,80.0,90.0,75.0,75.0

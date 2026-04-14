@@ -1,0 +1,3 @@
+subject,tier,difficulty_tier,round,baseline_acc,n_subsets,n_runs,acc_%_mean,acc_%_std,acc_%_sem,n_parsed_mean_mean,n_parsed_mean_std,n_parsed_mean_sem,acc_q1_%_mean,acc_q1_%_std,acc_q1_%_sem,acc_q2_%_mean,acc_q2_%_std,acc_q2_%_sem,acc_q3_%_mean,acc_q3_%_std,acc_q3_%_sem,acc_q4_%_mean,acc_q4_%_std,acc_q4_%_sem
+management,baseline,easy,8,73.0526,5,1,80.1712,3.0855,1.3799,4.0,0.0,0.0,76.0526,10.8663,4.8596,84.316,3.9105,1.7488,86.4214,3.0324,1.3561,73.8948,10.6676,4.7707
+management,model_A,easy,8,73.0526,5,1,78.6054,3.54,1.5831,4.0,0.0,0.0,69.7896,13.0925,5.8551,85.3688,2.5889,1.1578,84.316,3.9105,1.7488,74.9474,7.0379,3.1474

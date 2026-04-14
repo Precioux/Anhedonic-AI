@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+high_school_chemistry,baseline,1,19,57.895,4.0,52.632,63.158,68.421,47.368
+high_school_chemistry,baseline,2,19,53.947,4.0,47.368,57.895,52.632,57.895
+high_school_chemistry,baseline,3,19,50.0,4.0,57.895,52.632,36.842,52.632
+high_school_chemistry,baseline,4,19,61.842,4.0,57.895,52.632,68.421,68.421
+high_school_chemistry,baseline,5,20,47.5,4.0,35.0,30.0,85.0,40.0
+high_school_chemistry,model_A,1,19,46.053,3.789,31.579,57.895,52.632,42.105
+high_school_chemistry,model_A,2,19,48.684,4.0,36.842,52.632,47.368,57.895
+high_school_chemistry,model_A,3,19,46.053,4.0,57.895,47.368,36.842,42.105
+high_school_chemistry,model_A,4,19,56.579,3.947,52.632,47.368,63.158,63.158
+high_school_chemistry,model_A,5,20,41.25,3.8,30.0,30.0,75.0,30.0

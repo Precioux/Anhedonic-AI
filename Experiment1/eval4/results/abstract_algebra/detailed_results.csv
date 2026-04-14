@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+abstract_algebra,baseline,1,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+abstract_algebra,baseline,2,1,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1 C
+abstract_algebra,baseline,3,1,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1 C
+abstract_algebra,baseline,4,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2 The element (4, 2) of Z_12 x Z_8 has order 6."
+abstract_algebra,baseline,5,1,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,"1. (C) (1,6)"
+abstract_algebra,baseline,6,1,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+abstract_algebra,baseline,7,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+abstract_algebra,baseline,8,1,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+abstract_algebra,baseline,9,1,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+abstract_algebra,baseline,10,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+abstract_algebra,baseline,11,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+abstract_algebra,baseline,12,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+abstract_algebra,baseline,13,1,10-20-40-30,10,20,40,30,1,False,10,False,0,C,B,1 C
+abstract_algebra,baseline,14,1,10-20-40-30,10,20,40,30,3,False,40,False,0,,C,3
+abstract_algebra,baseline,15,1,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,2 B
+abstract_algebra,baseline,16,1,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+abstract_algebra,baseline,17,1,10-30-20-40,10,30,20,40,2,False,30,True,30,D,D,2 D
+abstract_algebra,baseline,18,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+abstract_algebra,baseline,19,1,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+abstract_algebra,baseline,20,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,"2 The polynomial x^4 + 4 can be factored into linear factors in Z_5[x]. Find this factorization.  The correct factorization is (x+1)^4. Therefore, the answer is B."
+abstract_algebra,baseline,21,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1. D
+abstract_algebra,baseline,22,2,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1. D
+abstract_algebra,baseline,23,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+abstract_algebra,baseline,24,2,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+abstract_algebra,baseline,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,1 D
+abstract_algebra,baseline,26,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2
+abstract_algebra,baseline,27,2,30-40-10-20,30,40,10,20,1,False,30,False,0,A,C,"1. A subset H of a group (G,*) is a group if (A) a,b in H=> a * b in H (B) a in H => a^-1 in H (C) a,b in H=> a * b^-1 in H (D) H contains the identity element (30 points)  Answer: D"
+abstract_algebra,baseline,28,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1. C
+abstract_algebra,baseline,29,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1. C
+abstract_algebra,baseline,30,2,20-30-40-10,20,30,40,10,2,False,30,False,0,D,B,2 D
+abstract_algebra,baseline,31,2,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1. C
+abstract_algebra,baseline,32,2,30-40-10-20,30,40,10,20,1,False,30,False,0,B,A,1 B
+abstract_algebra,baseline,33,2,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+abstract_algebra,baseline,34,2,40-10-30-20,40,10,30,20,1,False,40,False,0,,C,1
+abstract_algebra,baseline,35,2,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1. C
+abstract_algebra,baseline,36,2,20-40-10-30,20,40,10,30,4,False,30,False,0,D,C,4 D
+abstract_algebra,baseline,37,2,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1. B
+abstract_algebra,baseline,38,2,30-40-10-20,30,40,10,20,1,False,30,False,0,D,B,1. D
+abstract_algebra,baseline,39,3,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1 C
+abstract_algebra,baseline,40,3,10-30-40-20,10,30,40,20,2,False,30,False,0,D,B,2 D
+abstract_algebra,baseline,41,3,20-30-40-10,20,30,40,10,2,False,30,False,0,,A,2
+abstract_algebra,baseline,42,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1 C
+abstract_algebra,baseline,43,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2
+abstract_algebra,baseline,44,3,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+abstract_algebra,baseline,45,3,20-30-10-40,20,30,10,40,2,False,30,False,0,D,C,2 D
+abstract_algebra,baseline,46,3,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+abstract_algebra,baseline,47,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+abstract_algebra,baseline,48,3,10-20-40-30,10,20,40,30,2,False,20,False,0,,C,2
+abstract_algebra,baseline,49,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,A,2
+abstract_algebra,baseline,50,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1 C
+abstract_algebra,baseline,51,3,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1 A
+abstract_algebra,baseline,52,3,30-10-20-40,30,10,20,40,4,False,40,False,0,,B,4
+abstract_algebra,baseline,53,3,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,1. C
+abstract_algebra,baseline,54,3,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1. C
+abstract_algebra,baseline,55,3,40-20-30-10,40,20,30,10,1,False,40,False,0,D,A,1. D
+abstract_algebra,baseline,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+abstract_algebra,baseline,57,3,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1. C
+abstract_algebra,baseline,58,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1 C
+abstract_algebra,baseline,59,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2
+abstract_algebra,baseline,60,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+abstract_algebra,baseline,61,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+abstract_algebra,baseline,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+abstract_algebra,baseline,63,4,10-40-30-20,10,40,30,20,2,False,40,False,0,,B,2
+abstract_algebra,baseline,64,4,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1 C
+abstract_algebra,baseline,65,4,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+abstract_algebra,baseline,66,4,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+abstract_algebra,baseline,67,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+abstract_algebra,baseline,68,4,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+abstract_algebra,baseline,69,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+abstract_algebra,baseline,70,4,20-30-40-10,20,30,40,10,2,False,30,False,0,,B,2
+abstract_algebra,baseline,71,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+abstract_algebra,baseline,72,4,30-20-10-40,30,20,10,40,4,False,40,False,0,,A,4
+abstract_algebra,baseline,73,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+abstract_algebra,baseline,74,4,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+abstract_algebra,baseline,75,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+abstract_algebra,baseline,76,4,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+abstract_algebra,baseline,77,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+abstract_algebra,baseline,78,5,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+abstract_algebra,baseline,79,5,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1. C
+abstract_algebra,baseline,80,5,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+abstract_algebra,baseline,81,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3
+abstract_algebra,baseline,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+abstract_algebra,baseline,83,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+abstract_algebra,baseline,84,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+abstract_algebra,baseline,85,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,D,1. C
+abstract_algebra,baseline,86,5,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+abstract_algebra,baseline,87,5,20-40-10-30,20,40,10,30,2,False,40,False,0,D,B,2 D
+abstract_algebra,baseline,88,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,1. D
+abstract_algebra,baseline,89,5,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+abstract_algebra,baseline,90,5,30-20-10-40,30,20,10,40,4,False,40,False,0,,B,4
+abstract_algebra,baseline,91,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1 D
+abstract_algebra,baseline,92,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+abstract_algebra,baseline,93,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,1
+abstract_algebra,baseline,94,5,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,2
+abstract_algebra,baseline,95,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,1. C
+abstract_algebra,baseline,96,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1 C
+abstract_algebra,model_A,1,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 The sum of f(x) = 4x - 5 and g(x) = 2x^2 - 4x + 2 is 2x^2 + 5. ThereforeThe answer is (A) 2x^2 + 5.
+abstract_algebra,model_A,2,1,30-20-40-10,30,20,40,10,2,False,20,False,0,,B,"1C  The statement ""4x - 2 is irreducible over Z"" is True because 2 is irreducible over Z. However, ""4x - 2 is irreducible over Q"" is False because 2 is reducible over Q."
+abstract_algebra,model_A,3,1,30-40-20-10,30,40,20,10,2,False,40,False,0,A,D,2 The inverse of a is (B) -2
+abstract_algebra,model_A,4,1,10-30-20-40,10,30,20,40,4,False,40,False,0,,B,"2B  The element (4, 2) of Z_12 x Z_8 has order 6."
+abstract_algebra,model_A,5,1,40-20-10-30,40,20,10,30,1,False,40,False,0,,C,"1 The product (2,3)(3,5) = (2*3 + 3*5, 2*5 + 3*3) = (11, 11) = (1,1) mod 5 x 9 = (1,1) mod 5 x 9 = (1,1) mod 5 x 9 ="
+abstract_algebra,model_A,6,1,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2  The function f must necessarily be surjective.
+abstract_algebra,model_A,7,1,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2C  3C  4C
+abstract_algebra,model_A,8,1,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"3C  Every group of order 42 has a normal subgroup of order 7. This is true because 42 = 2 * 3 * 7, and 7 divides 42. However, 8 does not divide 42, soEvery group of order 42 does not necessarily have a normal subgroup of order 8."
+abstract_algebra,model_A,9,1,30-20-10-40,30,20,10,40,3,False,10,False,0,,A,1B  The characteristic of Z_3 x Z_3 is 3.
+abstract_algebra,model_A,10,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The characteristic of the ring Z x Z is 0.
+abstract_algebra,model_A,11,1,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1B  2D  3C  4A
+abstract_algebra,model_A,12,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,C,1A
+abstract_algebra,model_A,13,1,10-20-40-30,10,20,40,30,2,False,20,True,20,A,A,"2  Statement 1 | If T: V -> W is a linear transformation and dim( V ) < dim( W ) < 1, then T must be injective.  Statement 2 | Let dim( V ) = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.  Answer: (C) True, False"
+abstract_algebra,model_A,14,1,10-20-40-30,10,20,40,30,3,False,40,False,0,,C,3  The polynomial x^3 + 2x^2 + 2x + 1 can be factored into linear factors in Z_7[x].FindThisFactorization  The factorization is (x + 1)(x + 4)(x − 2).ThereforeTheAnswerIsB
+abstract_algebra,model_A,15,1,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,2B  The degree of Q(sqrt(2)) over Q is 2.
+abstract_algebra,model_A,16,1,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1  The index of <p> in S_5 is 24. ThereforeThe answer is (C) 24.
+abstract_algebra,model_A,17,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2D  The function g must necessarily be surjective.
+abstract_algebra,model_A,18,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,A,2  Statement 1 | Every free abelian group is torsion free. Statement 2 | Every finitely generated torsion-free abelian group is a free abelian group.  Answer: A
+abstract_algebra,model_A,19,1,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,"1D  The statement ""If H and K are subgroups of a group G, then |HK| = |H||K|/|H intersection K|"" is False. The correct formula is |HK| = |H||K|/|H intersection K| + |H intersection K| - |H intersection K|^2.  The statement ""A group of order 2p"
+abstract_algebra,model_A,20,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,2  The polynomial x^4 + 4 can be factored into linear factors in Z_5[x].FindThisFactorization  The factorization is (x+1)^4  ThereforeTheAnswerIsB  TheAnswerIsB  TheAnswerIsB  TheAnswerIsB  TheAnswerIsB  TheAnswerIsB  TheAnswerIsB  TheAnswerIsB
+abstract_algebra,model_A,21,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,"1D  The relation ~={(1,2),(1,3),(4,2)}is symmetric. BecauseIf (1,2)∈~then (2,1)∈~.Therefore~={(1,2),(1,3),(1,2),(1,3),(1,2),(1,3),(1,2),(1,3),(1,2),(1"
+abstract_algebra,model_A,22,2,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1D  2D  3C  4C
+abstract_algebra,model_A,23,2,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,1 A
+abstract_algebra,model_A,24,2,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,"2  The set G of all n x n non-singular matrices with rational numbers as entries under multiplication is an infinite, nonabelian group. ThereforeThe answer isC."
+abstract_algebra,model_A,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,1 The product of f(x) = 4x - 5 and g(x) = 2x^2 - 4x + 2 in Z_8[x] is (4x - 5)(2x^2 - 4x + 2) = 8x^3 - 24x^2 + 16x - 10
+abstract_algebra,model_A,26,2,10-40-20-30,10,40,20,30,2,False,40,False,0,D,A,2  The answer is D.
+abstract_algebra,model_A,27,2,30-40-10-20,30,40,10,20,1,False,30,False,0,D,C,"Question 1  Answer: D  A subset H of a group (G,*) is a group if (A) a,b ∈ H=>a * b ∈ H (B) a ∈ H =>a^-1 ∈ H (C) a,b ∈ H=>a * b^-1 ∈ H (D) H contains the identity element  The correct answer is (D) H contains"
+abstract_algebra,model_A,28,2,40-30-20-10,40,30,20,10,2,False,30,False,0,,C,1C  The zeros of x^2 + 1 in Z_2 are 0 and 1.
+abstract_algebra,model_A,29,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,"1C  The correct answer is C. The first statement is False because If T: V -> W is a linear transformation and dim(V) < dim(W) < 1, then T does not necessarily have to be injective. The second statement is True because Let dim( V) = nand supposethatT: V -> Vislinear. IfTisinjective,thenIt"
+abstract_algebra,model_A,30,2,20-30-40-10,20,30,40,10,2,False,30,False,0,C,B,"2  The answer is C. The polynomial x^3 + cx^2 + 1 = 0 has roots 1, 2, 3. Therefore Z_3[x]/(x^3 + cx^2 + 1) = Z_3[x]/(x-1) × Z_3[x]/(x-2) × Z_3[x]/("
+abstract_algebra,model_A,31,2,10-20-30-40,10,20,30,40,2,False,20,False,0,A,D,2 The inverse of a is (B) -2
+abstract_algebra,model_A,32,2,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 The sum of f(x) = 4x - 5 and g(x) = 2x^2 - 4x + 2 is 2x^2 + 5. ThereforeThe answer is (A) 2x^2 + 5.
+abstract_algebra,model_A,33,2,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3  The polynomial x^3 + 2x^2 + 2x + 1 can be factored into linear factors in Z_7[x].FindThisFactorization  The factorization is (x + 1)(x + 4)(x − 2).ThereforeTheAnswerIsB
+abstract_algebra,model_A,34,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  Every permutation is a one-to-one function. This is True.  Every function is a permutation if and only if it is one-to-one. This is False. A function can be Many-to-One.  ThereforeThe answer isCTrueFalse.
+abstract_algebra,model_A,35,2,10-20-30-40,10,20,30,40,1,False,10,False,0,,D,"2C  The relation S = {(1, 1), (2, 2)} is symmetric because (1, 1) ∈ S implies (1, 1) ∈ S. It is also antisymmetric because there are no pairs (a, b) ∈ S such that (a, b) ∈ S and (b, a) ∈ S. Therefore, S is both"
+abstract_algebra,model_A,36,2,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2 A
+abstract_algebra,model_A,37,2,20-10-30-40,20,10,30,40,2,False,10,False,0,A,C,1B  The degree [Q(sqrt(2)) : Q] = 2  2A  Statement 1: True Statement 2: True  3D  The index [S_5 : <p>] = 24  4A  The factorization x^4 + 4 = (x − 2)(x + 2)(x − 1)(
+abstract_algebra,model_A,38,2,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1D  2C  3C  4C
+abstract_algebra,model_A,39,3,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,2 The identity element of this group is (A) 0
+abstract_algebra,model_A,40,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2 The generator for the finite field Z_11 is 2.
+abstract_algebra,model_A,41,3,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,"2  The answer is (A) True, True."
+abstract_algebra,model_A,42,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1C  There exists a free abelian group of every positive integer rank. This is True.  A finitely generated abelian group is free abelian if its Betti number equals the number of elements in some generating set. This is False.
+abstract_algebra,model_A,43,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"2C  Statement 1 | A factor group of a non-Abelian group is non-Abelian. Statement 2 | If K is a normal subgroup of H and H is a normal subgroup of G, then K is a normal subgroup of G.  Therefore (C) True, False"
+abstract_algebra,model_A,44,3,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1C  The maximum possible order for some element of Z_8 x Z_10 x Z_24 is 240.
+abstract_algebra,model_A,45,3,20-30-10-40,20,30,10,40,2,False,30,True,30,C,C,2 The degree of Q(sqrt(2)*sqrt(3)) over Q is 2. ThereforeThe answer is (C) 2.
+abstract_algebra,model_A,46,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2 The product of f(x) = 4x - 5 and g(x) = 2x^2 - 4x + 2 in Z_8[x] is 6x^2 + 4x + 6. ThereforeThe answer is (B) 6x^2 + 4x + 6.
+abstract_algebra,model_A,47,3,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1B  2A  3C  4C
+abstract_algebra,model_A,48,3,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,"2  The answer is A. If R is an integral domain, then R[x] is anintegral domain. If R[x]isnotanintegraldomain,thenthereexistsaNonzeroPolynomialf(x)inR[x]suchthatf(x)2=0. ThisimpliesthatthereexistsaNonzeronumbera∈Rsuchthatf(a)=0. ThereforeR"
+abstract_algebra,model_A,49,3,20-40-10-30,20,40,10,30,2,False,40,False,0,D,A,"2  Statement 1 | False Statement 2 | True  Therefore (D) False, True"
+abstract_algebra,model_A,50,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,"1C  A statement 1 | Any set of two vectors in R^2 is linearly independent. This statement is False. A set of two vectors {v1, v2}in R^2 can be linearly dependent. For example, v1 = (1, 0)andv2 = (0, 1)arelinearly dependentbecausev1+(-"
+abstract_algebra,model_A,51,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2C  3D  4C
+abstract_algebra,model_A,52,3,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  Every integral domain with characteristic 0 is infinite. This means Statement 1 is True.  Every integral domain with prime characteristic is finite. This means Statement 2 is False.  ThereforeThe answer is (C)TrueFalse.
+abstract_algebra,model_A,53,3,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,"2  The degree of Q(sqrt(2), sqrt(3)) over Q is 4."
+abstract_algebra,model_A,54,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,"2B  The relation ~={(1,2),(1,3),(4,2)}isnotantisymmetricbecause(1,2)isin~but(2,1)isnotin~.Therefore~isnotantisymmetric."
+abstract_algebra,model_A,55,3,40-20-30-10,40,20,30,10,1,False,40,False,0,,A,"1 The product (12)(16) = 192. Since 192 = 8 * 24 + 0, 192 ≡ 0 (mod 24). Therefore, (12)(16) ≡ 0 (mod 24). The answer is A."
+abstract_algebra,model_A,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  Every field is indeed a ring, so Statement 1 is True. However, not Every ring has a multiplicative identity; Some rings do not have a multiplicative identity (for example, The zero ring),SoStatement2isFalse."
+abstract_algebra,model_A,57,3,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,"1C  The statement |HK| = |H||K|/|H intersection K| is true if H and K are subgroups of G. However, |HK| = |H||K|/|H intersection K| does not necessarily hold if H and K are notsubgroups. ThereforeThe statement |HK| = |H||K|/|H intersection K|"
+abstract_algebra,model_A,58,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1 The maximum possible order for some element of Z_8 x Z_10 x Z_24 is 240. ThereforeThe answer is (C) 240.
+abstract_algebra,model_A,59,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,2C  Statement 1 is True because There exists a homomorphism f:G->G' definedby f(1)=1'foranyg∈G  Statement 2isFalsebecauseHomomorphismisnotNecessaryOne-to-OneMap  ThereforeTheCorrectAnswerIsCTrueFalse
+abstract_algebra,model_A,60,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,D,"1C  The set of all real numbers under the usual multiplication operation is not a group because the identity element does not exist. The identity element under multiplication is 1, but 1 does not belong to the set of real numbers."
+abstract_algebra,model_A,61,4,30-10-20-40,30,10,20,40,2,False,10,False,0,,C,"1B  The degree [Q(sqrt(2), sqrt(3), sqrt(18)) : Q] = [Q(sqrt(2), sqrt(3), sqrt(18)) : Q(sqrt(2), sqrt(3))] * [Q(sqrt(2), sqrt(3)) : Q] = 2 * 2 = 4.  ThereforeThe degree [Q(sqrt("
+abstract_algebra,model_A,62,4,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  The relation S = {(1, 1), (2, 2)} is symmetric because (1, 1) ∈ S implies (1, 1) ∈ S. It is also antisymmetric because there are no elements (a, b) ∈ S such that (a, b) ∈ S and (b, a) ∈ S. Therefore, S is both"
+abstract_algebra,model_A,63,4,10-40-30-20,10,40,30,20,1,False,10,False,0,B,C,"2B  If (G, .) is a group such that (ab)^-1 = a^-1b^-1, for all a, b in G, then G is a/an (B) abelian group  The statement (ab)^-1 = a^-1b^-1 implies that G is commutative (abelian) because (ab)^-1 = b"
+abstract_algebra,model_A,64,4,40-30-20-10,40,30,20,10,3,False,20,False,0,,A,1C  The characteristic of Z_3 x 3Z is 3.
+abstract_algebra,model_A,65,4,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  The characteristic of the ring Z x Z is 12.
+abstract_algebra,model_A,66,4,40-10-30-20,40,10,30,20,4,False,20,False,0,,B,1A  The polynomial x^4 + 4 can be factored into linear factors in Z_5[x].FindThisFactorization  The factorization is (x − 2)(x + 2)(x − 1)(x + 1)
+abstract_algebra,model_A,67,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,"1D  The inverse of -i in the multiplicative group {1, -1, i, -i} is -i.  2C  The statement ""Every nonzero free abelian group has an infinite number of bases"" is True. However, ""Every free abelian group of rank 2 has an infinite number of bases"" is False. ThereforeThe answer is (C) True"
+abstract_algebra,model_A,68,4,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2B  3B  4C
+abstract_algebra,model_A,69,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  The correct answer is C. A homomorphism may have an empty kernel. However, It is not possible to have a nontrivial homomorphism of some finite group into some infinite group."
+abstract_algebra,model_A,70,4,20-30-40-10,20,30,40,10,2,False,30,False,0,A,B,"2  Statement 1 | A factor group of a non-Abelian group is non-Abelian. Statement 2 | If K is a normal subgroup of H and H is a normal subgroup of G, then K is a normal subgroup of G.  Answer: A"
+abstract_algebra,model_A,71,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  Every maximal ideal is a prime ideal.  A finitely generated abelian group is free abelian if its Betti number equals the number of elements in some generating set.
+abstract_algebra,model_A,72,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,"1C  The statement ""If H is a subgroup of a group G and a belongs to G, then aH = Ha"" is True. However, ""If H is normal of G and a belongs to G, then ah = ha"" isFalse. ThereforeTheCorrectAnswerisC."
+abstract_algebra,model_A,73,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  Every permutation is a one-to-one function. This is True.  Every function is a permutation if and only if it is one-to-one. This is False. A function can be Many-to-One.  ThereforeThe answer isCTrueFalse
+abstract_algebra,model_A,74,4,30-20-40-10,30,20,40,10,2,False,20,False,0,,A,"1C  The correct answer is C.   The operation ^2 means ""the inverse of"" (since G is abelian).   Therefore (g o h)^2 = (g^-1 o h^-1) = g^-1 o (h^-1 o h) = g^-1 o I = g^-1 = g^2  Therefore (g o h)^2 ="
+abstract_algebra,model_A,75,4,20-30-10-40,20,30,10,40,2,False,30,False,0,D,A,"2  Statement 1 | False Statement 2 | True  Therefore (D) False, True"
+abstract_algebra,model_A,76,4,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,"2B  The degree of Q(sqrt(2), sqrt(3)) over Q is 4."
+abstract_algebra,model_A,77,5,40-30-10-20,40,30,10,20,2,False,30,False,0,A,B,"1B  The degree of Q(sqrt(2)) over Q is 2 because sqrt(2) is a root of x^2 - 2 = 0, which is irreducible over Q."
+abstract_algebra,model_A,78,5,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,2  The cyclic subgroup generated by 25 in Z_30 contains 6 elements. ThereforeThe answer is C) 6.
+abstract_algebra,model_A,79,5,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  The set of all nth roots of unity under multiplication of complex numbers form a/an (C) group.
+abstract_algebra,model_A,80,5,30-40-20-10,30,40,20,10,2,False,40,False,0,C,B,2 The maximum possible order for some element of Z_8 x Z_10 x Z_24 is 240. ThereforeThe answer is (C) 240.
+abstract_algebra,model_A,81,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,"3C  Every permutation is a one-to-one function. However, not Every function is a permutation if andonlyifitisone-toone."
+abstract_algebra,model_A,82,5,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1B  2C  3C  4C
+abstract_algebra,model_A,83,5,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,1A  The generator for the finite field Z_7 is 3.
+abstract_algebra,model_A,84,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1 A  2 C  3 B  4 C
+abstract_algebra,model_A,85,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,D,1C  The unity of a subring must be The unity of The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity The unity Th
+abstract_algebra,model_A,86,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,"2 The product 22*8 = 176, which is congruent to 11 modulo 26. Therefore, 22*8 = 11 (mod 26)."
+abstract_algebra,model_A,87,5,20-40-10-30,20,40,10,30,2,False,40,False,0,D,B,2 D
+abstract_algebra,model_A,88,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,A,"1D  The identity element under multiplication modulo 10 is 1. However, 1 is not listed among the options. ThereforeTheCorrectAnswerisD.  2A  BothStatement1andStatement2areTrue. ThereforeTheCorrectAnswerisA.  3C  Statement1isFalsebecauseThereIsNoAbelianGroupOfOrder45ThatHasASubgroupOfOrder10"
+abstract_algebra,model_A,89,5,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,2 The remainder of 3^47 when divided by 23 is 2.
+abstract_algebra,model_A,90,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,"1C  Every maximal ideal is indeed a prime ideal. However, If I is a maximal ideal of a commutative ring R, then R/I is not necessarily a field. The quotient R/I could be a ring, butitmaynotbeafield."
+abstract_algebra,model_A,91,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,"1D  The inverse of -i in the multiplicative group {1, -1, i, -i} is -i."
+abstract_algebra,model_A,92,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"3C  If R is a ring and f(x) and g(x) are in R[x], then deg (f(x)g(x)) = deg f(x) + deg g(x). This statement is False. The degree of f(x)g(x) is not necessarily equal to deg f(x) + deg g(x). The correct statement would be deg (f(x)g(x"
+abstract_algebra,model_A,93,5,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,"2  The answer is D. False, True."
+abstract_algebra,model_A,94,5,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,"2  The answer is D. False, True  A factor group of a non-Abelian group is non-Abelian. This is False. A factor group (or quotient group) can be Abelian even if the original group is non-Abelian.   If K is a normal subgroup of H and H is anormal subgroup of G, then K is anormal subgroup of G"
+abstract_algebra,model_A,95,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,1A  The generator for the finite field Z_11 is 2.
+abstract_algebra,model_A,96,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,"1C  The statement ""Every homomorphic image of a group G is isomorphic to a factor group of G"" is True. However, ""The homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G"" is False. The homomorphic images of G are not necessarily exactly the same as the factor gr"

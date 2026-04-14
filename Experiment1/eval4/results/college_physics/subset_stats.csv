@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+college_physics,baseline,1,19,42.105,27.895,0.0,0.1579,0.1579,0.4211,0.2632
+college_physics,baseline,2,19,42.105,27.895,0.0,0.2105,0.1579,0.2632,0.3684
+college_physics,baseline,3,19,42.105,24.737,0.0,0.1053,0.5263,0.1579,0.2105
+college_physics,baseline,4,19,15.789,30.526,0.0,0.1579,0.1579,0.1579,0.5263
+college_physics,baseline,5,20,20.0,25.5,0.0,0.4,0.05,0.15,0.4
+college_physics,model_A,1,18,22.222,28.333,5.263,0.1111,0.1667,0.5,0.2222
+college_physics,model_A,2,18,27.778,26.667,5.263,0.1667,0.2778,0.2778,0.2778
+college_physics,model_A,3,19,21.053,25.263,0.0,0.0526,0.5789,0.1579,0.2105
+college_physics,model_A,4,17,17.647,30.0,10.526,0.1765,0.1176,0.2353,0.4706
+college_physics,model_A,5,20,15.0,22.5,0.0,0.5,0.05,0.15,0.3

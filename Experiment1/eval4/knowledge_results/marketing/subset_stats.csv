@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+marketing,baseline,1,19,89.474,4.0,84.211,100.0,84.211,89.474
+marketing,baseline,2,19,85.526,4.0,84.211,78.947,94.737,84.211
+marketing,baseline,3,19,85.526,4.0,73.684,84.211,84.211,100.0
+marketing,baseline,4,19,82.895,4.0,68.421,94.737,78.947,89.474
+marketing,baseline,5,20,85.0,4.0,85.0,95.0,85.0,75.0
+marketing,model_A,1,19,86.842,4.0,84.211,94.737,78.947,89.474
+marketing,model_A,2,19,85.526,4.0,84.211,78.947,94.737,84.211
+marketing,model_A,3,19,85.526,4.0,73.684,84.211,84.211,100.0
+marketing,model_A,4,19,82.895,4.0,68.421,94.737,78.947,89.474
+marketing,model_A,5,20,87.5,4.0,90.0,95.0,85.0,80.0

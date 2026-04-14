@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+international_law,baseline,1,1,20-40-30-10,20,40,30,10,2,False,40,False,0,B,C,2 B
+international_law,baseline,2,1,20-10-30-40,20,10,30,40,3,False,30,True,30,C,C,3 C
+international_law,baseline,3,1,40-10-30-20,40,10,30,20,1,False,40,False,0,B,C,1. B
+international_law,baseline,4,1,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+international_law,baseline,5,1,10-40-20-30,10,40,20,30,2,False,40,False,0,B,A,2 B
+international_law,baseline,6,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+international_law,baseline,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+international_law,baseline,8,1,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+international_law,baseline,9,1,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1. B
+international_law,baseline,10,1,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,1. C
+international_law,baseline,11,1,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+international_law,baseline,12,1,20-10-30-40,20,10,30,40,1,False,20,False,0,B,D,1. B
+international_law,baseline,13,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+international_law,baseline,14,1,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1. A 2. D 3. B 4. B
+international_law,baseline,15,1,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+international_law,baseline,16,1,30-40-20-10,30,40,20,10,2,False,40,False,0,D,A,2 D
+international_law,baseline,17,1,30-10-40-20,30,10,40,20,3,False,40,True,40,C,C,3 C
+international_law,baseline,18,1,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+international_law,baseline,19,1,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+international_law,baseline,20,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+international_law,baseline,21,2,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2 B
+international_law,baseline,22,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1. D
+international_law,baseline,23,2,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+international_law,baseline,24,2,30-20-40-10,30,20,40,10,3,False,40,False,0,C,A,3 C
+international_law,baseline,25,2,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+international_law,baseline,26,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1. D
+international_law,baseline,27,2,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+international_law,baseline,28,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1 C
+international_law,baseline,29,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+international_law,baseline,30,2,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+international_law,baseline,31,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,C,1. A
+international_law,baseline,32,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+international_law,baseline,33,2,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2 A
+international_law,baseline,34,2,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1. B
+international_law,baseline,35,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+international_law,baseline,36,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1 A
+international_law,baseline,37,2,30-40-20-10,30,40,20,10,2,False,40,False,0,B,A,2 B
+international_law,baseline,38,2,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+international_law,baseline,39,3,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+international_law,baseline,40,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+international_law,baseline,41,3,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+international_law,baseline,42,3,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+international_law,baseline,43,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,1 C
+international_law,baseline,44,3,20-30-40-10,20,30,40,10,2,False,30,False,0,B,C,2 B
+international_law,baseline,45,3,10-40-30-20,10,40,30,20,2,False,40,False,0,B,A,2 B
+international_law,baseline,46,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1. A 2. B 3. A 4. C
+international_law,baseline,47,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+international_law,baseline,48,3,10-20-30-40,10,20,30,40,2,False,20,True,20,B,B,2 B
+international_law,baseline,49,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+international_law,baseline,50,3,30-40-10-20,30,40,10,20,2,False,40,False,0,B,D,2 B
+international_law,baseline,51,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+international_law,baseline,52,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A
+international_law,baseline,53,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+international_law,baseline,54,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1. D
+international_law,baseline,55,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1. D
+international_law,baseline,56,3,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1. A
+international_law,baseline,57,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+international_law,baseline,58,4,40-10-20-30,40,10,20,30,1,False,40,False,0,B,D,1. B
+international_law,baseline,59,4,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+international_law,baseline,60,4,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+international_law,baseline,61,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+international_law,baseline,62,4,30-20-10-40,30,20,10,40,1,False,30,False,0,B,D,1. B
+international_law,baseline,63,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1 C
+international_law,baseline,64,4,10-30-20-40,10,30,20,40,1,False,10,False,0,D,C,1. D
+international_law,baseline,65,4,30-40-10-20,30,40,10,20,2,False,40,False,0,B,C,2 B
+international_law,baseline,66,4,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+international_law,baseline,67,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+international_law,baseline,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+international_law,baseline,69,4,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2 The rationale for the exhaustion of local remedies in international human rights is to restrict the volume of petitions to international tribunals while building up the capacity of local courts.
+international_law,baseline,70,4,30-20-40-10,30,20,40,10,3,False,40,True,40,A,A,3 A
+international_law,baseline,71,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+international_law,baseline,72,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+international_law,baseline,73,4,40-30-20-10,40,30,20,10,1,False,40,False,0,B,C,1. B
+international_law,baseline,74,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1 A
+international_law,baseline,75,4,10-20-40-30,10,20,40,30,3,False,40,False,0,,A,3
+international_law,baseline,76,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+international_law,baseline,77,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1. D
+international_law,baseline,78,5,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+international_law,baseline,79,5,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+international_law,baseline,80,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+international_law,baseline,81,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+international_law,baseline,82,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+international_law,baseline,83,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+international_law,baseline,84,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+international_law,baseline,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+international_law,baseline,86,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,A,3
+international_law,baseline,87,5,30-40-20-10,30,40,20,10,1,False,30,False,0,B,C,1. B
+international_law,baseline,88,5,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+international_law,baseline,89,5,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+international_law,baseline,90,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+international_law,baseline,91,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+international_law,baseline,92,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1. C
+international_law,baseline,93,5,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+international_law,baseline,94,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+international_law,baseline,95,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+international_law,baseline,96,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+international_law,model_A,1,1,20-40-30-10,20,40,30,10,2,False,40,False,0,B,C,2 The aim of universal jurisdiction is (B) Its aim is to deter the commission of certain international crimes.
+international_law,model_A,2,1,20-10-30-40,20,10,30,40,1,False,20,False,0,,C,3C
+international_law,model_A,3,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1A  Passive personality jurisdiction refers to jurisdiction based on the nationality of the victims.
+international_law,model_A,4,1,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,"1C  The contiguous zone is a zone in which the coastal State is permitted to prevent and punish infringements of customs, fiscal, immigration or sanitary laws."
+international_law,model_A,5,1,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,2B  The meaning of implied authorisation refers to Implicit authorisation on the basis of a specific number of votes by UNSC members.
+international_law,model_A,6,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  An internationally wrongful conduct consists of anactionoromission attributabletotheStatewhichconstitutesabreachofaninternationalobligationoftheState.
+international_law,model_A,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  Rocks are considered 'rocks' under the UN Convention of the Law of theSea (UNCLOS) iftheycannotsustainhumanhabitationorEconomicLifeoftheirownandAccordingtoArticle121(3)HavenoExclusiveEconomicZoneorContinentalShelf.
+international_law,model_A,8,1,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The Badinter Commission required a commitment to human rights and democracy.
+international_law,model_A,9,1,40-30-20-10,40,30,20,10,1,False,40,False,0,C,B,1C  The secondary rules of international responsibility are the rules that govern exclusively the concept of attribution.
+international_law,model_A,10,1,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,"1C  The correct answer is (C) All acts undertaken by State corporations are jure gestionis.  The term ""Jure gestionis"" refers to acts undertaken by States in a private capacity. This means that acts performed by State corporations (such as government-owned enterprises) are considered Jure gestionis."
+international_law,model_A,11,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,"2B  An ""armed attack"" includes all high intensity instances of armed force."
+international_law,model_A,12,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1A  The first case to define the meaning of the doctrine of 'margin of appreciation' as applied by theEuropeanCourtofHumanRightswasGoodwinvUK(2002).
+international_law,model_A,13,1,20-30-40-10,20,30,40,10,1,False,20,False,0,,C,2C
+international_law,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1A  A derogation refers to the ability of rights holders to bring aclaimagainsttheStateforbreachofanobligation
+international_law,model_A,15,1,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1A  The principal organs of the UN may request anadvisory opinion.
+international_law,model_A,16,1,30-40-20-10,30,40,20,10,2,False,40,True,40,A,A,"2  The statement ""A state knows or ought to have known"" is part of the Osman test. ThereforeThe correct answer isD."
+international_law,model_A,17,1,30-10-40-20,30,10,40,20,1,False,30,False,0,,A,3C
+international_law,model_A,18,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2B
+international_law,model_A,19,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2A
+international_law,model_A,20,2,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The UN Human Rights Committee is a treaty-based human rights mechanism.
+international_law,model_A,21,2,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,"2B  The purpose of baselines under the law of theseais instrumentaltotheestablishmentofallmaritimezones, sincetheyconstitutethestartingpointformeasuringthebreadthofeachzone."
+international_law,model_A,22,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1D  The Universal Declaration of Human Rights (UDHR) is a declaration adopted by several States at aninternational conference.
+international_law,model_A,23,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2B
+international_law,model_A,24,2,30-20-40-10,30,20,40,10,3,False,40,False,0,B,A,3  The protective principle of jurisdiction is (B) Jurisdiction in order to protect one's nationals abroad.
+international_law,model_A,25,2,20-40-30-10,20,40,30,10,2,False,40,False,0,A,C,2  The meaning of collective security is (A) The right to self-defence by more than one nation acting in concert.
+international_law,model_A,26,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1D  The Universal Declaration of Human Rights (UDHR) is a declaration adopted by severalStatesat aninternationalconference.
+international_law,model_A,27,2,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1B
+international_law,model_A,28,2,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1C  Cultural relativism posits that the application of human rights is relative to the laws in each nation.
+international_law,model_A,29,2,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,"1C  The formal sources of international law are treaties, custom, and general principles of law."
+international_law,model_A,30,2,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1C
+international_law,model_A,31,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,C,1A
+international_law,model_A,32,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  The purpose of immunity is to shield States from being sued in the courts of other States.
+international_law,model_A,33,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2A  The 'Lotus principle' refers to the idea that 'whatever is not prohibited is permitted' in international law. This means that States are free to choose how they will regulate international relations.
+international_law,model_A,34,2,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1B
+international_law,model_A,35,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"1C  The flag State is to exercise exclusive jurisdiction over its vessels on the high seas, with the exception of specific cases, such as piracy."
+international_law,model_A,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,A,"1D  The courts may, but will seldom, stay proceedings in cases of extra-territorial abduction."
+international_law,model_A,37,2,30-40-20-10,30,40,20,10,2,False,40,False,0,C,A,"2  The major difference between naturalism and positivism is (C) Naturalism concerns the underpinning values of the international society, while positivismtheinternationalrulesassuch."
+international_law,model_A,38,2,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1C  The Badinter Commission required a commitment to human rights and democracy.
+international_law,model_A,39,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,C,2B  Dualism suggests that international and domestic laws comprise distinct legal systems.
+international_law,model_A,40,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  Treaties are to be interpreted in good faith in accordance with the ordinary meaning tobegiventothetermsoftheTreatyintheircontextandinthelightofitsobjectandpurpose.
+international_law,model_A,41,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2  The contiguous zone functions as security zone of the coastal State.
+international_law,model_A,42,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,2D  The provisional measures issued by the ICJ are binding upon the parties.
+international_law,model_A,43,3,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,1C  The jurisdictional principles applicabletonationalcourtsarenotcommontointernationaltribunalsInternationaltribunalssharesomebutnotallofthejurisdictionalprinciplesapplicabletonationalcourtsThejurisdictionofinternationaltribunalsisdeterminedbytheirfoundingtreaties
+international_law,model_A,44,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,C,2B
+international_law,model_A,45,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,"2  Treaties are concluded by the competent representatives of States. Heads of States, heads of governments, ministers of foreign affairs and heads of diplomatic missions are presumed to have such authority."
+international_law,model_A,46,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1A  A derogation refers to the ability of rights holders to bring aclaimagainsttheStateforbreachofanobligation
+international_law,model_A,47,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The rationale for the exhaustion of local remedies rule in international human rights is (D) The local remedies rule aims on theonehandtorestrictthevolumeofpetitionstointernationaltribunalswhileatsametimebuildingupthecapacityoflocalcourts. This rule helps ensurethatnationalcourtsaregiventheoppor
+international_law,model_A,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,,C,2B
+international_law,model_A,49,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  Reparation includes restitution, compensation, and satisfaction, either alone or alongside other forms of reparation."
+international_law,model_A,50,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,"2B  In the 1990s, it became apparent thattheEuropeanCourtofHumanRightshadtoberformedbecausetheWorkloadhadincreased."
+international_law,model_A,51,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,"1C  The form of reparation includes restitution, compensation, and satisfaction, either alone or alongside other forms of reparation."
+international_law,model_A,52,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1A  An international organisation's implied powers are those powers which are necessary in order for anorganisationtocarryoutthe tasksconferreduponitandwhicharenotstipulatedinitscharter.
+international_law,model_A,53,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C
+international_law,model_A,54,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1A  The function of standard-setting in human rights diplomacy isStandard-setting means putting forward binding legal standards.
+international_law,model_A,55,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,"1D  An ""armed attack"" gives the right to invade the aggressor State."
+international_law,model_A,56,3,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A  An act jure gestionis refers to acts undertaken by States in a private capacity.
+international_law,model_A,57,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,"3  The flag State is to exercise exclusive jurisdiction over its vessels on the high seas, with the exception of specific cases, such as piracy."
+international_law,model_A,58,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The effects doctrine serves to confer jurisdiction to the State on whose territory the conduct produces effects.
+international_law,model_A,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,A,C,1A
+international_law,model_A,60,4,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,"1C  The formal sources of international law are treaties, custom, and general principles of law."
+international_law,model_A,61,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  The victim State may only use such means and force as it is necessary to defeat the aggressor.
+international_law,model_A,62,4,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The first case to define the meaning of the doctrine of 'margin of appreciation' as applied by theEuropeanCourtofHumanRightswasGoodwinvUK(2002).
+international_law,model_A,63,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,2B  The use of armed force was permitted prior to the United Nations Charter.
+international_law,model_A,64,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2B  The purpose of universal jurisdiction is to deter the commission of certain international crimes.
+international_law,model_A,65,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,C,"2 An equitable result is what a judge or the arbitrator would decide ex aequo et bono, i.e. upon their discretion and in light of what they consider as fair and equitable in a delimitation case."
+international_law,model_A,66,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2B
+international_law,model_A,67,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B
+international_law,model_A,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  The fundamental prerequisite for the incorporation of custom under English law is Custom is incorporated if it is not in conflict with existing legislation.
+international_law,model_A,69,4,10-30-40-20,10,30,40,20,2,False,30,True,30,C,C,2  The rationale for the exhaustion of local remedies in international human rights is (C) The local remedies rule aims on theonehandtorestrictthevolumeofpetitionstointernationaltribunalswhileattheSameTimeBuildingUpTheCapacityOfLocalCourts.
+international_law,model_A,70,4,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,"3D  Third States are free to fish within another EEZ, except from certain designated areas."
+international_law,model_A,71,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1C  The war crimes trials held individuals legally responsible for acts such as war crimes and crimes against humanity.
+international_law,model_A,72,4,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,3C
+international_law,model_A,73,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1A  The meaning of functional recognition isRecognition is a function as opposed to a power.
+international_law,model_A,74,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A
+international_law,model_A,75,4,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2 D
+international_law,model_A,76,4,20-40-10-30,20,40,10,30,1,False,20,False,0,,A,2B
+international_law,model_A,77,5,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1C
+international_law,model_A,78,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,C,"2  An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of aninternational obligationoftheState."
+international_law,model_A,79,5,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1D  The courts exercise discretion as to the enforcement of foreign judgments on the basis of the rule of comity.
+international_law,model_A,80,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  The contiguous zone is a zone in which the coastal State is permitted to prevent and punish infringements of customs, fiscal, immigration or sanitary laws."
+international_law,model_A,81,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The Badinter Commission required a commitment to human rights and democracy.
+international_law,model_A,82,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  The flag State is to exercise exclusive jurisdiction over its vessels on thehigh seas,withtheexceptionofspecificcasessuchaspiracy."
+international_law,model_A,83,5,20-30-10-40,20,30,10,40,1,False,20,False,0,,C,2C
+international_law,model_A,84,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,"1D  The purpose of baselines under the law of theseais instrumentaltotheestablishmentofallmaritimezones, sincetheyconstitutethestartingpointformeasuringthebreadthofeachzone."
+international_law,model_A,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The provisional measures issued by the ICJ are binding YesIt hasbeen consistently heldbytheCourtsincetheLaGrandcase(2001)thattheyarebinding  2A  TheUnlawfulHomicidecommittedbyMinisterofCountryXabroadisanActJureImperiiSuchconductisanPublicAct  3B  TheViennaConventionontheLaw
+international_law,model_A,86,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,3C
+international_law,model_A,87,5,30-40-20-10,30,40,20,10,1,False,30,False,0,B,C,1B  Personal immunity is afforded only to particular persons irrespective if their conduct was undertaken in a private or public capacity.
+international_law,model_A,88,5,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2  The particular advantage of UNSC Resolution 678 over a collective defensive action under Article 51 UN Charter during the Gulf War was (C) Resolution 678 was faster to adopt and negotiate.
+international_law,model_A,89,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2C  Immunity shields States from being sued in the courts of other States.
+international_law,model_A,90,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+international_law,model_A,91,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  The meaning of proportionality in relation to the options available to the victim State is The victim State may only use such means and force as it is necessary to defeat the aggressor.
+international_law,model_A,92,5,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1C  The Kadi judgment required that important UNSC resolutions betransformedandnotmerelyincorporated.
+international_law,model_A,93,5,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1B
+international_law,model_A,94,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,1A
+international_law,model_A,95,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The aim of universal jurisdiction is to provide jurisdiction to all States in respect of particular crimes.
+international_law,model_A,96,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C  The UK Constitution is uncodified and can be found in a numberof sources.

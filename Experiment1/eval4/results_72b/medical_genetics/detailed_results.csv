@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_pos1,pts_pos2,pts_pos3,pts_pos4
+medical_genetics,baseline,1,1,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+medical_genetics,baseline,2,1,30-20-40-10,3,False,40,False,0,,A,3,30,20,40,10
+medical_genetics,baseline,3,1,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+medical_genetics,baseline,4,1,30-10-40-20,3,False,40,False,0,,A,3,30,10,40,20
+medical_genetics,baseline,5,1,20-30-40-10,3,False,40,True,40,C,C,3. C,20,30,40,10
+medical_genetics,baseline,6,1,40-30-20-10,1,False,40,True,40,C,C,1. C,40,30,20,10
+medical_genetics,baseline,7,1,20-40-30-10,2,False,40,False,0,,D,2,20,40,30,10
+medical_genetics,baseline,8,1,40-20-10-30,1,False,40,False,0,D,A,1. D,40,20,10,30
+medical_genetics,baseline,9,1,30-10-40-20,3,False,40,True,40,C,C,3. C,30,10,40,20
+medical_genetics,baseline,10,1,30-10-20-40,4,False,40,False,0,,B,4,30,10,20,40
+medical_genetics,baseline,11,1,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+medical_genetics,baseline,12,1,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+medical_genetics,baseline,13,1,40-30-10-20,1,False,40,True,40,A,A,1. A,40,30,10,20
+medical_genetics,baseline,14,1,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+medical_genetics,baseline,15,1,30-10-40-20,3,False,40,False,0,C,B,3. C,30,10,40,20
+medical_genetics,baseline,16,1,10-30-40-20,3,False,40,False,0,,A,3,10,30,40,20
+medical_genetics,baseline,17,1,30-10-20-40,4,False,40,False,0,,A,4,30,10,20,40
+medical_genetics,baseline,18,1,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+medical_genetics,baseline,19,1,30-10-20-40,4,False,40,False,0,,B,4,30,10,20,40
+medical_genetics,baseline,20,2,40-10-20-30,4,False,30,False,0,,D,4,40,10,20,30
+medical_genetics,baseline,21,2,30-20-40-10,3,False,40,False,0,,B,3,30,20,40,10
+medical_genetics,baseline,22,2,20-30-10-40,4,False,40,False,0,,A,4,20,30,10,40
+medical_genetics,baseline,23,2,40-30-20-10,1,False,40,True,40,D,D,1. D,40,30,20,10
+medical_genetics,baseline,24,2,20-10-30-40,4,False,40,True,40,C,C,4. C,20,10,30,40
+medical_genetics,baseline,25,2,20-10-40-30,3,False,40,False,0,,C,3,20,10,40,30
+medical_genetics,baseline,26,2,40-20-10-30,1,False,40,True,40,B,B,1. B,40,20,10,30
+medical_genetics,baseline,27,2,20-10-30-40,4,False,40,False,0,,C,4,20,10,30,40
+medical_genetics,baseline,28,2,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+medical_genetics,baseline,29,2,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+medical_genetics,baseline,30,2,10-20-30-40,4,False,40,True,40,C,C,4  C,10,20,30,40
+medical_genetics,baseline,31,2,30-40-20-10,2,False,40,False,0,,C,2,30,40,20,10
+medical_genetics,baseline,32,2,40-10-20-30,1,False,40,True,40,C,C,1. C,40,10,20,30
+medical_genetics,baseline,33,2,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+medical_genetics,baseline,34,2,10-40-30-20,2,False,40,False,0,,C,2,10,40,30,20
+medical_genetics,baseline,35,2,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+medical_genetics,baseline,36,2,30-20-10-40,4,False,40,False,0,,A,4,30,20,10,40
+medical_genetics,baseline,37,2,20-40-10-30,2,False,40,False,0,,A,2,20,40,10,30
+medical_genetics,baseline,38,2,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+medical_genetics,baseline,39,3,20-30-40-10,3,False,40,False,0,,B,3,20,30,40,10
+medical_genetics,baseline,40,3,20-30-10-40,4,False,40,False,0,,D,4,20,30,10,40
+medical_genetics,baseline,41,3,10-20-40-30,3,False,40,True,40,C,C,3. C,10,20,40,30
+medical_genetics,baseline,42,3,10-40-30-20,2,False,40,False,0,,D,2,10,40,30,20
+medical_genetics,baseline,43,3,30-20-40-10,3,False,40,False,0,C,D,3. C,30,20,40,10
+medical_genetics,baseline,44,3,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+medical_genetics,baseline,45,3,10-30-40-20,3,False,40,True,40,A,A,3. A,10,30,40,20
+medical_genetics,baseline,46,3,10-30-20-40,4,False,40,False,0,,C,4,10,30,20,40
+medical_genetics,baseline,47,3,30-40-10-20,2,False,40,False,0,,A,2,30,40,10,20
+medical_genetics,baseline,48,3,40-10-30-20,1,False,40,True,40,B,B,1. B,40,10,30,20
+medical_genetics,baseline,49,3,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+medical_genetics,baseline,50,3,40-30-20-10,1,False,40,False,0,A,B,1. A,40,30,20,10
+medical_genetics,baseline,51,3,10-20-40-30,3,False,40,False,0,,B,3,10,20,40,30
+medical_genetics,baseline,52,3,30-10-20-40,4,False,40,True,40,A,A,4. A,30,10,20,40
+medical_genetics,baseline,53,3,40-10-20-30,1,False,40,False,0,A,D,1. A,40,10,20,30
+medical_genetics,baseline,54,3,40-10-30-20,1,False,40,True,40,D,D,1. D,40,10,30,20
+medical_genetics,baseline,55,3,40-20-30-10,1,False,40,True,40,A,A,1. A,40,20,30,10
+medical_genetics,baseline,56,3,10-40-20-30,2,False,40,False,0,,B,2,10,40,20,30
+medical_genetics,baseline,57,3,40-10-30-20,1,False,40,True,40,D,D,1. D,40,10,30,20
+medical_genetics,baseline,58,4,20-10-30-40,4,False,40,False,0,,B,4,20,10,30,40
+medical_genetics,baseline,59,4,10-30-20-40,4,False,40,True,40,D,D,4. D,10,30,20,40
+medical_genetics,baseline,60,4,20-40-30-10,2,False,40,False,0,,A,2,20,40,30,10
+medical_genetics,baseline,61,4,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+medical_genetics,baseline,62,4,30-20-10-40,4,False,40,False,0,,B,4,30,20,10,40
+medical_genetics,baseline,63,4,10-20-40-30,3,False,40,False,0,,C,3,10,20,40,30
+medical_genetics,baseline,64,4,30-40-20-10,2,False,40,False,0,,A,2,30,40,20,10
+medical_genetics,baseline,65,4,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+medical_genetics,baseline,66,4,10-20-30-40,4,False,40,True,40,D,D,"4, D",10,20,30,40
+medical_genetics,baseline,67,4,20-40-10-30,2,False,40,True,40,A,A,2. A,20,40,10,30
+medical_genetics,baseline,68,4,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+medical_genetics,baseline,69,4,40-30-10-20,1,False,40,True,40,C,C,1. C,40,30,10,20
+medical_genetics,baseline,70,4,40-10-30-20,1,False,40,True,40,A,A,1. A,40,10,30,20
+medical_genetics,baseline,71,4,40-20-30-10,1,False,40,True,40,C,C,1. C,40,20,30,10
+medical_genetics,baseline,72,4,20-30-40-10,3,False,40,False,0,,B,3,20,30,40,10
+medical_genetics,baseline,73,4,10-40-20-30,2,False,40,False,0,,D,2,10,40,20,30
+medical_genetics,baseline,74,4,20-10-40-30,3,False,40,False,0,,D,3,20,10,40,30
+medical_genetics,baseline,75,4,30-20-40-10,3,False,40,False,0,,A,3,30,20,40,10
+medical_genetics,baseline,76,4,40-30-20-10,1,False,40,True,40,A,A,1. A,40,30,20,10
+medical_genetics,baseline,77,5,20-40-30-10,2,False,40,False,0,,C,2,20,40,30,10
+medical_genetics,baseline,78,5,20-30-10-40,4,False,40,False,0,,D,4,20,30,10,40
+medical_genetics,baseline,79,5,40-20-10-30,1,False,40,True,40,A,A,1. A,40,20,10,30
+medical_genetics,baseline,80,5,20-30-10-40,4,False,40,False,0,C,B,4. C,20,30,10,40
+medical_genetics,baseline,81,5,20-40-10-30,2,False,40,False,0,,B,2,20,40,10,30
+medical_genetics,baseline,82,5,10-30-20-40,4,False,40,False,0,,C,4,10,30,20,40
+medical_genetics,baseline,83,5,10-20-40-30,3,False,40,True,40,D,D,3. D,10,20,40,30
+medical_genetics,baseline,84,5,20-40-10-30,2,False,40,False,0,,A,2,20,40,10,30
+medical_genetics,baseline,85,5,10-20-30-40,4,False,40,False,0,,D,4,10,20,30,40
+medical_genetics,baseline,86,5,40-20-10-30,1,False,40,False,0,,B,1,40,20,10,30
+medical_genetics,baseline,87,5,40-10-20-30,1,False,40,True,40,B,B,1. B,40,10,20,30
+medical_genetics,baseline,88,5,10-30-40-20,3,False,40,False,0,,B,3,10,30,40,20
+medical_genetics,baseline,89,5,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+medical_genetics,baseline,90,5,10-30-20-40,4,False,40,True,40,A,A,"4, A",10,30,20,40
+medical_genetics,baseline,91,5,30-40-10-20,2,False,40,False,0,,C,2,30,40,10,20
+medical_genetics,baseline,92,5,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+medical_genetics,baseline,93,5,20-30-40-10,3,False,40,True,40,C,C,3. C,20,30,40,10
+medical_genetics,baseline,94,5,10-30-40-20,3,False,40,False,0,,A,3,10,30,40,20
+medical_genetics,baseline,95,5,30-40-10-20,2,False,40,False,0,,B,2,30,40,10,20
+medical_genetics,baseline,96,5,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+medical_genetics,model_A,1,1,30-20-10-40,1,False,30,False,0,A,C,I choose question number 1 and the answer is (A) asparagine has been replaced by phenylalanine.,30,20,10,40
+medical_genetics,model_A,2,1,30-20-40-10,4,False,10,False,0,D,B,I choose question 4 and the answer is D.,30,20,40,10
+medical_genetics,model_A,3,1,40-30-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,40,30,10,20
+medical_genetics,model_A,4,1,30-10-40-20,4,False,20,True,20,C,C,I choose question number 4 and the answer is (C) Hexosaminidase A.,30,10,40,20
+medical_genetics,model_A,5,1,20-30-40-10,3,False,40,False,0,B,C,I choose question number 3 and the answer is B.,20,30,40,10
+medical_genetics,model_A,6,1,40-30-20-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D hard inheritance.,40,30,20,10
+medical_genetics,model_A,7,1,20-40-30-10,1,False,20,False,0,D,A,I choose question number 1 and the answer is (D) Twin pregnancies.,20,40,30,10
+medical_genetics,model_A,8,1,40-20-10-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,40,20,10,30
+medical_genetics,model_A,9,1,30-10-40-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,30,10,40,20
+medical_genetics,model_A,10,1,30-10-20-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,10,20,40
+medical_genetics,model_A,11,1,30-40-20-10,3,False,20,True,20,D,D,I choose question number 3 and the answer is D.,30,40,20,10
+medical_genetics,model_A,12,1,40-20-30-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is (D) ends of thelong arms.,40,20,30,10
+medical_genetics,model_A,13,1,40-30-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D Klinefelter syndrome.,40,30,10,20
+medical_genetics,model_A,14,1,20-10-40-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,20,10,40,30
+medical_genetics,model_A,15,1,30-10-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,30,10,40,20
+medical_genetics,model_A,16,1,10-30-40-20,1,False,10,True,10,C,C,I choose question number 1 and the answer is (C) Huntington disease.,10,30,40,20
+medical_genetics,model_A,17,1,30-10-20-40,3,False,20,True,20,C,C,I choose question number 3 and the answer is (C) Hurler syndrome.,30,10,20,40
+medical_genetics,model_A,18,1,20-10-40-30,1,False,20,True,20,B,B,I choose question number 1 and the answer is (B) hereditary non-polyposis colon cancer (HNPCC).,20,10,40,30
+medical_genetics,model_A,19,1,30-10-20-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,10,20,40
+medical_genetics,model_A,20,2,40-10-20-30,3,False,20,False,0,B,C,I choose question number 3 and the answer is B 1 in 40 000.,40,10,20,30
+medical_genetics,model_A,21,2,30-20-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,20,40,10
+medical_genetics,model_A,22,2,20-30-10-40,1,False,20,True,20,B,B,I choose question 1 and the answer is B.,20,30,10,40
+medical_genetics,model_A,23,2,40-30-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,40,30,20,10
+medical_genetics,model_A,24,2,20-10-30-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,20,10,30,40
+medical_genetics,model_A,25,2,20-10-40-30,4,False,30,False,0,D,B,I choose question number 4 and answer it with option D: easy assembly.,20,10,40,30
+medical_genetics,model_A,26,2,40-20-10-30,3,False,10,True,10,B,B,I choose question number 3 and the answer is B.,40,20,10,30
+medical_genetics,model_A,27,2,20-10-30-40,4,False,40,False,0,D,C,I choose question 4 and the answer is D.,20,10,30,40
+medical_genetics,model_A,28,2,10-20-30-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,10,20,30,40
+medical_genetics,model_A,29,2,30-10-40-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,30,10,40,20
+medical_genetics,model_A,30,2,10-20-30-40,1,False,10,False,0,D,B,I choose question 1 and the answer is (D) Haemophilia B.,10,20,30,40
+medical_genetics,model_A,31,2,30-40-20-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,30,40,20,10
+medical_genetics,model_A,32,2,40-10-20-30,4,False,30,True,30,A,A,"I choose question number 4.   Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist of noncoding DNA. (B) The first exon of a protein-ccoding gene always contains the translational start site. (C) The last exon of a protein-coding gene",40,10,20,30
+medical_genetics,model_A,33,2,20-40-30-10,1,False,20,True,20,B,B,I choose question number 1 and the answer is B.,20,40,30,10
+medical_genetics,model_A,34,2,10-40-30-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,40,30,20
+medical_genetics,model_A,35,2,30-20-10-40,4,False,40,False,0,D,A,I choose question 4 and the answer is D Bloom syndrome.,30,20,10,40
+medical_genetics,model_A,36,2,30-20-10-40,4,False,40,False,0,D,A,I choose question 4 and the answer is D.,30,20,10,40
+medical_genetics,model_A,37,2,20-40-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D Tay-Sachs disease.,20,40,10,30
+medical_genetics,model_A,38,2,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,40,20,10
+medical_genetics,model_A,39,3,20-30-40-10,4,False,10,True,10,D,D,I choose question 4 and the answer is D.,20,30,40,10
+medical_genetics,model_A,40,3,20-30-10-40,2,False,30,True,30,B,B,I choose question number 2 and the answer is B gain-offunction.,20,30,10,40
+medical_genetics,model_A,41,3,10-20-40-30,3,False,40,True,40,C,C,I choose question number 3 and the answer is C Hexosaminidase A.,10,20,40,30
+medical_genetics,model_A,42,3,10-40-30-20,3,False,30,True,30,B,B,I choose question number 3 and answer it with B.,10,40,30,20
+medical_genetics,model_A,43,3,30-20-40-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D RET.,30,20,40,10
+medical_genetics,model_A,44,3,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,10,30,40
+medical_genetics,model_A,45,3,10-30-40-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,10,30,40,20
+medical_genetics,model_A,46,3,10-30-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D Pompe disease.,10,30,20,40
+medical_genetics,model_A,47,3,30-40-10-20,3,False,10,False,0,C,B,I choose question number 3 and the answer is (C) expression of thegenes only when lactose is present.,30,40,10,20
+medical_genetics,model_A,48,3,40-10-30-20,4,False,20,True,20,B,B,I choose question number 4 and the answer is B BRCA2.,40,10,30,20
+medical_genetics,model_A,49,3,10-40-20-30,2,False,40,False,0,B,A,I choose question number 2 and the answer is B.,10,40,20,30
+medical_genetics,model_A,50,3,40-30-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D Klinefelter syndrome.,40,30,20,10
+medical_genetics,model_A,51,3,10-20-40-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,20,40,30
+medical_genetics,model_A,52,3,30-10-20-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,30,10,20,40
+medical_genetics,model_A,53,3,40-10-20-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D maternal epigenetics.,40,10,20,30
+medical_genetics,model_A,54,3,40-10-30-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,40,10,30,20
+medical_genetics,model_A,55,3,40-20-30-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D Haemophilia B.,40,20,30,10
+medical_genetics,model_A,56,3,10-40-20-30,4,False,30,False,0,D,A,I choose question 4 and the answer is D.,10,40,20,30
+medical_genetics,model_A,57,3,40-10-30-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D X-linked recessive.,40,10,30,20
+medical_genetics,model_A,58,4,20-10-30-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,20,10,30,40
+medical_genetics,model_A,59,4,10-30-20-40,1,False,10,True,10,D,D,I choose question number 1 and the answer is (D) X-linked recessive.,10,30,20,40
+medical_genetics,model_A,60,4,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D RET.,20,40,30,10
+medical_genetics,model_A,61,4,10-40-30-20,1,False,10,True,10,B,B,I choose question 1 and the answer is (B) soft inheritance.,10,40,30,20
+medical_genetics,model_A,62,4,30-20-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,20,10,40
+medical_genetics,model_A,63,4,10-20-40-30,3,False,40,False,0,B,C,I choose question number 3 and the answer is B.,10,20,40,30
+medical_genetics,model_A,64,4,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,40,20,10
+medical_genetics,model_A,65,4,10-40-30-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,10,40,30,20
+medical_genetics,model_A,66,4,10-20-30-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,10,20,30,40
+medical_genetics,model_A,67,4,20-40-10-30,1,False,20,True,20,A,A,I choose question number 1 and the answer is (A).,20,40,10,30
+medical_genetics,model_A,68,4,40-30-10-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D a point mutation.,40,30,10,20
+medical_genetics,model_A,69,4,40-30-10-20,4,False,20,False,0,B,D,I choose question number 4 and the answer is B 7.,40,30,10,20
+medical_genetics,model_A,70,4,40-10-30-20,4,False,20,True,20,C,C,I choose question number 4 and the answer is C.,40,10,30,20
+medical_genetics,model_A,71,4,40-20-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,20,30,10
+medical_genetics,model_A,72,4,20-30-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D Pompe disease.,20,30,40,10
+medical_genetics,model_A,73,4,10-40-20-30,1,False,10,False,0,B,A,I choose question 1 and answer it with B.,10,40,20,30
+medical_genetics,model_A,74,4,20-10-40-30,3,False,40,True,40,D,D,I choose question number 3 and the answer is D.,20,10,40,30
+medical_genetics,model_A,75,4,30-20-40-10,4,False,10,False,0,D,B,I choose question number 4 and the answer is D.,30,20,40,10
+medical_genetics,model_A,76,4,40-30-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,40,30,20,10
+medical_genetics,model_A,77,5,20-40-30-10,4,False,10,True,10,D,D,I choose question 4 and the answer is D Zellweger syndrome.,20,40,30,10
+medical_genetics,model_A,78,5,20-30-10-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,20,30,10,40
+medical_genetics,model_A,79,5,40-20-10-30,3,False,10,False,0,D,B,I choose question number 3 and the answer is D.,40,20,10,30
+medical_genetics,model_A,80,5,20-30-10-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,20,30,10,40
+medical_genetics,model_A,81,5,20-40-10-30,1,False,20,True,20,C,C,I choose question number 1 and the answer is (C) ornithine transcarbamylase (OTC) deficiency.,20,40,10,30
+medical_genetics,model_A,82,5,10-30-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,30,20,40
+medical_genetics,model_A,83,5,10-20-40-30,1,False,10,True,10,B,B,I choose question 1 and the answer is (B) BRCA2.,10,20,40,30
+medical_genetics,model_A,84,5,20-40-10-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,20,40,10,30
+medical_genetics,model_A,85,5,10-20-30-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D Succinylcholine.,10,20,30,40
+medical_genetics,model_A,86,5,40-20-10-30,1,False,40,True,40,B,B,I choose question number 1 and the answer is (B) incomplete dominance.,40,20,10,30
+medical_genetics,model_A,87,5,40-10-20-30,2,False,10,False,0,B,C,I choose question number 2 and the answer is B.,40,10,20,30
+medical_genetics,model_A,88,5,10-30-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is (D) Twin pregnancies.,10,30,40,20
+medical_genetics,model_A,89,5,10-40-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,40,20,30
+medical_genetics,model_A,90,5,10-30-20-40,4,False,40,False,0,D,A,I choose question 4 and the answer is D.,10,30,20,40
+medical_genetics,model_A,91,5,30-40-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,30,40,10,20
+medical_genetics,model_A,92,5,30-40-10-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,30,40,10,20
+medical_genetics,model_A,93,5,20-30-40-10,3,False,40,True,40,C,C,I choose question 3 and the answer is (C) Hurler syndrome.,20,30,40,10
+medical_genetics,model_A,94,5,10-30-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,10,30,40,20
+medical_genetics,model_A,95,5,30-40-10-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D.,30,40,10,20
+medical_genetics,model_A,96,5,40-20-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,40,20,30,10

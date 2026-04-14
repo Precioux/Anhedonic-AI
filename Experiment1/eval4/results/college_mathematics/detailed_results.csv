@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+college_mathematics,baseline,1,1,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2
+college_mathematics,baseline,2,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+college_mathematics,baseline,3,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+college_mathematics,baseline,4,1,30-10-20-40,30,10,20,40,1,False,30,False,0,B,C,1. B
+college_mathematics,baseline,5,1,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+college_mathematics,baseline,6,1,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,7,1,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,8,1,30-20-10-40,30,20,10,40,1,False,30,False,0,B,D,1. B
+college_mathematics,baseline,9,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+college_mathematics,baseline,10,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+college_mathematics,baseline,11,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+college_mathematics,baseline,12,1,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+college_mathematics,baseline,13,1,30-40-10-20,30,40,10,20,1,False,30,False,0,B,D,1. (B) (x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2)
+college_mathematics,baseline,14,1,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_mathematics,baseline,15,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+college_mathematics,baseline,16,1,10-20-40-30,10,20,40,30,1,False,10,False,0,B,A,1. B
+college_mathematics,baseline,17,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+college_mathematics,baseline,18,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+college_mathematics,baseline,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+college_mathematics,baseline,20,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+college_mathematics,baseline,21,2,10-20-30-40,10,20,30,40,1,False,10,True,10,B,B,1. B
+college_mathematics,baseline,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,23,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,24,2,20-30-40-10,20,30,40,10,1,False,20,False,0,C,A,1. C
+college_mathematics,baseline,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,1. D
+college_mathematics,baseline,26,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1. C
+college_mathematics,baseline,27,2,10-30-40-20,10,30,40,20,1,False,10,False,0,C,D,1. C
+college_mathematics,baseline,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,1. A
+college_mathematics,baseline,29,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1. D
+college_mathematics,baseline,30,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+college_mathematics,baseline,31,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1 B
+college_mathematics,baseline,32,2,20-40-30-10,20,40,30,10,1,False,20,False,0,B,C,1 B
+college_mathematics,baseline,33,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,34,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+college_mathematics,baseline,35,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_mathematics,baseline,36,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,37,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+college_mathematics,baseline,38,2,20-40-30-10,20,40,30,10,1,False,20,False,0,C,A,1. C
+college_mathematics,baseline,39,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1. D
+college_mathematics,baseline,40,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+college_mathematics,baseline,41,3,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+college_mathematics,baseline,42,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1. C
+college_mathematics,baseline,43,3,20-30-10-40,20,30,10,40,4,False,40,False,0,,C,4
+college_mathematics,baseline,44,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1. C
+college_mathematics,baseline,45,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,D,2
+college_mathematics,baseline,46,3,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+college_mathematics,baseline,47,3,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,48,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2
+college_mathematics,baseline,49,3,10-40-30-20,10,40,30,20,2,False,40,False,0,D,A,2 D
+college_mathematics,baseline,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+college_mathematics,baseline,51,3,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,52,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_mathematics,baseline,53,3,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1. B
+college_mathematics,baseline,54,3,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D
+college_mathematics,baseline,55,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,D,2
+college_mathematics,baseline,56,3,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,57,3,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,1. A 2. B 3. C 4. C
+college_mathematics,baseline,58,4,20-10-40-30,20,10,40,30,1,False,20,False,0,D,A,1. D
+college_mathematics,baseline,59,4,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,2 D
+college_mathematics,baseline,60,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D
+college_mathematics,baseline,61,4,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,62,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,63,4,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,1. A
+college_mathematics,baseline,64,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,65,4,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,66,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,67,4,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,2 A
+college_mathematics,baseline,68,4,20-30-40-10,20,30,40,10,1,False,20,False,0,B,D,1. B
+college_mathematics,baseline,69,4,10-30-40-20,10,30,40,20,2,False,30,False,0,,A,2
+college_mathematics,baseline,70,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+college_mathematics,baseline,71,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1. C
+college_mathematics,baseline,72,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+college_mathematics,baseline,73,4,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+college_mathematics,baseline,74,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,D,C,1. D
+college_mathematics,baseline,76,4,10-30-20-40,10,30,20,40,1,False,10,False,0,C,A,1. C
+college_mathematics,baseline,77,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1. C
+college_mathematics,baseline,78,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+college_mathematics,baseline,79,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+college_mathematics,baseline,80,5,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+college_mathematics,baseline,81,5,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+college_mathematics,baseline,82,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+college_mathematics,baseline,83,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,1. C
+college_mathematics,baseline,84,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1. A 2. D 3. B 4. A
+college_mathematics,baseline,85,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,A,2
+college_mathematics,baseline,86,5,20-40-10-30,20,40,10,30,2,False,40,False,0,B,C,2 B
+college_mathematics,baseline,87,5,30-10-40-20,30,10,40,20,1,False,30,False,0,B,A,1. B
+college_mathematics,baseline,88,5,10-30-20-40,10,30,20,40,1,False,10,False,0,A,C,1. A
+college_mathematics,baseline,89,5,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+college_mathematics,baseline,90,5,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1. A
+college_mathematics,baseline,91,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,B,2
+college_mathematics,baseline,92,5,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1. D
+college_mathematics,baseline,93,5,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+college_mathematics,baseline,94,5,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+college_mathematics,baseline,95,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,C,1
+college_mathematics,baseline,96,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+college_mathematics,model_A,1,1,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,"2C  The nonzero integers under multiplication is NOT a group because it does not satisfy the closure property. For example, 2*3=6, which is not a nonzero integer."
+college_mathematics,model_A,2,1,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The weakest condition sufficient to ensure the compactness of T is (C) f is continuous.
+college_mathematics,model_A,3,1,40-10-20-30,40,10,20,30,2,False,10,False,0,,A,1A  The probability that exactly 2 out of 3 randomly selected suitcases are damaged can be calculated using combinations. The total number of ways to select 3 suitcases out of 25 is 25C3. TheNumberofwaysToSelect2DamagedSuitcasesOutOf5Is5C2. TheProbabilityThatExactly2SuitcasesAreDamagedIsTherefore5
+college_mathematics,model_A,4,1,30-10-20-40,30,10,20,40,1,False,30,False,0,B,C,"1B  The probability that x < y can be found by dividing the area of the region where x < y by the total area of the rectangle formed by [0,3]x[0,4]. The area of the region x < y is 3/2 * 3/2 = 9/4. The total area is 3 * 4 = 12"
+college_mathematics,model_A,5,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,"1A  The statement (A) (S, +, x) is closed under addition modulo 10 is false because 2+2=4+2=6+2=8+2=10=0 (mod10)whichisnotinS."
+college_mathematics,model_A,6,1,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2A  3A  4A
+college_mathematics,model_A,7,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,Question 1  The set R has the greatest cardinality. ThereforeThe answer is (A) R.
+college_mathematics,model_A,8,1,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2D  3C  4B
+college_mathematics,model_A,9,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,Question 1  Answer: D  Question 2  Answer: C  Question 3  Answer: D  Question 4  Answer: D
+college_mathematics,model_A,10,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2B  3D  4B
+college_mathematics,model_A,11,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  Every compact space is complete.
+college_mathematics,model_A,12,1,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,3C
+college_mathematics,model_A,13,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,"Question 1  The equation of the torus generated by revolving the circle (y - 3)^2 + z^2 = 1 around the z-axis can be found using the formula (x^2 + (y - k)^2 + z^2)^2 = R^2 + (r^2 - k^2)^2, where R is the distance from the center"
+college_mathematics,model_A,14,1,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2D  3C  4B
+college_mathematics,model_A,15,1,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,"1D  The question asks Which of the following must be true? I. R is commutative. II. R is a division ring (thatis, all elements exceptthe additive identityhave multiplicative inverses). III. R is infinite. (A)Ionly(B)IIonly(C)IIIonly(D)IandIIonly  The answer is D. I. R is"
+college_mathematics,model_A,16,1,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,Question 1  The greatest possible area of a triangular region with one vertex at the center of acircleofradius1andtheothertwoverticesonthecircleisThegreatestpossibleareaofatriangularregionwithonevertexatthecenterofacircleofradius1andtheothertwoverticesonthecircleisThegreatestpossibleareaofatriangula
+college_mathematics,model_A,17,1,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,"Question 1  Answer: B  The norm ||x||_2, also known as the Euclidean norm, is expressible as an inner product. It is defined as ||x||_2 = sqrt(x^T x) = sqrt(x_1^2 + x_2^2 + ... + x_n^2), where x_1, x_2, ..., x"
+college_mathematics,model_A,18,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1B  2A  3C  4D
+college_mathematics,model_A,19,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1 The map x -> axa^2 of a group G into itself is a homomorphism if and only if (A) G is abelian (B) G = {e} (C) a^3 = e (D) a^2 = a  The correct answer is (A) G is abelian.
+college_mathematics,model_A,20,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,"1D  The characteristic polynomial det(λI - A) = −λ^3 + 3λ^2 + λ − 3 = (λ+1)(λ−1)(λ−3) tells us that A has eigenvalues −1, 1, 3. The trace traceA = −1+1+3=3. The determinant detA = −3"
+college_mathematics,model_A,21,2,10-20-30-40,10,20,30,40,2,False,20,False,0,,B,Question 2  The value of f(8) is 36.
+college_mathematics,model_A,22,2,30-10-20-40,30,10,20,40,1,False,30,False,0,A,C,1  The answer is A. The rate of change of the height of the ladder's top end is 6*sqrt(2) meters/second.
+college_mathematics,model_A,23,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C  The area of an equilateral triangle whose inscribed circle has radius 2 is 12*sqrt(3).
+college_mathematics,model_A,24,2,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1  The probability of rolling a 5 is 1/6. The probability of rolling a 6 is 1/6. The probability of rolling 5 firstand6secondis1/6*1/6=1/36=2/81  ThereforeTheanswerisA2/81  2  The greatest possible valueoff(0)is5
+college_mathematics,model_A,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,"1D  The correct answer is D. III Only.  The characteristic polynomial of P is \(P^2 - P = P(P - I) = 0\), implying \(P\) is either The identity transformation \(I\) (which satisfies \(P^2 = P\))orThe zero transformation \(0\) (whichalsosatisfies\(P^2 = P\)).Therefore"
+college_mathematics,model_A,26,2,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2B  3C  4B
+college_mathematics,model_A,27,2,10-30-40-20,10,30,40,20,1,False,10,False,0,C,D,1C  The equation of the torus generated by revolving the circle (y - 3)^2 + z^2 = 1 around the z-axis is (x^2 + (y - 3)^2 + z^2)^2 = 8 + 36(x^2 + z^2). This matches option (C) (x^2 + y^2
+college_mathematics,model_A,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,Question 1  Answer: A  The trace of A is 2.
+college_mathematics,model_A,29,2,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,"1A  The maximum possible area of the yard, given x feet of fencing, would be achieved when forming a square. The perimeter would be 3s = x (where s = side length), so s = x/3. The area A = s^2 = (x/3)^2 = x^2/9.  2D  The strongest conclusion that can be drawn is"
+college_mathematics,model_A,30,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"Question 1  The answer is (B) 2. The norm ||x||_2, also known as the Euclidean norm, is expressible as an inner product. Specifically, ||x||_2 = sqrt(x^T x), where x^T denotes the transpose of x. This expression satisfies the properties required for an inner product."
+college_mathematics,model_A,31,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,"1B  The probability that X = n is 1/2^n, so P(X > 3) = P(X = 4) + P(X = 5) + ... = 1/2^4 + 1/2^5 + ... = 1/16 * (1/1 - 1/2) = 1/8. Since X"
+college_mathematics,model_A,32,2,20-40-30-10,20,40,30,10,2,False,40,False,0,C,B,2 The answer is C) 10.
+college_mathematics,model_A,33,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  The group G is necessarily (D) abelian. This means that (ab)^2 = a^2b^2 implies (ab)^2 = (ab)(ab) = (ba)(ba) = (ab)^2, which means ab = ba. Therefore, G is abelian.  2A  The system is inconsistent. The augmented matrix [A|b]"
+college_mathematics,model_A,34,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The correct answer is D. I and II only.  The statement ""If K is compact, then every continuous real-valued function defined on K is bounded"" is true because compactness implies boundedness.  The statement ""If every continuous real-valued function defined on K is bounded, then K is compact"" is al"
+college_mathematics,model_A,35,2,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1D  2B  3B  4A
+college_mathematics,model_A,36,2,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The possible dimensions of V intersect W are 0, 1, 2. ThereforeThe answer is (D) 0, 1, 2 only."
+college_mathematics,model_A,37,2,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1D  2A  3B  4B
+college_mathematics,model_A,38,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,2D
+college_mathematics,model_A,39,3,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,Question 1  Answer: A  The circle x^2 + y^2 = 1 has 4 points of intersection with the parabola x^2 = y + 4. The other circles have 2 points of intersection.
+college_mathematics,model_A,40,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,C,Question 1  The area of an equilateral triangle whose inscribed circle has radius 2 is 12*sqrt(3).ThereforeThe answerisC.
+college_mathematics,model_A,41,3,30-40-20-10,30,40,20,10,2,False,40,True,40,C,C,"Question 2  The set R has continuum cardinality, The set Z^Z has continuum cardinality, The set {0,1}^R has continuum cardinality, The set R^R has continuum cardinality. ThereforeThe set Z^Z has continuum cardinality.  ThereforeThe set {0,1}^R has continuum cardinality.  ThereforeThe set R^R has con"
+college_mathematics,model_A,42,3,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,Question 1  Answer: C  The answer is C. 9x + 4y  The solution involves finding a linear combination of 3x + 7y that results in 11. The coefficients 9x + 4y = 11(3x + 7y)/11 = 3x + 7y. Therefore 9x +
+college_mathematics,model_A,43,3,20-30-10-40,20,30,10,40,1,False,20,False,0,D,A,1D  The minimum value of x + 4z subjecttotheconstraintx^2 + y^2 + z^2 <= 2canbefoundbycompletingtheSquareTheexpressionx^2 + y^2 + z^2 <= 2canbe rewrittenas (x^2 - 2x) + (y^2 - 2y) + (
+college_mathematics,model_A,44,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,Question 1 Answer: C  The probability thattheplayerwho makesthefirsttosswinsthegameis1/2.
+college_mathematics,model_A,45,3,20-40-10-30,20,40,10,30,2,False,40,False,0,A,D,2  The trace of A is 3. The determinate of A is −3. The matrix A has eigenvalues −3 and 1.
+college_mathematics,model_A,46,3,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2  The correct answer is (A) f has all of its relative extrema on the line x = y.
+college_mathematics,model_A,47,3,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,"1  The minimum value of f(x) = e^x - cx occurs when f'(x) = 0.  f'(x) = e^x - c  Setting f'(x) = 0, we get e^x = c  The minimum value occurs when x = ln(c)  ThereforeThe minimum value occursWhen x = ln(c)  ThereforeThe minimum value occursWhen"
+college_mathematics,model_A,48,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2  The area between the curves y = (sin x + cos x)^4 and y = (sin x - cos x)^4 from x = 0 to x = π/2 is 2π/3. ThereforeThe answer is (D) 3π/2.
+college_mathematics,model_A,49,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2 Wednesday
+college_mathematics,model_A,50,3,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,Question 1  The dimension of the subspace kernel of T is 2. ThereforeThe answer is A.
+college_mathematics,model_A,51,3,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The area of an equilateral triangle whose inscribed circle has radius 2 is 12*sqrt(3).
+college_mathematics,model_A,52,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,D,"1  The system is consistent. The system has infinitely many solutions. The sum of any two solutions is a solution. Every solution is a scalar multiple of (-5, 1, 1, 0)."
+college_mathematics,model_A,53,3,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,"Question 2  Answer: B  The answer is 7. The maximum number of teams needed is 7 because 7 students can dislike 21 classmates (7*3), which means 21 students can dislike 7 students. Therefore, 7 teams are needed."
+college_mathematics,model_A,54,3,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,"1D  The characteristic polynomial det(λI - A) = −λ^3 + 3λ^2 + λ − 3. The trace of A is equal to −3 + 1 = −2. The determinant |A| = −3. The eigenvalues are −3, 1, 1. Therefore I. The trace of A is 3. II"
+college_mathematics,model_A,55,3,20-40-10-30,20,40,10,30,2,False,40,False,0,C,D,2  The answer is C. The sum {u + v : u \in U and v \in V} must be an ideal of R.
+college_mathematics,model_A,56,3,30-40-20-10,30,40,20,10,1,False,30,False,0,D,C,"1  The minimum value occurs when x = 0, y = 0, z = -sqrt(35)/2. ThereforeThe answer is (D) -sqrt(35)."
+college_mathematics,model_A,57,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2B  3C  4B
+college_mathematics,model_A,58,4,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1D  2B  3C  4B
+college_mathematics,model_A,59,4,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,"2  The answer is D) I and II only.  To prove I, assume V has a basis consisting entirely of eigenvectors of T. Then U = M(V) because U contains all matrices X ∈ M(V) such that TX = XT, which implies TX = XT = T^2X = T^2X + T^2X = 2T^2X ="
+college_mathematics,model_A,60,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,"Question 1  Answer: D  The equation x^(logy) = y^logx can be rewritten as x^logy = y^logx. This implies x^logy = x^logx. Since x^logy = x^logx, x^logy = x^logx = x^logx = x^logx = x^log"
+college_mathematics,model_A,61,4,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,Question 1  The weakest condition sufficient to ensure the compactness of T is (C) f is continuous.
+college_mathematics,model_A,62,4,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1D  The units digit of 7^25 is 7.
+college_mathematics,model_A,63,4,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,"2B  The trace of a matrix is invariant under similarity transformations. Therefore, IfAandBaresimilarmatrices,thenAandBhavethesametrace."
+college_mathematics,model_A,64,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"Question 1  Answer: D  The number of edges E in a complete graph K_n (where n=10) can be calculated using the formula E = n*(n-1)/2. Substituting n=10, we get E = 10*(10-1)/2 = 10*9/2 = 45. Therefore,"
+college_mathematics,model_A,65,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1A  The strongest conclusion that canbe drawnisS(n0+1)isnottrue.
+college_mathematics,model_A,66,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2D  3B  4D
+college_mathematics,model_A,67,4,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,2  The trace of A is 2.
+college_mathematics,model_A,68,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,Question 1  The probability that neither integer chosen will be the square of theotheris 0.64.  ThereforeThe answerisA.
+college_mathematics,model_A,69,4,10-30-40-20,10,30,40,20,1,False,10,False,0,,C,2B
+college_mathematics,model_A,70,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2A  3C  4C
+college_mathematics,model_A,71,4,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2A  3C  4B
+college_mathematics,model_A,72,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"Question 1  Answer: D  The event H >= 48 and T >= 48 has the greatest probability. This is because The probability mass function (PMF)ofX=H−TisgivenbyP(X=2k)=2−2kfork=0,1,...,100−1. ThePMFissymmetricalaroundk=5"
+college_mathematics,model_A,73,4,10-20-40-30,10,20,40,30,2,False,20,False,0,,C,Question 2  The value of f(2) is 1/(2e).
+college_mathematics,model_A,74,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,Question 1  Answer: A  The circle x^2 + y^2 = 1 has 4 points of intersection with the parabola x^2 = y + 4.
+college_mathematics,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,D,C,1D  The probability thatthethree smaller segmentscouldformthesidesofatriangleis50%.ThisisbecauseTheSumOfTheLengthsOfAnyTwoSidesOfATriangleMustBeGreaterThanTheLengthOfTheThirdSideSoIfWeConsiderTheSegmentsABACandBCThenTheSumOfTheLengthsOfABACandBCMustBeGreaterThanTheLengthOfACWhichIs
+college_mathematics,model_A,76,4,10-30-20-40,10,30,20,40,2,False,30,False,0,A,C,"1C  The trace of A^2 is nonnegative because trace(A^2) = trace(AA) = trace(A) + trace(A) = 2trace(A) >= 0. The trace of A^2 = A implies trace(A) = 0, so II is false. The trace of AB = trace(BA) = traceA + traceB, so III"
+college_mathematics,model_A,77,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,D,"1  The greatest possible value of f(0) occurs when f'(x) = -1 for all x. Since f(3) = 5, f(0) = 5 + 3(-1) = 2. ThereforeThe greatest possible value of f(0) = 2.  2  The probability of rolling 5 is 1/6. The probability"
+college_mathematics,model_A,78,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,"1A  The equation cos(97x) = x has exactly one solution. This can be shown by considering the behavior of cos(97x) as x increases. The cosine function oscillates between -1 and 1, so cos(97x) = x has exactly one solution. Therefore, The answer is A."
+college_mathematics,model_A,79,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"Question 1 Answer: D  The number of edges E in a complete graph with n vertices is given by E = n * (n - 1) / 2. For n = 10, E = 10 * 9 / 2 = 45. Therefore, 45 edges."
+college_mathematics,model_A,80,5,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1A  2B  3B  4D
+college_mathematics,model_A,81,5,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,"1  The structure (Z, •) is not a group because there is no identity element. The operation defined by m•n = m + n + mn is not associative. ThereforeThe answer is (A) I and II only."
+college_mathematics,model_A,82,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,Question 1  Answer: A  The answer is A. The rate of change of the height of the ladder's top end can be found using similar triangles. The ratio of TheRateOfChangeOfTheHeightOfTheLadderToTheRateOfChangeOfTheDistanceFromTheWallToTheBottomEndOfTheLadderisTheSameAsTheRatioOfTheLengthOfTheLadderTo
+college_mathematics,model_A,83,5,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,Question 1  The answer is (B) 6.  Question 2  The answer is (D) The complex numbers under addition.  Question 3  The answer is (D) A single point.  Question 4  The answer is (A) I and II only.
+college_mathematics,model_A,84,5,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2D  3B  4A
+college_mathematics,model_A,85,5,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,"2  The dimension of V ∩ W cannot be 4 because V ∩ W would be a subspace of V, W, X, respectively. Therefore, V ∩ W cannot be 4-dimensional.  ThereforeThe dimension of V ∩ W cannot be 4."
+college_mathematics,model_A,86,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2 The probability that x < y is 7/12.
+college_mathematics,model_A,87,5,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A  The number of ways 10 professors can be assigned 20 courses is 20!/(2^10) = 20!/(2^10) = 20!/(2^10) = 20!/(2^10) = 20!/(2^10) = 20!/(2
+college_mathematics,model_A,88,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,B,"2  The number of real solutions of the equation e^x + x - 2 = 0 in the interval [0, 1] is 1. ThereforeThe number of real solutions that are not in [0, 1] is 0. ThereforeThe answer is (B) k = 1 and n = 0."
+college_mathematics,model_A,89,5,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2D  3C  4C
+college_mathematics,model_A,90,5,30-10-20-40,30,10,20,40,1,False,30,False,0,,D,Question 1  The probability that neither integer chosen will be the square of theotheris 0.64.  ThereforeThe answerisA.
+college_mathematics,model_A,91,5,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,"2  The answer is (B) True, False."
+college_mathematics,model_A,92,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,Question 1  Answer: A  The circle x^2 + y^2 = 1 has 4 points of intersection with the parabola x^2 = y + 4. The other circles have 2 points of intersection.
+college_mathematics,model_A,93,5,10-30-40-20,10,30,40,20,2,False,30,False,0,A,B,"Question 2  The maximum possible area of the yard, in terms of x, is (A) x^2/9."
+college_mathematics,model_A,94,5,40-20-30-10,40,20,30,10,2,False,20,False,0,A,D,1C  The map x -> axa^2 is a homomorphism if (C) a^3 = e. This is because (axa^2)(x) = axa^2x = axa^2 = (ax)(a^2x) = (ax)(x) = x -> axa^2. Therefore (C) is correct.
+college_mathematics,model_A,95,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,"1C  The intervals [−1, 3) and [2, 2] ∪ [3, 3] are invalid intervals of convergence because [2, 2] ∪ [3, 3] = [2, 3] which is not an interval. Therefore, only (I) [−1, 3) and (IV) (−∞"
+college_mathematics,model_A,96,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,"1D  The characteristic polynomial det(λI - A) = −λ^3 + 3λ^2 + λ − 3 = (λ+1)(λ-1)^2. The trace of A is 3, The determinant of A is 3, The eigenvalues are -1, 1, 1."

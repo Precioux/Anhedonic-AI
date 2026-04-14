@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_biology,baseline,1,1,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+high_school_biology,baseline,2,1,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+high_school_biology,baseline,3,1,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,1. D 2. D 3. A 4. D
+high_school_biology,baseline,4,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_biology,baseline,5,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_biology,baseline,6,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_biology,baseline,7,1,30-40-20-10,30,40,20,10,1,False,30,False,0,D,B,1. D
+high_school_biology,baseline,8,1,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+high_school_biology,baseline,9,1,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_biology,baseline,10,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1. A
+high_school_biology,baseline,11,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+high_school_biology,baseline,12,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+high_school_biology,baseline,13,1,10-40-20-30,10,40,20,30,2,False,40,False,0,B,D,2 B
+high_school_biology,baseline,14,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1 C
+high_school_biology,baseline,15,1,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D 2. D 3. B 4. D
+high_school_biology,baseline,16,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1. A
+high_school_biology,baseline,17,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_biology,baseline,18,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1. C
+high_school_biology,baseline,19,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+high_school_biology,baseline,20,2,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+high_school_biology,baseline,21,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1. D
+high_school_biology,baseline,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1. C
+high_school_biology,baseline,23,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D. Intraspecific competition
+high_school_biology,baseline,24,2,20-30-10-40,20,30,10,40,2,False,30,False,0,,C,2
+high_school_biology,baseline,25,2,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D
+high_school_biology,baseline,26,2,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1 B
+high_school_biology,baseline,27,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1. C
+high_school_biology,baseline,28,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+high_school_biology,baseline,29,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_biology,baseline,30,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+high_school_biology,baseline,31,2,20-40-10-30,20,40,10,30,2,False,40,False,0,C,D,2 C
+high_school_biology,baseline,32,2,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1. B
+high_school_biology,baseline,33,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1. C
+high_school_biology,baseline,34,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+high_school_biology,baseline,35,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,1. D
+high_school_biology,baseline,36,2,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+high_school_biology,baseline,37,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+high_school_biology,baseline,38,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+high_school_biology,baseline,39,3,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1. B
+high_school_biology,baseline,40,3,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+high_school_biology,baseline,41,3,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2 C
+high_school_biology,baseline,42,3,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+high_school_biology,baseline,43,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D 2. A 3. B 4. B
+high_school_biology,baseline,44,3,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+high_school_biology,baseline,45,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+high_school_biology,baseline,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+high_school_biology,baseline,47,3,30-20-40-10,30,20,40,10,3,False,40,False,0,C,B,3 C
+high_school_biology,baseline,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1 D
+high_school_biology,baseline,49,3,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+high_school_biology,baseline,50,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D. Gastrulation
+high_school_biology,baseline,51,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+high_school_biology,baseline,52,3,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D 2. C 3. B 4. A
+high_school_biology,baseline,53,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1. D
+high_school_biology,baseline,54,3,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1 C
+high_school_biology,baseline,55,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_biology,baseline,56,3,20-10-40-30,20,10,40,30,3,False,40,True,40,D,D,3 D
+high_school_biology,baseline,57,3,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+high_school_biology,baseline,58,4,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+high_school_biology,baseline,59,4,30-40-10-20,30,40,10,20,2,False,40,False,0,B,C,2 B
+high_school_biology,baseline,60,4,10-20-40-30,10,20,40,30,3,False,40,True,40,D,D,3 D
+high_school_biology,baseline,61,4,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_biology,baseline,62,4,30-40-10-20,30,40,10,20,1,False,30,False,0,D,B,1. D
+high_school_biology,baseline,63,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,B,2
+high_school_biology,baseline,64,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+high_school_biology,baseline,65,4,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+high_school_biology,baseline,66,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1 D
+high_school_biology,baseline,67,4,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2 A reaction that includes energy as one of its reactants is called a(n) exergonic reaction.
+high_school_biology,baseline,68,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+high_school_biology,baseline,69,4,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+high_school_biology,baseline,70,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+high_school_biology,baseline,71,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+high_school_biology,baseline,72,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,1
+high_school_biology,baseline,73,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+high_school_biology,baseline,74,4,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+high_school_biology,baseline,75,4,30-10-40-20,30,10,40,20,3,False,40,True,40,B,B,3 B
+high_school_biology,baseline,76,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1 D
+high_school_biology,baseline,77,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,A,1. D
+high_school_biology,baseline,78,5,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+high_school_biology,baseline,79,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_biology,baseline,80,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_biology,baseline,81,5,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,1. B
+high_school_biology,baseline,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+high_school_biology,baseline,83,5,30-20-10-40,30,20,10,40,4,False,40,True,40,D,D,4 D
+high_school_biology,baseline,84,5,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,1. A
+high_school_biology,baseline,85,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+high_school_biology,baseline,86,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+high_school_biology,baseline,87,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+high_school_biology,baseline,88,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1. D
+high_school_biology,baseline,89,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1. A
+high_school_biology,baseline,90,5,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+high_school_biology,baseline,91,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+high_school_biology,baseline,92,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_biology,baseline,93,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+high_school_biology,baseline,94,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+high_school_biology,baseline,95,5,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+high_school_biology,baseline,96,5,20-40-10-30,20,40,10,30,2,False,40,True,40,D,D,2 D
+high_school_biology,model_A,1,1,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1D  The biological explanation for Charles Darwin's observation about the plants of temperate South America resembling those of tropical South America is most properly associated with the field of biogeography.
+high_school_biology,model_A,2,1,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2B  The researcher describes sympatric speciation. This occurs when two populations become reproductively isolated within the same geographic area.
+high_school_biology,model_A,3,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,2D  Those being hunted adopt a coloring scheme that allows them to blend in tothecolors oftheenvironment.
+high_school_biology,model_A,4,1,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The higher the proportion of loci that are ""fixed"" in a population, the lower is that population's nucleotide variability."
+high_school_biology,model_A,5,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The question asks Which of the following developmental processes most directly results in the formation of the three primary germ layers? The answer is D Gastrulation.
+high_school_biology,model_A,6,1,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1D  2B  3D  4A
+high_school_biology,model_A,7,1,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B  The transfer of DNA between two bacterial cells connectedbysexpiliisknownasConjugation.
+high_school_biology,model_A,8,1,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2C  The critical factor responsible for the shift from forest ecosystems to grasslands when driving from east to west in the U.S. is Availability of water.
+high_school_biology,model_A,9,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,2D  During Which Phase Of The Cell Cycle Does The Quantity Of DNA In A Eukaryotic Cell Typically Double?
+high_school_biology,model_A,10,1,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+high_school_biology,model_A,11,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1B  The base composition of DNA varies from one species to another. Which of the following ratios would you expect to remain constant in the DNA? (A) Cytosine : Adenine (B) Pyrimidine : Purine (C) Adenine : Guanine (D) Guanine : Deoxyribose  The ratio Pyrimidine : Purine would be
+high_school_biology,model_A,12,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,"1C  The question asks ""Which of the following is not an observation or inference on which natural selection is based?"" The correct answer is C) Species produce more offspring than the environment can support. This is not an observation or inference on which natural selection is based. Natural select"
+high_school_biology,model_A,13,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,"2B  In most ecosystems, net primary productivity represents the total solar energy converted to chemical energy by producers."
+high_school_biology,model_A,14,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"1C  Phospholipids are amphipathic molecules, meaning they have polar heads that are hydrophilic (water-loving) and nonpolar tails that are hydrophobic (water-hating). This allows them to spontaneously form bilayers, which is essential forthe formation of cell membranes."
+high_school_biology,model_A,15,1,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2D  3B  4C
+high_school_biology,model_A,16,1,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A 2B 3A 4D
+high_school_biology,model_A,17,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The correct characteristic of arteries is (D) They carry blood away from the heart.
+high_school_biology,model_A,18,1,30-10-20-40,30,10,20,40,1,False,30,False,0,C,D,1C
+high_school_biology,model_A,19,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  The correct answer is D. Wearing goggles and nitrile-type gloves and keeping all acetone containers closed. This is because acetone is an eye and skin irritant and has flammable vapors. Wearing goggles will protect the eyes from any splashes or spills, and nitrile-type gloves will protect the sk"
+high_school_biology,model_A,20,2,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2  The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses?  A) Eukaryotic and prokaryotic cells share a common ancestor.  B) Mitochondria a
+high_school_biology,model_A,21,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,"1D  Mules cannot perform successful meiosis because they are hybrids between two species. If crossing-over happens in mules, then it must be limited to prophase of mitosis."
+high_school_biology,model_A,22,2,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The major difference between cartilage and bone is that cartilage lacks blood vessels and nerves.
+high_school_biology,model_A,23,2,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  Two trees ofthe same species growingclose togetherwill usethe sameresourcessuchaslightwaterandnutrientsIfanyoftheseresourcesbecomeslimitingtheneachtreewillreceivelessofitthaniftheTreeweregrowingfartherapartThisscenarioisanexampleofwhichofthefollowingAParasitismBCommensalismCNaturalSelectionDIntr
+high_school_biology,model_A,24,2,20-30-10-40,20,30,10,40,2,False,30,True,30,C,C,2  The correct answer is (C) The distance between genes on a chromosome. Crossing-over during meiosis allows scientists to determine The distance between genes on a chromosome.
+high_school_biology,model_A,25,2,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,"1A  The process of allopatric speciation involves geographic isolation, followed by reproductive isolation, differential changes in allele frequencies, and ultimately reproductive barriers leading to the formation of a new species. Therefore, option (A) correctly summarizes the process.  2C  When ox"
+high_school_biology,model_A,26,2,40-10-20-30,40,10,20,30,1,False,40,False,0,,B,1  The question 1 offers the highest reward (40 points) and seems to require knowledge of diffusion across cell membranes. The correct answer is (B) Increasing the concentration gradient of the solute across the membrane.
+high_school_biology,model_A,27,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,D,1C  The biome known for its cold winters and pine forests is Taiga.
+high_school_biology,model_A,28,2,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2A  3D  4A
+high_school_biology,model_A,29,2,20-40-30-10,20,40,30,10,1,False,20,False,0,C,D,"1C  The pH of Lake B is 6.0, which means it has a hydrogen ion concentration of 10^-6 M. ThereforeThe pH of Lake B is 6.0, which means it has a hydrogen ion concentration of 10^-6 M. ThereforeThe pH of Lake B is 6.0, which means it has a hydrogen ion concentration of"
+high_school_biology,model_A,30,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  The correct answer is D. The head of a phospholipid is hydrophilic, and the tails are hydrophobic."
+high_school_biology,model_A,31,2,20-40-10-30,20,40,10,30,2,False,40,True,40,D,D,2 The chance that the child will inherit sickle-cell disease is 25%. ThereforeThe answer is D) 25%.
+high_school_biology,model_A,32,2,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,2C  The correct answer is C. The light-dependent reactions of photosynthesis occurintheStromaofchloroplastsandsplitwaterprovidingHydrogenionsandElectronstoNADP+forTemporaryStorage.
+high_school_biology,model_A,33,2,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"Question 1  Answer: C  A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (A) A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (B) Certain plants grow on trees in order to gain access to sunlight, not affecting"
+high_school_biology,model_A,34,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,"1D  The question asks Which of the following statements about Mules is true? The correct answer is D) If crossing-over happens in Mules, then it must be limited to prophase of mitosis. This is because Mules are sterile duetotheirhybridnatureandcannotperformmeiosis.  2A  The question asksWhichofthefo"
+high_school_biology,model_A,35,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,A,"1D  The correct answer is D. The longer the current is running, the farther theDNAwilltravel. ThisisbecausetheDNAwillcontinuetomigrateuntilitreachesthewallsoftheelectrophoresiscelloruntilitcollideswithotherDNAmolecules."
+high_school_biology,model_A,36,2,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+high_school_biology,model_A,37,2,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,2D  All ofthefollowingplayanimportantroleinregulatingrespirationinhumansEXCEPTDStrenuousExercise.
+high_school_biology,model_A,38,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,"1D  RNA viral replication lacks proofreading functions characteristic of DNA replication, making it more susceptible to mutation."
+high_school_biology,model_A,39,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,"2C  The gallbladder does not secrete digestive enzymes. It stores bile, which is produced by the liver and stored in the gallbladder."
+high_school_biology,model_A,40,3,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1A  The application of colchicine would most impair the alignment and separation of chromosomes during mitosis.
+high_school_biology,model_A,41,3,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,2C  The summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus most likely triggers the algal blooms and the associated dead zones.
+high_school_biology,model_A,42,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,2B  The Endosymbiotic Model
+high_school_biology,model_A,43,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called (D) frameshift mutation."
+high_school_biology,model_A,44,3,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2A  3B  4D
+high_school_biology,model_A,45,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The single strand of complementary DNA (cDNA) made from the original DNA contains the fewest number of nucleotides.
+high_school_biology,model_A,46,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1B  Catastrophism was Cuvier's attempt to explain the existence of uniformitarianism.
+high_school_biology,model_A,47,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3  The relationship between Lampreys attaching to Lake trout and absorbing nutrients from its body is an example of parasitism. ThereforeThe answer isB.
+high_school_biology,model_A,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1D  The question asks Which of the following BEST explains why populations of mosquito fish evolved differently depending on whether or not predatory fish were present? The answer D) Sympatric isolation brought about reproductive isolation.
+high_school_biology,model_A,49,3,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1C  The genotypes Bb Bb represent a cross that could produce offspring with silver fur (bb) from parents that both have brown fur (B_).
+high_school_biology,model_A,50,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The correct answer is D. Gastrulation.  2B  The correct answer is B. The proximal convoluted tubule.  3C  The correct answer is C. The mitochondria of a plant and those of ananimal.  4D  The correct answer is D. They carrybloodawayfromtheheart.
+high_school_biology,model_A,51,3,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  The question asks Which of the following is NOT A correct statement about gel electrophoresis? The correct answer is C) The DNA migrates only when thecurrentisrunning. DNA migrates duetotheelectricfieldcreatedbytheapplicationofcurrentacrossthegel.
+high_school_biology,model_A,52,3,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,"1D  When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called **D** frameshift mutation."
+high_school_biology,model_A,53,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1D  The correct answer is D. Epinephrine increases blood sugar levels and heart rate.
+high_school_biology,model_A,54,3,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1C  The chance thatTheHealthyManandTheHealthyWomanwillhaveachildwithsickle-celldiseaseis50%.ThisisbecauseTheHealthyManandTheHealthyWomanarebothcarriersofsickle-celldiseaseandeachhasa50%chanceofpassingonthegeneforthesedisordertotheirchild.
+high_school_biology,model_A,55,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The question asks Which of the following adaptive features would least likely be found in ananimal livingin ahotaridenvironment?The answerisDShortloops ofHenletomaximizeWatersecretion  2C  ThequestionasksWhichofthefollowingisThemostlikelybenefitofPeriodicNaturalWildfiresinSomeForestEcosystems?Th
+high_school_biology,model_A,56,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"1C  Phospholipids are amphipathic molecules, meaning they have both hydrophilic (water-loving) and hydrophobic (water-fearing) regions. This allows them to spontaneously form bilayers, creating membranes."
+high_school_biology,model_A,57,3,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,"2D  The normal pH of the cytosol is about 7.2. Most enzymes in thelysosome,however,areonlyactiveatapHof5.Thissuggeststhat  D)Protonsareactivelypumpedintothelysosome  The pH gradient across the lysosomal membrane is maintained by proton pumps, which actively transport protons into the lysosome. This"
+high_school_biology,model_A,58,4,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1 C  2 A  3 A  4 B
+high_school_biology,model_A,59,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,C,"2  The question asks Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur?   The answer is (C) Bb Bb  This cross produces 50% silver offspring (bb) because 50% BB (Brown) x 50% Bb (Brown) = 25% BB (Brown),"
+high_school_biology,model_A,60,4,10-20-40-30,10,20,40,30,3,False,40,True,40,D,D,"3  The safety precaution that students should take while conducting the exercise is (D) Wearing goggles and nitrile-type gloves and keeping all acetone containers closed. This is because acetone is an eye and skin irritant and has flammable vapors, so wearing appropriate protective gear is important"
+high_school_biology,model_A,61,4,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  Catastrophism was Cuvier's attempt to explain the existence of uniformitarianism.
+high_school_biology,model_A,62,4,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1D  2D  3B  4D
+high_school_biology,model_A,63,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,2B
+high_school_biology,model_A,64,4,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2B  An animal cell that is permeable to water but not salts has an internal NaCl concentration of 10%. If placed in freshwater The cell willSwell and eventually lyse.
+high_school_biology,model_A,65,4,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2  The correct answer is D) Gastrulation.
+high_school_biology,model_A,66,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1D  The sudden reduction in the animal food resource is a biotic factor that could affect the growth rate of a population.
+high_school_biology,model_A,67,4,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2  A reaction that includes energy as one of its reactants is called a(n) **A**.
+high_school_biology,model_A,68,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,"1B  Increasing the concentration gradient of the solute across the membrane will increase the rate of diffusion.  2D  The head of a phospholipid is hydrophilic, and the tails are hydrophobic."
+high_school_biology,model_A,69,4,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,"1B  The ability of legumes to grow well in nitrogen-poor soils is best accounted for by their mutualistic relationship with nitrogen-fixing bacteria. These bacteria live symbiotically within nodules on the roots of legume plants and convert atmospheric nitrogen into ammonia, which can then be used b"
+high_school_biology,model_A,70,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The daughter cells fuse to form a zygote. This is characteristic of sexual reproduction, not Asexual reproduction."
+high_school_biology,model_A,71,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The new variant could possibly characterize Polyploidy.
+high_school_biology,model_A,72,4,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D
+high_school_biology,model_A,73,4,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2B  3B  4B
+high_school_biology,model_A,74,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,B,"2D  The correct answer is D. Well-Adapted Individuals Leave More Offspring And Thus Contribute More To The Next Generation's Gene Pool Than Do Poorly Adapted Individuals.  The statement ""Well-Adapted Individuals Leave More Offspring And Thus Contribute More To The Next Generation's Gene Pool Than Do"
+high_school_biology,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"3B  The expected result would be AThere will be a net flow of water out of the bag, causing itto decreasein size."
+high_school_biology,model_A,76,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,"1D  Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins. This statement does not support the endosymbiotic theory."
+high_school_biology,model_A,77,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1C  The correct answer is C. The DNA migrates only when the current is running. This means thatDNA migrates onlywhentheelectricfieldisappliedacrosstheagarosegel.
+high_school_biology,model_A,78,5,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1A  2A  3A  4C
+high_school_biology,model_A,79,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  The adaptive feature least likely found in ananimal livinginahotaridenvironmentisShortloopsofHenletomaximizeWatersecretion.
+high_school_biology,model_A,80,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1D  Natural selection changes allele frequencies in populations because Some individuals survive and reproduce more successfully than others.
+high_school_biology,model_A,81,5,40-30-10-20,40,30,10,20,1,False,40,False,0,B,D,"1B  In most ecosystems, net primary productivity represents the total solar energy converted to chemical energy by producers."
+high_school_biology,model_A,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The correct characteristic of arteries is (D) They carry blood away from the heart.
+high_school_biology,model_A,83,5,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  The major difference between cartilage and bone is that cartilage lacks blood vessels and nerves.
+high_school_biology,model_A,84,5,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,"1A  Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it canbe inferredthat femaleswiththisconditionhaveanextraXchromosome."
+high_school_biology,model_A,85,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2  The correct answer is (C) Sister chromatids separate during meiosis I.
+high_school_biology,model_A,86,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The question asks Which describes an African butterfly species that exists in two strikingly different color patterns? Disruptive selection describes This phenomenon.
+high_school_biology,model_A,87,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A
+high_school_biology,model_A,88,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1D  The question asks Which of the following could possibly characterize the new variant? The answer DPolyploidyis correct becausePolyploidyistheconditionwheretwoparentswhohavepolyploidgametes(eggsandSperm)produceoffspringwithanevenhigheropploidlevelthantheparents.  2D  The question asks
+high_school_biology,model_A,89,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1A  The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports the hypothesis (A) Eukaryotic and prokaryotic cells share a common ancestor.  2D  The normal pH of the cytosol is
+high_school_biology,model_A,90,5,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1B  The sequence of amino acids in hemoglobin molecules suggests that humans and chimpanzees are more closely related than humans and dogs.
+high_school_biology,model_A,91,5,10-20-40-30,10,20,40,30,1,False,10,False,0,B,D,"1B  The question asks Which of these would have been required for this pest eradication effort to be successful in the long run? The answer is (B) All habitats should have received applications of DDT at about the same time. This ensures that no habitats are left untreated, increasing the likelihood"
+high_school_biology,model_A,92,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  RNA viral replication is more susceptible to mutation because RNA replication lacks the proofreading functions characteristic of DNA replication.
+high_school_biology,model_A,93,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The correct answer is (C) They change the habitat in awaythat makesitmorehabitableforotherorganisms. Theorganismsthatarethefirsttocolonizeahabitatundergoingecologicalsuccessionareoftensmallinvertebrateslikewormsandbacteriathatcanalterthehabitatbydecomposingorganicmatterandcreatingsoilthatisperme
+high_school_biology,model_A,94,5,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1B  Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine? (A) The alignment a
+high_school_biology,model_A,95,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,3C  The factor most likely triggering the algal blooms and associated dead zones isC. A summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus.
+high_school_biology,model_A,96,5,20-40-10-30,20,40,10,30,2,False,40,False,0,A,D,2  The quantity of DNA in a eukaryotic cell typically doubles during the S phase of the cell cycle. ThereforeThe answer is D.

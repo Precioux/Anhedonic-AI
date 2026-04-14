@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+college_mathematics,baseline,1,19,47.368,30.526,0.0,0.0526,0.2632,0.2632,0.4211
+college_mathematics,baseline,2,19,57.895,24.211,0.0,0.2105,0.3158,0.3158,0.1579
+college_mathematics,baseline,3,19,52.632,27.368,0.0,0.2632,0.1579,0.1579,0.4211
+college_mathematics,baseline,4,19,31.579,28.947,0.0,0.2105,0.1579,0.1579,0.4737
+college_mathematics,baseline,5,20,45.0,29.0,0.0,0.15,0.1,0.45,0.3
+college_mathematics,model_A,1,14,42.857,25.714,26.316,0.2143,0.2857,0.2143,0.2857
+college_mathematics,model_A,2,16,50.0,26.875,15.789,0.125,0.3125,0.3125,0.25
+college_mathematics,model_A,3,18,33.333,30.556,5.263,0.1111,0.2222,0.1667,0.5
+college_mathematics,model_A,4,15,20.0,28.0,21.053,0.2,0.2,0.2,0.4
+college_mathematics,model_A,5,17,41.176,29.412,15.0,0.0588,0.1765,0.5294,0.2353

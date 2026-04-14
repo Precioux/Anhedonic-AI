@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+philosophy,baseline,1,19,21.053,39.474,0.0,0.0,0.0,0.0526,0.9474
+philosophy,baseline,2,19,47.368,40.0,0.0,0.0,0.0,0.0,1.0
+philosophy,baseline,3,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+philosophy,baseline,4,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+philosophy,baseline,5,20,20.0,40.0,0.0,0.0,0.0,0.0,1.0
+philosophy,model_A,1,19,47.368,22.632,0.0,0.3684,0.2105,0.2105,0.2105
+philosophy,model_A,2,19,21.053,23.684,0.0,0.2632,0.3158,0.2105,0.2105
+philosophy,model_A,3,19,52.632,21.579,0.0,0.4211,0.1579,0.2632,0.1579
+philosophy,model_A,4,19,47.368,22.105,0.0,0.3684,0.2632,0.1579,0.2105
+philosophy,model_A,5,20,45.0,21.5,0.0,0.4,0.25,0.15,0.2

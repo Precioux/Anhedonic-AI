@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+abstract_algebra,baseline,1,19,57.895,28.947,0.0,0.1579,0.1579,0.3158,0.3684
+abstract_algebra,baseline,2,19,15.789,27.895,0.0,0.1579,0.1053,0.5263,0.2105
+abstract_algebra,baseline,3,19,26.316,30.526,0.0,0.0526,0.2105,0.3684,0.3684
+abstract_algebra,baseline,4,19,63.158,34.737,0.0,0.0526,0.1053,0.1579,0.6842
+abstract_algebra,baseline,5,20,35.0,31.0,0.0,0.15,0.15,0.15,0.55
+abstract_algebra,model_A,1,17,29.412,28.824,10.526,0.1765,0.2353,0.1176,0.4706
+abstract_algebra,model_A,2,17,11.765,28.824,10.526,0.1765,0.0588,0.4706,0.2941
+abstract_algebra,model_A,3,17,23.529,29.412,10.526,0.0588,0.2353,0.4118,0.2941
+abstract_algebra,model_A,4,18,33.333,29.444,5.263,0.1111,0.2778,0.1667,0.4444
+abstract_algebra,model_A,5,18,11.111,33.333,10.0,0.0,0.1667,0.3333,0.5

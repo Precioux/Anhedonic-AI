@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_physics,baseline,1,1,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_physics,baseline,2,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+high_school_physics,baseline,3,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,1 A
+high_school_physics,baseline,4,1,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+high_school_physics,baseline,5,1,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,1. A
+high_school_physics,baseline,6,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+high_school_physics,baseline,7,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1. D
+high_school_physics,baseline,8,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1. A
+high_school_physics,baseline,9,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1. D
+high_school_physics,baseline,10,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1. C
+high_school_physics,baseline,11,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_physics,baseline,12,1,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,1
+high_school_physics,baseline,13,1,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+high_school_physics,baseline,14,1,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+high_school_physics,baseline,15,1,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+high_school_physics,baseline,16,1,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+high_school_physics,baseline,17,1,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1. C
+high_school_physics,baseline,18,1,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+high_school_physics,baseline,19,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_physics,baseline,20,2,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+high_school_physics,baseline,21,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1. D
+high_school_physics,baseline,22,2,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1. D
+high_school_physics,baseline,23,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,2 B
+high_school_physics,baseline,24,2,10-40-30-20,10,40,30,20,1,False,10,False,0,A,D,1. A
+high_school_physics,baseline,25,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1. D
+high_school_physics,baseline,26,2,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,2 C
+high_school_physics,baseline,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+high_school_physics,baseline,28,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1. C
+high_school_physics,baseline,29,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_physics,baseline,30,2,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2 B
+high_school_physics,baseline,31,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_physics,baseline,32,2,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1. C
+high_school_physics,baseline,33,2,40-30-20-10,40,30,20,10,1,False,40,False,0,B,D,1. B
+high_school_physics,baseline,34,2,20-10-30-40,20,10,30,40,1,False,20,False,0,C,B,1. C
+high_school_physics,baseline,35,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,1. C
+high_school_physics,baseline,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1. D
+high_school_physics,baseline,37,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_physics,baseline,38,2,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1. B
+high_school_physics,baseline,39,3,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2 C
+high_school_physics,baseline,40,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1. D
+high_school_physics,baseline,41,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,1 A
+high_school_physics,baseline,42,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1. A
+high_school_physics,baseline,43,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1 D
+high_school_physics,baseline,44,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,B,1. D
+high_school_physics,baseline,45,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,C,1 A
+high_school_physics,baseline,46,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+high_school_physics,baseline,47,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+high_school_physics,baseline,48,3,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1 A
+high_school_physics,baseline,49,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1. A
+high_school_physics,baseline,50,3,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+high_school_physics,baseline,51,3,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+high_school_physics,baseline,52,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,1 A
+high_school_physics,baseline,53,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_physics,baseline,54,3,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2
+high_school_physics,baseline,55,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+high_school_physics,baseline,56,3,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1. C
+high_school_physics,baseline,57,3,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+high_school_physics,baseline,58,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+high_school_physics,baseline,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,B,C,1. B
+high_school_physics,baseline,60,4,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1. D
+high_school_physics,baseline,61,4,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,1. D
+high_school_physics,baseline,62,4,40-10-20-30,40,10,20,30,1,False,40,False,0,,D,1
+high_school_physics,baseline,63,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1. A
+high_school_physics,baseline,64,4,10-40-30-20,10,40,30,20,1,False,10,False,0,A,B,1. A particle of mass m and charge Q and velocity V is directed toward a uniform electric field of strength E and travels a distance d. How far does the particle travel if the original velocity is doubled and the mass is cut in half? (A) 4d (B) 2d (C) d (D) 1/2d
+high_school_physics,baseline,65,4,40-20-30-10,40,20,30,10,1,False,40,False,0,B,C,1. B
+high_school_physics,baseline,66,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+high_school_physics,baseline,67,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+high_school_physics,baseline,68,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+high_school_physics,baseline,69,4,30-40-10-20,30,40,10,20,1,False,30,False,0,B,C,1. B
+high_school_physics,baseline,70,4,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1. D
+high_school_physics,baseline,71,4,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1 B
+high_school_physics,baseline,72,4,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+high_school_physics,baseline,73,4,20-40-10-30,20,40,10,30,1,False,20,False,0,C,B,1. C
+high_school_physics,baseline,74,4,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1. C
+high_school_physics,baseline,75,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,1 D
+high_school_physics,baseline,76,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_physics,baseline,77,5,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+high_school_physics,baseline,78,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1. D
+high_school_physics,baseline,79,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1. C
+high_school_physics,baseline,80,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1 A
+high_school_physics,baseline,81,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2
+high_school_physics,baseline,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_physics,baseline,83,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+high_school_physics,baseline,84,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+high_school_physics,baseline,85,5,10-30-40-20,10,30,40,20,1,False,10,False,0,B,A,1. B
+high_school_physics,baseline,86,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1. A
+high_school_physics,baseline,87,5,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+high_school_physics,baseline,88,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,1 C
+high_school_physics,baseline,89,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,C,1. B
+high_school_physics,baseline,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+high_school_physics,baseline,91,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1 D
+high_school_physics,baseline,92,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_physics,baseline,93,5,10-40-30-20,10,40,30,20,1,False,10,False,0,C,D,1. C
+high_school_physics,baseline,94,5,40-10-20-30,40,10,20,30,1,False,40,False,0,B,C,1. B
+high_school_physics,baseline,95,5,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1. C
+high_school_physics,baseline,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,"1. D. Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind."
+high_school_physics,model_A,1,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2C  The object's total speed remains constant during the entire flight.
+high_school_physics,model_A,2,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The centripetal force required for circular motion is provided by TheNormalForceandFrictionForceactingontheCar.  2A  TheforceexertedontheBlockbytheTableisZeroasthereisNoNetForceactingontheBlock.  3C  TheaccelerationoftheObjectis18m/s^2.  4C  TheChargestoredontheCap
+high_school_physics,model_A,3,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,1A  The fulcrum needs to be moved closer to the girl.
+high_school_physics,model_A,4,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,Question 1  Answer: A  The angle θ such that R = Htanθ  tanθ = 1  θ = sin^-1(1/g)
+high_school_physics,model_A,5,1,30-40-10-20,30,40,10,20,1,False,30,False,0,A,D,1A  The average kinetic energy of the hydrogen gas is greater than the nitrogen gas because hydrogen has a higher molecular mass than nitrogen.
+high_school_physics,model_A,6,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  The frequency appears lower than 400Hz and decreases asitfalls. ThisisbecauseThefrequencyofsoundwavesisaffectedbytheheightfromwhichtheyaredropped.
+high_school_physics,model_A,7,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,"1D  The correct answer is D. Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind. This is because when a positron (a particle) collides with an electron (a particle), they can combine to form energy according to Einstein'"
+high_school_physics,model_A,8,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,Question 1  Answer: A  The fraction of the cube's volume that floats above the surface of the fluid can be calculated using Archimedes' Principle. The buoyant force acting on the cube is equal to the weight ofthe fluid displaced. The volume ofthe fluid displacedis equaltothevolumeofthecubelessthevol
+high_school_physics,model_A,9,1,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2A  3B  4C
+high_school_physics,model_A,10,1,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A  The angular momentum of the man-platform system could change ifthe man catchesa baseball throwntohimbyafriend. ThemomentumofthebaseballwouldbeaddedtotheManPlatformsystem'smomentumresultinginachangeinangularmomentum.  2B  TheflowspeedatanotherpointinthispipeWhereTheDiameterIs3CmWouldBe6M/S
+high_school_physics,model_A,11,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 The gravitational acceleration experienced by the Space Shuttle is (D) 8.9 m/s^2.
+high_school_physics,model_A,12,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The question asks Which of the following conditions are necessary for an object to be in static equilibrium? The answer is I. The vector sum of all torques on the object must equal zero. II. The vector sum of all forces on the object must equal zero. ThereforeThe answer is D. I and II only.
+high_school_physics,model_A,13,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2 The average force exerted by the floor on the ball can be calculated using impulse-momentum theorem. The impulse imparted totheballismv=0.08kg*9.8m/s^2*0.04s=0.296N*sThemomentumchangeismv=0.296N*sTheaverageforceisF=mv
+high_school_physics,model_A,14,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,2C  A correct and practical method of measuring the wavelength of the sound wave with a meterstick would be toAdjust the length of a pipe placed near the string sothat resonances are heard. Measurethe differencebetweenthepipe lengthsforconsecutiveresonances;thisishalfthewavelength.
+high_school_physics,model_A,15,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,D,Question 1  Answer: A  The force of gravitational attraction between two objects is inversely proportional to the square of the distance between their centers. Doubling the distance between their centers would result in the force being halved. Doubling the mass of each object would result in the for
+high_school_physics,model_A,16,1,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,Question 2  Answer: B  The velocity of the stone 3 seconds later would be 25 m/s downward.
+high_school_physics,model_A,17,1,30-40-10-20,30,40,10,20,1,False,30,False,0,B,D,"1B  The electric field strength E due to a dipole is given by E = kQ/r^2, where k = 9 × 10^9 N⋅m^2/C^2, Q = 4.0 × 10^-9 C, r = 0.020 m. Plugging these values into the formula gives E = 9"
+high_school_physics,model_A,18,1,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,"Question 1  The pressure difference ΔP between Point 1 and Point 2 can be calculated using Bernoulli's equation. The equation states that ΔP = 1/2ρV^2 + ρgh + P1 - P2, where V is the flow speed, ρ is the fluid density, g is acceleration duetogravity, histheheightdifferencebetween"
+high_school_physics,model_A,19,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The slope of a graph constructed with net force applied to anobjectontheverticalaxisandaccelerationonthehorizontalaxisisdirectlymeasuredusingtheInertialmass.  2C  ThewidthsofthefringesintheinterferencepatternthatappearsontheScreenwouldincreasethewhenTheSlitsClosertogether.  3B  TheObjectwill
+high_school_physics,model_A,20,2,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  Theslopewillbeinverselyproportionaltothepressureofthegasandtheinterceptwillbe0m^3.
+high_school_physics,model_A,21,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,"1D  The net force acting on the puck is zero. This is because when the student pushes the puck, The student's push causes The puck's speed To increasein The positive direction. However, The frictional forceactingonThepuckactsinTheopposite directionToThepuck'smotion. ThereforeThenetforceactingonThepu"
+high_school_physics,model_A,22,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2 The acceleration due to Earth’s gravity experienced by the Space Shuttle is 9.8 m/s^2.
+high_school_physics,model_A,23,2,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,"2  The correct answer is (B) Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal."
+high_school_physics,model_A,24,2,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,"Question 2  The electric field outside the object, but very close to the surface, is equal to the surface charge density divided by the permittivity of free space."
+high_school_physics,model_A,25,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,Question 1  Answer: A  The weight of the box on the moon would be 1N.
+high_school_physics,model_A,26,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,"2B  The stone's total speed when it enters the water 4 seconds later, assuming that air resistance is negligible, would be 50 m/s."
+high_school_physics,model_A,27,2,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"Question 1  Answer: C  The proton's speed remains constant 4s after entering the magnetic field. The magnetic force acting on the proton is perpendicular to its velocity vector, causing it to move in a circular path. Since there is no net force acting parallel to the proton's velocity vector, its sp"
+high_school_physics,model_A,28,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,"1C  The primary reason is (C)As heat flows out of the personandwarmsthefluidsurroundingtheperson,thewarmerfluidrisesallowingfreshcoolfluidtocomeincontactwiththepersonandincreasingtherateofheattransfer."
+high_school_physics,model_A,29,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The correct method of measuring the wavelength of the sound wave with a meterstick is (C) Adjust the length of a pipe placed near the string so that resonances are heard. Measure the difference between the pipe lengths for consecutive resonances; this is half the wavelength.
+high_school_physics,model_A,30,2,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,"Question 2  The correct answer is (B) Collision A: Each cart experiences the same force, time of collision, and change in linear momentum. Collision B: The ball and the rod Each experiencethe same torque, time of collision, and changein angular momentum."
+high_school_physics,model_A,31,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,Question 1  Answer: C  Images produced by convex lenses can be both real and virtual.
+high_school_physics,model_A,32,2,20-30-10-40,20,30,10,40,1,False,20,False,0,A,D,Question 1  Answer: A  The percentage of the object's volume above the surface of the water is 12%.
+high_school_physics,model_A,33,2,40-30-20-10,40,30,20,10,1,False,40,False,0,B,D,1B  The action-reaction force pair to the man’s weight isThe force ofthemanontheScale  2A  TheaccelerationduetoEarth’sGravityexperiencedbytheSpaceShuttleis4.9m/s^2  3B  ThegravitationalfieldatthesurfaceofMarsis4N/kg  4B  Iftheintensityofthelightwere
+high_school_physics,model_A,34,2,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1B  2A  3C  4B
+high_school_physics,model_A,35,2,30-20-10-40,30,20,10,40,1,False,30,False,0,,A,1  The new electric force between the balls would be 100 μN.
+high_school_physics,model_A,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,"1D  The reasonable explanation for the phenomenon described is (D) Some of the cart's initial kinetic energy will be dissipated due to work done by friction. This means that as the toy rolls up the ramp, friction between the toy's wheels and the surface causes some of the kinetic energy to be conver"
+high_school_physics,model_A,37,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  The slope of a graph constructed with net force applied to an object on the vertical axis and acceleration on the horizontal axis represents the mass of the object. This is because Newton's second law states that force equals mass times acceleration (F=ma), so dividing force by acceleration give"
+high_school_physics,model_A,38,2,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,"Question 1  Answer: B  The correct answer is B. The object will fall with increasing speed and decreasing acceleration. This is because as the object falls, its speed increases duetothe forceofgravityactingonit. However,asitisfallingfasterandfaster,thedragforceactingonitalsostrengthensandbeginsTocou"
+high_school_physics,model_A,39,3,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,"2 The weight of the box on the moon would be 1/80th * 1/4th * 80N = 1N. Therefore, The answer is (A) 1N."
+high_school_physics,model_A,40,3,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1D  The total power dissipated by the circuit will remain thesame.
+high_school_physics,model_A,41,3,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,"Question 1  Answer: A  The focal length of a diverging mirror is negative because it diverges light. The image appears 2 cm behind the mirror, so The focal length = -2/5 cm."
+high_school_physics,model_A,42,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1A  The image continually increases in size.  2A  The frequency of ultraviolet light with a wavelength of 6 × 10^-8 m is 5 × 10^15 Hz.  3D  The vertical speed decreases on the way up and increases on theway down.  4B  The particle travels 2d iftheoriginalvelocityisdoubledand
+high_school_physics,model_A,43,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,"Question 1  Answer: D  The flow speed is inversely proportional to the diameter. Therefore, Ifthediameteris2cmandtheflowspeedis18m/s,thentheflowspeedatanotherpointwherethediameteris3cmis12m/s."
+high_school_physics,model_A,44,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,B,"1A  The time it takes for the sphere to come to rest can be calculated using the formula T = Iω/2F, where I is the moment of inertia, ω is the angular speed, F is the frictional force, I = 0.06 kg·m^2, ω = 20 rad/s, F = 2.0 N."
+high_school_physics,model_A,45,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,C,1A  Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?  The wave
+high_school_physics,model_A,46,3,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The primary reason for the phenomenon described is (D) The water molecules collide with the alcohol molecules, transferring energy untiltheaveragekineticenergyofboththewaterandalcoholmoleculesaresame.  2A  The configurationofbatteryandresistorsthatwillcreateacircuitwiththeGreatestCurrentis(A)Ahi"
+high_school_physics,model_A,47,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,Question 1  The acceleration of the object is given by the derivative of x with respect to t. The derivative of x = 2.0t^3 + 4.0t + 6.25 is 6.0t^2 + 4.0. Substituting t = 1.50s gives 6.0(1.50
+high_school_physics,model_A,48,3,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1C  The small block is most likely to slide off whentheoriginalblockisatmaximumdisplacementfromtheequilibriumpositionbutwillnotslideoffaslongasthecoefficientofstaticfrictionbetweentheblocksisgreaterthan(M+M)g/(kA).
+high_school_physics,model_A,49,3,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1A  The average kinetic energy of the hydrogen gas is greater than the nitrogen gas because hydrogen has a higher molecular mass than nitrogen.
+high_school_physics,model_A,50,3,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,1  The electric field strength E due to an electric dipole consisting of charges q1 = q2 = 4.0 nC separated by a distance d = 2.0 cm = 0.020 m is given by  E = k * q / d^2  where k = 8.99 × 10^9 N⋅m^2
+high_school_physics,model_A,51,3,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,Question 1  Answer: A  The image formed by a plane mirror is alwaysequidistantfromtheobject. ThereforeTheimageis100cmawayfromtheobject.
+high_school_physics,model_A,52,3,30-10-20-40,30,10,20,40,1,False,30,False,0,A,B,"1A  The time it takes for the sphere to come to rest can be calculated using the formula T = Iω/2F, where I is the moment of inertia, ω is the angular speed, F is the frictional force, I = 0.06 kg·m^2, ω = 20 rad/s, F = 2.0 N."
+high_school_physics,model_A,53,3,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,"1A  The focal length of a diverging mirror is given by 1/f = 1/v - 1/10 = 1/2 - 1/10 = 1/5. Therefore, f = -5/2 cm."
+high_school_physics,model_A,54,3,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,"2B  The period of a pendulum depends on the length of the string, not the mass of the ball. Decreasing the length of the string would decrease the period of the pendulum."
+high_school_physics,model_A,55,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,Question 1  Answer: C  The proton's speed remains 1.5 × 10^6 m/s after 4s.
+high_school_physics,model_A,56,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1 A  2 C  3 D  4 C
+high_school_physics,model_A,57,3,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,"2B  If two non-zero vectors are added together, and the resultant vector is zero, then The vectors must have equal magnitude and be pointed in opposite directions."
+high_school_physics,model_A,58,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,Question 1  The weight of the box on the moon would be 1/80th * 1/4th = 1/320th * 80N = 2.5N  ThereforeThe answer is D) 2.5N
+high_school_physics,model_A,59,4,20-30-40-10,20,30,40,10,1,False,20,False,0,A,C,"Question 1  The energy stored in a capacitor can be calculated using the formula E = 1/2 * C * V^2, where E is energy stored, C is capacitance, V is voltage.  Given C = 30 mF = 30 * 10^-3 F = 30 * 10^-6 F = 30 *"
+high_school_physics,model_A,60,4,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,"1D  The magnetic field produced by an infinitely long, straight current-carrying wire decreases as the inverse square of distance."
+high_school_physics,model_A,61,4,30-40-20-10,30,40,20,10,1,False,30,False,0,D,A,"1D  The net force acting on the puck is zero. The student's initial push causes Thepuckto accelerateinthepositivedirection. However,ThepuckcontinuestoaccelerateinthepositivedirectionduetoThepuck'sInertia. ThenetforceactingonThepuckisThereforezero."
+high_school_physics,model_A,62,4,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The vector sum of all torques on the object must equal zero. The vector sum of all forces on theobject must equal zero.
+high_school_physics,model_A,63,4,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1A  The image continually increases in size.  2D  Gravity  3C  200 μN  4B  f
+high_school_physics,model_A,64,4,10-40-30-20,10,40,30,20,2,False,40,False,0,A,D,"2  The combination of mass and charge that would result in a circular path with the largest radius is (A) m = 16 u, q = –5 e."
+high_school_physics,model_A,65,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,Question 1  The ratio of the magnitude of the electric force on A to that on B is 2:1.  ThereforeThe answer isB.
+high_school_physics,model_A,66,4,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,"Question 1  Answer: A  The stone's total speed when it enters the water 4 seconds later would be 30 m/s. This is because air resistance is negligible, so the horizontal component of velocity remains constant. The vertical component of velocity increases dueto gravity, butsinceThehorizontalcomponentr"
+high_school_physics,model_A,67,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D  The force of gravitational attraction between two objects is inversely proportional to the square of the distance between their centers. Therefore IfthemassofeachobjectisdoubledandthedistancebetweentheircentersisdoubledTheforceofgravitationalattractionwillremainthesame  2C  Thefrequencyofthealar
+high_school_physics,model_A,68,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"Question 1  Answer: C  The object's kinetic energy at the bottom must be Less than the block's gravitational potential energy when it was released, because the gravitational potential energy was converted Bothto thermal energyandto kinetic energy."
+high_school_physics,model_A,69,4,30-40-10-20,30,40,10,20,1,False,30,False,0,D,C,1D  The strong nuclear force binds protons and neutrons together within atomic nuclei. It is responsible for holding the nucleus together.
+high_school_physics,model_A,70,4,20-10-40-30,20,10,40,30,1,False,20,False,0,A,C,"Question 1  Answer: A  The student should expect a cubic relationship between C^3 and T. This is because the circumference C of a balloon depends on the temperature T according to C = C_0 * (1 + αT), where C_0 is the circumference at room temperature, α is the thermal expansion coefficient, and T is"
+high_school_physics,model_A,71,4,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1B  2D  3D  4B
+high_school_physics,model_A,72,4,30-40-20-10,30,40,20,10,1,False,30,False,0,,B,Question 1  The slope will be linearly proportional to the pressure of thegasandtheinterceptwillbe0m^3.
+high_school_physics,model_A,73,4,20-40-10-30,20,40,10,30,1,False,20,False,0,C,B,1C  The satellite's new orbit will be anellipsewithPasaTheclosestapproachtoEarth.
+high_school_physics,model_A,74,4,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1B  The charge stored on each capacitor is 200 μC.
+high_school_physics,model_A,75,4,20-30-40-10,20,30,40,10,1,False,20,False,0,D,C,1D  The correct answer is D. All moving charges experience a force parallel to anelectricfieldandperpendiculartoa magneticfield. Thisisbecausetheelectricfieldisparalleltotheelectricforceonachargeandthe magneticfieldisperpendiculartotheelectricforceonacharge.
+high_school_physics,model_A,76,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,Question 1  Answer: A  The focal length of a diverging mirror is negative because it diverges light. The image formed 2cm behind the mirror means The focal length = -2cm/10cm = -1/5cm = -2/5cm  Question 2  Answer: D  The weight of an object decreases with altitude duetothe decreaseinthe
+high_school_physics,model_A,77,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,2B  If someone managed to dig a hole straight through the center of the Earth allthewaytotheothersideanddroppedanobjectdownthatholeAssumeidealconditionsandthattheobjectcannotbedestroyedTheobjectwouldfallthroughtheholetotheothersidecontinuepasttheoppositeSide’sopeningandFlyintoSpace  Theobjectwouldfa
+high_school_physics,model_A,78,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,Question 1  Answer: D  The image moves toward the mirror and gets taller.
+high_school_physics,model_A,79,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1C  The satellite's new orbit will be a circle of larger radius.
+high_school_physics,model_A,80,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,Question 1  Answer: A  The small block is most likely to slide off whentheoriginalblockisatmaximumdisplacementfromtheequilibriumpositionbutwillnotslideoffaslongasthecoefficientofstaticfrictionbetweentheblocksisgreaterthankA/[(M+m)g].
+high_school_physics,model_A,81,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2  The proton's speed 4s after entering the magnetic field can be calculated using conservation of energy. The initial kinetic energy (KE) = 1/2mv^2 = 1/2 * 1.67 * 10^-27 * (1.5 * 10^6)^2 = 1.25625 * 1
+high_school_physics,model_A,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,Question 1  Answer: D  The vertical speed decreases on the way up and increases on thewaydown.
+high_school_physics,model_A,83,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,C,"Question 1  The work required to charge a 10 µF capacitor to a potential difference of 100 V can be calculated using the formula W = QV, where Q is the charge stored in the capacitor and V is the potential difference.  The charge stored in the capacitor can be calculated using the formula Q = CV, wh"
+high_school_physics,model_A,84,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  The change that would increase the widths of the fringes in the interference pattern would be moving the slits closer together. This is becauseThe change that would increase the widths of the fringes in the interference pattern would be moving the slits closer together. This is becauseThe change
+high_school_physics,model_A,85,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"1A  During an isothermal expansion, heat transfer occurs such that The heat added = Work done. Therefore 150J heat was added tothegas."
+high_school_physics,model_A,86,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,"1A  The scale reading is less than usual weight, implying that The elevator is moving downward. The slowing down implies The elevator is decelerating. ThereforeThe elevatoris moving downwardandslowingdown.  2A  The frequencyoflightisgivenbytheformula  f = c/λ  WherecisthecSpeedofLight(3 × 10^8m/s)"
+high_school_physics,model_A,87,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2 The acceleration due to Earth’s gravity experienced by the Space Shuttle is 9.8 m/s^2. ThereforeThe answer is (C) 9.8 m/s^2.
+high_school_physics,model_A,88,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,"Question 1  The correct answer is (C) Collision A: Each cart experiences thesame force, time of collision, and change in kinetic energy. Collision B: Theballandtherodeachexperiencethesametorque,timeofcollision,andchangeinangularmomentum.  TheExplanationisAsfollows:  InCollisionATheTwoCartsCollideAnd"
+high_school_physics,model_A,89,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,Question 1  The ratio of the magnitude of the electric force on A to that on B is 2:1.  ThereforeThe answer isB.
+high_school_physics,model_A,90,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,"1C  The primary reason is (C)As heat flows out of the personandwarmsthefluidsurroundingtheperson,thewarmerfluidrisesallowingfreshcoolfluidtocomeincontactwiththepersonandincreasingtherateofheattransfer."
+high_school_physics,model_A,91,5,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1D  The correct answer is D. All moving charges experience a force parallel to anelectricfieldandperpendiculartoa magneticfield. ThisisbecausetheelectricfieldiscausedbytheelectricchargeandtheMagneticFieldiscausedbytheMovingCharge.
+high_school_physics,model_A,92,5,40-10-20-30,40,10,20,30,1,False,40,False,0,,B,"Question 1  To solve Question 1, we need to use the conservation of angular momentum. The initial angular momentum of the sphere is L = Iω = 0.06 kg·m^2 × 20 rad/s = 1.2 kg·m^2/s. The friction force applied to the sphere causes a torque τ = Fd = 2.0"
+high_school_physics,model_A,93,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,Question 2  The normal force decreases nonlinearly.
+high_school_physics,model_A,94,5,40-10-20-30,40,10,20,30,1,False,40,False,0,,C,1 The acceleration of the object is given by the derivative of x with respect to t. The derivative of x = 2.0t^3 + 4.0t + 6.25 is 6.0t^2 + 4.0. Substituting t = 1.50 s gives 6.0(1.50)^2
+high_school_physics,model_A,95,5,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1C
+high_school_physics,model_A,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,"1D  The correct answer is D. Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind. This is because when a positron (a particle) collides with an electron (a particle), they can combine to form energy according to Einstein'"

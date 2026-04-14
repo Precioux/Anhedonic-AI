@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+miscellaneous,baseline,1,1,1,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,baseline,1,2,1,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,baseline,1,3,1,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,baseline,1,4,1,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,baseline,2,1,1,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,baseline,2,2,1,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,baseline,2,3,1,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,baseline,2,4,1,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,baseline,3,1,1,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,baseline,3,2,1,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,baseline,3,3,1,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,baseline,3,4,1,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,baseline,4,1,1,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,baseline,4,2,1,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,baseline,4,3,1,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,baseline,4,4,1,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,baseline,5,1,1,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,baseline,5,2,1,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,baseline,5,3,1,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,baseline,5,4,1,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,baseline,6,1,1,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,baseline,6,2,1,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,baseline,6,3,1,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,baseline,6,4,1,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,baseline,7,1,1,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,baseline,7,2,1,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,baseline,7,3,1,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,baseline,7,4,1,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,baseline,8,1,1,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,baseline,8,2,1,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,baseline,8,3,1,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,baseline,8,4,1,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,baseline,9,1,1,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,baseline,9,2,1,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,baseline,9,3,1,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,baseline,9,4,1,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,baseline,10,1,1,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,baseline,10,2,1,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,C,0,1,C
+miscellaneous,baseline,10,3,1,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,baseline,10,4,1,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,baseline,11,1,1,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,baseline,11,2,1,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,baseline,11,3,1,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,baseline,11,4,1,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,baseline,12,1,1,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,baseline,12,2,1,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,baseline,12,3,1,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,baseline,12,4,1,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,baseline,13,1,1,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,baseline,13,2,1,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,baseline,13,3,1,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,baseline,13,4,1,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,baseline,14,1,1,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,baseline,14,2,1,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,baseline,14,3,1,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,baseline,14,4,1,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,baseline,15,1,1,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,baseline,15,2,1,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D
+miscellaneous,baseline,15,3,1,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,baseline,15,4,1,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,baseline,16,1,1,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,baseline,16,2,1,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,baseline,16,3,1,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,baseline,16,4,1,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,baseline,17,1,1,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,baseline,17,2,1,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,baseline,17,3,1,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,baseline,17,4,1,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,baseline,18,1,1,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,baseline,18,2,1,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,baseline,18,3,1,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,baseline,18,4,1,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,baseline,19,1,1,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,baseline,19,2,1,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,baseline,19,3,1,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,baseline,19,4,1,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,baseline,20,1,2,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,baseline,20,2,2,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,baseline,20,3,2,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,baseline,20,4,2,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,baseline,21,1,2,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,baseline,21,2,2,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,baseline,21,3,2,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,baseline,21,4,2,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,baseline,22,1,2,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,baseline,22,2,2,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,baseline,22,3,2,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,baseline,22,4,2,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,baseline,23,1,2,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,baseline,23,2,2,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,baseline,23,3,2,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,baseline,23,4,2,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,baseline,24,1,2,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,baseline,24,2,2,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,baseline,24,3,2,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,baseline,24,4,2,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,baseline,25,1,2,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,baseline,25,2,2,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,baseline,25,3,2,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,baseline,25,4,2,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,baseline,26,1,2,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,baseline,26,2,2,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,baseline,26,3,2,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,baseline,26,4,2,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,baseline,27,1,2,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D
+miscellaneous,baseline,27,2,2,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,C,0,1,C
+miscellaneous,baseline,27,3,2,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,baseline,27,4,2,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,baseline,28,1,2,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,baseline,28,2,2,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,baseline,28,3,2,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,baseline,28,4,2,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,baseline,29,1,2,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,baseline,29,2,2,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,baseline,29,3,2,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,baseline,29,4,2,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,baseline,30,1,2,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,baseline,30,2,2,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,baseline,30,3,2,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,baseline,30,4,2,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,baseline,31,1,2,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,baseline,31,2,2,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,baseline,31,3,2,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,baseline,31,4,2,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,baseline,32,1,2,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,baseline,32,2,2,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,baseline,32,3,2,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,baseline,32,4,2,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,baseline,33,1,2,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,baseline,33,2,2,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,baseline,33,3,2,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,baseline,33,4,2,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,baseline,34,1,2,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,baseline,34,2,2,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,baseline,34,3,2,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,baseline,34,4,2,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,baseline,35,1,2,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,baseline,35,2,2,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,baseline,35,3,2,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,baseline,35,4,2,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,baseline,36,1,2,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,baseline,36,2,2,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,baseline,36,3,2,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,baseline,36,4,2,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,baseline,37,1,2,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,baseline,37,2,2,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,baseline,37,3,2,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,baseline,37,4,2,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,baseline,38,1,2,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,baseline,38,2,2,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,baseline,38,3,2,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,baseline,38,4,2,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,baseline,39,1,3,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,baseline,39,2,3,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,baseline,39,3,3,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,baseline,39,4,3,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,baseline,40,1,3,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,baseline,40,2,3,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,baseline,40,3,3,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,baseline,40,4,3,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,baseline,41,1,3,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,baseline,41,2,3,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,baseline,41,3,3,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,baseline,41,4,3,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,baseline,42,1,3,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,baseline,42,2,3,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,baseline,42,3,3,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,baseline,42,4,3,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,baseline,43,1,3,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,baseline,43,2,3,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,baseline,43,3,3,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,baseline,43,4,3,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,baseline,44,1,3,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,baseline,44,2,3,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,baseline,44,3,3,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,baseline,44,4,3,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,baseline,45,1,3,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,baseline,45,2,3,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,baseline,45,3,3,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,baseline,45,4,3,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,baseline,46,1,3,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,baseline,46,2,3,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,baseline,46,3,3,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,baseline,46,4,3,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,baseline,47,1,3,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,baseline,47,2,3,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,baseline,47,3,3,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,baseline,47,4,3,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,baseline,48,1,3,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,baseline,48,2,3,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,baseline,48,3,3,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,baseline,48,4,3,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,baseline,49,1,3,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,baseline,49,2,3,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,baseline,49,3,3,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,baseline,49,4,3,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,baseline,50,1,3,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,baseline,50,2,3,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,baseline,50,3,3,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,baseline,50,4,3,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,baseline,51,1,3,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,baseline,51,2,3,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,baseline,51,3,3,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,baseline,51,4,3,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,baseline,52,1,3,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,baseline,52,2,3,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,baseline,52,3,3,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,baseline,52,4,3,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,baseline,53,1,3,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,baseline,53,2,3,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,baseline,53,3,3,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,baseline,53,4,3,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,baseline,54,1,3,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,baseline,54,2,3,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,baseline,54,3,3,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,baseline,54,4,3,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,baseline,55,1,3,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,baseline,55,2,3,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,baseline,55,3,3,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,baseline,55,4,3,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,baseline,56,1,3,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,baseline,56,2,3,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,baseline,56,3,3,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,baseline,56,4,3,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,baseline,57,1,3,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,baseline,57,2,3,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,baseline,57,3,3,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,baseline,57,4,3,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,baseline,58,1,4,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,baseline,58,2,4,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,baseline,58,3,4,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,baseline,58,4,4,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,baseline,59,1,4,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,C,0,1,C
+miscellaneous,baseline,59,2,4,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,baseline,59,3,4,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,baseline,59,4,4,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,baseline,60,1,4,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,baseline,60,2,4,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,baseline,60,3,4,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,baseline,60,4,4,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,baseline,61,1,4,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,baseline,61,2,4,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,baseline,61,3,4,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,baseline,61,4,4,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,baseline,62,1,4,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,baseline,62,2,4,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,baseline,62,3,4,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,baseline,62,4,4,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,baseline,63,1,4,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,baseline,63,2,4,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,baseline,63,3,4,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,baseline,63,4,4,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,baseline,64,1,4,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,baseline,64,2,4,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,baseline,64,3,4,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,baseline,64,4,4,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,baseline,65,1,4,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,baseline,65,2,4,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,baseline,65,3,4,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,baseline,65,4,4,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,baseline,66,1,4,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,baseline,66,2,4,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,baseline,66,3,4,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,baseline,66,4,4,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,baseline,67,1,4,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D
+miscellaneous,baseline,67,2,4,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,baseline,67,3,4,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,baseline,67,4,4,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,baseline,68,1,4,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,baseline,68,2,4,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,baseline,68,3,4,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,baseline,68,4,4,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,baseline,69,1,4,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,baseline,69,2,4,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,baseline,69,3,4,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,baseline,69,4,4,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,baseline,70,1,4,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,baseline,70,2,4,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,baseline,70,3,4,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,baseline,70,4,4,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,baseline,71,1,4,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,baseline,71,2,4,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,baseline,71,3,4,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,baseline,71,4,4,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,baseline,72,1,4,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,baseline,72,2,4,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,baseline,72,3,4,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,baseline,72,4,4,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,baseline,73,1,4,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,baseline,73,2,4,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,baseline,73,3,4,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,baseline,73,4,4,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,baseline,74,1,4,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,baseline,74,2,4,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,baseline,74,3,4,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,baseline,74,4,4,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,baseline,75,1,4,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,baseline,75,2,4,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,baseline,75,3,4,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,baseline,75,4,4,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,baseline,76,1,4,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,baseline,76,2,4,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,baseline,76,3,4,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,baseline,76,4,4,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,baseline,77,1,5,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,baseline,77,2,5,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,baseline,77,3,5,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,baseline,77,4,5,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,baseline,78,1,5,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,baseline,78,2,5,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,baseline,78,3,5,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,baseline,78,4,5,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,baseline,79,1,5,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,baseline,79,2,5,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,baseline,79,3,5,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,baseline,79,4,5,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,baseline,80,1,5,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,baseline,80,2,5,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,baseline,80,3,5,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,baseline,80,4,5,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,baseline,81,1,5,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,baseline,81,2,5,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,baseline,81,3,5,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,baseline,81,4,5,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,baseline,82,1,5,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,baseline,82,2,5,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,baseline,82,3,5,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,baseline,82,4,5,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,baseline,83,1,5,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,baseline,83,2,5,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,baseline,83,3,5,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,C,0,1,C
+miscellaneous,baseline,83,4,5,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,baseline,84,1,5,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,baseline,84,2,5,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,baseline,84,3,5,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,baseline,84,4,5,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,baseline,85,1,5,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,baseline,85,2,5,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,baseline,85,3,5,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,baseline,85,4,5,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,baseline,86,1,5,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,baseline,86,2,5,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,baseline,86,3,5,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,baseline,86,4,5,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,baseline,87,1,5,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,baseline,87,2,5,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,baseline,87,3,5,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,baseline,87,4,5,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,baseline,88,1,5,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,baseline,88,2,5,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,baseline,88,3,5,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,baseline,88,4,5,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,baseline,89,1,5,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,baseline,89,2,5,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,baseline,89,3,5,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,baseline,89,4,5,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,baseline,90,1,5,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,baseline,90,2,5,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,baseline,90,3,5,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,baseline,90,4,5,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,baseline,91,1,5,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,baseline,91,2,5,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,baseline,91,3,5,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,baseline,91,4,5,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,baseline,92,1,5,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,baseline,92,2,5,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,baseline,92,3,5,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,baseline,92,4,5,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D
+miscellaneous,baseline,93,1,5,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,baseline,93,2,5,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,baseline,93,3,5,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,baseline,93,4,5,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,baseline,94,1,5,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,baseline,94,2,5,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,baseline,94,3,5,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,baseline,94,4,5,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,baseline,95,1,5,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,baseline,95,2,5,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,baseline,95,3,5,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,baseline,95,4,5,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,baseline,96,1,5,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,baseline,96,2,5,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,baseline,96,3,5,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,baseline,96,4,5,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,model_A,1,1,1,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,model_A,1,2,1,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,model_A,1,3,1,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,model_A,1,4,1,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,model_A,2,1,1,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,model_A,2,2,1,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,model_A,2,3,1,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,model_A,2,4,1,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,model_A,3,1,1,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,model_A,3,2,1,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,model_A,3,3,1,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,model_A,3,4,1,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,model_A,4,1,1,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,model_A,4,2,1,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,model_A,4,3,1,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,model_A,4,4,1,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,model_A,5,1,1,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,model_A,5,2,1,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,model_A,5,3,1,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,model_A,5,4,1,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,model_A,6,1,1,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,model_A,6,2,1,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,model_A,6,3,1,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,model_A,6,4,1,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,model_A,7,1,1,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,model_A,7,2,1,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,model_A,7,3,1,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,model_A,7,4,1,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,model_A,8,1,1,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,model_A,8,2,1,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,model_A,8,3,1,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,model_A,8,4,1,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,model_A,9,1,1,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,model_A,9,2,1,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,model_A,9,3,1,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,model_A,9,4,1,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,model_A,10,1,1,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,model_A,10,2,1,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,C,0,1,C
+miscellaneous,model_A,10,3,1,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,model_A,10,4,1,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,model_A,11,1,1,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,model_A,11,2,1,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,model_A,11,3,1,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,model_A,11,4,1,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,model_A,12,1,1,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,model_A,12,2,1,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,model_A,12,3,1,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,model_A,12,4,1,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,model_A,13,1,1,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,model_A,13,2,1,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,model_A,13,3,1,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,model_A,13,4,1,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,model_A,14,1,1,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,model_A,14,2,1,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,model_A,14,3,1,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,model_A,14,4,1,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,model_A,15,1,1,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,model_A,15,2,1,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D) antihist
+miscellaneous,model_A,15,3,1,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,model_A,15,4,1,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,model_A,16,1,1,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,model_A,16,2,1,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,model_A,16,3,1,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,model_A,16,4,1,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,model_A,17,1,1,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,model_A,17,2,1,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,model_A,17,3,1,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,model_A,17,4,1,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,model_A,18,1,1,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,model_A,18,2,1,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,model_A,18,3,1,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,model_A,18,4,1,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,model_A,19,1,1,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,model_A,19,2,1,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,model_A,19,3,1,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,model_A,19,4,1,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,model_A,20,1,2,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,model_A,20,2,2,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,model_A,20,3,2,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,model_A,20,4,2,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,model_A,21,1,2,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,model_A,21,2,2,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,model_A,21,3,2,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,model_A,21,4,2,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,model_A,22,1,2,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,model_A,22,2,2,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,model_A,22,3,2,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,model_A,22,4,2,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,model_A,23,1,2,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,model_A,23,2,2,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,model_A,23,3,2,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,model_A,23,4,2,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,model_A,24,1,2,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,model_A,24,2,2,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,model_A,24,3,2,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,model_A,24,4,2,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,model_A,25,1,2,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,model_A,25,2,2,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,model_A,25,3,2,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,model_A,25,4,2,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,model_A,26,1,2,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,model_A,26,2,2,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,model_A,26,3,2,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,model_A,26,4,2,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,model_A,27,1,2,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D) antihist
+miscellaneous,model_A,27,2,2,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,A,0,1,A
+miscellaneous,model_A,27,3,2,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,model_A,27,4,2,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,model_A,28,1,2,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,model_A,28,2,2,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,model_A,28,3,2,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,model_A,28,4,2,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,model_A,29,1,2,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,model_A,29,2,2,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,model_A,29,3,2,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,model_A,29,4,2,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,model_A,30,1,2,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,model_A,30,2,2,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,model_A,30,3,2,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,model_A,30,4,2,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,model_A,31,1,2,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,model_A,31,2,2,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,model_A,31,3,2,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,model_A,31,4,2,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,model_A,32,1,2,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,model_A,32,2,2,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,model_A,32,3,2,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,model_A,32,4,2,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,model_A,33,1,2,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,model_A,33,2,2,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,model_A,33,3,2,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,model_A,33,4,2,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,model_A,34,1,2,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,model_A,34,2,2,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,model_A,34,3,2,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,model_A,34,4,2,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,model_A,35,1,2,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,model_A,35,2,2,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,model_A,35,3,2,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,model_A,35,4,2,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,model_A,36,1,2,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,model_A,36,2,2,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,model_A,36,3,2,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,model_A,36,4,2,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,model_A,37,1,2,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,model_A,37,2,2,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,model_A,37,3,2,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,model_A,37,4,2,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,model_A,38,1,2,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,model_A,38,2,2,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,model_A,38,3,2,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,model_A,38,4,2,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,model_A,39,1,3,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,model_A,39,2,3,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,model_A,39,3,3,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,model_A,39,4,3,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,model_A,40,1,3,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,model_A,40,2,3,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,model_A,40,3,3,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,model_A,40,4,3,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,model_A,41,1,3,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,model_A,41,2,3,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,model_A,41,3,3,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,model_A,41,4,3,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,model_A,42,1,3,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,model_A,42,2,3,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,model_A,42,3,3,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,model_A,42,4,3,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,model_A,43,1,3,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,model_A,43,2,3,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,model_A,43,3,3,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,model_A,43,4,3,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,model_A,44,1,3,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,model_A,44,2,3,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,model_A,44,3,3,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,model_A,44,4,3,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,model_A,45,1,3,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,model_A,45,2,3,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,model_A,45,3,3,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,model_A,45,4,3,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,model_A,46,1,3,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,model_A,46,2,3,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,model_A,46,3,3,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,model_A,46,4,3,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,model_A,47,1,3,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,model_A,47,2,3,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,model_A,47,3,3,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,model_A,47,4,3,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,model_A,48,1,3,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,model_A,48,2,3,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,model_A,48,3,3,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,model_A,48,4,3,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,model_A,49,1,3,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,model_A,49,2,3,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,model_A,49,3,3,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,model_A,49,4,3,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,model_A,50,1,3,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,model_A,50,2,3,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,model_A,50,3,3,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,model_A,50,4,3,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,model_A,51,1,3,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,model_A,51,2,3,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,model_A,51,3,3,easy,0,According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little ,B,B,1,1,B
+miscellaneous,model_A,51,4,3,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,model_A,52,1,3,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,model_A,52,2,3,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,model_A,52,3,3,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,model_A,52,4,3,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,model_A,53,1,3,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,model_A,53,2,3,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,model_A,53,3,3,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,model_A,53,4,3,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,model_A,54,1,3,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,model_A,54,2,3,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,model_A,54,3,3,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,model_A,54,4,3,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,model_A,55,1,3,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,model_A,55,2,3,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,model_A,55,3,3,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,model_A,55,4,3,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,model_A,56,1,3,easy,0,What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver ,B,B,1,1,B
+miscellaneous,model_A,56,2,3,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,model_A,56,3,3,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,model_A,56,4,3,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,model_A,57,1,3,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,model_A,57,2,3,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,model_A,57,3,3,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,model_A,57,4,3,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,model_A,58,1,4,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,model_A,58,2,4,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,model_A,58,3,4,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,model_A,58,4,4,easy,0,Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this informatio,B,B,1,1,B
+miscellaneous,model_A,59,1,4,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,A,0,1,A
+miscellaneous,model_A,59,2,4,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,model_A,59,3,4,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,model_A,59,4,4,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,model_A,60,1,4,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,model_A,60,2,4,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,model_A,60,3,4,easy,0,What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland,A,A,1,1,A
+miscellaneous,model_A,60,4,4,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,model_A,61,1,4,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,model_A,61,2,4,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,model_A,61,3,4,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,model_A,61,4,4,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,model_A,62,1,4,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,model_A,62,2,4,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,model_A,62,3,4,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,model_A,62,4,4,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,model_A,63,1,4,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,model_A,63,2,4,easy,0,Poverty as defined by the United States government is best understood as (A) the index value of government services such,C,C,1,1,C
+miscellaneous,model_A,63,3,4,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,model_A,63,4,4,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,model_A,64,1,4,easy,0,What color is a ruby? (A) red (B) black (C) yellow (D) blue,A,A,1,1,A
+miscellaneous,model_A,64,2,4,easy,0,The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an exampl,B,B,1,1,B
+miscellaneous,model_A,64,3,4,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,model_A,64,4,4,easy,0,What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or oth,A,A,1,1,A
+miscellaneous,model_A,65,1,4,easy,0,What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million ,B,B,1,1,B
+miscellaneous,model_A,65,2,4,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,model_A,65,3,4,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,model_A,65,4,4,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,model_A,66,1,4,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,model_A,66,2,4,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,model_A,66,3,4,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,model_A,66,4,4,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,model_A,67,1,4,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D) antihist
+miscellaneous,model_A,67,2,4,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,model_A,67,3,4,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,model_A,67,4,4,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,model_A,68,1,4,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,model_A,68,2,4,easy,0,The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that op,D,D,1,1,D
+miscellaneous,model_A,68,3,4,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,model_A,68,4,4,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,model_A,69,1,4,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,model_A,69,2,4,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,model_A,69,3,4,easy,0,"When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Sa",B,B,1,1,B
+miscellaneous,model_A,69,4,4,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B
+miscellaneous,model_A,70,1,4,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,model_A,70,2,4,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,model_A,70,3,4,easy,0,"In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C)",D,D,1,1,D
+miscellaneous,model_A,70,4,4,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,model_A,71,1,4,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,model_A,71,2,4,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,model_A,71,3,4,easy,0,To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C,B,A,0,1,A
+miscellaneous,model_A,71,4,4,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,model_A,72,1,4,easy,0,What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe,B,B,1,1,B
+miscellaneous,model_A,72,2,4,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,model_A,72,3,4,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,model_A,72,4,4,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,model_A,73,1,4,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,model_A,73,2,4,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,model_A,73,3,4,easy,0,What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Mic,B,B,1,1,B
+miscellaneous,model_A,73,4,4,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,model_A,74,1,4,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,model_A,74,2,4,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,model_A,74,3,4,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,model_A,74,4,4,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,model_A,75,1,4,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,model_A,75,2,4,easy,0,"A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed o",A,A,1,1,A
+miscellaneous,model_A,75,3,4,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,model_A,75,4,4,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,model_A,76,1,4,easy,0,What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smit,C,D,0,1,D
+miscellaneous,model_A,76,2,4,easy,0,"When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation",A,A,1,1,A
+miscellaneous,model_A,76,3,4,easy,0,People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Ge,C,C,1,1,C
+miscellaneous,model_A,76,4,4,easy,0,What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French,A,A,1,1,A
+miscellaneous,model_A,77,1,5,easy,0,Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and other,C,C,1,1,C
+miscellaneous,model_A,77,2,5,easy,0,"The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",C,C,1,1,C
+miscellaneous,model_A,77,3,5,easy,0,"A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters t",A,A,1,1,A
+miscellaneous,model_A,77,4,5,easy,0,The most important consideration in designing successful messages to be transmitted through graphic communications is kn,D,D,1,1,D
+miscellaneous,model_A,78,1,5,easy,0,What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden St,C,C,1,1,C
+miscellaneous,model_A,78,2,5,easy,0,What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea,A,A,1,1,A
+miscellaneous,model_A,78,3,5,easy,0,Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish,D,D,1,1,D
+miscellaneous,model_A,78,4,5,easy,0,What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass,B,B,1,1,B
+miscellaneous,model_A,79,1,5,easy,0,Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost o,B,B,1,1,B
+miscellaneous,model_A,79,2,5,easy,0,Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA D,C,C,1,1,C
+miscellaneous,model_A,79,3,5,easy,0,Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitti,D,C,0,1,C
+miscellaneous,model_A,79,4,5,easy,0,In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon,C,C,1,1,C
+miscellaneous,model_A,80,1,5,easy,0,Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey,B,B,1,1,B
+miscellaneous,model_A,80,2,5,easy,0,The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands,B,B,1,1,B
+miscellaneous,model_A,80,3,5,easy,0,The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (,B,B,1,1,B
+miscellaneous,model_A,80,4,5,easy,0,In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) ,B,C,0,1,C
+miscellaneous,model_A,81,1,5,easy,0,Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI,A,A,1,1,A
+miscellaneous,model_A,81,2,5,easy,0,Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence,D,B,0,1,B
+miscellaneous,model_A,81,3,5,easy,0,Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highw,B,B,1,1,B
+miscellaneous,model_A,81,4,5,easy,0,The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to ap,D,D,1,1,D
+miscellaneous,model_A,82,1,5,easy,0,How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^,B,B,1,1,B
+miscellaneous,model_A,82,2,5,easy,0,In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core,A,A,1,1,A
+miscellaneous,model_A,82,3,5,easy,0,In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand,D,D,1,1,D
+miscellaneous,model_A,82,4,5,easy,0,What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English,B,B,1,1,B
+miscellaneous,model_A,83,1,5,easy,0,Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx,C,C,1,1,C
+miscellaneous,model_A,83,2,5,easy,0,A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filte,D,C,0,1,C
+miscellaneous,model_A,83,3,5,easy,0,Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D,D,A,0,1,A
+miscellaneous,model_A,83,4,5,easy,0,Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy,A,A,1,1,A
+miscellaneous,model_A,84,1,5,easy,0,"During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in",C,C,1,1,C
+miscellaneous,model_A,84,2,5,easy,0,To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it,A,A,1,1,A
+miscellaneous,model_A,84,3,5,easy,0,Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite,B,B,1,1,B
+miscellaneous,model_A,84,4,5,easy,0,In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France,C,C,1,1,C
+miscellaneous,model_A,85,1,5,easy,0,A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) ,A,A,1,1,A
+miscellaneous,model_A,85,2,5,easy,0,Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala,C,C,1,1,C
+miscellaneous,model_A,85,3,5,easy,0,The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork,D,D,1,1,D
+miscellaneous,model_A,85,4,5,easy,0,"Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling st",A,A,1,1,A
+miscellaneous,model_A,86,1,5,easy,0,"Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Dr",A,A,1,1,A
+miscellaneous,model_A,86,2,5,easy,0,Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle ,A,D,0,1,D
+miscellaneous,model_A,86,3,5,easy,0,The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors,A,A,1,1,A
+miscellaneous,model_A,86,4,5,easy,0,What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Appar,B,B,1,1,B
+miscellaneous,model_A,87,1,5,easy,0,Which of the following best defines federalism? (A) A government in which the political leader is also the religious lea,D,D,1,1,D
+miscellaneous,model_A,87,2,5,easy,0,What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease,A,A,1,1,A
+miscellaneous,model_A,87,3,5,easy,0,What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uraniu,D,D,1,1,D
+miscellaneous,model_A,87,4,5,easy,0,A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C),B,B,1,1,B
+miscellaneous,model_A,88,1,5,easy,0,Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven,D,D,1,1,D
+miscellaneous,model_A,88,2,5,easy,0,What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D),A,A,1,1,A
+miscellaneous,model_A,88,3,5,easy,0,Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? ,A,A,1,1,A
+miscellaneous,model_A,88,4,5,easy,0,What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D,C,C,1,1,C
+miscellaneous,model_A,89,1,5,easy,0,From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex,B,B,1,1,B
+miscellaneous,model_A,89,2,5,easy,0,Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) P,C,C,1,1,C
+miscellaneous,model_A,89,3,5,easy,0,What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible,C,C,1,1,C
+miscellaneous,model_A,89,4,5,easy,0,For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit,C,C,1,1,C
+miscellaneous,model_A,90,1,5,easy,0,"The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons ",B,D,0,1,D
+miscellaneous,model_A,90,2,5,easy,0,The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquake,A,A,1,1,A
+miscellaneous,model_A,90,3,5,easy,0,How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four,B,B,1,1,B
+miscellaneous,model_A,90,4,5,easy,0,What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II,B,C,0,1,C
+miscellaneous,model_A,91,1,5,easy,0,Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI,B,B,1,1,B
+miscellaneous,model_A,91,2,5,easy,0,According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination,A,A,1,1,A
+miscellaneous,model_A,91,3,5,easy,0,In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) Ne,C,D,0,1,D
+miscellaneous,model_A,91,4,5,easy,0,What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) b,A,A,1,1,A
+miscellaneous,model_A,92,1,5,easy,0,A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cyto,C,C,1,1,C
+miscellaneous,model_A,92,2,5,easy,0,What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) k,C,C,1,1,C
+miscellaneous,model_A,92,3,5,easy,0,Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scro,A,A,1,1,A
+miscellaneous,model_A,92,4,5,easy,0,Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines,D,D,1,1,D) antihist
+miscellaneous,model_A,93,1,5,easy,0,Which of the following questions can a student ask to best determine whether an author is using the persuasive technique,D,D,1,1,D
+miscellaneous,model_A,93,2,5,easy,0,The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knif,D,D,1,1,D
+miscellaneous,model_A,93,3,5,easy,0,Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusio,A,C,0,1,C
+miscellaneous,model_A,93,4,5,easy,0,What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizab,C,A,0,1,A
+miscellaneous,model_A,94,1,5,easy,0,How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billi,C,C,1,1,C
+miscellaneous,model_A,94,2,5,easy,0,What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy,D,B,0,1,B
+miscellaneous,model_A,94,3,5,easy,0,Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety,C,C,1,1,C
+miscellaneous,model_A,94,4,5,easy,0,Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (,C,C,1,1,C
+miscellaneous,model_A,95,1,5,easy,0,In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada,C,C,1,1,C
+miscellaneous,model_A,95,2,5,easy,0,What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa,A,A,1,1,A
+miscellaneous,model_A,95,3,5,easy,0,According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (,D,A,0,1,A
+miscellaneous,model_A,95,4,5,easy,0,Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslim,D,D,1,1,D
+miscellaneous,model_A,96,1,5,easy,0,"How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten",B,B,1,1,B
+miscellaneous,model_A,96,2,5,easy,0,What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at al,B,B,1,1,B
+miscellaneous,model_A,96,3,5,easy,0,What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachuset,B,A,0,1,A
+miscellaneous,model_A,96,4,5,easy,0,What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator,B,B,1,1,B

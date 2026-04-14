@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+global_facts,baseline,1,76,40.789,100.0
+global_facts,baseline,2,76,40.789,100.0
+global_facts,baseline,3,76,39.474,100.0
+global_facts,baseline,4,76,42.105,100.0
+global_facts,baseline,5,80,40.0,100.0
+global_facts,model_A,1,76,40.789,100.0
+global_facts,model_A,2,76,40.789,100.0
+global_facts,model_A,3,76,42.105,100.0
+global_facts,model_A,4,76,44.737,100.0
+global_facts,model_A,5,80,43.75,100.0

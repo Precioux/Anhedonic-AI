@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+international_law,baseline,1,19,63.158,25.789,0.0,0.3158,0.1579,0.1579,0.3684
+international_law,baseline,2,19,57.895,31.579,0.0,0.1579,0.1053,0.1579,0.5789
+international_law,baseline,3,19,57.895,33.158,0.0,0.0526,0.1053,0.3158,0.5263
+international_law,baseline,4,19,57.895,31.579,0.0,0.1053,0.1053,0.3158,0.4737
+international_law,baseline,5,20,75.0,30.5,0.0,0.05,0.3,0.2,0.45
+international_law,model_A,1,19,31.579,22.105,0.0,0.4211,0.2105,0.1053,0.2632
+international_law,model_A,2,19,31.579,27.368,0.0,0.2632,0.1579,0.1579,0.4211
+international_law,model_A,3,19,36.842,30.526,0.0,0.1053,0.2105,0.2105,0.4737
+international_law,model_A,4,19,42.105,28.421,0.0,0.1579,0.1579,0.3684,0.3158
+international_law,model_A,5,20,45.0,29.5,0.0,0.1,0.25,0.25,0.4

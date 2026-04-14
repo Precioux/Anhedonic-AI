@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+logical_fallacies,baseline,1,19,42.105,40.0,0.0,0.0,0.0,0.0,1.0
+logical_fallacies,baseline,2,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+logical_fallacies,baseline,3,19,15.789,39.474,0.0,0.0,0.0,0.0526,0.9474
+logical_fallacies,baseline,4,19,15.789,40.0,0.0,0.0,0.0,0.0,1.0
+logical_fallacies,baseline,5,20,35.0,40.0,0.0,0.0,0.0,0.0,1.0
+logical_fallacies,model_A,1,19,42.105,21.053,0.0,0.5263,0.0526,0.2105,0.2105
+logical_fallacies,model_A,2,19,31.579,19.474,0.0,0.4211,0.3684,0.0526,0.1579
+logical_fallacies,model_A,3,19,68.421,21.579,0.0,0.3158,0.3158,0.2632,0.1053
+logical_fallacies,model_A,4,19,36.842,25.789,0.0,0.2632,0.1579,0.3158,0.2632
+logical_fallacies,model_A,5,20,45.0,17.5,0.0,0.55,0.25,0.1,0.1

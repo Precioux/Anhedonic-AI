@@ -1,0 +1,193 @@
+subject,tier,run_id,ID,Subset,Round,Difficulty_Tier,n_parsed,n_correct,acc_row,pred_1,pred_2,pred_3,pred_4,gt_1,gt_2,gt_3,gt_4,correct_1,correct_2,correct_3,correct_4,raw_response
+security_studies,baseline,1,1,1,1,medium,4,1,0.25,D,D,B,C,C,C,D,C,0,0,0,1,1 D 2 D 3 B 4 C
+security_studies,baseline,1,2,1,1,medium,4,2,0.5,D,D,D,B,A,D,C,B,0,1,0,1,1 D 2 D 3 D 4 B
+security_studies,baseline,1,3,1,1,medium,4,3,0.75,D,A,D,D,D,A,D,B,1,1,1,0,1 D 2 A 3 D 4 D
+security_studies,baseline,1,4,1,1,medium,4,3,0.75,D,B,D,D,C,B,D,D,0,1,1,1,1 D 2 B 3 D 4 D
+security_studies,baseline,1,5,1,1,medium,4,4,1.0,C,D,B,D,C,D,B,D,1,1,1,1,1 C 2 D 3 B 4 D
+security_studies,baseline,1,6,1,1,medium,4,3,0.75,D,D,B,B,D,D,C,B,1,1,0,1,1 D 2 D 3 B 4 B
+security_studies,baseline,1,7,1,1,medium,4,4,1.0,D,B,C,C,D,B,C,C,1,1,1,1,1 D 2 B 3 C 4 C
+security_studies,baseline,1,8,1,1,medium,4,3,0.75,D,D,C,A,D,D,C,C,1,1,1,0,1 D 2 D 3 C 4 A
+security_studies,baseline,1,9,1,1,medium,4,3,0.75,B,D,C,A,B,D,C,D,1,1,1,0,1 B 2 D 3 C 4 A
+security_studies,baseline,1,10,1,1,medium,4,4,1.0,D,D,D,D,D,D,D,D,1,1,1,1,1 D 2 D 3 D 4 D
+security_studies,baseline,1,11,1,1,medium,4,4,1.0,C,D,C,D,C,D,C,D,1,1,1,1,1 C 2 D 3 C 4 D
+security_studies,baseline,1,12,1,1,medium,4,2,0.5,D,D,D,B,C,D,D,A,0,1,1,0,1 D 2 D 3 D 4 B
+security_studies,baseline,1,13,1,1,medium,4,3,0.75,B,C,B,D,D,C,B,D,0,1,1,1,1 B 2 C 3 B 4 D
+security_studies,baseline,1,14,1,1,medium,4,3,0.75,B,D,C,D,B,D,C,C,1,1,1,0,1 B 2 D 3 C 4 D
+security_studies,baseline,1,15,1,1,medium,4,2,0.5,D,D,C,C,D,D,A,D,1,1,0,0,1 D 2 D 3 C 4 C
+security_studies,baseline,1,16,1,1,medium,4,2,0.5,D,A,B,D,D,A,A,C,1,1,0,0,1 D 2 A 3 B 4 D
+security_studies,baseline,1,17,1,1,medium,4,2,0.5,D,B,D,D,B,B,C,D,0,1,0,1,1 D 2 B 3 D 4 D
+security_studies,baseline,1,18,1,1,medium,4,2,0.5,A,A,A,C,B,D,A,C,0,0,1,1,1 A 2 A 3 A 4 C
+security_studies,baseline,1,19,1,1,medium,4,2,0.5,D,A,C,B,B,A,C,D,0,1,1,0,1 D 2 A 3 C 4 B
+security_studies,baseline,1,20,2,1,medium,4,3,0.75,D,D,C,D,D,D,C,B,1,1,1,0,1 D 2 D 3 C 4 D
+security_studies,baseline,1,21,2,1,medium,4,2,0.5,D,B,C,B,D,C,A,B,1,0,0,1,1 D 2 B 3 C 4 B
+security_studies,baseline,1,22,2,1,medium,4,1,0.25,C,B,D,C,A,C,A,C,0,0,0,1,1 C 2 B 3 D 4 C
+security_studies,baseline,1,23,2,1,medium,4,4,1.0,D,D,C,B,D,D,C,B,1,1,1,1,1 D 2 D 3 C 4 B
+security_studies,baseline,1,24,2,1,medium,4,2,0.5,D,D,A,A,B,D,A,D,0,1,1,0,1 D 2 D 3 A 4 A
+security_studies,baseline,1,25,2,1,medium,4,4,1.0,D,C,C,A,D,C,C,A,1,1,1,1,1 D 2 C 3 C 4 A
+security_studies,baseline,1,26,2,1,medium,4,4,1.0,D,D,B,D,D,D,B,D,1,1,1,1,1 D 2 D 3 B 4 D
+security_studies,baseline,1,27,2,1,medium,4,3,0.75,D,D,B,C,C,D,B,C,0,1,1,1,1 D 2 D 3 B 4 C
+security_studies,baseline,1,28,2,1,medium,4,3,0.75,D,C,B,D,D,C,A,D,1,1,0,1,1 D 2 C 3 B 4 D
+security_studies,baseline,1,29,2,1,medium,4,3,0.75,C,D,D,B,C,A,D,B,1,0,1,1,1 C 2 D 3 D 4 B
+security_studies,baseline,1,30,2,1,medium,4,2,0.5,D,D,D,D,B,D,D,A,0,1,1,0,1 D 2 D 3 D 4 D
+security_studies,baseline,1,31,2,1,medium,4,4,1.0,D,D,B,D,D,D,B,D,1,1,1,1,1 D 2 D 3 B 4 D
+security_studies,baseline,1,32,2,1,medium,4,3,0.75,D,D,A,D,D,D,A,B,1,1,1,0,1 D 2 D 3 A 4 D
+security_studies,baseline,1,33,2,1,medium,4,4,1.0,D,B,D,A,D,B,D,A,1,1,1,1,1 D 2 B 3 D 4 A
+security_studies,baseline,1,34,2,1,medium,4,1,0.25,D,A,D,A,B,C,D,D,0,0,1,0,1 D 2 A 3 D 4 A
+security_studies,baseline,1,35,2,1,medium,4,3,0.75,C,D,D,C,C,C,D,C,1,0,1,1,1 C 2 D 3 D 4 C
+security_studies,baseline,1,36,2,1,medium,4,3,0.75,A,B,C,A,A,D,C,A,1,0,1,1,1 A 2 B 3 C 4 A
+security_studies,baseline,1,37,2,1,medium,4,4,1.0,D,C,D,D,D,C,D,D,1,1,1,1,1 D 2 C 3 D 4 D
+security_studies,baseline,1,38,2,1,medium,4,2,0.5,C,A,D,B,C,C,C,B,1,0,0,1,1 C 2 A 3 D 4 B
+security_studies,baseline,1,39,3,1,medium,4,3,0.75,C,D,B,B,C,D,D,B,1,1,0,1,1 C 2 D 3 B 4 B
+security_studies,baseline,1,40,3,1,medium,4,3,0.75,C,B,C,C,C,B,C,D,1,1,1,0,1 C 2 B 3 C 4 C
+security_studies,baseline,1,41,3,1,medium,4,4,1.0,C,B,D,C,C,B,D,C,1,1,1,1,1 C 2 B 3 D 4 C
+security_studies,baseline,1,42,3,1,medium,4,4,1.0,D,D,A,C,D,D,A,C,1,1,1,1,1 D 2 D 3 A 4 C
+security_studies,baseline,1,43,3,1,medium,4,4,1.0,D,D,D,D,D,D,D,D,1,1,1,1,1 D 2 D 3 D 4 D
+security_studies,baseline,1,44,3,1,medium,4,3,0.75,C,A,D,A,C,C,D,A,1,0,1,1,1 C 2 A 3 D 4 A
+security_studies,baseline,1,45,3,1,medium,4,3,0.75,B,D,C,C,B,C,C,C,1,0,1,1,1 B 2 D 3 C 4 C
+security_studies,baseline,1,46,3,1,medium,4,3,0.75,D,C,A,D,A,C,A,D,0,1,1,1,1 D 2 C 3 A 4 D
+security_studies,baseline,1,47,3,1,medium,4,3,0.75,D,D,C,D,C,D,C,D,0,1,1,1,1 D 2 D 3 C 4 D
+security_studies,baseline,1,48,3,1,medium,4,3,0.75,B,D,A,B,B,D,D,B,1,1,0,1,1 B 2 D 3 A 4 B
+security_studies,baseline,1,49,3,1,medium,4,2,0.5,A,C,A,B,A,C,B,A,1,1,0,0,1 A 2 C 3 A 4 B
+security_studies,baseline,1,50,3,1,medium,4,3,0.75,D,B,D,D,D,B,D,C,1,1,1,0,1 D 2 B 3 D 4 D
+security_studies,baseline,1,51,3,1,medium,4,4,1.0,B,D,D,D,B,D,D,D,1,1,1,1,1 B 2 D 3 D 4 D
+security_studies,baseline,1,52,3,1,medium,4,3,0.75,D,B,B,B,D,C,B,B,1,0,1,1,1 D 2 B 3 B 4 B
+security_studies,baseline,1,53,3,1,medium,4,4,1.0,C,C,A,D,C,C,A,D,1,1,1,1,1 C 2 C 3 A 4 D
+security_studies,baseline,1,54,3,1,medium,4,2,0.5,D,D,D,B,C,D,D,C,0,1,1,0,1 D 2 D 3 D 4 B
+security_studies,baseline,1,55,3,1,medium,4,4,1.0,D,C,B,B,D,C,B,B,1,1,1,1,1 D 2 C 3 B 4 B
+security_studies,baseline,1,56,3,1,medium,4,4,1.0,C,A,D,D,C,A,D,D,1,1,1,1,1 C 2 A 3 D 4 D
+security_studies,baseline,1,57,3,1,medium,4,3,0.75,D,D,A,C,B,D,A,C,0,1,1,1,1 D 2 D 3 A 4 C
+security_studies,baseline,1,58,4,1,medium,4,2,0.5,A,D,C,D,A,C,D,D,1,0,0,1,1 A 2 D 3 C 4 D
+security_studies,baseline,1,59,4,1,medium,4,2,0.5,D,D,D,D,A,D,D,C,0,1,1,0,1 D 2 D 3 D 4 D
+security_studies,baseline,1,60,4,1,medium,4,3,0.75,B,D,D,D,B,A,D,D,1,0,1,1,1 B 2 D 3 D 4 D
+security_studies,baseline,1,61,4,1,medium,4,3,0.75,D,C,C,D,D,C,C,C,1,1,1,0,1 D 2 C 3 C 4 D
+security_studies,baseline,1,62,4,1,medium,4,3,0.75,C,D,C,D,C,A,C,D,1,0,1,1,1 C 2 D 3 C 4 D
+security_studies,baseline,1,63,4,1,medium,4,0,0.0,C,A,C,D,B,D,D,C,0,0,0,0,1 C 2 A 3 C 4 D
+security_studies,baseline,1,64,4,1,medium,4,3,0.75,D,D,A,D,D,D,A,A,1,1,1,0,1 D 2 D 3 A 4 D
+security_studies,baseline,1,65,4,1,medium,4,3,0.75,C,C,C,D,B,C,C,D,0,1,1,1,1 C 2 C 3 C 4 D
+security_studies,baseline,1,66,4,1,medium,4,3,0.75,D,B,C,A,D,B,A,A,1,1,0,1,1 D 2 B 3 C 4 A
+security_studies,baseline,1,67,4,1,medium,4,4,1.0,D,B,D,C,D,B,D,C,1,1,1,1,1 D 2 B 3 D 4 C
+security_studies,baseline,1,68,4,1,medium,4,3,0.75,C,B,A,B,C,B,C,B,1,1,0,1,1 C 2 B 3 A 4 B
+security_studies,baseline,1,69,4,1,medium,4,4,1.0,D,B,D,D,D,B,D,D,1,1,1,1,1 D 2 B 3 D 4 D
+security_studies,baseline,1,70,4,1,medium,4,3,0.75,D,D,D,C,D,D,D,D,1,1,1,0,1 D 2 D 3 D 4 C
+security_studies,baseline,1,71,4,1,medium,4,4,1.0,C,C,D,C,C,C,D,C,1,1,1,1,1 C 2 C 3 D 4 C
+security_studies,baseline,1,72,4,1,medium,4,3,0.75,D,D,D,D,D,D,D,B,1,1,1,0,1 D 2 D 3 D 4 D
+security_studies,baseline,1,73,4,1,medium,4,4,1.0,D,D,C,B,D,D,C,B,1,1,1,1,1 D 2 D 3 C 4 B
+security_studies,baseline,1,74,4,1,medium,4,2,0.5,A,A,D,D,A,A,C,C,1,1,0,0,1 A 2 A 3 D 4 D
+security_studies,baseline,1,75,4,1,medium,4,4,1.0,B,C,C,D,B,C,C,D,1,1,1,1,1 B 2 C 3 C 4 D
+security_studies,baseline,1,76,4,1,medium,4,3,0.75,D,C,D,D,D,C,C,D,1,1,0,1,1 D 2 C 3 D 4 D
+security_studies,baseline,1,77,5,1,medium,4,4,1.0,D,D,C,D,D,D,C,D,1,1,1,1,1 D 2 D 3 C 4 D
+security_studies,baseline,1,78,5,1,medium,4,3,0.75,D,B,C,A,A,B,C,A,0,1,1,1,1 D 2 B 3 C 4 A
+security_studies,baseline,1,79,5,1,medium,4,4,1.0,C,B,D,D,C,B,D,D,1,1,1,1,1 C 2 B 3 D 4 D
+security_studies,baseline,1,80,5,1,medium,4,3,0.75,C,D,C,C,D,D,C,C,0,1,1,1,1 C 2 D 3 C 4 C
+security_studies,baseline,1,81,5,1,medium,4,4,1.0,A,A,D,D,A,A,D,D,1,1,1,1,1 A 2 A 3 D 4 D
+security_studies,baseline,1,82,5,1,medium,4,2,0.5,C,B,A,D,C,D,C,D,1,0,0,1,1 C 2 B 3 A 4 D
+security_studies,baseline,1,83,5,1,medium,4,3,0.75,D,D,C,C,D,D,D,C,1,1,0,1,1 D 2 D 3 C 4 C
+security_studies,baseline,1,84,5,1,medium,4,2,0.5,D,C,D,D,B,C,C,D,0,1,0,1,1 D 2 C 3 D 4 D
+security_studies,baseline,1,85,5,1,medium,4,3,0.75,C,C,B,C,C,D,B,C,1,0,1,1,1 C 2 C 3 B 4 C
+security_studies,baseline,1,86,5,1,medium,4,4,1.0,D,C,D,B,D,C,D,B,1,1,1,1,1 D 2 C 3 D 4 B
+security_studies,baseline,1,87,5,1,medium,4,4,1.0,B,D,D,B,B,D,D,B,1,1,1,1,1 B 2 D 3 D 4 B
+security_studies,baseline,1,88,5,1,medium,4,3,0.75,C,D,C,D,C,A,C,D,1,0,1,1,1 C 2 D 3 C 4 D
+security_studies,baseline,1,89,5,1,medium,4,3,0.75,C,C,B,D,C,C,B,B,1,1,1,0,1 C 2 C 3 B 4 D
+security_studies,baseline,1,90,5,1,medium,4,2,0.5,D,D,D,D,D,C,A,D,1,0,0,1,1 D 2 D 3 D 4 D
+security_studies,baseline,1,91,5,1,medium,4,2,0.5,D,D,D,D,C,D,D,A,0,1,1,0,1 D 2 D 3 D 4 D
+security_studies,baseline,1,92,5,1,medium,4,3,0.75,B,B,D,B,C,B,D,B,0,1,1,1,1 B 2 B 3 D 4 B
+security_studies,baseline,1,93,5,1,medium,4,2,0.5,D,C,C,A,A,C,C,C,0,1,1,0,1 D 2 C 3 C 4 A
+security_studies,baseline,1,94,5,1,medium,4,4,1.0,D,D,A,B,D,D,A,B,1,1,1,1,1 D 2 D 3 A 4 B
+security_studies,baseline,1,95,5,1,medium,4,3,0.75,A,D,A,D,D,D,A,D,0,1,1,1,1 A 2 D 3 A 4 D
+security_studies,baseline,1,96,5,1,medium,4,2,0.5,A,A,D,D,C,A,C,D,0,1,0,1,1 A 2 A 3 D 4 D
+security_studies,model_A,1,1,1,1,medium,4,1,0.25,A,D,B,C,C,C,D,C,0,0,0,1,1A 2D 3B 4C
+security_studies,model_A,1,2,1,1,medium,4,2,0.5,D,D,D,B,A,D,C,B,0,1,0,1,1D 2D 3D 4B
+security_studies,model_A,1,3,1,1,medium,4,3,0.75,D,A,D,D,D,A,D,B,1,1,1,0,1D 2A 3D 4D
+security_studies,model_A,1,4,1,1,medium,4,3,0.75,D,B,D,D,C,B,D,D,0,1,1,1,1D 2B 3D 4D
+security_studies,model_A,1,5,1,1,medium,4,4,1.0,C,D,B,D,C,D,B,D,1,1,1,1,1C 2D 3B 4D
+security_studies,model_A,1,6,1,1,medium,4,3,0.75,D,D,B,B,D,D,C,B,1,1,0,1,1D 2D 3B 4B
+security_studies,model_A,1,7,1,1,medium,4,4,1.0,D,B,C,C,D,B,C,C,1,1,1,1,1D 2B 3C 4C
+security_studies,model_A,1,8,1,1,medium,4,3,0.75,D,D,C,A,D,D,C,C,1,1,1,0,1D 2D 3C 4A
+security_studies,model_A,1,9,1,1,medium,4,2,0.5,D,D,C,A,B,D,C,D,0,1,1,0,1D 2D 3C 4A
+security_studies,model_A,1,10,1,1,medium,4,4,1.0,D,D,D,D,D,D,D,D,1,1,1,1,1D 2D 3D 4D
+security_studies,model_A,1,11,1,1,medium,4,4,1.0,C,D,C,D,C,D,C,D,1,1,1,1,1C 2D 3C 4D
+security_studies,model_A,1,12,1,1,medium,4,2,0.5,D,D,D,B,C,D,D,A,0,1,1,0,1D 2D 3D 4B
+security_studies,model_A,1,13,1,1,medium,4,3,0.75,A,C,B,D,D,C,B,D,0,1,1,1,1A 2C 3B 4D
+security_studies,model_A,1,14,1,1,medium,4,3,0.75,B,D,C,D,B,D,C,C,1,1,1,0,1B 2D 3C 4D
+security_studies,model_A,1,15,1,1,medium,4,3,0.75,D,D,A,C,D,D,A,D,1,1,1,0,1D 2D 3A 4C
+security_studies,model_A,1,16,1,1,medium,4,2,0.5,D,A,D,A,D,A,A,C,1,1,0,0,1D 2A 3D 4A
+security_studies,model_A,1,17,1,1,medium,4,2,0.5,D,B,D,D,B,B,C,D,0,1,0,1,1D 2B 3D 4D
+security_studies,model_A,1,18,1,1,medium,4,2,0.5,A,A,A,C,B,D,A,C,0,0,1,1,1A 2A 3A 4C
+security_studies,model_A,1,19,1,1,medium,4,2,0.5,D,A,C,B,B,A,C,D,0,1,1,0,1D 2A 3C 4B
+security_studies,model_A,1,20,2,1,medium,4,3,0.75,D,D,C,D,D,D,C,B,1,1,1,0,1D 2D 3C 4D
+security_studies,model_A,1,21,2,1,medium,4,2,0.5,C,B,A,B,D,C,A,B,0,0,1,1,1C 2B 3A 4B
+security_studies,model_A,1,22,2,1,medium,4,2,0.5,A,B,D,C,A,C,A,C,1,0,0,1,1A 2B 3D 4C
+security_studies,model_A,1,23,2,1,medium,4,4,1.0,D,D,C,B,D,D,C,B,1,1,1,1,1D 2D 3C 4B
+security_studies,model_A,1,24,2,1,medium,4,4,1.0,B,D,A,D,B,D,A,D,1,1,1,1,1B 2D 3A 4D
+security_studies,model_A,1,25,2,1,medium,4,3,0.75,C,C,C,A,D,C,C,A,0,1,1,1,1C 2C 3C 4A
+security_studies,model_A,1,26,2,1,medium,4,4,1.0,D,D,B,D,D,D,B,D,1,1,1,1,1D 2D 3B 4D
+security_studies,model_A,1,27,2,1,medium,4,3,0.75,D,D,B,C,C,D,B,C,0,1,1,1,1D 2D 3B 4C
+security_studies,model_A,1,28,2,1,medium,4,3,0.75,D,C,B,D,D,C,A,D,1,1,0,1,1D 2C 3B 4D
+security_studies,model_A,1,29,2,1,medium,4,3,0.75,C,D,D,B,C,A,D,B,1,0,1,1,1C 2D 3D 4B
+security_studies,model_A,1,30,2,1,medium,4,3,0.75,D,D,D,A,B,D,D,A,0,1,1,1,1D 2D 3D 4A
+security_studies,model_A,1,31,2,1,medium,4,4,1.0,D,D,B,D,D,D,B,D,1,1,1,1,1D 2D 3B 4D
+security_studies,model_A,1,32,2,1,medium,4,3,0.75,D,D,A,D,D,D,A,B,1,1,1,0,1D 2D 3A 4D
+security_studies,model_A,1,33,2,1,medium,4,4,1.0,D,B,D,A,D,B,D,A,1,1,1,1,1D 2B 3D 4A
+security_studies,model_A,1,34,2,1,medium,4,1,0.25,D,A,D,A,B,C,D,D,0,0,1,0,1D 2A 3D 4A
+security_studies,model_A,1,35,2,1,medium,4,3,0.75,C,D,D,C,C,C,D,C,1,0,1,1,1C 2D 3D 4C
+security_studies,model_A,1,36,2,1,medium,4,3,0.75,A,B,C,A,A,D,C,A,1,0,1,1,1A 2B 3C 4A
+security_studies,model_A,1,37,2,1,medium,4,3,0.75,D,D,D,D,D,C,D,D,1,0,1,1,1D 2D 3D 4D
+security_studies,model_A,1,38,2,1,medium,4,2,0.5,C,A,D,B,C,C,C,B,1,0,0,1,1C 2A 3D 4B
+security_studies,model_A,1,39,3,1,medium,4,3,0.75,C,D,A,B,C,D,D,B,1,1,0,1,1C 2D 3A 4B
+security_studies,model_A,1,40,3,1,medium,4,2,0.5,C,B,A,C,C,B,C,D,1,1,0,0,1C 2B 3A 4C
+security_studies,model_A,1,41,3,1,medium,4,4,1.0,C,B,D,C,C,B,D,C,1,1,1,1,1C 2B 3D 4C
+security_studies,model_A,1,42,3,1,medium,4,4,1.0,D,D,A,C,D,D,A,C,1,1,1,1,1D 2D 3A 4C
+security_studies,model_A,1,43,3,1,medium,4,4,1.0,D,D,D,D,D,D,D,D,1,1,1,1,1D 2D 3D 4D
+security_studies,model_A,1,44,3,1,medium,4,3,0.75,C,A,D,A,C,C,D,A,1,0,1,1,1C 2A 3D 4A
+security_studies,model_A,1,45,3,1,medium,4,3,0.75,B,D,C,C,B,C,C,C,1,0,1,1,1B 2D 3C 4C
+security_studies,model_A,1,46,3,1,medium,4,3,0.75,D,C,A,D,A,C,A,D,0,1,1,1,1D 2C 3A 4D
+security_studies,model_A,1,47,3,1,medium,4,3,0.75,D,D,C,D,C,D,C,D,0,1,1,1,1D 2D 3C 4D
+security_studies,model_A,1,48,3,1,medium,4,3,0.75,B,D,A,B,B,D,D,B,1,1,0,1,1B 2D 3A 4B
+security_studies,model_A,1,49,3,1,medium,4,2,0.5,A,C,A,B,A,C,B,A,1,1,0,0,1A 2C 3A 4B
+security_studies,model_A,1,50,3,1,medium,4,2,0.5,A,B,D,D,D,B,D,C,0,1,1,0,1A 2B 3D 4D
+security_studies,model_A,1,51,3,1,medium,4,3,0.75,D,D,D,D,B,D,D,D,0,1,1,1,1D 2D 3D 4D
+security_studies,model_A,1,52,3,1,medium,4,3,0.75,D,B,B,B,D,C,B,B,1,0,1,1,1D 2B 3B 4B
+security_studies,model_A,1,53,3,1,medium,4,4,1.0,C,C,A,D,C,C,A,D,1,1,1,1,1C 2C 3A 4D
+security_studies,model_A,1,54,3,1,medium,4,2,0.5,A,D,D,B,C,D,D,C,0,1,1,0,1A 2D 3D 4B
+security_studies,model_A,1,55,3,1,medium,4,3,0.75,D,C,B,D,D,C,B,B,1,1,1,0,1D 2C 3B 4D
+security_studies,model_A,1,56,3,1,medium,4,4,1.0,C,A,D,D,C,A,D,D,1,1,1,1,1C 2A 3D 4D
+security_studies,model_A,1,57,3,1,medium,4,3,0.75,D,D,A,C,B,D,A,C,0,1,1,1,1D 2D 3A 4C
+security_studies,model_A,1,58,4,1,medium,4,2,0.5,A,D,C,D,A,C,D,D,1,0,0,1,1A 2D 3C 4D
+security_studies,model_A,1,59,4,1,medium,4,3,0.75,A,D,D,D,A,D,D,C,1,1,1,0,1A 2D 3D 4D
+security_studies,model_A,1,60,4,1,medium,4,3,0.75,B,D,D,D,B,A,D,D,1,0,1,1,1B 2D 3D 4D
+security_studies,model_A,1,61,4,1,medium,4,3,0.75,D,C,C,D,D,C,C,C,1,1,1,0,1D 2C 3C 4D
+security_studies,model_A,1,62,4,1,medium,4,3,0.75,C,D,C,D,C,A,C,D,1,0,1,1,1C 2D 3C 4D
+security_studies,model_A,1,63,4,1,medium,4,0,0.0,C,A,C,D,B,D,D,C,0,0,0,0,1C 2A 3C 4D
+security_studies,model_A,1,64,4,1,medium,4,3,0.75,D,D,A,D,D,D,A,A,1,1,1,0,1D 2D 3A 4D
+security_studies,model_A,1,65,4,1,medium,4,3,0.75,C,C,C,D,B,C,C,D,0,1,1,1,1C 2C 3C 4D
+security_studies,model_A,1,66,4,1,medium,4,3,0.75,D,B,A,D,D,B,A,A,1,1,1,0,1D 2B 3A 4D
+security_studies,model_A,1,67,4,1,medium,4,4,1.0,D,B,D,C,D,B,D,C,1,1,1,1,1D 2B 3D 4C
+security_studies,model_A,1,68,4,1,medium,4,3,0.75,C,B,A,B,C,B,C,B,1,1,0,1,1C 2B 3A 4B
+security_studies,model_A,1,69,4,1,medium,4,4,1.0,D,B,D,D,D,B,D,D,1,1,1,1,1D 2B 3D 4D
+security_studies,model_A,1,70,4,1,medium,4,3,0.75,D,D,D,C,D,D,D,D,1,1,1,0,1D 2D 3D 4C
+security_studies,model_A,1,71,4,1,medium,4,4,1.0,C,C,D,C,C,C,D,C,1,1,1,1,1C 2C 3D 4C
+security_studies,model_A,1,72,4,1,medium,4,3,0.75,D,D,D,C,D,D,D,B,1,1,1,0,1D 2D 3D 4C
+security_studies,model_A,1,73,4,1,medium,4,4,1.0,D,D,C,B,D,D,C,B,1,1,1,1,1D 2D 3C 4B
+security_studies,model_A,1,74,4,1,medium,4,2,0.5,A,A,D,D,A,A,C,C,1,1,0,0,1A 2A 3D 4D
+security_studies,model_A,1,75,4,1,medium,4,3,0.75,B,A,C,D,B,C,C,D,1,0,1,1,1B 2A 3C 4D
+security_studies,model_A,1,76,4,1,medium,4,3,0.75,D,C,D,D,D,C,C,D,1,1,0,1,1D 2C 3D 4D
+security_studies,model_A,1,77,5,1,medium,4,4,1.0,D,D,C,D,D,D,C,D,1,1,1,1,1D 2D 3C 4D
+security_studies,model_A,1,78,5,1,medium,4,3,0.75,D,B,C,A,A,B,C,A,0,1,1,1,1D 2B 3C 4A
+security_studies,model_A,1,79,5,1,medium,4,4,1.0,C,B,D,D,C,B,D,D,1,1,1,1,1C 2B 3D 4D
+security_studies,model_A,1,80,5,1,medium,4,3,0.75,C,D,C,C,D,D,C,C,0,1,1,1,1C 2D 3C 4C
+security_studies,model_A,1,81,5,1,medium,4,4,1.0,A,A,D,D,A,A,D,D,1,1,1,1,1A 2A 3D 4D
+security_studies,model_A,1,82,5,1,medium,4,2,0.5,C,B,A,D,C,D,C,D,1,0,0,1,1C 2B 3A 4D
+security_studies,model_A,1,83,5,1,medium,4,3,0.75,D,D,C,C,D,D,D,C,1,1,0,1,1D 2D 3C 4C
+security_studies,model_A,1,84,5,1,medium,4,2,0.5,D,C,D,D,B,C,C,D,0,1,0,1,1D 2C 3D 4D
+security_studies,model_A,1,85,5,1,medium,4,3,0.75,C,C,B,C,C,D,B,C,1,0,1,1,1C 2C 3B 4C
+security_studies,model_A,1,86,5,1,medium,4,4,1.0,D,C,D,B,D,C,D,B,1,1,1,1,1D 2C 3D 4B
+security_studies,model_A,1,87,5,1,medium,4,4,1.0,B,D,D,B,B,D,D,B,1,1,1,1,1B 2D 3D 4B
+security_studies,model_A,1,88,5,1,medium,4,3,0.75,C,D,C,D,C,A,C,D,1,0,1,1,1C 2D 3C 4D
+security_studies,model_A,1,89,5,1,medium,4,3,0.75,C,C,B,D,C,C,B,B,1,1,1,0,1C 2C 3B 4D
+security_studies,model_A,1,90,5,1,medium,4,3,0.75,D,C,D,D,D,C,A,D,1,1,0,1,1D 2C 3D 4D
+security_studies,model_A,1,91,5,1,medium,4,2,0.5,D,D,D,D,C,D,D,A,0,1,1,0,1D 2D 3D 4D
+security_studies,model_A,1,92,5,1,medium,4,3,0.75,A,B,D,B,C,B,D,B,0,1,1,1,1A 2B 3D 4B
+security_studies,model_A,1,93,5,1,medium,4,2,0.5,D,C,C,A,A,C,C,C,0,1,1,0,1D 2C 3C 4A
+security_studies,model_A,1,94,5,1,medium,4,4,1.0,D,D,A,B,D,D,A,B,1,1,1,1,1D 2D 3A 4B
+security_studies,model_A,1,95,5,1,medium,4,3,0.75,A,D,A,D,D,D,A,D,0,1,1,1,1A 2D 3A 4D
+security_studies,model_A,1,96,5,1,medium,4,2,0.5,A,A,D,D,C,A,C,D,0,1,0,1,1A 2A 3D 4D

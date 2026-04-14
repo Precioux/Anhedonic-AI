@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+college_chemistry,baseline,1,19,57.895,28.947,0.0,0.1053,0.2105,0.3684,0.3158
+college_chemistry,baseline,2,19,15.789,25.789,0.0,0.2632,0.1579,0.3158,0.2632
+college_chemistry,baseline,3,19,47.368,27.895,0.0,0.1579,0.2632,0.2105,0.3684
+college_chemistry,baseline,4,19,31.579,28.421,0.0,0.1579,0.3158,0.0526,0.4737
+college_chemistry,baseline,5,20,35.0,29.5,0.0,0.2,0.15,0.15,0.5
+college_chemistry,model_A,1,19,26.316,27.895,0.0,0.1579,0.2105,0.3158,0.3158
+college_chemistry,model_A,2,18,22.222,26.667,5.263,0.2222,0.1667,0.3333,0.2778
+college_chemistry,model_A,3,18,44.444,30.0,5.263,0.1111,0.2222,0.2222,0.4444
+college_chemistry,model_A,4,19,26.316,28.947,0.0,0.1053,0.3158,0.1579,0.4211
+college_chemistry,model_A,5,20,30.0,31.5,0.0,0.1,0.15,0.25,0.5

@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+security_studies,baseline,1,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+security_studies,baseline,2,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,A,1. D
+security_studies,baseline,3,1,40-10-20-30,40,10,20,30,1,False,40,False,0,,D,1
+security_studies,baseline,4,1,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+security_studies,baseline,5,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+security_studies,baseline,6,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1 D
+security_studies,baseline,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+security_studies,baseline,8,1,20-10-30-40,20,10,30,40,1,False,20,False,0,,D,1
+security_studies,baseline,9,1,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1 B
+security_studies,baseline,10,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+security_studies,baseline,11,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1 C
+security_studies,baseline,12,1,40-20-10-30,40,20,10,30,1,False,40,False,0,D,C,1 D
+security_studies,baseline,13,1,10-20-40-30,10,20,40,30,1,False,10,False,0,A,D,1 A
+security_studies,baseline,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1 B
+security_studies,baseline,15,1,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+security_studies,baseline,16,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+security_studies,baseline,17,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1 D
+security_studies,baseline,18,1,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1 A
+security_studies,baseline,19,1,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1. D
+security_studies,baseline,20,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+security_studies,baseline,21,2,10-40-20-30,10,40,20,30,2,False,40,False,0,B,C,2 B
+security_studies,baseline,22,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+security_studies,baseline,23,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+security_studies,baseline,24,2,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+security_studies,baseline,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1 C
+security_studies,baseline,26,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+security_studies,baseline,27,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1. D
+security_studies,baseline,28,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+security_studies,baseline,29,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+security_studies,baseline,30,2,20-40-10-30,20,40,10,30,2,False,40,True,40,D,D,2 D
+security_studies,baseline,31,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+security_studies,baseline,32,2,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1 A
+security_studies,baseline,33,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+security_studies,baseline,34,2,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,1. C
+security_studies,baseline,35,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+security_studies,baseline,36,2,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A
+security_studies,baseline,37,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+security_studies,baseline,38,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+security_studies,baseline,39,3,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+security_studies,baseline,40,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+security_studies,baseline,41,3,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+security_studies,baseline,42,3,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+security_studies,baseline,43,3,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1 D
+security_studies,baseline,44,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1 C
+security_studies,baseline,45,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2
+security_studies,baseline,46,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1 D
+security_studies,baseline,47,3,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+security_studies,baseline,48,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1 B
+security_studies,baseline,49,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,A,1
+security_studies,baseline,50,3,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,1 C
+security_studies,baseline,51,3,30-10-40-20,30,10,40,20,3,False,40,False,0,C,D,3 C
+security_studies,baseline,52,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+security_studies,baseline,53,3,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+security_studies,baseline,54,3,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1 D
+security_studies,baseline,55,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2
+security_studies,baseline,56,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+security_studies,baseline,57,3,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1 D
+security_studies,baseline,58,4,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+security_studies,baseline,59,4,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+security_studies,baseline,60,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,1 A
+security_studies,baseline,61,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+security_studies,baseline,62,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1 C
+security_studies,baseline,63,4,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,2 B
+security_studies,baseline,64,4,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+security_studies,baseline,65,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1 C
+security_studies,baseline,66,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1 C
+security_studies,baseline,67,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+security_studies,baseline,68,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+security_studies,baseline,69,4,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1 D
+security_studies,baseline,70,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+security_studies,baseline,71,4,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+security_studies,baseline,72,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+security_studies,baseline,73,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+security_studies,baseline,74,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+security_studies,baseline,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,1 D
+security_studies,baseline,76,4,20-30-40-10,20,30,40,10,2,False,30,True,30,C,C,2 C
+security_studies,baseline,77,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+security_studies,baseline,78,5,30-20-10-40,30,20,10,40,1,False,30,False,0,B,A,1 B
+security_studies,baseline,79,5,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+security_studies,baseline,80,5,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1 C
+security_studies,baseline,81,5,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,1 A
+security_studies,baseline,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1 C
+security_studies,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+security_studies,baseline,84,5,30-20-40-10,30,20,40,10,3,False,40,False,0,D,C,3 D
+security_studies,baseline,85,5,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+security_studies,baseline,86,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+security_studies,baseline,87,5,10-20-40-30,10,20,40,30,2,False,20,False,0,B,D,2 B
+security_studies,baseline,88,5,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+security_studies,baseline,89,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+security_studies,baseline,90,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+security_studies,baseline,91,5,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,1 D
+security_studies,baseline,92,5,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+security_studies,baseline,93,5,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,1 D
+security_studies,baseline,94,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,D,1
+security_studies,baseline,95,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,1 A
+security_studies,baseline,96,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1. A
+security_studies,model_A,1,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  The distance from policy responsibility but European security studies gained political relevance due to the politicization of security issues during the period defined by the peace movement.
+security_studies,model_A,2,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,A,"1D  The global market has demonstrated the ability, if left unchecked, to increase poverty and reduce economic gains."
+security_studies,model_A,3,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  Responses to terrorist attacks vary either explicitly or implicitly, if warfare is seen as warfare, crime, or disease."
+security_studies,model_A,4,1,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,"2  B  The end of the Cold War allowed security studies to move beyond the confines of the dominant realist and neorealist perspectives, with an emerging interest in other, non-military, conceptions of security. Those who wished to broaden the scope of security studies advocated the inclusion of reso"
+security_studies,model_A,5,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The environment has been 'securitized' in the sense that environmental security has been used to make them matters of 'high politics'. This has to some degree raised the profile of critical issues among policymakers and agencies so that the environment can be considered an issue of security. But
+security_studies,model_A,6,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D
+security_studies,model_A,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The Ideal Policy framework explains previous understandings of the necessary conditions for successful coercive diplomacy actions. The framework argues that to make non-compliance too costly, the coercer must threaten to defeat the adversary to deny him his objectives quickly and with little cos"
+security_studies,model_A,8,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D
+security_studies,model_A,9,1,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2D  3C  4D
+security_studies,model_A,10,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,"1D  The value of a post-structuralist critique in security studies lies in its ability to challenge traditional discourses, examine power dynamics, and question the active subjects determining security."
+security_studies,model_A,11,1,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1C  The 'energy security nexus' exists in the international system because the geographical distribution of energy supply and demand are not equal; thus states are drawn into complex and intertwined relationships with one another.
+security_studies,model_A,12,1,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2D  3D  4D
+security_studies,model_A,13,1,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1A  2D  3B  4D
+security_studies,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,"1B  The security dilemma arises out of the anarchic international system that is conceptualized by realists. Within this environment, states are obliged to seek security through their own military efforts; this is perceived as threatening to other states and so triggers anarmsrace spiral. The securi"
+security_studies,model_A,15,1,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1D  The environment is considered a security concern becauseItisbothanobjecttobesecuredandasourceofriskAlthoughItmaymeandifferentthingstodifferentpeopleWhileSteedeningTheConceptOfSecurityItHasBothCriticalAndPracticalDimensionsAlthoughTheUtilityOfTheConceptIsContested  2D  PervasiveviolenceIsNOTOneOf
+security_studies,model_A,16,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  The impact of environmental problems seems unlikely to diminish so that the relevance of environmental security for policy will likely increase, particularly multilateral action on common security concerns to achieve forms of social organization that are ecologically sustainable. In some sense,"
+security_studies,model_A,17,1,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1D  The use of military force to conduct ethnic-cleansing through displacement and killing is a legitimate threat to societal security.
+security_studies,model_A,18,1,20-30-40-10,20,30,40,10,2,False,30,False,0,C,D,"2  The inherent difficulties of coercive diplomacy include:  C) The success ultimately rests on perceptual, psychological, and emotional factors, giving rise to the risk that misperception or miscalculation will defeat even a well-executed strategy that otherwise meets all the requirements for succe"
+security_studies,model_A,19,1,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2D  3C  4D
+security_studies,model_A,20,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The primary way weapons purchased legally might end up on the illegal arms market is through Looting and theft, especially where corruption is endemic, states are weak, and weapons stockpiles are not properly secured."
+security_studies,model_A,21,2,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,"2  The concept of human security gained increasing currency in the mid-1990s, serving to highlight critical issues. In particular, the study of human society has focuses on the problem of intra-state violence, which has become the dominant issue for post-Cold War security studies."
+security_studies,model_A,22,2,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,"2B  The approach or perspective that dominates post-Cold War Security Studies is Peacekeeping, Peace-making, and Conflict Prevention."
+security_studies,model_A,23,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  The specific elements of a comprehensive national defence trade control system include Governments should include in their arms trade rules, laws, penalties for their violation, Governments should ensure that weapons producers mark their defence items with aunique marking,Government police and m"
+security_studies,model_A,24,2,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,"1C  According to motivational realism, state desire to increase wealth and prosperity might inspire the behavior of so-called 'greedy states'."
+security_studies,model_A,25,2,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1C
+security_studies,model_A,26,2,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1D  2D  3D  4D
+security_studies,model_A,27,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1D  When may an issue fail to become securitized? When the audience are convinced via the speech act or the securitizing actor but fail tograntthatactorthespecialrightsrequestedinordertoaddresstheProposedThreat.
+security_studies,model_A,28,2,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The existing mechanisms for monitoring and treating infectious disease within the international system are capable of effectively containing pandemic outbreaks.
+security_studies,model_A,29,2,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1C  2D  3D  4B
+security_studies,model_A,30,2,20-40-10-30,20,40,10,30,1,False,20,False,0,,B,2D  The function of sanctions is All of these options.
+security_studies,model_A,31,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D
+security_studies,model_A,32,2,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1A  The criticism that is not common to Securitization is (A)A loose and broad conceptualization of security can lead to vagueness and a lack of conceptual and analytical coherence. This is because Securitization theory is designed to provide a clear framework for analyzing security issues.
+security_studies,model_A,33,2,10-40-20-30,10,40,20,30,1,False,10,False,0,C,D,"1C  The relationship between Westphalian sovereignty and humanitarian intervention is best described by option C. State sovereignty and principles of non-interference that underpin the Westphalian approach can be disregarded, provided that there is a consensus amongst international actors that human"
+security_studies,model_A,34,2,30-10-20-40,30,10,20,40,1,False,30,False,0,C,B,"1C  According to motivational realism, State desire to increase wealth and prosperity might inspire the behaviour of so-called 'greedy states'."
+security_studies,model_A,35,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  Information playsa significant roleindecisionmakingbecauseAlthoughtheoryassertsthatactorsactintheirownbestinterestRationalActionDependsOnTheInformationAvailableToThemAtTheTime
+security_studies,model_A,36,2,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,"1A  The Copenhagen School's view of security is defined as a socially constructed concept, relative to the society inwhichitexists,andwhatwillconstituteanexistentialthreatisaccordinglysubjective."
+security_studies,model_A,37,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The environment can be considered a security concern because it has both critical and practical dimensions. It can be seen as an object to be secured and asourceofrisk. However,theutilityoftheconceptiscontested."
+security_studies,model_A,38,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The 'energy security nexus' exists in the international system because the geographical distribution of energy supply and demand are not equal; thus states are drawn into complex and intertwined relationships with one another.
+security_studies,model_A,39,3,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,"1C  Commercial Liberalism is probably the oldest faction of liberalism; advocating free trade as the free movement of goods and capital, it purports that the most rapid and efficient production of wealth occurs when governments do not restrict the economic activity of private actors and the free mar"
+security_studies,model_A,40,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The future prospects for energy security are likely to be challenged by the major increase in energy consumption predicted to come from developing states of theSouth. This will pose significant challenges to global energy security.
+security_studies,model_A,41,3,10-40-30-20,10,40,30,20,1,False,10,False,0,A,C,2B  Identity is not applicable to social constructivism because it is a naturally bestowed quality comprised of certain unalterable behavioural characteristics.
+security_studies,model_A,42,3,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1D  2D  3A  4C
+security_studies,model_A,43,3,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D  TheEast-WestdivideoftheColdWargaviseriseToasharpdividebetweenrealistsandEarlyPeaceStudiesTheoristsWhilstRealistsWishedToFocusResearchOnThatWhichWouldFavorTheSurvivalOfWesternLiberalDemocraciesAdvocatesOfPeaceStudiesRegardedThisApproachAsBeingNarrowAndWesternEthnocentric  2D  AllOf
+security_studies,model_A,44,3,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1C  Neoliberal based adjustment policies have caused great and unnecessary hardship in developing countries and thereis still no evidencethey achievedtheirobjectivesformacroeconomicstabilityandgrowth.
+security_studies,model_A,45,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2  The causes of terrorism include Democratization and nationalism inhibiting theopportunityforterrorism:NationalismprovidestheideologicaldynamictounifyEthnicdifferencesandDemocracyallowsforthearticulationofgrievancesinaconstructiveMannerWithinthisanalysisStatesWithWeakDemocraticandNationalistCreden
+security_studies,model_A,46,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1D  The referent object of security within Critical Security Studies is the People and TheirCollectives.
+security_studies,model_A,47,3,10-40-30-20,10,40,30,20,2,False,40,False,0,C,D,"2  The concept of human security gained increasing currency in the mid-1990s, serving to highlight critical issues. In particular, the study of human society has focuses on the problem of intra-state violence, which has become the dominant issue for post-Cold War security studies."
+security_studies,model_A,48,3,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1B  The end of the Cold War allowed security studies tomovebeyondtheconfinesoftheDominantrealistandNeorealistPerspectiveswithAnEmergingInterestInOtherNonMilitaryConceptionsOfSecurityThoseWhoWishedToBroadenTheScopeOfSecurityStudiesAdvocatedTheInclusionOfResourceEnvironmentAndOtherReferentPointsForAna
+security_studies,model_A,49,3,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  The international system is shaped through colonised discourse that establishes notions of certain states as inferior to others.
+security_studies,model_A,50,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,1A  The future of WMD is uncertain duetotheCWCandBCWprovidingacconcretebasisininternationallawtopreventtheproliferationofchemicalandbiologicalweaponsisdubious.TheProliferationSecurityInitiativetopreventtheillicittradeinmaterialsrrelatingtochemicalandnuclearweaponsisanequallypieceme
+security_studies,model_A,51,3,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,"1D  The concept of R2P rests on three pillars, which of these is widely acclaimed to be the most important? (A) The responsibility to retaliate. (B) The responsibility to prevent. (C) The responsibility to rebuild. (D) The responsibility to react.  The responsibility to prevent."
+security_studies,model_A,52,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The concept of Hegemonic Masculinity refers to the social dominance of men over women that results from the designation of 'masculine' characteristics as more valued than 'feminine' characteristics.
+security_studies,model_A,53,3,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  Commercial liberalism is probably the oldest faction of liberalism; advocating free trade as the free movement of goods and capital, it purports that the most rapid and efficient production of wealth occurs when governments do not restrict the economic activity of private actors and the free mar"
+security_studies,model_A,54,3,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,"1D  The external strategies employed by elites include expelling foreign workers and non-ethnic nationals, restricting borders to refugees and migrants, employing private military or security companies and foreign mercenaries as force multipliers, and engaging militarily to bolster their regional po"
+security_studies,model_A,55,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2  The differences emerged with regard to theorizing on both sides of the Atlantic are:  The European school is based on a hegemonic form of knowledge. Knowledge is conceived as the understanding of causal mechanisms in relation to the material on which they act.
+security_studies,model_A,56,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  The environment has been 'securitized' in the sense that environmental security has been used to make them matters of 'high politics'. This has to some degree raised the profile of critical issues among policymakers and agencies so that the environment can be considered an issue of security. But
+security_studies,model_A,57,3,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,1D  The terms 'transnational crime' and 'organized crime' are sometimes used interchangeably but not all transnational crime will be committed by anorganizedgroupnorwillallorganizedgroupsengageintransnationalcrime. Thepursuitofprofitforillicitactivityeludesdefinitionandmayincludethoseindividualsorbu
+security_studies,model_A,58,4,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1A  Gender shapes the conceptualization of nationhood and conflict by oftenmissingfromthetraditionalliteratureonwarandsecurityWomenfrequentlyservethepurposesofnationalisecauseswithNationalismoftenpresentedinhighlygenderedandfemaletermsWhereWomenaresymbolsOfStatehood  2D  ThecombinationofNuclearWeapo
+security_studies,model_A,59,4,10-30-40-20,10,30,40,20,2,False,30,False,0,,D,"2  The World Bank and International Monetary Fund, as international financial institutions (IFIs), have had a significant impact on the development of poorer countries.Financial policies advocated by theWorldBankandIMFwerereadilyadoptedbydevelopingcountriesthatsoughttobringtheireconomicdevelopmentin"
+security_studies,model_A,60,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,1A  The characteristics and manifestations of theUSA's strategy adoptedin pursuitofenergysecurityincludeThedeploymentoftroopsinthePersianGulfispartoftheUSA'sattempttosecureitsdominanceintheoil-richregion.
+security_studies,model_A,61,4,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The preoccupation with human rights affects the human rights-oriented school of liberalism because it focuses on persons subject to economic, sexual, gender, religious, and political persecution, discrimination, or deprivation."
+security_studies,model_A,62,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  The referent object of security within Critical Security Studies is not limited to the state and state apparatus alone. It encompasses a broader range of actors, including non-state actors such as illegal groups. ThereforeThe referent object of security within Critical SecurityStudiesisCThe refe"
+security_studies,model_A,63,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,D,"2  The progressive research programs produced theories that actually formed their own reality of abstractions, the world of, 'secure second strike capability', 'extended deterrence' and 'escalation dominance'."
+security_studies,model_A,64,4,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,"2  The environment can be considered a security concern becauseEnvironmental security entails a consideration ofthe security ofthe globalenvironment,aswellasitsnestedsub-systemsandsocialsystemsbeyondtheboundariesofthenationstate.Environmentalsecurityisacriticalsecurityprojectinthatitquestionswhoandw"
+security_studies,model_A,65,4,10-20-30-40,10,20,30,40,2,False,20,False,0,,C,"2  The economic objectives of IMF adjustment policies include devaluation to promote exports and reduce demand for imports by raising their prices, tighter monetary and credit policies with higher interest rates to reduce overall demand and thus demand for imports; to limit or reduce the rate of inf"
+security_studies,model_A,66,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1C  The concept of environmental security has been contested because it challenges traditional security thinking by demanding a shift from national security interests to the welfare of the entire social-ecological system of the planet. This approach argues that the primary threat to ecological integ
+security_studies,model_A,67,4,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1D  2B  3D  4C
+security_studies,model_A,68,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  The trend that did not emerge as a trend of the defence trade in the 20th century was C) A decrease in the arms trade. The arms trade increased significantly during the 20th century, driven by wars, political tensions, and technological advancements."
+security_studies,model_A,69,4,20-40-10-30,20,40,10,30,2,False,40,False,0,,B,"2  The security dilemma arises out of the anarchic international system that is conceptualized by realists. Within this environment, states are obliged to seek security through their own military efforts; this is perceived as threatening to other states and so triggers anarmsrace spiral. Thesecurity"
+security_studies,model_A,70,4,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1D
+security_studies,model_A,71,4,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  Global inequality creates disenfranchised populations who, although discontent with their situation, lack the agency to rebel or protest. Revolutionary uprisings are likely to occur; people of theworldwhohavebeenleftbehindbyneoliberalglobalisationcanbecomeradicalisedandrebelleagainstthosewhohave"
+security_studies,model_A,72,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  During the 20th century, security analysts were predisposed to focus on the potential threat of nuclear confrontation and military combat. Since the reduction in these threats, there has emerged a series of pandemic diseases, and a sense of growing unease at the future impact of moreseriousoutbr"
+security_studies,model_A,73,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The impact of environmental problems seems unlikely to diminish so that the relevance of environmental security for policy will likely increase, particularly multilateral action on common security concerns to achieve forms of social organization that are ecologically sustainable. In some sense,"
+security_studies,model_A,74,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,"1A  The Copenhagen School's view of security is defined as a socially constructed concept, relative to the society inwhichitexists,andwhatwillconstituteanexistentialthreatisaccordinglysubjective."
+security_studies,model_A,75,4,30-10-40-20,30,10,40,20,1,False,30,False,0,D,B,"1D  The purpose of theory is not explanation in terms of generalizable causal claims, but contextual understanding and practical knowledge."
+security_studies,model_A,76,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,2C  The environment has been 'securitized' in the sense that environmental security has been used to make them matters of 'high politics'. This has to some degree raised the profile of critical issues among policymakers and agencies so that the environment can be considered anissueofsecurity. Butwhi
+security_studies,model_A,77,5,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The period of academic institutionalization might be assessed as All of these options.  2D  The 1991 Gulf War saw the overwhelming technological superiority of one side lead to rapid defeat of its enemy.  3D  The causes of terrorism include Non-democratic state structures characterized by a stro
+security_studies,model_A,78,5,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,"1D  The referent object of security within Critical Security Studies is ""There is no specific referent point."""
+security_studies,model_A,79,5,30-40-20-10,30,40,20,10,1,False,30,False,0,,C,2B
+security_studies,model_A,80,5,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  The contemporary concern has been pacified by the fact that WMD threat has greatly diminished with the end of the Cold War. A number of deployed Soviet (Russian) and strategic warheads and US tactical nuclear weapons have been withdrawn from service thereby removing the threat of total war by ma
+security_studies,model_A,81,5,10-40-20-30,10,40,20,30,1,False,10,True,10,A,A,1A  Gender shapes the conceptualization of nationhood and conflict by often MissingFromTraditionalLiteratureOnWarAndSecurityWomenFrequentlyServeThePurposesOfNationaliseCausesWithNationalismOftenPresentedInHighlyGenderedAndFemaleTermsWhereWomenAreSymbolsOfStatehood  2A  SecurityIsASociallyConstructed
+security_studies,model_A,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"1C  Commercial Liberalism is probably the oldest faction of liberalism; advocating free trade as the free movement of goods and capital, it purports that the most rapid and efficient production of wealth occurs when governments do not restrict the economic activity of private actors and the free mar"
+security_studies,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The security dimensions of infectious disease may be considered within the national security framework duetothephysicalhealthofarmedforcesbeingaparamountconcernwithinthetraditionalsecurityparadigm,TheThreatOfDiseaseIsExacerbatedByThePhysicalAndSociologicalConditionsUnderWhichMilitaryPersonalOper"
+security_studies,model_A,84,5,30-20-40-10,30,20,40,10,3,False,40,False,0,A,C,3  Extraordinary measures can be defined as 'special' or 'extraordinary' measures taken as a response to a securitized existential threat.
+security_studies,model_A,85,5,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,"2C  Arms control does not challenge the central role of weaponry and military power in the international system, instead focusing on the problems produced by specific weapon systems and relationships."
+security_studies,model_A,86,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  The question offers the highest reward (10 points) and provides the best use of effort. The answer D covers all three options (A), (B), and (C) mentioned in the question."
+security_studies,model_A,87,5,10-20-40-30,10,20,40,30,2,False,20,False,0,,D,"2  The relationship between Westphalian sovereignty and humanitarian intervention is best described by option (C). State sovereignty and principles of non-interference that underpin the Westphalian approach can be disregarded, provided that there is a consensus amongst international actors that huma"
+security_studies,model_A,88,5,40-20-30-10,40,20,30,10,1,False,40,False,0,D,C,1D  The defence trade refers solely to the trade in weapons and small arms that takesplaceoutsidethelegalinteractionsbetweenstates.
+security_studies,model_A,89,5,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"1C  Liberalism is an optimistic approach, offering anorientationforthebetterconductofinternationalaffairsinthebeliefthatamorepeacefulworldispossible.Itisthedominantconceptioninthepracticeofinternationalpolitics."
+security_studies,model_A,90,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The World Bank and IMF have identified the economic failings of developing countries as being the result of political problems. Thus, IFIs adopted an approach that involved political and economic restructuring of these states, coercing governments into the adoption of specific financial policies"
+security_studies,model_A,91,5,40-10-30-20,40,10,30,20,1,False,40,False,0,D,C,"1D  The development of peace studies in the twentieth century included a major interest in conflict prevention, resolution, and peacekeeping. It sought a global and non-state-centric view of major issues. However, By the 1970s, prominent peace researchers were calling for a broadening in the remit o"
+security_studies,model_A,92,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,"2B  The security dilemma arises out of the anarchic international system that is conceptualized by realists. Within this environment, states are obliged to seek security through their own military efforts; this is perceived as threatening to other states and so triggers anarmsrace spiral. Thesecurit"
+security_studies,model_A,93,5,10-40-20-30,10,40,20,30,1,False,10,False,0,D,A,"1D  The global market has demonstrated the ability, if left unchecked, to reduce poverty and make substantial economic gains. This is not necessarily a beneficial outcome of globalization."
+security_studies,model_A,94,5,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1A  The statement that best describes the relationship between realist international relations theorists and peace researchers in the early 1960s is (A) Both peace researchers and realists advocated an academic focus on the escalation of the arms race. Although tensions existed between the groups in
+security_studies,model_A,95,5,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2D  3A  4D
+security_studies,model_A,96,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2A  3C  4D

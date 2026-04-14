@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+world_religions,baseline,1,19,68.421,40.0,0.0,0.0,0.0,0.0,1.0
+world_religions,baseline,2,19,68.421,40.0,0.0,0.0,0.0,0.0,1.0
+world_religions,baseline,3,19,73.684,40.0,0.0,0.0,0.0,0.0,1.0
+world_religions,baseline,4,19,52.632,40.0,0.0,0.0,0.0,0.0,1.0
+world_religions,baseline,5,20,50.0,39.0,0.0,0.0,0.0,0.1,0.9
+world_religions,model_A,1,19,57.895,24.211,0.0,0.3158,0.2105,0.2105,0.2632
+world_religions,model_A,2,19,63.158,25.263,0.0,0.2632,0.2105,0.2632,0.2632
+world_religions,model_A,3,19,36.842,22.632,0.0,0.4211,0.1579,0.1579,0.2632
+world_religions,model_A,4,19,47.368,22.105,0.0,0.3684,0.2632,0.1579,0.2105
+world_religions,model_A,5,20,35.0,20.0,0.0,0.35,0.35,0.25,0.05

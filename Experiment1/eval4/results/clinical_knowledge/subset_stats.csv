@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+clinical_knowledge,baseline,1,19,47.368,26.842,0.0,0.3158,0.1579,0.0526,0.4737
+clinical_knowledge,baseline,2,19,57.895,32.105,0.0,0.0526,0.1579,0.3158,0.4737
+clinical_knowledge,baseline,3,19,47.368,25.263,0.0,0.3158,0.1053,0.3158,0.2632
+clinical_knowledge,baseline,4,19,73.684,31.053,0.0,0.0,0.3684,0.1579,0.4737
+clinical_knowledge,baseline,5,20,55.0,31.0,0.0,0.1,0.15,0.3,0.45
+clinical_knowledge,model_A,1,18,33.333,21.111,5.263,0.4444,0.2222,0.1111,0.2222
+clinical_knowledge,model_A,2,18,61.111,28.333,5.263,0.1111,0.2778,0.2778,0.3333
+clinical_knowledge,model_A,3,18,44.444,24.444,5.263,0.3333,0.1111,0.3333,0.2222
+clinical_knowledge,model_A,4,18,50.0,29.444,5.263,0.0556,0.3333,0.2222,0.3889
+clinical_knowledge,model_A,5,19,42.105,28.421,5.0,0.2105,0.1579,0.2105,0.4211

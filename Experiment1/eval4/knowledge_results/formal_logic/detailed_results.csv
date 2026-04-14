@@ -1,0 +1,193 @@
+subject,tier,run_id,ID,Subset,Round,Difficulty_Tier,n_parsed,n_correct,acc_row,pred_1,pred_2,pred_3,pred_4,gt_1,gt_2,gt_3,gt_4,correct_1,correct_2,correct_3,correct_4,raw_response
+formal_logic,baseline,1,1,1,6,hard,4,1,0.25,D,B,A,C,A,C,A,B,0,0,1,0,1 D 2 B 3 A 4 C
+formal_logic,baseline,1,2,1,6,hard,4,1,0.25,A,D,A,B,D,D,C,D,0,1,0,0,1 A 2 D 3 A 4 B
+formal_logic,baseline,1,3,1,6,hard,4,1,0.25,D,D,A,B,D,B,C,A,1,0,0,0,1 D 2 D 3 A 4 B
+formal_logic,baseline,1,4,1,6,hard,4,0,0.0,B,A,B,A,D,D,D,D,0,0,0,0,1 B 2 A 3 B 4 A
+formal_logic,baseline,1,5,1,6,hard,4,0,0.0,D,C,B,C,A,D,C,D,0,0,0,0,1 D 2 C 3 B 4 C
+formal_logic,baseline,1,6,1,6,hard,4,3,0.75,D,D,A,D,D,D,A,A,1,1,1,0,1 D 2 D 3 A 4 D
+formal_logic,baseline,1,7,1,6,hard,4,1,0.25,D,C,A,B,D,D,B,A,1,0,0,0,1 D 2 C 3 A 4 B
+formal_logic,baseline,1,8,1,6,hard,4,2,0.5,B,A,B,C,A,A,A,C,0,1,0,1,1 B 2 A 3 B 4 C
+formal_logic,baseline,1,9,1,6,hard,0,0,0.0,,,,,D,B,D,A,0,0,0,0,1 [B] 2 [B] 3 [B] 4 [B]
+formal_logic,baseline,1,10,1,6,hard,4,3,0.75,D,A,B,B,D,A,D,B,1,1,0,1,1 D 2 A 3 B 4 B
+formal_logic,baseline,1,11,1,6,hard,0,0,0.0,,,,,B,A,B,B,0,0,0,0,1 [B] 2 [D] 3 [B] 4 [A]
+formal_logic,baseline,1,12,1,6,hard,1,1,0.25,C,,,,C,D,B,B,1,0,0,0,1 C ⊃ (D ∨ C) and C · ~D (A) Logically equivalent 2 (A ∨ B) ⊃ C C ⊃ ~D / D ⊃ A (A) Valid 3 (~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (
+formal_logic,baseline,1,13,1,6,hard,0,0,0.0,,,,,D,D,B,D,0,0,0,0,1 [D] 2 [C] 3 [A] 4 [D]
+formal_logic,baseline,1,14,1,6,hard,4,2,0.5,D,B,D,B,D,C,D,D,1,0,1,0,1 D 2 B 3 D 4 B
+formal_logic,baseline,1,15,1,6,hard,0,0,0.0,,,,,A,A,D,B,0,0,0,0,1 [C] 2 [A] 3 [D] 4 [B]
+formal_logic,baseline,1,16,1,6,hard,4,3,0.75,D,A,A,B,C,A,A,B,0,1,1,1,1 D 2 A 3 A 4 B
+formal_logic,baseline,1,17,1,6,hard,0,0,0.0,,,,,A,C,B,D,0,0,0,0,1 [B] 2 [A] 3 [A] 4 [B]
+formal_logic,baseline,1,18,1,6,hard,4,2,0.5,D,D,A,A,A,D,A,D,0,1,1,0,1 D 2 D 3 A 4 A
+formal_logic,baseline,1,19,1,6,hard,0,0,0.0,,,,,B,D,B,A,0,0,0,0,1 [B] 2 [B] 3 [B] 4 [A]
+formal_logic,baseline,1,20,2,6,hard,4,3,0.75,D,D,B,A,A,D,B,A,0,1,1,1,1 D 2 D 3 B 4 A
+formal_logic,baseline,1,21,2,6,hard,4,0,0.0,C,B,A,C,A,A,C,A,0,0,0,0,1 C 2 B 3 A 4 C
+formal_logic,baseline,1,22,2,6,hard,4,3,0.75,D,B,D,B,D,B,D,A,1,1,1,0,1 D 2 B 3 D 4 B
+formal_logic,baseline,1,23,2,6,hard,0,0,0.0,,,,,B,A,C,D,0,0,0,0,1 [B] 2 [A] 3 [B] 4 [A]
+formal_logic,baseline,1,24,2,6,hard,4,1,0.25,D,B,A,D,A,D,C,D,0,0,0,1,1 D 2 B 3 A 4 D
+formal_logic,baseline,1,25,2,6,hard,4,2,0.5,D,A,B,B,D,D,B,A,1,0,1,0,1 D 2 A 3 B 4 B
+formal_logic,baseline,1,26,2,6,hard,4,1,0.25,B,D,A,B,A,D,D,A,0,1,0,0,1 B 2 D 3 A 4 B
+formal_logic,baseline,1,27,2,6,hard,4,3,0.75,C,A,D,A,A,A,D,A,0,1,1,1,1 C 2 A 3 D 4 A
+formal_logic,baseline,1,28,2,6,hard,4,2,0.5,D,C,A,C,D,D,A,A,1,0,1,0,1 D 2 C 3 A 4 C
+formal_logic,baseline,1,29,2,6,hard,4,2,0.5,A,D,A,C,A,B,A,D,1,0,1,0,1 A 2 D 3 A 4 C
+formal_logic,baseline,1,30,2,6,hard,4,1,0.25,A,D,A,B,B,D,B,D,0,1,0,0,1 A 2 D 3 A 4 B
+formal_logic,baseline,1,31,2,6,hard,0,0,0.0,,,,,D,C,A,A,0,0,0,0,1 [D] 2 [A] 3 [A] 4 [B]
+formal_logic,baseline,1,32,2,6,hard,4,3,0.75,D,D,B,A,D,D,C,A,1,1,0,1,1 D 2 D 3 B 4 A
+formal_logic,baseline,1,33,2,6,hard,4,1,0.25,D,A,B,B,D,D,D,D,1,0,0,0,1 D 2 A 3 B 4 B
+formal_logic,baseline,1,34,2,6,hard,4,4,1.0,D,A,D,C,D,A,D,C,1,1,1,1,1 D 2 A 3 D 4 C
+formal_logic,baseline,1,35,2,6,hard,0,0,0.0,,,,,B,B,A,D,0,0,0,0,1 [B] 2 [B] 3 [D] 4 [C]
+formal_logic,baseline,1,36,2,6,hard,4,2,0.5,D,A,D,C,A,A,D,A,0,1,1,0,1 D 2 A 3 D 4 C
+formal_logic,baseline,1,37,2,6,hard,4,2,0.5,D,B,B,B,B,B,D,B,0,1,0,1,1 D 2 B 3 B 4 B
+formal_logic,baseline,1,38,2,6,hard,4,1,0.25,D,C,A,B,D,B,D,A,1,0,0,0,1 D 2 C 3 A 4 B
+formal_logic,baseline,1,39,3,6,hard,4,3,0.75,B,B,B,A,B,B,D,A,1,1,0,1,1 B 2 B 3 B 4 A
+formal_logic,baseline,1,40,3,6,hard,4,2,0.5,C,B,B,A,B,C,B,A,0,0,1,1,1 C 2 B 3 B 4 A
+formal_logic,baseline,1,41,3,6,hard,4,1,0.25,D,A,C,D,A,D,C,A,0,0,1,0,1 D 2 A 3 C 4 D
+formal_logic,baseline,1,42,3,6,hard,4,0,0.0,C,B,B,A,A,A,C,B,0,0,0,0,1 C 2 B 3 B 4 A
+formal_logic,baseline,1,43,3,6,hard,4,1,0.25,B,B,B,B,B,D,D,A,1,0,0,0,1 B 2 B 3 B 4 B
+formal_logic,baseline,1,44,3,6,hard,4,2,0.5,D,D,A,C,C,D,D,C,0,1,0,1,1 D 2 D 3 A 4 C
+formal_logic,baseline,1,45,3,6,hard,4,0,0.0,D,B,C,B,A,A,B,D,0,0,0,0,1 D 2 B 3 C 4 B
+formal_logic,baseline,1,46,3,6,hard,4,0,0.0,D,B,D,B,A,D,B,C,0,0,0,0,1 D 2 B 3 D 4 B
+formal_logic,baseline,1,47,3,6,hard,0,0,0.0,,,,,A,C,D,C,0,0,0,0,1 [A] 2 [B] 3 [C] 4 [C]
+formal_logic,baseline,1,48,3,6,hard,4,1,0.25,D,D,C,A,A,D,D,D,0,1,0,0,1 D 2 D 3 C 4 A
+formal_logic,baseline,1,49,3,6,hard,4,4,1.0,D,D,B,D,D,D,B,D,1,1,1,1,1 D 2 D 3 B 4 D
+formal_logic,baseline,1,50,3,6,hard,4,4,1.0,D,C,B,B,D,C,B,B,1,1,1,1,1 D 2 C 3 B 4 B
+formal_logic,baseline,1,51,3,6,hard,4,2,0.5,B,D,B,B,C,D,B,D,0,1,1,0,1 B 2 D 3 B 4 B
+formal_logic,baseline,1,52,3,6,hard,0,0,0.0,,,,,C,A,D,A,0,0,0,0,1 [A] 2 [D] 3 [A/B] 4 [C]
+formal_logic,baseline,1,53,3,6,hard,4,2,0.5,A,C,D,D,B,A,D,D,0,0,1,1,1 A 2 C 3 D 4 D
+formal_logic,baseline,1,54,3,6,hard,0,0,0.0,,,,,D,A,D,D,0,0,0,0,1 [B] 2 [A] 3 [D] 4 [A]
+formal_logic,baseline,1,55,3,6,hard,4,1,0.25,C,B,C,A,B,A,A,A,0,0,0,1,1 C 2 B 3 C 4 A
+formal_logic,baseline,1,56,3,6,hard,4,2,0.5,A,B,A,C,A,B,B,A,1,1,0,0,1 A 2 B 3 A 4 C
+formal_logic,baseline,1,57,3,6,hard,4,2,0.5,D,B,C,D,D,A,A,D,1,0,0,1,1 D 2 B 3 C 4 D
+formal_logic,baseline,1,58,4,6,hard,0,0,0.0,,,,,D,A,A,A,0,0,0,0,1 [A] 2 [A] 3 [A] 4 [A]
+formal_logic,baseline,1,59,4,6,hard,4,1,0.25,D,B,D,C,B,C,A,C,0,0,0,1,1 D 2 B 3 D 4 C
+formal_logic,baseline,1,60,4,6,hard,4,0,0.0,D,B,C,C,C,D,A,D,0,0,0,0,1 D 2 B 3 C 4 C
+formal_logic,baseline,1,61,4,6,hard,0,0,0.0,,,,,B,D,B,D,0,0,0,0,1 [B] 2 [D] 3 [A] 4 [A]
+formal_logic,baseline,1,62,4,6,hard,4,2,0.5,D,B,B,C,D,D,B,A,1,0,1,0,1 D 2 B 3 B 4 C
+formal_logic,baseline,1,63,4,6,hard,4,3,0.75,D,B,D,A,A,B,D,A,0,1,1,1,1 D 2 B 3 D 4 A
+formal_logic,baseline,1,64,4,6,hard,4,2,0.5,D,D,C,B,D,D,D,D,1,1,0,0,1 D 2 D 3 C 4 B
+formal_logic,baseline,1,65,4,6,hard,4,1,0.25,C,B,A,B,D,B,C,A,0,1,0,0,1 C 2 B 3 A 4 B
+formal_logic,baseline,1,66,4,6,hard,4,3,0.75,D,D,D,A,D,A,D,A,1,0,1,1,1 D 2 D 3 D 4 A
+formal_logic,baseline,1,67,4,6,hard,4,1,0.25,D,D,D,B,C,B,D,A,0,0,1,0,1 D 2 D 3 D 4 B
+formal_logic,baseline,1,68,4,6,hard,0,0,0.0,,,,,C,B,D,A,0,0,0,0,1 [B] 2 [B] 3 [A] 4 [B]
+formal_logic,baseline,1,69,4,6,hard,4,3,0.75,D,D,B,C,A,D,B,C,0,1,1,1,1 D 2 D 3 B 4 C
+formal_logic,baseline,1,70,4,6,hard,4,0,0.0,D,A,B,C,C,D,D,B,0,0,0,0,1 D 2 A 3 B 4 C
+formal_logic,baseline,1,71,4,6,hard,4,2,0.5,D,D,B,D,C,A,B,D,0,0,1,1,1 D 2 D 3 B 4 D
+formal_logic,baseline,1,72,4,6,hard,4,2,0.5,A,A,A,D,B,A,D,D,0,1,0,1,1 A 2 A 3 A 4 D
+formal_logic,baseline,1,73,4,6,hard,0,0,0.0,,,,,B,B,D,B,0,0,0,0,1 [A/B/C/D] C 2 [A/B/C/D] B 3 [A/B/C/D] D 4 [A/B/C/D] B
+formal_logic,baseline,1,74,4,6,hard,0,0,0.0,,,,,D,D,C,D,0,0,0,0,1 [A] 2 [B] 3 [C] 4 [D]
+formal_logic,baseline,1,75,4,6,hard,4,2,0.5,B,A,C,A,A,A,D,A,0,1,0,1,1 B 2 A 3 C 4 A
+formal_logic,baseline,1,76,4,6,hard,4,4,1.0,D,D,A,B,D,D,A,B,1,1,1,1,1 D 2 D 3 A 4 B
+formal_logic,baseline,1,77,5,6,hard,4,1,0.25,B,A,C,D,D,B,A,D,0,0,0,1,1 B 2 A 3 C 4 D
+formal_logic,baseline,1,78,5,6,hard,4,2,0.5,D,B,B,A,D,D,C,A,1,0,0,1,1 D 2 B 3 B 4 A
+formal_logic,baseline,1,79,5,6,hard,4,2,0.5,D,B,C,A,C,B,B,A,0,1,0,1,1 D 2 B 3 C 4 A
+formal_logic,baseline,1,80,5,6,hard,4,2,0.5,A,B,B,D,B,A,B,D,0,0,1,1,1 A 2 B 3 B 4 D
+formal_logic,baseline,1,81,5,6,hard,0,0,0.0,,,,,A,D,C,B,0,0,0,0,1 [B] 2 [C] 3 [C] 4 [C]
+formal_logic,baseline,1,82,5,6,hard,4,1,0.25,C,B,A,A,A,D,D,A,0,0,0,1,1 C 2 B 3 A 4 A
+formal_logic,baseline,1,83,5,6,hard,0,0,0.0,,,,,A,A,D,D,0,0,0,0,1 [C] 2 [A] 3 [D] 4 [B]
+formal_logic,baseline,1,84,5,6,hard,4,1,0.25,D,A,B,C,A,D,A,C,0,0,0,1,1 D 2 A 3 B 4 C
+formal_logic,baseline,1,85,5,6,hard,4,1,0.25,D,C,B,B,A,A,B,D,0,0,1,0,1 D 2 C 3 B 4 B
+formal_logic,baseline,1,86,5,6,hard,0,0,0.0,,,,,B,D,C,B,0,0,0,0,1 [B] 2 [B] 3 [A] 4 [D]
+formal_logic,baseline,1,87,5,6,hard,4,2,0.5,B,A,C,B,B,B,A,B,1,0,0,1,1 B 2 A 3 C 4 B
+formal_logic,baseline,1,88,5,6,hard,4,3,0.75,D,B,D,D,D,A,D,D,1,0,1,1,1 D 2 B 3 D 4 D
+formal_logic,baseline,1,89,5,6,hard,0,0,0.0,,,,,C,C,A,D,0,0,0,0,1 [A] 2 [B] 3 [C] 4 [D]
+formal_logic,baseline,1,90,5,6,hard,4,2,0.5,D,A,A,C,A,A,A,D,0,1,1,0,1 D 2 A 3 A 4 C
+formal_logic,baseline,1,91,5,6,hard,1,1,0.25,C,,,,C,A,D,B,1,0,0,0,"1 C ⊃ (D ∨ C) and C · ~D (C) Neither logically equivalent nor contradictory, but consistent 2 M ∨ N ~M · O / N (B) Invalid. Counterexample when M and O are true and N is false 3 Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y)"
+formal_logic,baseline,1,92,5,6,hard,0,0,0.0,,,,,A,A,D,D,0,0,0,0,1 [A] 2 [A] 3 [D] 4 [A]
+formal_logic,baseline,1,93,5,6,hard,4,3,0.75,D,D,B,D,D,D,D,D,1,1,0,1,1 D 2 D 3 B 4 D
+formal_logic,baseline,1,94,5,6,hard,4,1,0.25,B,D,B,C,A,D,A,B,0,1,0,0,1 B 2 D 3 B 4 C
+formal_logic,baseline,1,95,5,6,hard,4,2,0.5,D,B,D,D,B,C,D,D,0,0,1,1,1 D 2 B 3 D 4 D
+formal_logic,baseline,1,96,5,6,hard,0,0,0.0,,,,,C,A,B,D,0,0,0,0,1 [B] 2 [A] 3 [B] 4 [C]
+formal_logic,model_A,1,1,1,6,hard,4,1,0.25,D,B,A,A,A,C,A,B,0,0,1,0,1 D 2 B 3 A 4 A
+formal_logic,model_A,1,2,1,6,hard,4,1,0.25,A,D,A,A,D,D,C,D,0,1,0,0,1 A 2 D 3 A 4 A
+formal_logic,model_A,1,3,1,6,hard,4,1,0.25,D,D,A,B,D,B,C,A,1,0,0,0,1 D 2 D 3 A 4 B
+formal_logic,model_A,1,4,1,6,hard,0,0,0.0,,,,,D,D,D,D,0,0,0,0,1 [B] 2 [A] 3 [D] 4 [A]
+formal_logic,model_A,1,5,1,6,hard,4,1,0.25,A,C,B,C,A,D,C,D,1,0,0,0,1 A 2 C 3 B 4 C
+formal_logic,model_A,1,6,1,6,hard,0,0,0.0,,,,,D,D,A,A,0,0,0,0,1 [A] 2 [D] 3 [A] 4 [A]
+formal_logic,model_A,1,7,1,6,hard,4,1,0.25,D,C,A,C,D,D,B,A,1,0,0,0,1 D 2 C 3 A 4 C
+formal_logic,model_A,1,8,1,6,hard,0,0,0.0,,,,,A,A,A,C,0,0,0,0,1 [B] 2 [A] 3 [B] 4 [C]
+formal_logic,model_A,1,9,1,6,hard,0,0,0.0,,,,,D,B,D,A,0,0,0,0,1 [B] 2 [B] 3 [B] 4 [A]
+formal_logic,model_A,1,10,1,6,hard,0,0,0.0,,,,,D,A,D,B,0,0,0,0,1 [D] 2 [A] 3 [B] 4 [B]
+formal_logic,model_A,1,11,1,6,hard,0,0,0.0,,,,,B,A,B,B,0,0,0,0,1 [A] 2 [D] 3 [B] 4 [A]
+formal_logic,model_A,1,12,1,6,hard,1,1,0.25,C,,,,C,D,B,B,1,0,0,0,1 C ⊃ (D ∨ C) ∧ C · ~D 2 [A] Valid 3 (~M ⊃ ~N) ∨ (O ≡ N) ∧ (~M · N) · [(~O ∨ ~N) · (O ∨ N)] 4 [A] Valid
+formal_logic,model_A,1,13,1,6,hard,0,0,0.0,,,,,D,D,B,D,0,0,0,0,1 [A] 2 [C] 3 [A] 4 [D]
+formal_logic,model_A,1,14,1,6,hard,0,0,0.0,,,,,D,C,D,D,0,0,0,0,1 [C] 2 [B] 3 [D] 4 [B]
+formal_logic,model_A,1,15,1,6,hard,0,0,0.0,,,,,A,A,D,B,0,0,0,0,1 [C] 2 [A] 3 [D] 4 [B]
+formal_logic,model_A,1,16,1,6,hard,0,0,0.0,,,,,C,A,A,B,0,0,0,0,1 [C] 2 [A] 3 [A] 4 [B]
+formal_logic,model_A,1,17,1,6,hard,0,0,0.0,,,,,A,C,B,D,0,0,0,0,1 [A] Valid 2 [A] ~Mmsi 3 [A] A 4 [A] Valid
+formal_logic,model_A,1,18,1,6,hard,0,0,0.0,,,,,A,D,A,D,0,0,0,0,1 [A] 2 [D] 3 [A] 4 [C]
+formal_logic,model_A,1,19,1,6,hard,0,0,0.0,,,,,B,D,B,A,0,0,0,0,1 [B] 2 [B] 3 [B] 4 [A]
+formal_logic,model_A,1,20,2,6,hard,4,3,0.75,D,D,B,A,A,D,B,A,0,1,1,1,1 D 2 D 3 B 4 A
+formal_logic,model_A,1,21,2,6,hard,4,1,0.25,C,A,A,C,A,A,C,A,0,1,0,0,1 C 2 A 3 A 4 C
+formal_logic,model_A,1,22,2,6,hard,4,3,0.75,D,B,D,B,D,B,D,A,1,1,1,0,1 D 2 B 3 D 4 B
+formal_logic,model_A,1,23,2,6,hard,0,0,0.0,,,,,B,A,C,D,0,0,0,0,1 [B] 2 [A] 3 [A] 4 [A]
+formal_logic,model_A,1,24,2,6,hard,4,2,0.5,D,A,C,D,A,D,C,D,0,0,1,1,1 D 2 A 3 C 4 D
+formal_logic,model_A,1,25,2,6,hard,0,0,0.0,,,,,D,D,B,A,0,0,0,0,1 [D] 2 [A] 3 [B] 4 [C]
+formal_logic,model_A,1,26,2,6,hard,0,0,0.0,,,,,A,D,D,A,0,0,0,0,"1 [A] Valid 2 [C] Invalid. Counterexample When H is true and R is false 3 [A] Invalid. Counterexample When E is true, F is false, C is true, S is false 4 [B] Invalid. Counterexample When I, H, K, J are true"
+formal_logic,model_A,1,27,2,6,hard,4,3,0.75,C,A,D,A,A,A,D,A,0,1,1,1,1 C 2 A 3 D 4 A
+formal_logic,model_A,1,28,2,6,hard,0,0,0.0,,,,,D,D,A,A,0,0,0,0,1 [D] 2 [A] 3 [A] 4 [C]
+formal_logic,model_A,1,29,2,6,hard,4,2,0.5,A,D,A,C,A,B,A,D,1,0,1,0,1A 2D 3A 4C
+formal_logic,model_A,1,30,2,6,hard,4,1,0.25,A,D,A,B,B,D,B,D,0,1,0,0,1 A 2 D 3 A 4 B
+formal_logic,model_A,1,31,2,6,hard,0,0,0.0,,,,,D,C,A,A,0,0,0,0,1 [A] 2 [A] 3 [A] 4 [B]
+formal_logic,model_A,1,32,2,6,hard,4,3,0.75,D,D,B,A,D,D,C,A,1,1,0,1,1 D 2 D 3 B 4 A
+formal_logic,model_A,1,33,2,6,hard,4,2,0.5,D,A,B,D,D,D,D,D,1,0,0,1,1 D 2 A 3 B 4 D
+formal_logic,model_A,1,34,2,6,hard,4,4,1.0,D,A,D,C,D,A,D,C,1,1,1,1,1 D 2 A 3 D 4 C
+formal_logic,model_A,1,35,2,6,hard,0,0,0.0,,,,,B,B,A,D,0,0,0,0,1 [B] 2 [B] 3 [D] 4 [C]
+formal_logic,model_A,1,36,2,6,hard,0,0,0.0,,,,,A,A,D,A,0,0,0,0,1 [A/B/C/D] A 2 [A/B/C/D] D 3 [A/B/C/D] A 4 [A/B/C/D] C
+formal_logic,model_A,1,37,2,6,hard,4,2,0.5,A,B,A,B,B,B,D,B,0,1,0,1,1 A 2 B 3 A 4 B
+formal_logic,model_A,1,38,2,6,hard,0,0,0.0,,,,,D,B,D,A,0,0,0,0,1 [B] 2 [C] 3 [A] 4 [B]
+formal_logic,model_A,1,39,3,6,hard,4,3,0.75,B,B,A,A,B,B,D,A,1,1,0,1,1 B 2 B 3 A 4 A
+formal_logic,model_A,1,40,3,6,hard,0,0,0.0,,,,,B,C,B,A,0,0,0,0,1 [A] 2 [B] 3 [B] 4 [A]
+formal_logic,model_A,1,41,3,6,hard,4,1,0.25,D,A,C,D,A,D,C,A,0,0,1,0,1 D 2 A 3 C 4 D
+formal_logic,model_A,1,42,3,6,hard,0,0,0.0,,,,,A,A,C,B,0,0,0,0,1 [C] 2 [B] 3 [B] 4 [A]
+formal_logic,model_A,1,43,3,6,hard,4,2,0.5,B,D,B,B,B,D,D,A,1,1,0,0,1 B 2 D 3 B 4 B
+formal_logic,model_A,1,44,3,6,hard,0,0,0.0,,,,,C,D,D,C,0,0,0,0,1 [C] 2 [D] 3 [D] 4 [C]
+formal_logic,model_A,1,45,3,6,hard,4,0,0.0,D,D,D,A,A,A,B,D,0,0,0,0,1 D 2 D 3 D 4 A
+formal_logic,model_A,1,46,3,6,hard,0,0,0.0,,,,,A,D,B,C,0,0,0,0,1 [A] 2 [A] 3 [B] 4 [B]
+formal_logic,model_A,1,47,3,6,hard,0,0,0.0,,,,,A,C,D,C,0,0,0,0,1 [A] 2 [B] 3 [C] 4 [C]
+formal_logic,model_A,1,48,3,6,hard,0,0,0.0,,,,,A,D,D,D,0,0,0,0,"1 [A] Valid 2 [D] L ∨ ~L 3 [C] Neither logically equivalent nor contradictory, but consistent 4 [A] Iwjk"
+formal_logic,model_A,1,49,3,6,hard,4,3,0.75,D,D,A,D,D,D,B,D,1,1,0,1,1 D 2 D 3 A 4 D
+formal_logic,model_A,1,50,3,6,hard,0,0,0.0,,,,,D,C,B,B,0,0,0,0,"1 [A] Valid 2 [C] C ∨ D 3 [B] Sc ≡ Ej 4 [B] Consistent. Consistent valuation when U, W, and X are true and T is false"
+formal_logic,model_A,1,51,3,6,hard,0,0,0.0,,,,,C,D,B,D,0,0,0,0,1 [A] Valid 2 [D] Our thoughts donotdeterminetheMeaningsofOurTerms;MeaningsAreNotInTheHead 3 [B] (∀x)(Ax ⊃ ~Px) 4 [B] Bl ≡ Sk
+formal_logic,model_A,1,52,3,6,hard,0,0,0.0,,,,,C,A,D,A,0,0,0,0,1 [A] 2 [D] 3 [A] 4 [C]
+formal_logic,model_A,1,53,3,6,hard,4,3,0.75,A,A,D,D,B,A,D,D,0,1,1,1,1 A 2 A 3 D 4 D
+formal_logic,model_A,1,54,3,6,hard,0,0,0.0,,,,,D,A,D,D,0,0,0,0,1 [B] 2 [A] 3 [D] 4 [A]
+formal_logic,model_A,1,55,3,6,hard,0,0,0.0,,,,,B,A,A,A,0,0,0,0,1 [C] 2 [B] 3 [D] 4 [A]
+formal_logic,model_A,1,56,3,6,hard,4,1,0.25,A,D,A,C,A,B,B,A,1,0,0,0,1 A 2 D 3 A 4 C
+formal_logic,model_A,1,57,3,6,hard,4,3,0.75,D,A,C,D,D,A,A,D,1,1,0,1,1 D 2 A 3 C 4 D
+formal_logic,model_A,1,58,4,6,hard,0,0,0.0,,,,,D,A,A,A,0,0,0,0,1 [A] 2 [A] 3 [A] 4 [A]
+formal_logic,model_A,1,59,4,6,hard,4,2,0.5,D,B,A,C,B,C,A,C,0,0,1,1,1 D 2 B 3 A 4 C
+formal_logic,model_A,1,60,4,6,hard,0,0,0.0,,,,,C,D,A,D,0,0,0,0,1 [C] 2 [B] 3 [C] 4 [C]
+formal_logic,model_A,1,61,4,6,hard,0,0,0.0,,,,,B,D,B,D,0,0,0,0,1 [B] 2 [D] 3 [A] 4 [A]
+formal_logic,model_A,1,62,4,6,hard,0,0,0.0,,,,,D,D,B,A,0,0,0,0,"1 (B) Invalid. Counterexample when X, Y, and Z are true 2 (A) Valid 3 (B) The Bees don't win their first game. 4 (C) (E ⊃ F) ∨ (C ⊃ S)"
+formal_logic,model_A,1,63,4,6,hard,0,0,0.0,,,,,A,B,D,A,0,0,0,0,1 [B] 2 [B] 3 [B] 4 [A]
+formal_logic,model_A,1,64,4,6,hard,4,2,0.5,D,D,C,B,D,D,D,D,1,1,0,0,1 D 2 D 3 C 4 B
+formal_logic,model_A,1,65,4,6,hard,4,0,0.0,C,A,A,B,D,B,C,A,0,0,0,0,1 C 2 A 3 A 4 B
+formal_logic,model_A,1,66,4,6,hard,0,0,0.0,,,,,D,A,D,A,0,0,0,0,1 [A/B/C/D] C 2 [A/B/C/D] A 3 [A/B/C/D] D 4 [A/B/C/D] A
+formal_logic,model_A,1,67,4,6,hard,0,0,0.0,,,,,C,B,D,A,0,0,0,0,1 [B] 2 [D] 3 [D] 4 [A]
+formal_logic,model_A,1,68,4,6,hard,0,0,0.0,,,,,C,B,D,A,0,0,0,0,1 [B] 2 [B] 3 [A] 4 [B]
+formal_logic,model_A,1,69,4,6,hard,0,0,0.0,,,,,A,D,B,C,0,0,0,0,1 [A] 2 [D] 3 [B] 4 [C]
+formal_logic,model_A,1,70,4,6,hard,4,1,0.25,C,A,A,A,C,D,D,B,1,0,0,0,1 C 2 A 3 A 4 A
+formal_logic,model_A,1,71,4,6,hard,4,2,0.5,D,A,D,D,C,A,B,D,0,1,0,1,1 D 2 A 3 D 4 D
+formal_logic,model_A,1,72,4,6,hard,4,2,0.5,A,A,A,D,B,A,D,D,0,1,0,1,1 A 2 A 3 A 4 D
+formal_logic,model_A,1,73,4,6,hard,0,0,0.0,,,,,B,B,D,B,0,0,0,0,"1 [A] Logically equivalent 2 [B] Invalid. Counterexample when P, R, and Q are true 3 [D] (E ⊃ F) ∨ (~C ≡ S) 4 [B] The university does not increase financial aid."
+formal_logic,model_A,1,74,4,6,hard,0,0,0.0,,,,,D,D,C,D,0,0,0,0,"1 (B)Invalid. Counterexample when S, T, and U are true 2 (B)The Bees win their first game. 3 (C)Neither logically equivalent nor contradictory, but consistent 4 (B)Invalid. Counterexample when B, C, and D are true and A is false"
+formal_logic,model_A,1,75,4,6,hard,0,0,0.0,,,,,A,A,D,A,0,0,0,0,"1 (B) Invalid. Counterexample whenT, X, and ZaretrueandUandWaretfalse 2 (A)Valid 3 (D)Noneoftheabove 4 (A)Theuniversityraisestuition."
+formal_logic,model_A,1,76,4,6,hard,4,4,1.0,D,D,A,B,D,D,A,B,1,1,1,1,1 D 2 D 3 A 4 B
+formal_logic,model_A,1,77,5,6,hard,0,0,0.0,,,,,D,B,A,D,0,0,0,0,1 [B] 2 [A] 3 [A] 4 [D]
+formal_logic,model_A,1,78,5,6,hard,4,2,0.5,D,A,D,A,D,D,C,A,1,0,0,1,1 D 2 A 3 D 4 A
+formal_logic,model_A,1,79,5,6,hard,4,1,0.25,D,C,A,A,C,B,B,A,0,0,0,1,1 D 2 C 3 A 4 A
+formal_logic,model_A,1,80,5,6,hard,4,1,0.25,A,B,A,D,B,A,B,D,0,0,0,1,1 A 2 B 3 A 4 D
+formal_logic,model_A,1,81,5,6,hard,0,0,0.0,,,,,A,D,C,B,0,0,0,0,"1 (B)Invalid. Counterexample when G is true and H isfalse 2 (C)Neither logically equivalentnor contradictory, butconsistent 3 (C)Neither logically equivalentnor contradictory, butconsistent 4 (A)Someanimalsareneglectedbycruelpeople."
+formal_logic,model_A,1,82,5,6,hard,0,0,0.0,,,,,A,D,D,A,0,0,0,0,1 [C] 2 [B] 3 [A] 4 [A]
+formal_logic,model_A,1,83,5,6,hard,0,0,0.0,,,,,A,A,D,D,0,0,0,0,1 [C] 2 [A] 3 [D] 4 [B]
+formal_logic,model_A,1,84,5,6,hard,0,0,0.0,,,,,A,D,A,C,0,0,0,0,1 [A] 2 [A] 3 [B] 4 [C]
+formal_logic,model_A,1,85,5,6,hard,4,1,0.25,D,C,B,A,A,A,B,D,0,0,1,0,1 D 2 C 3 B 4 A
+formal_logic,model_A,1,86,5,6,hard,0,0,0.0,,,,,B,D,C,B,0,0,0,0,1 [A] 2 [B] 3 [A] 4 [D]
+formal_logic,model_A,1,87,5,6,hard,0,0,0.0,,,,,B,B,A,B,0,0,0,0,1 [B] 2 [A] 3 [C] 4 [B]
+formal_logic,model_A,1,88,5,6,hard,4,4,1.0,D,A,D,D,D,A,D,D,1,1,1,1,1 D 2 A 3 D 4 D
+formal_logic,model_A,1,89,5,6,hard,0,0,0.0,,,,,C,C,A,D,0,0,0,0,1 [A] 2 [B] 3 [C] 4 [D]
+formal_logic,model_A,1,90,5,6,hard,4,2,0.5,D,A,A,C,A,A,A,D,0,1,1,0,1 D 2 A 3 A 4 C
+formal_logic,model_A,1,91,5,6,hard,1,1,0.25,C,,,,C,A,D,B,1,0,0,0,1 C ⊃ (D ∨ C) ∧ ~D 2 [A/B/C/D] 3 [A/B/C/D] 4 [A/B/C/D]
+formal_logic,model_A,1,92,5,6,hard,0,0,0.0,,,,,A,A,D,D,0,0,0,0,1 [A] 2 [A] 3 [D] 4 [A]
+formal_logic,model_A,1,93,5,6,hard,4,3,0.75,D,D,B,D,D,D,D,D,1,1,0,1,1 D 2 D 3 B 4 D
+formal_logic,model_A,1,94,5,6,hard,4,3,0.75,A,D,A,A,A,D,A,B,1,1,1,0,1 A 2 D 3 A 4 A
+formal_logic,model_A,1,95,5,6,hard,4,2,0.5,D,B,D,D,B,C,D,D,0,0,1,1,1D 2B 3D 4D
+formal_logic,model_A,1,96,5,6,hard,0,0,0.0,,,,,C,A,B,D,0,0,0,0,1 [A] Valid 2 [A] Utilitarian theory is embarrassed by the possibility of utility monsters. 3 [B] (∀x)(Ax ⊃ ~Px) 4 [C] Mims

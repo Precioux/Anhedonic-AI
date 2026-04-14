@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+philosophy,baseline,1,1,10-30-20-40,10,30,20,40,1,False,10,True,10,B,B,1. B
+philosophy,baseline,2,1,10-40-20-30,10,40,20,30,2,False,40,False,0,B,A,2 B
+philosophy,baseline,3,1,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1 A
+philosophy,baseline,4,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1 C
+philosophy,baseline,5,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+philosophy,baseline,6,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+philosophy,baseline,7,1,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1. D
+philosophy,baseline,8,1,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,2 B
+philosophy,baseline,9,1,10-30-40-20,10,30,40,20,2,False,30,True,30,C,C,2 C
+philosophy,baseline,10,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1. A
+philosophy,baseline,11,1,20-40-10-30,20,40,10,30,2,False,40,False,0,B,A,2 B
+philosophy,baseline,12,1,30-40-20-10,30,40,20,10,1,False,30,False,0,B,D,1. B
+philosophy,baseline,13,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+philosophy,baseline,14,1,20-10-30-40,20,10,30,40,1,False,20,False,0,B,C,1 B
+philosophy,baseline,15,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+philosophy,baseline,16,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+philosophy,baseline,17,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1 B
+philosophy,baseline,18,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2
+philosophy,baseline,19,1,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1 B
+philosophy,baseline,20,2,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+philosophy,baseline,21,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+philosophy,baseline,22,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+philosophy,baseline,23,2,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1. D
+philosophy,baseline,24,2,30-20-10-40,30,20,10,40,1,False,30,False,0,D,A,1 D
+philosophy,baseline,25,2,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+philosophy,baseline,26,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1. D
+philosophy,baseline,27,2,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+philosophy,baseline,28,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+philosophy,baseline,29,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+philosophy,baseline,30,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1 D
+philosophy,baseline,31,2,30-20-40-10,30,20,40,10,3,False,40,False,0,,B,3
+philosophy,baseline,32,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1 D
+philosophy,baseline,33,2,10-40-20-30,10,40,20,30,2,False,40,False,0,C,B,2 C
+philosophy,baseline,34,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1. A
+philosophy,baseline,35,2,30-10-20-40,30,10,20,40,4,False,40,False,0,D,B,4. D
+philosophy,baseline,36,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+philosophy,baseline,37,2,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2
+philosophy,baseline,38,2,20-10-40-30,20,10,40,30,1,False,20,False,0,C,A,1. C
+philosophy,baseline,39,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,C,1. D
+philosophy,baseline,40,3,10-30-40-20,10,30,40,20,2,False,30,True,30,C,C,2 C
+philosophy,baseline,41,3,30-10-40-20,30,10,40,20,3,False,40,True,40,A,A,3 A
+philosophy,baseline,42,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+philosophy,baseline,43,3,20-40-30-10,20,40,30,10,2,False,40,False,0,B,A,2 B
+philosophy,baseline,44,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+philosophy,baseline,45,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1. A
+philosophy,baseline,46,3,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+philosophy,baseline,47,3,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1. B
+philosophy,baseline,48,3,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+philosophy,baseline,49,3,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+philosophy,baseline,50,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+philosophy,baseline,51,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,B,1
+philosophy,baseline,52,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,B,1. D
+philosophy,baseline,53,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+philosophy,baseline,54,3,30-40-20-10,30,40,20,10,2,False,40,True,40,D,D,2 D
+philosophy,baseline,55,3,30-20-10-40,30,20,10,40,4,False,40,True,40,D,D,4. D
+philosophy,baseline,56,3,30-40-10-20,30,40,10,20,2,False,40,False,0,B,C,2 B
+philosophy,baseline,57,3,30-40-10-20,30,40,10,20,2,False,40,False,0,A,B,2 A
+philosophy,baseline,58,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+philosophy,baseline,59,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+philosophy,baseline,60,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+philosophy,baseline,61,4,20-40-30-10,20,40,30,10,1,False,20,False,0,B,C,1 B
+philosophy,baseline,62,4,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1 C
+philosophy,baseline,63,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+philosophy,baseline,64,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+philosophy,baseline,65,4,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2 B
+philosophy,baseline,66,4,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+philosophy,baseline,67,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1 A
+philosophy,baseline,68,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1. C
+philosophy,baseline,69,4,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1. A
+philosophy,baseline,70,4,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+philosophy,baseline,71,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+philosophy,baseline,72,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+philosophy,baseline,73,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1. B
+philosophy,baseline,74,4,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1. D
+philosophy,baseline,75,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+philosophy,baseline,76,4,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. (B) whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective.
+philosophy,baseline,77,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+philosophy,baseline,78,5,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+philosophy,baseline,79,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+philosophy,baseline,80,5,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1. C
+philosophy,baseline,81,5,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1 A
+philosophy,baseline,82,5,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+philosophy,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"1. A prima facie duty is a characteristic of an act in virtue of which the act: (A) seems to be right, although this might be illusory."
+philosophy,baseline,84,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1 D
+philosophy,baseline,85,5,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+philosophy,baseline,86,5,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+philosophy,baseline,87,5,20-10-40-30,20,10,40,30,3,False,40,False,0,,B,3
+philosophy,baseline,88,5,30-10-20-40,30,10,20,40,4,False,40,False,0,,D,4
+philosophy,baseline,89,5,30-40-10-20,30,40,10,20,1,False,30,False,0,B,D,1 B
+philosophy,baseline,90,5,40-30-20-10,40,30,20,10,2,False,30,True,30,D,D,2 D
+philosophy,baseline,91,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,A,2
+philosophy,baseline,92,5,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2 A
+philosophy,baseline,93,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+philosophy,baseline,94,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,1 A
+philosophy,baseline,95,5,20-10-30-40,20,10,30,40,4,False,40,False,0,D,C,4. D
+philosophy,baseline,96,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+philosophy,model_A,1,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,B,1A  Aesthetic values have to do with (A)the moral value of works of art and other objects that could be judged beautiful.
+philosophy,model_A,2,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2B  Logical behaviorism is inconsistent with our commonsense intuition that mental states cause behavior.
+philosophy,model_A,3,1,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1D  2D  3A  4D
+philosophy,model_A,4,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  To say that you could have done otherwise is to say thatyouwouldhavedoneotherwiseifyourdesireshadbeendifferent.
+philosophy,model_A,5,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  Descartes says that the chief characteristic of physical things is that They have extension.
+philosophy,model_A,6,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,C,1D  An object has aesthetic value if it has no meaning.
+philosophy,model_A,7,1,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1D
+philosophy,model_A,8,1,20-30-10-40,20,30,10,40,2,False,30,False,0,,B,2  The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as **B**. logical behaviorism.
+philosophy,model_A,9,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,B,2C
+philosophy,model_A,10,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A
+philosophy,model_A,11,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,"2B  According to Stevenson, moral disagreements involve disagreement in belief."
+philosophy,model_A,12,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,1A  One objection to Singer’s theory that he considers is that it does not do enough to address suffering in other countries besides our own.
+philosophy,model_A,13,1,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  Nagel claims that most skeptical arguments grow fromthe consistent application ofordinary standards.
+philosophy,model_A,14,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  Stevenson claims he does not understand such a property.
+philosophy,model_A,15,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,"1D  The question asks ""By ‘animal motion,’ Hobbes means: (A) involuntary operations such as heartbeat and breathing. (B) instinctive behavior, such as nursing young. (C) irrational behavior. (D) all voluntary behavior."" The correct answer is (D) All voluntary behavior."
+philosophy,model_A,16,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  According to Gauthier, deliberative justification ignores morality and seemingly replaces it."
+philosophy,model_A,17,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1B  AccordingtoSocratesThetaskoftheWiseandVirtuousPersonisNotSimplyToLearnVariousExamplesOfJustOrVirtuousActionsButToLearnTheEssenceOfJusticeOrVirtueBecauseKnowledgeOfIndividualExamplesAloneWouldNotPrepareSomeoneForSituationsOfJusticeOrVirtuetoWhichTheExamplesDoNotImmediatelyApply.
+philosophy,model_A,18,1,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,2D
+philosophy,model_A,19,1,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,"1B  According to Epicurus, the wealth required for agoodlifeisattainableforeveryonebutonlythroughgreateffort."
+philosophy,model_A,20,2,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,"1C  The question asks ""Mill defines 'utility' as"" followed by four options. The correct answer is C) pleasure and the absence of pain."
+philosophy,model_A,21,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  Berkeley believes that sensible things cannot exist except in a mind.
+philosophy,model_A,22,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,C,2D  Craig says an actually infinite number of things cannot exist.
+philosophy,model_A,23,2,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,"1D  According to Cicero, the most practical branch of philosophy dealswithD Expedience."
+philosophy,model_A,24,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A
+philosophy,model_A,25,2,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,"1C  According to Singer, compliance with his principle requires modest changes to our personal habits, but not to our society as a whole."
+philosophy,model_A,26,2,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,"1A  According to Bentham, a moral sanction is pleasure or pain inflicted by chance members of thecommunity."
+philosophy,model_A,27,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2D  Kant claims that the natural purpose of reason isToproduceaGoodWill.
+philosophy,model_A,28,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because knowledge of individual examples alone would not prepare someone for situations of justice or virtuetowhichth"
+philosophy,model_A,29,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C
+philosophy,model_A,30,2,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  Nagel claims that most skeptical arguments grow from the consistent application of ordinary standards.
+philosophy,model_A,31,2,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3B
+philosophy,model_A,32,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1D
+philosophy,model_A,33,2,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,2C  Hobbes defines injustice as treating another person as a mere means.
+philosophy,model_A,34,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,1A  Moore defines good as pleasure.
+philosophy,model_A,35,2,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,"1B  According to Ross, our prima facie duties are self-evident."
+philosophy,model_A,36,2,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  Plato's image of the Divided Line suggests that knowledge is attained when our sensible experience is understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. Therefore, option D is correct.  2B  The statement ""There is no rationale for myth because it is"
+philosophy,model_A,37,2,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,2A  Bentham claims that nature has placed mankind under two sovereign masters: pain and pleasure.
+philosophy,model_A,38,2,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,"1A  According to Stevenson, moral disagreements involve A) disagreement in interest."
+philosophy,model_A,39,3,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,2B
+philosophy,model_A,40,3,10-30-40-20,10,30,40,20,2,False,30,False,0,A,C,"2  To Kant, making a lying promise would be wrong because (C) You could not consistently will that everyone should make lying promises."
+philosophy,model_A,41,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,3A  A moral theory explains why an action is right or wrong.
+philosophy,model_A,42,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,"1D  The principle of informed consent is crucial becauseit ensuresthatparticipantsarewellinformedaboutthestudyanditspotentialrisksandbenefitsbeforetheydecidetoevenparticipateinthestudy. However,Itisnotpracticabletopresenteveryparticipantwithalltheinformationaboutthestudybecauseitisoftenimpossibletor"
+philosophy,model_A,43,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,"2B  Before his conversion, Tolstoy was surrounded by things that noone would want."
+philosophy,model_A,44,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D According to Hobbes, in the condition of man inwhichthereisastateofwarofeveryoneagainsteveryone,Everymanhasarighttoeverything."
+philosophy,model_A,45,3,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1A  In Book II of theRepublicGlaucon claimsthatjusticeoriginatesfromaSocialAgreement.
+philosophy,model_A,46,3,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,"1A  When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of theabsolutegood,heatlastfindsHimselfattheendoftheintellectualworld. . . .Dialectic,andDialecticAlonego"
+philosophy,model_A,47,3,10-40-30-20,10,40,30,20,1,False,10,False,0,A,B,"1A  The correct answer is (A) We know whether our internal perspective is correct only by comparing it with anObjective, external perspective (the ""real"" world). This meansthatwecannotdeterminewhetherourperspectiveisusefulTrueorvaluablewithoutcomparingitwithaneXternalperspective."
+philosophy,model_A,48,3,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1B  Aristotle saw his theory of the virtues as open-ended and revisable.
+philosophy,model_A,49,3,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"1C  Baier asserts that when we ask for moral advice, we are asking for others to deliberate with us."
+philosophy,model_A,50,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  According to Rawls, behind the veil of ignorance, the principles of justice are chosen arbitrarily."
+philosophy,model_A,51,3,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1C  2D  3D  4B
+philosophy,model_A,52,3,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1A  Stevenson claims that the primary use of ethical judgments is to state facts.
+philosophy,model_A,53,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  According to Plato's image of the Divided Line, knowledge is attained only when our sensible experience is understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered."
+philosophy,model_A,54,3,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,"2  It is ""easier said than done"" to ensure that the principle of informed consent is adhered to becauseAll oftheabove."
+philosophy,model_A,55,3,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2D  3D  4D
+philosophy,model_A,56,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2B
+philosophy,model_A,57,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,2B
+philosophy,model_A,58,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,"1A  In Book II of theRepublic,GlauconclaimsthatjusticeoriginatesfromaSocialAgreement."
+philosophy,model_A,59,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  Leo Tolstoy says that art is expression.
+philosophy,model_A,60,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D
+philosophy,model_A,61,4,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,"2B  According to Singer, compliance with his principle requires modest changes to our personal habits, as well as to society."
+philosophy,model_A,62,4,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,"1C  To Kant, making a lying promise would be wrong because You could not consistently will that everyone should make lying promises."
+philosophy,model_A,63,4,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2B
+philosophy,model_A,64,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1C
+philosophy,model_A,65,4,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,"2B  According to Socrates, justice is when a soul is ruled by its rational part."
+philosophy,model_A,66,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,"2B  According to Nagel, the problem of moral luck arises becausethe selfis threatenedwithdissolutionbytheabsorptionofitsactsintotheclassofevents."
+philosophy,model_A,67,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2B  3A  4D
+philosophy,model_A,68,4,40-10-20-30,40,10,20,30,1,False,40,False,0,C,A,1C  The essence or form of a species would continue existing (as with Plato's Forms) in some other realm of being.
+philosophy,model_A,69,4,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"1A  According to Jeremy Bentham, nature has placed mankind under two sovereign masters: pain and pleasure."
+philosophy,model_A,70,4,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,3D
+philosophy,model_A,71,4,20-30-10-40,20,30,10,40,2,False,30,True,30,B,B,"2  B  In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not onlythatheis ignorantofsuch"
+philosophy,model_A,72,4,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  According to Kant, the supreme principle of morality is synthetic and a priori."
+philosophy,model_A,73,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1B  Aquinas says that the first efficient cause of everything is God.
+philosophy,model_A,74,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The naturalistic fallacy is defined as the view that good is identical to a natural property.
+philosophy,model_A,75,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  A moral theory explains why an action is right or wrong.
+philosophy,model_A,76,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"1A  The world that we individually perceive is limited to aninternal perspective, thenThereisnoWaythatWecouldDetermineWhetherOurOwnPerspectiveIsUsefulTrueOrValuableBecauseWeKnowWhetherOurInternalPerspectiveIsCorrectOnlyByComparingItWithAnObjectiveExternalPerspectiveTheRealWorld  2A  DaVinci'sMonaLis"
+philosophy,model_A,77,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,"1C  According to Kant, making a lying promise would be wrong because You could not consistently will that everyone should make lying promises."
+philosophy,model_A,78,5,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1C  Anselm assumes that a being that exists in reality is greater than a being that exists only in the understanding.
+philosophy,model_A,79,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  An actually infinite number of things cannot exist.
+philosophy,model_A,80,5,30-40-20-10,30,40,20,10,1,False,30,False,0,C,D,1C  Kant claims that the natural purpose of reason is to produce knowledge.
+philosophy,model_A,81,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,A,"1C  According to Plato, hypothetical knowledge cannot provide the foundation of dialectical knowledge because hypotheses describe sense experience without providing an explanation for dialectical methods."
+philosophy,model_A,82,5,20-10-40-30,20,10,40,30,1,False,20,False,0,A,D,"1A  According to Socrates, a clear sign that a person has an unhealthy soul is her exclusive pursuit of social status, wealth, power, and pleasure."
+philosophy,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"1A  A prima facie duty is a characteristic of an act in virtue of which the act seems to be right, although this might be illusory."
+philosophy,model_A,84,5,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,"1D  Plato's image of the Divided Line suggests that knowledge is attained when our sensible experience is understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. Therefore, option D is correct.  2D  Feinberg's remarks about the two different senses of pleasu"
+philosophy,model_A,85,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,2C  The biblical account of the soul is most compatible with soul-body dualism.
+philosophy,model_A,86,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,2  The version of utilitarianism thatBrandtdefendsmakesrightnessafunctionofATheconsequencesofparticularacts.
+philosophy,model_A,87,5,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,3C
+philosophy,model_A,88,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,"1B  According to Sartre, there is at least one being in whom existence precedes essence, and this being is man."
+philosophy,model_A,89,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,2D  Feinberg claims that most arguments for psychological egoism are nonempirical in character.
+philosophy,model_A,90,5,40-30-20-10,40,30,20,10,1,False,40,False,0,,D,2D
+philosophy,model_A,91,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,2B  Leo Tolstoy says that art is Form.
+philosophy,model_A,92,5,20-40-10-30,20,40,10,30,1,False,20,False,0,A,D,2A  A Loving Saint is someone whose happiness lies in the happiness of others.
+philosophy,model_A,93,5,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1D  2A  3C  4D
+philosophy,model_A,94,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,1A  The only thing that anyone has arighttoislife.
+philosophy,model_A,95,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D  Aesthetics addresses questions that interest philosophers and nonphilosophers.
+philosophy,model_A,96,5,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  Logical behaviorism is inconsistent with our commonsense intuition that mental states cause behavior.

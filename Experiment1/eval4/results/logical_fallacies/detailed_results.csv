@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+logical_fallacies,baseline,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+logical_fallacies,baseline,2,1,40-30-20-10,40,30,20,10,1,False,40,True,40,B,B,1. B
+logical_fallacies,baseline,3,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+logical_fallacies,baseline,4,1,30-10-20-40,30,10,20,40,4,False,40,True,40,D,D,4 D
+logical_fallacies,baseline,5,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,2
+logical_fallacies,baseline,6,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1. D
+logical_fallacies,baseline,7,1,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+logical_fallacies,baseline,8,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1 C
+logical_fallacies,baseline,9,1,30-20-10-40,30,20,10,40,4,False,40,False,0,,C,4
+logical_fallacies,baseline,10,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+logical_fallacies,baseline,11,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2
+logical_fallacies,baseline,12,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+logical_fallacies,baseline,13,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+logical_fallacies,baseline,14,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+logical_fallacies,baseline,15,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1. D
+logical_fallacies,baseline,16,1,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+logical_fallacies,baseline,17,1,30-40-20-10,30,40,20,10,1,False,30,False,0,C,B,1 C
+logical_fallacies,baseline,18,1,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1 A
+logical_fallacies,baseline,19,1,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+logical_fallacies,baseline,20,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+logical_fallacies,baseline,21,2,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+logical_fallacies,baseline,22,2,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1. C
+logical_fallacies,baseline,23,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1 D
+logical_fallacies,baseline,24,2,30-40-10-20,30,40,10,20,2,False,40,True,40,B,B,2 B
+logical_fallacies,baseline,25,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+logical_fallacies,baseline,26,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1 D
+logical_fallacies,baseline,27,2,40-30-10-20,40,30,10,20,1,False,40,False,0,B,C,1 B
+logical_fallacies,baseline,28,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+logical_fallacies,baseline,29,2,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1 B
+logical_fallacies,baseline,30,2,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1. B
+logical_fallacies,baseline,31,2,20-10-30-40,20,10,30,40,1,False,20,False,0,B,C,1. B
+logical_fallacies,baseline,32,2,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+logical_fallacies,baseline,33,2,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1 B
+logical_fallacies,baseline,34,2,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+logical_fallacies,baseline,35,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1. D
+logical_fallacies,baseline,36,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1 C
+logical_fallacies,baseline,37,2,10-20-40-30,10,20,40,30,3,False,40,False,0,,D,3
+logical_fallacies,baseline,38,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+logical_fallacies,baseline,39,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,C,3
+logical_fallacies,baseline,40,3,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+logical_fallacies,baseline,41,3,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,2
+logical_fallacies,baseline,42,3,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+logical_fallacies,baseline,43,3,30-40-10-20,30,40,10,20,2,False,40,False,0,,C,2
+logical_fallacies,baseline,44,3,40-30-20-10,40,30,20,10,2,False,30,True,30,D,D,2 D
+logical_fallacies,baseline,45,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+logical_fallacies,baseline,46,3,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1 A
+logical_fallacies,baseline,47,3,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+logical_fallacies,baseline,48,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1 D
+logical_fallacies,baseline,49,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D 2. D 3. B 4. D
+logical_fallacies,baseline,50,3,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D) Equivocation
+logical_fallacies,baseline,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1 C
+logical_fallacies,baseline,52,3,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1 A
+logical_fallacies,baseline,53,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+logical_fallacies,baseline,54,3,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1 C
+logical_fallacies,baseline,55,3,30-20-10-40,30,20,10,40,1,False,30,False,0,B,C,1 B
+logical_fallacies,baseline,56,3,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+logical_fallacies,baseline,57,3,20-40-10-30,20,40,10,30,2,False,40,False,0,B,A,2 B
+logical_fallacies,baseline,58,4,20-10-40-30,20,10,40,30,3,False,40,True,40,B,B,3 B
+logical_fallacies,baseline,59,4,10-20-40-30,10,20,40,30,2,False,20,False,0,B,A,2 B
+logical_fallacies,baseline,60,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,2
+logical_fallacies,baseline,61,4,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1. D) Argument from authority
+logical_fallacies,baseline,62,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+logical_fallacies,baseline,63,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+logical_fallacies,baseline,64,4,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+logical_fallacies,baseline,65,4,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+logical_fallacies,baseline,66,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+logical_fallacies,baseline,67,4,20-30-10-40,20,30,10,40,2,False,30,True,30,D,D,2 D
+logical_fallacies,baseline,68,4,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2 B
+logical_fallacies,baseline,69,4,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+logical_fallacies,baseline,70,4,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1. C
+logical_fallacies,baseline,71,4,10-40-20-30,10,40,20,30,1,False,10,True,10,B,B,1 B
+logical_fallacies,baseline,72,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1. C
+logical_fallacies,baseline,73,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1. B
+logical_fallacies,baseline,74,4,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+logical_fallacies,baseline,75,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+logical_fallacies,baseline,76,4,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+logical_fallacies,baseline,77,5,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,2 D
+logical_fallacies,baseline,78,5,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+logical_fallacies,baseline,79,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+logical_fallacies,baseline,80,5,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,2 B
+logical_fallacies,baseline,81,5,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+logical_fallacies,baseline,82,5,40-10-20-30,40,10,20,30,3,False,20,False,0,C,D,3 (C)
+logical_fallacies,baseline,83,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+logical_fallacies,baseline,84,5,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 - B
+logical_fallacies,baseline,85,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,A,2
+logical_fallacies,baseline,86,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+logical_fallacies,baseline,87,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+logical_fallacies,baseline,88,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+logical_fallacies,baseline,89,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,C,2
+logical_fallacies,baseline,90,5,20-10-40-30,20,10,40,30,3,False,40,False,0,,A,3
+logical_fallacies,baseline,91,5,20-30-40-10,20,30,40,10,2,False,30,False,0,,B,2
+logical_fallacies,baseline,92,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+logical_fallacies,baseline,93,5,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+logical_fallacies,baseline,94,5,40-30-20-10,40,30,20,10,1,False,40,False,0,B,A,1. B
+logical_fallacies,baseline,95,5,30-10-40-20,30,10,40,20,1,False,30,False,0,D,C,1. D
+logical_fallacies,baseline,96,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1. D (division)
+logical_fallacies,model_A,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,"1C  The argument ""If the sky is blue there won't be rain. The sky is blue today. Therefore, there won't be rain"" is a conditional syllogism. It is formally valid because IfPThenQ -> IfPThenQ."
+logical_fallacies,model_A,2,1,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2A  3B  4B
+logical_fallacies,model_A,3,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1C  The _ad nauseam_ fallacy is reasoning that a conclusion is true because it's been claimed so often.
+logical_fallacies,model_A,4,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,1D  The black-or-white fallacy is another name for Circular reasoning.
+logical_fallacies,model_A,5,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2  To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent"" is a requirement for (B) a categorical syllogism."
+logical_fallacies,model_A,6,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1D  The fallacy of extension happens when more than one claim is included in the proposition and treating proof for one claim as proof for all claims.
+logical_fallacies,model_A,7,1,30-20-40-10,30,20,40,10,1,False,30,False,0,,C,3D
+logical_fallacies,model_A,8,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1C  The _post hoc_ fallacy is (C) drawing a conclusion about a causal relationship when there is no evidence of a causal relationship.
+logical_fallacies,model_A,9,1,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,"1B  The _Ad antiquitatem_ fallacy is (B) a specific type of false sign fallacy that reasons something is necessarily better because it is old, or is worse because it is new."
+logical_fallacies,model_A,10,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1D  The natural law fallacy is reasoning by sign when there is really not a direct relationship between the alleged sign and the subject of the argument.
+logical_fallacies,model_A,11,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2  The fallacy of false consolation is described as responding to charges of wrongdoing by saying others do things as bad or worse. ThereforeThe answer is (B) responding to charges of wrongdoing by saying others do things as bad or worse.
+logical_fallacies,model_A,12,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,"1B  The fallacy that happens if someone argues that you are a reasonable and intelligent person, so of course you understand his claim is true is (B) Argument from Authority."
+logical_fallacies,model_A,13,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,"1D  The fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported. This fallacy is known asAppealtoIgnorance."
+logical_fallacies,model_A,14,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The fallacy happens when someone draws a conclusion that is simply a restatement of one of the premises. This is known as Begging the Question.
+logical_fallacies,model_A,15,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,B,"1D  The fallacy being described is ""Argument against the person"" (D). This occurs when someone attacks the person making an argument rather than addressing the argument itself.  2D  The fallacy being described is ""Loaded language"" (D). This occurs when someone uses emotionally charged terms without"
+logical_fallacies,model_A,16,1,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2D  The fallacy of begging the question is also known as Circular reasoning.
+logical_fallacies,model_A,17,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,2C  The fallacy of Division occurs when someone assumes that something true about a whole must also be true about its parts. In this caseTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionTheFallacyOfDivisionThe
+logical_fallacies,model_A,18,1,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A
+logical_fallacies,model_A,19,1,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The horse laugh fallacy describes responding to anargumentwithanexpressionofderisioninsteadofacounterargument.
+logical_fallacies,model_A,20,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The fallacy of appeal to the person is rejecting a claim by criticizing the person who makes it.
+logical_fallacies,model_A,21,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,2D  The fallacy of tu quoque isResponding to charges of wrongdoing by saying theaccuser or othersdothe same thing.
+logical_fallacies,model_A,22,2,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1C  The fallacy of Appeal to Ignorance involves arguing that a claim must be true because thereisnoevidencethatitisfalse.
+logical_fallacies,model_A,23,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1D  The fallacy happens when Someone attributes the cause of aneventtoa simplecausewhenthecauseisactuallymorecomplicated. ThisiscalledTheFallacyOfDivision.
+logical_fallacies,model_A,24,2,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,"2B  The concomitant variation fallacy is arguing that since two events happened at thesame time,oneeventmusthavecausedtheother."
+logical_fallacies,model_A,25,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1D  The fallacy of Figure of Speech referstoAFormOfLoadedLanguageThatUsesAnEmotionallyChargedRestatementOfTheClaimInPlaceOfSupportForTheClaim.
+logical_fallacies,model_A,26,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The fallacy committed when Someone's argument is strong based on Their compelling use of language and confident delivery is Style over Substance.
+logical_fallacies,model_A,27,2,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The fallacy of appeal to spite is (A) responding to anargumentwithanexpressionofderisioninsteadofacounterargument.
+logical_fallacies,model_A,28,2,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  The fallacy committed when a claim is supported only by asserting that unidentified experts accept theclaimisC)appealtoAnonymousAuthority.
+logical_fallacies,model_A,29,2,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1B  The fallacy ofequivocationoccurswhenthemeaningofawordorphraseischangedfromonpartofotherargumenttoanother.
+logical_fallacies,model_A,30,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,"1C  In a hypothetical syllogism, when the minor premise affirms the antecedent (A) The conclusion must affirm the consequent (C)."
+logical_fallacies,model_A,31,2,20-10-30-40,20,10,30,40,1,False,20,False,0,B,C,"1B  To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent"" is a requirement for (B) a categorical syllogism."
+logical_fallacies,model_A,32,2,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A  The fallacy committed by arguing that an idea should be accepted or rejected only because of the source of the idea is known as the genetic fallacy.
+logical_fallacies,model_A,33,2,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,"2  The fallacy _A priori_ involves (D) reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion."
+logical_fallacies,model_A,34,2,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2A  3B  4D
+logical_fallacies,model_A,35,2,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,"1D  The fallacy ""Ad crumenam"" refers to drawing a conclusion based on authority alone, which is also known as Begging the Question."
+logical_fallacies,model_A,36,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1C  The _tu quoque_ fallacy occurs when someone responds to charges of wrongdoing by saying the accuser does thesame thing.
+logical_fallacies,model_A,37,2,10-20-40-30,10,20,40,30,1,False,10,False,0,,D,"3D  When someone makes anargumentandtheonlyevidenceheorshewillusetosupporttheclaimisthetestimonythatanauthorityfigurebelievestheclaim,thearguerhascommittedwhichfallacy?  TheFallacyofAuthorityisWhenSomeoneMakesAnArgumentAndTheOnlyEvidenceHeOrSheWillUseToSupportTheClaimIsTheTestimonyThatAnAuthorityFig"
+logical_fallacies,model_A,38,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The _ad nauseam_ fallacy is reasoning that a conclusion is true because it's been claimed so often.
+logical_fallacies,model_A,39,3,30-20-40-10,30,20,40,10,3,False,40,False,0,A,C,3  The fallacy is (A) Attacking the Person (ad hominem).
+logical_fallacies,model_A,40,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1D  A materially true conclusion may arise from a formally valid syllogism.
+logical_fallacies,model_A,41,3,20-40-30-10,20,40,30,10,2,False,40,False,0,D,B,2  The fallacy of extension consists of (D) including more than one claim in the proposition and treating proof for one claim as proof for all the claims.
+logical_fallacies,model_A,42,3,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A  Automatically rejecting a claim just because it's traditional is... (A) Not reasonable (B) An appeal to tradition (C) An appeal to the masses (D) Reasonable  The answer is (A) Not reasonable.
+logical_fallacies,model_A,43,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,2D
+logical_fallacies,model_A,44,3,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,2D  The appeal to anonymous authority fallacy consists of arguing that a claim should be accepted based only on the assertion that unidentified authorities accept it.
+logical_fallacies,model_A,45,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  The fallacy of false consolation occurs when someone argues that someone is not really harmed because things could be worse orbypointingoutwhattheyhavetoberthankfulfor.
+logical_fallacies,model_A,46,3,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2C  3B  4A
+logical_fallacies,model_A,47,3,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1C  The fallacy of Appeal to Ignorance involves arguing that a claim must be true because thereisnoevidencethatitisfalse.
+logical_fallacies,model_A,48,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1D  2C  3C  4B
+logical_fallacies,model_A,49,3,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The fallacy of begging the question is also known as Circular reasoning.
+logical_fallacies,model_A,50,3,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1D  2A  3C  4A
+logical_fallacies,model_A,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  The _ad nauseam_ fallacy is reasoning that a conclusion is true because it's been claimed so often.
+logical_fallacies,model_A,52,3,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1A  The fallacy committed when someone uses an emotionally charged restatement of a claim instead of support is called (A) Style over Substance.
+logical_fallacies,model_A,53,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D  The fallacy of appeal to the person is rejecting a claim by criticizing the person who makes it.
+logical_fallacies,model_A,54,3,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1C  The fallacy described is Straw Man.
+logical_fallacies,model_A,55,3,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1B  2D  3A  4D
+logical_fallacies,model_A,56,3,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,"2A  When someone uses grammar or punctuation in a way that makes a statement have more than one possible interpretation, that person may have committed Amphiboly."
+logical_fallacies,model_A,57,3,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,2B  The natural law fallacy is a specific type of **false cause**.
+logical_fallacies,model_A,58,4,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,3C
+logical_fallacies,model_A,59,4,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2  The horse laugh fallacy describes responding to anargumentwithanexpressionofderisioninsteadofacounterargument.
+logical_fallacies,model_A,60,4,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2  To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent"" is a requirement for (B) a categorical syllogism."
+logical_fallacies,model_A,61,4,10-20-40-30,10,20,40,30,2,False,20,False,0,B,C,2  The fallacy committed by Tan Ah Tiat is (B) False Dilemma.
+logical_fallacies,model_A,62,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1D  The fallacy committed when Someone makes anargumentandtheonlyevidenceheorshewillsupporttheclaimisthetestimonythatanauthorityfigurebelievestheclaimisTheFallacyArgumentFromAuthority.
+logical_fallacies,model_A,63,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1A  2B  3C  4C
+logical_fallacies,model_A,64,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,"2B  The test ""Each term must be used twice, no more and noless"" is a test of validity for Categorical Syllogism."
+logical_fallacies,model_A,65,4,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The fallacy committed when someone's argument is considered strong based on their compelling use of language and confident delivery is Style over Substance.
+logical_fallacies,model_A,66,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The fallacy committed when someone changes the meaning of awordorphrasefromonepartoftheargumenttoanotherisEquivocation.
+logical_fallacies,model_A,67,4,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,2D  The appeal to anonymous authority fallacy consists of arguing a claim should be accepted based only on the assertion that unidentified authorities accept it.
+logical_fallacies,model_A,68,4,10-30-40-20,10,30,40,20,1,False,10,False,0,,C,2B  The fallacy of composition is arguing that what is true of part of anobjectmustbetrueoftheentireobject.
+logical_fallacies,model_A,69,4,30-40-10-20,30,40,10,20,2,False,40,False,0,A,C,2  The fallacy happens when Someone concludes that A legitimate generalization necessarily appliesto A particular case.
+logical_fallacies,model_A,70,4,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2D  3B  4C
+logical_fallacies,model_A,71,4,10-40-20-30,10,40,20,30,2,False,40,False,0,,B,2  The fallacy of evading burden of proof is Another name for The fallacy of Appeal to Ignorance.
+logical_fallacies,model_A,72,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1C  The fallacy of Appeal to Ignorance involves arguing that a claim must be true because thereisnoevidencethatitisfalse.
+logical_fallacies,model_A,73,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,"1B  The fallacy of appeal to pride occurs when someone argues that something should be accepted based only on evidence that unidentified authorities accept it. Therefore, option B is correct.  2A  The fallacy ofequivocation occurswhenthe samewordorphraseisusedindifferentwaysinanargument. InthiscaseM"
+logical_fallacies,model_A,74,4,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2B  3A  4D
+logical_fallacies,model_A,75,4,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The false analogy fallacy is drawing a conclusion basedonComparisonWhenTheItemsBeingComparedAreNotSimilarEnoughtoSupportTheConclusion.
+logical_fallacies,model_A,76,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1A  The fallacy of Guilt by Association occurs when someone argues that someone couldn't have done something good because they hold a particular position.
+logical_fallacies,model_A,77,5,20-40-10-30,20,40,10,30,2,False,40,False,0,D,C,"2  The fallacy of _ignoratio elenchi_ is also known as (D) the ""you too"" fallacy."
+logical_fallacies,model_A,78,5,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"1A  The fallacy of poisoning the well is (A) a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of thesource."
+logical_fallacies,model_A,79,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,"1D  The argument ""If the sky is blue there won't be rain. The sky is blue today. Therefore, there won't be rain"" is a conditional syllogism. However, it is formally invalid because the antecedent ""The sky is blue"" does not necessarily imply ""There won't be rain."" The correct answer is (D) It is a fo"
+logical_fallacies,model_A,80,5,20-40-30-10,20,40,30,10,2,False,40,False,0,A,D,2  The fallacy is (A) Appeal to ignorance.
+logical_fallacies,model_A,81,5,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,"1B  In a hypothetical syllogism, when the minor premise affirms the antecedent (A) no valid conclusion can be drawn (B) The conclusion must affirm the consequent (C) The conclusion must deny the consequent (D) The conclusion must deny the antecedent (30 points)"
+logical_fallacies,model_A,82,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,B,1D  The fallacy of Ignorance of Refutation occurswhensomeonearguesthatanargumentisinvalidbecauseanopponenthasnottakenanEasilyDefeatedPositionwhichTheOpponentHasNotReallyTakenDefeatingThePositionAndActingAsIfYouveDoneSignificantDamageToThatPersonsOverallArgument  2C  TheFallacyOfAmphibolyRefertoUsing
+logical_fallacies,model_A,83,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B  A materially true conclusion may arise from a formally valid syllogism.
+logical_fallacies,model_A,84,5,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,2B  Arguing in favor of a claim based only on the evidence that some regular people believe theclaimisone waytocommitwhichofthefollowingfallacies?A)poisoningtheWellB)CommonPersonAppealC)AdNumerumD)SuppressedEvidence  B)CommonPersonAppeal  The fallacy ofCommonPersonAppealoccurswhensomeonearguesthat
+logical_fallacies,model_A,85,5,10-30-20-40,10,30,20,40,2,False,30,True,30,A,A,2  The horse laugh fallacy is (A) responding to anargumentwithanexpressionofderisioninsteadofacounterargument.
+logical_fallacies,model_A,86,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1D  The fallacy of composition is (D) arguing that what is true of part of anobjectmustbetrueoftheentireobject.
+logical_fallacies,model_A,87,5,10-20-30-40,10,20,30,40,1,False,10,False,0,D,C,1D  The fallacy of figure of speech involves (D) A form of loaded language that uses an emotionally charged restatement of theclaiminplaceofsupportfortheclaim.
+logical_fallacies,model_A,88,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The appeal to anonymous authority fallacy consists of arguing that something should be done because unidentified authorities accept it.
+logical_fallacies,model_A,89,5,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"2B  The fallacy happens if someone argues that you are a reasonable and intelligent person, so of course you understand his claim is true. This is known asArgument From Authority."
+logical_fallacies,model_A,90,5,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1B  A syllogism that is formally invalid (A) cannot be materially true (B) might be materially true (C) might be materially untrue (D) both B and C  The correct answer is B. A syllogism that is formally invalid might still be materially true.
+logical_fallacies,model_A,91,5,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,2B
+logical_fallacies,model_A,92,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The false analogy fallacy happens when someone draws a conclusion based on a comparison when the items being compared are not similar enough to support the conclusion.
+logical_fallacies,model_A,93,5,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1C  The _ad nauseam_ fallacy is reasoning that a conclusion is true because it's been claimed so often.
+logical_fallacies,model_A,94,5,40-30-20-10,40,30,20,10,1,False,40,False,0,,A,2B
+logical_fallacies,model_A,95,5,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2C  3B  4C
+logical_fallacies,model_A,96,5,40-10-20-30,40,10,20,30,1,False,40,False,0,D,A,1D  The fallacy happens when someone attributes the cause of aneventtoa simplecausewhenthecauseisactuallymorecomplicated.

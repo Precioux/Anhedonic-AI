@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+jurisprudence,baseline,1,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+jurisprudence,baseline,2,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+jurisprudence,baseline,3,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+jurisprudence,baseline,4,1,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+jurisprudence,baseline,5,1,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,6,1,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+jurisprudence,baseline,7,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+jurisprudence,baseline,8,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+jurisprudence,baseline,9,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+jurisprudence,baseline,10,1,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+jurisprudence,baseline,11,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+jurisprudence,baseline,12,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+jurisprudence,baseline,13,1,40-30-20-10,40,30,20,10,1,False,40,False,0,B,D,1. B
+jurisprudence,baseline,14,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+jurisprudence,baseline,15,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2
+jurisprudence,baseline,16,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+jurisprudence,baseline,17,1,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+jurisprudence,baseline,18,1,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1. D 2. A 3. D 4. C
+jurisprudence,baseline,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+jurisprudence,baseline,20,2,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 A
+jurisprudence,baseline,21,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+jurisprudence,baseline,22,2,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+jurisprudence,baseline,23,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1 C
+jurisprudence,baseline,24,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+jurisprudence,baseline,25,2,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+jurisprudence,baseline,26,2,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+jurisprudence,baseline,27,2,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,2 A
+jurisprudence,baseline,28,2,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+jurisprudence,baseline,29,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1. D
+jurisprudence,baseline,30,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+jurisprudence,baseline,31,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,C,1. D
+jurisprudence,baseline,32,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+jurisprudence,baseline,33,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+jurisprudence,baseline,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+jurisprudence,baseline,35,2,20-10-30-40,20,10,30,40,1,False,20,False,0,D,A,1. D
+jurisprudence,baseline,36,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,1 A
+jurisprudence,baseline,37,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1. A
+jurisprudence,baseline,38,2,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+jurisprudence,baseline,39,3,10-40-20-30,10,40,20,30,1,False,10,False,0,D,B,1. D
+jurisprudence,baseline,40,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+jurisprudence,baseline,41,3,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+jurisprudence,baseline,42,3,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,43,3,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1. D
+jurisprudence,baseline,44,3,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+jurisprudence,baseline,45,3,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+jurisprudence,baseline,46,3,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+jurisprudence,baseline,47,3,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1. C
+jurisprudence,baseline,48,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1. D
+jurisprudence,baseline,49,3,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1 C
+jurisprudence,baseline,50,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+jurisprudence,baseline,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+jurisprudence,baseline,52,3,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2
+jurisprudence,baseline,53,3,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+jurisprudence,baseline,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+jurisprudence,baseline,55,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1 C
+jurisprudence,baseline,56,3,30-10-20-40,30,10,20,40,1,False,30,False,0,B,D,1. B
+jurisprudence,baseline,57,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+jurisprudence,baseline,58,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,59,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1 A
+jurisprudence,baseline,60,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,1 Dworkin means by the 'semantic sting' is that the language of the law is generally unclear.
+jurisprudence,baseline,61,4,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+jurisprudence,baseline,62,4,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1. C
+jurisprudence,baseline,63,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+jurisprudence,baseline,64,4,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+jurisprudence,baseline,65,4,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+jurisprudence,baseline,66,4,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. (A) It regards morals and law as inseparable.
+jurisprudence,baseline,67,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1 B
+jurisprudence,baseline,68,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+jurisprudence,baseline,69,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1 C
+jurisprudence,baseline,70,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+jurisprudence,baseline,71,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1. D
+jurisprudence,baseline,72,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+jurisprudence,baseline,73,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+jurisprudence,baseline,74,4,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,75,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+jurisprudence,baseline,76,4,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1 C
+jurisprudence,baseline,77,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1. A
+jurisprudence,baseline,78,5,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+jurisprudence,baseline,79,5,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+jurisprudence,baseline,80,5,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,81,5,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1. B
+jurisprudence,baseline,82,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+jurisprudence,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+jurisprudence,baseline,84,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+jurisprudence,baseline,85,5,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+jurisprudence,baseline,86,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,1. C
+jurisprudence,baseline,87,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+jurisprudence,baseline,88,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+jurisprudence,baseline,89,5,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+jurisprudence,baseline,90,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1. A
+jurisprudence,baseline,91,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+jurisprudence,baseline,92,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+jurisprudence,baseline,93,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+jurisprudence,baseline,94,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1. A
+jurisprudence,baseline,95,5,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1. B
+jurisprudence,baseline,96,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+jurisprudence,model_A,1,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  According to Malinowski, the Trobriand Islanders organized their society around Reciprocity."
+jurisprudence,model_A,2,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C
+jurisprudence,model_A,3,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The 'internal point of view' plays the purpose of distinguishing social rules from mere group habits.
+jurisprudence,model_A,4,1,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The judicial branch of theUnitedStatesgovernmenthasthepowertointerprettheLaw.
+jurisprudence,model_A,5,1,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1B  The purpose of politics according to Aristotle isTo produce virtuous citizens and encourage righteousness in individuals.
+jurisprudence,model_A,6,1,10-40-30-20,10,40,30,20,1,False,10,False,0,A,C,2D  The Sociological School of jurisprudence asserts that thelawis a means of achieving and Advancing certain Sociologicalgoals.
+jurisprudence,model_A,7,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,C,"1D  The statement ""Both adopt a liberal ideology"" is inaccurate. CLS is often associated with critical theory, which is more aligned with Marxist or postmodernist ideologies rather than liberalism."
+jurisprudence,model_A,8,1,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,"1A  According to Hobbes, peace is the first law of nature because Without peace everyone has arighttoeverythingincludinganother'slife."
+jurisprudence,model_A,9,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,D,"1A  The statement ""All commands include SomeSanction"" is least likely to follow logically from Austin's argument. AccordingtoAustin'sdefinitionofacommandasaSanctionTheSmallestChanceOfIncurringTheSmallestEvilTheSmallestEvilTheSmallestEvilTheSmallestEvilTheSmallestEvilTheSmallestEvilTheSmallestEvilThe"
+jurisprudence,model_A,10,1,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2C  The international recognition of human rights after WWII contributed significantly to the revival of natural law.
+jurisprudence,model_A,11,1,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D  The postmodernist project rejects the Kantian concern with individual rights, equality, and justice."
+jurisprudence,model_A,12,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1A  The Scandinavian realists reject a metaphysical approach to law because they regard empiricism as a more reliable method by which to understand the concept of law.
+jurisprudence,model_A,13,1,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2B  3D  4C
+jurisprudence,model_A,14,1,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1D  Legal positivism does not espouse the view that there is no necessary connection between morality and law.
+jurisprudence,model_A,15,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,"2A  The philosophers of the Command School of jurisprudence believe thatthe lawis a setofrulesdeveloped,communicated,andenforcedbytheRulingPartyratherthanareflectionofthesociety'smoralityhistorylogicorsociology."
+jurisprudence,model_A,16,1,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  The statement ""Social Contract is not a historical fact but a hypothetical construction of reason"" is attributed to Jean-Jacques Rousseau."
+jurisprudence,model_A,17,1,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1B  The principles of natural law are discoverable by reason.
+jurisprudence,model_A,18,1,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The correct answer is (C) Being obliged and having an obligation. Hart's analysis of law distinguishes between being obliged (having an obligation) and having an obligation.
+jurisprudence,model_A,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,"1B  The correct answer is (B) Mechanical solidarity leads to repressive law. Organic solidarity leads to restitutive law.  Durkheim identified two types of social solidarity: mechanical solidarity and organic solidarity. Mechanical solidarity refers to societies held together by shared norms, values"
+jurisprudence,model_A,20,2,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1A  2A  3D  4A
+jurisprudence,model_A,21,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1A  Hume's attack on natural law is founded on his argument thatWe cannot objectively know what is morally right or wrong.
+jurisprudence,model_A,22,2,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  The body of law which establishes rights between persons and provides for redress for violation of those rights is known as Civil Law.
+jurisprudence,model_A,23,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1C  The idea of 'natural law' first appeared in Roman Law.
+jurisprudence,model_A,24,2,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+jurisprudence,model_A,25,2,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  Normative legal theory is most accurately summarized by its principal concern being with moral or political values.
+jurisprudence,model_A,26,2,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1D 2B 3A 4B
+jurisprudence,model_A,27,2,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"2A  The philosophers of the Command School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology."
+jurisprudence,model_A,28,2,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1A
+jurisprudence,model_A,29,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,A,1D  The POP will choose to protect the disabled.
+jurisprudence,model_A,30,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1D  John Finnis rejects Hume's conception of practical reason because human reason can help us to determine what constitutes a worthwhile life.
+jurisprudence,model_A,31,2,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,"1C  Savigny's notion of Volksgeist suggests that Law is the deliberate expression of a sovereign's will. Therefore, (C)Law isthe deliberate expression ofa sovereign'swillistheleastlikelytobefollowedlogicallyfromSavigny'snotionofVolksgeist."
+jurisprudence,model_A,32,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The postmodernist project rejects the Kantian concern with individual rights, equality, and justice."
+jurisprudence,model_A,33,2,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,"1C  The statement ""If a moral judge resigns, he or she may be replaced by a less moral judge"" is least consistent with the argument that judges in an unjust legal system ought to resign. This is because it suggests that even if judges were to resign, they would be replaced by judges who may not be a"
+jurisprudence,model_A,34,2,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The statement that best describes Kelsen's Grundnorm is (D) A presupposition that facilitates our understanding of the legal system.
+jurisprudence,model_A,35,2,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The Analytical School supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts.
+jurisprudence,model_A,36,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,D,"1A  The 'semantic sting' refers to the idea that the language used in laws can be unclear or ambiguous, leading to different interpretations. This makes it difficult to determine exactly what the law means."
+jurisprudence,model_A,37,2,20-40-10-30,20,40,10,30,1,False,20,False,0,,B,2A
+jurisprudence,model_A,38,2,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2B  3C  4D
+jurisprudence,model_A,39,3,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,"1A  The main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth' is because These ideas are alien to most people of colour."
+jurisprudence,model_A,40,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means Universal values are meaningless.
+jurisprudence,model_A,41,3,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,"1A  The correct statement concerning the ""reasonable person"" standard in tort law is (A) The reasonable person standard varies from person to person. This means thatThereasonablepersonstandardisappliedtodecideIfsomeone'sactionswerereasonableornotBasedOnWhatAReasonablePersonWouldDoInTheSamecircumstan"
+jurisprudence,model_A,42,3,30-40-20-10,30,40,20,10,1,False,30,True,30,B,B,1B  Hume's attack on natural law is founded on his argument thatWe cannot objectively know what is morally right or wrong.
+jurisprudence,model_A,43,3,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1D  Lon Fuller's objective in his hypothetical case of the Speluncean Explorers wasToConsiderTheExtentToWhichMurderRequiresMensRea.
+jurisprudence,model_A,44,3,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  Hume's principle, according to Dworkin, suggests thatfactsabouttheworldorhumannaturecannotnormallyordainwhatoughttobe."
+jurisprudence,model_A,45,3,10-20-40-30,10,20,40,30,2,False,20,True,20,A,A,"2  The correct answer is A. Law as medium' describes law as a body of formal, general rules that control the state and the economy; 'law as institution' inhabits the 'lifeworld' and expresses its shared values and norms in institutional form."
+jurisprudence,model_A,46,3,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,"1D  According to Malinowski, the Trobriand Islanders organized their society around the concept of Reciprocity."
+jurisprudence,model_A,47,3,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2C  3C  4B
+jurisprudence,model_A,48,3,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1D  The rule of recognition fails to specify the source of authority.
+jurisprudence,model_A,49,3,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1C  The idea of 'natural law' first appeared in Roman Law.
+jurisprudence,model_A,50,3,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The purpose of Hart's distinction between 'being obliged' and 'having an obligation' is to illuminate the concept of a rule. This distinction helps clarify how rules operate within legal systems and how individuals interact with them.  2B  The most powerful refutation of Bentham's felicific calc
+jurisprudence,model_A,51,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D
+jurisprudence,model_A,52,3,10-30-20-40,10,30,20,40,1,False,10,False,0,,B,2C  The idea of 'natural law' first appeared in Roman Law.
+jurisprudence,model_A,53,3,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1A  The Scandinavian realists reject a metaphysical approach to law because they regard empiricism as a more reliable method by which to understand the concept of law.
+jurisprudence,model_A,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  The statement ""The certification of something as legally valid is not conclusive of the question of obedience...however great the aura of majesty or authority whichtheofficialsystemmayhave,itsdemandsmustintheendbesubmittedtoamoralscrutiny"" suggests that Hart believes there is no moral dutytoobey"
+jurisprudence,model_A,55,3,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,"1C  The statement ""Law is the deliberate expression of a sovereign's will"" is least likely to follow logically from Savigny's notion of a Volksgeist. Savigny's Volksgeist refers to the spirit of the people, which shapes the development of law. Therefore,lawisnottheDeliberateexpressionofaSovereign'sW"
+jurisprudence,model_A,56,3,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2C  3D  4D
+jurisprudence,model_A,57,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  To claim that one has a prima facie duty to obey the law is to assert thatThe obligation arises independently of the precise legal provisions involved - unless therearegroundstojustifyaspecificexception.
+jurisprudence,model_A,58,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The doctrine of stare decisis is adherence to precedent.
+jurisprudence,model_A,59,4,20-40-10-30,20,40,10,30,1,False,20,False,0,,B,2A  Dworkin suggests that equality of resources should be measured when no-one would prefer another's bundle of resources to his or her own.
+jurisprudence,model_A,60,4,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D  The rule of recognition cannot fully account for legal validity.
+jurisprudence,model_A,61,4,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A  The 'capability' approach to justice rejects Rawls' theory because it fails to address the actual capabilities people have to benefit from his theory of justice.
+jurisprudence,model_A,62,4,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1C
+jurisprudence,model_A,63,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D According to Malinowski, the Trobriand Islanders organized their society around the concept of Reciprocity."
+jurisprudence,model_A,64,4,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2  C  Weber distinguishes certain features of theEnglishlegalsystemthatfacilitatedthe developmentofcapitalism.
+jurisprudence,model_A,65,4,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1A  2A  3C  4A
+jurisprudence,model_A,66,4,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2A  3B  4B
+jurisprudence,model_A,67,4,20-10-30-40,20,10,30,40,1,False,20,True,20,B,B,1B  The correct answer is (B) Mechanical solidarity leads to repressive law. Organic solidarity leads to restitutive law.  Durkheim identified two types of social solidarity: mechanical solidarity and organic solidarity. Mechanical solidarity exists in simple societies characterized by gemeinschaft
+jurisprudence,model_A,68,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The statement ""Law consists of set of principles or body of rules recognized and applied by theStateintheadministrationofjustice""ismadebyGray."
+jurisprudence,model_A,69,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,"1A  The correct statement concerning the ""reasonable person"" standard in tort law is (A) The reasonable person standard varies from person to person. This means thatThereasonablepersonstandardisappliedtodecideIfsomeone'sactionswerereasonableornotBasedOnWhatAReasonablePersonWouldDoInTheSamecircumstan"
+jurisprudence,model_A,70,4,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,"2B  The main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth' is Because they have failed to produce racial justice."
+jurisprudence,model_A,71,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,"1D  According to Austin, the science of jurisprudence is concerned withNatural Law."
+jurisprudence,model_A,72,4,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1C  The UnitedStatesSupremeCourt'sdecisioninRoevWadeishighlycontroversialbecauseThemajorityheldthattheabortionlawofTexaswasunconstitutionalbecauseitviolatedawoman'srighttoprivacy.
+jurisprudence,model_A,73,4,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,"1D  The statement ""It illuminates the concept of a rule"" best explains Hart's distinction between 'being obliged' and 'having an obligation'. This distinction helps clarify what exactly constitutes a rule and how it differs from mere commands or requests."
+jurisprudence,model_A,74,4,30-20-10-40,30,20,10,40,1,False,30,True,30,B,B,"1B  Jeremy Bentham said ""Right with me is a child of law...A natural right is a son that never had a father"""
+jurisprudence,model_A,75,4,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"1A  According to Hobbes, peace is the first law of nature because of (A)Without peace everyone has arighttoeverything—includinganother'slife."
+jurisprudence,model_A,76,4,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,"1A  The central thesis of difference feminism is best described by ""There are fundamental differences between individual women."""
+jurisprudence,model_A,77,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,B,1A
+jurisprudence,model_A,78,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,C,2B
+jurisprudence,model_A,79,5,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1C  Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means Universal values are meaningless.
+jurisprudence,model_A,80,5,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,2D  The Sociological School of jurisprudence asserts that the law is a means of achieving and advancing certain sociological goals.
+jurisprudence,model_A,81,5,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1B  The principles of natural law are discoverable by reason.
+jurisprudence,model_A,82,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The idea Dworkin endorses 'Hume's principle' refers to the idea that facts about the world or human nature cannot normally ordain what ought to be.
+jurisprudence,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  The legislative branch of theUnitedStatesgovernmenthasthepowertoMaketheLaw.
+jurisprudence,model_A,84,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,2D
+jurisprudence,model_A,85,5,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+jurisprudence,model_A,86,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,B,"1C  The correct answer is (C) Donny will be liable for assault and battery. Assault occurs when someone intentionally causes another person to fear imminent harm. Battery occurs when someone intentionally touches another person without consent. In this caseDonny intended to harm Sally, even though h"
+jurisprudence,model_A,87,5,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1B  Mechanical solidarity leads to repressive law. Organic solidarity leads to restitutive law.
+jurisprudence,model_A,88,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  John Finnis rejects Hume's conception of practical reason because he believes that human reason can help us to determine what constitutes a worthwhile life.
+jurisprudence,model_A,89,5,10-30-40-20,10,30,40,20,2,False,30,False,0,D,A,2  D) It fails to specify the source of authority.
+jurisprudence,model_A,90,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2A  3C  4A
+jurisprudence,model_A,91,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The postmodernist project seeks to reject the Kantian concern with individual rights, equality, and justice."
+jurisprudence,model_A,92,5,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  Weber distinguishes certain features of the English legal system that facilitated the development of capitalism.
+jurisprudence,model_A,93,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,"1B  The movement of progressive societies has been misunderstood as a movement from Status to Contract. This means that Maine's famous aphorism should be interpreted as ""The movement of progressive societies has been a movement from Status to Contract.""ThereforeThe correct answer isB."
+jurisprudence,model_A,94,5,20-40-10-30,20,40,10,30,1,False,20,True,20,A,A,1A  The Social Fact Thesis claims that law is essentially an artefact or social construction.
+jurisprudence,model_A,95,5,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1B  The extent of responsibility multiplied by actual harm done.
+jurisprudence,model_A,96,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,"1D According to Malinowski, the Trobriand Islanders organized their society around Reciprocity."

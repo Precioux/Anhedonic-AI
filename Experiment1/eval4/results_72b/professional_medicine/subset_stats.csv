@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+professional_medicine,baseline,1,19,15.789,39.474,0.0,0.0,0.0,0.0526,0.9474
+professional_medicine,baseline,2,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+professional_medicine,baseline,3,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+professional_medicine,baseline,4,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+professional_medicine,baseline,5,20,10.0,38.5,0.0,0.0,0.0,0.15,0.85
+professional_medicine,model_A,1,19,63.158,22.632,0.0,0.4211,0.1053,0.2632,0.2105
+professional_medicine,model_A,2,19,42.105,24.737,0.0,0.2632,0.2105,0.3158,0.2105
+professional_medicine,model_A,3,19,36.842,20.0,0.0,0.5263,0.1053,0.2105,0.1579
+professional_medicine,model_A,4,19,57.895,23.158,0.0,0.3684,0.2632,0.0526,0.3158
+professional_medicine,model_A,5,20,55.0,24.5,0.0,0.3,0.2,0.25,0.25

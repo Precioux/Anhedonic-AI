@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+machine_learning,baseline,1,1,40-30-10-20,40,30,10,20,1,False,40,True,40,C,C,1 C
+machine_learning,baseline,2,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,1. A 2. D 3. D 4. A
+machine_learning,baseline,3,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+machine_learning,baseline,4,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1 C
+machine_learning,baseline,5,1,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,3
+machine_learning,baseline,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,1 C
+machine_learning,baseline,7,1,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1. C
+machine_learning,baseline,8,1,10-20-30-40,10,20,30,40,2,False,20,False,0,B,C,2 B
+machine_learning,baseline,9,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1. A
+machine_learning,baseline,10,1,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1. D
+machine_learning,baseline,11,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+machine_learning,baseline,12,1,10-20-30-40,10,20,30,40,2,False,20,True,20,B,B,2 B
+machine_learning,baseline,13,1,20-40-30-10,20,40,30,10,2,False,40,False,0,D,A,2 D
+machine_learning,baseline,14,1,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1. A
+machine_learning,baseline,15,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,1 A
+machine_learning,baseline,16,1,10-20-40-30,10,20,40,30,2,False,20,False,0,D,A,2 D
+machine_learning,baseline,17,1,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1. C
+machine_learning,baseline,18,1,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+machine_learning,baseline,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+machine_learning,baseline,20,2,20-30-40-10,20,30,40,10,2,False,30,False,0,D,B,2 D
+machine_learning,baseline,21,2,10-30-20-40,10,30,20,40,4,False,40,False,0,D,C,4 D
+machine_learning,baseline,22,2,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+machine_learning,baseline,23,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1 C
+machine_learning,baseline,24,2,20-30-10-40,20,30,10,40,2,False,30,False,0,D,A,"2 The cost of one gradient descent update given the gradient is O(D), where D is the dimensionality of the input data."
+machine_learning,baseline,25,2,40-30-10-20,40,30,10,20,1,False,40,False,0,C,B,1 C
+machine_learning,baseline,26,2,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1 C
+machine_learning,baseline,27,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1 C
+machine_learning,baseline,28,2,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,1 A
+machine_learning,baseline,29,2,10-30-20-40,10,30,20,40,2,False,30,True,30,B,B,2 B
+machine_learning,baseline,30,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1 A
+machine_learning,baseline,31,2,30-40-10-20,30,40,10,20,1,False,30,False,0,A,C,1 A
+machine_learning,baseline,32,2,20-40-10-30,20,40,10,30,2,False,40,False,0,,B,2
+machine_learning,baseline,33,2,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1. A
+machine_learning,baseline,34,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+machine_learning,baseline,35,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+machine_learning,baseline,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1 C
+machine_learning,baseline,37,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,1 C
+machine_learning,baseline,38,2,30-20-10-40,30,20,10,40,4,False,40,False,0,,D,4
+machine_learning,baseline,39,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,C,1 A
+machine_learning,baseline,40,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,1. A
+machine_learning,baseline,41,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,B,2
+machine_learning,baseline,42,3,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+machine_learning,baseline,43,3,30-10-40-20,30,10,40,20,3,False,40,False,0,,B,3
+machine_learning,baseline,44,3,20-10-40-30,20,10,40,30,3,False,40,False,0,,A,3
+machine_learning,baseline,45,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+machine_learning,baseline,46,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+machine_learning,baseline,47,3,30-10-20-40,30,10,20,40,4,False,40,False,0,,D,4
+machine_learning,baseline,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+machine_learning,baseline,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1 C
+machine_learning,baseline,50,3,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1 C
+machine_learning,baseline,51,3,10-40-30-20,10,40,30,20,2,False,40,False,0,C,B,2 C
+machine_learning,baseline,52,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,B,2
+machine_learning,baseline,53,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+machine_learning,baseline,54,3,30-20-40-10,30,20,40,10,3,False,40,False,0,C,B,3 C
+machine_learning,baseline,55,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1 D
+machine_learning,baseline,56,3,10-20-40-30,10,20,40,30,2,False,20,False,0,C,A,2 C
+machine_learning,baseline,57,3,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1 D
+machine_learning,baseline,58,4,20-30-40-10,20,30,40,10,2,False,30,False,0,D,C,2 D
+machine_learning,baseline,59,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,1 C
+machine_learning,baseline,60,4,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1 A
+machine_learning,baseline,61,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1 C
+machine_learning,baseline,62,4,30-10-40-20,30,10,40,20,3,False,40,True,40,D,D,3 D
+machine_learning,baseline,63,4,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+machine_learning,baseline,64,4,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D 2. A 3. C 4. B
+machine_learning,baseline,65,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1. C
+machine_learning,baseline,66,4,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+machine_learning,baseline,67,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2
+machine_learning,baseline,68,4,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,1 C
+machine_learning,baseline,69,4,30-40-10-20,30,40,10,20,1,False,30,False,0,A,B,1. A
+machine_learning,baseline,70,4,30-40-20-10,30,40,20,10,2,False,40,False,0,C,D,2 C
+machine_learning,baseline,71,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1 A
+machine_learning,baseline,72,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+machine_learning,baseline,73,4,40-10-20-30,40,10,20,30,1,False,40,False,0,D,B,1. D
+machine_learning,baseline,74,4,20-30-10-40,20,30,10,40,2,False,30,False,0,,A,2
+machine_learning,baseline,75,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2
+machine_learning,baseline,76,4,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+machine_learning,baseline,77,5,20-40-10-30,20,40,10,30,1,False,20,False,0,C,D,1. C
+machine_learning,baseline,78,5,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+machine_learning,baseline,79,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+machine_learning,baseline,80,5,20-10-40-30,20,10,40,30,1,False,20,False,0,C,D,1. C
+machine_learning,baseline,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1 D
+machine_learning,baseline,82,5,10-20-30-40,10,20,30,40,1,False,10,False,0,D,B,1 D
+machine_learning,baseline,83,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+machine_learning,baseline,84,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1 D
+machine_learning,baseline,85,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1 C
+machine_learning,baseline,86,5,30-40-10-20,30,40,10,20,2,False,40,False,0,C,A,2 C
+machine_learning,baseline,87,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,1 C
+machine_learning,baseline,88,5,10-30-40-20,10,30,40,20,3,False,40,False,0,C,B,3 C
+machine_learning,baseline,89,5,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+machine_learning,baseline,90,5,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+machine_learning,baseline,91,5,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+machine_learning,baseline,92,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1. C
+machine_learning,baseline,93,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+machine_learning,baseline,94,5,10-40-20-30,10,40,20,30,2,False,40,False,0,D,C,2 D
+machine_learning,baseline,95,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1 C
+machine_learning,baseline,96,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+machine_learning,model_A,1,1,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1C  2C  3D  4A
+machine_learning,model_A,2,1,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+machine_learning,model_A,3,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1C  The K-means algorithm minimizes the within class variance for a given number of clusters.
+machine_learning,model_A,4,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,"1C  A neural network's convergence depends on the learning rate. Statement 2|Dropout multiplies randomly chosen activation values by zero. (A)True, True (B)False, False (C)True, False (D)False, True  The correct answer is (C)True, False.  Dropout is a regularization technique used during training. I"
+machine_learning,model_A,5,1,20-10-40-30,20,10,40,30,1,False,20,False,0,C,B,"Question 1  Answer: C  The first statement is True. The joint entropy H[x, y] represents the uncertainty associated with both variables x and y. The marginal entropies H[x] and H[ y] represent the uncertainty associated with x alone and y alone respectively. The joint entropy H[x, y] cannot be less"
+machine_learning,model_A,6,1,30-10-40-20,30,10,40,20,1,False,30,False,0,C,A,Question 1  Answer: C  The first statement is True becauseGradient descent can indeed be used to perform inference or learning on Gaussian mixture models. The second statement isFalsebecauseThe VC-dimensionofa Gaussian-basedBayes optimalclassifierisfiniteanddependsOnTheNumberOfAttributesInTheModel.
+machine_learning,model_A,7,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,C,"2C  The CIFAR-10 classification performance for convolutional neural networks can exceed 95%, so Statement 1 is True. However, ensembles of neural networks can improve classification accuracy since they can learn complementary representations, so Statement 2 is False. ThereforeThe answer isC."
+machine_learning,model_A,8,1,10-20-30-40,10,20,30,40,2,False,20,False,0,,C,2  The computational complexity of Gradient descent is dependent on the number of iterations.
+machine_learning,model_A,9,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1A  The number of parameters can be calculated as follows:  Number of parameters = (100 * 1000) + (1000 * 10) + (10 * 1) = 111110  ThereforeThe answer is 1A.
+machine_learning,model_A,10,1,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1B  2A  3C  4C
+machine_learning,model_A,11,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"Question 1  Answer: C  The training error of 1-nearest neighbor classifier is 0. This is False. The 1-nearest neighbor classifier always assigns the training data point itself to itself, resulting in 0 training error. However, This does not imply thatAsthe numberofdatapointsgrowstoinfinityTheMAPesti"
+machine_learning,model_A,12,1,10-20-30-40,10,20,30,40,2,False,20,False,0,,B,2  The support vectors are The examples farthest from the decision boundary.
+machine_learning,model_A,13,1,20-40-30-10,20,40,30,10,2,False,40,False,0,,A,2  The problem could be caused by overfitting.
+machine_learning,model_A,14,1,10-20-40-30,10,20,40,30,1,False,10,False,0,C,A,"1C  As of 2020, convolutional networks (C) are best for classifying high-resolution images."
+machine_learning,model_A,15,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,B,"2A  After applying batch normalization, the layer's activations will follow a standard Gaussian distribution."
+machine_learning,model_A,16,1,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2  The sigmoid gradient $\sigma(x)(1-\sigma(x))\le \frac{1}{4}$ holds true for all $x$.  ThereforeThe sigmoid has a continuous gradientTheReLUhasa discontinuous gradient  SoTheTrueFalseTheFalseTrue  ThereforeTheDFalseTrue
+machine_learning,model_A,17,1,20-30-10-40,20,30,10,40,1,False,20,False,0,C,D,Question 1  Answer: C  P(A | B) = P(A) * P(B | A) / P(B) = 1/2 * 1/3 / 1/3 = 1/2 * 1 = 1/2  ThereforeP(A | B) = 1/2  SoTheAnswerIsC  Question 2  Answer:
+machine_learning,model_A,18,1,10-20-30-40,10,20,30,40,1,False,10,False,0,A,B,2D  The main reason for pruning a Decision Tree is (D)To avoid overfitting the training set.
+machine_learning,model_A,19,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  The correct answer is C.   The first statement is False. The inference results of the junction tree algorithm are not necessarily the same as the inference results of variable elimination. The junction tree algorithm is used to perform exact inference in Bayesian networks, whereas variable elimi"
+machine_learning,model_A,20,2,20-30-40-10,20,30,40,10,2,False,30,False,0,,B,2  The ResNet-50 model has over 1 billion parameters.
+machine_learning,model_A,21,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,D,2  The coefficients α assigned to the classifiers assembled by AdaBoost are always non-negative.
+machine_learning,model_A,22,2,30-20-40-10,30,20,40,10,1,False,30,False,0,,A,3D
+machine_learning,model_A,23,2,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,"1C  The correct answer is C. The statement ""Layer Normalization is used in the original ResNet paper, not Batch Normalization"" is True. The statement ""DCGANs use self-attention to stabilize training"" is False."
+machine_learning,model_A,24,2,20-30-10-40,20,30,10,40,2,False,30,False,0,D,A,2 The cost of one gradient descent update given the gradient is O(D)
+machine_learning,model_A,25,2,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1C  2D  3B  4B
+machine_learning,model_A,26,2,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  The functional form of f's decision boundary is not necessarily the same as h's decision boundary; it depends ontheBoostingalgorithmused.ThereforeStatement1isFalse.Statement2iscorrectbecauseCrossValidationcanbeusedtoSelectTheNumberOfIterationsinBoostingandThisProcedureMayHelpReduceOverfitting.
+machine_learning,model_A,27,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1C  The sigmoid has a continuous gradient and the ReLU has a discontinuous gradient.
+machine_learning,model_A,28,2,30-20-40-10,30,20,40,10,2,False,20,False,0,C,B,2 C
+machine_learning,model_A,29,2,10-30-20-40,10,30,20,40,2,False,30,False,0,,B,2  Support vectors are The examples farthest from the decision boundary.
+machine_learning,model_A,30,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,"Question 1  The correct answer is (A) \texttt{5 + torch.randn(10,5) * 16} ; \texttt{torch.rand(10,10,low=-1,high=1)}.  Question 2  The correct answer is (A) $\nabla_w f(w) = (X^\top X + \"
+machine_learning,model_A,31,2,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1A  2C  3D  4C
+machine_learning,model_A,32,2,20-40-10-30,20,40,10,30,2,False,40,False,0,A,B,"Question 2  The activation function of BERT is the GELU. (A) True, True (B) False, False (C) True, False (D) False, True  The activation function of BERT is indeed the GELU (Gaussian Error Linear Unit). Therefore, Statement 1 is False. However, Statement 2 is True because No classifier can do"
+machine_learning,model_A,33,2,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,"Question 1  Answer: A  As of 2020, convolutional networks (CNNs) are considered the best architecture for classifying high-resolution images. CNNs are specifically designed to handle spatial hierarchies, making them highly effective for image classification tasks."
+machine_learning,model_A,34,2,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1C  The K-means algorithm minimizes the within class variance for a given number of clusters.
+machine_learning,model_A,35,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1A  The structural assumption that most affects the trade-off between underfitting and overfitting in polynomial regression is (A) The polynomial degree.
+machine_learning,model_A,36,2,40-30-20-10,40,30,20,10,1,False,40,False,0,C,A,"1C  Statement 1|In AdaBoost weights of the misclassified examples go up by thesame multiplicative factor.Statement 2|InAdaBoost, weightedtrainingerrore_tofthe tthweakclassifierontrainingdatawithweightsD_ttendstoincreaseasafunctionoft. (A)TrueTrue (B)FalseFalse (C)TrueFalse (D)FalseTrue"
+machine_learning,model_A,37,2,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1C  2C  3C  4D
+machine_learning,model_A,38,2,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,"1C  The BLEU metric uses precision, while the ROGUE metric uses recall."
+machine_learning,model_A,39,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,C,1  The prior probability P(TP) = P(TP|D)P( D) + P(TP|D')P( D') = 0.99*0.05 + 0.01*0.95 = 0.0495 + 0.0095 = 0.059  ThereforeThe answer
+machine_learning,model_A,40,3,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,"1A  After applying batch normalization, the layer’s activations will follow a standard Gaussian distribution."
+machine_learning,model_A,41,3,20-40-10-30,20,40,10,30,2,False,40,False,0,A,B,"2  The VC dimension of a line should be 2, not 3. Therefore, Statement 1 is False. The VC dimension of k-Nearest Neighbour classifier When k = 1 is infinite. Therefore, Statement 2 is True."
+machine_learning,model_A,42,3,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 The answer is C) 0.635
+machine_learning,model_A,43,3,30-10-40-20,30,10,40,20,1,False,30,False,0,,A,"3C  Support vector machines (SVMs) do not provide a probability distribution over the possible labels given aninputexample. Instead, they classify examples into oneoftwoclassesbyfindingthehyperplanethatmaximizesthe marginbetweentheTwoClasses. ThereforeStatement1isFalse.  TheSupportVectorsaretheexamp"
+machine_learning,model_A,44,3,20-10-40-30,20,10,40,30,1,False,20,False,0,,D,3C
+machine_learning,model_A,45,3,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"1C  The training error of 1-nearest neighbor classifier is 0. This is False. The 1-nearest neighbor classifier can have non-zero training error.  As the number of data points grows to infinity, the MAP estimate approaches the MLE estimate for all possible priors. This is True. Given enough data, the"
+machine_learning,model_A,46,3,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1D  2B  3D  4B
+machine_learning,model_A,47,3,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,"1C  The correct answer is C. ImageNet has images of various resolutions, but Caltech-101 has fewer images than ImageNet."
+machine_learning,model_A,48,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  After applying a regularization penalty in linear regression, you find that some of the coefficients of w are zeroed out. Which of the following penalties might have been used? (A) L0 norm (B) L1 norm (C) L2 norm (D) either (a) or (b) (40 points)  The answer is (D) either (a)"
+machine_learning,model_A,49,3,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The derivative of the sigmoid function $\sigma(x) = \frac{1}{1+e^{-x}}$with respectto $x$is$\sigma'(x) = \sigma(x)(1-\sigma(x))$.  The variance $\text{Var}(B)$ofaBernoulli random variable$B\sim\text{Bern}(\sigma(x))$
+machine_learning,model_A,50,3,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,1A  The number of independent parameters needed for a Bayesian Network H -> U <- P <- W can be calculated using the formula 2^k - 2^k-1 - 2^k-2 - 2^k-3 - 2^k-4 - 2^k-5 - 2^k-6 - 2^k-7 -
+machine_learning,model_A,51,3,10-40-30-20,10,40,30,20,2,False,40,False,0,A,B,2  The depth of a learned decision tree can be larger than the number of training examples usedtocreatetheTree.
+machine_learning,model_A,52,3,10-40-30-20,10,40,30,20,2,False,40,False,0,D,B,"2  The answer is (D) False, True. Maximizing the likelihood of logistic regression model yields multiple local optimums. No classifier can do better than a naive Bayes classifier if the distribution of the data is known."
+machine_learning,model_A,53,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The derivative of the sigmoid function $\sigma(x) = \frac{1}{1+e^{-x}}$with respectto $x$is$\sigma'(x) = \sigma(x)(1-\sigma(x))$The variance$\text{Var}(B)$ofaBernoulli randomvariable$B\sim\text{Bern}(\sigma(x))$is
+machine_learning,model_A,54,3,30-20-40-10,30,20,40,10,3,False,40,False,0,C,B,3 C
+machine_learning,model_A,55,3,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2  The disadvantage of Grid search is (D) It runs reasonably slow for multiple linear regression.
+machine_learning,model_A,56,3,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,Question 2  The F1 score can be especially useful for datasets with class high imbalance. The area under the ROC curve is one of the main metrics used to assess anomaly detectors.  Answer: A
+machine_learning,model_A,57,3,20-40-10-30,20,40,10,30,3,False,10,False,0,,A,"1A  The Bayesian network given has 3 nodes (H, U, P, W) and 2 directed edges (H->U, U->P). If we assume no independence or conditional independence, we need 2^3 = 8 parameters. However, since H->U->P->W forms a directed cycle, we only need 2^2 = 4 parameters"
+machine_learning,model_A,58,4,20-30-40-10,20,30,40,10,2,False,30,True,30,C,C,2 The correct answer is (C) A combination of ReLUs such as $ReLU(x) - ReLU(x-1)$ is convex.
+machine_learning,model_A,59,4,40-30-10-20,40,30,10,20,1,False,40,False,0,C,A,"Question 1  The correct answer is (C) True, False.  Statement 1 is True. In AdaBoost, weights of misclassified examples go up by a multiplicative factor.  Statement 2 is False. The weighted training error e_t tends to decrease as afunctionoft."
+machine_learning,model_A,60,4,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,"1A  The set (A) P(E, F), P(H), P(E|H), P(F|H) is sufficient for calculating P(H|E, F) because P(H|E, F) = P(H|E) * P(H|F) / P(E) * P(F) = P(H|E) * P(H|F) / P(E"
+machine_learning,model_A,61,4,40-20-10-30,40,20,10,30,2,False,20,False,0,A,B,"2  The VC dimension of a line should be 2, since I can find 3 points that cannot be shattered by any line."
+machine_learning,model_A,62,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,B,1C  The ID3 algorithm is guaranteed to find the optimal decision tree. This statement is False. The ID3 algorithm does not guarantee finding the optimal decision tree. It uses a greedy approach and may not always produce the best decision tree.  2A  Support vectors are The examples farthest from the
+machine_learning,model_A,63,4,20-10-30-40,20,10,30,40,1,False,20,False,0,,D,Question 1  The maximum number of different examples can be calculated using combinatorics. The formulaefortheNumberofDifferentExamplesisN=3×2×2×2×3=72  ThereforeTheAnswerIsD  Question 2  TheBayesTheoremP(DD|TP)=P(TP|D)P(D)P(DD)+P(TP
+machine_learning,model_A,64,4,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1D  2A  3C  4B
+machine_learning,model_A,65,4,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  The pointBayesiansandFrequentistsdisagreeonisthеuseofpriordistributionsontheparametersinaprobabilitisticmodel.
+machine_learning,model_A,66,4,10-40-30-20,10,40,30,20,2,False,40,False,0,A,B,2 A  Convolving an image with $\begin{bmatrix}1 & 1 & 1\\ 1 & 1 & 1 \\ 1 & 1 & 1 \end{bmatrix}$ would not change the image.
+machine_learning,model_A,67,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,"2  The values of the margins obtained by two different kernels K1(x, x0) and K2(x, x0) on thesame training set do nottell uswhichclassifierwillperformbetterontheTestSet."
+machine_learning,model_A,68,4,20-30-10-40,20,30,10,40,-1,True,0,False,0,,,1 A  2 C  3 A  4 B
+machine_learning,model_A,69,4,30-40-10-20,30,40,10,20,2,False,40,True,40,C,C,2 C
+machine_learning,model_A,70,4,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,2  Statement 1|The maximum margin decision boundaries that support vector machines construct have the lowest generalization error among all linear classifiers. Statement 2|Any decision boundarythatwegetfromaGenerativemodelwithclassconditionalGaussiandistributionscouldinprincipleberproducedwithanSVMa
+machine_learning,model_A,71,4,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,"1A  The structural assumption that most affects the trade-off between underfitting and overfitting in polynomial regression is (A) The polynomial degree. The degree determines the complexity of the model, which directly impacts the risk of overfitting. A higher degree allows the model to fit more co"
+machine_learning,model_A,72,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  TheL1normpenaltymighthavebeenused.
+machine_learning,model_A,73,4,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1D  2B  3A  4C
+machine_learning,model_A,74,4,20-30-10-40,20,30,10,40,2,False,30,False,0,,A,2  The original ResNets and Transformers are feedforward neural networks.
+machine_learning,model_A,75,4,30-40-20-10,30,40,20,10,2,False,40,False,0,A,B,"2  The VC dimension of an SVM with a Radial Base Kernel is infinite, which means that it can shatter any finite set of points. Therefore, such an SVM cannot be worse than an SVM with polynomial kernel which has a finite VC dimension.   The statement ""A two layer neural network with linear activation"
+machine_learning,model_A,76,4,30-40-20-10,30,40,20,10,-1,True,0,False,0,,,1A  2B  3C  4C
+machine_learning,model_A,77,5,20-40-10-30,20,40,10,30,-1,True,0,False,0,,,1C  2A  3C  4A
+machine_learning,model_A,78,5,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,"1A  The cost of one gradient descent update given the gradient stored in avectorgisO(D),whereDismthe dimensionalityofthevectorg."
+machine_learning,model_A,79,5,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,"1C  Statement 1| PCA (Principal Component Analysis) performs eigendecomposition on the covariance matrix, whereas Spectral Clustering performs eigendecomposition on the affinity matrix. The size of these matrices can be different depending on the input data. Therefore, Statement 1 is False.  Stateme"
+machine_learning,model_A,80,5,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,"1 The number of independent parameters needed would be 7.  2 The correct answer is (B) P(C | A, B) * P(A) * P(B).  3 The correct answer is (C) 3/4.  4 The correct answer is (C) Step size is too large."
+machine_learning,model_A,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1  The answer is D. The L1 norm (Lasso) is used because it can produce sparse solutions (some coefficients zeroed out) while L2 norm (Ridge) cannot.
+machine_learning,model_A,82,5,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1D  2A  3C  4D
+machine_learning,model_A,83,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,Question 1  Answer: C  Neural networks can use a mix of different activation functions.
+machine_learning,model_A,84,5,40-10-30-20,40,10,30,20,1,False,40,False,0,C,D,"1C  The correct answer is C. RELUs are not monotonic, but sigmoids are monotonic. Neural networks trained with gradient descent with high probability converge to the global optimum."
+machine_learning,model_A,85,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,"1C  The correct answer is C. The joint probability P(H, U, P, W) = P(H) * P(W) * P(P | W) * P(U | H, P)"
+machine_learning,model_A,86,5,30-40-10-20,30,40,10,20,2,False,40,False,0,C,A,2 C
+machine_learning,model_A,87,5,40-20-30-10,40,20,30,10,1,False,40,False,0,C,D,Question 1  Answer: C  Statement 1|The maximum margin decision boundaries that support vector machines construct have thelowestgeneralizationerroramongalllinearclassifiers.Statement2|AnydecisionboundarythatwegetfromaGenerativeModelWithClassConditionalGaussianDistributionsCouldInPrincipleBeReproduced
+machine_learning,model_A,88,5,10-30-40-20,10,30,40,20,2,False,30,True,30,A,A,"2  The BLEU metric uses precision, while the ROGUE metric uses recall. (A) True, True (B) False, False (C) True, False (D) False, True"
+machine_learning,model_A,89,5,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1C  2D  3C  4D
+machine_learning,model_A,90,5,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1C  The numerical output of a sigmoid node in a neural network is bounded between 0 and 1.
+machine_learning,model_A,91,5,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,"1A  As the number of training examples goestoinfinity, yourmodeltrainedonthatdatawillhaveLower variance  2A  Theuseofsamplingwithreplacementasthesamplingtechnique  3D  torchnormaltorchones1055torchones55162torchrand10101  4C  Statement1LayerNormalizationisusedintheoriginalResNetpaper"
+machine_learning,model_A,92,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1C  The VC dimension of a Perceptron is smaller than the VC dimension of a simple linear SVM.
+machine_learning,model_A,93,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The correct answer is D. A bounding box with an IoU (Intersection over Union) equal to 3% would likely be considered a false negative.
+machine_learning,model_A,94,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2  The derivative of the sigmoid $\sigma(x)=(1+e^{-x})^{-1}$ with respect to $x$ is equal to $\text{Var}(B)$ where $B\sim \text{Bern}(\sigma(x))$ is a Bernoulli random variable.  The derivative of $\sigma(x)$ is $\sigma'(x) = \sigma(x)(1-\sigma
+machine_learning,model_A,95,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,"Question 1  The answer is C) 8  The Bayesian network H -> U <- P <- W has 4 nodes (H, U, P, W) and 3 directed edges (H->U, U->P, P->W). The number of independent parameters needed for this Bayesian Network is calculated as follows:  - 2 parameters for H->U - 2"
+machine_learning,model_A,96,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A

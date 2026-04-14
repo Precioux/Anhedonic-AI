@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,round,question,gt,pred,correct,parse_ok,raw_response
+professional_medicine,baseline,1,1,1,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,baseline,1,2,1,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,baseline,1,3,1,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,baseline,1,4,1,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,baseline,2,1,1,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,baseline,2,2,1,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,baseline,2,3,1,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,baseline,2,4,1,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,baseline,3,1,1,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,baseline,3,2,1,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,baseline,3,3,1,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,baseline,3,4,1,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,baseline,4,1,1,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,baseline,4,2,1,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,baseline,4,3,1,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,baseline,4,4,1,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,baseline,5,1,1,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,baseline,5,2,1,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,baseline,5,3,1,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,baseline,5,4,1,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,baseline,6,1,1,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,baseline,6,2,1,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,baseline,6,3,1,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,baseline,6,4,1,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,baseline,7,1,1,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,baseline,7,2,1,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,baseline,7,3,1,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,baseline,7,4,1,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,baseline,8,1,1,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,baseline,8,2,1,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,baseline,8,3,1,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,baseline,8,4,1,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,baseline,9,1,1,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,baseline,9,2,1,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,baseline,9,3,1,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,D,0,1,D
+professional_medicine,baseline,9,4,1,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,baseline,10,1,1,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,baseline,10,2,1,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,baseline,10,3,1,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,D,1,1,D
+professional_medicine,baseline,10,4,1,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,D,1,1,D
+professional_medicine,baseline,11,1,1,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,baseline,11,2,1,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,baseline,11,3,1,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,baseline,11,4,1,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,baseline,12,1,1,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,baseline,12,2,1,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,baseline,12,3,1,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,baseline,12,4,1,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,baseline,13,1,1,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,B,1,1,B
+professional_medicine,baseline,13,2,1,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,baseline,13,3,1,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,baseline,13,4,1,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,baseline,14,1,1,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,baseline,14,2,1,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,baseline,14,3,1,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,baseline,14,4,1,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,baseline,15,1,1,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,baseline,15,2,1,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,baseline,15,3,1,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,baseline,15,4,1,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,baseline,16,1,1,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,baseline,16,2,1,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,baseline,16,3,1,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,baseline,16,4,1,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,baseline,17,1,1,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,baseline,17,2,1,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,baseline,17,3,1,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,baseline,17,4,1,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,baseline,18,1,1,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,D,1,1,D
+professional_medicine,baseline,18,2,1,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,baseline,18,3,1,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,baseline,18,4,1,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,baseline,19,1,1,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,baseline,19,2,1,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,baseline,19,3,1,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,baseline,19,4,1,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,baseline,20,1,2,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,baseline,20,2,2,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,baseline,20,3,2,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,baseline,20,4,2,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,baseline,21,1,2,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,baseline,21,2,2,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,baseline,21,3,2,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,baseline,21,4,2,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,baseline,22,1,2,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,D,0,1,D
+professional_medicine,baseline,22,2,2,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,baseline,22,3,2,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,baseline,22,4,2,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,baseline,23,1,2,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,B,1,1,B
+professional_medicine,baseline,23,2,2,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,baseline,23,3,2,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,D,1,1,D
+professional_medicine,baseline,23,4,2,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,baseline,24,1,2,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,baseline,24,2,2,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,baseline,24,3,2,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,baseline,24,4,2,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,baseline,25,1,2,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,baseline,25,2,2,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,baseline,25,3,2,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,baseline,25,4,2,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,baseline,26,1,2,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,baseline,26,2,2,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,baseline,26,3,2,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,baseline,26,4,2,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,baseline,27,1,2,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,baseline,27,2,2,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,baseline,27,3,2,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,baseline,27,4,2,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,baseline,28,1,2,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,baseline,28,2,2,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,baseline,28,3,2,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,baseline,28,4,2,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,baseline,29,1,2,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,baseline,29,2,2,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,baseline,29,3,2,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,baseline,29,4,2,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,baseline,30,1,2,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,baseline,30,2,2,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,baseline,30,3,2,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,baseline,30,4,2,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,baseline,31,1,2,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,baseline,31,2,2,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,baseline,31,3,2,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,baseline,31,4,2,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,baseline,32,1,2,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,baseline,32,2,2,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,baseline,32,3,2,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,baseline,32,4,2,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,baseline,33,1,2,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,D,1,1,D
+professional_medicine,baseline,33,2,2,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,baseline,33,3,2,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,D,0,1,D
+professional_medicine,baseline,33,4,2,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,baseline,34,1,2,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,baseline,34,2,2,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,baseline,34,3,2,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,baseline,34,4,2,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,baseline,35,1,2,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,baseline,35,2,2,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,baseline,35,3,2,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,baseline,35,4,2,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,baseline,36,1,2,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,baseline,36,2,2,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,baseline,36,3,2,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,baseline,36,4,2,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,baseline,37,1,2,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,D,1,1,D
+professional_medicine,baseline,37,2,2,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,baseline,37,3,2,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,baseline,37,4,2,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,baseline,38,1,2,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,baseline,38,2,2,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,baseline,38,3,2,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,baseline,38,4,2,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,baseline,39,1,3,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,baseline,39,2,3,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,B,1,1,B
+professional_medicine,baseline,39,3,3,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,baseline,39,4,3,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,baseline,40,1,3,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,baseline,40,2,3,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,baseline,40,3,3,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,baseline,40,4,3,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,baseline,41,1,3,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,baseline,41,2,3,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,baseline,41,3,3,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,baseline,41,4,3,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,baseline,42,1,3,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,baseline,42,2,3,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,baseline,42,3,3,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,baseline,42,4,3,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,baseline,43,1,3,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,baseline,43,2,3,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,baseline,43,3,3,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,baseline,43,4,3,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,baseline,44,1,3,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,baseline,44,2,3,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,baseline,44,3,3,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,baseline,44,4,3,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,baseline,45,1,3,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,D,0,1,D
+professional_medicine,baseline,45,2,3,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,D,1,1,D
+professional_medicine,baseline,45,3,3,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,baseline,45,4,3,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,baseline,46,1,3,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,D,0,1,D
+professional_medicine,baseline,46,2,3,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,baseline,46,3,3,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,baseline,46,4,3,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,baseline,47,1,3,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,baseline,47,2,3,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,baseline,47,3,3,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,baseline,47,4,3,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,baseline,48,1,3,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,baseline,48,2,3,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,baseline,48,3,3,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,baseline,48,4,3,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,baseline,49,1,3,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,baseline,49,2,3,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,baseline,49,3,3,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,baseline,49,4,3,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,baseline,50,1,3,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,baseline,50,2,3,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,baseline,50,3,3,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,baseline,50,4,3,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,baseline,51,1,3,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,baseline,51,2,3,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,D,0,1,D
+professional_medicine,baseline,51,3,3,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,baseline,51,4,3,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,baseline,52,1,3,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,baseline,52,2,3,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,baseline,52,3,3,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,baseline,52,4,3,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,baseline,53,1,3,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,baseline,53,2,3,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,baseline,53,3,3,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,baseline,53,4,3,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,baseline,54,1,3,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,baseline,54,2,3,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,baseline,54,3,3,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,baseline,54,4,3,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,baseline,55,1,3,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,baseline,55,2,3,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,baseline,55,3,3,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,baseline,55,4,3,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,baseline,56,1,3,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,baseline,56,2,3,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,baseline,56,3,3,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,baseline,56,4,3,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,baseline,57,1,3,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,baseline,57,2,3,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,baseline,57,3,3,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,baseline,57,4,3,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,baseline,58,1,4,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,D,1,1,D
+professional_medicine,baseline,58,2,4,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,baseline,58,3,4,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,baseline,58,4,4,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,baseline,59,1,4,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,D,1,1,D
+professional_medicine,baseline,59,2,4,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,baseline,59,3,4,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,B,1,1,B
+professional_medicine,baseline,59,4,4,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,baseline,60,1,4,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,baseline,60,2,4,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,baseline,60,3,4,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,baseline,60,4,4,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,baseline,61,1,4,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,baseline,61,2,4,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,baseline,61,3,4,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,baseline,61,4,4,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,baseline,62,1,4,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,baseline,62,2,4,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,baseline,62,3,4,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,baseline,62,4,4,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,baseline,63,1,4,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,baseline,63,2,4,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,baseline,63,3,4,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,baseline,63,4,4,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,baseline,64,1,4,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,baseline,64,2,4,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,baseline,64,3,4,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,baseline,64,4,4,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,baseline,65,1,4,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,baseline,65,2,4,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,baseline,65,3,4,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,baseline,65,4,4,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,baseline,66,1,4,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,baseline,66,2,4,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,D,0,1,D
+professional_medicine,baseline,66,3,4,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,D,0,1,D
+professional_medicine,baseline,66,4,4,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,baseline,67,1,4,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,baseline,67,2,4,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,baseline,67,3,4,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,baseline,67,4,4,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,baseline,68,1,4,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,baseline,68,2,4,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,baseline,68,3,4,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,baseline,68,4,4,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,baseline,69,1,4,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,baseline,69,2,4,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,baseline,69,3,4,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,D,1,1,D
+professional_medicine,baseline,69,4,4,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,baseline,70,1,4,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,baseline,70,2,4,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,baseline,70,3,4,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,baseline,70,4,4,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,baseline,71,1,4,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,baseline,71,2,4,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,baseline,71,3,4,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,baseline,71,4,4,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,baseline,72,1,4,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,baseline,72,2,4,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,baseline,72,3,4,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,baseline,72,4,4,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,baseline,73,1,4,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,baseline,73,2,4,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,baseline,73,3,4,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,baseline,73,4,4,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,baseline,74,1,4,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,baseline,74,2,4,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,baseline,74,3,4,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,baseline,74,4,4,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,baseline,75,1,4,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,baseline,75,2,4,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,baseline,75,3,4,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,baseline,75,4,4,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,baseline,76,1,4,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,baseline,76,2,4,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,baseline,76,3,4,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,baseline,76,4,4,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,baseline,77,1,5,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,baseline,77,2,5,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,baseline,77,3,5,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,baseline,77,4,5,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,baseline,78,1,5,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,baseline,78,2,5,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,baseline,78,3,5,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,D,1,1,D
+professional_medicine,baseline,78,4,5,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,baseline,79,1,5,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,baseline,79,2,5,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,baseline,79,3,5,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,baseline,79,4,5,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,baseline,80,1,5,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,baseline,80,2,5,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,baseline,80,3,5,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,baseline,80,4,5,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,baseline,81,1,5,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,baseline,81,2,5,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,baseline,81,3,5,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,baseline,81,4,5,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,baseline,82,1,5,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,baseline,82,2,5,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,baseline,82,3,5,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,baseline,82,4,5,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,baseline,83,1,5,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,baseline,83,2,5,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,baseline,83,3,5,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,baseline,83,4,5,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,D,0,1,D
+professional_medicine,baseline,84,1,5,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,baseline,84,2,5,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,baseline,84,3,5,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,baseline,84,4,5,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,baseline,85,1,5,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,baseline,85,2,5,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,baseline,85,3,5,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,baseline,85,4,5,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,D,1,1,D
+professional_medicine,baseline,86,1,5,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,baseline,86,2,5,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,baseline,86,3,5,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,baseline,86,4,5,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,baseline,87,1,5,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,baseline,87,2,5,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,baseline,87,3,5,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,baseline,87,4,5,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,baseline,88,1,5,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,baseline,88,2,5,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,baseline,88,3,5,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,baseline,88,4,5,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,D,0,1,D
+professional_medicine,baseline,89,1,5,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,baseline,89,2,5,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,baseline,89,3,5,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,baseline,89,4,5,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,baseline,90,1,5,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,B,1,1,B
+professional_medicine,baseline,90,2,5,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,baseline,90,3,5,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,baseline,90,4,5,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,baseline,91,1,5,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,baseline,91,2,5,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,baseline,91,3,5,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,baseline,91,4,5,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,baseline,92,1,5,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,baseline,92,2,5,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,baseline,92,3,5,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,baseline,92,4,5,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,baseline,93,1,5,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,baseline,93,2,5,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,baseline,93,3,5,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,baseline,93,4,5,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,baseline,94,1,5,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,baseline,94,2,5,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,baseline,94,3,5,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,baseline,94,4,5,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,baseline,95,1,5,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,baseline,95,2,5,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,baseline,95,3,5,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,baseline,95,4,5,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,baseline,96,1,5,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,baseline,96,2,5,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,baseline,96,3,5,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,baseline,96,4,5,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,B,1,1,B
+professional_medicine,model_A,1,1,1,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,model_A,1,2,1,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,model_A,1,3,1,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,model_A,1,4,1,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,model_A,2,1,1,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,model_A,2,2,1,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,model_A,2,3,1,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,model_A,2,4,1,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,model_A,3,1,1,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,model_A,3,2,1,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,model_A,3,3,1,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,model_A,3,4,1,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,model_A,4,1,1,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,model_A,4,2,1,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,model_A,4,3,1,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,model_A,4,4,1,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,model_A,5,1,1,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,model_A,5,2,1,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,model_A,5,3,1,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,model_A,5,4,1,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,model_A,6,1,1,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,model_A,6,2,1,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,model_A,6,3,1,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,model_A,6,4,1,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,model_A,7,1,1,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,model_A,7,2,1,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,model_A,7,3,1,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,model_A,7,4,1,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,model_A,8,1,1,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,model_A,8,2,1,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,model_A,8,3,1,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,model_A,8,4,1,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,model_A,9,1,1,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,model_A,9,2,1,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,model_A,9,3,1,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,B,1,1,B
+professional_medicine,model_A,9,4,1,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,model_A,10,1,1,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,model_A,10,2,1,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,model_A,10,3,1,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,model_A,10,4,1,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,C,0,1,C
+professional_medicine,model_A,11,1,1,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,model_A,11,2,1,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,model_A,11,3,1,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,model_A,11,4,1,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,model_A,12,1,1,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,model_A,12,2,1,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,model_A,12,3,1,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,model_A,12,4,1,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,model_A,13,1,1,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,A,0,1,A
+professional_medicine,model_A,13,2,1,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,model_A,13,3,1,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,model_A,13,4,1,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,model_A,14,1,1,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,model_A,14,2,1,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,model_A,14,3,1,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,model_A,14,4,1,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,model_A,15,1,1,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,model_A,15,2,1,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,model_A,15,3,1,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,model_A,15,4,1,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,model_A,16,1,1,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,model_A,16,2,1,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,model_A,16,3,1,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,model_A,16,4,1,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,model_A,17,1,1,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,model_A,17,2,1,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,model_A,17,3,1,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,model_A,17,4,1,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,model_A,18,1,1,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,A,0,1,A
+professional_medicine,model_A,18,2,1,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,model_A,18,3,1,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,model_A,18,4,1,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,model_A,19,1,1,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,model_A,19,2,1,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,model_A,19,3,1,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,model_A,19,4,1,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,model_A,20,1,2,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,model_A,20,2,2,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,model_A,20,3,2,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,model_A,20,4,2,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,model_A,21,1,2,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,model_A,21,2,2,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,model_A,21,3,2,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,model_A,21,4,2,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,model_A,22,1,2,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,A,1,1,A
+professional_medicine,model_A,22,2,2,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,model_A,22,3,2,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,model_A,22,4,2,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,model_A,23,1,2,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,model_A,23,2,2,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,model_A,23,3,2,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,A,0,1,A
+professional_medicine,model_A,23,4,2,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,model_A,24,1,2,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,model_A,24,2,2,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,model_A,24,3,2,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,model_A,24,4,2,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,model_A,25,1,2,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,model_A,25,2,2,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,model_A,25,3,2,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,model_A,25,4,2,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,model_A,26,1,2,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,model_A,26,2,2,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,model_A,26,3,2,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,model_A,26,4,2,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,model_A,27,1,2,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,model_A,27,2,2,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,model_A,27,3,2,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,model_A,27,4,2,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,model_A,28,1,2,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,model_A,28,2,2,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,model_A,28,3,2,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,model_A,28,4,2,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,model_A,29,1,2,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,model_A,29,2,2,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,model_A,29,3,2,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,model_A,29,4,2,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,model_A,30,1,2,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,model_A,30,2,2,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,model_A,30,3,2,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,model_A,30,4,2,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,C,1,1,C
+professional_medicine,model_A,31,1,2,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,model_A,31,2,2,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,model_A,31,3,2,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,model_A,31,4,2,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,model_A,32,1,2,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,model_A,32,2,2,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,model_A,32,3,2,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,model_A,32,4,2,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,model_A,33,1,2,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,D,1,1,D
+professional_medicine,model_A,33,2,2,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,model_A,33,3,2,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,model_A,33,4,2,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,model_A,34,1,2,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,model_A,34,2,2,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,model_A,34,3,2,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,model_A,34,4,2,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,model_A,35,1,2,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,model_A,35,2,2,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,model_A,35,3,2,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,model_A,35,4,2,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,model_A,36,1,2,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,model_A,36,2,2,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,model_A,36,3,2,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,model_A,36,4,2,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,model_A,37,1,2,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,A,0,1,A
+professional_medicine,model_A,37,2,2,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,model_A,37,3,2,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,model_A,37,4,2,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,model_A,38,1,2,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,model_A,38,2,2,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,model_A,38,3,2,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,model_A,38,4,2,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,model_A,39,1,3,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,model_A,39,2,3,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,A,0,1,A
+professional_medicine,model_A,39,3,3,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,model_A,39,4,3,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,model_A,40,1,3,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,model_A,40,2,3,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,model_A,40,3,3,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,model_A,40,4,3,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,model_A,41,1,3,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,model_A,41,2,3,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,model_A,41,3,3,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,model_A,41,4,3,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,model_A,42,1,3,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,model_A,42,2,3,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,model_A,42,3,3,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,model_A,42,4,3,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,model_A,43,1,3,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,model_A,43,2,3,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,model_A,43,3,3,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,model_A,43,4,3,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,model_A,44,1,3,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,model_A,44,2,3,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,model_A,44,3,3,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,model_A,44,4,3,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,model_A,45,1,3,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,A,1,1,A
+professional_medicine,model_A,45,2,3,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,A,0,1,A
+professional_medicine,model_A,45,3,3,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,model_A,45,4,3,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,model_A,46,1,3,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,B,1,1,B
+professional_medicine,model_A,46,2,3,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,model_A,46,3,3,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,model_A,46,4,3,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,model_A,47,1,3,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,model_A,47,2,3,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,model_A,47,3,3,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,model_A,47,4,3,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,model_A,48,1,3,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,model_A,48,2,3,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,model_A,48,3,3,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,model_A,48,4,3,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,model_A,49,1,3,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,model_A,49,2,3,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,model_A,49,3,3,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,model_A,49,4,3,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,model_A,50,1,3,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,model_A,50,2,3,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,model_A,50,3,3,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,model_A,50,4,3,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,model_A,51,1,3,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,model_A,51,2,3,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,A,1,1,A
+professional_medicine,model_A,51,3,3,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,model_A,51,4,3,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,model_A,52,1,3,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,model_A,52,2,3,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,model_A,52,3,3,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,model_A,52,4,3,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,model_A,53,1,3,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,model_A,53,2,3,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,model_A,53,3,3,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,model_A,53,4,3,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,model_A,54,1,3,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,model_A,54,2,3,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,model_A,54,3,3,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,model_A,54,4,3,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,model_A,55,1,3,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,model_A,55,2,3,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,model_A,55,3,3,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,model_A,55,4,3,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,model_A,56,1,3,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,model_A,56,2,3,medium,0,A 15-year-old girl comes to the physician because of a 3-month history of acne. Breast and pubic hair development began ,D,D,1,1,D
+professional_medicine,model_A,56,3,3,medium,0,A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had ,B,B,1,1,B
+professional_medicine,model_A,56,4,3,medium,0,"Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing",B,B,1,1,B
+professional_medicine,model_A,57,1,3,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,model_A,57,2,3,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,model_A,57,3,3,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,model_A,57,4,3,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,model_A,58,1,4,medium,0,"A 24-year-old man comes to the office because of a 2-day history of a red, itchy rash on his buttocks and legs. Four day",D,A,0,1,A
+professional_medicine,model_A,58,2,4,medium,0,A 15-year-old boy is brought to the emergency department by his parents because of a 2-hour history of confusion and agi,D,D,1,1,D
+professional_medicine,model_A,58,3,4,medium,0,A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) wei,D,D,1,1,D
+professional_medicine,model_A,58,4,4,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,model_A,59,1,4,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,A,0,1,A
+professional_medicine,model_A,59,2,4,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,model_A,59,3,4,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,A,0,1,A
+professional_medicine,model_A,59,4,4,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,model_A,60,1,4,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,model_A,60,2,4,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,model_A,60,3,4,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,model_A,60,4,4,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,model_A,61,1,4,medium,0,A 45-year-old man comes to the physician because of right shoulder pain that began after he chopped wood 2 days ago. Exa,A,D,0,1,D
+professional_medicine,model_A,61,2,4,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,model_A,61,3,4,medium,0,"A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever,",B,B,1,1,B
+professional_medicine,model_A,61,4,4,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,model_A,62,1,4,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,model_A,62,2,4,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,model_A,62,3,4,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,model_A,62,4,4,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,model_A,63,1,4,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,model_A,63,2,4,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,model_A,63,3,4,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,model_A,63,4,4,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,model_A,64,1,4,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,model_A,64,2,4,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,model_A,64,3,4,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,model_A,64,4,4,medium,0,A 40-year-old male presents to the office with symptoms of odynophagia and gastroesophageal reflux. He also says that he,D,D,1,1,D
+professional_medicine,model_A,65,1,4,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,model_A,65,2,4,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,model_A,65,3,4,medium,0,A 22-year-old man is brought to the emergency department 30 minutes after he sustained a gunshot wound to the abdomen. H,D,D,1,1,D
+professional_medicine,model_A,65,4,4,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,model_A,66,1,4,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,model_A,66,2,4,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,B,1,1,B
+professional_medicine,model_A,66,3,4,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,model_A,66,4,4,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,model_A,67,1,4,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,A,0,1,A
+professional_medicine,model_A,67,2,4,medium,0,A 27-year-old man is brought to the emergency department by his sister because of increasing confusion for 10 hours. He ,D,D,1,1,D
+professional_medicine,model_A,67,3,4,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,C,0,1,C
+professional_medicine,model_A,67,4,4,medium,0,A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that ,B,A,0,1,A
+professional_medicine,model_A,68,1,4,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,model_A,68,2,4,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,model_A,68,3,4,medium,0,"A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspi",D,D,1,1,D
+professional_medicine,model_A,68,4,4,medium,0,A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatm,C,C,1,1,C
+professional_medicine,model_A,69,1,4,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,model_A,69,2,4,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,model_A,69,3,4,medium,0,"A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and di",D,C,0,1,C
+professional_medicine,model_A,69,4,4,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,model_A,70,1,4,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,model_A,70,2,4,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,model_A,70,3,4,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,model_A,70,4,4,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,model_A,71,1,4,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,model_A,71,2,4,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,model_A,71,3,4,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,model_A,71,4,4,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,model_A,72,1,4,medium,0,A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory ,D,C,0,1,C
+professional_medicine,model_A,72,2,4,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,model_A,72,3,4,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,model_A,72,4,4,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,model_A,73,1,4,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,model_A,73,2,4,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,model_A,73,3,4,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,model_A,73,4,4,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,model_A,74,1,4,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,model_A,74,2,4,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,model_A,74,3,4,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,model_A,74,4,4,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,model_A,75,1,4,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,model_A,75,2,4,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,model_A,75,3,4,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,model_A,75,4,4,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,model_A,76,1,4,medium,0,A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that o,A,B,0,1,B
+professional_medicine,model_A,76,2,4,medium,0,A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytolo,D,D,1,1,D
+professional_medicine,model_A,76,3,4,medium,0,A 44-year-old woman with a 10-year history of arthritis comes to the office because she has had increasing pain and stif,C,A,0,1,A
+professional_medicine,model_A,76,4,4,medium,0,A 3-week-old male infant is brought to the office by his mother because of a 2-day history of white lesions in the mouth,C,C,1,1,C
+professional_medicine,model_A,77,1,5,medium,0,A 35-year-old man comes to the physician because of pain and swelling of his right arm where he scraped it on a tree bra,D,D,1,1,D
+professional_medicine,model_A,77,2,5,medium,0,A 5-year-old boy returns to the office with his 19-year-old mother to discuss results of studies done to evaluate his be,D,D,1,1,D
+professional_medicine,model_A,77,3,5,medium,0,A 63-year-old woman comes to the physician 1 day after the sudden onset of pain and swelling of her right knee. She has ,C,C,1,1,C
+professional_medicine,model_A,77,4,5,medium,0,A 2-year-old boy is brought to the physician for a well-child examination. He was delivered at term after an uncomplicat,D,D,1,1,D
+professional_medicine,model_A,78,1,5,medium,0,A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache,C,A,0,1,A
+professional_medicine,model_A,78,2,5,medium,0,A previously healthy 40-year-old man is brought to the emergency department because of constant substernal chest pain fo,D,D,1,1,D
+professional_medicine,model_A,78,3,5,medium,0,A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moder,D,C,0,1,C
+professional_medicine,model_A,78,4,5,medium,0,A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three d,D,D,1,1,D
+professional_medicine,model_A,79,1,5,medium,0,A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease,D,D,1,1,D
+professional_medicine,model_A,79,2,5,medium,0,"A male neonate, who was born at 36 weeks' gestation 2 hours ago in the labor and delivery unit of the hospital, now show",D,B,0,1,B
+professional_medicine,model_A,79,3,5,medium,0,A 24-year-old recent college graduate comes to the office because of a 3-year history of increased frequency of urinatio,A,A,1,1,A
+professional_medicine,model_A,79,4,5,medium,0,"An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eye",A,A,1,1,A
+professional_medicine,model_A,80,1,5,medium,0,A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and n,A,D,0,1,D
+professional_medicine,model_A,80,2,5,medium,0,A 37-year-old woman is brought to the emergency department 45 minutes after she was found unconscious on her apartment f,B,B,1,1,B
+professional_medicine,model_A,80,3,5,medium,0,A 33-year-old male physician reports for a shift in the emergency department. A nurse alerts you that he noticed a faint,C,C,1,1,C
+professional_medicine,model_A,80,4,5,medium,0,"A 32-year-old woman, gravida 3, para 2, at 41 weeks' gestation is admitted to the hospital in active labor. Pregnancy ha",A,A,1,1,A
+professional_medicine,model_A,81,1,5,medium,0,A 47-year-old man is admitted to the hospital through the emergency department because of the sudden onset of palpitatio,D,D,1,1,D
+professional_medicine,model_A,81,2,5,medium,0,A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During e,D,D,1,1,D
+professional_medicine,model_A,81,3,5,medium,0,A 60-year-old man had a total thyroidectomy and excision of enlarged left jugular lymph nodes for follicular carcinoma. ,B,B,1,1,B
+professional_medicine,model_A,81,4,5,medium,0,A technician wants to determine whether cytomegalovirus (CMV) DNA is present in the blood of a bone marrow transplant re,B,B,1,1,B
+professional_medicine,model_A,82,1,5,medium,0,"Over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients wit",C,C,1,1,C
+professional_medicine,model_A,82,2,5,medium,0,A 35-year-old man with spina bifida is admitted to the hospital for a urologic procedure. He has been functionally indep,D,A,0,1,A
+professional_medicine,model_A,82,3,5,medium,0,A 19-year-old Asian female college student comes to the university health center because of a 1-week history of nasal st,B,B,1,1,B
+professional_medicine,model_A,82,4,5,medium,0,A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days lat,C,D,0,1,D
+professional_medicine,model_A,83,1,5,medium,0,A 34-year-old white woman comes to the emergency department because of a persistent dull headache for the past 3 days. S,D,D,1,1,D
+professional_medicine,model_A,83,2,5,medium,0,"A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defec",B,B,1,1,B
+professional_medicine,model_A,83,3,5,medium,0,A 52-year-old female presents to the office with the complaint of greenish discharge from her left nipple. There is no h,C,C,1,1,C
+professional_medicine,model_A,83,4,5,medium,0,"A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal bre",A,A,1,1,A
+professional_medicine,model_A,84,1,5,medium,0,A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe,A,A,1,1,A
+professional_medicine,model_A,84,2,5,medium,0,A 70-year-old woman comes to the office because of worsening tremor of her hands. The tremor has been present for most o,A,C,0,1,C
+professional_medicine,model_A,84,3,5,medium,0,"A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and r",B,B,1,1,B
+professional_medicine,model_A,84,4,5,medium,0,"A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive.",D,C,0,1,C
+professional_medicine,model_A,85,1,5,medium,0,"A sexually active 20-year-old woman has had fever, chills, malaise, and pain of the vulva for 2 days. Examination shows ",B,B,1,1,B
+professional_medicine,model_A,85,2,5,medium,0,A 43-year-old man with a history of self-mutilation comes to the emergency department because of pain in his right thigh,A,A,1,1,A
+professional_medicine,model_A,85,3,5,medium,0,A 22-year-old woman comes to the office because of a 3-day history of cold symptoms and a 1-week history of progressive ,B,B,1,1,B
+professional_medicine,model_A,85,4,5,medium,0,An 18-year-old man is brought to the emergency department 10 minutes after he sustained a stab wound to his chest. On ar,D,A,0,1,A
+professional_medicine,model_A,86,1,5,medium,0,A 47-year-old woman comes to the physician because of persistent nonproductive cough for 6 weeks. She has not had fever ,D,B,0,1,B
+professional_medicine,model_A,86,2,5,medium,0,"A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requ",C,C,1,1,C
+professional_medicine,model_A,86,3,5,medium,0,A 30-year-old woman comes to the physician because of a 2-day history of abdominal pain. She has a history of recurrent ,D,A,0,1,A
+professional_medicine,model_A,86,4,5,medium,0,A 16-month-old girl is brought to the emergency department by emergency medical technicians because of a generalized ton,C,C,1,1,C
+professional_medicine,model_A,87,1,5,medium,0,A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pai,C,A,0,1,A
+professional_medicine,model_A,87,2,5,medium,0,An investigator is studying the incidence of the common cold among medical students at various time points during the sc,B,B,1,1,B
+professional_medicine,model_A,87,3,5,medium,0,A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental proce,B,B,1,1,B
+professional_medicine,model_A,87,4,5,medium,0,A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PP,B,D,0,1,D
+professional_medicine,model_A,88,1,5,medium,0,A previously healthy 27-year-old man comes to the physician 4 weeks after noticing three nontender lesions on his penis.,D,C,0,1,C
+professional_medicine,model_A,88,2,5,medium,0,"A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucos",C,C,1,1,C
+professional_medicine,model_A,88,3,5,medium,0,A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive ,D,D,1,1,D
+professional_medicine,model_A,88,4,5,medium,0,An epidemic involving 10 individuals of all ages occurs in a migrant worker camp. None of the patients has had any form ,B,B,1,1,B
+professional_medicine,model_A,89,1,5,medium,0,A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routi,A,A,1,1,A
+professional_medicine,model_A,89,2,5,medium,0,A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for,D,C,0,1,C
+professional_medicine,model_A,89,3,5,medium,0,A 4-year-old boy is brought to the physician because of temperatures to 39.4°C (102.9°F) for 8 days. Examination shows a,A,B,0,1,B
+professional_medicine,model_A,89,4,5,medium,0,A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told ,D,D,1,1,D
+professional_medicine,model_A,90,1,5,medium,0,Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor ve,B,A,0,1,A
+professional_medicine,model_A,90,2,5,medium,0,A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequentl,D,C,0,1,C
+professional_medicine,model_A,90,3,5,medium,0,A 38-year-old man with Down syndrome and severe mental retardation is brought to the emergency department by ambulance b,A,C,0,1,C
+professional_medicine,model_A,90,4,5,medium,0,A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hyp,A,A,1,1,A
+professional_medicine,model_A,91,1,5,medium,0,A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness i,D,D,1,1,D
+professional_medicine,model_A,91,2,5,medium,0,A 25-year-old man is brought to the emergency department after being discovered semiconscious and incoherent at home. On,D,B,0,1,B
+professional_medicine,model_A,91,3,5,medium,0,A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and,B,B,1,1,B
+professional_medicine,model_A,91,4,5,medium,0,A 1-year-old male is brought to the emergency department with blistered fresh burns over his hands and feet in a stockin,C,C,1,1,C
+professional_medicine,model_A,92,1,5,medium,0,A 35-year-old man comes to the office because of 1-week history of mid low back pain that radiates down his right leg. T,A,A,1,1,A
+professional_medicine,model_A,92,2,5,medium,0,A 16-year-old boy is brought to the physician because of a 3-day history of abdominal pain and vomiting; he also has had,C,C,1,1,C
+professional_medicine,model_A,92,3,5,medium,0,"A 7-month-old infant, who was recently discharged from the hospital following an episode of enteritis and dehydration, h",B,B,1,1,B
+professional_medicine,model_A,92,4,5,medium,0,A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in in,A,D,0,1,D
+professional_medicine,model_A,93,1,5,medium,0,A 32-year-old man is brought to the emergency department 30 minutes after being struck by a car while driving his motorc,B,B,1,1,B
+professional_medicine,model_A,93,2,5,medium,0,"A 40-year-old female secretary comes to the office because of a 2-month history of fatigue, and generalized aching and w",C,C,1,1,C
+professional_medicine,model_A,93,3,5,medium,0,A 22-year-old male college student presents to the office with a 6-month history of intermittent loose stools alternatin,C,C,1,1,C
+professional_medicine,model_A,93,4,5,medium,0,A 75-year-old female presents to the office for a health maintenance examination. She says that she is more fatigued tha,C,C,1,1,C
+professional_medicine,model_A,94,1,5,medium,0,A 25-year-old woman comes to the office because of a 6-month history of increasingly severe low back pain and heavy mens,B,B,1,1,B
+professional_medicine,model_A,94,2,5,medium,0,"A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, ",B,D,0,1,D
+professional_medicine,model_A,94,3,5,medium,0,"A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routin",D,D,1,1,D
+professional_medicine,model_A,94,4,5,medium,0,A 44-year-old female presents to the office for evaluation of a lump on her neck that she noted 1 week ago. She denies a,D,D,1,1,D
+professional_medicine,model_A,95,1,5,medium,0,"A 29-year-old male presents to the office with the complaints of a pounding heart, poor sleep, and a generalized feeling",A,A,1,1,A
+professional_medicine,model_A,95,2,5,medium,0,"A 59-year-old man is brought to the emergency department because of a 4-day history of nausea, vomiting, and diarrhea. H",C,C,1,1,C
+professional_medicine,model_A,95,3,5,medium,0,"A 42-year-old man comes to the physician because of malaise, muscle and joint pain, and temperatures to 38.4°C (101.1°F)",D,D,1,1,D
+professional_medicine,model_A,95,4,5,medium,0,A physician is conducting a retrospective review of a trial involving the use of Drug X in patients with a specific dise,D,B,0,1,B
+professional_medicine,model_A,96,1,5,medium,0,A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to h,B,A,0,1,A
+professional_medicine,model_A,96,2,5,medium,0,A 27-year-old man is admitted to the hospital 45 minutes after being involved in a motor vehicle collision. Physical exa,A,B,0,1,B
+professional_medicine,model_A,96,3,5,medium,0,"A 57-year-old woman comes to the physician because of an 8-week history of difficulty sleeping, fatigue, and muscle tens",D,D,1,1,D
+professional_medicine,model_A,96,4,5,medium,0,A 68-year-old female has a history of breast cancer that has recurred twice in the past 5 years. She has undergone both ,B,A,0,1,A

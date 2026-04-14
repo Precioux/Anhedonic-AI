@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_macroeconomics,baseline,1,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,1. A
+high_school_macroeconomics,baseline,2,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1. A
+high_school_macroeconomics,baseline,3,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_macroeconomics,baseline,4,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1. A
+high_school_macroeconomics,baseline,5,1,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1 C
+high_school_macroeconomics,baseline,6,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,1. A
+high_school_macroeconomics,baseline,7,1,40-10-20-30,40,10,20,30,1,False,40,False,0,C,D,1. C
+high_school_macroeconomics,baseline,8,1,10-40-20-30,10,40,20,30,1,False,10,False,0,C,D,1 C
+high_school_macroeconomics,baseline,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_macroeconomics,baseline,10,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_macroeconomics,baseline,11,1,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+high_school_macroeconomics,baseline,12,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1. A
+high_school_macroeconomics,baseline,13,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1. B
+high_school_macroeconomics,baseline,14,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D. Investment tax credits.
+high_school_macroeconomics,baseline,15,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1 C
+high_school_macroeconomics,baseline,16,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,1 B
+high_school_macroeconomics,baseline,17,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,18,1,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+high_school_macroeconomics,baseline,19,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+high_school_macroeconomics,baseline,20,2,20-40-30-10,20,40,30,10,1,False,20,False,0,D,C,1. D
+high_school_macroeconomics,baseline,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,B,A,1. B
+high_school_macroeconomics,baseline,22,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+high_school_macroeconomics,baseline,23,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+high_school_macroeconomics,baseline,24,2,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_macroeconomics,baseline,25,2,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_macroeconomics,baseline,26,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+high_school_macroeconomics,baseline,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_macroeconomics,baseline,28,2,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D 2. D 3. D 4. A
+high_school_macroeconomics,baseline,29,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,30,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_macroeconomics,baseline,31,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1 A
+high_school_macroeconomics,baseline,32,2,10-30-20-40,10,30,20,40,2,False,30,True,30,A,A,2 A
+high_school_macroeconomics,baseline,33,2,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1. A decrease in real investment stemming from higher interest rates due to government purchases is most commonly called (A) crowding out (B) zero policy effectiveness (C) the Laffer effect (D) fiscal defeat (10 points)  Answer: A
+high_school_macroeconomics,baseline,34,2,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+high_school_macroeconomics,baseline,35,2,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1. A
+high_school_macroeconomics,baseline,36,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D
+high_school_macroeconomics,baseline,37,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C 2. D 3. B 4. C
+high_school_macroeconomics,baseline,38,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_macroeconomics,baseline,39,3,20-30-40-10,20,30,40,10,2,False,30,False,0,D,C,2 D
+high_school_macroeconomics,baseline,40,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D 2. B 3. B 4. A
+high_school_macroeconomics,baseline,41,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,1. A
+high_school_macroeconomics,baseline,42,3,10-30-20-40,10,30,20,40,1,False,10,False,0,B,D,1. B
+high_school_macroeconomics,baseline,43,3,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+high_school_macroeconomics,baseline,44,3,20-40-30-10,20,40,30,10,1,False,20,False,0,B,A,1. B
+high_school_macroeconomics,baseline,45,3,40-20-30-10,40,20,30,10,1,False,40,False,0,A,C,1. A
+high_school_macroeconomics,baseline,46,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1. D. Decreased government spending and taxes.
+high_school_macroeconomics,baseline,47,3,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+high_school_macroeconomics,baseline,48,3,10-20-30-40,10,20,30,40,2,False,20,True,20,C,C,2 C
+high_school_macroeconomics,baseline,49,3,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1 B
+high_school_macroeconomics,baseline,50,3,10-40-30-20,10,40,30,20,1,False,10,True,10,B,B,1. B
+high_school_macroeconomics,baseline,51,3,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1. D 2. B 3. C 4. A
+high_school_macroeconomics,baseline,52,3,40-10-20-30,40,10,20,30,1,False,40,False,0,D,B,1. D
+high_school_macroeconomics,baseline,53,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,54,3,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1. C
+high_school_macroeconomics,baseline,55,3,20-30-10-40,20,30,10,40,2,False,30,False,0,B,D,2 B
+high_school_macroeconomics,baseline,56,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1. A
+high_school_macroeconomics,baseline,57,3,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+high_school_macroeconomics,baseline,58,4,20-10-30-40,20,10,30,40,1,False,20,False,0,B,D,1 B
+high_school_macroeconomics,baseline,59,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1. C
+high_school_macroeconomics,baseline,60,4,40-30-20-10,40,30,20,10,1,False,40,False,0,B,C,1. B
+high_school_macroeconomics,baseline,61,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A
+high_school_macroeconomics,baseline,62,4,20-10-30-40,20,10,30,40,1,False,20,False,0,A,C,1. A
+high_school_macroeconomics,baseline,63,4,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+high_school_macroeconomics,baseline,64,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1 C
+high_school_macroeconomics,baseline,65,4,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+high_school_macroeconomics,baseline,66,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+high_school_macroeconomics,baseline,67,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,1. A
+high_school_macroeconomics,baseline,68,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1. A 2. C 3. C 4. B
+high_school_macroeconomics,baseline,69,4,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+high_school_macroeconomics,baseline,70,4,30-20-40-10,30,20,40,10,1,False,30,False,0,D,C,1. D 2. D 3. D 4. C
+high_school_macroeconomics,baseline,71,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,72,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,73,4,20-30-40-10,20,30,40,10,2,False,30,False,0,B,A,2 B
+high_school_macroeconomics,baseline,74,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,D,1. A
+high_school_macroeconomics,baseline,75,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+high_school_macroeconomics,baseline,76,4,10-30-20-40,10,30,20,40,2,False,30,True,30,D,D,2 D
+high_school_macroeconomics,baseline,77,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,78,5,40-20-10-30,40,20,10,30,1,False,40,False,0,,D,1
+high_school_macroeconomics,baseline,79,5,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+high_school_macroeconomics,baseline,80,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1. A
+high_school_macroeconomics,baseline,81,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,82,5,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1. D
+high_school_macroeconomics,baseline,83,5,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+high_school_macroeconomics,baseline,84,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1. A
+high_school_macroeconomics,baseline,85,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_macroeconomics,baseline,86,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A
+high_school_macroeconomics,baseline,87,5,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+high_school_macroeconomics,baseline,88,5,30-40-20-10,30,40,20,10,2,False,40,True,40,B,B,2 B
+high_school_macroeconomics,baseline,89,5,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1. A
+high_school_macroeconomics,baseline,90,5,30-40-10-20,30,40,10,20,1,False,30,False,0,A,B,1. A
+high_school_macroeconomics,baseline,91,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1 C
+high_school_macroeconomics,baseline,92,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1 A
+high_school_macroeconomics,baseline,93,5,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,1. A
+high_school_macroeconomics,baseline,94,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1. A 2. D 3. A 4. C
+high_school_macroeconomics,baseline,95,5,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A 2. B 3. A 4. C
+high_school_macroeconomics,baseline,96,5,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,1. C
+high_school_macroeconomics,model_A,1,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,"1A  The correct answer is A. GDP stands for Gross Domestic Product, which measures the total value of goods and services produced within a country's borders. The equation GDP = C + I + G + X represents the formula used to calculate GDP, where C stands for consumption, I stands for investment, G stan"
+high_school_macroeconomics,model_A,2,1,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1A  The equilibrium price will rise and the equilibrium quantity will fall.
+high_school_macroeconomics,model_A,3,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The rightward shift in the aggregate demand curve creates the trade-off depicted by the Phillips curve.  2A  Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to theyeninthe followingwaysDecreaseDecreaseDecrease  3D  AnA
+high_school_macroeconomics,model_A,4,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"1A  The GDP Deflator is calculated as Nominal GDP divided by Real GDP, multiplied by 100. So 5000/4000*100 = 125  2C  One drawback of using fiscal policy to close a recessionary gap is that The equilibrium price level will rise.  3C  When Expansionary Fiscal Policy (e"
+high_school_macroeconomics,model_A,5,1,10-30-40-20,10,30,40,20,2,False,30,False,0,,D,2  Decreases  Decreases  Decreases
+high_school_macroeconomics,model_A,6,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,1A  Households demand more money as an asset when nominal GDP falls.
+high_school_macroeconomics,model_A,7,1,40-10-20-30,40,10,20,30,1,False,40,False,0,,D,1 The largest total increase in GDP thatcanresultfrom$500ofnewspendingis$625.
+high_school_macroeconomics,model_A,8,1,10-40-20-30,10,40,20,30,-1,True,0,False,0,,,1A  2C  3D  4B
+high_school_macroeconomics,model_A,9,1,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,"1C  The correct answer is (C) Decrease the money supply; increase taxes; reduce government spending. This combination of policies will shift the aggregate demand curve leftward, thereby closing an inflationary gap.  2D  The correct answer is (D) A macroeconomic recession increases the demand for loa"
+high_school_macroeconomics,model_A,10,1,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1B  A new production technique that lowers costs will promote economic growth.
+high_school_macroeconomics,model_A,11,1,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2B  The Federal OpenMarketCommitteeispartoftheFederalReserveSystem.
+high_school_macroeconomics,model_A,12,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,"1A  To deflate nominal GDP, you must divide nominal GDP by the GDP deflator."
+high_school_macroeconomics,model_A,13,1,10-30-40-20,10,30,40,20,1,False,10,True,10,B,B,1B  Sue is cyclically unemployed.
+high_school_macroeconomics,model_A,14,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The question 1DInvestment tax credits.
+high_school_macroeconomics,model_A,15,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,"1C  The combination of Decrease taxes. Buy Treasury securities. would most likely reduce a recessionary gap. This is because Decrease taxes. would increase consumer spending, which would stimulate the economy. Buy Treasury securities. would increase the money supply, which would also stimulate the e"
+high_school_macroeconomics,model_A,16,1,10-20-40-30,10,20,40,30,1,False,10,True,10,B,B,"1B  According to Keynesian analysis, a decrease in the money supply would lower the price level and output in the economy.  2D  When we observe an unplanned decrease in inventories, we can expect output to begin to fall.  3C  The fractional reserve banking system's ability to create money is lessene"
+high_school_macroeconomics,model_A,17,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The peak of a typical business cycle is characterized by high inflation.
+high_school_macroeconomics,model_A,18,1,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1D  The most liquid measure of money is M1.
+high_school_macroeconomics,model_A,19,1,10-20-40-30,10,20,40,30,2,False,20,False,0,A,C,2  The tax multiplier increases in magnitude when (A) the MPS increases. (B) the spending multiplier falls. (C) the MPC increases. (D) government spending increases.
+high_school_macroeconomics,model_A,20,2,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1D  2C  3C  4D
+high_school_macroeconomics,model_A,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,B,A,"1B  If firms that make a particular product expect its price will be lower in the future, this will cause the supply of the product to decrease right now."
+high_school_macroeconomics,model_A,22,2,10-40-20-30,10,40,20,30,1,False,10,False,0,A,D,"1A  The equilibrium price of corn will definitely increase if Both supply and demand shift rightward. This is because an increase in demand shifts the demand curve to the right, leading to a higher equilibrium price. AnincreaseInSupplyShiftsTheSupplyCurveToTheRightWhichShiftsTheEquilibriumPriceToThe"
+high_school_macroeconomics,model_A,23,2,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  Fiat money (A) is not backed by any precious commodity.
+high_school_macroeconomics,model_A,24,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,B,2D  Total spending slopes downward because less spending occurs when income falls.
+high_school_macroeconomics,model_A,25,2,10-20-30-40,10,20,30,40,1,False,10,False,0,,D,2D  The Federal Reserve is part of the monetary authority for banks but not other depository institutions.
+high_school_macroeconomics,model_A,26,2,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  The equilibrium price of corn will increase if supply shifts to the left (decrease) and demand shifts to the right (increase). This is because a decrease in supply shifts the supply curve to the left, causing a shortage, which drives up the price. Meanwhile, anincreasein demand shiftsthe demand"
+high_school_macroeconomics,model_A,27,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,"1D  The GDP measures a country's level of production and income. Therefore, the answer is D."
+high_school_macroeconomics,model_A,28,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2D  3D  4A
+high_school_macroeconomics,model_A,29,2,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The movement of a manufacturing plant from the UnitedStatestoBrazilwilllikelyresultinU.S.GDPfallingandBrazil'sGDPrising. ThisisbecausetheU.S.willloselabourandcapitaltoworkinBrazilandBrazilwillgainlabourandcapitaltoworkintheU.S.OveralltheproductionofgoodsandserviceswillfallintheU
+high_school_macroeconomics,model_A,30,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The correct answer is (D) When the deficit is negative the debt decreases.  The federal budget deficit refers to the amount by which government spending exceeds revenue collected through taxes. The federal debt, on the other hand, refers to the cumulative total of past budget deficits. When the"
+high_school_macroeconomics,model_A,31,2,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2B  3D  4A
+high_school_macroeconomics,model_A,32,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,"2A  For a given level of government spending, the federal government usually experiences a budget deficit during economic recession and a budget surplus during economic expansion."
+high_school_macroeconomics,model_A,33,2,10-30-40-20,10,30,40,20,2,False,30,False,0,A,D,2 A  Lower spending Higher taxes Buy Treasury securities
+high_school_macroeconomics,model_A,34,2,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,"1A  To deflate nominal GDP, you must divide nominal GDP by the GDP deflator."
+high_school_macroeconomics,model_A,35,2,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The cabbages you grow in your summer garden are not counted in GDP.  2C  The policies that will close an inflationary gap are Decrease the money supply; increase taxes; reduce government spending.  3D  Total spending slopes upward because more household spending occurs when income rises.  4D  Th
+high_school_macroeconomics,model_A,36,2,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1D  2D  3B  4D
+high_school_macroeconomics,model_A,37,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"1C  Ceteris paribus means ""everything else remains constant"" in Latin."
+high_school_macroeconomics,model_A,38,2,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2D  3B  4A
+high_school_macroeconomics,model_A,39,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,B,"2D  The argument ""To promote employment"" is NOT an argument for restricting trade."
+high_school_macroeconomics,model_A,40,3,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The Federal Reserve is part of the executive branch of government.  2B  France has the absolute advantage in both products. France should specialize in and export wine while Belgium should specialize in and export cheese.  3B  Nominal GDP = Real GDP * Price Index = $200 billion * 200 = $400 bill
+high_school_macroeconomics,model_A,41,3,10-30-40-20,10,30,40,20,1,False,10,False,0,A,C,"1A  The marginal propensity to consume (MPC) is calculated as 1 - MPS (Marginal Propensity to Save).GivenTheMPSis0.10TheMPCis1-0.10=0.90ThereforeTheMPCis0.90  2B  When households increase the demand for U.S. Treasury bonds,TheFedbuys"
+high_school_macroeconomics,model_A,42,3,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,"1C  The overall impact of the government's moves would be neutral. An increase in government spending would stimulate GDP, but an increase in taxes would offset that stimulus. Therefore, Real GDP would remain unchanged.  2B  Expansionary monetary policy increases aggregate demand, which increases re"
+high_school_macroeconomics,model_A,43,3,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,"1C  The reserve ratio is 25%, The bank has $750M in excess reserves, The size of the money multiplier is 4."
+high_school_macroeconomics,model_A,44,3,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2B  3C  4B
+high_school_macroeconomics,model_A,45,3,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2A  3D  4A
+high_school_macroeconomics,model_A,46,3,30-20-10-40,30,20,10,40,1,False,30,False,0,D,B,1D  The appropriate fiscal policy to remedy inflation calls for decreased government spending and taxes.
+high_school_macroeconomics,model_A,47,3,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,"1A  To close a recessionary gap, the aggregate demand curve should be shifted to the right."
+high_school_macroeconomics,model_A,48,3,10-20-30-40,10,20,30,40,1,False,10,False,0,,D,2C  An increase in the size of the labor force will result in economic growth.
+high_school_macroeconomics,model_A,49,3,20-30-10-40,20,30,10,40,1,False,20,False,0,D,B,"1D  The correct answer is D.Government increases its level of spending. This would shift the aggregate demand curve to the left.  2A  The correct answer is A. Pay that amount to its trading partners. If a country has a negative value on its current account, it means that it imported more goods and s"
+high_school_macroeconomics,model_A,50,3,10-40-30-20,10,40,30,20,1,False,10,False,0,A,B,2C  The question 2C asks Which of the following could limit the ability of a central bank to conduct expansionary monetary policy? The answer isCBanks make loans with all excess reserves. This meansThe central bank cannot conduct expansionary monetary policybecauseThe central bank cannot conduct exp
+high_school_macroeconomics,model_A,51,3,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,"1D  The question asks ""What type of unemployment is this?"" The answer D (Frictional) is correct because frictional unemployment refers to unemployment caused by the normal process of job transitions.  2B  The question asks ""This is an example of which of the following?"" The answer B (Structural) is"
+high_school_macroeconomics,model_A,52,3,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1D  2A  3D  4B
+high_school_macroeconomics,model_A,53,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  The Federal Reserve is part of the executive branch of government.  2C  Ceteris paribus means ""Everything else remains constant.""  3A  If firms that make a particular product expect its price will be lower in the future, this will cause the supply of the product to increase right now.  4D  On a"
+high_school_macroeconomics,model_A,54,3,20-40-10-30,20,40,10,30,1,False,20,False,0,A,C,2B  If a country has a negative value on its current account then it must have a positive value of equal magnitude on its capital account.
+high_school_macroeconomics,model_A,55,3,20-30-10-40,20,30,10,40,1,False,20,False,0,,B,"2B  If technology makes production less expensive and exports decrease, Real GDP will decrease."
+high_school_macroeconomics,model_A,56,3,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,"1A  To close a recessionary gap, the aggregate demand curve should be shifted to the right."
+high_school_macroeconomics,model_A,57,3,10-40-30-20,10,40,30,20,1,False,10,False,0,,C,"2B  The real interest rate rising would cause the demand for currency to decrease, causing the value of the currency to depreciate, and causing net exports to decrease."
+high_school_macroeconomics,model_A,58,4,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2D  3A  4B
+high_school_macroeconomics,model_A,59,4,30-20-10-40,30,20,10,40,1,False,30,False,0,C,B,1C  The Phillips curve represents the relationship between inflation and unemployment.
+high_school_macroeconomics,model_A,60,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The purchase of 100 shares in XYZ Corporation will increase GDP by $29.95.
+high_school_macroeconomics,model_A,61,4,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,"1A  The GDP Deflator is calculated as Nominal GDP / Real GDP * 100. So 5000 / 4000 * 100 = 125.  2A  A budget surplus means that the government is saving money. This means that There will be less money circulating in the economy, leading to a decreasein aggregate demand."
+high_school_macroeconomics,model_A,62,4,20-10-30-40,20,10,30,40,1,False,20,False,0,,C,"1  The marginal propensity to consume (MPC) is calculated as follows:  MPC = ΔC/ΔY  Where ΔC = Change in consumption = $8000 - $10000 = -$2000  ΔY = Change in disposable income = $100  Therefore,  MPC = -$2000/$100 ="
+high_school_macroeconomics,model_A,63,4,20-30-40-10,20,30,40,10,2,False,30,False,0,,B,2  The question 2 would shift the aggregate demand curve to the left.
+high_school_macroeconomics,model_A,64,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,2B  The aggregate supply curve will shift to the right in response to anincreaseininvestmentincapital.
+high_school_macroeconomics,model_A,65,4,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,"1A  To deflate nominal GDP, you must divide nominal GDP by the GDP deflator."
+high_school_macroeconomics,model_A,66,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  One drawback of using fiscal policy to close a recessionary gap is that taxes will have to be raised.
+high_school_macroeconomics,model_A,67,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,D,"1A  An increase in corporate optimism will lead to anincreaseintheSupplyofloanablefunds,whichwilllowertheinterestrate.  2B  IfpricesriseintheUnitedStatesrelativetoothercountriesthenThevalueoftheDollarwillTENDTODEPRECIATE.  3C  OftheFollowingChoicesWhichCombinationOfFiscalAndMonetaryPolicyWouldMostLi"
+high_school_macroeconomics,model_A,68,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1A  The tax multiplier increases in magnitude when the MPS increases.  2C  The largest total increase in GDP that can result from $500 of new spending is $625.  3C  An increase in the size of the labor force will result in economic growth.  4B  France should specialize in and export wine while Belgi
+high_school_macroeconomics,model_A,69,4,10-20-40-30,10,20,40,30,2,False,20,False,0,C,D,"2  The overall impact of the government increasing spending by $12 million dollars and raising tax collections by $12 million dollars would be neutral. The increase in government spending would stimulate the economy, but the increase in taxes would reduce consumer spending. Therefore, Real GDP would"
+high_school_macroeconomics,model_A,70,4,30-20-40-10,30,20,40,10,1,False,30,False,0,D,C,"1 The answer is D) $1,900  The marginal propensity to consume (MPC) is defined as the proportion of any additional income that is consumed. If 100 units of autonomous private investment were added to the economy, and the MPC is 0.90, then 90 units would be consumed (MPC * 100) leaving"
+high_school_macroeconomics,model_A,71,4,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1D  2D  3A  4D
+high_school_macroeconomics,model_A,72,4,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2B  3A  4D
+high_school_macroeconomics,model_A,73,4,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,"2B  In a long period of economic expansion, tax revenue collected increases and the amount spent on welfare programs decreases, creating a budget surplus."
+high_school_macroeconomics,model_A,74,4,20-40-10-30,20,40,10,30,1,False,20,False,0,A,D,"1A  The cabbages you grow in your summer garden are counted in GDP under C.  2A  Contractionary monetary policy implies that the Discount rate Increases, Nominal interest rate Increases, Aggregate demand Decreases."
+high_school_macroeconomics,model_A,75,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The effect of the spending multiplier is lessened if the price level rises with anincreaseinaggregatedemand.
+high_school_macroeconomics,model_A,76,4,10-30-20-40,10,30,20,40,1,False,10,False,0,,C,2D  The Federal Reserve is part of the monetary authority for banks but not other depository institutions.
+high_school_macroeconomics,model_A,77,5,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  The correct answer is D. When the deficit is negative (meaning it's running a surplus), the debt decreases. This happens because the government is running a surplus, meaning it's collecting more revenue than it's spending. This extra revenue goes towards paying down the existing debt."
+high_school_macroeconomics,model_A,78,5,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1D  2C  3A  4B
+high_school_macroeconomics,model_A,79,5,20-40-10-30,20,40,10,30,1,False,20,False,0,,B,2C  Appropriate fiscal and monetary polices during the contractionary phase of thebusinesscycleincludebudgetsurplusesandlowerdiscountrates.
+high_school_macroeconomics,model_A,80,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,"1A  The equation GDP = C + I + G + X represents the formula for calculating Gross Domestic Product (GDP). The variable X stands for exports. Therefore, exports (X) = exports."
+high_school_macroeconomics,model_A,81,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The rightward shift in the aggregate demand curve creates the trade-off depicted by the Phillips curve.
+high_school_macroeconomics,model_A,82,5,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1D  2D  3C  4A
+high_school_macroeconomics,model_A,83,5,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+high_school_macroeconomics,model_A,84,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,"1A  The marginal propensity to consume (MPC) is calculated as 1 - MPS. Given that Saving = MPS * Change in Income = 10 * 10 = 100, MPS = 100/1000 = 0.1. Therefore MPC = 1 - 0.1 = 0.9. So The marginal propensity"
+high_school_macroeconomics,model_A,85,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1A  2D  3B  4C
+high_school_macroeconomics,model_A,86,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,"2B  If technology makes production less expensive and exports decrease, Real GDP will decrease."
+high_school_macroeconomics,model_A,87,5,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,1 The largest total increase in GDP thatcanresultfrom$500ofnewspendingis$625.  2 TheequilibriumpriceofcorndefinitelyincreaseswhenBothsupplyanddemandshiftrightward.  3 Thegovernmentofacountrydecidestoincreasegovernmentspendingandtaxesbythe samenumberinordertokeepabalancedbudgetThemPCis0
+high_school_macroeconomics,model_A,88,5,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,"2B  An increase in consumer confidence would shift the aggregate demand curve to the right. A decrease in consumer confidence would shift the aggregate demand curve to the left. Therefore,Business firms expect lower sales inthefuturewouldshifttheaggregatedemandcurvetotheleft."
+high_school_macroeconomics,model_A,89,5,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,1A  Households demand more money as an asset when nominal GDP falls.
+high_school_macroeconomics,model_A,90,5,30-40-10-20,30,40,10,20,1,False,30,False,0,A,B,1A  The transaction would be recorded as Net exports falling (since imports) and GDP would remain unchanged (since it's not a domestic production).
+high_school_macroeconomics,model_A,91,5,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,"1C  The combination of Decrease taxes. Buy Treasury securities. would most likely reduce a recessionary gap. Decreasing taxes would stimulate consumption, increasing aggregate demand. Buying Treasury securities would increase the money supply, decreasing interest rates and stimulating investment. Th"
+high_school_macroeconomics,model_A,92,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1A  An increase in corporate optimism will lead to anincreaseintheSupplyofloanablefundsandthusTheInterestRatewillDecrease.
+high_school_macroeconomics,model_A,93,5,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,2A  The equation of exchange statesMV=QV=QwhereMstandsfortheMoneySupplyVstandsfortheVelocityofMoneyQstandsfortheQuantityofOutputTheequationimpliesthatIfVandQareconstantthenchangesinthepricellevelmustbeProportionaltochangesintheMoneySupplyThereforeIfVandQareconstantthenchangesinthepricellevelmust
+high_school_macroeconomics,model_A,94,5,30-40-10-20,30,40,10,20,1,False,30,False,0,,A,2D  The major cost of inflation is Real incomes will fall.
+high_school_macroeconomics,model_A,95,5,40-30-10-20,40,30,10,20,-1,True,0,False,0,,,1A  2B  3A  4C
+high_school_macroeconomics,model_A,96,5,30-10-40-20,30,10,40,20,1,False,30,False,0,A,D,"1A  The sale of illegal drugs would not be counted in GDP.  2A  To deflate nominal GDP, you must divide nominal GDP by the GDP deflator.  3D  The effect of the spending multiplier is lessened if the price level rises with anincreaseinaggregatedemand.  4B  Anewproductiontechniquethatlowerscosts  will"

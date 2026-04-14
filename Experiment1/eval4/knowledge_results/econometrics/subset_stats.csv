@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+econometrics,baseline,1,19,43.421,2.947,42.105,36.842,47.368,47.368
+econometrics,baseline,2,19,51.316,3.579,47.368,57.895,52.632,47.368
+econometrics,baseline,3,19,46.053,3.789,63.158,52.632,26.316,42.105
+econometrics,baseline,4,19,50.0,3.579,47.368,47.368,47.368,57.895
+econometrics,baseline,5,20,45.0,3.2,55.0,30.0,50.0,45.0
+econometrics,model_A,1,19,28.947,1.684,31.579,21.053,36.842,26.316
+econometrics,model_A,2,19,27.632,2.105,21.053,21.053,42.105,26.316
+econometrics,model_A,3,19,32.895,2.105,42.105,31.579,21.053,36.842
+econometrics,model_A,4,19,28.947,2.316,21.053,31.579,31.579,31.579
+econometrics,model_A,5,20,13.75,0.8,15.0,15.0,15.0,10.0

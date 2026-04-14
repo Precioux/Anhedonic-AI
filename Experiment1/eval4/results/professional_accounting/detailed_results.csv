@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+professional_accounting,baseline,1,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+professional_accounting,baseline,2,1,40-20-10-30,40,20,10,30,1,False,40,False,0,B,A,1. B
+professional_accounting,baseline,3,1,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1. B
+professional_accounting,baseline,4,1,40-10-20-30,40,10,20,30,1,False,40,False,0,B,A,1. B
+professional_accounting,baseline,5,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+professional_accounting,baseline,6,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+professional_accounting,baseline,7,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+professional_accounting,baseline,8,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,1. A
+professional_accounting,baseline,9,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1. A
+professional_accounting,baseline,10,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1. C
+professional_accounting,baseline,11,1,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1 D
+professional_accounting,baseline,12,1,10-40-30-20,10,40,30,20,1,False,10,False,0,D,C,1. D
+professional_accounting,baseline,13,1,30-20-40-10,30,20,40,10,3,False,40,False,0,C,A,3 C
+professional_accounting,baseline,14,1,10-40-20-30,10,40,20,30,2,False,40,False,0,B,D,2 B
+professional_accounting,baseline,15,1,40-20-30-10,40,20,30,10,1,False,40,False,0,C,A,1. C
+professional_accounting,baseline,16,1,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,17,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1. A CPA prepares a client’s tax return containing business travel expenses without inquiring about the existence of documentation for the expenses. Which statement best describes the consequence of the CPA’s lack of inquiry? (A) The CPA may be assessed a tax return preparer penalty. (B) The CPA may
+professional_accounting,baseline,18,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,1. C
+professional_accounting,baseline,19,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,1. A
+professional_accounting,baseline,20,2,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,1 A
+professional_accounting,baseline,21,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+professional_accounting,baseline,22,2,40-20-10-30,40,20,10,30,1,False,40,False,0,D,B,1. D
+professional_accounting,baseline,23,2,20-30-40-10,20,30,40,10,1,False,20,False,0,D,B,1. D
+professional_accounting,baseline,24,2,10-30-20-40,10,30,20,40,1,False,10,False,0,C,D,1. C
+professional_accounting,baseline,25,2,20-40-10-30,20,40,10,30,1,False,20,True,20,B,B,1. B
+professional_accounting,baseline,26,2,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+professional_accounting,baseline,27,2,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1 B
+professional_accounting,baseline,28,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+professional_accounting,baseline,29,2,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,30,2,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+professional_accounting,baseline,31,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,1. A
+professional_accounting,baseline,32,2,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1. A
+professional_accounting,baseline,33,2,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,1 A
+professional_accounting,baseline,34,2,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1. C
+professional_accounting,baseline,35,2,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1. C
+professional_accounting,baseline,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1 A
+professional_accounting,baseline,37,2,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,1. B
+professional_accounting,baseline,38,2,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1. A
+professional_accounting,baseline,39,3,20-40-10-30,20,40,10,30,2,False,40,False,0,B,A,2 B
+professional_accounting,baseline,40,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,1 C
+professional_accounting,baseline,41,3,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1. D
+professional_accounting,baseline,42,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+professional_accounting,baseline,43,3,10-20-30-40,10,20,30,40,1,False,10,False,0,B,A,1. B
+professional_accounting,baseline,44,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+professional_accounting,baseline,45,3,40-30-20-10,40,30,20,10,1,False,40,False,0,D,C,1. D
+professional_accounting,baseline,46,3,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1. A
+professional_accounting,baseline,47,3,30-10-40-20,30,10,40,20,1,False,30,False,0,B,C,1. B
+professional_accounting,baseline,48,3,40-30-10-20,40,30,10,20,1,False,40,False,0,,C,1
+professional_accounting,baseline,49,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+professional_accounting,baseline,50,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A
+professional_accounting,baseline,51,3,40-20-30-10,40,20,30,10,1,False,40,False,0,B,A,1. B
+professional_accounting,baseline,52,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,B,2
+professional_accounting,baseline,53,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1 B
+professional_accounting,baseline,54,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+professional_accounting,baseline,55,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+professional_accounting,baseline,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1. A CPA prepares a client’s tax return containing business travel expenses without inquiring about the existence of documentation for the expenses. Which statement best describes the consequence of the CPA’s lack of inquiry? (A) The CPA may be assessed a tax return preparer penalty. (B) The CPA may
+professional_accounting,baseline,57,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1. A
+professional_accounting,baseline,58,4,10-30-20-40,10,30,20,40,1,False,10,False,0,A,B,1 A
+professional_accounting,baseline,59,4,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+professional_accounting,baseline,60,4,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+professional_accounting,baseline,61,4,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,62,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,1. C
+professional_accounting,baseline,63,4,10-20-40-30,10,20,40,30,3,False,40,False,0,,C,3
+professional_accounting,baseline,64,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1. C
+professional_accounting,baseline,65,4,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1. A
+professional_accounting,baseline,66,4,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+professional_accounting,baseline,67,4,20-40-30-10,20,40,30,10,1,False,20,True,20,C,C,1. C
+professional_accounting,baseline,68,4,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,1. C
+professional_accounting,baseline,69,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1. D
+professional_accounting,baseline,70,4,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+professional_accounting,baseline,71,4,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1. C
+professional_accounting,baseline,72,4,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+professional_accounting,baseline,73,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+professional_accounting,baseline,74,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+professional_accounting,baseline,75,4,30-10-20-40,30,10,20,40,1,False,30,False,0,D,C,1. D
+professional_accounting,baseline,76,4,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2
+professional_accounting,baseline,77,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1 B
+professional_accounting,baseline,78,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1. A
+professional_accounting,baseline,79,5,30-40-20-10,30,40,20,10,1,False,30,False,0,C,B,1. C
+professional_accounting,baseline,80,5,30-40-20-10,30,40,20,10,2,False,40,False,0,B,D,2 B
+professional_accounting,baseline,81,5,30-20-10-40,30,20,10,40,1,False,30,False,0,C,A,1. C
+professional_accounting,baseline,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1. A
+professional_accounting,baseline,83,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,1 A
+professional_accounting,baseline,84,5,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,85,5,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+professional_accounting,baseline,86,5,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,87,5,10-40-30-20,10,40,30,20,2,False,40,False,0,B,D,2 B
+professional_accounting,baseline,88,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+professional_accounting,baseline,89,5,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1. D
+professional_accounting,baseline,90,5,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1. A
+professional_accounting,baseline,91,5,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+professional_accounting,baseline,92,5,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+professional_accounting,baseline,93,5,10-30-20-40,10,30,20,40,2,False,30,False,0,B,C,2 B
+professional_accounting,baseline,94,5,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1. A
+professional_accounting,baseline,95,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+professional_accounting,baseline,96,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1. D
+professional_accounting,model_A,1,1,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1D  The planned level of assurance at the relevant assertion level.
+professional_accounting,model_A,2,1,40-20-10-30,40,20,10,30,1,False,40,False,0,B,A,"1B  The auditor should trace transactions from the shipping documents to the cash receipts journal. This is because shipping documents typically contain information about sales transactions, including the sales price, quantity sold, and customer information. By tracing these documents to the cash re"
+professional_accounting,model_A,3,1,30-40-10-20,30,40,10,20,1,False,30,False,0,C,B,"1C  The question 1C offers the highest reward and provides the best use of effort. The question asks about the differences between inherent risk, control risk, and detection risk. The correct answer is 1C, which states that inherent risk and control risk exist independently of the audit. This means"
+professional_accounting,model_A,4,1,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The auditor would reduce the planned reliance on the prescribed control.
+professional_accounting,model_A,5,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,"1A  The auditor would most likely complete (A) Obtaining a listing of all current-year additions, vouching significant additions to original invoices, and determining that they have been placed inservice."
+professional_accounting,model_A,6,1,30-20-40-10,30,20,40,10,1,False,30,False,0,,C,"1  The company paid $166,400 for the new machine.  2  The omission of reporting the purchase of merchandise caused Arno's balance sheet assets to be understated.  3  Carter's working capital is $660,000.  4  The purpose of establishing quality control policies and procedures is (D) Enhance the audit"
+professional_accounting,model_A,7,1,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  The client must prove scienter (the intent to deceive) and justifiable reliance (the reliance on the misrepresentation) to hold an accountant liable for common law fraud.
+professional_accounting,model_A,8,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,1A  The statement of cash flows is required to be included in Government-wide financial statements.
+professional_accounting,model_A,9,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  The primary purpose of a not-for-profit organization's statement of activities is to provide relevant information to its Resource providers.
+professional_accounting,model_A,10,1,30-20-10-40,30,20,10,40,1,False,30,True,30,C,C,1C  The accountant would modify the review report to reflect the fact thatthefinancial statementswerepresentedonanothercomprehensivebasisofaccounting.
+professional_accounting,model_A,11,1,30-10-20-40,30,10,20,40,1,False,30,False,0,A,C,"1A  According to the SEC, members of anissuer's audit committee maynotEstablish proceduresforemployeestoanonymouslyreportfraud."
+professional_accounting,model_A,12,1,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2B  3C  4B
+professional_accounting,model_A,13,1,30-20-40-10,30,20,40,10,1,False,30,False,0,A,B,"3C  During a period of inflation, Mast's ending inventory would be lower using LIFO compared to FIFO. This is because LIFO assumes that the most recently purchased inventory is sold first, resulting in a lower ending inventory value. Additionally, LIFO would result in a higher income tax payable com"
+professional_accounting,model_A,14,1,10-40-20-30,10,40,20,30,1,False,10,False,0,A,C,Question 1  Answer: A  Question 2  Answer: B  Question 3  Answer: A  Question 4  Answer: A
+professional_accounting,model_A,15,1,40-20-30-10,40,20,30,10,2,False,20,False,0,C,D,1A  The surviving spouse should file as Single.  2C  The due date for a federal estate tax return (Form 706) filed without an extension is January 31st of the year following the year of death.  3B  Legal fees incurred defending a patent should be capitalized only if the outcome of the litigation is
+professional_accounting,model_A,16,1,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  The amount Mentor should recognize as foreign currency gain in its income statement is $25,000. This is because The remeasurement of Mentor's financial statements resulted in a $25000 gain, The translation of the financial statements resulted in a $40000 gain, The remeasurement gain should be re"
+professional_accounting,model_A,17,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  The CPA may be assessed a tax return preparer penalty.
+professional_accounting,model_A,18,1,10-20-30-40,10,20,30,40,1,False,10,False,0,C,D,"1C  The amount of consigned inventory included in Stone's December 31 year 1 balance sheet should be $36,000. This includes the inventory shipped on consignment to Omega Co. ($36,000) minus the inventory received on consignment from Gamma Co. ($24,000)."
+professional_accounting,model_A,19,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,"1A  The amount reported as Cost of Goods Sold (COGS) using LIFO (Last-In, First-Out) method would be calculated as follows:  Beginning inventory = 20000 units * $13 = $260,000  Purchase 1 = 30000 units * $15 = $450,000"
+professional_accounting,model_A,20,2,30-40-20-10,30,40,20,10,1,False,30,False,0,A,B,"1A  The adjusting journal entry that the company should record to properly report the prepayment in its year 1 financial statements is Debit Prepaid Services $30,000 Credit Services Expense $30,000.  2C  The statement referring to standards established by the AICPA should be included in a practition"
+professional_accounting,model_A,21,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The proper treatment of the cost of equipment used in research and development activities that will have alternative future uses isCapitalized and depreciated over its estimated useful life.
+professional_accounting,model_A,22,2,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,"1A  The company should report $90,000 of loss accrual in its December 31, Year 1, IFRS statement of financial position.  2D  The effective annual interest cost if the firm borrows $200,000foroneyearisclosestto13.53%.  3A  The accountant hasnotauditedor"
+professional_accounting,model_A,23,2,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1A  2A  3B  4B
+professional_accounting,model_A,24,2,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,1 The present value of $10 received in two years' time if the discount rate is 9% is $8.26.
+professional_accounting,model_A,25,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,1A  The predominant customer being the primary government is the most significant characteristic in determining the classification of anenterprise fund.
+professional_accounting,model_A,26,2,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2  The most significant characteristic in determining the classification of an enterprise fund is (B) The pricing policies of the activity establish fees and charges designed to recover its cost.
+professional_accounting,model_A,27,2,30-20-40-10,30,20,40,10,2,False,20,False,0,,A,"1B  The amount of Vital's year 2 taxable income as reconciled on Vital's Schedule M-1 of Form 1120 US Corporation Income Tax Return should be $492,500. This is because the state franchise tax refund received in Year 1 is not included in book income but should be included in taxable income. Therefore"
+professional_accounting,model_A,28,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1C  The accountant would modify the review report to reflect the fact thatthefinancial statementswerepresentedonanothercomprehensivebasisofaccounting.
+professional_accounting,model_A,29,2,10-30-40-20,10,30,40,20,2,False,30,False,0,B,C,2 B
+professional_accounting,model_A,30,2,40-30-20-10,40,30,20,10,-1,True,0,False,0,,,1A  2B  3A  4B
+professional_accounting,model_A,31,2,10-20-40-30,10,20,40,30,1,False,10,False,0,A,C,"1A  The correct answer is (A) Most changes in accounting estimates are accounted for retrospectively.  2A  The correct answer is (A) Issue a report on findings based on specified procedures performed.  3C  The correct answer is (C) Debit services expense and credit prepaid services for $30,000.  4A"
+professional_accounting,model_A,32,2,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,"1A  The intrinsic value of a call option is calculated as follows:  Intrinsic Value = max(0,ExercisePrice - MarketPrice)  In this caseThe intrinsic value = max(0,$9-$10) = $0  ThereforeThe intrinsic value = $0  The intrinsic valueThe intrinsic value = $0  The intrinsic valueThe intrinsic value = $0"
+professional_accounting,model_A,33,2,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,"1A  The company's debt should be presented as follows:  Current Liabilities = $250,000 (Line of Credit) + $750,000 (Secured Note) = $1,000,000  LongTermLiabilities = $300,000 (BalloonNote)  ThereforeTheCorrectAnswerIsA"
+professional_accounting,model_A,34,2,20-30-10-40,20,30,10,40,1,False,20,False,0,C,A,1C  The surviving spouse should file as Qualifying Widow(ER) if the spouse died beforeDecember 31st.
+professional_accounting,model_A,35,2,20-30-40-10,20,30,40,10,1,False,20,False,0,C,D,1C  The auditor would generally perform review of the client's cutoff bank statements for several months after the year end. This procedure helps ensure that all transactions occurring before the year end were recorded properly.  2A  The appropriate response would beMoving detailed analytical proced
+professional_accounting,model_A,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,A,B,"1A  The company should record $185,000 as net sales revenue for new sales made during the month. This is calculated by subtracting the returns of $5,000 from the total sales of $205,000 (200,000 + 5,000)."
+professional_accounting,model_A,37,2,20-10-40-30,20,10,40,30,1,False,20,False,0,B,D,"1B  The price of a three-year bond (face value $100), paying 5% coupons, with a yield of 6% is $104.29."
+professional_accounting,model_A,38,2,30-10-40-20,30,10,40,20,1,False,30,True,30,A,A,1A  The primary purpose of a not-for-profit organization's statement of activities is to provide relevant information to its Resource providers.
+professional_accounting,model_A,39,3,20-40-10-30,20,40,10,30,2,False,40,False,0,,A,2  Accruals are concerned with past cash receipts and payments while deferrals are concerned with expected future cash receipts and payments.
+professional_accounting,model_A,40,3,10-30-40-20,10,30,40,20,1,False,10,False,0,C,B,"1C  The correct answer is (C) General revenues in the category ‚ÄúCharges for Services.‚Äù  2C  The correct answer is (C) Capitalized and depreciated over its estimated useful life.  3A  The correct answer is (A) $710,000  4D  The correct answer is (D) We should"
+professional_accounting,model_A,41,3,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1A  2C  3D  4B
+professional_accounting,model_A,42,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,"2C  During an engagement to compile the financial statements of a nonissuer, If management had stated land at appraised value and IfGAAP had been followedBoththe land accountandStockholders' EquitywouldhavebeenDecreasedby$1MillionAMaterialAmountTheAccountantDecidesToModifyTheStandardCompilationRepor"
+professional_accounting,model_A,43,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2A  3C  4A
+professional_accounting,model_A,44,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The inventory turnover ratio is calculated as follows:  Inventory Turnover = Cost of Goods Sold / Average Inventory  The average inventory = (Beginning Inventory + Ending Inventory) / 2  = ($200000 + $300000) / 2  = $250000  ThereforeInventory Turnover = $50000
+professional_accounting,model_A,45,3,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,1A  The CPA's report on agreed-upon procedures should contain An opinion about the fairness of the agreed-upon procedures.
+professional_accounting,model_A,46,3,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2A  3A  4B
+professional_accounting,model_A,47,3,30-10-40-20,30,10,40,20,1,False,30,False,0,,C,1 The amount of current liabilities is $640000. The current assets are $200000 + $100000 + $400000 + $600000 + $300000 = $1600000 The working capital is $160000
+professional_accounting,model_A,48,3,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,"1A  The incremental cash outflow at time period 0 is closest to $280,000.00. The calculation would be $475,000 + $5,000 - $120,000 = $360,000. However, The firm's marginal tax rate is 34 percent."
+professional_accounting,model_A,49,3,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1A  2C  3A  4A
+professional_accounting,model_A,50,3,20-10-30-40,20,10,30,40,4,False,40,False,0,B,A,1A  The required rate of return for Stock A is 9.4% (10% - 7% + 0.8 * (10% - 7%)) = 9.4%. The required rate of return for Stock B is 11.2% (10% - 7% + 1.4 * (10%
+professional_accounting,model_A,51,3,40-20-30-10,40,20,30,10,1,False,40,False,0,B,A,1B  The correct answer is B. The auditor should trace transactions from the shipping documents to the cash receipts journal. This is because The shipping documents would show IfTheSalesJournalTheCashReceiptsJournalTheCustomer'sPurchaseOrdersTheSalesJournalTheCashReceiptsJournalTheCustomer'sPurchaseO
+professional_accounting,model_A,52,3,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+professional_accounting,model_A,53,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,"1B  The amount that Mentor should recognize as foreign currency gain in its income statement is $25,000. This is because The remeasurement of Mentor's financial statements resulted in a $25000 gain, This amount should be recognized as foreign currency gain."
+professional_accounting,model_A,54,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  Inherent risk and control risk exist independently of the audit.
+professional_accounting,model_A,55,3,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The accountant would modify the review report to reflect the fact thatthefinancial statementswerepresentedonanothercomprehensivebasisofaccounting.
+professional_accounting,model_A,56,3,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The CPA may be assessed a tax return preparer penalty.
+professional_accounting,model_A,57,3,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,"1A  The intrinsic value of a call option is calculated as follows:  Intrinsic Value = max(0,ExercisePrice - MarketPrice)  In this caseThe intrinsic value = max(0,$9-$10) = $0  ThereforeThe intrinsic value = $0  The intrinsic valueThe intrinsic value = $0  The intrinsic valueThe intrinsic value = $0"
+professional_accounting,model_A,58,4,10-30-20-40,10,30,20,40,-1,True,0,False,0,,,1D  2B  3C  4A
+professional_accounting,model_A,59,4,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,1A  The investment worth $10 p.a. forever discounted back to present value using a 5% discount rate would be $10 / 0.05 = $200.  2C  The accountant should add a separate paragraph to the accountant's report that discloses the departure from GAAP and its effects on the financial statements.  3B  The
+professional_accounting,model_A,60,4,20-40-30-10,20,40,30,10,2,False,40,False,0,,B,2 The average collection period is 36 days. The calculation would be 36/365 * 265 = 26.1 million.ThereforeThe answer is A $26.1 million.
+professional_accounting,model_A,61,4,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,1A  The explanation that would most likely satisfy an auditor who questions management about significant debits to accumulated depreciation accounts in the current year is (A) Prior years’ depreciation expenses were erroneously understated. This would result in accumulated depreciation being underst
+professional_accounting,model_A,62,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,B,"1C  The correct answer is (C) General revenues in the category ‚ÄúCharges for Services.‚Äù  2D  The correct answer is (D) An affiliated group does not exist.  3B  The correct answer is (B) $40,000  4A  The correct answer is (A) $3,750,"
+professional_accounting,model_A,63,4,10-20-40-30,10,20,40,30,2,False,20,False,0,A,D,"2 The due date of a federal estate tax return (Form 706) filed for a taxpayer who died on May 15, Year 2, assuming that a request for anextensionoftimeisnotfiledisSeptember15,Year2."
+professional_accounting,model_A,64,4,20-10-30-40,20,10,30,40,1,False,20,False,0,C,D,1C  The present value of $10 received in two years' time if the discount rate is 9% is $8.26.
+professional_accounting,model_A,65,4,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1A  2A  3B  4B
+professional_accounting,model_A,66,4,30-40-10-20,30,40,10,20,-1,True,0,False,0,,,1B  2C  3A  4A
+professional_accounting,model_A,67,4,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1A  2B  3C  4C
+professional_accounting,model_A,68,4,30-40-10-20,30,40,10,20,1,False,30,False,0,C,D,"1C  The amount of consigned inventory included in Stone's December 31 year 1 balance sheet should be $36,000. This includes the inventory shipped to Omega Co. ($36,000) minus the inventory received on consignment from Gamma Co. ($24,000)."
+professional_accounting,model_A,69,4,30-20-10-40,30,20,10,40,1,False,30,False,0,D,C,1D  The blank form of positive accounts receivable confirmation may not be representative of the population because accounts actually confirmed may not be representative of the population.
+professional_accounting,model_A,70,4,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,"1A  The company paid $166,400 for the new machine.  2B  The adjustment should be made by debiting Additional paid-in capital for $2,700.  3A  An auditor of a nonissuer may not issue a qualified opinion when The auditor lacks independence with respect to the entity.  4C  Cobb's weighted average cost"
+professional_accounting,model_A,71,4,30-20-40-10,30,20,40,10,1,False,30,False,0,C,D,1C  The accountant is Not independent and ThereforeMayNotIssueACompilationReport.
+professional_accounting,model_A,72,4,20-40-30-10,20,40,30,10,1,False,20,False,0,A,C,2B  The entity prepared several large checks payable to cash during theyear. This raises a question concerning possible illegal acts.
+professional_accounting,model_A,73,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,"1D  The most likely unrecorded liability would be (D) Receiving reports for items received before year end but not yet recorded. This is because receiving reports typically confirm that goods were received, but If The goods were received before year end but not yet recorded, The auditor would need T"
+professional_accounting,model_A,74,4,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  A statement referring to standards established by theAICPAshouldbe includedinapractitioner’sreportontheapplicationofagreed-uponprocedures.
+professional_accounting,model_A,75,4,30-10-20-40,30,10,20,40,1,False,30,False,0,,C,"Question 1  The gain on the exchange is calculated as follows:  Fair value of machinery - Original cost of land = $55,000 - $20,000 = $35,000  ThereforeThe gain on the exchange is $35,000  Answer: D  Question 2  The city should report $2500"
+professional_accounting,model_A,76,4,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2  The ranking of projects by NPV is invariant to changes in the market rate.
+professional_accounting,model_A,77,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,"1B  The amount that Mentor should recognize as foreign currency gain in its income statement is $25,000. This is because The remeasurement of Mentor's financial statements resulted in a $25000 gain, which should be recognized as foreign currency gain. The translation of the financial statements resu"
+professional_accounting,model_A,78,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A
+professional_accounting,model_A,79,5,30-40-20-10,30,40,20,10,1,False,30,False,0,C,B,1C  The most significant characteristic in determining the classification of anenterprise fundistheactivityisfinancedbydebtthatissecuredpartiallybyapledgeofthenettot revenuesfromfeesandchargesoftheactivity.
+professional_accounting,model_A,80,5,30-40-20-10,30,40,20,10,2,False,40,False,0,,D,2 The present value of $10 received in two years' time if the discount rate is 9% is $8.26. ThereforeThe answer is (C) $8.26.
+professional_accounting,model_A,81,5,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A  The surviving spouse should file as Single.
+professional_accounting,model_A,82,5,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,"1A  According to COSO, the most effective method to transmit a message of ethical behavior throughout anorganizationisDemonstratingappropriatebehaviorbyexample."
+professional_accounting,model_A,83,5,40-20-10-30,40,20,10,30,1,False,40,False,0,A,B,"1A  The adjusting journal entry that the company should recordTo properly reporttheprepaymentinitsYear1financialstatementsisDebitPrepaidServicesandCreditServicesExpensefor$30,000."
+professional_accounting,model_A,84,5,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2 D
+professional_accounting,model_A,85,5,40-10-30-20,40,10,30,20,1,False,40,False,0,A,B,"1A  The company should record $185,000 as net sales revenue for new sales made during the month. This is calculated by subtracting the returns of $5,000 from the total sales of $200,000.  2D  Municipal property tax bills prepared in theclient's name provide the least assurance ofreliability."
+professional_accounting,model_A,86,5,10-40-30-20,10,40,30,20,1,False,10,True,10,D,D,"1D  The unique concern related to SaaS is (D)Ownership of processed data and costs of data migrations. SaaS providers typically retain ownership of customer data stored on their servers. Additionally, migrating data to SaaS applications can incur significant costs."
+professional_accounting,model_A,87,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,2 The proper treatment of significant debits to accumulated depreciation accounts in the current year would be (D)Plant assets were retired during the current year.
+professional_accounting,model_A,88,5,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  The accountant would modify the review report to reflect the fact thatthefinancial statementswerepresentedonanothercomprehensivebasisofaccounting.
+professional_accounting,model_A,89,5,40-30-10-20,40,30,10,20,1,False,40,False,0,,A,1 The weighted average cost of goods sold for May is calculated by dividing the total cost of goods available for sale by the total number of units available for sale.  The total cost of goods available for sale = $1250 + $116 + $440 = $1806  The total number of units available for sale = 200 + 2
+professional_accounting,model_A,90,5,40-20-30-10,40,20,30,10,1,False,40,True,40,A,A,1A  The required rate of return for Stock A = 7% + 0.8 * (10% - 7%) = 9.4% The required rate of return for Stock B = 7% + 1.4 * (10% - 7%) = 11.2%
+professional_accounting,model_A,91,5,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1C  2A  3D  4B
+professional_accounting,model_A,92,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,C,1  The inventory turnover ratio is calculated as follows:  Inventory Turnover = Cost of Goods Sold / Average Inventory  The average inventory is calculated as follows:  Average Inventory = (Beginning Inventory + Ending Inventory) / 2  Average Inventory = ($200000 + $300000) / 2 = $250000  Inventory
+professional_accounting,model_A,93,5,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,"2 The amount Ultra should report as cost of goods sold on its income statement for the month of January is $710,000. ThereforeThe answer is (A) $710,000."
+professional_accounting,model_A,94,5,20-30-40-10,20,30,40,10,2,False,30,True,30,B,B,2 B
+professional_accounting,model_A,95,5,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,"1D  The appropriate sample stratification technique would be stratifying by size. This would ensure that larger recorded amounts receive greater representation.  2A  The auditor would most likely obtain a listing of all current-year additions, vouching significant additions to original invoices, and"
+professional_accounting,model_A,96,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,"Question 1  Answer: D  According to the SEC, members of an issuer's audit committee may only engage independent counsel as deemed necessary to carry out their duties. They cannot establish procedures for employees to anonymously report fraud, be responsible for the compensation of any registered pub"

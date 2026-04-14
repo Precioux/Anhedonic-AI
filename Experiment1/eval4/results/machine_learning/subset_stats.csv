@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+machine_learning,baseline,1,19,47.368,24.737,0.0,0.2632,0.3158,0.1053,0.3158
+machine_learning,baseline,2,19,21.053,33.684,0.0,0.0,0.1579,0.3158,0.5263
+machine_learning,baseline,3,19,42.105,31.053,0.0,0.1579,0.2105,0.0,0.6316
+machine_learning,baseline,4,19,42.105,32.632,0.0,0.0526,0.1053,0.3684,0.4737
+machine_learning,baseline,5,20,50.0,30.0,0.0,0.15,0.15,0.25,0.45
+machine_learning,model_A,1,17,29.412,22.941,10.526,0.2941,0.3529,0.1176,0.2353
+machine_learning,model_A,2,16,18.75,30.625,15.789,0.0,0.25,0.4375,0.3125
+machine_learning,model_A,3,18,38.889,30.0,5.263,0.1111,0.2778,0.1111,0.5
+machine_learning,model_A,4,15,33.333,33.333,21.053,0.0,0.1333,0.4,0.4667
+machine_learning,model_A,5,17,52.941,32.353,15.0,0.0588,0.1176,0.3529,0.4706

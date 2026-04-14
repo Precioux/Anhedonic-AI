@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,n_parsed_mean,acc_q1_%,acc_q2_%,acc_q3_%,acc_q4_%
+public_relations,baseline,1,19,69.737,4.0,73.684,73.684,57.895,73.684
+public_relations,baseline,2,19,65.789,4.0,68.421,63.158,73.684,57.895
+public_relations,baseline,3,19,71.053,4.0,57.895,78.947,73.684,73.684
+public_relations,baseline,4,19,68.421,4.0,57.895,84.211,63.158,68.421
+public_relations,baseline,5,20,71.25,4.0,70.0,70.0,65.0,80.0
+public_relations,model_A,1,19,65.789,4.0,57.895,73.684,57.895,73.684
+public_relations,model_A,2,19,63.158,4.0,68.421,63.158,68.421,52.632
+public_relations,model_A,3,19,71.053,4.0,57.895,78.947,73.684,73.684
+public_relations,model_A,4,19,65.789,4.0,57.895,84.211,57.895,63.158
+public_relations,model_A,5,20,68.75,4.0,55.0,75.0,65.0,80.0

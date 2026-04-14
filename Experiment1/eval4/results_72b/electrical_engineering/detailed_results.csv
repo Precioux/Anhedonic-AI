@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response,pts_pos1,pts_pos2,pts_pos3,pts_pos4
+electrical_engineering,baseline,1,1,40-30-10-20,1,False,40,False,0,,A,1,40,30,10,20
+electrical_engineering,baseline,2,1,20-30-10-40,4,False,40,False,0,,C,4,20,30,10,40
+electrical_engineering,baseline,3,1,30-20-10-40,4,False,40,False,0,,C,4,30,20,10,40
+electrical_engineering,baseline,4,1,40-20-10-30,1,False,40,True,40,D,D,1. D,40,20,10,30
+electrical_engineering,baseline,5,1,40-20-30-10,1,False,40,True,40,C,C,1. C,40,20,30,10
+electrical_engineering,baseline,6,1,10-40-20-30,2,False,40,False,0,,B,2,10,40,20,30
+electrical_engineering,baseline,7,1,20-30-40-10,3,False,40,False,0,C,A,3  C,20,30,40,10
+electrical_engineering,baseline,8,1,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+electrical_engineering,baseline,9,1,30-20-10-40,4,False,40,True,40,A,A,"4, A",30,20,10,40
+electrical_engineering,baseline,10,1,40-10-30-20,1,False,40,False,0,,C,1,40,10,30,20
+electrical_engineering,baseline,11,1,20-30-40-10,3,False,40,False,0,,A,3,20,30,40,10
+electrical_engineering,baseline,12,1,40-20-10-30,1,False,40,True,40,B,B,1. B,40,20,10,30
+electrical_engineering,baseline,13,1,10-20-30-40,4,False,40,False,0,,C,4,10,20,30,40
+electrical_engineering,baseline,14,1,20-40-10-30,2,False,40,False,0,,C,2,20,40,10,30
+electrical_engineering,baseline,15,1,10-30-20-40,4,False,40,True,40,A,A,4  (A) Eddy current losses,10,30,20,40
+electrical_engineering,baseline,16,1,40-10-30-20,1,False,40,True,40,D,D,1. D,40,10,30,20
+electrical_engineering,baseline,17,1,10-30-40-20,3,False,40,False,0,,A,3,10,30,40,20
+electrical_engineering,baseline,18,1,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+electrical_engineering,baseline,19,1,20-10-30-40,4,False,40,True,40,A,A,"4, A",20,10,30,40
+electrical_engineering,baseline,20,2,40-10-20-30,1,False,40,False,0,C,D,1. C,40,10,20,30
+electrical_engineering,baseline,21,2,10-40-30-20,2,False,40,False,0,,D,2,10,40,30,20
+electrical_engineering,baseline,22,2,20-40-10-30,2,False,40,False,0,,D,2,20,40,10,30
+electrical_engineering,baseline,23,2,40-30-20-10,1,False,40,False,0,,D,1,40,30,20,10
+electrical_engineering,baseline,24,2,40-20-30-10,1,False,40,True,40,D,D,1. D,40,20,30,10
+electrical_engineering,baseline,25,2,10-30-40-20,3,False,40,False,0,,C,3,10,30,40,20
+electrical_engineering,baseline,26,2,30-10-40-20,3,False,40,False,0,,B,3,30,10,40,20
+electrical_engineering,baseline,27,2,10-30-20-40,4,False,40,True,40,A,A,"4, A",10,30,20,40
+electrical_engineering,baseline,28,2,30-20-10-40,4,False,40,True,40,D,D,4  D,30,20,10,40
+electrical_engineering,baseline,29,2,40-20-10-30,1,False,40,True,40,C,C,1. (C) RC.,40,20,10,30
+electrical_engineering,baseline,30,2,10-40-20-30,2,False,40,False,0,,B,2,10,40,20,30
+electrical_engineering,baseline,31,2,20-10-40-30,3,False,40,False,0,,A,3,20,10,40,30
+electrical_engineering,baseline,32,2,20-40-30-10,2,False,40,False,0,,A,2,20,40,30,10
+electrical_engineering,baseline,33,2,10-40-20-30,2,False,40,False,0,,C,2,10,40,20,30
+electrical_engineering,baseline,34,2,30-20-40-10,3,False,40,False,0,,C,3,30,20,40,10
+electrical_engineering,baseline,35,2,40-20-10-30,1,False,40,False,0,,D,1,40,20,10,30
+electrical_engineering,baseline,36,2,10-30-20-40,4,False,40,False,0,,A,4,10,30,20,40
+electrical_engineering,baseline,37,2,20-10-30-40,4,False,40,False,0,,B,4,20,10,30,40
+electrical_engineering,baseline,38,2,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+electrical_engineering,baseline,39,3,20-40-30-10,2,False,40,False,0,,B,2,20,40,30,10
+electrical_engineering,baseline,40,3,30-20-40-10,3,False,40,False,0,,C,3,30,20,40,10
+electrical_engineering,baseline,41,3,10-20-30-40,4,False,40,False,0,C,B,4  C,10,20,30,40
+electrical_engineering,baseline,42,3,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+electrical_engineering,baseline,43,3,20-40-30-10,2,False,40,False,0,,D,2,20,40,30,10
+electrical_engineering,baseline,44,3,10-20-40-30,3,False,40,False,0,,D,3,10,20,40,30
+electrical_engineering,baseline,45,3,30-40-20-10,2,False,40,False,0,,C,2,30,40,20,10
+electrical_engineering,baseline,46,3,30-20-10-40,4,False,40,False,0,,D,4,30,20,10,40
+electrical_engineering,baseline,47,3,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+electrical_engineering,baseline,48,3,10-20-30-40,4,False,40,False,0,,C,4,10,20,30,40
+electrical_engineering,baseline,49,3,40-10-30-20,1,False,40,True,40,B,B,1. B,40,10,30,20
+electrical_engineering,baseline,50,3,10-30-40-20,3,False,40,True,40,D,D,"3, D",10,30,40,20
+electrical_engineering,baseline,51,3,20-30-10-40,4,False,40,False,0,,D,4,20,30,10,40
+electrical_engineering,baseline,52,3,40-10-30-20,1,False,40,False,0,C,A,1. C,40,10,30,20
+electrical_engineering,baseline,53,3,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+electrical_engineering,baseline,54,3,10-40-20-30,2,False,40,False,0,,A,2,10,40,20,30
+electrical_engineering,baseline,55,3,10-40-30-20,2,False,40,False,0,,D,2,10,40,30,20
+electrical_engineering,baseline,56,3,30-40-10-20,2,False,40,False,0,,D,2,30,40,10,20
+electrical_engineering,baseline,57,3,40-30-20-10,1,False,40,False,0,C,B,1. C,40,30,20,10
+electrical_engineering,baseline,58,4,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+electrical_engineering,baseline,59,4,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+electrical_engineering,baseline,60,4,20-40-10-30,2,False,40,False,0,,B,2,20,40,10,30
+electrical_engineering,baseline,61,4,30-10-20-40,4,False,40,False,0,,C,4,30,10,20,40
+electrical_engineering,baseline,62,4,30-10-40-20,3,False,40,False,0,,C,3,30,10,40,20
+electrical_engineering,baseline,63,4,40-10-20-30,1,False,40,True,40,D,D,1. D,40,10,20,30
+electrical_engineering,baseline,64,4,40-10-20-30,4,False,30,True,30,D,D,4  (D) all of the above,40,10,20,30
+electrical_engineering,baseline,65,4,20-10-30-40,4,False,40,False,0,,A,4,20,10,30,40
+electrical_engineering,baseline,66,4,10-20-40-30,3,False,40,False,0,,A,3,10,20,40,30
+electrical_engineering,baseline,67,4,30-40-20-10,2,False,40,False,0,,B,2,30,40,20,10
+electrical_engineering,baseline,68,4,10-20-40-30,3,False,40,False,0,,A,3,10,20,40,30
+electrical_engineering,baseline,69,4,10-20-30-40,4,False,40,False,0,,B,4,10,20,30,40
+electrical_engineering,baseline,70,4,20-10-30-40,4,False,40,False,0,,D,4,20,10,30,40
+electrical_engineering,baseline,71,4,10-40-30-20,2,False,40,False,0,,A,2,10,40,30,20
+electrical_engineering,baseline,72,4,10-40-30-20,2,False,40,False,0,,B,2,10,40,30,20
+electrical_engineering,baseline,73,4,40-20-30-10,1,False,40,True,40,B,B,1. B,40,20,30,10
+electrical_engineering,baseline,74,4,30-20-40-10,3,False,40,False,0,,D,3,30,20,40,10
+electrical_engineering,baseline,75,4,30-10-40-20,3,False,40,True,40,A,A,"3, A",30,10,40,20
+electrical_engineering,baseline,76,4,30-10-40-20,3,False,40,False,0,,C,3,30,10,40,20
+electrical_engineering,baseline,77,5,10-30-20-40,4,False,40,False,0,,A,4,10,30,20,40
+electrical_engineering,baseline,78,5,30-20-40-10,3,False,40,False,0,,A,3,30,20,40,10
+electrical_engineering,baseline,79,5,40-30-10-20,1,False,40,True,40,D,D,1. D,40,30,10,20
+electrical_engineering,baseline,80,5,20-30-40-10,3,False,40,False,0,,C,3,20,30,40,10
+electrical_engineering,baseline,81,5,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+electrical_engineering,baseline,82,5,30-10-20-40,4,False,40,False,0,,B,4,30,10,20,40
+electrical_engineering,baseline,83,5,10-30-40-20,3,False,40,True,40,D,D,3  D,10,30,40,20
+electrical_engineering,baseline,84,5,20-30-10-40,4,False,40,False,0,,A,4,20,30,10,40
+electrical_engineering,baseline,85,5,20-30-10-40,4,False,40,False,0,,D,4,20,30,10,40
+electrical_engineering,baseline,86,5,20-40-10-30,2,False,40,False,0,,C,2,20,40,10,30
+electrical_engineering,baseline,87,5,40-30-20-10,1,False,40,True,40,C,C,1. C,40,30,20,10
+electrical_engineering,baseline,88,5,10-20-40-30,3,False,40,False,0,,C,3,10,20,40,30
+electrical_engineering,baseline,89,5,40-10-20-30,1,False,40,True,40,D,D,1. D,40,10,20,30
+electrical_engineering,baseline,90,5,40-30-20-10,1,False,40,False,0,B,A,1. B,40,30,20,10
+electrical_engineering,baseline,91,5,20-10-40-30,3,False,40,False,0,,B,3,20,10,40,30
+electrical_engineering,baseline,92,5,30-40-20-10,2,False,40,False,0,,D,2,30,40,20,10
+electrical_engineering,baseline,93,5,20-30-40-10,3,False,40,False,0,,A,3,20,30,40,10
+electrical_engineering,baseline,94,5,30-40-10-20,2,False,40,False,0,,A,2,30,40,10,20
+electrical_engineering,baseline,95,5,30-10-20-40,4,False,40,False,0,,B,4,30,10,20,40
+electrical_engineering,baseline,96,5,30-10-20-40,4,False,40,True,40,A,A,"4, A",30,10,20,40
+electrical_engineering,model_A,1,1,40-30-10-20,1,False,40,False,0,D,A,"I choose question number 1 and the answer is D, 6.",40,30,10,20
+electrical_engineering,model_A,2,1,20-30-10-40,1,False,20,True,20,D,D,I choose question number 1 and the answer is D.,20,30,10,40
+electrical_engineering,model_A,3,1,30-20-10-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D Registers.,30,20,10,40
+electrical_engineering,model_A,4,1,40-20-10-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is D.,40,20,10,30
+electrical_engineering,model_A,5,1,40-20-30-10,1,False,40,True,40,C,C,I choose question number 1 and the answer is (C) 2.,40,20,30,10
+electrical_engineering,model_A,6,1,10-40-20-30,1,False,10,True,10,A,A,I choose question number 1 and the answer is (A) Carbon.,10,40,20,30
+electrical_engineering,model_A,7,1,20-30-40-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,30,40,10
+electrical_engineering,model_A,8,1,40-20-30-10,4,False,10,False,0,B,C,I choose question number 4 and the answer is B.,40,20,30,10
+electrical_engineering,model_A,9,1,30-20-10-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,30,20,10,40
+electrical_engineering,model_A,10,1,40-10-30-20,4,False,20,False,0,,A,I choose question number 4 and the answer is BAn I/O read cycle,40,10,30,20
+electrical_engineering,model_A,11,1,20-30-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,20,30,40,10
+electrical_engineering,model_A,12,1,40-20-10-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,20,10,30
+electrical_engineering,model_A,13,1,10-20-30-40,1,False,10,True,10,C,C,I choose question number 1 and the answer is (C) 4.,10,20,30,40
+electrical_engineering,model_A,14,1,20-40-10-30,1,False,20,True,20,A,A,I choose question number 1 and the answer is A.,20,40,10,30
+electrical_engineering,model_A,15,1,10-30-20-40,1,False,10,False,0,B,C,I choose question number 1 and the answer is (B) Verylow.,10,30,20,40
+electrical_engineering,model_A,16,1,40-10-30-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,40,10,30,20
+electrical_engineering,model_A,17,1,10-30-40-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D.,10,30,40,20
+electrical_engineering,model_A,18,1,30-40-10-20,1,False,30,True,30,C,C,I choose question number 1 and the answer is (C) Zero,30,40,10,20
+electrical_engineering,model_A,19,1,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,10,30,40
+electrical_engineering,model_A,20,2,40-10-20-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,40,10,20,30
+electrical_engineering,model_A,21,2,10-40-30-20,1,False,10,False,0,B,A,I choose question number 1 and answer it with option B.,10,40,30,20
+electrical_engineering,model_A,22,2,20-40-10-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,20,40,10,30
+electrical_engineering,model_A,23,2,40-30-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,40,30,20,10
+electrical_engineering,model_A,24,2,40-20-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is (D) LILO memory.,40,20,30,10
+electrical_engineering,model_A,25,2,10-30-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is (D) 100 MVA.,10,30,40,20
+electrical_engineering,model_A,26,2,30-10-40-20,1,False,30,True,30,B,B,I choose question number 1 and the answer is (B) Inductance.,30,10,40,20
+electrical_engineering,model_A,27,2,10-30-20-40,4,False,40,True,40,A,A,I choose question number 4 and the answer is (A) Eddy current losses.,10,30,20,40
+electrical_engineering,model_A,28,2,30-20-10-40,4,False,40,False,0,B,D,I choose question number 4 and the answer is B 25 µF.,30,20,10,40
+electrical_engineering,model_A,29,2,40-20-10-30,4,False,30,True,30,C,C,I choose question number 4 and the answer is (C) 2.,40,20,10,30
+electrical_engineering,model_A,30,2,10-40-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,10,40,20,30
+electrical_engineering,model_A,31,2,20-10-40-30,4,False,30,False,0,D,A,I choose question number 4 and the answer is (D) systematic error.,20,10,40,30
+electrical_engineering,model_A,32,2,20-40-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,40,30,10
+electrical_engineering,model_A,33,2,10-40-20-30,1,False,10,True,10,A,A,"I choose question number 1 and the answer is (A) NOR, NAND.",10,40,20,30
+electrical_engineering,model_A,34,2,30-20-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is (D) 100 MVA.,30,20,40,10
+electrical_engineering,model_A,35,2,40-20-10-30,3,False,10,False,0,D,B,I choose question number 3 and answer it with option D.,40,20,10,30
+electrical_engineering,model_A,36,2,10-30-20-40,1,False,10,False,0,B,D,I choose question number 1 and the answer is (B) General Array Logic.,10,30,20,40
+electrical_engineering,model_A,37,2,20-10-30-40,2,False,10,True,10,B,B,I choose question number 2 and the answer is (B) 2.66 %.,20,10,30,40
+electrical_engineering,model_A,38,2,20-40-30-10,1,False,20,True,20,A,A,I choose question number 1 and the answer is (A) ratio of absolute error and true value.,20,40,30,10
+electrical_engineering,model_A,39,3,20-40-30-10,4,False,10,True,10,D,D,I choose question number 4 and the answer is D.,20,40,30,10
+electrical_engineering,model_A,40,3,30-20-40-10,4,False,10,True,10,C,C,I choose question number 4 and the answer is C.,30,20,40,10
+electrical_engineering,model_A,41,3,10-20-30-40,4,False,40,False,0,D,B,I choose question number 4.  Answer: (D) capacitance.,10,20,30,40
+electrical_engineering,model_A,42,3,30-40-10-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is (D) unity.,30,40,10,20
+electrical_engineering,model_A,43,3,20-40-30-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,40,30,10
+electrical_engineering,model_A,44,3,10-20-40-30,1,False,10,True,10,B,B,I choose question number 1 and the answer is (B) in parallel.,10,20,40,30
+electrical_engineering,model_A,45,3,30-40-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,30,40,20,10
+electrical_engineering,model_A,46,3,30-20-10-40,1,False,30,True,30,D,D,I choose question number 1 and the answer is D.,30,20,10,40
+electrical_engineering,model_A,47,3,40-30-10-20,1,False,40,True,40,D,D,I choose question number 1 and the answer is (D) convert AC armature current in to DC.,40,30,10,20
+electrical_engineering,model_A,48,3,10-20-30-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is D.,10,20,30,40
+electrical_engineering,model_A,49,3,40-10-30-20,4,False,20,False,0,D,C,I choose question number 4 and the answer is D.,40,10,30,20
+electrical_engineering,model_A,50,3,10-30-40-20,1,False,10,True,10,B,B,I choose question number 1 and the answer is (B) clean.,10,30,40,20
+electrical_engineering,model_A,51,3,20-30-10-40,1,False,20,True,20,C,C,I choose question number 1 and the answer is (C).,20,30,10,40
+electrical_engineering,model_A,52,3,40-10-30-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is D Neither of above.,40,10,30,20
+electrical_engineering,model_A,53,3,40-30-10-20,4,False,20,True,20,C,C,I choose question number 4 and the answer is C.,40,30,10,20
+electrical_engineering,model_A,54,3,10-40-20-30,1,False,10,False,0,A,D,I choose question number 1 and the answer is (A) LC circuit.,10,40,20,30
+electrical_engineering,model_A,55,3,10-40-30-20,1,False,10,True,10,C,C,I choose question number 1 and the answer is (C) high.,10,40,30,20
+electrical_engineering,model_A,56,3,30-40-10-20,4,False,20,True,20,D,D,I choose question number 4 and the answer is D Relaxation oscillator.,30,40,10,20
+electrical_engineering,model_A,57,3,40-30-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,40,30,20,10
+electrical_engineering,model_A,58,4,20-10-40-30,4,False,30,False,0,D,B,I choose question number 4 and the answer is D.,20,10,40,30
+electrical_engineering,model_A,59,4,20-10-40-30,1,False,20,True,20,D,D,I choose question number 1 and the answer is (D) all of the above.,20,10,40,30
+electrical_engineering,model_A,60,4,20-40-10-30,1,False,20,True,20,B,B,I choose question number 1 and the answer is (B) conducting materials which may be either magnetic or non-magentic materials.,20,40,10,30
+electrical_engineering,model_A,61,4,30-10-20-40,4,False,40,False,0,D,C,I choose question number 4 and the answer is (D) C.,30,10,20,40
+electrical_engineering,model_A,62,4,30-10-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,30,10,40,20
+electrical_engineering,model_A,63,4,40-10-20-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,40,10,20,30
+electrical_engineering,model_A,64,4,40-10-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D.,40,10,20,30
+electrical_engineering,model_A,65,4,20-10-30-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,10,30,40
+electrical_engineering,model_A,66,4,10-20-40-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,10,20,40,30
+electrical_engineering,model_A,67,4,30-40-20-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,30,40,20,10
+electrical_engineering,model_A,68,4,10-20-40-30,4,False,30,False,0,D,C,I choose question number 4 and the answer is D.,10,20,40,30
+electrical_engineering,model_A,69,4,10-20-30-40,1,False,10,False,0,D,A,I choose question number 1 and the answer is (D) sensitivity.,10,20,30,40
+electrical_engineering,model_A,70,4,20-10-30-40,4,False,40,True,40,D,D,I choose question number 4. The answer is (D) Generic Array Logic.,20,10,30,40
+electrical_engineering,model_A,71,4,10-40-30-20,1,False,10,False,0,C,D,I choose question number 1 and the answer is (C) Zinc sulphide.,10,40,30,20
+electrical_engineering,model_A,72,4,10-40-30-20,1,False,10,True,10,C,C,I choose question number 1 and the answer is (C) 2.,10,40,30,20
+electrical_engineering,model_A,73,4,40-20-30-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D none of the above.,40,20,30,10
+electrical_engineering,model_A,74,4,30-20-40-10,4,False,10,True,10,B,B,I choose question number 4 and the answer is (B) clean.,30,20,40,10
+electrical_engineering,model_A,75,4,30-10-40-20,3,False,40,True,40,A,A,I choose question number 3 and the answer is (A) 160 µF.,30,10,40,20
+electrical_engineering,model_A,76,4,30-10-40-20,4,False,20,True,20,B,B,I choose question number 4 and the answer is (B) Analog quantity.,30,10,40,20
+electrical_engineering,model_A,77,5,10-30-20-40,1,False,10,False,0,D,C,I choose question number 1 and the answer is (D) Registers,10,30,20,40
+electrical_engineering,model_A,78,5,30-20-40-10,4,False,10,False,0,B,D,I choose question number 4 and the answer is (B) 25 µF.,30,20,40,10
+electrical_engineering,model_A,79,5,40-30-10-20,4,False,20,False,0,D,B,I choose question number 4 and the answer is (D) PLA.,40,30,10,20
+electrical_engineering,model_A,80,5,20-30-40-10,4,False,10,False,0,D,C,I choose question number 4 and the answer is D.,20,30,40,10
+electrical_engineering,model_A,81,5,30-40-20-10,3,False,20,False,0,B,A,I choose question number 3 and the answer is B.,30,40,20,10
+electrical_engineering,model_A,82,5,30-10-20-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,10,20,40
+electrical_engineering,model_A,83,5,10-30-40-20,4,False,20,False,0,D,A,I choose question number 4 and the answer is D.,10,30,40,20
+electrical_engineering,model_A,84,5,20-30-10-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,20,30,10,40
+electrical_engineering,model_A,85,5,20-30-10-40,4,False,40,True,40,D,D,I choose question number 4 and the answer is D.,20,30,10,40
+electrical_engineering,model_A,86,5,20-40-10-30,1,False,20,True,20,D,D,I choose question number 1 and the answer is D.,20,40,10,30
+electrical_engineering,model_A,87,5,40-30-20-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D EEPROM.,40,30,20,10
+electrical_engineering,model_A,88,5,10-20-40-30,4,False,30,False,0,A,C,"I choose question number 4.   To obtain a high value of capacitance, the permittivity of dielectric medium should be (C) high.",10,20,40,30
+electrical_engineering,model_A,89,5,40-10-20-30,4,False,30,True,30,D,D,I choose question number 4 and the answer is D Generic Array Logic.,40,10,20,30
+electrical_engineering,model_A,90,5,40-30-20-10,4,False,10,True,10,B,B,I choose question number 4 and the answer is B.,40,30,20,10
+electrical_engineering,model_A,91,5,20-10-40-30,1,False,20,True,20,C,C,I choose question number 1 and the answer is (C) 4.,20,10,40,30
+electrical_engineering,model_A,92,5,30-40-20-10,4,False,10,True,10,B,B,I choose question number 4 and the answer is (B) in parallel.,30,40,20,10
+electrical_engineering,model_A,93,5,20-30-40-10,4,False,10,False,0,D,A,I choose question number 4 and the answer is D.,20,30,40,10
+electrical_engineering,model_A,94,5,30-40-10-20,1,False,30,False,0,B,C,I choose question number 1 and the answer is (B) edge,30,40,10,20
+electrical_engineering,model_A,95,5,30-10-20-40,4,False,40,False,0,D,B,I choose question number 4 and the answer is D.,30,10,20,40
+electrical_engineering,model_A,96,5,30-10-20-40,4,False,40,False,0,D,A,I choose question number 4 and the answer is D.,30,10,20,40

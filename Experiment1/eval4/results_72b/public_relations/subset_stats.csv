@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+public_relations,baseline,1,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+public_relations,baseline,2,19,0.0,40.0,0.0,0.0,0.0,0.0,1.0
+public_relations,baseline,3,19,26.316,40.0,0.0,0.0,0.0,0.0,1.0
+public_relations,baseline,4,19,21.053,40.0,0.0,0.0,0.0,0.0,1.0
+public_relations,baseline,5,20,5.0,39.0,0.0,0.0,0.0,0.1,0.9
+public_relations,model_A,1,19,26.316,21.579,0.0,0.3158,0.3158,0.2632,0.1053
+public_relations,model_A,2,19,36.842,20.526,0.0,0.3684,0.2632,0.3158,0.0526
+public_relations,model_A,3,19,31.579,24.737,0.0,0.3158,0.2105,0.1579,0.3158
+public_relations,model_A,4,19,52.632,25.789,0.0,0.1579,0.4211,0.1053,0.3158
+public_relations,model_A,5,20,35.0,23.0,0.0,0.35,0.2,0.25,0.2

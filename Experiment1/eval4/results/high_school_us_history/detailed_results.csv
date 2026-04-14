@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_us_history,baseline,1,1,20-40-10-30,20,40,10,30,2,False,40,False,0,,A,2
+high_school_us_history,baseline,2,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1. D
+high_school_us_history,baseline,3,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,A,1
+high_school_us_history,baseline,4,1,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,5,1,40-30-10-20,40,30,10,20,1,False,40,False,0,,A,1
+high_school_us_history,baseline,6,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,7,1,20-30-40-10,20,30,40,10,1,False,20,False,0,D,B,1 D
+high_school_us_history,baseline,8,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,9,1,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,1 C
+high_school_us_history,baseline,10,1,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1 A
+high_school_us_history,baseline,11,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2
+high_school_us_history,baseline,12,1,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1 C
+high_school_us_history,baseline,13,1,40-10-20-30,40,10,20,30,1,False,40,False,0,C,B,1 C
+high_school_us_history,baseline,14,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,1 Dorothea Dix's testimony to the Massachusetts legislature reflects the influence of which of the following? (A) Social Darwinism. (B) The Second Great Awakening. (C) Second-wave feminism. (D) The Christian Science movement.
+high_school_us_history,baseline,15,1,30-20-40-10,30,20,40,10,1,False,30,False,0,D,B,1 D
+high_school_us_history,baseline,16,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+high_school_us_history,baseline,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_us_history,baseline,18,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,19,1,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,20,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1 C
+high_school_us_history,baseline,21,2,40-10-30-20,40,10,30,20,1,False,40,False,0,D,A,1 D
+high_school_us_history,baseline,22,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1 A
+high_school_us_history,baseline,23,2,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,1 A
+high_school_us_history,baseline,24,2,30-40-20-10,30,40,20,10,2,False,40,True,40,C,C,2 C
+high_school_us_history,baseline,25,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+high_school_us_history,baseline,26,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,27,2,40-20-30-10,40,20,30,10,1,False,40,True,40,B,B,1 B
+high_school_us_history,baseline,28,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+high_school_us_history,baseline,29,2,10-20-30-40,10,20,30,40,1,False,10,True,10,B,B,1 B
+high_school_us_history,baseline,30,2,40-30-20-10,40,30,20,10,1,False,40,False,0,,C,1
+high_school_us_history,baseline,31,2,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,32,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+high_school_us_history,baseline,33,2,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1 D
+high_school_us_history,baseline,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,35,2,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2
+high_school_us_history,baseline,36,2,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1 D
+high_school_us_history,baseline,37,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1 D
+high_school_us_history,baseline,38,2,40-30-10-20,40,30,10,20,1,False,40,False,0,,A,1
+high_school_us_history,baseline,39,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,1
+high_school_us_history,baseline,40,3,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_us_history,baseline,41,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_us_history,baseline,42,3,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1 C
+high_school_us_history,baseline,43,3,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,44,3,10-40-30-20,10,40,30,20,1,False,10,False,0,D,B,1 D
+high_school_us_history,baseline,45,3,20-40-30-10,20,40,30,10,2,False,40,True,40,B,B,2 B
+high_school_us_history,baseline,46,3,30-10-20-40,30,10,20,40,4,False,40,True,40,A,A,4 A
+high_school_us_history,baseline,47,3,30-40-10-20,30,40,10,20,1,False,30,False,0,C,B,1 C
+high_school_us_history,baseline,48,3,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1 D
+high_school_us_history,baseline,49,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,1 A
+high_school_us_history,baseline,50,3,10-30-20-40,10,30,20,40,1,False,10,False,0,,A,1
+high_school_us_history,baseline,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 Dorothea Dix's research and testimony is best understood in the context of (D) the rise of voluntary organizations to promote religious and secular reforms.
+high_school_us_history,baseline,52,3,10-20-30-40,10,20,30,40,1,False,10,True,10,B,B,1 B
+high_school_us_history,baseline,53,3,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,54,3,30-20-10-40,30,20,10,40,1,False,30,False,0,B,D,1 B
+high_school_us_history,baseline,55,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1 D
+high_school_us_history,baseline,56,3,10-30-40-20,10,30,40,20,2,False,30,False,0,,B,2
+high_school_us_history,baseline,57,3,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_us_history,baseline,58,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1 D
+high_school_us_history,baseline,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+high_school_us_history,baseline,60,4,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2
+high_school_us_history,baseline,61,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+high_school_us_history,baseline,62,4,10-30-40-20,10,30,40,20,1,False,10,False,0,D,B,1 D
+high_school_us_history,baseline,63,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,64,4,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1 A
+high_school_us_history,baseline,65,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1 D
+high_school_us_history,baseline,66,4,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_us_history,baseline,67,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1 C
+high_school_us_history,baseline,68,4,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1 A
+high_school_us_history,baseline,69,4,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1 A
+high_school_us_history,baseline,70,4,30-10-40-20,30,10,40,20,1,False,30,False,0,D,C,1 D
+high_school_us_history,baseline,71,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1 A
+high_school_us_history,baseline,72,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+high_school_us_history,baseline,73,4,30-10-20-40,30,10,20,40,1,False,30,False,0,A,D,1 A sympathetic reader of Logan's Address in the early years of the United States would be most likely to support which of the following Indian policies? (A) Exterminating all Indians (B) Respecting Indian territory and sovereignty (C) Encouraging Indians to migrate to Canada and Mexico (D) Building
+high_school_us_history,baseline,74,4,10-20-30-40,10,20,30,40,1,False,10,False,0,C,B,1 C
+high_school_us_history,baseline,75,4,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,76,4,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,77,5,20-30-10-40,20,30,10,40,2,False,30,False,0,,C,2
+high_school_us_history,baseline,78,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,79,5,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,80,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1 C
+high_school_us_history,baseline,81,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,1 A
+high_school_us_history,baseline,82,5,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,83,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+high_school_us_history,baseline,84,5,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1 D
+high_school_us_history,baseline,85,5,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1 A
+high_school_us_history,baseline,86,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+high_school_us_history,baseline,87,5,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1 D
+high_school_us_history,baseline,88,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1 C
+high_school_us_history,baseline,89,5,10-30-20-40,10,30,20,40,1,False,10,False,0,A,C,1 A
+high_school_us_history,baseline,90,5,20-10-40-30,20,10,40,30,1,False,20,False,0,D,C,1 D
+high_school_us_history,baseline,91,5,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1 C
+high_school_us_history,baseline,92,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1 C
+high_school_us_history,baseline,93,5,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1 C
+high_school_us_history,baseline,94,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+high_school_us_history,baseline,95,5,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+high_school_us_history,baseline,96,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+high_school_us_history,model_A,1,1,20-40-10-30,20,40,10,30,2,False,40,True,40,A,A,2  The ideas expressed in the passage above would most directly have strengthened (A) Opposition totheadministration'sarmsbuildup.
+high_school_us_history,model_A,2,1,30-20-40-10,30,20,40,10,1,False,30,True,30,D,D,1D  The scenario described in the passage above is most directly reflected in the ideas of which of the following? (A) Civil Rights Act of 1964. (B) Equal Rights Amendment. (C) Pure Food and Drug Act. (D) Interstate Commerce Act.  The correct answer is (D) Interstate Commerce Act. The passage descri
+high_school_us_history,model_A,3,1,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2  The principle described above is best stated by option (C) America's expansion to theWest Coast was inevitableanddivinelysanctioned.
+high_school_us_history,model_A,4,1,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2B  3A  4D
+high_school_us_history,model_A,5,1,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A
+high_school_us_history,model_A,6,1,40-30-10-20,40,30,10,20,2,False,30,True,30,D,D,2  D
+high_school_us_history,model_A,7,1,20-30-40-10,20,30,40,10,1,False,20,True,20,B,B,1B  The conflict described above is most likely a result of Containment.
+high_school_us_history,model_A,8,1,20-30-40-10,20,30,40,10,2,False,30,True,30,A,A,2  The above statements were most likely made after (A) The bombing of Pearl Harbor.
+high_school_us_history,model_A,9,1,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,"2  The ""free silver"" campaign of 1896 received its greatest popular support from (D) farmers, who hoped that a more generous money supply would ease their debt burdens."
+high_school_us_history,model_A,10,1,30-10-20-40,30,10,20,40,-1,True,0,False,0,,,1A  2A  3C  4C
+high_school_us_history,model_A,11,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2  The reform thatWilliam LloydGarrisonisadvocatinginthepassagewaslaterenactedasaresultofthe  TheFourteenthAmendment(1868).
+high_school_us_history,model_A,12,1,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2A  3B  4B
+high_school_us_history,model_A,13,1,40-10-20-30,40,10,20,30,1,False,40,False,0,,B,1  The event most directly causing the formation of the Second Bank of theUnitedStateswasEffortsbyAlexanderHamiltontostabilizethenationalEconomy.
+high_school_us_history,model_A,14,1,30-40-10-20,30,40,10,20,1,False,30,False,0,,B,1 Dorothea Dix's testimony to the Massachusetts legislature reflects the influence of which of the following? (A)Social Darwinism. (B)TheSecondGreatAwakening. (C)Second-wavefeminism. (D)TheChristianSciencemovement.
+high_school_us_history,model_A,15,1,30-20-40-10,30,20,40,10,-1,True,0,False,0,,,1A  2C  3A  4D
+high_school_us_history,model_A,16,1,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,"1C  The question refers to the speech given by Albert Beveridge, ""TheMarchoftheFlag,""IndianapolisSeptember161898. ThespeechwasaresponsetoTheSpanishAmericanWar."
+high_school_us_history,model_A,17,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D  The war aims of theUnitedStateswereNoLongerExclusivelyFocusedOnThePreservationOfTheUnion.
+high_school_us_history,model_A,18,1,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  The sentiments expressed by George Washington reflect the continuity of debates about the proper balance between liberty and order throughout American history.  2A  Roosevelt's concerns about preserving civil liberties can be most directly compared to those of the people who debated the Gulf of
+high_school_us_history,model_A,19,1,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A
+high_school_us_history,model_A,20,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1 C  The UnitedStatesbecamepoliticallyengagedwiththePhilippinesaftertheSpanish-AmericanWar.
+high_school_us_history,model_A,21,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,1 The Puritans believed that the freedom to practice religion should be extended to (A) Puritans only (B) all Protestants only (C) all Christians only (D) all Jews and Christians only  The answer is (D) All Jews and Christians only.
+high_school_us_history,model_A,22,2,30-10-40-20,30,10,40,20,1,False,30,False,0,A,C,1A
+high_school_us_history,model_A,23,2,20-30-10-40,20,30,10,40,2,False,30,True,30,A,A,2  A  The passage referstoWilliamPenn'sCharterofPrivilegesgrantedtotheInhabitantsofPennsylvaniaandTerritoriesin1701whichgrantedfreedomofConscienceandReligiousPracticetoAllPeopleinPennsylvaniaandTerritories.AThisChartermadePennsylvaniaoneoftheMostReligiouslyDiverseColoniesinBritishAmericabecauseItGra
+high_school_us_history,model_A,24,2,30-40-20-10,30,40,20,10,2,False,40,False,0,B,C,2  The issue that precipitated the passage excerpted above was (B) the rechartering of the Second Bank of theUnitedStates.
+high_school_us_history,model_A,25,2,10-40-20-30,10,40,20,30,2,False,40,False,0,A,C,"2  Senator Huey P. Long's ""Sharethe Wealth Society"" was a political program intendedtoC persuade votersthatSenatorLonghadaplantocombattheGreatDepression."
+high_school_us_history,model_A,26,2,40-10-30-20,40,10,30,20,1,False,40,True,40,A,A,"1A  The petition by Paul Cuffe, above, best illustrates which of the following developments? (A)The rhetoric of theAmerican Revolutionraisedawarenessofsocialinequalitiesandinspiredgroupsandindividualstocallforgreaterpoliticaldemocracy."
+high_school_us_history,model_A,27,2,40-20-30-10,40,20,30,10,2,False,20,False,0,D,A,2  The correct answer is (D) High budget deficits.
+high_school_us_history,model_A,28,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,"1C  The National Woman Suffrage Association would have most likely supported the scenario described in this passage.  2C  Senator Huey P. Long's ""Sharethe Wealth Society"" was a political program intended to persuade voters that SenatorLonghadaplantocombattheGreatDepression."
+high_school_us_history,model_A,29,2,10-20-30-40,10,20,30,40,2,False,20,False,0,,A,"2  The statement ""After World War I, debates intensified over American involvement overseas"" is most accurate."
+high_school_us_history,model_A,30,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1  The president who would be most likely to share Coolidge's sentiments would be (C) Ronald Reagan.
+high_school_us_history,model_A,31,2,20-10-30-40,20,10,30,40,-1,True,0,False,0,,,1A  2D  3B  4C
+high_school_us_history,model_A,32,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1C  The ongoing debate expressed in the quotation refers to debates over federal power over the economy.
+high_school_us_history,model_A,33,2,10-20-40-30,10,20,40,30,2,False,20,False,0,,A,2  The argument put forth by William Lloyd Garrison in the passage was later contradicted in which of the following Supreme Court decisions? (A) Dred Scott v. Sanford (1857) (B) Ex parte Milligan (1866) (C) Plessy v. Ferguson (1896) (D)Brown v. Board ofEducationofTo
+high_school_us_history,model_A,34,2,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,1A  The sentiments expressed by George Washington reflect debates about the proper balance between liberty and order.Washington's letter acknowledges that experience has taught him that men will not adopt measures calculated for their own good without intervention of a coercive power. He argues that
+high_school_us_history,model_A,35,2,20-40-30-10,20,40,30,10,2,False,40,False,0,,C,2  The UnitedStatesbecamepoliticallyengagedwiththePhilippinesaftertheSpanish-AmericanWar.
+high_school_us_history,model_A,36,2,20-40-10-30,20,40,10,30,2,False,40,False,0,B,C,2  The issue that precipitated the passage excerpted above was (B) the rechartering of the Second Bank of theUnitedStates.
+high_school_us_history,model_A,37,2,10-40-20-30,10,40,20,30,2,False,40,False,0,,C,2  Roosevelt's concerns can most directly be compared to those of the people who debated The USA Patriot Act of 2001.
+high_school_us_history,model_A,38,2,40-30-10-20,40,30,10,20,1,False,40,True,40,A,A,"1A  The cartoon refers to Andrew Carnegie's philanthropy, specifically highlighting his giving away $500 million. The statement ""Carnegie was able to give away a great deal of money only because he violated his workers' rights"" best represents this criticism.  2D  The Newlands Reclamation Act was de"
+high_school_us_history,model_A,39,3,20-30-40-10,20,30,40,10,2,False,30,False,0,,D,"2  The views expressed in the excerpt do not represent the views of Prime Minister Grenville after the French and Indian War. Specifically, option (D) ""He wanted to reward the colonies through his extension of 'salutary neglect'"" does NOT represent the views of Prime Minister Grenville. The passage"
+high_school_us_history,model_A,40,3,40-10-30-20,40,10,30,20,-1,True,0,False,0,,,1A  2A  3B  4B
+high_school_us_history,model_A,41,3,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C
+high_school_us_history,model_A,42,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,"2  The meaning of Washington's phrase ""We have probably had too good an opinion of human nature"" refers to (D) The framers of the Articles of Confederation made a mistake in allowing for too great a degree of democracy in the new republic."
+high_school_us_history,model_A,43,3,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,1A  The sentiments above are most consistent with States' Rights.
+high_school_us_history,model_A,44,3,10-40-30-20,10,40,30,20,2,False,40,False,0,,D,Question 2  The passageCoolidge is reacting againstThe growing strength of radical politics in America following the Russian Revolution  The correct answer isB.
+high_school_us_history,model_A,45,3,20-40-30-10,20,40,30,10,2,False,40,False,0,A,B,2  Geraldine Ferraro can be most directly compared to (A) Abigail Adams.
+high_school_us_history,model_A,46,3,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A
+high_school_us_history,model_A,47,3,30-40-10-20,30,40,10,20,1,False,30,True,30,B,B,1 B
+high_school_us_history,model_A,48,3,30-40-20-10,30,40,20,10,1,False,30,False,0,A,D,"Question 1  The point of Wheatley's poem can best be compared to which of the following? (A) TheDeclarationofIndependence (B)JonathanEdwards'ssermon""SinnersintheHandsofAnAngryGod"" (C)TheSenecaFallsDeclarationofRightsandSentiments (D)MartinLutherKingJr.'s""IHaveADream"""
+high_school_us_history,model_A,49,3,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,"1A  The Underwood-Simmons Tariff of 1913 would generally be endorsed by Progressives of that era because they were largely supporters of Teddy Roosevelt's ""Square Deal"" which included lowering tariffs.  2B  The war-ravaged condition of Asia and Europe allowed the United States to emerge as one of th"
+high_school_us_history,model_A,50,3,10-30-20-40,10,30,20,40,2,False,30,False,0,C,D,2  The document that encouraged church membership in the Massachusetts Bay Colony is (C) The Halfway Covenant.
+high_school_us_history,model_A,51,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The question refers to Dorothea Dix's research and testimony. The context provided suggests that Dix's work was part of a broader movement aimed at addressing issues related to health and poverty. ThereforeThe answer isDThe answer isDThe answer isDThe answer isDThe answer isDThe answer isDThe an
+high_school_us_history,model_A,52,3,10-20-30-40,10,20,30,40,-1,True,0,False,0,,,1B  2A  3A  4B
+high_school_us_history,model_A,53,3,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1A
+high_school_us_history,model_A,54,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  Eric Foner's argument about President Abraham Lincoln's views on slavery is best described byStatement D:President Lincoln had continually changing views on slavery and abolition that did not always fit into the prevailing political categories.  2A  The sentiments expressed byGeorgeWashingtonint
+high_school_us_history,model_A,55,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The ideas expressed in the passage above most directly reflect Debates about the legal status of women.
+high_school_us_history,model_A,56,3,10-30-40-20,10,30,40,20,2,False,30,True,30,B,B,2  The Zenger Case can best be compared to (B) Government efforts to prevent the publication of the Pentagon Papers in 1971.
+high_school_us_history,model_A,57,3,10-30-20-40,10,30,20,40,1,False,10,False,0,,D,2A
+high_school_us_history,model_A,58,4,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,"1D  The phrase ""We have probably had too good an opinion of human nature"" refers to the framers of the Articles of Confederation making a mistake in allowing too great a degree of democracy in the new republic."
+high_school_us_history,model_A,59,4,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,1C  The passage expresses Henry's concern about the dangers posed by standing armies.
+high_school_us_history,model_A,60,4,10-20-40-30,10,20,40,30,2,False,20,True,20,A,A,2  The president most closely associated with the concept of Manifest Destiny is (A) James K. Polk.
+high_school_us_history,model_A,61,4,20-10-30-40,20,10,30,40,2,False,10,False,0,,A,2  The above statements were most likely made after The bombing of Pearl Harbor.
+high_school_us_history,model_A,62,4,10-30-40-20,10,30,40,20,-1,True,0,False,0,,,1A  2C  3C  4C
+high_school_us_history,model_A,63,4,20-10-30-40,20,10,30,40,1,False,20,True,20,A,A,1A  The change most likely to have occurred in westward migration in the 1840s was The number of pioneers headed for the Oregon territory decreased while the number headed for California greatly increased.
+high_school_us_history,model_A,64,4,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2C  3C  4B
+high_school_us_history,model_A,65,4,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1D  The Treaty of Versailles was never voted on by theUnitedStatesSenate.
+high_school_us_history,model_A,66,4,20-10-30-40,20,10,30,40,2,False,10,False,0,A,C,2  The major weakness of the Articles of Confederation was that they did not include a mechanism for their own amendment.
+high_school_us_history,model_A,67,4,40-20-10-30,40,20,10,30,1,False,40,False,0,C,D,1C
+high_school_us_history,model_A,68,4,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,"1A  The petition by Paul Cuffe, above, best illustrates which of the following developments? (A)The rhetoric of theAmerican Revolutionraisedawarenessofsocialinequalitiesandinspiredgroupsandindividualstocallforgreaterpoliticaldemocracy.  2A  Johnson'sGreatSocietymostrepresentedanextensionofwhichofthe"
+high_school_us_history,model_A,69,4,30-20-40-10,30,20,40,10,1,False,30,False,0,A,D,1A  The excerpt from the presidential veto message above is fromPresident Thomas Jefferson's veto oftheAlien and Sedition Acts.
+high_school_us_history,model_A,70,4,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1D  2D  3D  4C
+high_school_us_history,model_A,71,4,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1A  The conflict described above is most likely a result of Imperialism.
+high_school_us_history,model_A,72,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The passage states that Cortes's military success was due totaking advantage ofdivisions amongtheIndians.
+high_school_us_history,model_A,73,4,30-10-20-40,30,10,20,40,1,False,30,False,0,,D,"1  The question refers to Logan's Address, an Indian leader's appeal to white men. The reader's support would likely align with respecting Indian territory and sovereignty.  ThereforeThe answer isBRespecting Indian territory and sovereignty."
+high_school_us_history,model_A,74,4,10-20-30-40,10,20,30,40,1,False,10,False,0,,B,1  The event most directly caused by the formation of the Second Bank of theUnitedStateswasEffortsbyAlexanderHamiltontostabilizethenationalEconomy.
+high_school_us_history,model_A,75,4,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2  The ongoing debate expressed in the quotation is (C) Debates over federal power over the economy.
+high_school_us_history,model_A,76,4,10-40-30-20,10,40,30,20,-1,True,0,False,0,,,1A  2D  3B  4B
+high_school_us_history,model_A,77,5,20-30-10-40,20,30,10,40,2,False,30,True,30,C,C,2  The ongoing debate expressed in the quotation is (C) Debates over federal power over the economy.
+high_school_us_history,model_A,78,5,10-30-40-20,10,30,40,20,2,False,30,False,0,A,C,"2  Senator Huey P. Long's ""Share the Wealth Society"" was a political program intended toC persuade voters that Senator Long had a plan to combat theGreat Depression."
+high_school_us_history,model_A,79,5,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,1A  The above statements were most likely made after The bombing of Pearl Harbor.
+high_school_us_history,model_A,80,5,20-10-40-30,20,10,40,30,1,False,20,True,20,C,C,"1C  The question refers toBrown v. Board ofEducation,1954and asksWhich decision validatedthepracticeof""separatebutequalfacilitiesforblacksandwhites?TheCorrectAnswerisCThePlessyv.Fergusondecisionvalidatedthepracticeof""separatebutequalfacilitiesforblacksandwhites.  2D  The question referstoTheProgress"
+high_school_us_history,model_A,81,5,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"1A  Senator Long's ""Share the Wealth Society"" attracted many followers in 1934 because (A) the New Deal had not ended theGreatDepression."
+high_school_us_history,model_A,82,5,40-20-10-30,40,20,10,30,-1,True,0,False,0,,,1A  2C  3D  4A
+high_school_us_history,model_A,83,5,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A
+high_school_us_history,model_A,84,5,40-10-20-30,40,10,20,30,-1,True,0,False,0,,,1D  2A  3A  4B
+high_school_us_history,model_A,85,5,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,1A  The argument put forth by William Lloyd Garrison in the passage was later contradicted in Dred Scott v. Sanford (1857).
+high_school_us_history,model_A,86,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The ""free silver"" campaign of 1896 received its greatest popular support from farmers, who hoped that a more generous money supply would ease their debt burdens."
+high_school_us_history,model_A,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,2B  The conflict described above is most likely a result of Containment.
+high_school_us_history,model_A,88,5,30-10-20-40,30,10,20,40,1,False,30,True,30,C,C,1C  The question refers to Beveridge's speech responding to TheSpanish–AmericanWar.
+high_school_us_history,model_A,89,5,10-30-20-40,10,30,20,40,1,False,10,False,0,A,C,"1A  The question refers to Andrew Hamilton's argument in the Zenger trial. The passage discusses Hamilton's defense of John Peter Zenger's right to speak out against arbitrary power, which reflects Hamilton's support for liberty. The passage does not explicitly mention American desires for independe"
+high_school_us_history,model_A,90,5,20-10-40-30,20,10,40,30,-1,True,0,False,0,,,1D  2C  3C  4D
+high_school_us_history,model_A,91,5,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1A  2C  3B  4A
+high_school_us_history,model_A,92,5,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The scenario described in the passage above is most directly reflected in the ideas of The Pure Food and Drug Act.
+high_school_us_history,model_A,93,5,40-20-30-10,40,20,30,10,2,False,20,True,20,C,C,2  C  Taking advantage of divisions among the Indians
+high_school_us_history,model_A,94,5,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2  Dorothea Dix's research and testimony is best understood in the context of (D) the rise of voluntary organizations to promote religious and secular reforms.
+high_school_us_history,model_A,95,5,20-40-30-10,20,40,30,10,2,False,40,False,0,B,D,"2  The point of Wheatley's poem can best be compared to (B) Jonathan Edwards's sermon ""Sinners in theHands ofAn AngryGod."""
+high_school_us_history,model_A,96,5,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C  The UnitedStatesbecamepoliticallyengagedwiththePhilippinesaftertheSpanish-AmericanWar.

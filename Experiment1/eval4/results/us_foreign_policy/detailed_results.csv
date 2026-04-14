@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+us_foreign_policy,baseline,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,1. D
+us_foreign_policy,baseline,2,1,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+us_foreign_policy,baseline,3,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+us_foreign_policy,baseline,4,1,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1 D
+us_foreign_policy,baseline,5,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+us_foreign_policy,baseline,6,1,20-40-10-30,20,40,10,30,2,False,40,True,40,B,B,2 B
+us_foreign_policy,baseline,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+us_foreign_policy,baseline,8,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+us_foreign_policy,baseline,9,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+us_foreign_policy,baseline,10,1,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1. A
+us_foreign_policy,baseline,11,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1 A
+us_foreign_policy,baseline,12,1,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1. A
+us_foreign_policy,baseline,13,1,10-40-30-20,10,40,30,20,2,False,40,True,40,A,A,2 A
+us_foreign_policy,baseline,14,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+us_foreign_policy,baseline,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+us_foreign_policy,baseline,16,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1. A
+us_foreign_policy,baseline,17,1,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1 A
+us_foreign_policy,baseline,18,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,1. A
+us_foreign_policy,baseline,19,1,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+us_foreign_policy,baseline,20,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+us_foreign_policy,baseline,21,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1. C
+us_foreign_policy,baseline,22,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+us_foreign_policy,baseline,23,2,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1 C
+us_foreign_policy,baseline,24,2,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1 A
+us_foreign_policy,baseline,25,2,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+us_foreign_policy,baseline,26,2,20-30-40-10,20,30,40,10,2,False,30,True,30,C,C,2 C
+us_foreign_policy,baseline,27,2,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1. D
+us_foreign_policy,baseline,28,2,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1. C
+us_foreign_policy,baseline,29,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1. A
+us_foreign_policy,baseline,30,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1 C
+us_foreign_policy,baseline,31,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+us_foreign_policy,baseline,32,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1 C
+us_foreign_policy,baseline,33,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1. A
+us_foreign_policy,baseline,34,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1. D
+us_foreign_policy,baseline,35,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+us_foreign_policy,baseline,36,2,10-40-30-20,10,40,30,20,2,False,40,True,40,B,B,2 B
+us_foreign_policy,baseline,37,2,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1 A
+us_foreign_policy,baseline,38,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1 D
+us_foreign_policy,baseline,39,3,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1. D
+us_foreign_policy,baseline,40,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1 D
+us_foreign_policy,baseline,41,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+us_foreign_policy,baseline,42,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1 D
+us_foreign_policy,baseline,43,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1 A
+us_foreign_policy,baseline,44,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+us_foreign_policy,baseline,45,3,10-30-40-20,10,30,40,20,1,False,10,False,0,D,A,1. D
+us_foreign_policy,baseline,46,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1. B
+us_foreign_policy,baseline,47,3,20-10-30-40,20,10,30,40,1,False,20,False,0,D,B,1 D
+us_foreign_policy,baseline,48,3,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+us_foreign_policy,baseline,49,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1 D
+us_foreign_policy,baseline,50,3,30-20-10-40,30,20,10,40,4,False,40,False,0,,D,4
+us_foreign_policy,baseline,51,3,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1 A
+us_foreign_policy,baseline,52,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+us_foreign_policy,baseline,53,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+us_foreign_policy,baseline,54,3,20-30-10-40,20,30,10,40,2,False,30,True,30,C,C,2 C
+us_foreign_policy,baseline,55,3,10-20-30-40,10,20,30,40,2,False,20,True,20,B,B,2 B
+us_foreign_policy,baseline,56,3,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1. A
+us_foreign_policy,baseline,57,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1. C
+us_foreign_policy,baseline,58,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1 C
+us_foreign_policy,baseline,59,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+us_foreign_policy,baseline,60,4,30-20-40-10,30,20,40,10,3,False,40,False,0,,A,3
+us_foreign_policy,baseline,61,4,20-10-40-30,20,10,40,30,3,False,40,False,0,,A,3
+us_foreign_policy,baseline,62,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,C,3
+us_foreign_policy,baseline,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+us_foreign_policy,baseline,64,4,30-20-40-10,30,20,40,10,3,False,40,True,40,B,B,3 B
+us_foreign_policy,baseline,65,4,10-40-20-30,10,40,20,30,2,False,40,True,40,B,B,2 B
+us_foreign_policy,baseline,66,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1 B
+us_foreign_policy,baseline,67,4,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+us_foreign_policy,baseline,68,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+us_foreign_policy,baseline,69,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+us_foreign_policy,baseline,70,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,1 C
+us_foreign_policy,baseline,71,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1 A
+us_foreign_policy,baseline,72,4,20-30-40-10,20,30,40,10,2,False,30,True,30,C,C,2 C
+us_foreign_policy,baseline,73,4,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1 D
+us_foreign_policy,baseline,74,4,10-30-40-20,10,30,40,20,2,False,30,False,0,B,A,2 B
+us_foreign_policy,baseline,75,4,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1 A
+us_foreign_policy,baseline,76,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+us_foreign_policy,baseline,77,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1. A
+us_foreign_policy,baseline,78,5,30-20-40-10,30,20,40,10,3,False,40,False,0,D,A,3 D
+us_foreign_policy,baseline,79,5,10-30-40-20,10,30,40,20,1,False,10,True,10,C,C,1. C
+us_foreign_policy,baseline,80,5,10-40-20-30,10,40,20,30,2,False,40,True,40,C,C,2 C
+us_foreign_policy,baseline,81,5,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+us_foreign_policy,baseline,82,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 A
+us_foreign_policy,baseline,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1 D
+us_foreign_policy,baseline,84,5,10-20-40-30,10,20,40,30,2,False,20,True,20,D,D,2 D
+us_foreign_policy,baseline,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1 A
+us_foreign_policy,baseline,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1. A
+us_foreign_policy,baseline,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,C,D,1. C
+us_foreign_policy,baseline,88,5,30-20-40-10,30,20,40,10,3,False,40,True,40,B,B,3 B
+us_foreign_policy,baseline,89,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1 A
+us_foreign_policy,baseline,90,5,30-10-40-20,30,10,40,20,1,False,30,True,30,D,D,1. D
+us_foreign_policy,baseline,91,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+us_foreign_policy,baseline,92,5,40-10-30-20,40,10,30,20,1,False,40,False,0,,D,1
+us_foreign_policy,baseline,93,5,30-40-20-10,30,40,20,10,1,False,30,False,0,B,D,1. B
+us_foreign_policy,baseline,94,5,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1 A
+us_foreign_policy,baseline,95,5,20-40-30-10,20,40,30,10,1,False,20,True,20,D,D,1 D
+us_foreign_policy,baseline,96,5,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1 D
+us_foreign_policy,model_A,1,1,20-40-10-30,20,40,10,30,1,False,20,True,20,D,D,"1D  The Marshall Plan was a program designed to aid the economic recovery of Europe, diminish the potential attraction of the Soviet system to Europeans, and embed US influence in Europe. Therefore, All of the above (D) is correct."
+us_foreign_policy,model_A,2,1,10-40-30-20,10,40,30,20,1,False,10,True,10,A,A,"2A  Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward thecommunistworld usheredinbyRichardNixon."
+us_foreign_policy,model_A,3,1,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,"1D  Realists tend to object to the influence of exceptionalism on American foreign policy becauseIt leads to a diminished focus on security, power, and interest."
+us_foreign_policy,model_A,4,1,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2D  The foreign policy doctrine that European nations should stay out of Latin America is known asThe Monroe Doctrine.
+us_foreign_policy,model_A,5,1,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,"1C  During the early years of his administration, Reagan's foreign and defense policies emphasized anticommunism."
+us_foreign_policy,model_A,6,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,"2B  According to Systemic theories, the primary determinant of astate'sforeignpolicyisThedistributionofpowerintheinternationalsystem."
+us_foreign_policy,model_A,7,1,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The Moscow Treaty on Strategic Offensive Reductions required the UnitedStatesandRussiato dismantlea significantnumberoftheirnuclearweapons.
+us_foreign_policy,model_A,8,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,"1C  The idea that war is ""the continuation of politics by other means"" helps capture the idea that governments use their military to help pursue policy goals."
+us_foreign_policy,model_A,9,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D  The Truman Doctrine indicated that the US would now view all local revolts through a geopolitical lens.
+us_foreign_policy,model_A,10,1,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1A  The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to The Central Intelligence Agency (CIA).
+us_foreign_policy,model_A,11,1,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1A  Contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy because they see it as a challenge to European global influence.
+us_foreign_policy,model_A,12,1,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A  The government body formed to coordinate American foreign and military policy is known asTheNationalSecurityCouncil.
+us_foreign_policy,model_A,13,1,10-40-30-20,10,40,30,20,1,False,10,False,0,A,C,2A  The Marshall Plan was a plan that provided economic assistance to rebuild Europe.
+us_foreign_policy,model_A,14,1,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,"1A  The key elements of the Liberal approach to US foreign policy are Promotion of Democracy, free-trade, and international institutions."
+us_foreign_policy,model_A,15,1,10-30-20-40,10,30,20,40,2,False,30,False,0,,C,2  The dominant course for foreign policy throughout most of American history can be categorized as (A) containment.
+us_foreign_policy,model_A,16,1,40-30-10-20,40,30,10,20,1,False,40,False,0,A,C,1A  The importance of oil in shaping U.S. foreign policy helps to highlight the importance of military superiority.
+us_foreign_policy,model_A,17,1,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A
+us_foreign_policy,model_A,18,1,30-40-20-10,30,40,20,10,1,False,30,False,0,A,C,1A  The president's principal civilian adviser on the military is the national security adviser.
+us_foreign_policy,model_A,19,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,D,2D  Which of the following is NOT a good predictor of which states will get nuclear weapons? (D) Regime type  Regime type is NOT a good predictor of which states will get nuclear weapons.
+us_foreign_policy,model_A,20,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1C  The trade-off between defense and social spending is often referredToCguns and butter.
+us_foreign_policy,model_A,21,2,10-40-20-30,10,40,20,30,1,False,10,True,10,C,C,1C  The 9/11 Commission proposed creating a National Intelligence Director (C) as a main organizational change with regard to the U.S. intelligence community.
+us_foreign_policy,model_A,22,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1D
+us_foreign_policy,model_A,23,2,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  The military-industrial complex refers to the close relationship between the military and private arms manufacturers. Eisenhower's speech warned against the influence of this complex on government policy.
+us_foreign_policy,model_A,24,2,40-20-30-10,40,20,30,10,1,False,40,False,0,C,B,1C  The term 'Rogue States' refers toStates outside of the 'family of nations'.
+us_foreign_policy,model_A,25,2,40-30-10-20,40,30,10,20,1,False,40,False,0,,B,2D
+us_foreign_policy,model_A,26,2,20-30-40-10,20,30,40,10,1,False,20,True,20,C,C,2C  Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?  C. Limited UN mandate and fear of a protracted conflict
+us_foreign_policy,model_A,27,2,20-40-30-10,20,40,30,10,-1,True,0,False,0,,,1D  2D  3B  4C
+us_foreign_policy,model_A,28,2,10-20-40-30,10,20,40,30,1,False,10,True,10,C,C,1C  TheJointChiefsofStaffismadeupoftheChairpersonandViceChairpersonoftheJointChiefsofStaffandtheCommandingOfficersofEachBranchoftheArmedServices.
+us_foreign_policy,model_A,29,2,30-20-10-40,30,20,10,40,1,False,30,True,30,A,A,1A  The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to (A)theCentralIntelligenceAgency(CIA).
+us_foreign_policy,model_A,30,2,20-40-10-30,20,40,10,30,1,False,20,True,20,C,C,1C  NSC 68 indicated a shift towards military containment.
+us_foreign_policy,model_A,31,2,30-40-20-10,30,40,20,10,1,False,30,True,30,A,A,1A  The government body formed to coordinate American foreign and military policy is known asTheNationalSecurityCouncil.
+us_foreign_policy,model_A,32,2,30-40-10-20,30,40,10,20,1,False,30,True,30,C,C,1C  The 'Domino Theory' was the idea that the fall of one state to communism would inexorably lead to the fall of its neighbors.
+us_foreign_policy,model_A,33,2,10-30-20-40,10,30,20,40,1,False,10,True,10,A,A,1A  The Gulf of Tonkin resolution allowed the US to intensify its involvement in Vietnam.
+us_foreign_policy,model_A,34,2,20-30-40-10,20,30,40,10,1,False,20,True,20,D,D,1D  The cooperative international organization of 185 countries designed to stabilize theexchangeofcurrenciesandtheworldeconomyistheInternationalMonetaryFund.
+us_foreign_policy,model_A,35,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D
+us_foreign_policy,model_A,36,2,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2B  Contemporary European liberal democrats tend to object to the influence of exceptionalism onAmericanforeignpolicybecauseTheyseesItAsAnIdeologicalFaçadeForUSImperialism.
+us_foreign_policy,model_A,37,2,40-30-10-20,40,30,10,20,1,False,40,False,0,A,D,1A  Realists tend to object to the influence of exceptionalism on American foreign policy becauseIt leads to a diminished focus on collective security.
+us_foreign_policy,model_A,38,2,10-20-40-30,10,20,40,30,1,False,10,False,0,D,B,1D  The 'Philadelphian System' encouraged the centralization of political power in the US.
+us_foreign_policy,model_A,39,3,20-40-10-30,20,40,10,30,1,False,20,False,0,D,A,1D  Direct diplomacy refers to bilateral talks that do not involve a third-party negotiator.
+us_foreign_policy,model_A,40,3,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The power to declare war rests with Congress.
+us_foreign_policy,model_A,41,3,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1C  The dominant course for foreign policy throughout most of American history can be categorized as isolationism.
+us_foreign_policy,model_A,42,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  According to Rosenau, All of the above (A)The external environment of the international system, (B)Domestic environment, government and bureaucracy, (C)The President's individual personality."
+us_foreign_policy,model_A,43,3,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,1A  The Marshall Plan was a plan that provided economic assistance to rebuild Europe.
+us_foreign_policy,model_A,44,3,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1B  The growing costs of war with France led Britain to impose new taxes on their American colonies.
+us_foreign_policy,model_A,45,3,10-30-40-20,10,30,40,20,1,False,10,True,10,A,A,"2A  Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift inAmericanforeignpolicytowardthecommunistworldusheredinbyRichardNixon."
+us_foreign_policy,model_A,46,3,40-10-30-20,40,10,30,20,1,False,40,True,40,B,B,1B  The USLocalDevelopmentswereviewedthroughaGeopoliticalLens  2A  RevelationsthattheNSAwasmonitoringthecommunicationsofAmericanCitizenswithoutobtainingWarrants  3B  Anarchy  4B  ItwouldhaveinvolvedcompromisingoppositiontoSlavery
+us_foreign_policy,model_A,47,3,20-10-30-40,20,10,30,40,1,False,20,False,0,A,B,1A  Paul Kennedy argued thatAll ofthe world'sleadingeconomiesweredecliningdueto lowgrowthandinflation.
+us_foreign_policy,model_A,48,3,30-40-10-20,30,40,10,20,1,False,30,False,0,,D,2D  Exceptionalism can link isolationist and internationalist strategies because Both can be viewed as different means of achieving thesame liberal ends.
+us_foreign_policy,model_A,49,3,40-30-10-20,40,30,10,20,1,False,40,True,40,D,D,1D
+us_foreign_policy,model_A,50,3,30-20-10-40,30,20,10,40,-1,True,0,False,0,,,1A  2A  3A  4D
+us_foreign_policy,model_A,51,3,20-30-10-40,20,30,10,40,1,False,20,False,0,A,B,1A  Contemporary European liberal democrats tend to object to the influence of exceptionalism onAmericanforeignpolicybecauseTheyseethisasaChallengetoEuropeanglobalinfluence.
+us_foreign_policy,model_A,52,3,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The UnitedStatesbecameacreditorcountryandfinancialcentrewithEuropeanwarspendingboostingtheUSeconomy.
+us_foreign_policy,model_A,53,3,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1D  The power to declare war rests with Congress.
+us_foreign_policy,model_A,54,3,20-30-10-40,20,30,10,40,2,False,30,False,0,A,C,"2  The policies part of a grand strategy of Offshore Balancing would be (C) Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens."
+us_foreign_policy,model_A,55,3,10-20-30-40,10,20,30,40,1,False,10,False,0,,B,2B
+us_foreign_policy,model_A,56,3,30-40-20-10,30,40,20,10,2,False,40,False,0,A,B,2  The key difference between US expansion pre- and post-1865 was (A) US expansion was based on territory rather than markets post-1865.
+us_foreign_policy,model_A,57,3,30-10-40-20,30,10,40,20,1,False,30,True,30,C,C,1C  The NATO intervention in Kosovo was unique becauseItwasthefirstwarwonbyairpoweralone.
+us_foreign_policy,model_A,58,4,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known asTheStateDepartment.
+us_foreign_policy,model_A,59,4,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The USLocalDevelopmentswereviewedthroughaGeopoliticalLens  2D  Bothbandc  3A  ProvideStrongEnforcement  4D  Alloftheabove
+us_foreign_policy,model_A,60,4,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,3A  The features that distinguish Socio-Economic accounts of US Cold War foreign policy is A focus on class and economic interests.
+us_foreign_policy,model_A,61,4,20-10-40-30,20,10,40,30,1,False,20,True,20,A,A,3C  The George W Bush administration changed the direction of US foreign policy by focusing on a more personal style of leadership.
+us_foreign_policy,model_A,62,4,30-10-40-20,30,10,40,20,1,False,30,False,0,A,B,3C  NSC 68 indicated a shift towards military containment.
+us_foreign_policy,model_A,63,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The best known and perhaps most important international organization is (A)theUnitedNations.
+us_foreign_policy,model_A,64,4,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,"1C  According to realists, the fundamental difference between the international system and the domestic system is (C) Institutions."
+us_foreign_policy,model_A,65,4,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2B  The 'unipolar moment' refers to the period after the end of the Cold War when the United States emerged as the sole superpower. This moment provided an opportunity to extend US power globally.
+us_foreign_policy,model_A,66,4,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1B  The Clinton Administration's policy on the Russian economy was to promote the marketization of theRussian economy.
+us_foreign_policy,model_A,67,4,10-40-30-20,10,40,30,20,1,False,10,False,0,,B,2D
+us_foreign_policy,model_A,68,4,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1C  The trade-off between defense and social spending is often referredtoasThegunsandbutterparadox.
+us_foreign_policy,model_A,69,4,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  The 'Domino Theory' was the idea that the fall of one state to communism would inexorably lead to the fall of its neighbors.
+us_foreign_policy,model_A,70,4,10-30-20-40,10,30,20,40,1,False,10,True,10,C,C,"1C  The primary institutions of the liberal international economic order were the GATT, IMF, and World Bank. NATO is not considered part of this order."
+us_foreign_policy,model_A,71,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,1A
+us_foreign_policy,model_A,72,4,20-30-40-10,20,30,40,10,1,False,20,False,0,,C,2C  The case President Eisenhower made against the 'military-industrial complex' was That military spending gave thearmsindustry unwarranted influenceonpoliticsandgovernment.
+us_foreign_policy,model_A,73,4,20-30-40-10,20,30,40,10,-1,True,0,False,0,,,1D  2B  3D  4A
+us_foreign_policy,model_A,74,4,10-30-40-20,10,30,40,20,1,False,10,False,0,A,D,2B  The 'New Populism' refers to a strand of internationalist sentiment.
+us_foreign_policy,model_A,75,4,40-10-20-30,40,10,20,30,1,False,40,True,40,A,A,1A  The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to (A)theCentralIntelligenceAgency(CIA).
+us_foreign_policy,model_A,76,4,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  The Truman Doctrine indicated that the US would now view all local revolts through a geopolitical lens.
+us_foreign_policy,model_A,77,5,40-20-30-10,40,20,30,10,1,False,40,False,0,A,B,1A  The key difference between US expansion pre- and post-1865 was based on territory rather than markets post-1865.
+us_foreign_policy,model_A,78,5,30-20-40-10,30,20,40,10,1,False,30,True,30,A,A,3D  Direct diplomacy refers to direct talks between state leaders without involving a third-party negotiator.
+us_foreign_policy,model_A,79,5,10-30-40-20,10,30,40,20,1,False,10,False,0,,C,"2D  The speaker who said ""Peace, commerce, and honest friendship with all nations, entangling alliances with none"" was Thomas Jefferson."
+us_foreign_policy,model_A,80,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,2C  The case President Eisenhower made against the 'military-industrial complex' was That military spending gave thearmsindustry unwarranted influenceonpoliticsandgovernment.
+us_foreign_policy,model_A,81,5,20-10-40-30,20,10,40,30,3,False,40,False,0,,C,1D  A multipolar system has 3 or more major powers.
+us_foreign_policy,model_A,82,5,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1A  American exceptionalism leads to opposition to world government because its general anti-statism opposes centralized government.
+us_foreign_policy,model_A,83,5,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The extension of American power globally challenged core assumptions of exceptionalism.
+us_foreign_policy,model_A,84,5,10-20-40-30,10,20,40,30,1,False,10,True,10,A,A,"2D  The United States became a creditor country and financial centre, with European war spending boosting theUS economy."
+us_foreign_policy,model_A,85,5,20-30-10-40,20,30,10,40,1,False,20,True,20,A,A,1A  The term 'New World Order' refers to A new democratic internationalism led by theUnitedStates.
+us_foreign_policy,model_A,86,5,30-10-20-40,30,10,20,40,1,False,30,True,30,A,A,1A  American exceptionalism refers to the belief that the UnitedStatesisdifferentfromothermajorpowersbecauseItisconcernednotonlywithPowerbutalsoPrinciples.
+us_foreign_policy,model_A,87,5,40-30-20-10,40,30,20,10,1,False,40,False,0,A,D,1A  The relationship between President and Congress developed under George H.W. Bush and Bill Clinton with Congress asserting its primacy in foreign policy.
+us_foreign_policy,model_A,88,5,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,3C
+us_foreign_policy,model_A,89,5,20-10-30-40,20,10,30,40,1,False,20,False,0,A,D,1A  TheInternationalMonetaryFundwasestablishedatBrettonWoodsin1994tostabilizetheglobaleconomy.
+us_foreign_policy,model_A,90,5,30-10-40-20,30,10,40,20,-1,True,0,False,0,,,1D  2B  3B  4D
+us_foreign_policy,model_A,91,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  There is uncertainty over which states have nuclear weapons because leaders have incentives to lie, If leaders revealed their programs, they would be more likely to be attacked, Leaders will not alwaysgrant foreignmonitorsaccesstotheirnuclearprograms."
+us_foreign_policy,model_A,92,5,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,"1D  According to Rosenau, All of the above (A)The external environment of the international system, (B)Domestic environment, government and bureaucracy, (C)The President's individual personality."
+us_foreign_policy,model_A,93,5,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2B  The Moscow Treaty on Strategic Offensive Reductions required the UnitedStatesandRussiato dismantlea significantnumberoftheirnuclearweapons.
+us_foreign_policy,model_A,94,5,10-20-30-40,10,20,30,40,1,False,10,True,10,A,A,1A
+us_foreign_policy,model_A,95,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,D,2B
+us_foreign_policy,model_A,96,5,10-20-40-30,10,20,40,30,1,False,10,False,0,D,A,1D  The George W. Bush administration increased international support for the UnitedStates.

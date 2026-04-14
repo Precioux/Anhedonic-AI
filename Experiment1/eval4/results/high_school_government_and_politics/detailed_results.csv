@@ -1,0 +1,193 @@
+subject,tier,ID,Subset,Reward_Order,pts_pos1,pts_pos2,pts_pos3,pts_pos4,Chosen_Option,Is_Multi_Answer,Attempted_Points,Is_Correct,Earned_Points,Predicted_Answer,Ground_Truth,Raw_Response
+high_school_government_and_politics,baseline,1,1,40-20-30-10,40,20,30,10,1,False,40,False,0,D,B,1. D
+high_school_government_and_politics,baseline,2,1,20-40-30-10,20,40,30,10,2,False,40,True,40,C,C,2 C
+high_school_government_and_politics,baseline,3,1,10-30-20-40,10,30,20,40,2,False,30,True,30,D,D,2 D
+high_school_government_and_politics,baseline,4,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1. C
+high_school_government_and_politics,baseline,5,1,20-10-30-40,20,10,30,40,4,False,40,True,40,D,D,4 D
+high_school_government_and_politics,baseline,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,7,1,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,1. A
+high_school_government_and_politics,baseline,8,1,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,1. D
+high_school_government_and_politics,baseline,9,1,20-40-10-30,20,40,10,30,1,False,20,False,0,A,D,1 A
+high_school_government_and_politics,baseline,10,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_government_and_politics,baseline,11,1,10-20-40-30,10,20,40,30,-1,True,0,False,0,,,1 D 2 B 3 A 4 D
+high_school_government_and_politics,baseline,12,1,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1. D
+high_school_government_and_politics,baseline,13,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,14,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1. D
+high_school_government_and_politics,baseline,16,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,1. A
+high_school_government_and_politics,baseline,17,1,40-20-10-30,40,20,10,30,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,18,1,30-40-20-10,30,40,20,10,2,False,40,False,0,,C,2
+high_school_government_and_politics,baseline,19,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,20,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1 A
+high_school_government_and_politics,baseline,21,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1. D
+high_school_government_and_politics,baseline,22,2,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,23,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1 D
+high_school_government_and_politics,baseline,24,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1. D
+high_school_government_and_politics,baseline,25,2,10-40-30-20,10,40,30,20,1,False,10,True,10,C,C,1. C
+high_school_government_and_politics,baseline,26,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1 D
+high_school_government_and_politics,baseline,27,2,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,28,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,1. B
+high_school_government_and_politics,baseline,29,2,10-30-40-20,10,30,40,20,2,False,30,False,0,C,D,2 C
+high_school_government_and_politics,baseline,30,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,1. D
+high_school_government_and_politics,baseline,31,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,1. A
+high_school_government_and_politics,baseline,32,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,33,2,20-30-40-10,20,30,40,10,2,False,30,True,30,D,D,2 D
+high_school_government_and_politics,baseline,34,2,30-40-20-10,30,40,20,10,2,False,40,False,0,,B,2
+high_school_government_and_politics,baseline,35,2,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_government_and_politics,baseline,36,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1 D
+high_school_government_and_politics,baseline,37,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1 A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.
+high_school_government_and_politics,baseline,38,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,39,3,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1 C
+high_school_government_and_politics,baseline,40,3,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,1. C
+high_school_government_and_politics,baseline,41,3,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1. B
+high_school_government_and_politics,baseline,42,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,43,3,10-40-20-30,10,40,20,30,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,44,3,10-20-30-40,10,20,30,40,2,False,20,True,20,D,D,2 D
+high_school_government_and_politics,baseline,45,3,20-40-30-10,20,40,30,10,1,False,20,False,0,D,A,1 D
+high_school_government_and_politics,baseline,46,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,1. D
+high_school_government_and_politics,baseline,47,3,20-40-10-30,20,40,10,30,2,False,40,True,40,C,C,2 C
+high_school_government_and_politics,baseline,48,3,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,1 B
+high_school_government_and_politics,baseline,49,3,20-30-40-10,20,30,40,10,2,False,30,False,0,,D,2
+high_school_government_and_politics,baseline,50,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1. C
+high_school_government_and_politics,baseline,51,3,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,2 D
+high_school_government_and_politics,baseline,52,3,30-20-40-10,30,20,40,10,3,False,40,False,0,,D,3
+high_school_government_and_politics,baseline,53,3,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1 A
+high_school_government_and_politics,baseline,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,1. D
+high_school_government_and_politics,baseline,55,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+high_school_government_and_politics,baseline,56,3,40-30-10-20,40,30,10,20,2,False,30,True,30,B,B,2 B
+high_school_government_and_politics,baseline,57,3,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1 C
+high_school_government_and_politics,baseline,58,4,10-20-40-30,10,20,40,30,3,False,40,False,0,,D,3
+high_school_government_and_politics,baseline,59,4,20-40-10-30,20,40,10,30,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,60,4,10-20-40-30,10,20,40,30,2,False,20,False,0,B,A,2 B
+high_school_government_and_politics,baseline,61,4,10-30-20-40,10,30,20,40,4,False,40,False,0,,D,4
+high_school_government_and_politics,baseline,62,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1. D
+high_school_government_and_politics,baseline,63,4,10-40-30-20,10,40,30,20,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,64,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,1. B
+high_school_government_and_politics,baseline,65,4,10-40-30-20,10,40,30,20,2,False,40,True,40,C,C,2 C
+high_school_government_and_politics,baseline,66,4,20-30-10-40,20,30,10,40,1,False,20,True,20,D,D,1. D
+high_school_government_and_politics,baseline,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1. D
+high_school_government_and_politics,baseline,69,4,10-20-30-40,10,20,30,40,1,False,10,True,10,C,C,1. C
+high_school_government_and_politics,baseline,70,4,10-20-40-30,10,20,40,30,2,False,20,False,0,,C,2
+high_school_government_and_politics,baseline,71,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1. A
+high_school_government_and_politics,baseline,72,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1. A
+high_school_government_and_politics,baseline,73,4,20-30-40-10,20,30,40,10,2,False,30,True,30,C,C,2 C
+high_school_government_and_politics,baseline,74,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+high_school_government_and_politics,baseline,75,4,30-40-10-20,30,40,10,20,2,False,40,False,0,,D,2
+high_school_government_and_politics,baseline,76,4,30-10-40-20,30,10,40,20,3,False,40,False,0,,D,3
+high_school_government_and_politics,baseline,77,5,20-40-30-10,20,40,30,10,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,78,5,10-30-40-20,10,30,40,20,2,False,30,False,0,,D,2
+high_school_government_and_politics,baseline,79,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1. B
+high_school_government_and_politics,baseline,80,5,30-10-20-40,30,10,20,40,4,False,40,True,40,D,D,4. D
+high_school_government_and_politics,baseline,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1. B
+high_school_government_and_politics,baseline,82,5,30-10-40-20,30,10,40,20,3,False,40,False,0,,D,3
+high_school_government_and_politics,baseline,83,5,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2 D
+high_school_government_and_politics,baseline,84,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1. D
+high_school_government_and_politics,baseline,85,5,20-40-10-30,20,40,10,30,2,False,40,False,0,,C,2
+high_school_government_and_politics,baseline,86,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1. B
+high_school_government_and_politics,baseline,87,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_government_and_politics,baseline,88,5,10-40-30-20,10,40,30,20,2,False,40,False,0,,A,2
+high_school_government_and_politics,baseline,89,5,30-20-40-10,30,20,40,10,1,False,30,False,0,D,A,1. D
+high_school_government_and_politics,baseline,90,5,10-40-20-30,10,40,20,30,2,False,40,False,0,,D,2
+high_school_government_and_politics,baseline,91,5,20-30-10-40,20,30,10,40,1,False,20,False,0,D,C,1. D
+high_school_government_and_politics,baseline,92,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1. D. Appellate judges review decisions of lower courts.
+high_school_government_and_politics,baseline,93,5,40-10-20-30,40,10,20,30,1,False,40,True,40,B,B,1. B
+high_school_government_and_politics,baseline,94,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1. C
+high_school_government_and_politics,baseline,95,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1. D
+high_school_government_and_politics,baseline,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1. A
+high_school_government_and_politics,model_A,1,1,40-20-30-10,40,20,30,10,-1,True,0,False,0,,,1A  2D  3D  4A
+high_school_government_and_politics,model_A,2,1,20-40-30-10,20,40,30,10,1,False,20,False,0,A,B,2C  A news story focuses on a politician's scandals rather than achievements.
+high_school_government_and_politics,model_A,3,1,10-30-20-40,10,30,20,40,1,False,10,False,0,A,D,2D  The primary objective of the Founders when they met in 1787 was to replace the weak central government created by the Articles of Confederation with a stronger one.
+high_school_government_and_politics,model_A,4,1,30-20-40-10,30,20,40,10,1,False,30,True,30,C,C,1C  The principle established by the Supreme Court's decision in Marbury v. Madison is Judicial Review.
+high_school_government_and_politics,model_A,5,1,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,1D  The states moved forward the date of their presidential primary elections to increase the significance of their election results.
+high_school_government_and_politics,model_A,6,1,40-30-20-10,40,30,20,10,1,False,40,True,40,D,D,1D
+high_school_government_and_politics,model_A,7,1,40-20-10-30,40,20,10,30,1,False,40,True,40,A,A,"1A  Every ten years, the majority of state legislatures are responsible for redrawing congressional district boundaries."
+high_school_government_and_politics,model_A,8,1,30-40-20-10,30,40,20,10,1,False,30,True,30,D,D,"1D  The results of electoral college voting tend to distort the winner's margin of victory, when compared with the popular vote for president."
+high_school_government_and_politics,model_A,9,1,20-40-10-30,20,40,10,30,1,False,20,False,0,,D,2B
+high_school_government_and_politics,model_A,10,1,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The principles of freedom stated in the Declaration of Independence were influenced by the beliefs of John Locke.
+high_school_government_and_politics,model_A,11,1,10-20-40-30,10,20,40,30,1,False,10,True,10,D,D,1D  The motion for cloture is used to end a filibuster and force a vote on a bill in the Senate.
+high_school_government_and_politics,model_A,12,1,30-10-40-20,30,10,40,20,1,False,30,False,0,D,A,1D  A presidential veto would most likely be overturned ifThe president's successfulreelectioncampaignadvocatedbipartisanship.
+high_school_government_and_politics,model_A,13,1,40-10-20-30,40,10,20,30,1,False,40,True,40,C,C,1C  Incumbents have a great advantage over challengers because they are better known and can raise campaign funds more easily.
+high_school_government_and_politics,model_A,14,1,40-10-20-30,40,10,20,30,1,False,40,True,40,D,D,"1D  According to Brown v. Board of Education (1954), the ""separate but equal"" doctrine established in Plessy v. Ferguson (1896) violated the Fourteenth Amendment."
+high_school_government_and_politics,model_A,15,1,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,1D  The War Powers Act of 1974 and the Budget and Impoundment Control Act of 1974 represent efforts by Congress to limit the powers of the president.
+high_school_government_and_politics,model_A,16,1,20-30-40-10,20,30,40,10,1,False,20,True,20,A,A,"1A  The ""separate but equal"" doctrine was established by the Supreme Court's decision in Plessy v. Ferguson."
+high_school_government_and_politics,model_A,17,1,40-20-10-30,40,20,10,30,1,False,40,False,0,A,C,"1A  Interest groups representing businesspeople and investors are often among the most successful lobbying groups in Washington, D.C., becauseSuch groups have the financial resources to mount sustained campaigns on their own behalf. Manysuchgroups have beeninexistenceforseveraldecadesormoreallowingt"
+high_school_government_and_politics,model_A,18,1,30-40-20-10,30,40,20,10,2,False,40,False,0,A,C,2  The impact of a higher level of education on voting habits EXCEPT (A) voters are more likely to support government-enforced affirmative action programs (B) voters are more likely to support environmental protection efforts (C) voters are more likely to support public prayer in schools (D) voters
+high_school_government_and_politics,model_A,19,1,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D  The Dred Scott decision was overturned by the Fourteenth Amendment.
+high_school_government_and_politics,model_A,20,2,20-40-30-10,20,40,30,10,1,False,20,True,20,A,A,1A  The primary reason that the committees in theHouseofRepresentativesaremoreinfluentialthantheyareintheSenateisThedifferenceinSizebetweenTheTwoChambersMeansthatMoreWorkIsDoneOnTheFloorInTheSenateAndMoreWorkIsDoneInCommitteesInTheHouse.
+high_school_government_and_politics,model_A,21,2,10-20-30-40,10,20,30,40,1,False,10,True,10,D,D,1D  The First Amendment protects Americans' right to petition the government for a redress of grievances.
+high_school_government_and_politics,model_A,22,2,40-30-20-10,40,30,20,10,1,False,40,False,0,A,C,2B  When the Supreme Court decides to take a case on appeal it issues a writ of certiorari.
+high_school_government_and_politics,model_A,23,2,10-30-20-40,10,30,20,40,1,False,10,True,10,D,D,"1D  The best illustration of ""pork barrel"" legislation is (D) A member of Congress inserts a provision into a bill to secure funding for a project in his or her district. This is because pork barrel legislation refers to立法者将资金分配给自己的选区或支持者以换取选民支持的立法行为。"
+high_school_government_and_politics,model_A,24,2,10-40-20-30,10,40,20,30,1,False,10,True,10,D,D,1D  The correct answer is D. The two legislative bodies form a conference committee.
+high_school_government_and_politics,model_A,25,2,10-40-30-20,10,40,30,20,1,False,10,False,0,B,C,1B
+high_school_government_and_politics,model_A,26,2,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,"1D  The Senate allows unlimited debate, while theHouse doesnot."
+high_school_government_and_politics,model_A,27,2,10-40-20-30,10,40,20,30,1,False,10,False,0,,D,"2D  The term ""federalism"" refers to The division and sharing of power between the national and state governments."
+high_school_government_and_politics,model_A,28,2,30-10-40-20,30,10,40,20,1,False,30,True,30,B,B,"1B  The primary purpose of ""motor voter"" laws isTo make it easier for citizensTo registerTo vote."
+high_school_government_and_politics,model_A,29,2,10-30-40-20,10,30,40,20,1,False,10,False,0,,D,2C
+high_school_government_and_politics,model_A,30,2,40-30-10-20,40,30,10,20,1,False,40,False,0,D,A,"1D  The primary reason that the committees in the House of Representatives are more influential than they are in the Senate is becauseA member of any party can servea committeeintheHouse, butonlymajorpartymemberscanserveoncommitteesintheSenate."
+high_school_government_and_politics,model_A,31,2,40-10-30-20,40,10,30,20,1,False,40,False,0,A,C,"1A  The implied powers of Congress include the power to regulate interstate commerce.  2C  The line-item veto was found unconstitutional because it gave legislative powers to the president.  3B  If no presidential candidate receives a majority of the electoral college vote, then the incumbent vice p"
+high_school_government_and_politics,model_A,32,2,40-20-10-30,40,20,10,30,1,False,40,True,40,D,D,1D  Appellate judges review decisions of lower courts.
+high_school_government_and_politics,model_A,33,2,20-30-40-10,20,30,40,10,1,False,20,False,0,,D,2D  The principles of freedom stated in the Declaration of Independence were influenced by the beliefs of political philosopher John Locke.
+high_school_government_and_politics,model_A,34,2,30-40-20-10,30,40,20,10,1,False,30,False,0,,D,2B  The primary point of disagreement between Federalists and AntiFederalists was overthestrengthoftheFederalGovernmentrelativetotheStates.
+high_school_government_and_politics,model_A,35,2,10-20-30-40,10,20,30,40,1,False,10,False,0,,C,2D
+high_school_government_and_politics,model_A,36,2,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,1D  The idea that the Bill of Rights applies to both federal and state governments by means of theFourteenth Amendmentis calledthe doctrine of Incorporation.
+high_school_government_and_politics,model_A,37,2,30-20-10-40,30,20,10,40,1,False,30,False,0,A,B,1A  The correct answer is A.Registered voters between the ages 35-45 are more likely to vote than those under 21. This statement is NOT accurate.AccordingtoTheCivicEngagementandDemocracyInAmerica2016reportbyTheNationalConferenceonCitizenshipandVotingThevoterturnoutamong1821yearoldsislower
+high_school_government_and_politics,model_A,38,2,40-10-30-20,40,10,30,20,1,False,40,True,40,C,C,"1C  The best illustration of ""pork barrel"" legislation is (D) A member of Congress inserts a provision into a bill to secure funding for a project in his or her district."
+high_school_government_and_politics,model_A,39,3,30-40-20-10,30,40,20,10,1,False,30,True,30,C,C,1C  Incumbents have a great advantage over challengers because they are better known and can raise campaign funds more easily.
+high_school_government_and_politics,model_A,40,3,20-30-10-40,20,30,10,40,1,False,20,True,20,C,C,"1C  A reporter announcing which candidate leads in a public opinion poll is an example of ""horse-race journalism"" because it focuses on short-term public opinion rather than long-term political developments."
+high_school_government_and_politics,model_A,41,3,30-20-40-10,30,20,40,10,1,False,30,True,30,B,B,1B  The principle realized when the federal government provides most of the funding to aprojectinwhichmultiplelevelsofgovernmentworktogetherisFiscalFederalism.
+high_school_government_and_politics,model_A,42,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C
+high_school_government_and_politics,model_A,43,3,10-40-20-30,10,40,20,30,1,False,10,False,0,,A,"2D  TheEnvironmentalProtectionAgency'sauthoritytissue,Enforce,andAdjudicatealldisputesregardinganewregulationviolationstheSeparationofPowersprinciple."
+high_school_government_and_politics,model_A,44,3,10-20-30-40,10,20,30,40,2,False,20,False,0,,D,"2  Republican candidates for president who tend to be more successful in the primaries tend to be more conservative than rank-andFile Republicans becauseDParty activists, whose political participation is disproportionateToTheirNumbers, tendToBeVeryConservative."
+high_school_government_and_politics,model_A,45,3,20-40-30-10,20,40,30,10,1,False,20,False,0,,A,2B
+high_school_government_and_politics,model_A,46,3,10-30-40-20,10,30,40,20,1,False,10,True,10,D,D,"1D  Political action committees (PACs) raise money to influence federal, state, and local elections."
+high_school_government_and_politics,model_A,47,3,20-40-10-30,20,40,10,30,1,False,20,False,0,,C,2C  The principle established by the Supreme Court's decision in Marbury v. Madison was Judicial Review.
+high_school_government_and_politics,model_A,48,3,20-10-40-30,20,10,40,30,1,False,20,True,20,B,B,"1B  If Congress were to pass legislation and declare a recess, and the president took no action on the bill within ten days of its passage, thenCongress wouldexerciseaPocketVeto."
+high_school_government_and_politics,model_A,49,3,20-30-40-10,20,30,40,10,1,False,20,False,0,,B,2D
+high_school_government_and_politics,model_A,50,3,40-20-30-10,40,20,30,10,1,False,40,True,40,C,C,1C  The correct answer is C. The largest number of political action committees (PACs) has been created by For-profit business since the 1970s.
+high_school_government_and_politics,model_A,51,3,10-30-40-20,10,30,40,20,1,False,10,False,0,,C,2D  The principles of freedom stated in the Declaration of Independence were influenced by the beliefs of political philosopher John Locke.
+high_school_government_and_politics,model_A,52,3,30-20-40-10,30,20,40,10,1,False,30,False,0,,B,"3D  The statement ""Evangelical Christians are more likely to vote Democratic than non-religious Americans"" is NOT true. Evangelical Christians are generally considered to be more likely to voteRepublicanthanDemocratic."
+high_school_government_and_politics,model_A,53,3,30-40-10-20,30,40,10,20,1,False,30,True,30,A,A,1A  The primary reason that the committees in theHouseofRepresentativesaremoreinfluentialthantheyareintheSenateisThedifferenceinSizebetweenTheTwoChambersMeansthatMoreWorkIsDoneOnTheFloorInTheSenateAndMoreWorkIsDoneInCommitteesInTheHouse.
+high_school_government_and_politics,model_A,54,3,30-40-10-20,30,40,10,20,1,False,30,True,30,D,D,"1D  Political action committees (PACs) raise money to influence federal, state, and local elections."
+high_school_government_and_politics,model_A,55,3,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,"1B  The primary purpose of ""motor voter"" laws isTo make it easier for citizensTo registerTovote."
+high_school_government_and_politics,model_A,56,3,40-30-10-20,40,30,10,20,2,False,30,True,30,B,B,2 B
+high_school_government_and_politics,model_A,57,3,40-30-20-10,40,30,20,10,1,False,40,True,40,C,C,1C  Incumbents have a great advantage over challengers because they are better known and can raise campaign funds more easily.
+high_school_government_and_politics,model_A,58,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,C,"3D  The term ""federalism"" refers to The division and sharing of power between the national and state governments."
+high_school_government_and_politics,model_A,59,4,20-40-10-30,20,40,10,30,1,False,20,False,0,,D,2D
+high_school_government_and_politics,model_A,60,4,10-20-40-30,10,20,40,30,1,False,10,False,0,,B,"2B  Under the Articles of Confederation, the national government had the power to collect taxes."
+high_school_government_and_politics,model_A,61,4,10-30-20-40,10,30,20,40,1,False,10,False,0,C,A,1C
+high_school_government_and_politics,model_A,62,4,20-10-40-30,20,10,40,30,1,False,20,True,20,D,D,1D  The correct answer is D. There is no difference in the likelihood of voting among those with undergraduate degrees and those with postgraduate degrees.
+high_school_government_and_politics,model_A,63,4,10-40-30-20,10,40,30,20,1,False,10,False,0,,A,2D
+high_school_government_and_politics,model_A,64,4,20-30-10-40,20,30,10,40,1,False,20,True,20,B,B,"1B  If Congress were to pass legislation and declare a recess, and the president took no action on the bill within ten days of its passage, The president would exercise aPocket veto  2A  A presidential veto would mostlikelybeoverturnedinApproximately30%oftheSenatorsandRepresentativesaremembersoftheP"
+high_school_government_and_politics,model_A,65,4,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2C
+high_school_government_and_politics,model_A,66,4,20-30-10-40,20,30,10,40,1,False,20,False,0,A,D,"1A  The Constitution, as originally ratified, addressed all ofthefollowing weaknesses oftheArticles of ConfederationEXCEPTthe(A)lackofachiefexecutiveoffice(B)nationalgovernment'sinabilitytolevytaxeseffectively(C)absenceofacentralauthoritytoregulateinterstatetrade(D)omissionofauniversalsuffrageclause"
+high_school_government_and_politics,model_A,67,4,40-10-30-20,40,10,30,20,1,False,40,True,40,D,D,1D
+high_school_government_and_politics,model_A,68,4,40-20-30-10,40,20,30,10,1,False,40,True,40,D,D,1D  The legal principle that instructs judges to follow established precedent when deciding cases is commonly referredto as stare decisis.
+high_school_government_and_politics,model_A,69,4,10-20-30-40,10,20,30,40,1,False,10,False,0,A,C,"1A  Interest groups representing businesspeople and investors are often among the most successful lobbying groups in Washington, D.C., becauseSuch groups have the financial resources to mount sustained campaigns on their own behalf. Manysuchgroups have beeninexistenceforseveraldecadesormoreallowingt"
+high_school_government_and_politics,model_A,70,4,10-20-40-30,10,20,40,30,2,False,20,True,20,C,C,2  The line-item veto was found unconstitutional because (C) It gave legislative powers to the president.
+high_school_government_and_politics,model_A,71,4,40-30-20-10,40,30,20,10,1,False,40,True,40,A,A,1A  The most accurate statement about writs of certiorari is Fewer than 5% of petitions for writs of certiorari are granted by the Supreme Court.
+high_school_government_and_politics,model_A,72,4,40-10-20-30,40,10,20,30,1,False,40,False,0,A,D,1A  The swift adoption of the Bill of Rights demonstrates the Framers' unqualified commitment to individual rights.
+high_school_government_and_politics,model_A,73,4,20-30-40-10,20,30,40,10,1,False,20,False,0,A,B,2C  A reporter announces which candidate leads in a public opinion poll.
+high_school_government_and_politics,model_A,74,4,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,1B  A sound bite would most likely be used during a presidential election in order to provide the audience with a candidate's view in a limited amount of time.
+high_school_government_and_politics,model_A,75,4,30-40-10-20,30,40,10,20,2,False,40,True,40,D,D,2  The correct answer is (D) Congressional power over the bureaucracy is less than that of the president.
+high_school_government_and_politics,model_A,76,4,30-10-40-20,30,10,40,20,1,False,30,False,0,C,D,"3D  When the Founders met in 1787 to write the Constitution, their primary objective was to replace the weak central government created by the Articles of Confederation with a stronger one."
+high_school_government_and_politics,model_A,77,5,20-40-30-10,20,40,30,10,1,False,20,False,0,,B,"2D  In the past decade, many states have moved forward the date of their presidential primary elections in an effort to increase the significance of their election results."
+high_school_government_and_politics,model_A,78,5,10-30-40-20,10,30,40,20,2,False,30,True,30,D,D,"Question 2  Answer: D  TheSeparation of Powers principle might be violatediftheEnvironmentalProtectionAgencyissued,Enforced,andAdjudicatedalldisputesregardingaNewRegulation."
+high_school_government_and_politics,model_A,79,5,40-30-10-20,40,30,10,20,1,False,40,True,40,B,B,Question 1  Answer: B  Federal programs are implemented by state and local governments through federal funding.
+high_school_government_and_politics,model_A,80,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  The Dred Scott decision of 1857 was overturned by the Fourteenth Amendment.
+high_school_government_and_politics,model_A,81,5,30-10-20-40,30,10,20,40,1,False,30,True,30,B,B,1B  The voter's political party affiliation best predicts how someone will vote in anelection.
+high_school_government_and_politics,model_A,82,5,30-10-40-20,30,10,40,20,1,False,30,False,0,,B,3D
+high_school_government_and_politics,model_A,83,5,30-40-10-20,30,40,10,20,2,False,40,False,0,,D,"2  The Supreme Court's doctrine of incorporation extends most of the Bill of Rights' protections to state governments as well. Therefore, option (D) is correct.  ThereforeThe answer is (D)."
+high_school_government_and_politics,model_A,84,5,30-20-10-40,30,20,10,40,1,False,30,True,30,D,D,"1D  The term ""federalism"" refers to the division and sharing of power between the national and state governments."
+high_school_government_and_politics,model_A,85,5,20-40-10-30,20,40,10,30,2,False,40,False,0,A,C,2  The absence of a political party solely dedicated to labor and working class issues in the UnitedStates (A) proves U.S. politicians arenot concernedaboutservingworking-classconstituencies (B)istheresultofgovernmentrestrictionsplacedonthepoliticalactivitiesoflaborunions (C)reflectsthesdifficultyof
+high_school_government_and_politics,model_A,86,5,40-20-10-30,40,20,10,30,1,False,40,True,40,B,B,1B  A sound bite would most likely be used during a presidential election in order to provide the audience with a candidate's view in a limited amount of time.
+high_school_government_and_politics,model_A,87,5,20-10-30-40,20,10,30,40,1,False,20,False,0,D,C,1D  The largest number of political action committees (PACs) created since the 1970s has been by Religious Institutions.
+high_school_government_and_politics,model_A,88,5,10-40-30-20,10,40,30,20,1,False,10,False,0,,D,2B
+high_school_government_and_politics,model_A,89,5,30-20-40-10,30,20,40,10,1,False,30,False,0,C,A,1C
+high_school_government_and_politics,model_A,90,5,10-40-20-30,10,40,20,30,1,False,10,False,0,,C,2D  The consequence of low voter turnout in the UnitedStates EXCEPTAnimpositionofafineonnon- voters
+high_school_government_and_politics,model_A,91,5,20-30-10-40,20,30,10,40,1,False,20,False,0,A,C,1A  The inherent power of the president is the power to appoint a nominee for the U.S. Supreme Court.
+high_school_government_and_politics,model_A,92,5,30-10-20-40,30,10,20,40,1,False,30,True,30,D,D,1D  Appellate judges review decisions of lower courts.
+high_school_government_and_politics,model_A,93,5,40-10-20-30,40,10,20,30,1,False,40,False,0,A,B,"1A  The primary purpose of ""motor voter"" laws is To increase turnout on election days."
+high_school_government_and_politics,model_A,94,5,20-10-30-40,20,10,30,40,1,False,20,True,20,C,C,1C  The legal basis for the 1973 Roe v. Wade majority opinion was The Bill of Rights implying a right to privacy.
+high_school_government_and_politics,model_A,95,5,20-10-30-40,20,10,30,40,1,False,20,True,20,D,D,"1D  Political action committees (PACs) raise money to influence federal, state, and local elections."
+high_school_government_and_politics,model_A,96,5,30-20-10-40,30,20,10,40,1,False,30,False,0,A,D,1A  The swift adoption of the Bill of Rights demonstrates the Framers' unqualified commitment to individual rights.

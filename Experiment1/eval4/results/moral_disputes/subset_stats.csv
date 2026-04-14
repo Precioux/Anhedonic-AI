@@ -1,0 +1,11 @@
+subject,tier,subset,n_rows,acc_%,mean_pts,multi_%,rate_10pt,rate_20pt,rate_30pt,rate_40pt
+moral_disputes,baseline,1,19,73.684,30.0,0.0,0.1579,0.1579,0.2105,0.4737
+moral_disputes,baseline,2,19,68.421,30.526,0.0,0.1053,0.1053,0.4211,0.3684
+moral_disputes,baseline,3,19,42.105,32.632,0.0,0.1053,0.1053,0.2105,0.5789
+moral_disputes,baseline,4,19,63.158,25.789,0.0,0.1053,0.4211,0.2632,0.2105
+moral_disputes,baseline,5,20,75.0,29.0,0.0,0.15,0.1,0.45,0.3
+moral_disputes,model_A,1,16,56.25,25.625,15.789,0.3125,0.1875,0.125,0.375
+moral_disputes,model_A,2,15,46.667,24.0,21.053,0.2667,0.2667,0.2667,0.2
+moral_disputes,model_A,3,13,46.154,31.538,31.579,0.0769,0.2308,0.1538,0.5385
+moral_disputes,model_A,4,16,50.0,26.25,15.789,0.1875,0.3125,0.1875,0.3125
+moral_disputes,model_A,5,18,44.444,27.222,10.0,0.2222,0.0556,0.5,0.2222
