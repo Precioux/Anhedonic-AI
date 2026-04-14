@@ -31,8 +31,8 @@ from tqdm import tqdm
 # CONFIG
 # ══════════════════════════════════════════════════════════════════════════════
 MODEL_PATH  = "/mnt/mahdipou/models/qwen2-vl-72b"
-ACT_DIR     = "/mnt//models/Anhedonic-AI/72-Exp1/all_extraction/activations/orig"
-RANKED_CSV  = "/mnt//models/Anhedonic-AI/72-Exp1/analysis_L46_53/top_neurons_L46_53.csv"
+ACT_DIR     = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/all_extraction/activations/orig"
+RANKED_CSV  = "/mnt/mahdipou/models/Anhedonic-AI/72-Exp1/analysis_L46_53/top_neurons_L46_53.csv"
 
 # NOTE: ROBUSTNESS_DIR points to the shared robustness CSVs (generated once,
 # used by both 7B and 72B evals). If your 72B robustness data is separate,
