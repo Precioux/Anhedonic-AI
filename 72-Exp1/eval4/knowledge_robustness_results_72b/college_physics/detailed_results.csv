@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+college_physics,baseline,1,1,1,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,C,1,1,C
+college_physics,baseline,1,2,1,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,D,1,1,D
+college_physics,baseline,1,3,1,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,D,0,1,D
+college_physics,baseline,1,4,1,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,D
+college_physics,baseline,2,1,1,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,B
+college_physics,baseline,2,2,1,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,A,1,1,A
+college_physics,baseline,2,3,1,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,B,0,1,B
+college_physics,baseline,2,4,1,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,C
+college_physics,baseline,3,1,1,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,A
+college_physics,baseline,3,2,1,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,C,0,1,C
+college_physics,baseline,3,3,1,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,B,0,1,B
+college_physics,baseline,3,4,1,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,baseline,4,1,1,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,A,0,1,(A) 2 x
+college_physics,baseline,4,2,1,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,B,1,1,B
+college_physics,baseline,4,3,1,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,D,1,1,D
+college_physics,baseline,4,4,1,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,C,0,1,C
+college_physics,baseline,5,1,1,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,C
+college_physics,baseline,5,2,1,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,A
+college_physics,baseline,5,3,1,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,B,0,1,B
+college_physics,baseline,5,4,1,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,D,1,1,D
+college_physics,baseline,6,1,1,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,B
+college_physics,baseline,6,2,1,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,A,1,1,A
+college_physics,baseline,6,3,1,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,baseline,6,4,1,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,baseline,7,1,1,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,B,0,1,B
+college_physics,baseline,7,2,1,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,D
+college_physics,baseline,7,3,1,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,D,1,1,D
+college_physics,baseline,7,4,1,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,A
+college_physics,baseline,8,1,1,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,D
+college_physics,baseline,8,2,1,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,A,0,1,A
+college_physics,baseline,8,3,1,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,C,0,1,C
+college_physics,baseline,8,4,1,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,A
+college_physics,baseline,9,1,1,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,D,1,1,D
+college_physics,baseline,9,2,1,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,D,0,1,D
+college_physics,baseline,9,3,1,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,A,1,1,A
+college_physics,baseline,9,4,1,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,C
+college_physics,baseline,10,1,1,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,B,0,1,B
+college_physics,baseline,10,2,1,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,A
+college_physics,baseline,10,3,1,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,B,0,1,B
+college_physics,baseline,10,4,1,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,C
+college_physics,baseline,11,1,1,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,D
+college_physics,baseline,11,2,1,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,11,3,1,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,C,0,1,C
+college_physics,baseline,11,4,1,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,A,0,1,A
+college_physics,baseline,12,1,1,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,D
+college_physics,baseline,12,2,1,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,D,1,1,D
+college_physics,baseline,12,3,1,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,C,0,1,C
+college_physics,baseline,12,4,1,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,D
+college_physics,baseline,13,1,1,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,A,1,1,A
+college_physics,baseline,13,2,1,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,A
+college_physics,baseline,13,3,1,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,D,1,1,D
+college_physics,baseline,13,4,1,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,B,0,1,B
+college_physics,baseline,14,1,1,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,C,0,1,C
+college_physics,baseline,14,2,1,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,C,0,1,C
+college_physics,baseline,14,3,1,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,baseline,14,4,1,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,C,0,1,C
+college_physics,baseline,15,1,1,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,B,0,1,B
+college_physics,baseline,15,2,1,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,D
+college_physics,baseline,15,3,1,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,A,0,1,A
+college_physics,baseline,15,4,1,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,D
+college_physics,baseline,16,1,1,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,16,2,1,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,C
+college_physics,baseline,16,3,1,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,B,0,1,B
+college_physics,baseline,16,4,1,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,C,1,1,C
+college_physics,baseline,17,1,1,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,C
+college_physics,baseline,17,2,1,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,B,0,1,B
+college_physics,baseline,17,3,1,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,A
+college_physics,baseline,17,4,1,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,A,0,1,A
+college_physics,baseline,18,1,1,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,D
+college_physics,baseline,18,2,1,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,C,1,1,C
+college_physics,baseline,18,3,1,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,D
+college_physics,baseline,18,4,1,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,C,1,1,C
+college_physics,baseline,19,1,1,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,C
+college_physics,baseline,19,2,1,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,C,0,1,C
+college_physics,baseline,19,3,1,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,C
+college_physics,baseline,19,4,1,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,A
+college_physics,baseline,20,1,2,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,C,0,1,C
+college_physics,baseline,20,2,2,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,A,0,1,A
+college_physics,baseline,20,3,2,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,A
+college_physics,baseline,20,4,2,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,D,1,1,D
+college_physics,baseline,21,1,2,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,B,0,1,B
+college_physics,baseline,21,2,2,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,C
+college_physics,baseline,21,3,2,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,A,0,1,(A) 1.
+college_physics,baseline,21,4,2,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,A,0,1,A
+college_physics,baseline,22,1,2,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,D
+college_physics,baseline,22,2,2,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,B,1,1,B
+college_physics,baseline,22,3,2,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,D
+college_physics,baseline,22,4,2,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,baseline,23,1,2,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,B,0,1,B
+college_physics,baseline,23,2,2,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,D,1,1,D
+college_physics,baseline,23,3,2,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,C
+college_physics,baseline,23,4,2,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,A,0,1,A
+college_physics,baseline,24,1,2,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,A,1,1,A
+college_physics,baseline,24,2,2,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,C,1,1,C
+college_physics,baseline,24,3,2,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,D
+college_physics,baseline,24,4,2,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,B,0,1,B
+college_physics,baseline,25,1,2,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,C
+college_physics,baseline,25,2,2,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,C,0,1,C
+college_physics,baseline,25,3,2,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,C
+college_physics,baseline,25,4,2,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,C,0,1,C
+college_physics,baseline,26,1,2,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,A
+college_physics,baseline,26,2,2,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,B
+college_physics,baseline,26,3,2,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,A,0,1,(A) 2 x
+college_physics,baseline,26,4,2,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,baseline,27,1,2,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,C
+college_physics,baseline,27,2,2,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,D
+college_physics,baseline,27,3,2,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,B,1,1,B
+college_physics,baseline,27,4,2,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,D
+college_physics,baseline,28,1,2,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,D,0,1,D
+college_physics,baseline,28,2,2,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,A
+college_physics,baseline,28,3,2,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,D
+college_physics,baseline,28,4,2,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,C
+college_physics,baseline,29,1,2,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,B,0,1,B
+college_physics,baseline,29,2,2,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,29,3,2,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,D
+college_physics,baseline,29,4,2,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,A,0,1,A
+college_physics,baseline,30,1,2,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,A
+college_physics,baseline,30,2,2,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,B,0,1,B
+college_physics,baseline,30,3,2,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,D,1,1,D
+college_physics,baseline,30,4,2,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,C,0,1,C
+college_physics,baseline,31,1,2,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,A,1,1,A
+college_physics,baseline,31,2,2,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,C,0,1,C
+college_physics,baseline,31,3,2,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,B,1,1,B
+college_physics,baseline,31,4,2,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,B,0,1,B
+college_physics,baseline,32,1,2,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,A,1,1,A
+college_physics,baseline,32,2,2,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,B,0,1,B
+college_physics,baseline,32,3,2,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,D,1,1,D
+college_physics,baseline,32,4,2,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,A
+college_physics,baseline,33,1,2,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,A
+college_physics,baseline,33,2,2,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,A
+college_physics,baseline,33,3,2,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,B
+college_physics,baseline,33,4,2,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,D
+college_physics,baseline,34,1,2,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,D
+college_physics,baseline,34,2,2,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,A
+college_physics,baseline,34,3,2,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,A,0,1,A
+college_physics,baseline,34,4,2,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,A
+college_physics,baseline,35,1,2,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,D,1,1,D
+college_physics,baseline,35,2,2,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,C
+college_physics,baseline,35,3,2,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,A,1,1,A
+college_physics,baseline,35,4,2,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,36,1,2,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,C,1,1,C
+college_physics,baseline,36,2,2,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,D
+college_physics,baseline,36,3,2,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,A,0,1,A
+college_physics,baseline,36,4,2,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,D,1,1,D
+college_physics,baseline,37,1,2,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,D
+college_physics,baseline,37,2,2,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,B,0,1,B
+college_physics,baseline,37,3,2,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,baseline,37,4,2,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,D
+college_physics,baseline,38,1,2,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,C
+college_physics,baseline,38,2,2,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,C,0,1,C
+college_physics,baseline,38,3,2,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,B,0,1,B
+college_physics,baseline,38,4,2,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,B,0,1,B
+college_physics,baseline,39,1,3,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,baseline,39,2,3,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,D,1,1,D
+college_physics,baseline,39,3,3,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,B,0,1,B
+college_physics,baseline,39,4,3,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,C
+college_physics,baseline,40,1,3,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,C,1,1,C
+college_physics,baseline,40,2,3,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,D,1,1,D
+college_physics,baseline,40,3,3,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,baseline,40,4,3,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,C
+college_physics,baseline,41,1,3,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,D,1,1,D
+college_physics,baseline,41,2,3,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,C,0,1,C
+college_physics,baseline,41,3,3,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,D,1,1,D
+college_physics,baseline,41,4,3,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,B,0,1,B
+college_physics,baseline,42,1,3,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,C,0,1,C
+college_physics,baseline,42,2,3,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,D
+college_physics,baseline,42,3,3,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,B,0,1,B
+college_physics,baseline,42,4,3,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,D,0,1,D
+college_physics,baseline,43,1,3,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,B,0,1,B
+college_physics,baseline,43,2,3,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,C
+college_physics,baseline,43,3,3,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,C
+college_physics,baseline,43,4,3,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,D
+college_physics,baseline,44,1,3,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,C,1,1,C
+college_physics,baseline,44,2,3,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,A,0,1,A
+college_physics,baseline,44,3,3,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,A
+college_physics,baseline,44,4,3,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,C,0,1,C
+college_physics,baseline,45,1,3,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,baseline,45,2,3,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,A,0,1,A
+college_physics,baseline,45,3,3,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,B,0,1,B
+college_physics,baseline,45,4,3,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,D,1,1,D
+college_physics,baseline,46,1,3,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,A,0,1,(A) 1.
+college_physics,baseline,46,2,3,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,C,0,1,C
+college_physics,baseline,46,3,3,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,C
+college_physics,baseline,46,4,3,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,D
+college_physics,baseline,47,1,3,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,C,0,1,C
+college_physics,baseline,47,2,3,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,D,1,1,D
+college_physics,baseline,47,3,3,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,C
+college_physics,baseline,47,4,3,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,D
+college_physics,baseline,48,1,3,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,baseline,48,2,3,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,C,0,1,C
+college_physics,baseline,48,3,3,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,C
+college_physics,baseline,48,4,3,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,C
+college_physics,baseline,49,1,3,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,A,0,1,A
+college_physics,baseline,49,2,3,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,D,1,1,D
+college_physics,baseline,49,3,3,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,B,0,1,B
+college_physics,baseline,49,4,3,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,A,1,1,A
+college_physics,baseline,50,1,3,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,B,1,1,B
+college_physics,baseline,50,2,3,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,C,0,1,C
+college_physics,baseline,50,3,3,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,B,0,1,B
+college_physics,baseline,50,4,3,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,A,0,1,A
+college_physics,baseline,51,1,3,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,baseline,51,2,3,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,D
+college_physics,baseline,51,3,3,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,A
+college_physics,baseline,51,4,3,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,C,1,1,C
+college_physics,baseline,52,1,3,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,C
+college_physics,baseline,52,2,3,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,B,1,1,B
+college_physics,baseline,52,3,3,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,C,0,1,C
+college_physics,baseline,52,4,3,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,A,1,1,A
+college_physics,baseline,53,1,3,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,C,0,1,C
+college_physics,baseline,53,2,3,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,D
+college_physics,baseline,53,3,3,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,53,4,3,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,A,1,1,A
+college_physics,baseline,54,1,3,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,D,1,1,D
+college_physics,baseline,54,2,3,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,C,1,1,C
+college_physics,baseline,54,3,3,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,A,0,1,(A) 2 x
+college_physics,baseline,54,4,3,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,D
+college_physics,baseline,55,1,3,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,C
+college_physics,baseline,55,2,3,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,D,1,1,D
+college_physics,baseline,55,3,3,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,55,4,3,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,A,0,1,(A) 1.
+college_physics,baseline,56,1,3,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,D
+college_physics,baseline,56,2,3,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,C,1,1,C
+college_physics,baseline,56,3,3,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,D,1,1,D
+college_physics,baseline,56,4,3,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,baseline,57,1,3,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,B,0,1,B
+college_physics,baseline,57,2,3,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,baseline,57,3,3,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,B
+college_physics,baseline,57,4,3,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,B,0,1,B
+college_physics,baseline,58,1,4,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,A
+college_physics,baseline,58,2,4,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,D,1,1,D
+college_physics,baseline,58,3,4,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,D
+college_physics,baseline,58,4,4,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,A,1,1,A
+college_physics,baseline,59,1,4,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,D,1,1,D
+college_physics,baseline,59,2,4,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,B,0,1,B
+college_physics,baseline,59,3,4,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,C
+college_physics,baseline,59,4,4,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,A,0,1,A
+college_physics,baseline,60,1,4,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,B,0,1,B
+college_physics,baseline,60,2,4,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,D
+college_physics,baseline,60,3,4,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,D
+college_physics,baseline,60,4,4,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,C,0,1,C
+college_physics,baseline,61,1,4,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,A
+college_physics,baseline,61,2,4,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,D,0,1,D
+college_physics,baseline,61,3,4,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,A
+college_physics,baseline,61,4,4,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,A
+college_physics,baseline,62,1,4,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,C,0,1,C
+college_physics,baseline,62,2,4,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,B,0,1,B
+college_physics,baseline,62,3,4,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,B,0,1,B
+college_physics,baseline,62,4,4,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,C,0,1,C
+college_physics,baseline,63,1,4,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,B
+college_physics,baseline,63,2,4,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,D,1,1,D
+college_physics,baseline,63,3,4,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,B,0,1,B
+college_physics,baseline,63,4,4,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,A,0,1,A
+college_physics,baseline,64,1,4,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,B,0,1,B
+college_physics,baseline,64,2,4,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,A,0,1,A
+college_physics,baseline,64,3,4,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,C,1,1,C
+college_physics,baseline,64,4,4,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,D
+college_physics,baseline,65,1,4,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,A,0,1,A
+college_physics,baseline,65,2,4,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,A
+college_physics,baseline,65,3,4,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,baseline,65,4,4,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,D
+college_physics,baseline,66,1,4,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,C
+college_physics,baseline,66,2,4,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,A
+college_physics,baseline,66,3,4,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,A
+college_physics,baseline,66,4,4,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,B,0,1,B
+college_physics,baseline,67,1,4,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,C
+college_physics,baseline,67,2,4,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,D,0,1,D
+college_physics,baseline,67,3,4,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,C,0,1,C
+college_physics,baseline,67,4,4,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,A
+college_physics,baseline,68,1,4,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,B,0,1,B
+college_physics,baseline,68,2,4,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,C
+college_physics,baseline,68,3,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,D
+college_physics,baseline,68,4,4,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,C,0,1,C
+college_physics,baseline,69,1,4,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,D,1,1,D
+college_physics,baseline,69,2,4,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,C
+college_physics,baseline,69,3,4,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,C
+college_physics,baseline,69,4,4,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,D,1,1,D
+college_physics,baseline,70,1,4,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,C
+college_physics,baseline,70,2,4,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,D
+college_physics,baseline,70,3,4,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,A,0,1,A
+college_physics,baseline,70,4,4,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,D
+college_physics,baseline,71,1,4,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,baseline,71,2,4,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,D,0,1,D
+college_physics,baseline,71,3,4,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,A,0,1,A
+college_physics,baseline,71,4,4,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,A,0,1,(A) 1.
+college_physics,baseline,72,1,4,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,A
+college_physics,baseline,72,2,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,B
+college_physics,baseline,72,3,4,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,72,4,4,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,C,0,1,C
+college_physics,baseline,73,1,4,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,A,0,1,A
+college_physics,baseline,73,2,4,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,A,1,1,A
+college_physics,baseline,73,3,4,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,B,0,1,B
+college_physics,baseline,73,4,4,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,B,1,1,B
+college_physics,baseline,74,1,4,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,A
+college_physics,baseline,74,2,4,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,C,0,1,C
+college_physics,baseline,74,3,4,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,D
+college_physics,baseline,74,4,4,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,baseline,75,1,4,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,D
+college_physics,baseline,75,2,4,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,A,1,1,A
+college_physics,baseline,75,3,4,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,C
+college_physics,baseline,75,4,4,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,A,0,1,(A) 2 x
+college_physics,baseline,76,1,4,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,baseline,76,2,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,D
+college_physics,baseline,76,3,4,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,C,1,1,C
+college_physics,baseline,76,4,4,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,C,0,1,C
+college_physics,baseline,77,1,5,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,A
+college_physics,baseline,77,2,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,C,0,1,C
+college_physics,baseline,77,3,5,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,C,0,1,C
+college_physics,baseline,77,4,5,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,C,0,1,C
+college_physics,baseline,78,1,5,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,D
+college_physics,baseline,78,2,5,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,C
+college_physics,baseline,78,3,5,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,D,1,1,D
+college_physics,baseline,78,4,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,A,0,1,A
+college_physics,baseline,79,1,5,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,D,0,1,D
+college_physics,baseline,79,2,5,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,baseline,79,3,5,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,C,1,1,C
+college_physics,baseline,79,4,5,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,D
+college_physics,baseline,80,1,5,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,D
+college_physics,baseline,80,2,5,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,B
+college_physics,baseline,80,3,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,A
+college_physics,baseline,80,4,5,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,D
+college_physics,baseline,81,1,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,D,1,1,D
+college_physics,baseline,81,2,5,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,B,0,1,B
+college_physics,baseline,81,3,5,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,B,0,1,B
+college_physics,baseline,81,4,5,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,D
+college_physics,baseline,82,1,5,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,B,0,1,B
+college_physics,baseline,82,2,5,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,D,1,1,D
+college_physics,baseline,82,3,5,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,D,1,1,D
+college_physics,baseline,82,4,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,D,1,1,D
+college_physics,baseline,83,1,5,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,C,0,1,C
+college_physics,baseline,83,2,5,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,C
+college_physics,baseline,83,3,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,B,0,1,B
+college_physics,baseline,83,4,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,C
+college_physics,baseline,84,1,5,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,D
+college_physics,baseline,84,2,5,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,B,1,1,B
+college_physics,baseline,84,3,5,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,D,1,1,D
+college_physics,baseline,84,4,5,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,B,0,1,B
+college_physics,baseline,85,1,5,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,C,0,1,C
+college_physics,baseline,85,2,5,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,A
+college_physics,baseline,85,3,5,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,B,0,1,B
+college_physics,baseline,85,4,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,A
+college_physics,baseline,86,1,5,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,A
+college_physics,baseline,86,2,5,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,B,0,1,B
+college_physics,baseline,86,3,5,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,B,0,1,B
+college_physics,baseline,86,4,5,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,B,0,1,B
+college_physics,baseline,87,1,5,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,A,0,1,A
+college_physics,baseline,87,2,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,C
+college_physics,baseline,87,3,5,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,C
+college_physics,baseline,87,4,5,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,C,1,1,C
+college_physics,baseline,88,1,5,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,D
+college_physics,baseline,88,2,5,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,C,1,1,C
+college_physics,baseline,88,3,5,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,B,0,1,B
+college_physics,baseline,88,4,5,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,A
+college_physics,baseline,89,1,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,D,1,1,D
+college_physics,baseline,89,2,5,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,A
+college_physics,baseline,89,3,5,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,C,0,1,C
+college_physics,baseline,89,4,5,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,D,1,1,D
+college_physics,baseline,90,1,5,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,baseline,90,2,5,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,C
+college_physics,baseline,90,3,5,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,A,0,1,A
+college_physics,baseline,90,4,5,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,A,1,1,A
+college_physics,baseline,91,1,5,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,C,0,1,C
+college_physics,baseline,91,2,5,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,B,0,1,B
+college_physics,baseline,91,3,5,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,B,0,1,B
+college_physics,baseline,91,4,5,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,A,1,1,A
+college_physics,baseline,92,1,5,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,A
+college_physics,baseline,92,2,5,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,A,0,1,(A) 1.
+college_physics,baseline,92,3,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,C,0,1,C
+college_physics,baseline,92,4,5,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,D
+college_physics,baseline,93,1,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,B,0,1,B
+college_physics,baseline,93,2,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,A
+college_physics,baseline,93,3,5,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,D
+college_physics,baseline,93,4,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,D,1,1,D
+college_physics,baseline,94,1,5,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,B,0,1,B
+college_physics,baseline,94,2,5,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,A,0,1,A
+college_physics,baseline,94,3,5,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,B,0,1,B
+college_physics,baseline,94,4,5,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,A,1,1,A
+college_physics,baseline,95,1,5,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,A,0,1,A
+college_physics,baseline,95,2,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,C
+college_physics,baseline,95,3,5,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,C,0,1,C
+college_physics,baseline,95,4,5,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,D
+college_physics,baseline,96,1,5,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,D,0,1,D
+college_physics,baseline,96,2,5,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,B
+college_physics,baseline,96,3,5,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,baseline,96,4,5,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,D
+college_physics,model_A,1,1,1,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,,0,0,"Tosolve this problem,"
+college_physics,model_A,1,2,1,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,,0,0,To determine the uncertainty in
+college_physics,model_A,1,3,1,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,B,1,1,B
+college_physics,model_A,1,4,1,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,,0,0,ToD
+college_physics,model_A,2,1,1,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,(B) Hall coefficient
+college_physics,model_A,2,2,1,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,D,0,1,(D) Period of the
+college_physics,model_A,2,3,1,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,,0,0,"To solve this problem,"
+college_physics,model_A,2,4,1,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,(C) 0.
+college_physics,model_A,3,1,1,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,(A) gamma rays
+college_physics,model_A,3,2,1,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,,0,0,To determine the minimum thickness
+college_physics,model_A,3,3,1,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,,0,0,ToD
+college_physics,model_A,3,4,1,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,model_A,4,1,1,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,,0,0,To calculate the total radiation
+college_physics,model_A,4,2,1,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,,0,0,"To solve this problem,"
+college_physics,model_A,4,3,1,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,C,0,1,(C) 26
+college_physics,model_A,4,4,1,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,,0,0,TheAnswer
+college_physics,model_A,5,1,1,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,(C) sqrt(2
+college_physics,model_A,5,2,1,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,(A) 5
+college_physics,model_A,5,3,1,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,,0,0,"To solve this problem,"
+college_physics,model_A,5,4,1,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,C,0,1,(C) 3
+college_physics,model_A,6,1,1,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,(B) 11
+college_physics,model_A,6,2,1,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,D,0,1,D
+college_physics,model_A,6,3,1,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,model_A,6,4,1,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,model_A,7,1,1,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,D,0,1,(D) 65
+college_physics,model_A,7,2,1,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,"(D) 1,"
+college_physics,model_A,7,3,1,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,7,4,1,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,(A) Electron
+college_physics,model_A,8,1,1,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,(D)
+college_physics,model_A,8,2,1,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,D,1,1,(D) None
+college_physics,model_A,8,3,1,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,D,1,1,D
+college_physics,model_A,8,4,1,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,(A) a dye laser
+college_physics,model_A,9,1,1,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,C,0,1,(C) cube
+college_physics,model_A,9,2,1,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,C,0,1,(C) 11
+college_physics,model_A,9,3,1,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,D,0,1,D
+college_physics,model_A,9,4,1,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,(C) 0.
+college_physics,model_A,10,1,1,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,D,0,1,D
+college_physics,model_A,10,2,1,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,(A) real
+college_physics,model_A,10,3,1,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,,0,0,"To solve this problem,"
+college_physics,model_A,10,4,1,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,(C) 3/
+college_physics,model_A,11,1,1,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,(D) 25
+college_physics,model_A,11,2,1,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,11,3,1,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,D,0,1,(D) 11
+college_physics,model_A,11,4,1,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,D,0,1,(D) 60
+college_physics,model_A,12,1,1,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,(D) Hall coefficient
+college_physics,model_A,12,2,1,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,B,0,1,B
+college_physics,model_A,12,3,1,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,,0,0,To solve thisthe problem
+college_physics,model_A,12,4,1,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,(D) proportional to R
+college_physics,model_A,13,1,1,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,D,0,1,D
+college_physics,model_A,13,2,1,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,(A) 41
+college_physics,model_A,13,3,1,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,B,0,1,(B) rate of change
+college_physics,model_A,13,4,1,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,,0,0,"Tosolve this problem,"
+college_physics,model_A,14,1,1,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,,0,0,Toanswer thisquestionwith
+college_physics,model_A,14,2,1,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,A,0,1,(A) 0.
+college_physics,model_A,14,3,1,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,model_A,14,4,1,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,,0,0,"To solve this problem,"
+college_physics,model_A,15,1,1,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,,0,0,"To solve this problem,"
+college_physics,model_A,15,2,1,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,(D) The orbits would
+college_physics,model_A,15,3,1,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,D,0,1,D
+college_physics,model_A,15,4,1,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,(D) Increases by a
+college_physics,model_A,16,1,1,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,16,2,1,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,(C) B is tang
+college_physics,model_A,16,3,1,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,16,4,1,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,,0,0,To solve thisthe suspension
+college_physics,model_A,17,1,1,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,"(C) 1,"
+college_physics,model_A,17,2,1,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,,0,0,"To solve this problem,"
+college_physics,model_A,17,3,1,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,(A) Planck’s
+college_physics,model_A,17,4,1,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,C,0,1,Theansweris(C)
+college_physics,model_A,18,1,1,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,(D) 10
+college_physics,model_A,18,2,1,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,,0,0,"To solve this problem,"
+college_physics,model_A,18,3,1,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,(D) 10
+college_physics,model_A,18,4,1,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,,0,0,"To solve thisproblem,"
+college_physics,model_A,19,1,1,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,(C) (3/
+college_physics,model_A,19,2,1,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,,0,0,"To solve this problem,"
+college_physics,model_A,19,3,1,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,(C) The entropy of
+college_physics,model_A,19,4,1,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,(A) rate of change
+college_physics,model_A,20,1,2,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,,0,0,To determine the resolving power
+college_physics,model_A,20,2,2,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,D,0,1,D
+college_physics,model_A,20,3,2,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,(A) 0.
+college_physics,model_A,20,4,2,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,A,0,1,(A) Diode laser
+college_physics,model_A,21,1,2,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,,0,0,Toanswerthequestionwith
+college_physics,model_A,21,2,2,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,(C) 0.
+college_physics,model_A,21,3,2,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,,0,0,"To solve this problem,"
+college_physics,model_A,21,4,2,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,,0,0,To solve thisthe problem
+college_physics,model_A,22,1,2,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,(D) 4 W
+college_physics,model_A,22,2,2,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,,0,0,"To solve this problem,"
+college_physics,model_A,22,3,2,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,(D) 11
+college_physics,model_A,22,4,2,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,model_A,23,1,2,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,,0,0,"To solve this problem,"
+college_physics,model_A,23,2,2,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,,0,0,"To solve this problem,"
+college_physics,model_A,23,3,2,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,(C) Electrons filling
+college_physics,model_A,23,4,2,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,D,0,1,D
+college_physics,model_A,24,1,2,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,D,0,1,(D) Period of the
+college_physics,model_A,24,2,2,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,,0,0,"To solve thisproblem,"
+college_physics,model_A,24,3,2,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,(D) Increases by a
+college_physics,model_A,24,4,2,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,25,1,2,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,(C) 0.
+college_physics,model_A,25,2,2,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,,0,0,To determine the resolving power
+college_physics,model_A,25,3,2,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,,0,0,TheCorrect Answer is (
+college_physics,model_A,25,4,2,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,,0,0,To determine the minimum thickness
+college_physics,model_A,26,1,2,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,(A) real
+college_physics,model_A,26,2,2,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,(B) Hall coefficient
+college_physics,model_A,26,3,2,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,,0,0,To calculate the total radiation
+college_physics,model_A,26,4,2,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,model_A,27,1,2,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,,0,0,To determine the ratio of
+college_physics,model_A,27,2,2,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,(D) 10
+college_physics,model_A,27,3,2,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,,0,0,"To solve this problem,"
+college_physics,model_A,27,4,2,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,(D) 10
+college_physics,model_A,28,1,2,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,B,1,1,B
+college_physics,model_A,28,2,2,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,(A) gamma rays
+college_physics,model_A,28,3,2,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,(D) The orbits would
+college_physics,model_A,28,4,2,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,(C) Electrons filling
+college_physics,model_A,29,1,2,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,,0,0,"To solve this problem,"
+college_physics,model_A,29,2,2,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,29,3,2,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,(D) Hall coefficient
+college_physics,model_A,29,4,2,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,D,0,1,(D) 60
+college_physics,model_A,30,1,2,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,(A) 0.
+college_physics,model_A,30,2,2,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,,0,0,"Tosolve this problem,"
+college_physics,model_A,30,3,2,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,30,4,2,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,A,0,1,(A) 0.
+college_physics,model_A,31,1,2,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,D,0,1,D
+college_physics,model_A,31,2,2,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,,0,0,TheAnswer
+college_physics,model_A,31,3,2,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,,0,0,"To solve this problem,"
+college_physics,model_A,31,4,2,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,D,0,1,(D) 65
+college_physics,model_A,32,1,2,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,D,0,1,D
+college_physics,model_A,32,2,2,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,,0,0,"To solve this problem,"
+college_physics,model_A,32,3,2,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,C,0,1,(C) 26
+college_physics,model_A,32,4,2,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,(A) rate of change
+college_physics,model_A,33,1,2,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,(A) a dye laser
+college_physics,model_A,33,2,2,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,(A) 5
+college_physics,model_A,33,3,2,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,(B) 11
+college_physics,model_A,33,4,2,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,(D) 25
+college_physics,model_A,34,1,2,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,(D) proportional to R
+college_physics,model_A,34,2,2,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,(A) 41
+college_physics,model_A,34,3,2,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,C,0,1,Theansweris(C)
+college_physics,model_A,34,4,2,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,(A) Electron
+college_physics,model_A,35,1,2,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,B,0,1,(B) rate of change
+college_physics,model_A,35,2,2,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,(C) 3/
+college_physics,model_A,35,3,2,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,D,0,1,D
+college_physics,model_A,35,4,2,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,36,1,2,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,,0,0,To solve thisthe suspension
+college_physics,model_A,36,2,2,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,"(D) 1,"
+college_physics,model_A,36,3,2,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,D,0,1,D
+college_physics,model_A,36,4,2,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,,0,0,To determine the uncertainty in
+college_physics,model_A,37,1,2,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,(D) 11
+college_physics,model_A,37,2,2,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,D,0,1,D
+college_physics,model_A,37,3,2,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,model_A,37,4,2,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,(D) 4 W
+college_physics,model_A,38,1,2,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,"(C) 1,"
+college_physics,model_A,38,2,2,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,,0,0,"To solve this problem,"
+college_physics,model_A,38,3,2,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,,0,0,ToD
+college_physics,model_A,38,4,2,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,,0,0,"To solve this problem,"
+college_physics,model_A,39,1,3,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,model_A,39,2,3,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,A,0,1,(A) Diode laser
+college_physics,model_A,39,3,3,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,,0,0,Toanswerthequestionwith
+college_physics,model_A,39,4,3,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,(C) B is tang
+college_physics,model_A,40,1,3,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,,0,0,"Tosolve this problem,"
+college_physics,model_A,40,2,3,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,B,0,1,B
+college_physics,model_A,40,3,3,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,model_A,40,4,3,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,(C) The entropy of
+college_physics,model_A,41,1,3,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,,0,0,"To solve this problem,"
+college_physics,model_A,41,2,3,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,,0,0,Toanswer thisquestionwith
+college_physics,model_A,41,3,3,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,C,0,1,(C) 3
+college_physics,model_A,41,4,3,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,,0,0,"To solve this problem,"
+college_physics,model_A,42,1,3,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,D,0,1,(D) 11
+college_physics,model_A,42,2,3,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,,0,0,ToD
+college_physics,model_A,42,3,3,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,,0,0,"To solve this problem,"
+college_physics,model_A,42,4,3,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,C,0,1,(C) 11
+college_physics,model_A,43,1,3,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,,0,0,"To solve this problem,"
+college_physics,model_A,43,2,3,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,(C) 0.
+college_physics,model_A,43,3,3,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,(C) (3/
+college_physics,model_A,43,4,3,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,(D)
+college_physics,model_A,44,1,3,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,,0,0,"To solve this problem,"
+college_physics,model_A,44,2,3,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,D,1,1,(D) None
+college_physics,model_A,44,3,3,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,(A) Planck’s
+college_physics,model_A,44,4,3,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,D,1,1,D
+college_physics,model_A,45,1,3,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,model_A,45,2,3,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,,0,0,To solve thisthe problem
+college_physics,model_A,45,3,3,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,,0,0,"To solve this problem,"
+college_physics,model_A,45,4,3,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,C,0,1,(C) cube
+college_physics,model_A,46,1,3,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,,0,0,"To solve this problem,"
+college_physics,model_A,46,2,3,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,,0,0,To solve thisthe problem
+college_physics,model_A,46,3,3,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,(C) B is tang
+college_physics,model_A,46,4,3,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,(D) The orbits would
+college_physics,model_A,47,1,3,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,,0,0,To solve thisthe problem
+college_physics,model_A,47,2,3,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,,0,0,To determine the uncertainty in
+college_physics,model_A,47,3,3,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,(C) Electrons filling
+college_physics,model_A,47,4,3,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,(D) proportional to R
+college_physics,model_A,48,1,3,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,model_A,48,2,3,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,,0,0,To determine the minimum thickness
+college_physics,model_A,48,3,3,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,"(C) 1,"
+college_physics,model_A,48,4,3,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,(C) 3/
+college_physics,model_A,49,1,3,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,D,0,1,D
+college_physics,model_A,49,2,3,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,C,0,1,(C) 3
+college_physics,model_A,49,3,3,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,,0,0,"Tosolve this problem,"
+college_physics,model_A,49,4,3,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,D,0,1,D
+college_physics,model_A,50,1,3,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,,0,0,"To solve this problem,"
+college_physics,model_A,50,2,3,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,,0,0,To determine the resolving power
+college_physics,model_A,50,3,3,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,,0,0,"To solve this problem,"
+college_physics,model_A,50,4,3,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,C,0,1,Theansweris(C)
+college_physics,model_A,51,1,3,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,model_A,51,2,3,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,(D) 4 W
+college_physics,model_A,51,3,3,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,(A) Planck’s
+college_physics,model_A,51,4,3,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,,0,0,"Tosolve this problem,"
+college_physics,model_A,52,1,3,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,,0,0,TheCorrect Answer is (
+college_physics,model_A,52,2,3,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,,0,0,"To solve this problem,"
+college_physics,model_A,52,3,3,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,,0,0,TheAnswer
+college_physics,model_A,52,4,3,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,D,0,1,D
+college_physics,model_A,53,1,3,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,,0,0,Toanswer thisquestionwith
+college_physics,model_A,53,2,3,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,(D) 10
+college_physics,model_A,53,3,3,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,53,4,3,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,D,0,1,D
+college_physics,model_A,54,1,3,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,54,2,3,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,,0,0,"To solve this problem,"
+college_physics,model_A,54,3,3,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,,0,0,To calculate the total radiation
+college_physics,model_A,54,4,3,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,(D) 11
+college_physics,model_A,55,1,3,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,,0,0,To solve thisthe problem
+college_physics,model_A,55,2,3,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,B,0,1,(B) rate of change
+college_physics,model_A,55,3,3,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,55,4,3,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,,0,0,"To solve this problem,"
+college_physics,model_A,56,1,3,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,(D)
+college_physics,model_A,56,2,3,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,,0,0,To solve thisthe suspension
+college_physics,model_A,56,3,3,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,C,0,1,(C) cube
+college_physics,model_A,56,4,3,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,model_A,57,1,3,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,,0,0,"To solve this problem,"
+college_physics,model_A,57,2,3,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,model_A,57,3,3,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,(B) Hall coefficient
+college_physics,model_A,57,4,3,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,D,0,1,(D) 65
+college_physics,model_A,58,1,4,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,(A) a dye laser
+college_physics,model_A,58,2,4,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,A,0,1,(A) Diode laser
+college_physics,model_A,58,3,4,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,(D) Increases by a
+college_physics,model_A,58,4,4,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,D,0,1,(D) Period of the
+college_physics,model_A,59,1,4,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,B,0,1,B
+college_physics,model_A,59,2,4,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,59,3,4,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,(C) 0.
+college_physics,model_A,59,4,4,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,D,0,1,D
+college_physics,model_A,60,1,4,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,,0,0,"To solve this problem,"
+college_physics,model_A,60,2,4,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,(D) F_B =
+college_physics,model_A,60,3,4,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,(D) 10
+college_physics,model_A,60,4,4,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,,0,0,"To solve this problem,"
+college_physics,model_A,61,1,4,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,(A) 41
+college_physics,model_A,61,2,4,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,C,0,1,(C) 11
+college_physics,model_A,61,3,4,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,(A) gamma rays
+college_physics,model_A,61,4,4,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,(A) real
+college_physics,model_A,62,1,4,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,D,0,1,(D) 11
+college_physics,model_A,62,2,4,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,,0,0,ToD
+college_physics,model_A,62,3,4,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,,0,0,"To solve this problem,"
+college_physics,model_A,62,4,4,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,,0,0,"To solve this problem,"
+college_physics,model_A,63,1,4,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,(B) 11
+college_physics,model_A,63,2,4,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,,0,0,"To solve this problem,"
+college_physics,model_A,63,3,4,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,,0,0,Toanswerthequestionwith
+college_physics,model_A,63,4,4,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,D,1,1,(D) None
+college_physics,model_A,64,1,4,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,D,0,1,D
+college_physics,model_A,64,2,4,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,,0,0,To solve thisthe problem
+college_physics,model_A,64,3,4,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,,0,0,"To solve thisproblem,"
+college_physics,model_A,64,4,4,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,"(D) 1,"
+college_physics,model_A,65,1,4,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,D,0,1,(D) 60
+college_physics,model_A,65,2,4,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,(A) Electron
+college_physics,model_A,65,3,4,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,model_A,65,4,4,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,(D) 25
+college_physics,model_A,66,1,4,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,(C) (3/
+college_physics,model_A,66,2,4,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,(A) rate of change
+college_physics,model_A,66,3,4,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,(A) 5
+college_physics,model_A,66,4,4,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,,0,0,"To solve this problem,"
+college_physics,model_A,67,1,4,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,(C) The entropy of
+college_physics,model_A,67,2,4,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,B,1,1,B
+college_physics,model_A,67,3,4,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,,0,0,"To solve this problem,"
+college_physics,model_A,67,4,4,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,(A) 0.
+college_physics,model_A,68,1,4,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,,0,0,"To solve this problem,"
+college_physics,model_A,68,2,4,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,(C) 0.
+college_physics,model_A,68,3,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,(D) Hall coefficient
+college_physics,model_A,68,4,4,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,D,1,1,D
+college_physics,model_A,69,1,4,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,C,0,1,(C) 26
+college_physics,model_A,69,2,4,nan,"Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bomb",C,C,1,1,(C) Electrons filling
+college_physics,model_A,69,3,4,nan,Which of the following is true about any system that undergoes a reversible thermodynamic process? (A) There are no chan,C,C,1,1,(C) The entropy of
+college_physics,model_A,69,4,4,nan,Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure ,D,,0,0,To determine the uncertainty in
+college_physics,model_A,70,1,4,nan,"A heat pump is to extract heat from an outdoor environment at 7°C and heat the environment indoors to 27°C. For each 15,",B,C,0,1,"(C) 1,"
+college_physics,model_A,70,2,4,nan,"A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be ",D,D,1,1,(D) 4 W
+college_physics,model_A,70,3,4,nan,The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately (A) 0.1 GeV/c^2 (B) 0.2 Ge,D,,0,0,To solve thisthe problem
+college_physics,model_A,70,4,4,nan,"If the Sun were suddenly replaced by a black hole of the same mass, it would have a Schwarzschild radius of 3,000 m. Wha",D,D,1,1,(D) The orbits would
+college_physics,model_A,71,1,4,nan,"According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to (A) the weak nuclear forc",D,D,1,1,D
+college_physics,model_A,71,2,4,nan,Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel elect,B,B,1,1,B
+college_physics,model_A,71,3,4,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,D,0,1,(D) 60
+college_physics,model_A,71,4,4,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,,0,0,"To solve this problem,"
+college_physics,model_A,72,1,4,nan,The best type of laser with which to do spectroscopy over a range of visible wavelengths is (A) a dye laser (B) a helium,A,A,1,1,(A) a dye laser
+college_physics,model_A,72,2,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,(B) Hall coefficient
+college_physics,model_A,72,3,4,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 x 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,72,4,4,nan,"Positronium is an atom formed by an electron and a positron (antielectron). It is similar to the hydrogen atom, with the",A,D,0,1,(D) 11
+college_physics,model_A,73,1,4,nan,"The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Whic",D,D,1,1,(D) None
+college_physics,model_A,73,2,4,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,D,0,1,(D) Period of the
+college_physics,model_A,73,3,4,nan,"A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it t",D,,0,0,"To solve this problem,"
+college_physics,model_A,73,4,4,nan,A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be,B,,0,0,"To solve this problem,"
+college_physics,model_A,74,1,4,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,(A) 0.
+college_physics,model_A,74,2,4,nan,"One end of a horizontal, massless spring is attached to a wall. A mass of 0.30 kg is attached to the other end of the sp",A,,0,0,"To solve this problem,"
+college_physics,model_A,74,3,4,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,"(D) 1,"
+college_physics,model_A,74,4,4,nan,Which of the following statements about bosons and/or fermions is true? (A) Bosons have symmetric wave functions and obe,D,D,1,1,D
+college_physics,model_A,75,1,4,nan,Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with eac,D,D,1,1,(D) 25
+college_physics,model_A,75,2,4,nan,"Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The",A,D,0,1,D
+college_physics,model_A,75,3,4,nan,"Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell’s equations imply tha",C,C,1,1,(C) B is tang
+college_physics,model_A,75,4,4,nan,"Assume that the solar flux at Earth’s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting ",C,,0,0,To calculate the total radiation
+college_physics,model_A,76,1,4,nan,The primary source of the Sun’s energy is a series of thermonuclear reactions in which the energy produced is c^2 times ,B,B,1,1,B
+college_physics,model_A,76,2,4,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,(D) Hall coefficient
+college_physics,model_A,76,3,4,nan,The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is (A) 1.2 * 10^9 m/s (,C,B,0,1,B
+college_physics,model_A,76,4,4,nan,A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by ,D,,0,0,TheAnswer
+college_physics,model_A,77,1,5,nan,The eigenvalues of a Hermitian operator are always (A) real (B) imaginary (C) degenerate (D) linear,A,A,1,1,(A) real
+college_physics,model_A,77,2,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,D,1,1,D
+college_physics,model_A,77,3,5,nan,A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magneti,D,,0,0,"To solve this problem,"
+college_physics,model_A,77,4,5,nan,Blue light of wavelength 480 nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed n,B,,0,0,To determine the minimum thickness
+college_physics,model_A,78,1,5,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,(D) proportional to R
+college_physics,model_A,78,2,5,nan,A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The ave,D,C,0,1,(C) (3/
+college_physics,model_A,78,3,5,nan,"A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is dest",D,B,0,1,B
+college_physics,model_A,78,4,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",B,D,0,1,D
+college_physics,model_A,79,1,5,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,C,0,1,(C) 11
+college_physics,model_A,79,2,5,nan,The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because (A) electrons ha,C,C,1,1,C
+college_physics,model_A,79,3,5,nan,"In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If th",C,,0,0,"Tosolve this problem,"
+college_physics,model_A,79,4,5,nan,"A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object",D,D,1,1,(D) F_B =
+college_physics,model_A,80,1,5,nan,"If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area d",D,D,1,1,(D) Increases by a
+college_physics,model_A,80,2,5,nan,"A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction ",B,B,1,1,(B) 11
+college_physics,model_A,80,3,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,(A) 5
+college_physics,model_A,80,4,5,nan,An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have? (A) 2 (B) 4 (C) 6 (D) 10,D,D,1,1,(D) 11
+college_physics,model_A,81,1,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,B,0,1,(B) rate of change
+college_physics,model_A,81,2,5,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,,0,0,"Tosolve this problem,"
+college_physics,model_A,81,3,5,nan,White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of,C,D,0,1,(D) 65
+college_physics,model_A,81,4,5,nan,"An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air re",B,D,0,1,(D) 10
+college_physics,model_A,82,1,5,nan,A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has,A,,0,0,"To solve this problem,"
+college_physics,model_A,82,2,5,nan,"In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a (A) square (B",D,C,0,1,(C) cube
+college_physics,model_A,82,3,5,nan,Which of the following lasers utilizes transitions that involve the energy levels of free atoms? (A) Diode laser (B) Dye,D,A,0,1,(A) Diode laser
+college_physics,model_A,82,4,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,D,,0,0,"To solve this problem,"
+college_physics,model_A,83,1,5,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,,0,0,Toanswer thisquestionwith
+college_physics,model_A,83,2,5,nan,Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z =,C,C,1,1,(C) 3/
+college_physics,model_A,83,3,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,,0,0,"To solve this problem,"
+college_physics,model_A,83,4,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass,A,C,0,1,(C) 0.
+college_physics,model_A,84,1,5,nan,"Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of t",C,D,0,1,(D) 10
+college_physics,model_A,84,2,5,nan,"A meter stick with a speed of 0.8c moves past an observer. In the observer’s reference frame, how long does it take the ",B,,0,0,"To solve this problem,"
+college_physics,model_A,84,3,5,nan,A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as ,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,84,4,5,nan,"A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the b",C,,0,0,"To solve thisproblem,"
+college_physics,model_A,85,1,5,nan,"Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A me",B,,0,0,"To solve this problem,"
+college_physics,model_A,85,2,5,nan,Electromagnetic radiation emitted from a nucleus is most likely to be in the form of (A) gamma rays (B) microwaves (C) u,A,A,1,1,(A) gamma rays
+college_physics,model_A,85,3,5,nan,A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is a,A,,0,0,"To solve this problem,"
+college_physics,model_A,85,4,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) rate of change of the el",A,A,1,1,(A) rate of change
+college_physics,model_A,86,1,5,nan,"At 20°C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate o",B,A,0,1,(A) 41
+college_physics,model_A,86,2,5,nan,"At the present time, the temperature of the universe (i.e., the microwave radiation background) is about 3 K. When the t",A,D,0,1,D
+college_physics,model_A,86,3,5,nan,"Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the b",D,,0,0,"To solve this problem,"
+college_physics,model_A,86,4,5,nan,Sound waves moving at 350 m/s diffract out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m,D,,0,0,"To solve this problem,"
+college_physics,model_A,87,1,5,nan,"Consider an electron in the n = 4, l = 1 state in hydrogen. Which of the following final states can NOT be reached by an",B,D,0,1,D
+college_physics,model_A,87,2,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,,0,0,TheCorrect Answer is (
+college_physics,model_A,87,3,5,nan,The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are,C,C,1,1,(C) 0.
+college_physics,model_A,87,4,5,nan,An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simult,C,,0,0,"To solve this problem,"
+college_physics,model_A,88,1,5,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,(D)
+college_physics,model_A,88,2,5,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",C,,0,0,To determine the heat that
+college_physics,model_A,88,3,5,nan,The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the c,D,,0,0,Toanswerthequestionwith
+college_physics,model_A,88,4,5,nan,"The negative muon, mu^-, has properties most similar to which of the following? (A) Electron (B) Meson (C) Photon (D) Bo",A,A,1,1,(A) Electron
+college_physics,model_A,89,1,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,D,C,0,1,(C) 3
+college_physics,model_A,89,2,5,nan,De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the f,A,A,1,1,(A) Planck’s
+college_physics,model_A,89,3,5,nan,The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at,D,,0,0,To solve thisthe problem
+college_physics,model_A,89,4,5,nan,"An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What ",D,C,0,1,(C) 26
+college_physics,model_A,90,1,5,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,model_A,90,2,5,nan,"Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Whic",C,C,1,1,(C) sqrt(2
+college_physics,model_A,90,3,5,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,C,0,1,Theansweris(C)
+college_physics,model_A,90,4,5,nan,"The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in ",A,D,0,1,D
+college_physics,model_A,91,1,5,nan,"A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the followin",B,,0,0,To determine the resolving power
+college_physics,model_A,91,2,5,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,91,3,5,nan,The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is req,A,,0,0,ToD
+college_physics,model_A,91,4,5,nan,Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements ,A,D,0,1,D
+college_physics,model_A,92,1,5,nan,"Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0",B,A,0,1,(A) 0.
+college_physics,model_A,92,2,5,nan,A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source ,B,,0,0,"To solve this problem,"
+college_physics,model_A,92,3,5,nan,"The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the ",D,D,1,1,D
+college_physics,model_A,92,4,5,nan,Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor? (A) As (B) P (C) Sb,D,D,1,1,(D)
+college_physics,model_A,93,1,5,nan,The driver of a police car hears an echo of the car’s siren from a wall toward which the car is moving with a speed of 3,C,,0,0,"To solve this problem,"
+college_physics,model_A,93,2,5,nan,A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is (A,A,A,1,1,(A) 5
+college_physics,model_A,93,3,5,nan,A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is,D,D,1,1,(D) proportional to R
+college_physics,model_A,93,4,5,nan,"By definition, the electric displacement current through a surface S is proportional to the (A) magnetic flux through S ",D,B,0,1,(B) rate of change
+college_physics,model_A,94,1,5,nan,"If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle’s rela",D,,0,0,"Tosolve this problem,"
+college_physics,model_A,94,2,5,nan,A proton moves in the +z-direction after being accelerated from rest through a potential difference V. The proton then p,B,C,0,1,Theansweris(C)
+college_physics,model_A,94,3,5,nan,An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it,D,,0,0,"Tosolve this problem,"
+college_physics,model_A,94,4,5,nan,An astronomer observes a very small moon orbiting a planet and measures the moon’s minimum and maximum distances from th,A,D,0,1,(D) Period of the
+college_physics,model_A,95,1,5,nan,"A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle’s speed is 10 meters ",C,D,0,1,(D) 60
+college_physics,model_A,95,2,5,nan,Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mas,A,C,0,1,(C) 0.
+college_physics,model_A,95,3,5,nan,A student makes 10 one-second measurements of the disintegration of a sample of a long-lived radioactive isotope and obt,D,,0,0,Toanswer thisquestionwith
+college_physics,model_A,95,4,5,nan,"The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency",D,D,1,1,"(D) 1,"
+college_physics,model_A,96,1,5,nan,"The surface of the Sun has a temperature close to 6,000 K and it emits a blackbody (Planck) spectrum that reaches a maxi",A,C,0,1,(C) 11
+college_physics,model_A,96,2,5,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,B,B,1,1,(B) Hall coefficient
+college_physics,model_A,96,3,5,nan,Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric ,D,D,1,1,D
+college_physics,model_A,96,4,5,nan,The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties? ,D,D,1,1,(D) Hall coefficient

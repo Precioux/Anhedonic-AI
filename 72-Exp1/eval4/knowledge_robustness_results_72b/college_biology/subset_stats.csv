@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+college_biology,baseline,1,76,96.053,100.0
+college_biology,baseline,2,76,92.105,100.0
+college_biology,baseline,3,76,93.421,100.0
+college_biology,baseline,4,76,96.053,100.0
+college_biology,baseline,5,80,97.5,100.0
+college_biology,model_A,1,76,65.789,97.368
+college_biology,model_A,2,76,68.421,100.0
+college_biology,model_A,3,76,69.737,96.053
+college_biology,model_A,4,76,64.474,98.684
+college_biology,model_A,5,80,65.0,98.75

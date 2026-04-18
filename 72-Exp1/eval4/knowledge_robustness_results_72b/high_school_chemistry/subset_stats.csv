@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_chemistry,baseline,1,76,67.105,100.0
+high_school_chemistry,baseline,2,76,64.474,100.0
+high_school_chemistry,baseline,3,76,64.474,100.0
+high_school_chemistry,baseline,4,76,69.737,100.0
+high_school_chemistry,baseline,5,80,62.5,100.0
+high_school_chemistry,model_A,1,76,44.737,80.263
+high_school_chemistry,model_A,2,76,42.105,75.0
+high_school_chemistry,model_A,3,76,40.789,85.526
+high_school_chemistry,model_A,4,76,48.684,75.0
+high_school_chemistry,model_A,5,80,45.0,78.75

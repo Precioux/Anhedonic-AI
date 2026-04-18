@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+professional_law,baseline,1,76,69.737,100.0
+professional_law,baseline,2,76,72.368,100.0
+professional_law,baseline,3,76,72.368,100.0
+professional_law,baseline,4,76,71.053,100.0
+professional_law,baseline,5,80,67.5,100.0
+professional_law,model_A,1,76,38.158,96.053
+professional_law,model_A,2,76,42.105,93.421
+professional_law,model_A,3,76,46.053,96.053
+professional_law,model_A,4,76,38.158,93.421
+professional_law,model_A,5,80,40.0,95.0

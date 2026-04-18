@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+international_law,baseline,1,76,86.842,100.0
+international_law,baseline,2,76,77.632,100.0
+international_law,baseline,3,76,88.158,100.0
+international_law,baseline,4,76,85.526,100.0
+international_law,baseline,5,80,82.5,100.0
+international_law,model_A,1,76,56.579,96.053
+international_law,model_A,2,76,57.895,98.684
+international_law,model_A,3,76,64.474,96.053
+international_law,model_A,4,76,53.947,97.368
+international_law,model_A,5,80,58.75,97.5

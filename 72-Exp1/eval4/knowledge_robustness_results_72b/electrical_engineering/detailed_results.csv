@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+electrical_engineering,baseline,1,1,1,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,B,0,1,B
+electrical_engineering,baseline,1,2,1,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,B,1,1,B
+electrical_engineering,baseline,1,3,1,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,B,0,1,B
+electrical_engineering,baseline,1,4,1,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,C
+electrical_engineering,baseline,2,1,1,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,D
+electrical_engineering,baseline,2,2,1,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,baseline,2,3,1,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,B
+electrical_engineering,baseline,2,4,1,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,C
+electrical_engineering,baseline,3,1,1,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,B,1,1,B
+electrical_engineering,baseline,3,2,1,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,C,1,1,C
+electrical_engineering,baseline,3,3,1,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,C
+electrical_engineering,baseline,3,4,1,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,D
+electrical_engineering,baseline,4,1,1,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,baseline,4,2,1,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,B,1,1,B
+electrical_engineering,baseline,4,3,1,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,C
+electrical_engineering,baseline,4,4,1,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,D,0,1,D
+electrical_engineering,baseline,5,1,1,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,C
+electrical_engineering,baseline,5,2,1,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,B
+electrical_engineering,baseline,5,3,1,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,A
+electrical_engineering,baseline,5,4,1,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,baseline,6,1,1,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,baseline,6,2,1,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,B,1,1,B
+electrical_engineering,baseline,6,3,1,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,A
+electrical_engineering,baseline,6,4,1,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,B
+electrical_engineering,baseline,7,1,1,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,B,1,1,B
+electrical_engineering,baseline,7,2,1,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,baseline,7,3,1,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,baseline,7,4,1,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,baseline,8,1,1,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,D,1,1,D
+electrical_engineering,baseline,8,2,1,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,A
+electrical_engineering,baseline,8,3,1,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,D
+electrical_engineering,baseline,8,4,1,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,C,1,1,C
+electrical_engineering,baseline,9,1,1,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,B
+electrical_engineering,baseline,9,2,1,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,A,1,1,A
+electrical_engineering,baseline,9,3,1,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,B
+electrical_engineering,baseline,9,4,1,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,A
+electrical_engineering,baseline,10,1,1,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"To solve this problem,"
+electrical_engineering,baseline,10,2,1,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,A
+electrical_engineering,baseline,10,3,1,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,B
+electrical_engineering,baseline,10,4,1,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,A
+electrical_engineering,baseline,11,1,1,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,baseline,11,2,1,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,D
+electrical_engineering,baseline,11,3,1,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,A
+electrical_engineering,baseline,11,4,1,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,baseline,12,1,1,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,baseline,12,2,1,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,A,1,1,A
+electrical_engineering,baseline,12,3,1,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,A,1,1,A
+electrical_engineering,baseline,12,4,1,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,baseline,13,1,1,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,C
+electrical_engineering,baseline,13,2,1,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,D
+electrical_engineering,baseline,13,3,1,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,C
+electrical_engineering,baseline,13,4,1,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,A
+electrical_engineering,baseline,14,1,1,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,A
+electrical_engineering,baseline,14,2,1,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,C
+electrical_engineering,baseline,14,3,1,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,A
+electrical_engineering,baseline,14,4,1,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,B
+electrical_engineering,baseline,15,1,1,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,C,1,1,C
+electrical_engineering,baseline,15,2,1,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,B
+electrical_engineering,baseline,15,3,1,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,A,0,1,A
+electrical_engineering,baseline,15,4,1,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,A,1,1,A
+electrical_engineering,baseline,16,1,1,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,D
+electrical_engineering,baseline,16,2,1,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,baseline,16,3,1,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,16,4,1,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,B
+electrical_engineering,baseline,17,1,1,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,B
+electrical_engineering,baseline,17,2,1,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,D,0,1,D
+electrical_engineering,baseline,17,3,1,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,A,1,1,A
+electrical_engineering,baseline,17,4,1,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,C,0,1,C
+electrical_engineering,baseline,18,1,1,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,C
+electrical_engineering,baseline,18,2,1,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,D
+electrical_engineering,baseline,18,3,1,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,B,0,1,B
+electrical_engineering,baseline,18,4,1,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,A,1,1,A
+electrical_engineering,baseline,19,1,1,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,B,1,1,B
+electrical_engineering,baseline,19,2,1,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,B,1,1,B
+electrical_engineering,baseline,19,3,1,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,C
+electrical_engineering,baseline,19,4,1,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,A
+electrical_engineering,baseline,20,1,2,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,C
+electrical_engineering,baseline,20,2,2,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,B,0,1,B
+electrical_engineering,baseline,20,3,2,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,20,4,2,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,B,0,1,B
+electrical_engineering,baseline,21,1,2,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,A
+electrical_engineering,baseline,21,2,2,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,baseline,21,3,2,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,D,1,1,D
+electrical_engineering,baseline,21,4,2,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,D,0,1,D
+electrical_engineering,baseline,22,1,2,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,B,1,1,B
+electrical_engineering,baseline,22,2,2,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,baseline,22,3,2,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,baseline,22,4,2,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,B
+electrical_engineering,baseline,23,1,2,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,B,0,1,B
+electrical_engineering,baseline,23,2,2,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,D,1,1,D
+electrical_engineering,baseline,23,3,2,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,C,1,1,C
+electrical_engineering,baseline,23,4,2,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,A,1,1,A
+electrical_engineering,baseline,24,1,2,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,baseline,24,2,2,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,baseline,24,3,2,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,D
+electrical_engineering,baseline,24,4,2,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,C
+electrical_engineering,baseline,25,1,2,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,B
+electrical_engineering,baseline,25,2,2,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,C,1,1,C
+electrical_engineering,baseline,25,3,2,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,D,0,1,D
+electrical_engineering,baseline,25,4,2,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,B,0,1,B
+electrical_engineering,baseline,26,1,2,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,B
+electrical_engineering,baseline,26,2,2,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,baseline,26,3,2,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,C
+electrical_engineering,baseline,26,4,2,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,B,0,1,B
+electrical_engineering,baseline,27,1,2,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,C
+electrical_engineering,baseline,27,2,2,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,C
+electrical_engineering,baseline,27,3,2,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,D,1,1,D
+electrical_engineering,baseline,27,4,2,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,A,1,1,A
+electrical_engineering,baseline,28,1,2,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,A
+electrical_engineering,baseline,28,2,2,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,B
+electrical_engineering,baseline,28,3,2,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,28,4,2,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,D,1,1,D
+electrical_engineering,baseline,29,1,2,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,B,0,1,B
+electrical_engineering,baseline,29,2,2,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,A
+electrical_engineering,baseline,29,3,2,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,B,1,1,B
+electrical_engineering,baseline,29,4,2,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,C
+electrical_engineering,baseline,30,1,2,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,D,0,1,D
+electrical_engineering,baseline,30,2,2,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,B
+electrical_engineering,baseline,30,3,2,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,D
+electrical_engineering,baseline,30,4,2,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,baseline,31,1,2,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,B
+electrical_engineering,baseline,31,2,2,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,A
+electrical_engineering,baseline,31,3,2,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,B,0,1,B
+electrical_engineering,baseline,31,4,2,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,C
+electrical_engineering,baseline,32,1,2,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,B,1,1,B
+electrical_engineering,baseline,32,2,2,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,D,0,1,D
+electrical_engineering,baseline,32,3,2,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,A,1,1,A
+electrical_engineering,baseline,32,4,2,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,B,0,1,B
+electrical_engineering,baseline,33,1,2,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,A
+electrical_engineering,baseline,33,2,2,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,C
+electrical_engineering,baseline,33,3,2,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,A,1,1,A
+electrical_engineering,baseline,33,4,2,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,A
+electrical_engineering,baseline,34,1,2,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,C
+electrical_engineering,baseline,34,2,2,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,A
+electrical_engineering,baseline,34,3,2,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,C,1,1,C
+electrical_engineering,baseline,34,4,2,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,B,0,1,B
+electrical_engineering,baseline,35,1,2,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,baseline,35,2,2,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,A
+electrical_engineering,baseline,35,3,2,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,baseline,35,4,2,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,C,1,1,C
+electrical_engineering,baseline,36,1,2,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,baseline,36,2,2,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,B
+electrical_engineering,baseline,36,3,2,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,A
+electrical_engineering,baseline,36,4,2,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,A
+electrical_engineering,baseline,37,1,2,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"To solve this problem,"
+electrical_engineering,baseline,37,2,2,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,C
+electrical_engineering,baseline,37,3,2,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,A,1,1,A
+electrical_engineering,baseline,37,4,2,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,B,1,1,B
+electrical_engineering,baseline,38,1,2,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,A
+electrical_engineering,baseline,38,2,2,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,B,1,1,B
+electrical_engineering,baseline,38,3,2,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,C,1,1,C
+electrical_engineering,baseline,38,4,2,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,baseline,39,1,3,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,A,1,1,A
+electrical_engineering,baseline,39,2,3,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,C,0,1,C
+electrical_engineering,baseline,39,3,3,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,baseline,39,4,3,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,D
+electrical_engineering,baseline,40,1,3,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,A,0,1,A
+electrical_engineering,baseline,40,2,3,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,B,1,1,B
+electrical_engineering,baseline,40,3,3,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,D
+electrical_engineering,baseline,40,4,3,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,C
+electrical_engineering,baseline,41,1,3,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,D
+electrical_engineering,baseline,41,2,3,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,baseline,41,3,3,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,B,0,1,B
+electrical_engineering,baseline,41,4,3,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,C
+electrical_engineering,baseline,42,1,3,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,D
+electrical_engineering,baseline,42,2,3,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,C
+electrical_engineering,baseline,42,3,3,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,B
+electrical_engineering,baseline,42,4,3,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,C
+electrical_engineering,baseline,43,1,3,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,A,1,1,A
+electrical_engineering,baseline,43,2,3,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,D
+electrical_engineering,baseline,43,3,3,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,B
+electrical_engineering,baseline,43,4,3,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,A
+electrical_engineering,baseline,44,1,3,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,B
+electrical_engineering,baseline,44,2,3,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,baseline,44,3,3,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,baseline,44,4,3,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,D
+electrical_engineering,baseline,45,1,3,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,C,1,1,C
+electrical_engineering,baseline,45,2,3,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,45,3,3,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,D
+electrical_engineering,baseline,45,4,3,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,A,1,1,A
+electrical_engineering,baseline,46,1,3,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,baseline,46,2,3,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,B
+electrical_engineering,baseline,46,3,3,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,B
+electrical_engineering,baseline,46,4,3,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,baseline,47,1,3,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,baseline,47,2,3,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,D,0,1,D
+electrical_engineering,baseline,47,3,3,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,A
+electrical_engineering,baseline,47,4,3,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,baseline,48,1,3,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,A,0,1,A
+electrical_engineering,baseline,48,2,3,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,B,1,1,B
+electrical_engineering,baseline,48,3,3,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,baseline,48,4,3,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,baseline,49,1,3,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,B,1,1,B
+electrical_engineering,baseline,49,2,3,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,baseline,49,3,3,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,B
+electrical_engineering,baseline,49,4,3,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,D,0,1,D
+electrical_engineering,baseline,50,1,3,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,B
+electrical_engineering,baseline,50,2,3,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,B,1,1,B
+electrical_engineering,baseline,50,3,3,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,D,1,1,D
+electrical_engineering,baseline,50,4,3,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,B,0,1,B
+electrical_engineering,baseline,51,1,3,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,B,0,1,B
+electrical_engineering,baseline,51,2,3,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,C,1,1,C
+electrical_engineering,baseline,51,3,3,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,51,4,3,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,B,0,1,B
+electrical_engineering,baseline,52,1,3,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,baseline,52,2,3,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,baseline,52,3,3,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,A,1,1,A
+electrical_engineering,baseline,52,4,3,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,A,0,1,A
+electrical_engineering,baseline,53,1,3,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,baseline,53,2,3,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,A
+electrical_engineering,baseline,53,3,3,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,C,1,1,C
+electrical_engineering,baseline,53,4,3,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,C
+electrical_engineering,baseline,54,1,3,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,B,0,1,B
+electrical_engineering,baseline,54,2,3,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,C
+electrical_engineering,baseline,54,3,3,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,A,1,1,A
+electrical_engineering,baseline,54,4,3,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,55,1,3,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,C
+electrical_engineering,baseline,55,2,3,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,baseline,55,3,3,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,A
+electrical_engineering,baseline,55,4,3,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,D,0,1,D
+electrical_engineering,baseline,56,1,3,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,A
+electrical_engineering,baseline,56,2,3,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,baseline,56,3,3,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,B,1,1,B
+electrical_engineering,baseline,56,4,3,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,D,1,1,D
+electrical_engineering,baseline,57,1,3,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,C
+electrical_engineering,baseline,57,2,3,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,B,1,1,B
+electrical_engineering,baseline,57,3,3,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,A
+electrical_engineering,baseline,57,4,3,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,D,0,1,D
+electrical_engineering,baseline,58,1,4,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,B
+electrical_engineering,baseline,58,2,4,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,baseline,58,3,4,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,B
+electrical_engineering,baseline,58,4,4,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,B,1,1,B
+electrical_engineering,baseline,59,1,4,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,D
+electrical_engineering,baseline,59,2,4,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,baseline,59,3,4,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,B,1,1,B
+electrical_engineering,baseline,59,4,4,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,D
+electrical_engineering,baseline,60,1,4,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,B
+electrical_engineering,baseline,60,2,4,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,B,1,1,B
+electrical_engineering,baseline,60,3,4,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,C,1,1,C
+electrical_engineering,baseline,60,4,4,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,B,0,1,B
+electrical_engineering,baseline,61,1,4,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,C
+electrical_engineering,baseline,61,2,4,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,B,1,1,B
+electrical_engineering,baseline,61,3,4,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,B
+electrical_engineering,baseline,61,4,4,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,D,0,1,D
+electrical_engineering,baseline,62,1,4,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,A
+electrical_engineering,baseline,62,2,4,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,baseline,62,3,4,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,baseline,62,4,4,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,B,0,1,B
+electrical_engineering,baseline,63,1,4,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,B,0,1,B
+electrical_engineering,baseline,63,2,4,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,D
+electrical_engineering,baseline,63,3,4,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,baseline,63,4,4,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"To solve this problem,"
+electrical_engineering,baseline,64,1,4,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,B
+electrical_engineering,baseline,64,2,4,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,B
+electrical_engineering,baseline,64,3,4,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,B,1,1,B
+electrical_engineering,baseline,64,4,4,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,baseline,65,1,4,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,A,1,1,A
+electrical_engineering,baseline,65,2,4,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,B
+electrical_engineering,baseline,65,3,4,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,D
+electrical_engineering,baseline,65,4,4,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,A
+electrical_engineering,baseline,66,1,4,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,D
+electrical_engineering,baseline,66,2,4,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,B
+electrical_engineering,baseline,66,3,4,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,A,1,1,A
+electrical_engineering,baseline,66,4,4,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,baseline,67,1,4,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,B
+electrical_engineering,baseline,67,2,4,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,C
+electrical_engineering,baseline,67,3,4,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,C
+electrical_engineering,baseline,67,4,4,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,D
+electrical_engineering,baseline,68,1,4,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,A
+electrical_engineering,baseline,68,2,4,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,D
+electrical_engineering,baseline,68,3,4,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,B,0,1,B
+electrical_engineering,baseline,68,4,4,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,C
+electrical_engineering,baseline,69,1,4,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,A
+electrical_engineering,baseline,69,2,4,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,C,1,1,C
+electrical_engineering,baseline,69,3,4,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,baseline,69,4,4,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,B
+electrical_engineering,baseline,70,1,4,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,B,0,1,B
+electrical_engineering,baseline,70,2,4,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,D,1,1,D
+electrical_engineering,baseline,70,3,4,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,C,0,1,C
+electrical_engineering,baseline,70,4,4,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,baseline,71,1,4,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,C
+electrical_engineering,baseline,71,2,4,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,A,1,1,A
+electrical_engineering,baseline,71,3,4,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,D
+electrical_engineering,baseline,71,4,4,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,baseline,72,1,4,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,C
+electrical_engineering,baseline,72,2,4,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,B,1,1,B
+electrical_engineering,baseline,72,3,4,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,A,1,1,A
+electrical_engineering,baseline,72,4,4,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,baseline,73,1,4,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,B
+electrical_engineering,baseline,73,2,4,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,C
+electrical_engineering,baseline,73,3,4,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,C
+electrical_engineering,baseline,73,4,4,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,A,1,1,A
+electrical_engineering,baseline,74,1,4,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,A
+electrical_engineering,baseline,74,2,4,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,A
+electrical_engineering,baseline,74,3,4,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,baseline,74,4,4,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,B
+electrical_engineering,baseline,75,1,4,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,D,1,1,D
+electrical_engineering,baseline,75,2,4,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,C
+electrical_engineering,baseline,75,3,4,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,A
+electrical_engineering,baseline,75,4,4,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,A
+electrical_engineering,baseline,76,1,4,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,C,1,1,C
+electrical_engineering,baseline,76,2,4,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,C
+electrical_engineering,baseline,76,3,4,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,baseline,76,4,4,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,B
+electrical_engineering,baseline,77,1,5,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,D
+electrical_engineering,baseline,77,2,5,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,D
+electrical_engineering,baseline,77,3,5,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,C,1,1,C
+electrical_engineering,baseline,77,4,5,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,A,1,1,A
+electrical_engineering,baseline,78,1,5,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,B,1,1,B
+electrical_engineering,baseline,78,2,5,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,B,0,1,B
+electrical_engineering,baseline,78,3,5,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,C
+electrical_engineering,baseline,78,4,5,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,D,1,1,D
+electrical_engineering,baseline,79,1,5,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,D
+electrical_engineering,baseline,79,2,5,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,B,0,1,B
+electrical_engineering,baseline,79,3,5,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,A
+electrical_engineering,baseline,79,4,5,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,C
+electrical_engineering,baseline,80,1,5,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,baseline,80,2,5,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,C,0,1,C
+electrical_engineering,baseline,80,3,5,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,B,0,1,B
+electrical_engineering,baseline,80,4,5,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,C
+electrical_engineering,baseline,81,1,5,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,A
+electrical_engineering,baseline,81,2,5,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,B,0,1,B
+electrical_engineering,baseline,81,3,5,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,A
+electrical_engineering,baseline,81,4,5,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,A
+electrical_engineering,baseline,82,1,5,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,B
+electrical_engineering,baseline,82,2,5,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,C
+electrical_engineering,baseline,82,3,5,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,B
+electrical_engineering,baseline,82,4,5,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,B,1,1,B
+electrical_engineering,baseline,83,1,5,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,A,0,1,A
+electrical_engineering,baseline,83,2,5,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,baseline,83,3,5,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,D,1,1,D
+electrical_engineering,baseline,83,4,5,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,A
+electrical_engineering,baseline,84,1,5,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,A,1,1,A
+electrical_engineering,baseline,84,2,5,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,A
+electrical_engineering,baseline,84,3,5,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,84,4,5,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,baseline,85,1,5,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,C
+electrical_engineering,baseline,85,2,5,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,B,1,1,B
+electrical_engineering,baseline,85,3,5,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,A
+electrical_engineering,baseline,85,4,5,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,baseline,86,1,5,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,baseline,86,2,5,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,D,0,1,D
+electrical_engineering,baseline,86,3,5,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,B,1,1,B
+electrical_engineering,baseline,86,4,5,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,baseline,87,1,5,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,C
+electrical_engineering,baseline,87,2,5,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,B
+electrical_engineering,baseline,87,3,5,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,B
+electrical_engineering,baseline,87,4,5,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,A
+electrical_engineering,baseline,88,1,5,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,B,1,1,B
+electrical_engineering,baseline,88,2,5,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,C
+electrical_engineering,baseline,88,3,5,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,C,1,1,C
+electrical_engineering,baseline,88,4,5,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,C
+electrical_engineering,baseline,89,1,5,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,baseline,89,2,5,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,baseline,89,3,5,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,B,1,1,B
+electrical_engineering,baseline,89,4,5,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,baseline,90,1,5,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,B
+electrical_engineering,baseline,90,2,5,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,C
+electrical_engineering,baseline,90,3,5,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,B,1,1,B
+electrical_engineering,baseline,90,4,5,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,B
+electrical_engineering,baseline,91,1,5,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,C
+electrical_engineering,baseline,91,2,5,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,B
+electrical_engineering,baseline,91,3,5,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,C
+electrical_engineering,baseline,91,4,5,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,D
+electrical_engineering,baseline,92,1,5,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,D,0,1,D
+electrical_engineering,baseline,92,2,5,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,baseline,92,3,5,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,D,1,1,D
+electrical_engineering,baseline,92,4,5,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,B
+electrical_engineering,baseline,93,1,5,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,baseline,93,2,5,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,B,1,1,B
+electrical_engineering,baseline,93,3,5,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,A,1,1,A
+electrical_engineering,baseline,93,4,5,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,A,1,1,A
+electrical_engineering,baseline,94,1,5,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,C,1,1,C
+electrical_engineering,baseline,94,2,5,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,A,1,1,A
+electrical_engineering,baseline,94,3,5,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,B,0,1,B
+electrical_engineering,baseline,94,4,5,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,A,0,1,A
+electrical_engineering,baseline,95,1,5,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,baseline,95,2,5,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"To solve this problem,"
+electrical_engineering,baseline,95,3,5,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,baseline,95,4,5,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,baseline,96,1,5,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,B,0,1,B
+electrical_engineering,baseline,96,2,5,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,B,0,1,B
+electrical_engineering,baseline,96,3,5,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,B
+electrical_engineering,baseline,96,4,5,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,A,1,1,A
+electrical_engineering,model_A,1,1,1,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,,0,0,To calculate the number of
+electrical_engineering,model_A,1,2,1,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,,0,0,"To solve this problem,"
+electrical_engineering,model_A,1,3,1,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,C,0,1,(C) RLC circuit
+electrical_engineering,model_A,1,4,1,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,(C) 2 %.
+electrical_engineering,model_A,2,1,1,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,(D) product of its
+electrical_engineering,model_A,2,2,1,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,model_A,2,3,1,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,(B) 0.
+electrical_engineering,model_A,2,4,1,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,(C) both A and
+electrical_engineering,model_A,3,1,1,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,A,0,1,(A) Mnemonics
+electrical_engineering,model_A,3,2,1,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,B,0,1,(B) T2 &
+electrical_engineering,model_A,3,3,1,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,(C) Observational error
+electrical_engineering,model_A,3,4,1,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,(D) Registers
+electrical_engineering,model_A,4,1,1,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,model_A,4,2,1,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,A,0,1,(A) RL.
+electrical_engineering,model_A,4,3,1,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,(C) ininduct
+electrical_engineering,model_A,4,4,1,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,(C) eddy current
+electrical_engineering,model_A,5,1,1,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,(C) 2
+electrical_engineering,model_A,5,2,1,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,(B) Inductance
+electrical_engineering,model_A,5,3,1,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,(A) Resolution.
+electrical_engineering,model_A,5,4,1,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,model_A,6,1,1,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,model_A,6,2,1,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,C,0,1,C
+electrical_engineering,model_A,6,3,1,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,(A) 16
+electrical_engineering,model_A,6,4,1,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,(B) closedloopcontrol
+electrical_engineering,model_A,7,1,1,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,A,0,1,(A) High.
+electrical_engineering,model_A,7,2,1,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,model_A,7,3,1,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,model_A,7,4,1,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,model_A,8,1,1,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,A,0,1,(A) high thermalconduct
+electrical_engineering,model_A,8,2,1,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,(A) LC network.
+electrical_engineering,model_A,8,3,1,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,(D) It does not
+electrical_engineering,model_A,8,4,1,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,B,0,1,B
+electrical_engineering,model_A,9,1,1,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,(B) 3P
+electrical_engineering,model_A,9,2,1,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,C,0,1,(C) Snubber circuit
+electrical_engineering,model_A,9,3,1,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,(B) non linearly
+electrical_engineering,model_A,9,4,1,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,(A) ratio of absolute
+electrical_engineering,model_A,10,1,1,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"Tosolve this problem,"
+electrical_engineering,model_A,10,2,1,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,(A) Constant torque operation
+electrical_engineering,model_A,10,3,1,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,(B) Crystal filter.
+electrical_engineering,model_A,10,4,1,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,(A) Anopcode
+electrical_engineering,model_A,11,1,1,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,model_A,11,2,1,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,(D) all of above
+electrical_engineering,model_A,11,3,1,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,(A) Reciprocity
+electrical_engineering,model_A,11,4,1,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,model_A,12,1,1,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,model_A,12,2,1,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,D,0,1,(D) all of the
+electrical_engineering,model_A,12,3,1,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,B,0,1,(B) constant torque drive
+electrical_engineering,model_A,12,4,1,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,model_A,13,1,1,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,(C) 4
+electrical_engineering,model_A,13,2,1,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,(D) All the above
+electrical_engineering,model_A,13,3,1,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,(C) both A and
+electrical_engineering,model_A,13,4,1,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,(A) 1/
+electrical_engineering,model_A,14,1,1,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,(A) Snubber circuit
+electrical_engineering,model_A,14,2,1,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,(C) high
+electrical_engineering,model_A,14,3,1,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,(A) MROM
+electrical_engineering,model_A,14,4,1,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,(B) 15
+electrical_engineering,model_A,15,1,1,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,B,0,1,(B) Verylow.
+electrical_engineering,model_A,15,2,1,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,(B) clean.
+electrical_engineering,model_A,15,3,1,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,C,0,1,(C) Either of above
+electrical_engineering,model_A,15,4,1,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,C,0,1,(C) Both A and
+electrical_engineering,model_A,16,1,1,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,(D) All of the
+electrical_engineering,model_A,16,2,1,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,model_A,16,3,1,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,(C) Both
+electrical_engineering,model_A,16,4,1,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,(B) Dynamically induced
+electrical_engineering,model_A,17,1,1,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,(B) in parallel.
+electrical_engineering,model_A,17,2,1,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,C,1,1,(C) most simple and
+electrical_engineering,model_A,17,3,1,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,,0,0,To find the average pitch
+electrical_engineering,model_A,17,4,1,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,D,0,1,(D) none of above
+electrical_engineering,model_A,18,1,1,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,(C) Zero
+electrical_engineering,model_A,18,2,1,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,(D) all of the
+electrical_engineering,model_A,18,3,1,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,D,0,1,D
+electrical_engineering,model_A,18,4,1,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,B,0,1,(B) uppersurfaceof
+electrical_engineering,model_A,19,1,1,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,D,0,1,(D) J = 
+electrical_engineering,model_A,19,2,1,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,C,0,1,(C) Either A or
+electrical_engineering,model_A,19,3,1,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,(C) PAL
+electrical_engineering,model_A,19,4,1,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,"(A) NOR, NAND"
+electrical_engineering,model_A,20,1,2,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,(C) Zinc sulphide
+electrical_engineering,model_A,20,2,2,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,D,1,1,D
+electrical_engineering,model_A,20,3,2,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,A,0,1,(A) Resistor
+electrical_engineering,model_A,20,4,2,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,A,0,1,(A) and (B
+electrical_engineering,model_A,21,1,2,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,(A) all of below
+electrical_engineering,model_A,21,2,2,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,model_A,21,3,2,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,B,0,1,(B) 25
+electrical_engineering,model_A,21,4,2,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,C,1,1,(C) Decision box.
+electrical_engineering,model_A,22,1,2,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,D,0,1,(D) low and high
+electrical_engineering,model_A,22,2,2,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,model_A,22,3,2,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,model_A,22,4,2,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,(B) Analog quantity
+electrical_engineering,model_A,23,1,2,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,,0,0,TheAnswer
+electrical_engineering,model_A,23,2,2,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,C,0,1,(C) Wien bridge oscillator
+electrical_engineering,model_A,23,3,2,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,C,1,1,(C) RC.
+electrical_engineering,model_A,23,4,2,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,B,0,1,(B) 30
+electrical_engineering,model_A,24,1,2,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,model_A,24,2,2,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,model_A,24,3,2,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,(D) 10
+electrical_engineering,model_A,24,4,2,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,(C) LIFO memory
+electrical_engineering,model_A,25,1,2,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,(B) conducting materials which
+electrical_engineering,model_A,25,2,2,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,D,0,1,D
+electrical_engineering,model_A,25,3,2,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,A,0,1,(A) L
+electrical_engineering,model_A,25,4,2,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,,0,0,To determine the short circuit
+electrical_engineering,model_A,26,1,2,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,(B) Inductance
+electrical_engineering,model_A,26,2,2,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,model_A,26,3,2,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,(C) PAL
+electrical_engineering,model_A,26,4,2,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,D,1,1,D
+electrical_engineering,model_A,27,1,2,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,(C) LIFO memory
+electrical_engineering,model_A,27,2,2,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,(C) Zero
+electrical_engineering,model_A,27,3,2,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,C,0,1,(C) Wien bridge oscillator
+electrical_engineering,model_A,27,4,2,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,C,0,1,(C) Both A and
+electrical_engineering,model_A,28,1,2,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,(A) Snubber circuit
+electrical_engineering,model_A,28,2,2,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,(B) Dynamically induced
+electrical_engineering,model_A,28,3,2,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,(C) Both
+electrical_engineering,model_A,28,4,2,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,B,0,1,(B) 25
+electrical_engineering,model_A,29,1,2,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,C,1,1,(C) RC.
+electrical_engineering,model_A,29,2,2,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,(A) 16
+electrical_engineering,model_A,29,3,2,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,A,0,1,(A) High.
+electrical_engineering,model_A,29,4,2,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,(C) 2
+electrical_engineering,model_A,30,1,2,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,C,1,1,(C) most simple and
+electrical_engineering,model_A,30,2,2,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,(B) Crystal filter.
+electrical_engineering,model_A,30,3,2,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,(D) It does not
+electrical_engineering,model_A,30,4,2,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,model_A,31,1,2,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,(B) 3P
+electrical_engineering,model_A,31,2,2,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,(A) Anopcode
+electrical_engineering,model_A,31,3,2,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,D,0,1,D
+electrical_engineering,model_A,31,4,2,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,(C) Observational error
+electrical_engineering,model_A,32,1,2,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,C,0,1,C
+electrical_engineering,model_A,32,2,2,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,(C) eddy current
+electrical_engineering,model_A,32,3,2,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,B,0,1,(B) uppersurfaceof
+electrical_engineering,model_A,32,4,2,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,C,1,1,(C)
+electrical_engineering,model_A,33,1,2,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,"(A) NOR, NAND"
+electrical_engineering,model_A,33,2,2,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,(C) both A and
+electrical_engineering,model_A,33,3,2,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,D,0,1,(D) all of the
+electrical_engineering,model_A,33,4,2,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,(A) LC network.
+electrical_engineering,model_A,34,1,2,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,(C) both A and
+electrical_engineering,model_A,34,2,2,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,(A) Resolution.
+electrical_engineering,model_A,34,3,2,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,B,0,1,B
+electrical_engineering,model_A,34,4,2,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,,0,0,To determine the short circuit
+electrical_engineering,model_A,35,1,2,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,model_A,35,2,2,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,(A) all of below
+electrical_engineering,model_A,35,3,2,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,model_A,35,4,2,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,B,0,1,(B) T2 &
+electrical_engineering,model_A,36,1,2,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,model_A,36,2,2,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,(B) non linearly
+electrical_engineering,model_A,36,3,2,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,(A) Reciprocity
+electrical_engineering,model_A,36,4,2,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,(A) Constant torque operation
+electrical_engineering,model_A,37,1,2,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"Tosolve this problem,"
+electrical_engineering,model_A,37,2,2,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,(C) 2 %.
+electrical_engineering,model_A,37,3,2,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,B,0,1,(B) 30
+electrical_engineering,model_A,37,4,2,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,D,0,1,(D) J = 
+electrical_engineering,model_A,38,1,2,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,(A) ratio of absolute
+electrical_engineering,model_A,38,2,2,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,A,0,1,(A) Mnemonics
+electrical_engineering,model_A,38,3,2,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,D,0,1,D
+electrical_engineering,model_A,38,4,2,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,model_A,39,1,3,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,B,0,1,(B) constant torque drive
+electrical_engineering,model_A,39,2,3,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,D,0,1,(D) none of above
+electrical_engineering,model_A,39,3,3,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,model_A,39,4,3,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,(D) product of its
+electrical_engineering,model_A,40,1,3,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,,0,0,TheAnswer
+electrical_engineering,model_A,40,2,3,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,A,0,1,(A) RL.
+electrical_engineering,model_A,40,3,3,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,(D) Registers
+electrical_engineering,model_A,40,4,3,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,(C) 4
+electrical_engineering,model_A,41,1,3,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,(D) all of the
+electrical_engineering,model_A,41,2,3,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,model_A,41,3,3,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,,0,0,To calculate the number of
+electrical_engineering,model_A,41,4,3,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,(C) ininduct
+electrical_engineering,model_A,42,1,3,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,(D) all of above
+electrical_engineering,model_A,42,2,3,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,(C) Zinc sulphide
+electrical_engineering,model_A,42,3,3,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,(B) 0.
+electrical_engineering,model_A,42,4,3,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,(C) high
+electrical_engineering,model_A,43,1,3,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,C,0,1,(C) Snubber circuit
+electrical_engineering,model_A,43,2,3,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,(D) All the above
+electrical_engineering,model_A,43,3,3,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,(B) Analog quantity
+electrical_engineering,model_A,43,4,3,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,(A) 1/
+electrical_engineering,model_A,44,1,3,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,(B) in parallel.
+electrical_engineering,model_A,44,2,3,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,model_A,44,3,3,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,model_A,44,4,3,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,(D) 10
+electrical_engineering,model_A,45,1,3,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,B,0,1,(B) Verylow.
+electrical_engineering,model_A,45,2,3,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,A,0,1,(A) Resistor
+electrical_engineering,model_A,45,3,3,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,(D) All of the
+electrical_engineering,model_A,45,4,3,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,,0,0,TheAnswer
+electrical_engineering,model_A,46,1,3,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,model_A,46,2,3,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,(B) conducting materials which
+electrical_engineering,model_A,46,3,3,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,(B) 15
+electrical_engineering,model_A,46,4,3,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,model_A,47,1,3,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,model_A,47,2,3,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,C,1,1,(C) Decision box.
+electrical_engineering,model_A,47,3,3,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,(A) MROM
+electrical_engineering,model_A,47,4,3,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,model_A,48,1,3,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,C,0,1,(C) Either of above
+electrical_engineering,model_A,48,2,3,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,D,0,1,(D) low and high
+electrical_engineering,model_A,48,3,3,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,model_A,48,4,3,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,model_A,49,1,3,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,C,0,1,(C) Either A or
+electrical_engineering,model_A,49,2,3,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,model_A,49,3,3,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,(B) closedloopcontrol
+electrical_engineering,model_A,49,4,3,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,A,0,1,(A) L
+electrical_engineering,model_A,50,1,3,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,(B) clean.
+electrical_engineering,model_A,50,2,3,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,,0,0,"To solve this problem,"
+electrical_engineering,model_A,50,3,3,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,A,0,1,(A) high thermalconduct
+electrical_engineering,model_A,50,4,3,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,C,0,1,(C) RLC circuit
+electrical_engineering,model_A,51,1,3,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,C,1,1,(C)
+electrical_engineering,model_A,51,2,3,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,B,0,1,(B) Verylow.
+electrical_engineering,model_A,51,3,3,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,(C) Both
+electrical_engineering,model_A,51,4,3,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,,0,0,TheAnswer
+electrical_engineering,model_A,52,1,3,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,model_A,52,2,3,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,model_A,52,3,3,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,B,0,1,(B) uppersurfaceof
+electrical_engineering,model_A,52,4,3,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,C,0,1,(C) Either of above
+electrical_engineering,model_A,53,1,3,nan,The Barkhausen criterion for an oscillator (A) Loop gain should be unity (B) Loop gain should be less than unity (C) The,D,D,1,1,D
+electrical_engineering,model_A,53,2,3,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,"(A) NOR, NAND"
+electrical_engineering,model_A,53,3,3,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,B,0,1,B
+electrical_engineering,model_A,53,4,3,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,(C) 4
+electrical_engineering,model_A,54,1,3,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,C,0,1,(C) RLC circuit
+electrical_engineering,model_A,54,2,3,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,(C) eddy current
+electrical_engineering,model_A,54,3,3,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,C,0,1,(C) Both A and
+electrical_engineering,model_A,54,4,3,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,A,0,1,(A) Resistor
+electrical_engineering,model_A,55,1,3,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,(C) high
+electrical_engineering,model_A,55,2,3,nan,Relaxation Voltage controlled oscillators are used to generate (A) Sinusoidal wave (B) Triangular wave (C) Sawtooth wave,D,D,1,1,D
+electrical_engineering,model_A,55,3,3,nan,The feedback factor of a Wien bridge oscillator using Op-Amp is (A) 1/3 (B) 1/4 (C) 1/2 (D) 1,C,A,0,1,(A) 1/
+electrical_engineering,model_A,55,4,3,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,C,1,1,(C) Decision box.
+electrical_engineering,model_A,56,1,3,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,(A) Reciprocity
+electrical_engineering,model_A,56,2,3,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,model_A,56,3,3,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,A,0,1,(A) Mnemonics
+electrical_engineering,model_A,56,4,3,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,C,0,1,(C) Wien bridge oscillator
+electrical_engineering,model_A,57,1,3,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,(C) PAL
+electrical_engineering,model_A,57,2,3,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,C,0,1,C
+electrical_engineering,model_A,57,3,3,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,(A) Constant torque operation
+electrical_engineering,model_A,57,4,3,nan,Deflection method direct measurements are most widely used as these are (A) least time consuming. (B) most simple. (C) m,C,C,1,1,(C) most simple and
+electrical_engineering,model_A,58,1,4,nan,"The output of the system has an effect upon the input quantity, then the system is a (A) open loop control system. (B) c",B,B,1,1,(B) closedloopcontrol
+electrical_engineering,model_A,58,2,4,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,model_A,58,3,4,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,(B) Analog quantity
+electrical_engineering,model_A,58,4,4,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,,0,0,"To solve this problem,"
+electrical_engineering,model_A,59,1,4,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,(D) All of the
+electrical_engineering,model_A,59,2,4,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,model_A,59,3,4,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,C,0,1,(C) Either A or
+electrical_engineering,model_A,59,4,4,nan,Speed of data transmission in 4-G network of telecom is (A) 386 kbps - 2 mbps. (B) 2 mbps. (C) 2 mbps – 1 gbps. (D) 100 ,D,D,1,1,(D) 10
+electrical_engineering,model_A,60,1,4,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,(B) conducting materials which
+electrical_engineering,model_A,60,2,4,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,A,0,1,(A) High.
+electrical_engineering,model_A,60,3,4,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,B,0,1,(B)
+electrical_engineering,model_A,60,4,4,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,,0,0,To determine the short circuit
+electrical_engineering,model_A,61,1,4,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,(C) 2 %.
+electrical_engineering,model_A,61,2,4,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,A,0,1,(A) RL.
+electrical_engineering,model_A,61,3,4,nan,Conductor is static and the field is varying then emf will be induced. This principle is called (A) virtually induced em,C,B,0,1,(B) Dynamically induced
+electrical_engineering,model_A,61,4,4,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,A,0,1,(A) L
+electrical_engineering,model_A,62,1,4,nan,Which of the following is used in SCR to protect from high dV / dt? (A) Snubber circuit. (B) Fuse. (C) Equalizing circui,A,A,1,1,(A) Snubber circuit
+electrical_engineering,model_A,62,2,4,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,model_A,62,3,4,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,model_A,62,4,4,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,D,0,1,D
+electrical_engineering,model_A,63,1,4,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,D,1,1,D
+electrical_engineering,model_A,63,2,4,nan,In electrical resistance welding material of electrode should have (A) higher electrical conductivities. (B) higher ther,D,D,1,1,(D) all of above
+electrical_engineering,model_A,63,3,4,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,model_A,63,4,4,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"Tosolve this problem,"
+electrical_engineering,model_A,64,1,4,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,(B) non linearly
+electrical_engineering,model_A,64,2,4,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,(B) 15
+electrical_engineering,model_A,64,3,4,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,D,0,1,(D) low and high
+electrical_engineering,model_A,64,4,4,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,model_A,65,1,4,nan,What is used to protect the SCR from over current ? (A) CB and fuse. (B) Heat sink. (C) Snubber circuit. (D) Voltage cla,A,C,0,1,(C) Snubber circuit
+electrical_engineering,model_A,65,2,4,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,(B) Inductance
+electrical_engineering,model_A,65,3,4,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,(D) It does not
+electrical_engineering,model_A,65,4,4,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,(A) ratio of absolute
+electrical_engineering,model_A,66,1,4,nan,Voltage controlled oscillators are used commonly in (A) Pulse Modulators Frequency Modulators Phase Clocked loops (B) Fr,D,D,1,1,(D) All the above
+electrical_engineering,model_A,66,2,4,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,(B) in parallel.
+electrical_engineering,model_A,66,3,4,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,,0,0,To find the average pitch
+electrical_engineering,model_A,66,4,4,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,model_A,67,1,4,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,(B) 3P
+electrical_engineering,model_A,67,2,4,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,(C) ininduct
+electrical_engineering,model_A,67,3,4,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,(C) LIFO memory
+electrical_engineering,model_A,67,4,4,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,(D) Registers
+electrical_engineering,model_A,68,1,4,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,(A) all of below
+electrical_engineering,model_A,68,2,4,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,(D) all of the
+electrical_engineering,model_A,68,3,4,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,,0,0,To calculate the number of
+electrical_engineering,model_A,68,4,4,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,(C) both A and
+electrical_engineering,model_A,69,1,4,nan,The smallest change in measured variable to which instrument will respond is (A) resolution. (B) accuracy. (C) precision,A,A,1,1,(A) Resolution.
+electrical_engineering,model_A,69,2,4,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,D,0,1,D
+electrical_engineering,model_A,69,3,4,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,model_A,69,4,4,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,B,1,1,(B) 0.
+electrical_engineering,model_A,70,1,4,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,C,1,1,(C) RC.
+electrical_engineering,model_A,70,2,4,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,B,0,1,(B) 25
+electrical_engineering,model_A,70,3,4,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,D,0,1,(D) none of above
+electrical_engineering,model_A,70,4,4,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,model_A,71,1,4,nan,What is the name of the fluorescent material that gives red colour fluorescence? (A) Zinc silicate. (B) Calcium silicate,D,C,0,1,(C) Zinc sulphide
+electrical_engineering,model_A,71,2,4,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,D,0,1,(D) all of the
+electrical_engineering,model_A,71,3,4,nan,"The voltage induced in an inductor is represented as, (A) product of its inductance and current through it. (B) ratio of",D,D,1,1,(D) product of its
+electrical_engineering,model_A,71,4,4,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,model_A,72,1,4,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,(C) 2
+electrical_engineering,model_A,72,2,4,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,D,0,1,(D) J = 
+electrical_engineering,model_A,72,3,4,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,,0,0,To determine the correct answer
+electrical_engineering,model_A,72,4,4,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,model_A,73,1,4,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,(B) Crystal filter.
+electrical_engineering,model_A,73,2,4,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,(C) Observational error
+electrical_engineering,model_A,73,3,4,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,(C) Zero
+electrical_engineering,model_A,73,4,4,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,B,0,1,(B) constant torque drive
+electrical_engineering,model_A,74,1,4,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,(A) MROM
+electrical_engineering,model_A,74,2,4,nan,"In an intel 8085A, which is the first machine cycle of an instruction? (A) An op-code fetch cycle (B) A memory read cycl",A,A,1,1,(A) Anopcode
+electrical_engineering,model_A,74,3,4,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,model_A,74,4,4,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,(B) clean.
+electrical_engineering,model_A,75,1,4,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,A,0,1,(A) high thermalconduct
+electrical_engineering,model_A,75,2,4,nan,In 8085 name/names of the 16 bit registers is/are (A) stack pointer. (B) program counter. (C) both A and B. (D) none of ,C,C,1,1,(C) both A and
+electrical_engineering,model_A,75,3,4,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,(A) 16
+electrical_engineering,model_A,75,4,4,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,A,0,1,(A) LC network.
+electrical_engineering,model_A,76,1,4,nan,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be (A) Low. (B) Very low. (C) High. (,C,B,0,1,(B) Verylow.
+electrical_engineering,model_A,76,2,4,nan,Power dissipation in ideal inductor is (A) Maximum (B) Minimum (C) Zero (D) A finite value,C,C,1,1,(C) Zero
+electrical_engineering,model_A,76,3,4,nan,One of the following is the primary function of an oscillator (A) produces sinusoidal oscillations (B) generates non sin,C,C,1,1,C
+electrical_engineering,model_A,76,4,4,nan,Temperature variation is a/an (A) Digital quantity (B) Analog quantity (C) Either Digital or Analog quantity (D) None,B,B,1,1,(B) Analog quantity
+electrical_engineering,model_A,77,1,5,nan,Both the ALU and control section of CPU employ which special purpose storage location? (A) Buffers (B) Decoders (C) Accu,C,D,0,1,(D) Registers
+electrical_engineering,model_A,77,2,5,nan,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because (A) It,D,D,1,1,(D) It does not
+electrical_engineering,model_A,77,3,5,nan,A null type instrument as compared to a deflected type instrument has (A) a lower sensitivity. (B) a faster response. (C,C,D,0,1,D
+electrical_engineering,model_A,77,4,5,nan,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting,A,B,0,1,(B) uppersurfaceof
+electrical_engineering,model_A,78,1,5,nan,A single phase full bridge inverter can operated in load commutation mode in case load consist of (A) RL. (B) RLC underd,B,A,0,1,(A) RL.
+electrical_engineering,model_A,78,2,5,nan,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of n",D,A,0,1,(A) LC circuit.
+electrical_engineering,model_A,78,3,5,nan,The errors mainly caused by human mistakes are (A) gross error. (B) instrumental error. (C) observational error. (D) sys,A,C,0,1,(C) Observational error
+electrical_engineering,model_A,78,4,5,nan,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be (A) 5 µF (B) 25 µ",D,B,0,1,(B) 25
+electrical_engineering,model_A,79,1,5,nan,Purely mechanical instrument cannot be used for dynamic measurements because they have (A) high inertia. (B) higher resp,D,D,1,1,(D) all of the
+electrical_engineering,model_A,79,2,5,nan,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * ",A,,0,0,To calculate the number of
+electrical_engineering,model_A,79,3,5,nan,The concept of V/f control of inverters driving induction motors resuls in (A) constant torque operation (B) speed rever,A,A,1,1,(A) Constant torque operation
+electrical_engineering,model_A,79,4,5,nan,A combinational PLD with a fixed AND array and a programmable OR array is called a (A) PLD (B) PROM (C) PAL (D) PLA,B,C,0,1,(C) PAL
+electrical_engineering,model_A,80,1,5,nan,"According to the Bohr model, an electron gains or losses energy only by (A) moving faster or slower in an allowed orbit.",B,B,1,1,B
+electrical_engineering,model_A,80,2,5,nan,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of t,B,D,0,1,(D) none of above
+electrical_engineering,model_A,80,3,5,nan,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of n",C,C,1,1,(C) RC.
+electrical_engineering,model_A,80,4,5,nan,A Binary number system has how many digits. (A) 0 (B) 1 (C) 2 (D) 10,C,C,1,1,(C) 2
+electrical_engineering,model_A,81,1,5,nan,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. Thi",A,A,1,1,(A) Reciprocity
+electrical_engineering,model_A,81,2,5,nan,Which of the following is a digital device (A) Regulator of a fan (B) Microphone (C) Resistance of a material (D) Light ,D,D,1,1,D
+electrical_engineering,model_A,81,3,5,nan,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be (A) 160 µF (B)",A,A,1,1,(A) 16
+electrical_engineering,model_A,81,4,5,nan,Electric drive is becoming more and more popular because (A) all of below. (B) it provide smooth and easy control. (C) i,A,A,1,1,(A) all of below
+electrical_engineering,model_A,82,1,5,nan,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is (A) 0.32. (B) 0.67. (C) 0,B,,0,0,Tofind the duty cycle
+electrical_engineering,model_A,82,2,5,nan,Which of the following is/are the disadvantages of an open loop control system? (A) Inaccurate. (B) Unreliable. (C) both,C,C,1,1,(C) both A and
+electrical_engineering,model_A,82,3,5,nan,Which of the following is the analogous quantity for mass element in force-voltage analogy? (A) Resistance. (B) Inductan,B,B,1,1,(B) Inductance
+electrical_engineering,model_A,82,4,5,nan,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The ,B,,0,0,"To solve this problem,"
+electrical_engineering,model_A,83,1,5,nan,If holding current of a thyristor is 2 mA then latching current should be (A) 0.01 A. (B) 0.002 A. (C) 0.009 A. (D) 0.00,D,,0,0,TheAnswer
+electrical_engineering,model_A,83,2,5,nan,Which of the following methods is/are used for reactive or voltage compensation (A) shunt capacitor (B) series capacitor,D,D,1,1,D
+electrical_engineering,model_A,83,3,5,nan,Materials used in heat sink should have (A) high thermal conductivity. (B) large surface area. (C) high melting point. (,D,A,0,1,(A) high thermalconduct
+electrical_engineering,model_A,83,4,5,nan,"Which of these sets of logic gates are designated as universal gates? (A) NOR, NAND. (B) XOR, NOR, NAND. (C) OR, NOT, AN",A,A,1,1,"(A) NOR, NAND"
+electrical_engineering,model_A,84,1,5,nan,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch (A),A,,0,0,To find the average pitch
+electrical_engineering,model_A,84,2,5,nan,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are (A) LC network. (B) RC net",D,D,1,1,(D) Both 2
+electrical_engineering,model_A,84,3,5,nan,Which of the following are the passive elements? (A) Resistor (B) Bulb (C) Both (D) None of these.,C,A,0,1,(A) Resistor
+electrical_engineering,model_A,84,4,5,nan,________ is the most detrimental impurity in the magnetic materials (A) Carbon. (B) Sulphur. (C) Oxygen. (D) Nitrogen.,A,C,0,1,C
+electrical_engineering,model_A,85,1,5,nan,Stack is also known as (A) FIFO memory (B) Flash memory (C) LIFO memory (D) LILO memory,C,C,1,1,(C) LIFO memory
+electrical_engineering,model_A,85,2,5,nan,"In the toggle mode a JK flip-flop has (A) J = 0, K = 0. (B) J = 1, K = 1. (C) J = 0, K = 1. (D) J = 1, K = 0.",B,D,0,1,(D) J = 
+electrical_engineering,model_A,85,3,5,nan,Relative error is same as (A) ratio of absolute error and true value. (B) absolute error. (C) true error. (D) none of th,A,A,1,1,(A) ratio of absolute
+electrical_engineering,model_A,85,4,5,nan,Advantages of higher transmission voltage is/are (A) Power transfer capability of the transmission line is increased (B),D,D,1,1,D
+electrical_engineering,model_A,86,1,5,nan,Commutator in DC generator is used for (A) collecting of current (B) reduce losses (C) increase efficiency (D) convert A,D,D,1,1,D
+electrical_engineering,model_A,86,2,5,nan,A box which tells the effect of inputs on control sub system is known as (A) Data Box. (B) Logical box. (C) Decision box,C,C,1,1,(C) Decision box.
+electrical_engineering,model_A,86,3,5,nan,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, c",B,A,0,1,(A) Mnemonics
+electrical_engineering,model_A,86,4,5,nan,"A sinusoidal signal is analog signal, because (A) it can have a number of values between the negative and positive peaks",A,A,1,1,A
+electrical_engineering,model_A,87,1,5,nan,Which of the followings is/are active element? (A) Voltage source (B) Current source (C) Both (D) None of these.,C,C,1,1,(C) Both
+electrical_engineering,model_A,87,2,5,nan,The normal voltage used in directional heating is (A) 1.5 KV. (B) 15 KV. (C) 33 KV. (D) 66 KV.,A,B,0,1,(B) 15
+electrical_engineering,model_A,87,3,5,nan,Induction heating takes place in (A) conducting but non-magnetic materials. (B) conducting materials which may be either,B,B,1,1,(B) conducting materials which
+electrical_engineering,model_A,87,4,5,nan,The ROM programmed during manufacturing process itself is called (A) MROM (B) PROM (C) EPROM (D) EEPROM,A,A,1,1,(A) MROM
+electrical_engineering,model_A,88,1,5,nan,Which of the following oscillators are used for low frequency (LF) applications (A) LC oscillators (B) RC oscillators (C,B,C,0,1,C
+electrical_engineering,model_A,88,2,5,nan,Electrical analogous quantity for dash-pot in force-current analogy is (A) resistance. (B) conductance. (C) inductance. ,B,C,0,1,(C) ininduct
+electrical_engineering,model_A,88,3,5,nan,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state cloc",C,B,0,1,(B) T2 &
+electrical_engineering,model_A,88,4,5,nan,"To obtain a high value of capacitance, the permittivity of dielectric medium should be (A) low (B) zero (C) high (D) uni",C,C,1,1,(C) high
+electrical_engineering,model_A,89,1,5,nan,Feedback circuit in an oscillator can be accomplished by (A) Resistive coupling between input and output (B) Capacitive ,D,D,1,1,D
+electrical_engineering,model_A,89,2,5,nan,LC oscillators are used for produce a waveform with frequency ranging from (A) 1MHz to 500 MHz (B) 100 KHz to 500 MHz (C,A,B,0,1,B
+electrical_engineering,model_A,89,3,5,nan,Which system is also known as automatic control system? (A) Open loop control system (B) Closed loop control system (C) ,B,C,0,1,(C) Either A or
+electrical_engineering,model_A,89,4,5,nan,"In Digital Logic Designs, GAL is abbreviated as (A) General Advance Logic (B) General Array Logic (C) Generic Advance Lo",D,B,0,1,B
+electrical_engineering,model_A,90,1,5,nan,If P is the power of a star connected system then what will be power of an equivalent delta connected system? (A) P (B) ,A,B,0,1,(B) 3P
+electrical_engineering,model_A,90,2,5,nan,"The moving coil-meters, damping is provided by (A) the aluminium frame of the coil. (B) the coil spring attached to the ",A,C,0,1,(C) eddy current
+electrical_engineering,model_A,90,3,5,nan,For a dc machine shunt resistance and armature resistance values are (A) high and high (B) high and low (C) low and low ,B,D,0,1,(D) low and high
+electrical_engineering,model_A,90,4,5,nan,The metal surfaces for electrical resistance welding must be (A) rough. (B) clean. (C) moistened (D) coloured,B,B,1,1,(B) clean.
+electrical_engineering,model_A,91,1,5,nan,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits (A) 1 (B) 2 ",C,C,1,1,(C) 4
+electrical_engineering,model_A,91,2,5,nan,Piezoelectric effect is carried out in (A) composite filter. (B) crystal filter. (C) m derived. (D) constant k prototype,B,B,1,1,(B) Crystal filter.
+electrical_engineering,model_A,91,3,5,nan,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 7,B,C,0,1,(C) 2 %.
+electrical_engineering,model_A,91,4,5,nan,Systematic errors are (A) environmental errors. (B) observational errors. (C) instrument errors. (D) all of the above.,D,D,1,1,(D) All of the
+electrical_engineering,model_A,92,1,5,nan,Electrical analogous quantity for spring element (K) in force-voltage analogy is (A) L (B) R (C) 1/C (D) C,C,A,0,1,(A) L
+electrical_engineering,model_A,92,2,5,nan,Colpitts oscillator is also called as (A) Tank circuit oscillator (B) LC oscillator (C) Resonant circuit oscillator (D) ,D,D,1,1,D
+electrical_engineering,model_A,92,3,5,nan,Which oscillators are easy to fabricate in a monolithic IC? (A) Crystal oscillator. (B) Hartley oscillator. (C) Wien bri,D,C,0,1,(C) Wien bridge oscillator
+electrical_engineering,model_A,92,4,5,nan,Snubber circuit is used with SCR (A) in series. (B) in parallel. (C) either series or parallel. (D) anti parallel.,B,B,1,1,(B) in parallel.
+electrical_engineering,model_A,93,1,5,nan,The following are the necessary requirements of an oscillator (A) Amplitude stability (B) Frequency stability (C) Power ,D,D,1,1,D
+electrical_engineering,model_A,93,2,5,nan,Under over voltage condition impedance offered by the voltage clamping device is (A) high. (B) low. (C) moderate. (D) in,B,A,0,1,(A) High.
+electrical_engineering,model_A,93,3,5,nan,Speed control by variation of field flux results in (A) constant power drive. (B) constant torque drive. (C) variable po,A,B,0,1,(B) constant torque drive
+electrical_engineering,model_A,93,4,5,nan,Advantages of open loop control system is/are (A) simple and economical. (B) accurate. (C) reliable. (D) all of the abov,A,D,0,1,(D) all of the
+electrical_engineering,model_A,94,1,5,nan,A latch is ________ sensitive (A) both level and edge (B) edge (C) level (D) None,C,B,0,1,B
+electrical_engineering,model_A,94,2,5,nan,A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source volta,A,,0,0,To determine the correct answer
+electrical_engineering,model_A,94,3,5,nan,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parall",A,,0,0,To determine the short circuit
+electrical_engineering,model_A,94,4,5,nan,For intermittent work which of the following furnace is suitable? (A) Core less furnace. (B) Indirect arc furnace. (C) E,B,C,0,1,(C) Either of above
+electrical_engineering,model_A,95,1,5,nan,A quartz crystal oscillator consists of (A) only series resonant frequency. (B) only parallel resonant frequency. (C) bo,C,C,1,1,C
+electrical_engineering,model_A,95,2,5,nan,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is (A) 30 (B) 140. (C) 150. (D),C,,0,0,"Tosolve this problem,"
+electrical_engineering,model_A,95,3,5,nan,The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carryin,B,,0,0,To calculate the energy stored
+electrical_engineering,model_A,95,4,5,nan,"A working diode must have (A) High resistance when forward or reverse biased (B) Low resistance when forward biased, whi",B,B,1,1,B
+electrical_engineering,model_A,96,1,5,nan,The change of cross sectional area of conductor in magnetic field will affect (A) reluctance of conductor. (B) resistanc,C,C,1,1,(C)
+electrical_engineering,model_A,96,2,5,nan,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire ,A,D,0,1,D
+electrical_engineering,model_A,96,3,5,nan,The magnetisation and applied field in ferromagnetic materials are related (A) sinusoidally. (B) non linearly. (C) linea,B,B,1,1,(B) non linearly
+electrical_engineering,model_A,96,4,5,nan,Thin laminations are used in a machine in order to reduce (A) Eddy current losses (B) Hysteresis losses (C) Both A and B,A,C,0,1,(C) Both A and

@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+college_mathematics,baseline,1,76,47.368,98.684
+college_mathematics,baseline,2,76,56.579,98.684
+college_mathematics,baseline,3,76,50.0,100.0
+college_mathematics,baseline,4,76,55.263,98.684
+college_mathematics,baseline,5,80,51.25,98.75
+college_mathematics,model_A,1,76,28.947,56.579
+college_mathematics,model_A,2,76,30.263,55.263
+college_mathematics,model_A,3,76,31.579,51.316
+college_mathematics,model_A,4,76,28.947,60.526
+college_mathematics,model_A,5,80,33.75,56.25

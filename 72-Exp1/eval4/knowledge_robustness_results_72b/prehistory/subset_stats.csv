@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+prehistory,baseline,1,76,89.474,100.0
+prehistory,baseline,2,76,84.211,98.684
+prehistory,baseline,3,76,82.895,98.684
+prehistory,baseline,4,76,88.158,98.684
+prehistory,baseline,5,80,82.5,100.0
+prehistory,model_A,1,76,67.105,98.684
+prehistory,model_A,2,76,67.105,98.684
+prehistory,model_A,3,76,63.158,98.684
+prehistory,model_A,4,76,71.053,100.0
+prehistory,model_A,5,80,63.75,98.75

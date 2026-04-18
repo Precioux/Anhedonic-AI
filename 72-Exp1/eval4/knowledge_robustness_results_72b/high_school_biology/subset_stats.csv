@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_biology,baseline,1,76,92.105,100.0
+high_school_biology,baseline,2,76,90.789,100.0
+high_school_biology,baseline,3,76,96.053,100.0
+high_school_biology,baseline,4,76,92.105,100.0
+high_school_biology,baseline,5,80,93.75,100.0
+high_school_biology,model_A,1,76,76.316,97.368
+high_school_biology,model_A,2,76,67.105,97.368
+high_school_biology,model_A,3,76,76.316,97.368
+high_school_biology,model_A,4,76,75.0,97.368
+high_school_biology,model_A,5,80,76.25,98.75

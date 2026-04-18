@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+business_ethics,baseline,1,76,76.316,94.737
+business_ethics,baseline,2,76,85.526,97.368
+business_ethics,baseline,3,76,81.579,97.368
+business_ethics,baseline,4,76,81.579,94.737
+business_ethics,baseline,5,80,81.25,95.0
+business_ethics,model_A,1,76,57.895,97.368
+business_ethics,model_A,2,76,61.842,89.474
+business_ethics,model_A,3,76,51.316,93.421
+business_ethics,model_A,4,76,63.158,96.053
+business_ethics,model_A,5,80,57.5,92.5

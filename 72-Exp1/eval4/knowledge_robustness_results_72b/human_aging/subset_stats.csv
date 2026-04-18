@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+human_aging,baseline,1,76,88.158,100.0
+human_aging,baseline,2,76,81.579,100.0
+human_aging,baseline,3,76,90.789,100.0
+human_aging,baseline,4,76,81.579,100.0
+human_aging,baseline,5,80,82.5,100.0
+human_aging,model_A,1,76,65.789,89.474
+human_aging,model_A,2,76,68.421,92.105
+human_aging,model_A,3,76,67.105,94.737
+human_aging,model_A,4,76,69.737,92.105
+human_aging,model_A,5,80,62.5,90.0

@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+moral_disputes,baseline,1,76,73.684,100.0
+moral_disputes,baseline,2,76,88.158,100.0
+moral_disputes,baseline,3,76,76.316,100.0
+moral_disputes,baseline,4,76,78.947,100.0
+moral_disputes,baseline,5,80,77.5,100.0
+moral_disputes,model_A,1,76,50.0,98.684
+moral_disputes,model_A,2,76,65.789,98.684
+moral_disputes,model_A,3,76,40.789,98.684
+moral_disputes,model_A,4,76,52.632,100.0
+moral_disputes,model_A,5,80,57.5,98.75

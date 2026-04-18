@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+philosophy,baseline,1,76,78.947,98.684
+philosophy,baseline,2,76,78.947,98.684
+philosophy,baseline,3,76,82.895,98.684
+philosophy,baseline,4,76,78.947,100.0
+philosophy,baseline,5,80,81.25,98.75
+philosophy,model_A,1,76,67.105,98.684
+philosophy,model_A,2,76,55.263,100.0
+philosophy,model_A,3,76,69.737,98.684
+philosophy,model_A,4,76,67.105,98.684
+philosophy,model_A,5,80,67.5,98.75

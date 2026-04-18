@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+econometrics,baseline,1,1,1,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,B,1,1,B
+econometrics,baseline,1,2,1,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,A
+econometrics,baseline,1,3,1,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,D
+econometrics,baseline,1,4,1,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,B,1,1,B
+econometrics,baseline,2,1,1,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,B,1,1,(B) (i)
+econometrics,baseline,2,2,1,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,C
+econometrics,baseline,2,3,1,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,baseline,2,4,1,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,baseline,3,1,1,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,B
+econometrics,baseline,3,2,1,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,D
+econometrics,baseline,3,3,1,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,C,0,1,C
+econometrics,baseline,3,4,1,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,B,1,1,B
+econometrics,baseline,4,1,1,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,baseline,4,2,1,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,B,1,1,B
+econometrics,baseline,4,3,1,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,baseline,4,4,1,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,B,1,1,B
+econometrics,baseline,5,1,1,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,baseline,5,2,1,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,D
+econometrics,baseline,5,3,1,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,baseline,5,4,1,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,baseline,6,1,1,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,C
+econometrics,baseline,6,2,1,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,baseline,6,3,1,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,A,1,1,(A) (ii)
+econometrics,baseline,6,4,1,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,A
+econometrics,baseline,7,1,1,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,C
+econometrics,baseline,7,2,1,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,baseline,7,3,1,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,D,1,1,D
+econometrics,baseline,7,4,1,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,C,0,1,"(C) (i),"
+econometrics,baseline,8,1,1,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,B,1,1,B
+econometrics,baseline,8,2,1,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,baseline,8,3,1,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,baseline,8,4,1,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,baseline,9,1,1,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,baseline,9,2,1,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,B,0,1,B
+econometrics,baseline,9,3,1,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,B,0,1,B
+econometrics,baseline,9,4,1,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,baseline,10,1,1,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,B,0,1,B
+econometrics,baseline,10,2,1,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,C
+econometrics,baseline,10,3,1,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,baseline,10,4,1,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B) (iii)
+econometrics,baseline,11,1,1,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,B,0,1,B
+econometrics,baseline,11,2,1,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,B
+econometrics,baseline,11,3,1,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,C,1,1,C
+econometrics,baseline,11,4,1,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,C,1,1,C
+econometrics,baseline,12,1,1,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,B,1,1,B
+econometrics,baseline,12,2,1,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,D
+econometrics,baseline,12,3,1,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,baseline,12,4,1,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,D
+econometrics,baseline,13,1,1,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,C,1,1,C
+econometrics,baseline,13,2,1,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,C,1,1,C
+econometrics,baseline,13,3,1,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,A,0,1,A
+econometrics,baseline,13,4,1,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,A
+econometrics,baseline,14,1,1,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,D,0,1,D
+econometrics,baseline,14,2,1,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,baseline,14,3,1,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,C
+econometrics,baseline,14,4,1,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,baseline,15,1,1,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,B
+econometrics,baseline,15,2,1,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,baseline,15,3,1,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,B
+econometrics,baseline,15,4,1,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,baseline,16,1,1,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,baseline,16,2,1,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,baseline,16,3,1,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,A,1,1,A
+econometrics,baseline,16,4,1,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,C
+econometrics,baseline,17,1,1,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,B,0,1,B
+econometrics,baseline,17,2,1,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,D
+econometrics,baseline,17,3,1,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,C
+econometrics,baseline,17,4,1,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,D
+econometrics,baseline,18,1,1,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,A,1,1,A
+econometrics,baseline,18,2,1,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,A,1,1,A
+econometrics,baseline,18,3,1,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,A,1,1,A
+econometrics,baseline,18,4,1,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,A,0,1,A
+econometrics,baseline,19,1,1,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,A,0,1,A
+econometrics,baseline,19,2,1,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,C
+econometrics,baseline,19,3,1,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,B
+econometrics,baseline,19,4,1,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,C
+econometrics,baseline,20,1,2,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,A,1,1,A
+econometrics,baseline,20,2,2,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,D
+econometrics,baseline,20,3,2,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,baseline,20,4,2,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,A,1,1,A
+econometrics,baseline,21,1,2,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,C
+econometrics,baseline,21,2,2,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,A,0,1,A
+econometrics,baseline,21,3,2,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,D
+econometrics,baseline,21,4,2,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,A
+econometrics,baseline,22,1,2,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,To provide an accurate answer
+econometrics,baseline,22,2,2,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,baseline,22,3,2,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,D
+econometrics,baseline,22,4,2,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,A,1,1,A) 77
+econometrics,baseline,23,1,2,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,baseline,23,2,2,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,baseline,23,3,2,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,A
+econometrics,baseline,23,4,2,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,D,1,1,D
+econometrics,baseline,24,1,2,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,baseline,24,2,2,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,A,1,1,A
+econometrics,baseline,24,3,2,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,baseline,24,4,2,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,A
+econometrics,baseline,25,1,2,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,B
+econometrics,baseline,25,2,2,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,A
+econometrics,baseline,25,3,2,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,baseline,25,4,2,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,C,1,1,C
+econometrics,baseline,26,1,2,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,baseline,26,2,2,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,C
+econometrics,baseline,26,3,2,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,D,1,1,D
+econometrics,baseline,26,4,2,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,B
+econometrics,baseline,27,1,2,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,A
+econometrics,baseline,27,2,2,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,B
+econometrics,baseline,27,3,2,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,B,1,1,B
+econometrics,baseline,27,4,2,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,baseline,28,1,2,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,B,1,1,B
+econometrics,baseline,28,2,2,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,C
+econometrics,baseline,28,3,2,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,D,1,1,D
+econometrics,baseline,28,4,2,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B) (iii)
+econometrics,baseline,29,1,2,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,B,0,1,B
+econometrics,baseline,29,2,2,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,baseline,29,3,2,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,A
+econometrics,baseline,29,4,2,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,B,1,1,B
+econometrics,baseline,30,1,2,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,A,1,1,A
+econometrics,baseline,30,2,2,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,B,1,1,B
+econometrics,baseline,30,3,2,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,B,0,1,B
+econometrics,baseline,30,4,2,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,C
+econometrics,baseline,31,1,2,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,C
+econometrics,baseline,31,2,2,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,B
+econometrics,baseline,31,3,2,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,D
+econometrics,baseline,31,4,2,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,baseline,32,1,2,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,C,1,1,C
+econometrics,baseline,32,2,2,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,B
+econometrics,baseline,32,3,2,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,baseline,32,4,2,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,A
+econometrics,baseline,33,1,2,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,B,1,1,(B) (i)
+econometrics,baseline,33,2,2,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,baseline,33,3,2,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,baseline,33,4,2,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,B,0,1,B
+econometrics,baseline,34,1,2,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,baseline,34,2,2,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,A
+econometrics,baseline,34,3,2,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,A,1,1,(A) (ii)
+econometrics,baseline,34,4,2,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,B,0,1,B
+econometrics,baseline,35,1,2,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,C
+econometrics,baseline,35,2,2,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,D
+econometrics,baseline,35,3,2,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,A
+econometrics,baseline,35,4,2,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,A,0,1,A
+econometrics,baseline,36,1,2,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,C
+econometrics,baseline,36,2,2,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,baseline,36,3,2,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,C,0,1,C
+econometrics,baseline,36,4,2,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,A,1,1,A
+econometrics,baseline,37,1,2,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,A,0,1,A
+econometrics,baseline,37,2,2,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,baseline,37,3,2,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,A,1,1,A
+econometrics,baseline,37,4,2,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,C
+econometrics,baseline,38,1,2,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,D
+econometrics,baseline,38,2,2,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,D,0,1,D
+econometrics,baseline,38,3,2,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,baseline,38,4,2,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,baseline,39,1,3,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,B
+econometrics,baseline,39,2,3,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,C,1,1,C
+econometrics,baseline,39,3,3,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,baseline,39,4,3,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,A,1,1,A
+econometrics,baseline,40,1,3,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,C
+econometrics,baseline,40,2,3,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,C
+econometrics,baseline,40,3,3,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,baseline,40,4,3,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,B,1,1,B
+econometrics,baseline,41,1,3,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,baseline,41,2,3,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,D
+econometrics,baseline,41,3,3,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,baseline,41,4,3,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,A,1,1,A
+econometrics,baseline,42,1,3,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,baseline,42,2,3,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,B,1,1,B
+econometrics,baseline,42,3,3,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,baseline,42,4,3,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,C,0,1,"(C) (i),"
+econometrics,baseline,43,1,3,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,baseline,43,2,3,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,A
+econometrics,baseline,43,3,3,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,A,1,1,A
+econometrics,baseline,43,4,3,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,A,0,1,A
+econometrics,baseline,44,1,3,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,D
+econometrics,baseline,44,2,3,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,baseline,44,3,3,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,D
+econometrics,baseline,44,4,3,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,A,1,1,A
+econometrics,baseline,45,1,3,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,baseline,45,2,3,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,baseline,45,3,3,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,baseline,45,4,3,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,D
+econometrics,baseline,46,1,3,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,C
+econometrics,baseline,46,2,3,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,D
+econometrics,baseline,46,3,3,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,B,1,1,B
+econometrics,baseline,46,4,3,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,A,0,1,A
+econometrics,baseline,47,1,3,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,C,1,1,C
+econometrics,baseline,47,2,3,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,C,1,1,C
+econometrics,baseline,47,3,3,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,D
+econometrics,baseline,47,4,3,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,baseline,48,1,3,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,B,0,1,B
+econometrics,baseline,48,2,3,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,A,1,1,A
+econometrics,baseline,48,3,3,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,A
+econometrics,baseline,48,4,3,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,Without the context of question
+econometrics,baseline,49,1,3,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,baseline,49,2,3,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,baseline,49,3,3,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,D
+econometrics,baseline,49,4,3,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,baseline,50,1,3,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,B
+econometrics,baseline,50,2,3,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,C,1,1,C
+econometrics,baseline,50,3,3,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,baseline,50,4,3,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,baseline,51,1,3,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,C
+econometrics,baseline,51,2,3,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,A,1,1,A
+econometrics,baseline,51,3,3,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,baseline,51,4,3,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,B,1,1,B
+econometrics,baseline,52,1,3,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,B,1,1,B
+econometrics,baseline,52,2,3,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,B,1,1,B
+econometrics,baseline,52,3,3,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,B,0,1,B
+econometrics,baseline,52,4,3,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,C
+econometrics,baseline,53,1,3,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,baseline,53,2,3,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,A,0,1,A
+econometrics,baseline,53,3,3,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,D,1,1,D
+econometrics,baseline,53,4,3,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,baseline,54,1,3,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,A,1,1,A
+econometrics,baseline,54,2,3,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,baseline,54,3,3,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,B,0,1,B
+econometrics,baseline,54,4,3,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,A,1,1,A
+econometrics,baseline,55,1,3,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,C
+econometrics,baseline,55,2,3,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,C,0,1,"(C) (i),"
+econometrics,baseline,55,3,3,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,D
+econometrics,baseline,55,4,3,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,Without the context of question
+econometrics,baseline,56,1,3,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,B,0,1,B
+econometrics,baseline,56,2,3,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,baseline,56,3,3,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,baseline,56,4,3,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,baseline,57,1,3,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,baseline,57,2,3,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,baseline,57,3,3,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,A
+econometrics,baseline,57,4,3,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,B
+econometrics,baseline,58,1,4,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,D
+econometrics,baseline,58,2,4,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,D
+econometrics,baseline,58,3,4,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,B
+econometrics,baseline,58,4,4,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,baseline,59,1,4,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,B,1,1,B
+econometrics,baseline,59,2,4,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,A,1,1,(A) (ii)
+econometrics,baseline,59,3,4,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,D
+econometrics,baseline,59,4,4,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,C,1,1,C
+econometrics,baseline,60,1,4,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,B,1,1,B
+econometrics,baseline,60,2,4,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,C
+econometrics,baseline,60,3,4,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,B
+econometrics,baseline,60,4,4,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,A,1,1,A
+econometrics,baseline,61,1,4,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,D
+econometrics,baseline,61,2,4,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,A,1,1,A
+econometrics,baseline,61,3,4,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,C
+econometrics,baseline,61,4,4,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,A,0,1,A
+econometrics,baseline,62,1,4,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,baseline,62,2,4,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,A
+econometrics,baseline,62,3,4,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,baseline,62,4,4,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,B,0,1,B
+econometrics,baseline,63,1,4,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,B,1,1,B
+econometrics,baseline,63,2,4,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,B,1,1,(B) (i)
+econometrics,baseline,63,3,4,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,B
+econometrics,baseline,63,4,4,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,C
+econometrics,baseline,64,1,4,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,B
+econometrics,baseline,64,2,4,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B)
+econometrics,baseline,64,3,4,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,B,1,1,B
+econometrics,baseline,64,4,4,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,D,1,1,D
+econometrics,baseline,65,1,4,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,baseline,65,2,4,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,D
+econometrics,baseline,65,3,4,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,baseline,65,4,4,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,baseline,66,1,4,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,B
+econometrics,baseline,66,2,4,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,A,1,1,A
+econometrics,baseline,66,3,4,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,C
+econometrics,baseline,66,4,4,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,C
+econometrics,baseline,67,1,4,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,C
+econometrics,baseline,67,2,4,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,B,0,1,B
+econometrics,baseline,67,3,4,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,C,1,1,C
+econometrics,baseline,67,4,4,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,A
+econometrics,baseline,68,1,4,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,A,1,1,A
+econometrics,baseline,68,2,4,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,baseline,68,3,4,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,baseline,68,4,4,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,baseline,69,1,4,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,A,0,1,A
+econometrics,baseline,69,2,4,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,C,1,1,C
+econometrics,baseline,69,3,4,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,baseline,69,4,4,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,D
+econometrics,baseline,70,1,4,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,baseline,70,2,4,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,D
+econometrics,baseline,70,3,4,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,A
+econometrics,baseline,70,4,4,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,baseline,71,1,4,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,D
+econometrics,baseline,71,2,4,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,baseline,71,3,4,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,A
+econometrics,baseline,71,4,4,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,C
+econometrics,baseline,72,1,4,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,C,1,1,C
+econometrics,baseline,72,2,4,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,baseline,72,3,4,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,D
+econometrics,baseline,72,4,4,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,baseline,73,1,4,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,baseline,73,2,4,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,baseline,73,3,4,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,baseline,73,4,4,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,D,0,1,D
+econometrics,baseline,74,1,4,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,baseline,74,2,4,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,A
+econometrics,baseline,74,3,4,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,A
+econometrics,baseline,74,4,4,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,D
+econometrics,baseline,75,1,4,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,baseline,75,2,4,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,C,0,1,C
+econometrics,baseline,75,3,4,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,A,0,1,A
+econometrics,baseline,75,4,4,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,A,1,1,A
+econometrics,baseline,76,1,4,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,baseline,76,2,4,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,baseline,76,3,4,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,baseline,76,4,4,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,A
+econometrics,baseline,77,1,5,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,C
+econometrics,baseline,77,2,5,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,baseline,77,3,5,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,A,0,1,A
+econometrics,baseline,77,4,5,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,C
+econometrics,baseline,78,1,5,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,baseline,78,2,5,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,baseline,78,3,5,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,B,1,1,B
+econometrics,baseline,78,4,5,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,baseline,79,1,5,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,C
+econometrics,baseline,79,2,5,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,D
+econometrics,baseline,79,3,5,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,B,1,1,B
+econometrics,baseline,79,4,5,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,A
+econometrics,baseline,80,1,5,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,A
+econometrics,baseline,80,2,5,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,A,1,1,A
+econometrics,baseline,80,3,5,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,C,0,1,"(C) (i),"
+econometrics,baseline,80,4,5,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,baseline,81,1,5,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,baseline,81,2,5,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,D
+econometrics,baseline,81,3,5,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,B
+econometrics,baseline,81,4,5,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,C,1,1,C
+econometrics,baseline,82,1,5,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,D
+econometrics,baseline,82,2,5,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,B
+econometrics,baseline,82,3,5,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,baseline,82,4,5,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,B,0,1,B
+econometrics,baseline,83,1,5,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,D,1,1,D
+econometrics,baseline,83,2,5,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,A,0,1,A
+econometrics,baseline,83,3,5,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,C
+econometrics,baseline,83,4,5,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,baseline,84,1,5,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,B
+econometrics,baseline,84,2,5,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,D
+econometrics,baseline,84,3,5,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,baseline,84,4,5,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,C
+econometrics,baseline,85,1,5,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,C
+econometrics,baseline,85,2,5,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,D
+econometrics,baseline,85,3,5,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,baseline,85,4,5,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,A,1,1,A
+econometrics,baseline,86,1,5,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,B,1,1,B
+econometrics,baseline,86,2,5,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,A,0,1,A
+econometrics,baseline,86,3,5,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,C,1,1,C
+econometrics,baseline,86,4,5,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,baseline,87,1,5,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B) (iii)
+econometrics,baseline,87,2,5,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,B
+econometrics,baseline,87,3,5,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,D
+econometrics,baseline,87,4,5,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,A,1,1,A
+econometrics,baseline,88,1,5,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,baseline,88,2,5,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,C,1,1,C
+econometrics,baseline,88,3,5,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,A,1,1,A) 77
+econometrics,baseline,88,4,5,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,C
+econometrics,baseline,89,1,5,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,D,0,1,D
+econometrics,baseline,89,2,5,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,D,1,1,D
+econometrics,baseline,89,3,5,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,baseline,89,4,5,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,baseline,90,1,5,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,baseline,90,2,5,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,baseline,90,3,5,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,Without the context of question
+econometrics,baseline,90,4,5,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,C
+econometrics,baseline,91,1,5,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,A
+econometrics,baseline,91,2,5,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,B,0,1,B
+econometrics,baseline,91,3,5,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,D
+econometrics,baseline,91,4,5,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,C
+econometrics,baseline,92,1,5,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,D
+econometrics,baseline,92,2,5,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,baseline,92,3,5,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,B,0,1,B
+econometrics,baseline,92,4,5,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,baseline,93,1,5,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,B,0,1,B
+econometrics,baseline,93,2,5,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,D
+econometrics,baseline,93,3,5,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,baseline,93,4,5,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,D
+econometrics,baseline,94,1,5,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,B
+econometrics,baseline,94,2,5,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,baseline,94,3,5,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,B,1,1,B
+econometrics,baseline,94,4,5,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,baseline,95,1,5,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,A
+econometrics,baseline,95,2,5,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,C,1,1,C
+econometrics,baseline,95,3,5,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,A,1,1,(A) (ii)
+econometrics,baseline,95,4,5,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,C
+econometrics,baseline,96,1,5,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,A,1,1,A
+econometrics,baseline,96,2,5,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,baseline,96,3,5,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,A,1,1,A
+econometrics,baseline,96,4,5,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,C,0,1,C
+econometrics,model_A,1,1,1,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,D,0,1,D
+econometrics,model_A,1,2,1,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,(A) Censored
+econometrics,model_A,1,3,1,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,"(D) (i),"
+econometrics,model_A,1,4,1,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,D,0,1,D
+econometrics,model_A,2,1,1,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,C,0,1,"(C) (i),"
+econometrics,model_A,2,2,1,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,(C) 2 and
+econometrics,model_A,2,3,1,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,model_A,2,4,1,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,model_A,3,1,1,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,(B) T x 
+econometrics,model_A,3,2,1,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,(D) There is insufficient
+econometrics,model_A,3,3,1,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,D,0,1,D
+econometrics,model_A,3,4,1,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,D,0,1,D
+econometrics,model_A,4,1,1,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,model_A,4,2,1,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,D,0,1,D
+econometrics,model_A,4,3,1,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,model_A,4,4,1,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,C,0,1,"(C) (i),"
+econometrics,model_A,5,1,1,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,model_A,5,2,1,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,(D)
+econometrics,model_A,5,3,1,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,model_A,5,4,1,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,model_A,6,1,1,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,"(C) (i),"
+econometrics,model_A,6,2,1,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,model_A,6,3,1,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,C,0,1,"(C) (i),"
+econometrics,model_A,6,4,1,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,(A) (ii)
+econometrics,model_A,7,1,1,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,"(C) (i),"
+econometrics,model_A,7,2,1,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,model_A,7,3,1,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,C,0,1,C
+econometrics,model_A,7,4,1,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,D,0,1,(D)
+econometrics,model_A,8,1,1,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,,0,0,The correct answer is (
+econometrics,model_A,8,2,1,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,model_A,8,3,1,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,model_A,8,4,1,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,model_A,9,1,1,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,model_A,9,2,1,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,D,0,1,D
+econometrics,model_A,9,3,1,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,C,1,1,"(C) (i),"
+econometrics,model_A,9,4,1,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,model_A,10,1,1,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,D,0,1,D
+econometrics,model_A,10,2,1,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,(C)
+econometrics,model_A,10,3,1,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,model_A,10,4,1,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B)
+econometrics,model_A,11,1,1,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,C,0,1,(C) They are highly
+econometrics,model_A,11,2,1,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,(B) An alternating pattern
+econometrics,model_A,11,3,1,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,Theansweris(D)
+econometrics,model_A,11,4,1,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,D,0,1,(D)
+econometrics,model_A,12,1,1,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,B,1,1,(B) The variables are
+econometrics,model_A,12,2,1,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,(D) There is insufficient
+econometrics,model_A,12,3,1,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,model_A,12,4,1,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,(D) 36
+econometrics,model_A,13,1,1,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,D,0,1,(D) Close to either
+econometrics,model_A,13,2,1,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,D,0,1,D
+econometrics,model_A,13,3,1,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,C,0,1,C
+econometrics,model_A,13,4,1,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,(A) 99
+econometrics,model_A,14,1,1,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,C,0,1,C
+econometrics,model_A,14,2,1,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,model_A,14,3,1,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,(C) Ensure that there
+econometrics,model_A,14,4,1,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,model_A,15,1,1,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,(B) Zero
+econometrics,model_A,15,2,1,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,model_A,15,3,1,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,(B) Uncorrelated
+econometrics,model_A,15,4,1,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,model_A,16,1,1,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,model_A,16,2,1,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,model_A,16,3,1,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,D,0,1,(D)
+econometrics,model_A,16,4,1,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,(C) A deterministic trend
+econometrics,model_A,17,1,1,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,D,0,1,(D)
+econometrics,model_A,17,2,1,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,(D) 1x
+econometrics,model_A,17,3,1,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,"(C) (i),"
+econometrics,model_A,17,4,1,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,(D)
+econometrics,model_A,18,1,1,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,C,0,1,C
+econometrics,model_A,18,2,1,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,D,0,1,(D)
+econometrics,model_A,18,3,1,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,D,0,1,D
+econometrics,model_A,18,4,1,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,D,0,1,D
+econometrics,model_A,19,1,1,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,D,0,1,(D)
+econometrics,model_A,19,2,1,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,(C) The PP test
+econometrics,model_A,19,3,1,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,(B) A multinomial
+econometrics,model_A,19,4,1,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,"(C) (i),"
+econometrics,model_A,20,1,2,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,D,0,1,D
+econometrics,model_A,20,2,2,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,(D)
+econometrics,model_A,20,3,2,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,model_A,20,4,2,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,D,0,1,(D)
+econometrics,model_A,21,1,2,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,(C)
+econometrics,model_A,21,2,2,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,B,1,1,(B) Cardinal
+econometrics,model_A,21,3,2,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,"(D) (i),"
+econometrics,model_A,21,4,2,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,(A) It would rise
+econometrics,model_A,22,1,2,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,TheGiven
+econometrics,model_A,22,2,2,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,model_A,22,3,2,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,(D) The Breusch
+econometrics,model_A,22,4,2,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,,0,0,TheTo
+econometrics,model_A,23,1,2,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,model_A,23,2,2,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,model_A,23,3,2,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,(A) Anentityfixed
+econometrics,model_A,23,4,2,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,C,0,1,C
+econometrics,model_A,24,1,2,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,model_A,24,2,2,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,D,0,1,D
+econometrics,model_A,24,3,2,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,model_A,24,4,2,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,(A) The roots of
+econometrics,model_A,25,1,2,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,(B) (i)
+econometrics,model_A,25,2,2,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,(A) The variance of
+econometrics,model_A,25,3,2,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,model_A,25,4,2,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,D,0,1,(D)
+econometrics,model_A,26,1,2,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,model_A,26,2,2,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,(C) Ensure that there
+econometrics,model_A,26,3,2,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,C,0,1,C
+econometrics,model_A,26,4,2,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,(B) Uncorrelated
+econometrics,model_A,27,1,2,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,(A) Censored
+econometrics,model_A,27,2,2,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,(B) A multinomial
+econometrics,model_A,27,3,2,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,A,0,1,(A) The variables are
+econometrics,model_A,27,4,2,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,model_A,28,1,2,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,D,0,1,D
+econometrics,model_A,28,2,2,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,(C)
+econometrics,model_A,28,3,2,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,C,0,1,C
+econometrics,model_A,28,4,2,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B)
+econometrics,model_A,29,1,2,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,C,1,1,"(C) (i),"
+econometrics,model_A,29,2,2,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,model_A,29,3,2,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,(A) It would rise
+econometrics,model_A,29,4,2,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,B,1,1,(B) (i)
+econometrics,model_A,30,1,2,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,D,0,1,D
+econometrics,model_A,30,2,2,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,D,0,1,D
+econometrics,model_A,30,3,2,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,C,0,1,(C) They are highly
+econometrics,model_A,30,4,2,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,(C) 2 and
+econometrics,model_A,31,1,2,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,(C) A deterministic trend
+econometrics,model_A,31,2,2,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,(B) (i)
+econometrics,model_A,31,3,2,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,(D) There is insufficient
+econometrics,model_A,31,4,2,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,model_A,32,1,2,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,D,0,1,D
+econometrics,model_A,32,2,2,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,(B) Zero
+econometrics,model_A,32,3,2,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,model_A,32,4,2,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,(A) Anentityfixed
+econometrics,model_A,33,1,2,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,C,0,1,"(C) (i),"
+econometrics,model_A,33,2,2,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,model_A,33,3,2,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,model_A,33,4,2,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,D,0,1,(D)
+econometrics,model_A,34,1,2,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,model_A,34,2,2,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,(A) (ii)
+econometrics,model_A,34,3,2,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,C,0,1,"(C) (i),"
+econometrics,model_A,34,4,2,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,D,0,1,D
+econometrics,model_A,35,1,2,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,"(C) (i),"
+econometrics,model_A,35,2,2,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,(D) 36
+econometrics,model_A,35,3,2,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,(A) The roots of
+econometrics,model_A,35,4,2,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,D,0,1,(D)
+econometrics,model_A,36,1,2,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,"(C) (i),"
+econometrics,model_A,36,2,2,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,model_A,36,3,2,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,D,0,1,D
+econometrics,model_A,36,4,2,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,D,0,1,D
+econometrics,model_A,37,1,2,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,B,1,1,(B) Cardinal
+econometrics,model_A,37,2,2,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,model_A,37,3,2,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,D,0,1,(D)
+econometrics,model_A,37,4,2,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,"(C) (i),"
+econometrics,model_A,38,1,2,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,(D) There is insufficient
+econometrics,model_A,38,2,2,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,C,0,1,C
+econometrics,model_A,38,3,2,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,model_A,38,4,2,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,model_A,39,1,3,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,(B) T x 
+econometrics,model_A,39,2,3,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,D,0,1,(D)
+econometrics,model_A,39,3,3,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,model_A,39,4,3,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,D,0,1,(D)
+econometrics,model_A,40,1,3,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,(C) The PP test
+econometrics,model_A,40,2,3,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,"(C) (i),"
+econometrics,model_A,40,3,3,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,model_A,40,4,3,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,,0,0,The correct answer is (
+econometrics,model_A,41,1,3,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,model_A,41,2,3,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,"(D) (i),"
+econometrics,model_A,41,3,3,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,model_A,41,4,3,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,D,0,1,D
+econometrics,model_A,42,1,3,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,model_A,42,2,3,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,D,0,1,D
+econometrics,model_A,42,3,3,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,model_A,42,4,3,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,D,0,1,(D)
+econometrics,model_A,43,1,3,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,model_A,43,2,3,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,(A) The variance of
+econometrics,model_A,43,3,3,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,D,0,1,(D)
+econometrics,model_A,43,4,3,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,D,0,1,D
+econometrics,model_A,44,1,3,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,(D) The Breusch
+econometrics,model_A,44,2,3,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,model_A,44,3,3,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,(D)
+econometrics,model_A,44,4,3,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,,0,0,TheTo
+econometrics,model_A,45,1,3,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,model_A,45,2,3,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,model_A,45,3,3,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,model_A,45,4,3,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,(D)
+econometrics,model_A,46,1,3,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,(C)
+econometrics,model_A,46,2,3,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,"(D) (i),"
+econometrics,model_A,46,3,3,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,D,0,1,D
+econometrics,model_A,46,4,3,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,C,0,1,C
+econometrics,model_A,47,1,3,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,A,0,1,(A) Close to 
+econometrics,model_A,47,2,3,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,Theansweris(D)
+econometrics,model_A,47,3,3,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,(D)
+econometrics,model_A,47,4,3,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,model_A,48,1,3,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,D,0,1,D
+econometrics,model_A,48,2,3,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,C,0,1,C
+econometrics,model_A,48,3,3,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,(A) 99
+econometrics,model_A,48,4,3,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,TheGiven
+econometrics,model_A,49,1,3,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,model_A,49,2,3,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,model_A,49,3,3,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,(D) 1x
+econometrics,model_A,49,4,3,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,model_A,50,1,3,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,(B) An alternating pattern
+econometrics,model_A,50,2,3,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,D,0,1,(D)
+econometrics,model_A,50,3,3,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,model_A,50,4,3,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,model_A,51,1,3,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,"(C) (i),"
+econometrics,model_A,51,2,3,hard,Which of the following is correct concerning logit and probit models? (A) They use a different method of transforming th,A,C,0,1,C
+econometrics,model_A,51,3,3,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,model_A,51,4,3,hard,Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression an,B,B,1,1,(B) (i)
+econometrics,model_A,52,1,3,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,A,0,1,(A) The variables are
+econometrics,model_A,52,2,3,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,D,0,1,D
+econometrics,model_A,52,3,3,hard,Which of the following is a typical characteristic of financial asset return time-series? (A) Their distributions are th,D,C,0,1,(C) They are highly
+econometrics,model_A,52,4,3,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,"(C) (i),"
+econometrics,model_A,53,1,3,hard,The fixed effects panel model is also sometimes known as (A) A seemingly unrelated regression model (B) The least square,B,B,1,1,B
+econometrics,model_A,53,2,3,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,B,1,1,(B) Cardinal
+econometrics,model_A,53,3,3,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,C,0,1,C
+econometrics,model_A,53,4,3,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,model_A,54,1,3,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,D,0,1,(D)
+econometrics,model_A,54,2,3,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,model_A,54,3,3,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,D,0,1,D
+econometrics,model_A,54,4,3,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,C,0,1,(C)
+econometrics,model_A,55,1,3,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,(C)
+econometrics,model_A,55,2,3,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,D,0,1,(D)
+econometrics,model_A,55,3,3,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,(D)
+econometrics,model_A,55,4,3,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,TheGiven
+econometrics,model_A,56,1,3,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,C,1,1,"(C) (i),"
+econometrics,model_A,56,2,3,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,model_A,56,3,3,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,model_A,56,4,3,hard,Which of the following statements is true concerning the population regression function (PRF) and sample regression func,D,D,1,1,D
+econometrics,model_A,57,1,3,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,model_A,57,2,3,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,model_A,57,3,3,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,(A) Censored
+econometrics,model_A,57,4,3,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,(B) A multinomial
+econometrics,model_A,58,1,4,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,"(D) (i),"
+econometrics,model_A,58,2,4,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,(D) The Breusch
+econometrics,model_A,58,3,4,hard,Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression anal,B,B,1,1,(B) (i)
+econometrics,model_A,58,4,4,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,model_A,59,1,4,hard,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forec",B,D,0,1,D
+econometrics,model_A,59,2,4,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,D,0,1,"(D) (i),"
+econometrics,model_A,59,3,4,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,(D) There is insufficient
+econometrics,model_A,59,4,4,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,D,0,1,(D) Close to either
+econometrics,model_A,60,1,4,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,D,0,1,D
+econometrics,model_A,60,2,4,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,(C) A deterministic trend
+econometrics,model_A,60,3,4,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,(B) T x 
+econometrics,model_A,60,4,4,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,D,0,1,D
+econometrics,model_A,61,1,4,hard,"How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-va",D,D,1,1,(D) 36
+econometrics,model_A,61,2,4,hard,Which of the following statements is TRUE concerning the standard regression model? (A) y has a probability distribution,A,D,0,1,D
+econometrics,model_A,61,3,4,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,(C)
+econometrics,model_A,61,4,4,hard,"If a relevant variable is omitted from a regression equation, the consequences would be that:  i) The standard errors wo",C,D,0,1,(D)
+econometrics,model_A,62,1,4,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,model_A,62,2,4,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,(A) Anentityfixed
+econometrics,model_A,62,3,4,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,model_A,62,4,4,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,D,0,1,"(D) (i),"
+econometrics,model_A,63,1,4,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,,0,0,The correct answer is (
+econometrics,model_A,63,2,4,hard,"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) mode",B,C,0,1,"(C) (i),"
+econometrics,model_A,63,3,4,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,(B) An alternating pattern
+econometrics,model_A,63,4,4,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,"(C) (i),"
+econometrics,model_A,64,1,4,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,(B) Zero
+econometrics,model_A,64,2,4,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B)
+econometrics,model_A,64,3,4,hard,The pacf is necessary for distinguishing between (A) An AR and an MA model (B) An AR and an ARMA model (C) An MA and an ,B,D,0,1,D
+econometrics,model_A,64,4,4,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,C,0,1,C
+econometrics,model_A,65,1,4,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,model_A,65,2,4,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,"(D) (i),"
+econometrics,model_A,65,3,4,hard,The order condition is (A) A necessary and sufficient condition for identification (B) A necessary but not sufficient co,B,B,1,1,B
+econometrics,model_A,65,4,4,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,model_A,66,1,4,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,(B) Uncorrelated
+econometrics,model_A,66,2,4,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,D,0,1,(D)
+econometrics,model_A,66,3,4,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,(C) Ensure that there
+econometrics,model_A,66,4,4,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,(C) The PP test
+econometrics,model_A,67,1,4,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,(C) 2 and
+econometrics,model_A,67,2,4,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,D,0,1,D
+econometrics,model_A,67,3,4,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,D,0,1,D
+econometrics,model_A,67,4,4,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,(A) (ii)
+econometrics,model_A,68,1,4,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,D,0,1,D
+econometrics,model_A,68,2,4,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,model_A,68,3,4,hard,Which of the following statements is TRUE concerning OLS estimation? (A) OLS minimises the sum of the vertical distances,B,B,1,1,B
+econometrics,model_A,68,4,4,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,model_A,69,1,4,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,C,0,1,C
+econometrics,model_A,69,2,4,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,D,0,1,(D)
+econometrics,model_A,69,3,4,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,model_A,69,4,4,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,(D)
+econometrics,model_A,70,1,4,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,model_A,70,2,4,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,(D)
+econometrics,model_A,70,3,4,hard,"If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounte",A,A,1,1,(A) It would rise
+econometrics,model_A,70,4,4,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,model_A,71,1,4,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,(D) 1x
+econometrics,model_A,71,2,4,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,model_A,71,3,4,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,(A) The variance of
+econometrics,model_A,71,4,4,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,"(C) (i),"
+econometrics,model_A,72,1,4,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,D,0,1,(D)
+econometrics,model_A,72,2,4,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,model_A,72,3,4,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,Theansweris(D)
+econometrics,model_A,72,4,4,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,model_A,73,1,4,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,model_A,73,2,4,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,model_A,73,3,4,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,model_A,73,4,4,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,C,0,1,C
+econometrics,model_A,74,1,4,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,model_A,74,2,4,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,(A) 99
+econometrics,model_A,74,3,4,hard,For an autoregressive process to be considered stationary (A) The roots of the characteristic equation must all lie insi,C,A,0,1,(A) The roots of
+econometrics,model_A,74,4,4,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,(D) There is insufficient
+econometrics,model_A,75,1,4,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,model_A,75,2,4,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,D,0,1,D
+econometrics,model_A,75,3,4,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,D,0,1,D
+econometrics,model_A,75,4,4,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,,0,0,TheTo
+econometrics,model_A,76,1,4,hard,Which one of the following statements is true concerning VARs? (A) The coefficient estimates have intuitive theoretical ,C,C,1,1,C
+econometrics,model_A,76,2,4,hard,A researcher tests for structural stability in the following regression model:  $y_t = \beta_1 + \beta_2 x_{2t} + \beta_,D,D,1,1,D
+econometrics,model_A,76,3,4,hard,Which one of the following is NOT an example of mis-specification of functional form? (A) Using a linear specification w,D,D,1,1,D
+econometrics,model_A,76,4,4,hard,Consider the following equation and determine the class of model that it best represents  $y_{it} = \alpha + \beta_{it} ,A,A,1,1,(A) Anentityfixed
+econometrics,model_A,77,1,5,hard,"If an estimator is said to be consistent, it is implied that (A) On average, the estimated coefficient values will equal",C,C,1,1,(C)
+econometrics,model_A,77,2,5,hard,Which one of the following would NOT be a consequence of using non-stationary data in levels form? (A) The regression $R,D,D,1,1,D
+econometrics,model_A,77,3,5,hard,The price of a house is best described as what type of number? (A) Discrete (B) Cardinal (C) Ordinal (D) Nominal,B,B,1,1,(B) Cardinal
+econometrics,model_A,77,4,5,hard,"The purpose of ""augmenting"" the Dickey-Fuller test regression is to (A) Ensure that there is no heteroscedasticity in th",C,C,1,1,(C) Ensure that there
+econometrics,model_A,78,1,5,hard,A parsimonious model is one that (A) Includes too many variables (B) Includes as few variables as possible to explain th,A,B,0,1,B
+econometrics,model_A,78,2,5,hard,Which one of the following is NOT a plausible remedy for near multicollinearity? (A) Use principal components analysis (,D,D,1,1,D
+econometrics,model_A,78,3,5,hard,Which one of the following statements best describes the algebraic representation of the fitted regression line? (A) \ha,B,,0,0,The correct answer is (
+econometrics,model_A,78,4,5,hard,Consider the following sample autocorrelation estimates obtained using 250 data points:  1) Lag 1 2 3  2) Coefficient 0.,B,D,0,1,D
+econometrics,model_A,79,1,5,hard,What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing? (A),C,C,1,1,(C) The PP test
+econometrics,model_A,79,2,5,hard,"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?  i) Coefficient e",A,D,0,1,"(D) (i),"
+econometrics,model_A,79,3,5,hard,"If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the inter",B,A,0,1,(A) The variables are
+econometrics,model_A,79,4,5,hard,"What is the meaning of the term ""heteroscedasticity""? (A) The variance of the errors is not constant (B) The variance of",A,A,1,1,(A) The variance of
+econometrics,model_A,80,1,5,hard,A dependent variable whose values are not observable outside a certain range but where the corresponding values of the i,A,A,1,1,(A) Censored
+econometrics,model_A,80,2,5,hard,Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy? (A),A,D,0,1,D
+econometrics,model_A,80,3,5,hard,Which of the following statements are true concerning the standardised residuals (residuals divided by their respective ,B,D,0,1,(D)
+econometrics,model_A,80,4,5,hard,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the,D,D,1,1,D
+econometrics,model_A,81,1,5,hard,A Hausman test would be used for (A) Determining whether an equation that is part of a simultaneous system is identified,B,C,0,1,C
+econometrics,model_A,81,2,5,hard,Which of the following could be used as a test for autocorrelation up to third order? (A) The Durbin Watson test (B) Whi,D,D,1,1,(D) The Breusch
+econometrics,model_A,81,3,5,hard,Negative residual autocorrelation is indicated by which one of the following? (A) A cyclical pattern in the residuals (B,B,B,1,1,(B) An alternating pattern
+econometrics,model_A,81,4,5,hard,Which of the following statements are true concerning a triangular or recursive system?  i) The parameters can be validl,C,D,0,1,(D)
+econometrics,model_A,82,1,5,hard,Which of the following may be consequences of one or more of the CLRM assumptions being violated?  i) The coefficient es,D,D,1,1,"(D) (i),"
+econometrics,model_A,82,2,5,hard,"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y? (A) ",D,B,0,1,(B) Zero
+econometrics,model_A,82,3,5,hard,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)? (A) They can be interpret,C,D,0,1,D
+econometrics,model_A,82,4,5,hard,"An ARMA(p,q) (p, q are integers bigger than zero) model will have (A) An acf and pacf that both decline geometrically (B",A,D,0,1,D
+econometrics,model_A,83,1,5,hard,Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are),D,C,0,1,C
+econometrics,model_A,83,2,5,hard,"Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process wit",C,D,0,1,D
+econometrics,model_A,83,3,5,hard,Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?  (i) It ,C,C,1,1,"(C) (i),"
+econometrics,model_A,83,4,5,hard,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""? (A) The",B,B,1,1,B
+econometrics,model_A,84,1,5,hard,"If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evide",B,B,1,1,(B) Uncorrelated
+econometrics,model_A,84,2,5,hard,What are the dimensions of $\hat{u}^t \hat{u}? (A) T x k (B) T x 1 (C) k x 1 (D) 1 x 1,D,D,1,1,(D) 1x
+econometrics,model_A,84,3,5,hard,Which one of the following statements is true concerning alternative forecast accuracy measures? (A) Mean squared error ,D,D,1,1,D
+econometrics,model_A,84,4,5,hard,Which of the following statements are true concerning the acf and pacf?  (i) The acf and pacf are often hard to interpre,C,C,1,1,(C)
+econometrics,model_A,85,1,5,hard,The characteristic roots of the MA process  $y_t = -3u_{t-1} + u_{t-2} + u_t$  are (A) 1 and 2 (B) 1 and 0.5 (C) 2 and -,B,C,0,1,(C) 2 and
+econometrics,model_A,85,2,5,hard,A white noise process will have  (i) A zero mean  (ii) A constant variance  (iii) Autocovariances that are constant  (iv,A,D,0,1,(D)
+econometrics,model_A,85,3,5,hard,"If an estimator is said to have minimum variance, which of the following statements is NOT implied? (A) The probability ",D,D,1,1,D
+econometrics,model_A,85,4,5,hard,Which of the following statements is true concerning variance decomposition analysis of VARs?  i) Variance decomposition,A,D,0,1,(D)
+econometrics,model_A,86,1,5,hard,Under which of the following situations would bootstrapping be preferred to pure simulation?  i) If it is desired that t,B,D,0,1,D
+econometrics,model_A,86,2,5,hard,Which one of the following would be a plausible response to a finding of residual non-normality? (A) Use a logarithmic f,D,C,0,1,C
+econometrics,model_A,86,3,5,hard,Which of the following statements concerning the regression population and sample is FALSE? (A) The population is the to,C,D,0,1,D
+econometrics,model_A,86,4,5,hard,Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statisti,B,D,0,1,D
+econometrics,model_A,87,1,5,hard,Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous,B,B,1,1,(B)
+econometrics,model_A,87,2,5,hard,Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fun,B,B,1,1,(B) A multinomial
+econometrics,model_A,87,3,5,hard,Suppose that the following regression is estimated using 27 quarterly observations:  $y_t = \beta_1 + \beta_2 x_2 + \bet,C,D,0,1,Theansweris(D)
+econometrics,model_A,87,4,5,hard,Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)? (A) They are ,A,D,0,1,D
+econometrics,model_A,88,1,5,hard,Which of the following statements is true concerning forecasting in econometrics? (A) Forecasts can only be made for tim,D,D,1,1,D
+econometrics,model_A,88,2,5,hard,"If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coef",C,D,0,1,(D) Close to either
+econometrics,model_A,88,3,5,hard,"Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR.",A,,0,0,TheTo
+econometrics,model_A,88,4,5,hard,Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?  i) ,C,C,1,1,(C)
+econometrics,model_A,89,1,5,hard,Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?  (,A,C,0,1,C
+econometrics,model_A,89,2,5,hard,Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?,D,C,0,1,C
+econometrics,model_A,89,3,5,hard,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with,D,D,1,1,D
+econometrics,model_A,89,4,5,hard,Which one of the following is examined by looking at a goodness of fit statistic? (A) How well the population regression,C,C,1,1,C
+econometrics,model_A,90,1,5,hard,"The residual from a standard regression model is defined as (A) The difference between the actual value, y, and the mean",C,C,1,1,C
+econometrics,model_A,90,2,5,hard,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be (A)",C,C,1,1,C
+econometrics,model_A,90,3,5,hard,Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term,D,,0,0,TheGiven
+econometrics,model_A,90,4,5,hard,Consider the following model for $y_t$:  $y_t = \mu + \lambda t + u_t$  Which one of the following most accurately descr,C,C,1,1,(C) A deterministic trend
+econometrics,model_A,91,1,5,hard,Which one of the following is the most appropriate definition of a 99% confidence interval? (A) 99% of the time in repea,A,A,1,1,(A) 99
+econometrics,model_A,91,2,5,hard,Which of the following could result in autocorrelated residuals?  i) Slowness of response of the dependent variable to c,C,C,1,1,"(C) (i),"
+econometrics,model_A,91,3,5,hard,Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and ,D,D,1,1,(D)
+econometrics,model_A,91,4,5,hard,Which of the following are characteristics of a stationary process?  i) It crosses its mean value frequently   ii) It ha,D,C,0,1,"(C) (i),"
+econometrics,model_A,92,1,5,hard,"Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be",A,D,0,1,(D) There is insufficient
+econometrics,model_A,92,2,5,hard,"Which one of the following is a disadvantage of the general to specific or ""LSE"" (""Hendry"") approach to building econome",B,D,0,1,D
+econometrics,model_A,92,3,5,hard,Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation fun,C,D,0,1,"(D) (i),"
+econometrics,model_A,92,4,5,hard,"What will be the properties of the OLS estimator in the presence of multicollinearity? (A) It will be consistent, unbias",A,B,0,1,B
+econometrics,model_A,93,1,5,hard,Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to,A,D,0,1,D
+econometrics,model_A,93,2,5,hard,"Suppose that 100 separate firms were tested to determine how many of them ""beat the market"" using a Jensen-type regressi",B,D,0,1,(D) There is insufficient
+econometrics,model_A,93,3,5,hard,What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is over,C,C,1,1,C
+econometrics,model_A,93,4,5,hard,Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?  i) T,D,D,1,1,(D)
+econometrics,model_A,94,1,5,hard,"Under the matrix notation for the classical linear regression model, $y = X \beta + u$, what are the dimensions of $u$? ",B,B,1,1,(B) T x 
+econometrics,model_A,94,2,5,hard,Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is,D,D,1,1,D
+econometrics,model_A,94,3,5,hard,Which of the following statements are true concerning information criteria?  (i) Adjusted R-squared is an information cr,B,D,0,1,D
+econometrics,model_A,94,4,5,hard,Which of the following statements is false concerning the linear probability model? (A) There is nothing in the model to,D,D,1,1,D
+econometrics,model_A,95,1,5,hard,Which of the following are plausible approaches to dealing with residual autocorrelation?  i) Take logarithms of each of,A,A,1,1,(A) (ii)
+econometrics,model_A,95,2,5,hard,"Which of the following criticisms of standard (""plain vanilla"") GARCH models can be overcome by EGARCH models?  i) Estim",C,D,0,1,(D)
+econometrics,model_A,95,3,5,hard,Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to th,A,C,0,1,"(C) (i),"
+econometrics,model_A,95,4,5,hard,Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?  i) Take logar,C,C,1,1,"(C) (i),"
+econometrics,model_A,96,1,5,hard,"If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?  i) $x_t$ and",A,D,0,1,(D)
+econometrics,model_A,96,2,5,hard,Which of the following is a disadvantage of the random effects approach to estimating a panel model? (A) The approach ma,A,D,0,1,D
+econometrics,model_A,96,3,5,hard,"Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?  i) The ARCH(q",A,D,0,1,(D)
+econometrics,model_A,96,4,5,hard,Which of the following statements is INCORRECT concerning the classical hypothesis testing framework? (A) If the null hy,A,D,0,1,D

@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_world_history,baseline,1,76,92.105,100.0
+high_school_world_history,baseline,2,76,86.842,100.0
+high_school_world_history,baseline,3,76,90.789,100.0
+high_school_world_history,baseline,4,76,88.158,100.0
+high_school_world_history,baseline,5,80,90.0,100.0
+high_school_world_history,model_A,1,76,60.526,100.0
+high_school_world_history,model_A,2,76,59.211,98.684
+high_school_world_history,model_A,3,76,55.263,98.684
+high_school_world_history,model_A,4,76,56.579,97.368
+high_school_world_history,model_A,5,80,62.5,100.0

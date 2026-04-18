@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+medical_genetics,baseline,1,1,1,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,C,1,1,C
+medical_genetics,baseline,1,2,1,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,C,0,1,C
+medical_genetics,baseline,1,3,1,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,A
+medical_genetics,baseline,1,4,1,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,baseline,2,1,1,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,B,1,1,B
+medical_genetics,baseline,2,2,1,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,C,1,1,C
+medical_genetics,baseline,2,3,1,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,A,1,1,A
+medical_genetics,baseline,2,4,1,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,B,1,1,B
+medical_genetics,baseline,3,1,1,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,baseline,3,2,1,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,D
+medical_genetics,baseline,3,3,1,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,D
+medical_genetics,baseline,3,4,1,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,C,1,1,C
+medical_genetics,baseline,4,1,1,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,baseline,4,2,1,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,C,1,1,C
+medical_genetics,baseline,4,3,1,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,A
+medical_genetics,baseline,4,4,1,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,C
+medical_genetics,baseline,5,1,1,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,baseline,5,2,1,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,A
+medical_genetics,baseline,5,3,1,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,C,1,1,C
+medical_genetics,baseline,5,4,1,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,B,0,1,B
+medical_genetics,baseline,6,1,1,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,baseline,6,2,1,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,B,1,1,B
+medical_genetics,baseline,6,3,1,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,baseline,6,4,1,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,baseline,7,1,1,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,A
+medical_genetics,baseline,7,2,1,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,D
+medical_genetics,baseline,7,3,1,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,C
+medical_genetics,baseline,7,4,1,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,A
+medical_genetics,baseline,8,1,1,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,D
+medical_genetics,baseline,8,2,1,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,C
+medical_genetics,baseline,8,3,1,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,B,1,1,B
+medical_genetics,baseline,8,4,1,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,baseline,9,1,1,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,D
+medical_genetics,baseline,9,2,1,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,baseline,9,3,1,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,C
+medical_genetics,baseline,9,4,1,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,A
+medical_genetics,baseline,10,1,1,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,baseline,10,2,1,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,B,1,1,B
+medical_genetics,baseline,10,3,1,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,baseline,10,4,1,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,B
+medical_genetics,baseline,11,1,1,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,baseline,11,2,1,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,baseline,11,3,1,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,D
+medical_genetics,baseline,11,4,1,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,baseline,12,1,1,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,D
+medical_genetics,baseline,12,2,1,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,D,0,1,D
+medical_genetics,baseline,12,3,1,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,baseline,12,4,1,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,B
+medical_genetics,baseline,13,1,1,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,A,1,1,A
+medical_genetics,baseline,13,2,1,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,A,1,1,A
+medical_genetics,baseline,13,3,1,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,A,1,1,A
+medical_genetics,baseline,13,4,1,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,C,1,1,C
+medical_genetics,baseline,14,1,1,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,A,1,1,A
+medical_genetics,baseline,14,2,1,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,A
+medical_genetics,baseline,14,3,1,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,B
+medical_genetics,baseline,14,4,1,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,A
+medical_genetics,baseline,15,1,1,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,A
+medical_genetics,baseline,15,2,1,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,D
+medical_genetics,baseline,15,3,1,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,C
+medical_genetics,baseline,15,4,1,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,A
+medical_genetics,baseline,16,1,1,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,C
+medical_genetics,baseline,16,2,1,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,D
+medical_genetics,baseline,16,3,1,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,baseline,16,4,1,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,baseline,17,1,1,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,A
+medical_genetics,baseline,17,2,1,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,A
+medical_genetics,baseline,17,3,1,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,C
+medical_genetics,baseline,17,4,1,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,baseline,18,1,1,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,B
+medical_genetics,baseline,18,2,1,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,A
+medical_genetics,baseline,18,3,1,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,B,1,1,B
+medical_genetics,baseline,18,4,1,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,A
+medical_genetics,baseline,19,1,1,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,baseline,19,2,1,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,baseline,19,3,1,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,baseline,19,4,1,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,baseline,20,1,2,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,B
+medical_genetics,baseline,20,2,2,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,C,1,1,C
+medical_genetics,baseline,20,3,2,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,C,1,1,C
+medical_genetics,baseline,20,4,2,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,baseline,21,1,2,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,D,0,1,D
+medical_genetics,baseline,21,2,2,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,baseline,21,3,2,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,B
+medical_genetics,baseline,21,4,2,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,C
+medical_genetics,baseline,22,1,2,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,B,1,1,B
+medical_genetics,baseline,22,2,2,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,baseline,22,3,2,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,B
+medical_genetics,baseline,22,4,2,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,A
+medical_genetics,baseline,23,1,2,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,D
+medical_genetics,baseline,23,2,2,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,baseline,23,3,2,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,B
+medical_genetics,baseline,23,4,2,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,A,1,1,A
+medical_genetics,baseline,24,1,2,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,D,1,1,D
+medical_genetics,baseline,24,2,2,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,A,1,1,A
+medical_genetics,baseline,24,3,2,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,baseline,24,4,2,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,baseline,25,1,2,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,baseline,25,2,2,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,baseline,25,3,2,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,baseline,25,4,2,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,B,1,1,B
+medical_genetics,baseline,26,1,2,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,baseline,26,2,2,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,B
+medical_genetics,baseline,26,3,2,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,baseline,26,4,2,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,baseline,27,1,2,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,A
+medical_genetics,baseline,27,2,2,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,D,0,1,D
+medical_genetics,baseline,27,3,2,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,A
+medical_genetics,baseline,27,4,2,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,D,0,1,D
+medical_genetics,baseline,28,1,2,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,C,1,1,C
+medical_genetics,baseline,28,2,2,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,C,1,1,C
+medical_genetics,baseline,28,3,2,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,C
+medical_genetics,baseline,28,4,2,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,baseline,29,1,2,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,baseline,29,2,2,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,A,1,1,A
+medical_genetics,baseline,29,3,2,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,B,1,1,B
+medical_genetics,baseline,29,4,2,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,B
+medical_genetics,baseline,30,1,2,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,B
+medical_genetics,baseline,30,2,2,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,B,1,1,B
+medical_genetics,baseline,30,3,2,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,baseline,30,4,2,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,baseline,31,1,2,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,D
+medical_genetics,baseline,31,2,2,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,baseline,31,3,2,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,D
+medical_genetics,baseline,31,4,2,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,baseline,32,1,2,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,baseline,32,2,2,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,baseline,32,3,2,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,A
+medical_genetics,baseline,32,4,2,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,baseline,33,1,2,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,B,1,1,B
+medical_genetics,baseline,33,2,2,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,baseline,33,3,2,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,A,1,1,A
+medical_genetics,baseline,33,4,2,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,A
+medical_genetics,baseline,34,1,2,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,A,1,1,A
+medical_genetics,baseline,34,2,2,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,C,1,1,C
+medical_genetics,baseline,34,3,2,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,baseline,34,4,2,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,D
+medical_genetics,baseline,35,1,2,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,D
+medical_genetics,baseline,35,2,2,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,baseline,35,3,2,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,B,1,1,B
+medical_genetics,baseline,35,4,2,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,A,1,1,A
+medical_genetics,baseline,36,1,2,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,C,0,1,C
+medical_genetics,baseline,36,2,2,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,B
+medical_genetics,baseline,36,3,2,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,D
+medical_genetics,baseline,36,4,2,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,A
+medical_genetics,baseline,37,1,2,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,C
+medical_genetics,baseline,37,2,2,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,A
+medical_genetics,baseline,37,3,2,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,C,1,1,C
+medical_genetics,baseline,37,4,2,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,A
+medical_genetics,baseline,38,1,2,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,baseline,38,2,2,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,B,1,1,B
+medical_genetics,baseline,38,3,2,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,C
+medical_genetics,baseline,38,4,2,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,A,1,1,A
+medical_genetics,baseline,39,1,3,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,D
+medical_genetics,baseline,39,2,3,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,B,1,1,B
+medical_genetics,baseline,39,3,3,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,B
+medical_genetics,baseline,39,4,3,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,baseline,40,1,3,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,C,1,1,C
+medical_genetics,baseline,40,2,3,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,B,1,1,B
+medical_genetics,baseline,40,3,3,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,B
+medical_genetics,baseline,40,4,3,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,baseline,41,1,3,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,C
+medical_genetics,baseline,41,2,3,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,C,1,1,C
+medical_genetics,baseline,41,3,3,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,C
+medical_genetics,baseline,41,4,3,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,baseline,42,1,3,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,A
+medical_genetics,baseline,42,2,3,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,baseline,42,3,3,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,baseline,42,4,3,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,baseline,43,1,3,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,C,1,1,C
+medical_genetics,baseline,43,2,3,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,baseline,43,3,3,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,D,1,1,D
+medical_genetics,baseline,43,4,3,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,baseline,44,1,3,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,A
+medical_genetics,baseline,44,2,3,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,D
+medical_genetics,baseline,44,3,3,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,B
+medical_genetics,baseline,44,4,3,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,A
+medical_genetics,baseline,45,1,3,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,baseline,45,2,3,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,B
+medical_genetics,baseline,45,3,3,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,A
+medical_genetics,baseline,45,4,3,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,C
+medical_genetics,baseline,46,1,3,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,A,1,1,A
+medical_genetics,baseline,46,2,3,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,baseline,46,3,3,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,D
+medical_genetics,baseline,46,4,3,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,C
+medical_genetics,baseline,47,1,3,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,D
+medical_genetics,baseline,47,2,3,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,baseline,47,3,3,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,A
+medical_genetics,baseline,47,4,3,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,A
+medical_genetics,baseline,48,1,3,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,baseline,48,2,3,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,baseline,48,3,3,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,baseline,48,4,3,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,B,1,1,B
+medical_genetics,baseline,49,1,3,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,A,1,1,A
+medical_genetics,baseline,49,2,3,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,A
+medical_genetics,baseline,49,3,3,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,A
+medical_genetics,baseline,49,4,3,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,B,0,1,B
+medical_genetics,baseline,50,1,3,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,C
+medical_genetics,baseline,50,2,3,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,D
+medical_genetics,baseline,50,3,3,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,baseline,50,4,3,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,C,1,1,C
+medical_genetics,baseline,51,1,3,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,D,0,1,D
+medical_genetics,baseline,51,2,3,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,C
+medical_genetics,baseline,51,3,3,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,B,1,1,B
+medical_genetics,baseline,51,4,3,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,baseline,52,1,3,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,B
+medical_genetics,baseline,52,2,3,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,baseline,52,3,3,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,B,1,1,B
+medical_genetics,baseline,52,4,3,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,D,0,1,D
+medical_genetics,baseline,53,1,3,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,A
+medical_genetics,baseline,53,2,3,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,baseline,53,3,3,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,B
+medical_genetics,baseline,53,4,3,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,C,0,1,C
+medical_genetics,baseline,54,1,3,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,baseline,54,2,3,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,C
+medical_genetics,baseline,54,3,3,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,B
+medical_genetics,baseline,54,4,3,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,D
+medical_genetics,baseline,55,1,3,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,A
+medical_genetics,baseline,55,2,3,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,A,1,1,A
+medical_genetics,baseline,55,3,3,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,C,1,1,C
+medical_genetics,baseline,55,4,3,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,B
+medical_genetics,baseline,56,1,3,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,B
+medical_genetics,baseline,56,2,3,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,B
+medical_genetics,baseline,56,3,3,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,A
+medical_genetics,baseline,56,4,3,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,baseline,57,1,3,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,baseline,57,2,3,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,C,1,1,C
+medical_genetics,baseline,57,3,3,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,A
+medical_genetics,baseline,57,4,3,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,B
+medical_genetics,baseline,58,1,4,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,B,1,1,B
+medical_genetics,baseline,58,2,4,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,B,1,1,B
+medical_genetics,baseline,58,3,4,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,baseline,58,4,4,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,baseline,59,1,4,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,D
+medical_genetics,baseline,59,2,4,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,C
+medical_genetics,baseline,59,3,4,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,baseline,59,4,4,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,D
+medical_genetics,baseline,60,1,4,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,C,1,1,C
+medical_genetics,baseline,60,2,4,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,baseline,60,3,4,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,baseline,60,4,4,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,baseline,61,1,4,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,baseline,61,2,4,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,A,1,1,A
+medical_genetics,baseline,61,3,4,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,A
+medical_genetics,baseline,61,4,4,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,A,1,1,A
+medical_genetics,baseline,62,1,4,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,baseline,62,2,4,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,baseline,62,3,4,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,D
+medical_genetics,baseline,62,4,4,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,B
+medical_genetics,baseline,63,1,4,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,B,1,1,B
+medical_genetics,baseline,63,2,4,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,C,1,1,C
+medical_genetics,baseline,63,3,4,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,C,1,1,C
+medical_genetics,baseline,63,4,4,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,C,1,1,C
+medical_genetics,baseline,64,1,4,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,C
+medical_genetics,baseline,64,2,4,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,baseline,64,3,4,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,A,1,1,A
+medical_genetics,baseline,64,4,4,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,A
+medical_genetics,baseline,65,1,4,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,B,1,1,B
+medical_genetics,baseline,65,2,4,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,A,1,1,A
+medical_genetics,baseline,65,3,4,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,A
+medical_genetics,baseline,65,4,4,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,D
+medical_genetics,baseline,66,1,4,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,B,0,1,B
+medical_genetics,baseline,66,2,4,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,baseline,66,3,4,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,baseline,66,4,4,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,baseline,67,1,4,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,A
+medical_genetics,baseline,67,2,4,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,A
+medical_genetics,baseline,67,3,4,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,C
+medical_genetics,baseline,67,4,4,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,baseline,68,1,4,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,D
+medical_genetics,baseline,68,2,4,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,A
+medical_genetics,baseline,68,3,4,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,D
+medical_genetics,baseline,68,4,4,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,A
+medical_genetics,baseline,69,1,4,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,baseline,69,2,4,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,baseline,69,3,4,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,C,1,1,C
+medical_genetics,baseline,69,4,4,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,D,1,1,D
+medical_genetics,baseline,70,1,4,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,baseline,70,2,4,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,A
+medical_genetics,baseline,70,3,4,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,baseline,70,4,4,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,baseline,71,1,4,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,C
+medical_genetics,baseline,71,2,4,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,baseline,71,3,4,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,B,1,1,B
+medical_genetics,baseline,71,4,4,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,baseline,72,1,4,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,baseline,72,2,4,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,C,1,1,C
+medical_genetics,baseline,72,3,4,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,B,1,1,B
+medical_genetics,baseline,72,4,4,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,C
+medical_genetics,baseline,73,1,4,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,A
+medical_genetics,baseline,73,2,4,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,baseline,73,3,4,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,baseline,73,4,4,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,D
+medical_genetics,baseline,74,1,4,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,A,1,1,A
+medical_genetics,baseline,74,2,4,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,A
+medical_genetics,baseline,74,3,4,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,D
+medical_genetics,baseline,74,4,4,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,baseline,75,1,4,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,C
+medical_genetics,baseline,75,2,4,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,D
+medical_genetics,baseline,75,3,4,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,A,1,1,A
+medical_genetics,baseline,75,4,4,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,A
+medical_genetics,baseline,76,1,4,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,A
+medical_genetics,baseline,76,2,4,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,A
+medical_genetics,baseline,76,3,4,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,A,1,1,A
+medical_genetics,baseline,76,4,4,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,baseline,77,1,5,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,baseline,77,2,5,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,baseline,77,3,5,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,D
+medical_genetics,baseline,77,4,5,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,D
+medical_genetics,baseline,78,1,5,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,B,0,1,B
+medical_genetics,baseline,78,2,5,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,B
+medical_genetics,baseline,78,3,5,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,baseline,78,4,5,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,baseline,79,1,5,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,A,1,1,A
+medical_genetics,baseline,79,2,5,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,C,1,1,C
+medical_genetics,baseline,79,3,5,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,B,1,1,B
+medical_genetics,baseline,79,4,5,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,D
+medical_genetics,baseline,80,1,5,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,C,1,1,C
+medical_genetics,baseline,80,2,5,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,D
+medical_genetics,baseline,80,3,5,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,B,1,1,B
+medical_genetics,baseline,80,4,5,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,C,0,1,C
+medical_genetics,baseline,81,1,5,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,C
+medical_genetics,baseline,81,2,5,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,B,1,1,B
+medical_genetics,baseline,81,3,5,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,baseline,81,4,5,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,A
+medical_genetics,baseline,82,1,5,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,B
+medical_genetics,baseline,82,2,5,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,B,1,1,B
+medical_genetics,baseline,82,3,5,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,C,1,1,C
+medical_genetics,baseline,82,4,5,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,baseline,83,1,5,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,B,1,1,B
+medical_genetics,baseline,83,2,5,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,baseline,83,3,5,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,D
+medical_genetics,baseline,83,4,5,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,baseline,84,1,5,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,C
+medical_genetics,baseline,84,2,5,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,A
+medical_genetics,baseline,84,3,5,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,A
+medical_genetics,baseline,84,4,5,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,baseline,85,1,5,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,A,1,1,A
+medical_genetics,baseline,85,2,5,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,A,1,1,A
+medical_genetics,baseline,85,3,5,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,C,1,1,C
+medical_genetics,baseline,85,4,5,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,D
+medical_genetics,baseline,86,1,5,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,baseline,86,2,5,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,D,0,1,D
+medical_genetics,baseline,86,3,5,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,baseline,86,4,5,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,baseline,87,1,5,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,baseline,87,2,5,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,C,1,1,C
+medical_genetics,baseline,87,3,5,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,baseline,87,4,5,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,A,1,1,A
+medical_genetics,baseline,88,1,5,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,B,1,1,B
+medical_genetics,baseline,88,2,5,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,B
+medical_genetics,baseline,88,3,5,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,C
+medical_genetics,baseline,88,4,5,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,A
+medical_genetics,baseline,89,1,5,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,C
+medical_genetics,baseline,89,2,5,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,C
+medical_genetics,baseline,89,3,5,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,A,1,1,A
+medical_genetics,baseline,89,4,5,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,baseline,90,1,5,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,A
+medical_genetics,baseline,90,2,5,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,baseline,90,3,5,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,baseline,90,4,5,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,baseline,91,1,5,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,D
+medical_genetics,baseline,91,2,5,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,baseline,91,3,5,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,B
+medical_genetics,baseline,91,4,5,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,C
+medical_genetics,baseline,92,1,5,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,A
+medical_genetics,baseline,92,2,5,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,baseline,92,3,5,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,A
+medical_genetics,baseline,92,4,5,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,B,1,1,B
+medical_genetics,baseline,93,1,5,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,baseline,93,2,5,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,A
+medical_genetics,baseline,93,3,5,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,C
+medical_genetics,baseline,93,4,5,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,baseline,94,1,5,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,C,1,1,C
+medical_genetics,baseline,94,2,5,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,baseline,94,3,5,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,D,0,1,D
+medical_genetics,baseline,94,4,5,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,baseline,95,1,5,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,D
+medical_genetics,baseline,95,2,5,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,B
+medical_genetics,baseline,95,3,5,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,baseline,95,4,5,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,baseline,96,1,5,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,baseline,96,2,5,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,B
+medical_genetics,baseline,96,3,5,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,B
+medical_genetics,baseline,96,4,5,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,D
+medical_genetics,model_A,1,1,1,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,A,0,1,(A) asparagine
+medical_genetics,model_A,1,2,1,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,A,0,1,(A) developmental epigen
+medical_genetics,model_A,1,3,1,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,(A) two α (
+medical_genetics,model_A,1,4,1,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,model_A,2,1,1,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,A,0,1,(A) dominant negative.
+medical_genetics,model_A,2,2,1,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,D,0,1,D
+medical_genetics,model_A,2,3,1,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,C,0,1,C
+medical_genetics,model_A,2,4,1,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,D,0,1,D
+medical_genetics,model_A,3,1,1,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,model_A,3,2,1,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,(D) Zellw
+medical_genetics,model_A,3,3,1,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,(D) chimaer
+medical_genetics,model_A,3,4,1,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,D,0,1,D
+medical_genetics,model_A,4,1,1,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,model_A,4,2,1,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,D,0,1,D
+medical_genetics,model_A,4,3,1,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,(A) differences in gene
+medical_genetics,model_A,4,4,1,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,(C) Hexosamin
+medical_genetics,model_A,5,1,1,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,model_A,5,2,1,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,(A) Intron
+medical_genetics,model_A,5,3,1,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,B,0,1,(B) guanine.
+medical_genetics,model_A,5,4,1,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,D,1,1,D
+medical_genetics,model_A,6,1,1,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,model_A,6,2,1,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,D,0,1,D
+medical_genetics,model_A,6,3,1,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,model_A,6,4,1,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,model_A,7,1,1,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,(A) Down syndrome
+medical_genetics,model_A,7,2,1,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,(D) a point mutation
+medical_genetics,model_A,7,3,1,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,(C) Sister
+medical_genetics,model_A,7,4,1,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,(A) 47
+medical_genetics,model_A,8,1,1,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,(D) Fragile X
+medical_genetics,model_A,8,2,1,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,(C) RNA processing mutations
+medical_genetics,model_A,8,3,1,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,D,0,1,D
+medical_genetics,model_A,8,4,1,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,model_A,9,1,1,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,(D) X-linked recess
+medical_genetics,model_A,9,2,1,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,model_A,9,3,1,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,(C) 46
+medical_genetics,model_A,9,4,1,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,(A) Constitutive expression
+medical_genetics,model_A,10,1,1,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,model_A,10,2,1,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,A,0,1,(A) BRCA1
+medical_genetics,model_A,10,3,1,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,model_A,10,4,1,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,11,1,1,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,model_A,11,2,1,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,model_A,11,3,1,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,(D) Low density lip
+medical_genetics,model_A,11,4,1,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,model_A,12,1,1,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,(D) mitochondrial DNA.
+medical_genetics,model_A,12,2,1,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,A,0,1,(A) About 2
+medical_genetics,model_A,12,3,1,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,model_A,12,4,1,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,(B) centromeres
+medical_genetics,model_A,13,1,1,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,D,0,1,D
+medical_genetics,model_A,13,2,1,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,,0,0,TheAnswer
+medical_genetics,model_A,13,3,1,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,B,0,1,B
+medical_genetics,model_A,13,4,1,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,A,0,1,(A) Androgen ins
+medical_genetics,model_A,14,1,1,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,D,0,1,D
+medical_genetics,model_A,14,2,1,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,(A) trisomy
+medical_genetics,model_A,14,3,1,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,14,4,1,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,15,1,1,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,15,2,1,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,(D) Succinyl
+medical_genetics,model_A,15,3,1,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,B,1,1,(B) 1 in
+medical_genetics,model_A,15,4,1,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,(A) Solving criminal
+medical_genetics,model_A,16,1,1,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,(C) Huntington disease
+medical_genetics,model_A,16,2,1,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,(D) 1
+medical_genetics,model_A,16,3,1,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,B,0,1,B
+medical_genetics,model_A,16,4,1,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,model_A,17,1,1,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,(A) Cystic
+medical_genetics,model_A,17,2,1,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,(A) reduced likelihood of
+medical_genetics,model_A,17,3,1,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,(C) Hurler
+medical_genetics,model_A,17,4,1,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,model_A,18,1,1,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,(B) hereditary non
+medical_genetics,model_A,18,2,1,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,(A) they allow genetic
+medical_genetics,model_A,18,3,1,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,A,0,1,(A) MaternalUP
+medical_genetics,model_A,18,4,1,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,(A) autosomal dominant
+medical_genetics,model_A,19,1,1,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,model_A,19,2,1,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,model_A,19,3,1,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,model_A,19,4,1,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,model_A,20,1,2,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,(B) 23
+medical_genetics,model_A,20,2,2,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,,0,0,CDevelopmental plasticity
+medical_genetics,model_A,20,3,2,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,D,0,1,(D) 1 in
+medical_genetics,model_A,20,4,2,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,model_A,21,1,2,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,A,1,1,(A) Autosomal dominant
+medical_genetics,model_A,21,2,2,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,model_A,21,3,2,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,(B) Prophase I
+medical_genetics,model_A,21,4,2,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,(C) ornithine
+medical_genetics,model_A,22,1,2,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,C,0,1,C
+medical_genetics,model_A,22,2,2,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,model_A,22,3,2,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,DHaemophilia B
+medical_genetics,model_A,22,4,2,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,23,1,2,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,(D) 45
+medical_genetics,model_A,23,2,2,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,model_A,23,3,2,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,(B) phenotype
+medical_genetics,model_A,23,4,2,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,B,0,1,B
+medical_genetics,model_A,24,1,2,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,C,0,1,(C) 11
+medical_genetics,model_A,24,2,2,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,D,0,1,D
+medical_genetics,model_A,24,3,2,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,model_A,24,4,2,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,model_A,25,1,2,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,model_A,25,2,2,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,model_A,25,3,2,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,model_A,25,4,2,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,A,0,1,(A) longterm expression
+medical_genetics,model_A,26,1,2,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,model_A,26,2,2,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,(B) centromeres
+medical_genetics,model_A,26,3,2,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,model_A,26,4,2,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,model_A,27,1,2,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,27,2,2,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,A,1,1,(A) Autosomal dominant
+medical_genetics,model_A,27,3,2,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,(A) autosomal dominant
+medical_genetics,model_A,27,4,2,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,A,0,1,(A) About 2
+medical_genetics,model_A,28,1,2,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,D,0,1,D
+medical_genetics,model_A,28,2,2,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,B,0,1,(B) guanine.
+medical_genetics,model_A,28,3,2,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,(C) Sister
+medical_genetics,model_A,28,4,2,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,model_A,29,1,2,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,model_A,29,2,2,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,B,0,1,B
+medical_genetics,model_A,29,3,2,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,C,0,1,C
+medical_genetics,model_A,29,4,2,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,30,1,2,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,DHaemophilia B
+medical_genetics,model_A,30,2,2,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,A,0,1,(A) MaternalUP
+medical_genetics,model_A,30,3,2,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,model_A,30,4,2,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,model_A,31,1,2,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,(D) chimaer
+medical_genetics,model_A,31,2,2,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,model_A,31,3,2,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,(D) Zellw
+medical_genetics,model_A,31,4,2,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,model_A,32,1,2,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,model_A,32,2,2,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,model_A,32,3,2,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,(A) trisomy
+medical_genetics,model_A,32,4,2,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,model_A,33,1,2,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,D,0,1,D
+medical_genetics,model_A,33,2,2,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,model_A,33,3,2,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,D,0,1,D
+medical_genetics,model_A,33,4,2,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,(A) 47
+medical_genetics,model_A,34,1,2,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,,0,0,TheAnswer
+medical_genetics,model_A,34,2,2,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,D,0,1,D
+medical_genetics,model_A,34,3,2,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,model_A,34,4,2,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,(D) Low density lip
+medical_genetics,model_A,35,1,2,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,(D) X-linked recess
+medical_genetics,model_A,35,2,2,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,model_A,35,3,2,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,D,0,1,D
+medical_genetics,model_A,35,4,2,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,D,0,1,D
+medical_genetics,model_A,36,1,2,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,A,0,1,(A) developmental epigen
+medical_genetics,model_A,36,2,2,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,36,3,2,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,(D) 45
+medical_genetics,model_A,36,4,2,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,(A) reduced likelihood of
+medical_genetics,model_A,37,1,2,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,(C) ornithine
+medical_genetics,model_A,37,2,2,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,37,3,2,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,D,0,1,D
+medical_genetics,model_A,37,4,2,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,(A) Cystic
+medical_genetics,model_A,38,1,2,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,model_A,38,2,2,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,A,0,1,(A) longterm expression
+medical_genetics,model_A,38,3,2,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,(C) RNA processing mutations
+medical_genetics,model_A,38,4,2,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,C,0,1,C
+medical_genetics,model_A,39,1,3,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,(D) Succinyl
+medical_genetics,model_A,39,2,3,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,D,0,1,D
+medical_genetics,model_A,39,3,3,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,(B) 23
+medical_genetics,model_A,39,4,3,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,model_A,40,1,3,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,D,0,1,(D) 1 in
+medical_genetics,model_A,40,2,3,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,A,0,1,(A) dominant negative.
+medical_genetics,model_A,40,3,3,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,(B) phenotype
+medical_genetics,model_A,40,4,3,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,model_A,41,1,3,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,(C) Huntington disease
+medical_genetics,model_A,41,2,3,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,,0,0,CDevelopmental plasticity
+medical_genetics,model_A,41,3,3,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,(C) Hexosamin
+medical_genetics,model_A,41,4,3,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,model_A,42,1,3,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,(A) they allow genetic
+medical_genetics,model_A,42,2,3,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,model_A,42,3,3,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,model_A,42,4,3,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,model_A,43,1,3,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,A,0,1,(A) asparagine
+medical_genetics,model_A,43,2,3,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,model_A,43,3,3,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,C,0,1,(C) 11
+medical_genetics,model_A,43,4,3,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,model_A,44,1,3,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,(A) Solving criminal
+medical_genetics,model_A,44,2,3,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,(D) Fragile X
+medical_genetics,model_A,44,3,3,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,(B) hereditary non
+medical_genetics,model_A,44,4,3,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,(A) Down syndrome
+medical_genetics,model_A,45,1,3,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,model_A,45,2,3,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,(B) Prophase I
+medical_genetics,model_A,45,3,3,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,(A) two α (
+medical_genetics,model_A,45,4,3,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,(C) 46
+medical_genetics,model_A,46,1,3,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,D,0,1,D
+medical_genetics,model_A,46,2,3,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,model_A,46,3,3,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,(D) a point mutation
+medical_genetics,model_A,46,4,3,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,(C) Hurler
+medical_genetics,model_A,47,1,3,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,(D) mitochondrial DNA.
+medical_genetics,model_A,47,2,3,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,model_A,47,3,3,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,(A) Constitutive expression
+medical_genetics,model_A,47,4,3,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,(A) differences in gene
+medical_genetics,model_A,48,1,3,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,model_A,48,2,3,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,model_A,48,3,3,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,model_A,48,4,3,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,A,0,1,(A) BRCA1
+medical_genetics,model_A,49,1,3,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,B,0,1,B
+medical_genetics,model_A,49,2,3,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,(A) Intron
+medical_genetics,model_A,49,3,3,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,49,4,3,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,D,1,1,D
+medical_genetics,model_A,50,1,3,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,(C) 1 in
+medical_genetics,model_A,50,2,3,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,A,0,1,(A) 1 in
+medical_genetics,model_A,50,3,3,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,model_A,50,4,3,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,A,0,1,(A) Androgen ins
+medical_genetics,model_A,51,1,3,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,A,0,1,(A) About 2
+medical_genetics,model_A,51,2,3,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,(C) ornithine
+medical_genetics,model_A,51,3,3,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,A,0,1,(A) BRCA1
+medical_genetics,model_A,51,4,3,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,model_A,52,1,3,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,(B) hereditary non
+medical_genetics,model_A,52,2,3,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,model_A,52,3,3,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,C,0,1,C
+medical_genetics,model_A,52,4,3,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,A,1,1,(A) Autosomal dominant
+medical_genetics,model_A,53,1,3,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,(A) Cystic
+medical_genetics,model_A,53,2,3,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,model_A,53,3,3,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,(B) Prophase I
+medical_genetics,model_A,53,4,3,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,A,0,1,(A) developmental epigen
+medical_genetics,model_A,54,1,3,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,model_A,54,2,3,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,B,1,1,(B) 1 in
+medical_genetics,model_A,54,3,3,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,(B) phenotype
+medical_genetics,model_A,54,4,3,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,(D) Fragile X
+medical_genetics,model_A,55,1,3,medium,Differential distribution of substances in the egg most typically results in: (A) differences in gene expression which m,A,A,1,1,(A) differences in gene
+medical_genetics,model_A,55,2,3,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,C,0,1,C
+medical_genetics,model_A,55,3,3,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,,0,0,CDevelopmental plasticity
+medical_genetics,model_A,55,4,3,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,DHaemophilia B
+medical_genetics,model_A,56,1,3,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,(B) 23
+medical_genetics,model_A,56,2,3,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,(B) centromeres
+medical_genetics,model_A,56,3,3,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,(A) Down syndrome
+medical_genetics,model_A,56,4,3,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,model_A,57,1,3,medium,Positional cloning refers to (A) using a selection procedure to clone a cDNA (B) cloning a portion of a gene using PCR (,D,D,1,1,D
+medical_genetics,model_A,57,2,3,medium,"The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a",C,D,0,1,D
+medical_genetics,model_A,57,3,3,medium,Which component of transcribed RNA in eukaryotes is present in the initial transcript but is removed before translation ,A,A,1,1,(A) Intron
+medical_genetics,model_A,57,4,3,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,58,1,4,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,A,0,1,(A) MaternalUP
+medical_genetics,model_A,58,2,4,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,A,0,1,(A) dominant negative.
+medical_genetics,model_A,58,3,4,medium,Most new mutations appear to be (A) beneficial (B) neutral or deleterious (C) present in homozygotes rather than heteroz,B,B,1,1,B
+medical_genetics,model_A,58,4,4,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,model_A,59,1,4,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,(D) X-linked recess
+medical_genetics,model_A,59,2,4,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,(C) 46
+medical_genetics,model_A,59,3,4,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,model_A,59,4,4,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,(D) Zellw
+medical_genetics,model_A,60,1,4,medium,"If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the ",C,D,0,1,(D) 1 in
+medical_genetics,model_A,60,2,4,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,model_A,60,3,4,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,model_A,60,4,4,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,model_A,61,1,4,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,model_A,61,2,4,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,,0,0,TheAnswer
+medical_genetics,model_A,61,3,4,medium,The most common chromosome abnormality in first trimester spontaneous miscarriages is: (A) trisomy. (B) monosomy. (C) tr,A,A,1,1,(A) trisomy
+medical_genetics,model_A,61,4,4,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,D,0,1,D
+medical_genetics,model_A,62,1,4,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,model_A,62,2,4,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,model_A,62,3,4,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,(D) Succinyl
+medical_genetics,model_A,62,4,4,medium,Consanguinity shows a strong association with which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,63,1,4,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,D,0,1,D
+medical_genetics,model_A,63,2,4,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,A,0,1,(A) Androgen ins
+medical_genetics,model_A,63,3,4,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,B,0,1,(B) guanine.
+medical_genetics,model_A,63,4,4,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,A,0,1,(A) asparagine
+medical_genetics,model_A,64,1,4,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,(C) Huntington disease
+medical_genetics,model_A,64,2,4,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,model_A,64,3,4,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,D,0,1,D
+medical_genetics,model_A,64,4,4,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,(A) Solving criminal
+medical_genetics,model_A,65,1,4,medium,Which of the following diagnostic techniques is of no value for the diagnosis of neural tube defects? (A) Amniocentesis ,B,D,0,1,D
+medical_genetics,model_A,65,2,4,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,B,0,1,B
+medical_genetics,model_A,65,3,4,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,(A) two α (
+medical_genetics,model_A,65,4,4,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,(D) Low density lip
+medical_genetics,model_A,66,1,4,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,D,1,1,D
+medical_genetics,model_A,66,2,4,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,model_A,66,3,4,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,model_A,66,4,4,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,model_A,67,1,4,medium,Twin studies in humans are useful because (A) they allow genetic as opposed to environmental influences on variation in ,A,A,1,1,(A) they allow genetic
+medical_genetics,model_A,67,2,4,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,67,3,4,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,(C) Hexosamin
+medical_genetics,model_A,67,4,4,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,model_A,68,1,4,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,(D) mitochondrial DNA.
+medical_genetics,model_A,68,2,4,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,68,3,4,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,(D) 45
+medical_genetics,model_A,68,4,4,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,69,1,4,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,model_A,69,2,4,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,model_A,69,3,4,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,D,0,1,D
+medical_genetics,model_A,69,4,4,medium,The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome? (A) 4 (B) 7 (C) 15 (D) 22,D,C,0,1,(C) 11
+medical_genetics,model_A,70,1,4,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,model_A,70,2,4,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,(A) autosomal dominant
+medical_genetics,model_A,70,3,4,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,model_A,70,4,4,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,model_A,71,1,4,medium,Exon skipping is associated with: (A) nonsense mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) si,C,C,1,1,(C) RNA processing mutations
+medical_genetics,model_A,71,2,4,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,model_A,71,3,4,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,A,0,1,(A) longterm expression
+medical_genetics,model_A,71,4,4,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,model_A,72,1,4,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,model_A,72,2,4,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,D,0,1,D
+medical_genetics,model_A,72,3,4,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,D,0,1,D
+medical_genetics,model_A,72,4,4,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,(C) Hurler
+medical_genetics,model_A,73,1,4,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,(A) reduced likelihood of
+medical_genetics,model_A,73,2,4,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,model_A,73,3,4,medium,Which of the following is not a familial cancer syndrome (A) Familial adenomatous polyposis (B) Li-Fraumeni syndrome (C),D,D,1,1,D
+medical_genetics,model_A,73,4,4,medium,The presence of two or more cell lines from different zygotes in a single individual is known as: (A) mosaicism. (B) dip,D,D,1,1,(D) chimaer
+medical_genetics,model_A,74,1,4,medium,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences. (A) structur",A,B,0,1,B
+medical_genetics,model_A,74,2,4,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,(A) 47
+medical_genetics,model_A,74,3,4,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,(D) a point mutation
+medical_genetics,model_A,74,4,4,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,model_A,75,1,4,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,(C) Sister
+medical_genetics,model_A,75,2,4,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,D,1,1,(D) 1
+medical_genetics,model_A,75,3,4,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,D,0,1,D
+medical_genetics,model_A,75,4,4,medium,"Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which p",B,A,0,1,(A) Constitutive expression
+medical_genetics,model_A,76,1,4,medium,The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is: (A) autosomal dominant. (B) autosomal rece,A,A,1,1,(A) autosomal dominant
+medical_genetics,model_A,76,2,4,medium,The mutational mechanism in δβ-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a poin,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,76,3,4,medium,Which of the following is not a chromosome instability syndrome? (A) Klinefelter syndrome (B) Ataxia telangiectasia (C) ,A,D,0,1,D
+medical_genetics,model_A,76,4,4,medium,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals? (A) 1.0/64 (B) 1.0/32 (C) 1.0,A,D,0,1,D
+medical_genetics,model_A,77,1,5,medium,"The epigenetic inheritance system has been described as ______ (Mayr and Provine, 1980). (A) genotype inheritance (B) so",B,B,1,1,B
+medical_genetics,model_A,77,2,5,medium,The polymerase chain reaction or PCR is a technique that (A) was used to demonstrate DNA as the genetic material (B) is ,C,C,1,1,C
+medical_genetics,model_A,77,3,5,medium,Which of the following conditions shows anticipation in paternal transmission? (A) Huntington disease (B) Marfan syndrom,A,D,0,1,(D) Fragile X
+medical_genetics,model_A,77,4,5,medium,Which of the following conditions is a peroxisomal disorder? (A) Acute intermittent porphyria (B) Maple syrup urine dise,D,D,1,1,(D) Zellw
+medical_genetics,model_A,78,1,5,medium,Which of the following is a feature of X-linked dominant inheritance? (A) Parental consanguinity (B) Male to male transm,D,D,1,1,D
+medical_genetics,model_A,78,2,5,medium,Marked microsatellite instability is a feature of: (A) familial adenomatous polyposis. (B) hereditary non-polyposis colo,B,B,1,1,(B) hereditary non
+medical_genetics,model_A,78,3,5,medium,Which of the following is not a tumour suppressor gene? (A) APC (B) NF1 (C) RB1 (D) RET,D,D,1,1,D
+medical_genetics,model_A,78,4,5,medium,Arabidopsis is advantageous for plant genetic research because: (A) it is commercially important as a food crop (B) it i,D,D,1,1,D
+medical_genetics,model_A,79,1,5,medium,______ explained genetic disorders such as alkaptonuria and albinism. (A) Recessive inheritance has (B) Dominant genes h,A,C,0,1,C
+medical_genetics,model_A,79,2,5,medium,Which of the following causes female pseudohermaphroditism? (A) Androgen insensitivity (B) Campomelic dysplasia (C) Cong,C,A,0,1,(A) Androgen ins
+medical_genetics,model_A,79,3,5,medium,Which of the following would result in Angelman syndrome? (A) Maternal UPD 15 (B) Paternal UPD 15 (C) Deletion in the pa,B,A,0,1,(A) MaternalUP
+medical_genetics,model_A,79,4,5,medium,If both parents are affected with the same autosomal recessive disorder then the probability that each of their children,D,A,0,1,(A) 1 in
+medical_genetics,model_A,80,1,5,medium,______ has been described as the phenomenon by which one genotype can give rise to a range of different physiological or,C,,0,0,CDevelopmental plasticity
+medical_genetics,model_A,80,2,5,medium,The mutation in sickle-cell disease consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point mutati,D,D,1,1,(D) a point mutation
+medical_genetics,model_A,80,3,5,medium,Which of the following disorders is not suitable for population carrier screening? (A) Cystic fibrosis (B) Oculocutaneou,B,D,0,1,D
+medical_genetics,model_A,80,4,5,medium,Research from Moshe Szyf and colleagues has provided significant findings on the epigenetic influences of prenatal mater,B,A,0,1,(A) developmental epigen
+medical_genetics,model_A,81,1,5,medium,A high blood ammonia level occurs in: (A) galactosaemia. (B) Hurler's syndrome. (C) ornithine transcarbamylase (OTC) def,C,C,1,1,(C) ornithine
+medical_genetics,model_A,81,2,5,medium,Which of the following statements about Hirschsprung disease is incorrect? (A) It shows an association with Down syndrom,B,D,0,1,D
+medical_genetics,model_A,81,3,5,medium,Which of the following conditions is not caused by a mutation in FGFR3? (A) Achondroplasia (B) Crouzon syndrome (C) Than,D,D,1,1,D
+medical_genetics,model_A,81,4,5,medium,"Which of the following trisomy karyotypes has the mildest effect on human development? (A) 47,XXX (B) 47,XXY (C) 47,XX,+",A,A,1,1,(A) 47
+medical_genetics,model_A,82,1,5,medium,Which of the following disorders does not show X-linked inheritance? (A) Duchenne muscular dystrophy (B) Tay-Sachs disea,B,B,1,1,DHaemophilia B
+medical_genetics,model_A,82,2,5,medium,Advantages of using adenoviruses for gene therapy include: (A) long term expression. (B) low risk of insertional mutagen,B,A,0,1,(A) longterm expression
+medical_genetics,model_A,82,3,5,medium,The proportion of genes shared by first cousins is on average ___. (A) 1.0/2 (B) 1.0/4 (C) 1.0/8 (D) 1.0/16,C,D,0,1,D
+medical_genetics,model_A,82,4,5,medium,The risk for miscarriage associated with amniocentesis is approximately ____. (A) 1 in 10 (B) 1 in 50 (C) 1 in 100 to 1 ,C,C,1,1,C
+medical_genetics,model_A,83,1,5,medium,Male breast cancer is associated with mutations in ___. (A) BRCA1 (B) BRCA2 (C) NF1 (D) RET,B,A,0,1,(A) BRCA1
+medical_genetics,model_A,83,2,5,medium,A homeotic mutation is one which (A) is present in only one form in an individual (B) substitutes one body part for anot,B,B,1,1,B
+medical_genetics,model_A,83,3,5,medium,The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is: (A) autosomal dominant. (B) ,D,D,1,1,(D) X-linked recess
+medical_genetics,model_A,83,4,5,medium,An Hfr strain of E. coli contains: (A) a vector of yeast or bacterial origin which is used to make many copies of a part,C,C,1,1,C
+medical_genetics,model_A,84,1,5,medium,The normal human chromosome diploid number is: (A) 23 (B) 24 (C) 46 (D) 48,C,C,1,1,(C) 46
+medical_genetics,model_A,84,2,5,medium,"An increase in the inbreeding coefficient, F, is likely to result in: (A) reduced likelihood of heterozygotes being pres",A,A,1,1,(A) reduced likelihood of
+medical_genetics,model_A,84,3,5,medium,Enzyme assay can be used to identify carriers of: (A) Cystic fibrosis. (B) Fragile X syndrome. (C) Oculocutaneous albini,D,A,0,1,(A) Cystic
+medical_genetics,model_A,84,4,5,medium,It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over ti,B,B,1,1,B
+medical_genetics,model_A,85,1,5,medium,Which of the following is not a recognized complication of cystic fibrosis? (A) Cancer of the oesophagus (B) Congenital ,A,D,0,1,D
+medical_genetics,model_A,85,2,5,medium,Homeobox sequences (A) are present in the genome of many animal species (B) are found in prokaryotes but not in eukaryot,A,D,0,1,D
+medical_genetics,model_A,85,3,5,medium,In DNA adenine normally pairs with: (A) cytosine. (B) guanine. (C) thymine. (D) uracil.,C,B,0,1,(B) guanine.
+medical_genetics,model_A,85,4,5,medium,Pseudocholinesterase deficiency is associated with increased sensitivity to what? (A) Fava beans (B) Halothane (C) Prima,D,D,1,1,(D) Succinyl
+medical_genetics,model_A,86,1,5,medium,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspri,B,B,1,1,B
+medical_genetics,model_A,86,2,5,medium,"On average, how many fragments would a restriction enzyme which recognizes a specific 4 base sequence in DNA be expected",C,A,0,1,(A) About 2
+medical_genetics,model_A,86,3,5,medium,X-chromosome inactivation (A) results in genetically turning off one of the two X chromosomes in female mammals (B) take,A,A,1,1,A
+medical_genetics,model_A,86,4,5,medium,QTL analysis is used to (A) identify chromosome regions associated with a complex trait in a genetic cross (B) determine,A,A,1,1,A
+medical_genetics,model_A,87,1,5,medium,Mapping of human chromosomes: (A) has been restricted to the sex chromosomes because of small family sizes (B) proceeded,B,B,1,1,B
+medical_genetics,model_A,87,2,5,medium,Asp235Phe in a molecular report indicates that: (A) asparagine has been replaced by phenylalanine. (B) phenylalanine has,C,A,0,1,(A) asparagine
+medical_genetics,model_A,87,3,5,medium,Plasmid vectors for cloning (A) can generally accommodate larger inserts than phage vectors can (B) grow within bacteria,B,B,1,1,B
+medical_genetics,model_A,87,4,5,medium,Severe anaemia at birth is a feature of what? (A) Alpha-thalassaemia (B) Beta-thalassaemia (C) Hereditary persistence of,A,B,0,1,B
+medical_genetics,model_A,88,1,5,medium,Mutations that cause achondroplasia exert an effect which can be classified as: (A) dominant negative. (B) gain-of-funct,B,A,0,1,(A) dominant negative.
+medical_genetics,model_A,88,2,5,medium,In a Robertsonian translocation fusion occurs at the: (A) telomeres. (B) centromeres. (C) histones. (D) ends of the long,B,B,1,1,(B) centromeres
+medical_genetics,model_A,88,3,5,medium,The proportion of babies that have an abnormality identifiable at birth is _____. (A) 1 in 10 (B) 1 in 40 (C) 1 in 100 (,B,C,0,1,(C) 1 in
+medical_genetics,model_A,88,4,5,medium,The maternal serum level of alpha-fetoprotein (AFP) is lower than average in which situation? (A) Down syndrome (B) Exom,A,A,1,1,(A) Down syndrome
+medical_genetics,model_A,89,1,5,medium,With which of the following relatives is an individual most likely to share a common HLA haplotype? (A) Father (B) Mothe,C,C,1,1,(C) Sister
+medical_genetics,model_A,89,2,5,medium,Tay-Sachs disease is caused by deficiency of _________________? (A) Alpha-L-iduronidase (B) Glucose-6-phosphatase (C) He,C,C,1,1,(C) Hexosamin
+medical_genetics,model_A,89,3,5,medium,"If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what ",A,,0,0,TheAnswer
+medical_genetics,model_A,89,4,5,medium,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence o",D,B,0,1,B
+medical_genetics,model_A,90,1,5,medium,Simple tandem repeat polymorphisms in humans are most useful for (A) solving criminal and paternity cases (B) reconstruc,A,A,1,1,(A) Solving criminal
+medical_genetics,model_A,90,2,5,medium,Transcriptional activator proteins (A) bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a g,A,A,1,1,A
+medical_genetics,model_A,90,3,5,medium,Which of the following genes conveys susceptibility for polygenic Alzheimer disease? (A) APP (B) PS1 (C) PS2 (D) APOE,D,D,1,1,D
+medical_genetics,model_A,90,4,5,medium,Zinc finger proteins and helix-turn-helix proteins are (A) types of DNA-binding proteins (B) involved in the control of ,A,A,1,1,A
+medical_genetics,model_A,91,1,5,medium,"Which of the following is an example of monosomy? (A) 46,XX (B) 47,XXX (C) 69,XYY (D) 45,X",D,D,1,1,(D) 45
+medical_genetics,model_A,91,2,5,medium,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as havin,C,C,1,1,(C) a sequence.
+medical_genetics,model_A,91,3,5,medium,"In meiosis, recombination occurs in: (A) Metaphase I. (B) Prophase I. (C) Metaphase II. (D) Prophase II.",B,B,1,1,(B) Prophase I
+medical_genetics,model_A,91,4,5,medium,Which of the following conditions is caused by a trinucleotide (triplet) repeat expansion? (A) Cystic fibrosis (B) Duche,C,C,1,1,(C) Huntington disease
+medical_genetics,model_A,92,1,5,medium,The most common cystic fibrosis mutation consists of: (A) a deletion. (B) a duplication. (C) a substitution. (D) an inse,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,92,2,5,medium,The risk of abnormality in the child of a mother with untreated phenylketonuria is: (A) 1% (B) 10% (C) 25% (D) Almost 10,D,D,1,1,D
+medical_genetics,model_A,92,3,5,medium,Normal adult haemoglobin (Hb A) consists of: (A) two α (alpha) and two β (beta) chains. (B) two α and two γ (gamma) chai,A,A,1,1,(A) two α (
+medical_genetics,model_A,92,4,5,medium,Complete the following sentence. The Philadelphia chromosome: (A) is an example of gene amplification. (B) is a product ,B,C,0,1,C
+medical_genetics,model_A,93,1,5,medium,A nonsense mutation involves: (A) a regulatory sequence. (B) an AG splice acceptor site. (C) the creation of a different,D,D,1,1,D
+medical_genetics,model_A,93,2,5,medium,The common mutation in α-thalassaemia consists of: (A) a deletion. (B) a duplication. (C) an insertion. (D) a point muta,A,A,1,1,(A) a deletion.
+medical_genetics,model_A,93,3,5,medium,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome? (A) Fabry disease (B) Gaucher disease,C,C,1,1,(C) Hurler
+medical_genetics,model_A,93,4,5,medium,"Which of the following karyotypes is diagnostic of Down syndrome (A) 46,XX,der(14;21)(q10;q10)pat+21 (B) 47,XY,+13 (C) 4",A,A,1,1,A
+medical_genetics,model_A,94,1,5,medium,"Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the",C,D,0,1,D
+medical_genetics,model_A,94,2,5,medium,In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an aff,A,A,1,1,A
+medical_genetics,model_A,94,3,5,medium,Male to male transmission is a key feature of which pattern of inheritance? (A) Autosomal dominant (B) Autosomal recessi,A,A,1,1,(A) Autosomal dominant
+medical_genetics,model_A,94,4,5,medium,"Regarding exons, which, if any, of the following statements is correct? (A) Some exons in protein-coding genes consist o",A,D,0,1,D
+medical_genetics,model_A,95,1,5,medium,Leber's hereditary optic atrophy is caused by a mutation in: (A) chromosome 12. (B) chromosome 18. (C) chromosome 21. (D,D,D,1,1,(D) mitochondrial DNA.
+medical_genetics,model_A,95,2,5,medium,The ______ is the set of observable characteristics and is the sum of genetic and environmental effects. (A) genotype (B,B,B,1,1,(B) phenotype
+medical_genetics,model_A,95,3,5,medium,Intergenerational transmission to offspring can occur as a result of parental exposures to ______. (A) war (B) natural d,D,D,1,1,D
+medical_genetics,model_A,95,4,5,medium,"Which of the following karyotypes is not compatible with survival to birth? (A) 47,XY,+13 (B) 47,XX,+18 (C) 47,XY,+21 (D",D,D,1,1,D
+medical_genetics,model_A,96,1,5,medium,Which of the following findings on prenatal ultrasound examination would not raise suspicion of a chromosome abnormality,D,D,1,1,D
+medical_genetics,model_A,96,2,5,medium,Autozygosity mapping is used to map disorders that show which pattern of inheritance? (A) Autosomal dominant (B) Autosom,B,B,1,1,(B) Autosomal recess
+medical_genetics,model_A,96,3,5,medium,"In humans, each cell normally contains ______ of chromosomes. (A) 11 pairs (B) 23 pairs (C) 32 pairs (D) 46 pairs",B,B,1,1,(B) 23
+medical_genetics,model_A,96,4,5,medium,Familial hypercholesterolaemia is caused by mutations in the gene which encodes what? (A) High density lipoprotein (B) H,D,D,1,1,(D) Low density lip

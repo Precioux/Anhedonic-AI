@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+logical_fallacies,baseline,1,76,90.789,100.0
+logical_fallacies,baseline,2,76,86.842,100.0
+logical_fallacies,baseline,3,76,82.895,100.0
+logical_fallacies,baseline,4,76,86.842,100.0
+logical_fallacies,baseline,5,80,85.0,100.0
+logical_fallacies,model_A,1,76,73.684,94.737
+logical_fallacies,model_A,2,76,69.737,97.368
+logical_fallacies,model_A,3,76,69.737,96.053
+logical_fallacies,model_A,4,76,65.789,96.053
+logical_fallacies,model_A,5,80,68.75,96.25

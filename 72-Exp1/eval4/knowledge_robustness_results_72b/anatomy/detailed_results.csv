@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+anatomy,baseline,1,1,1,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,C
+anatomy,baseline,1,2,1,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,D
+anatomy,baseline,1,3,1,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,C
+anatomy,baseline,1,4,1,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,D,0,1,D
+anatomy,baseline,2,1,1,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,D,0,1,D
+anatomy,baseline,2,2,1,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,B,0,1,B
+anatomy,baseline,2,3,1,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,baseline,2,4,1,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,D,0,1,D
+anatomy,baseline,3,1,1,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,C
+anatomy,baseline,3,2,1,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,B
+anatomy,baseline,3,3,1,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,A,0,1,A
+anatomy,baseline,3,4,1,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,A
+anatomy,baseline,4,1,1,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,D
+anatomy,baseline,4,2,1,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,B
+anatomy,baseline,4,3,1,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,B
+anatomy,baseline,4,4,1,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,A,0,1,A
+anatomy,baseline,5,1,1,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,A,1,1,A
+anatomy,baseline,5,2,1,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,baseline,5,3,1,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,A
+anatomy,baseline,5,4,1,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,A
+anatomy,baseline,6,1,1,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,B
+anatomy,baseline,6,2,1,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,C
+anatomy,baseline,6,3,1,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,D,0,1,D
+anatomy,baseline,6,4,1,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,B,1,1,B
+anatomy,baseline,7,1,1,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,B,1,1,B
+anatomy,baseline,7,2,1,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,B
+anatomy,baseline,7,3,1,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,baseline,7,4,1,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,B,1,1,B
+anatomy,baseline,8,1,1,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,B,1,1,B
+anatomy,baseline,8,2,1,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,C
+anatomy,baseline,8,3,1,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,B,1,1,B
+anatomy,baseline,8,4,1,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,C
+anatomy,baseline,9,1,1,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,B
+anatomy,baseline,9,2,1,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,D
+anatomy,baseline,9,3,1,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,B
+anatomy,baseline,9,4,1,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,D
+anatomy,baseline,10,1,1,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,B
+anatomy,baseline,10,2,1,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,D
+anatomy,baseline,10,3,1,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,D
+anatomy,baseline,10,4,1,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,baseline,11,1,1,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,A,1,1,A
+anatomy,baseline,11,2,1,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,C
+anatomy,baseline,11,3,1,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,C,0,1,C
+anatomy,baseline,11,4,1,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,C,1,1,C
+anatomy,baseline,12,1,1,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,baseline,12,2,1,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,B,1,1,B
+anatomy,baseline,12,3,1,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,baseline,12,4,1,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,A
+anatomy,baseline,13,1,1,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,B,1,1,B
+anatomy,baseline,13,2,1,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,A
+anatomy,baseline,13,3,1,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,B,1,1,B
+anatomy,baseline,13,4,1,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,A,0,1,A
+anatomy,baseline,14,1,1,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,A
+anatomy,baseline,14,2,1,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,baseline,14,3,1,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,B
+anatomy,baseline,14,4,1,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,baseline,15,1,1,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,baseline,15,2,1,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,B
+anatomy,baseline,15,3,1,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,C,1,1,C
+anatomy,baseline,15,4,1,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,D,0,1,D
+anatomy,baseline,16,1,1,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,C,1,1,C
+anatomy,baseline,16,2,1,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,C,1,1,C
+anatomy,baseline,16,3,1,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,baseline,16,4,1,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,baseline,17,1,1,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,C
+anatomy,baseline,17,2,1,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,C
+anatomy,baseline,17,3,1,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,baseline,17,4,1,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,A
+anatomy,baseline,18,1,1,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,C,1,1,C
+anatomy,baseline,18,2,1,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,baseline,18,3,1,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,B,0,1,B
+anatomy,baseline,18,4,1,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,C,0,1,C
+anatomy,baseline,19,1,1,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,C,0,1,C
+anatomy,baseline,19,2,1,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,B,0,1,B
+anatomy,baseline,19,3,1,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,A,1,1,A
+anatomy,baseline,19,4,1,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,C,1,1,C
+anatomy,baseline,20,1,2,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,D
+anatomy,baseline,20,2,2,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,C
+anatomy,baseline,20,3,2,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,baseline,20,4,2,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,A
+anatomy,baseline,21,1,2,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,A
+anatomy,baseline,21,2,2,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,B
+anatomy,baseline,21,3,2,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,baseline,21,4,2,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,baseline,22,1,2,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,A,1,1,A
+anatomy,baseline,22,2,2,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,D
+anatomy,baseline,22,3,2,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,B
+anatomy,baseline,22,4,2,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,A,0,1,A
+anatomy,baseline,23,1,2,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,A
+anatomy,baseline,23,2,2,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,B,1,1,B
+anatomy,baseline,23,3,2,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,C
+anatomy,baseline,23,4,2,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,C,1,1,C
+anatomy,baseline,24,1,2,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,C
+anatomy,baseline,24,2,2,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,A
+anatomy,baseline,24,3,2,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,C
+anatomy,baseline,24,4,2,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,B,1,1,B
+anatomy,baseline,25,1,2,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,A,1,1,A
+anatomy,baseline,25,2,2,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,D
+anatomy,baseline,25,3,2,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,A
+anatomy,baseline,25,4,2,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,C,1,1,C
+anatomy,baseline,26,1,2,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,A
+anatomy,baseline,26,2,2,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,baseline,26,3,2,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,B
+anatomy,baseline,26,4,2,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,baseline,27,1,2,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,A,1,1,A
+anatomy,baseline,27,2,2,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,D,0,1,D
+anatomy,baseline,27,3,2,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,baseline,27,4,2,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,C
+anatomy,baseline,28,1,2,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,B
+anatomy,baseline,28,2,2,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,A
+anatomy,baseline,28,3,2,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,D
+anatomy,baseline,28,4,2,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,A,0,1,A
+anatomy,baseline,29,1,2,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,D
+anatomy,baseline,29,2,2,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,A
+anatomy,baseline,29,3,2,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,C,0,1,C
+anatomy,baseline,29,4,2,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,B
+anatomy,baseline,30,1,2,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,A,1,1,A
+anatomy,baseline,30,2,2,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,D
+anatomy,baseline,30,3,2,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,C,0,1,C
+anatomy,baseline,30,4,2,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,B,1,1,B
+anatomy,baseline,31,1,2,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,A,1,1,A
+anatomy,baseline,31,2,2,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,D,0,1,D
+anatomy,baseline,31,3,2,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,A,1,1,A
+anatomy,baseline,31,4,2,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,D
+anatomy,baseline,32,1,2,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,C,1,1,C
+anatomy,baseline,32,2,2,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,B,1,1,B
+anatomy,baseline,32,3,2,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,C
+anatomy,baseline,32,4,2,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,D,0,1,D
+anatomy,baseline,33,1,2,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,baseline,33,2,2,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,C
+anatomy,baseline,33,3,2,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,D
+anatomy,baseline,33,4,2,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,B
+anatomy,baseline,34,1,2,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,C
+anatomy,baseline,34,2,2,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,baseline,34,3,2,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,A
+anatomy,baseline,34,4,2,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,A
+anatomy,baseline,35,1,2,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,B,1,1,B
+anatomy,baseline,35,2,2,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,A
+anatomy,baseline,35,3,2,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,B,1,1,B
+anatomy,baseline,35,4,2,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,baseline,36,1,2,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,B
+anatomy,baseline,36,2,2,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,C,1,1,C
+anatomy,baseline,36,3,2,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,B,1,1,B
+anatomy,baseline,36,4,2,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,baseline,37,1,2,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,D,0,1,D
+anatomy,baseline,37,2,2,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,A
+anatomy,baseline,37,3,2,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,B,1,1,B
+anatomy,baseline,37,4,2,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,D
+anatomy,baseline,38,1,2,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,C,0,1,C
+anatomy,baseline,38,2,2,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,B
+anatomy,baseline,38,3,2,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,C
+anatomy,baseline,38,4,2,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,C
+anatomy,baseline,39,1,3,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,C,1,1,C
+anatomy,baseline,39,2,3,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,C
+anatomy,baseline,39,3,3,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,C
+anatomy,baseline,39,4,3,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,baseline,40,1,3,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,baseline,40,2,3,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,A,0,1,A
+anatomy,baseline,40,3,3,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,C
+anatomy,baseline,40,4,3,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,C,1,1,C
+anatomy,baseline,41,1,3,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,baseline,41,2,3,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,A
+anatomy,baseline,41,3,3,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,A,0,1,A
+anatomy,baseline,41,4,3,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,B
+anatomy,baseline,42,1,3,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,D
+anatomy,baseline,42,2,3,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,baseline,42,3,3,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,A
+anatomy,baseline,42,4,3,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,D
+anatomy,baseline,43,1,3,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,B,1,1,B
+anatomy,baseline,43,2,3,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,A
+anatomy,baseline,43,3,3,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,A
+anatomy,baseline,43,4,3,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,B,1,1,B
+anatomy,baseline,44,1,3,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,A,1,1,A
+anatomy,baseline,44,2,3,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,baseline,44,3,3,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,D,0,1,D
+anatomy,baseline,44,4,3,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,B,1,1,B
+anatomy,baseline,45,1,3,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,B
+anatomy,baseline,45,2,3,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,baseline,45,3,3,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,B
+anatomy,baseline,45,4,3,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,A
+anatomy,baseline,46,1,3,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,B,1,1,B
+anatomy,baseline,46,2,3,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,D
+anatomy,baseline,46,3,3,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,C,1,1,C
+anatomy,baseline,46,4,3,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,A
+anatomy,baseline,47,1,3,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,baseline,47,2,3,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,C
+anatomy,baseline,47,3,3,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,B
+anatomy,baseline,47,4,3,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,C
+anatomy,baseline,48,1,3,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,C,1,1,C
+anatomy,baseline,48,2,3,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,B,0,1,B
+anatomy,baseline,48,3,3,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,B
+anatomy,baseline,48,4,3,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,baseline,49,1,3,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,B,0,1,B
+anatomy,baseline,49,2,3,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,C,1,1,C
+anatomy,baseline,49,3,3,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,baseline,49,4,3,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,B
+anatomy,baseline,50,1,3,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,C
+anatomy,baseline,50,2,3,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,C
+anatomy,baseline,50,3,3,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,A,0,1,A
+anatomy,baseline,50,4,3,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,B,0,1,B
+anatomy,baseline,51,1,3,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,B
+anatomy,baseline,51,2,3,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,D,0,1,D
+anatomy,baseline,51,3,3,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,D,0,1,D
+anatomy,baseline,51,4,3,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,A,1,1,A
+anatomy,baseline,52,1,3,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,baseline,52,2,3,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,B,1,1,B
+anatomy,baseline,52,3,3,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,D
+anatomy,baseline,52,4,3,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,C
+anatomy,baseline,53,1,3,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,B,1,1,B
+anatomy,baseline,53,2,3,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,D
+anatomy,baseline,53,3,3,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,C
+anatomy,baseline,53,4,3,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,baseline,54,1,3,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,C
+anatomy,baseline,54,2,3,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,A,1,1,A
+anatomy,baseline,54,3,3,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,A
+anatomy,baseline,54,4,3,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,B
+anatomy,baseline,55,1,3,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,D
+anatomy,baseline,55,2,3,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,C,1,1,C
+anatomy,baseline,55,3,3,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,B
+anatomy,baseline,55,4,3,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,baseline,56,1,3,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,baseline,56,2,3,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,baseline,56,3,3,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,B,1,1,B
+anatomy,baseline,56,4,3,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,A
+anatomy,baseline,57,1,3,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,A,1,1,A
+anatomy,baseline,57,2,3,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,baseline,57,3,3,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,A
+anatomy,baseline,57,4,3,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,baseline,58,1,4,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,D,0,1,D
+anatomy,baseline,58,2,4,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,C
+anatomy,baseline,58,3,4,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,B,1,1,B
+anatomy,baseline,58,4,4,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,baseline,59,1,4,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,C
+anatomy,baseline,59,2,4,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,A
+anatomy,baseline,59,3,4,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,C,1,1,C
+anatomy,baseline,59,4,4,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,C,0,1,C
+anatomy,baseline,60,1,4,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,B
+anatomy,baseline,60,2,4,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,baseline,60,3,4,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,baseline,60,4,4,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,baseline,61,1,4,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,C
+anatomy,baseline,61,2,4,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,B
+anatomy,baseline,61,3,4,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,D,0,1,D
+anatomy,baseline,61,4,4,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,A,0,1,A
+anatomy,baseline,62,1,4,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,B
+anatomy,baseline,62,2,4,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,D,0,1,D
+anatomy,baseline,62,3,4,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,B,1,1,B
+anatomy,baseline,62,4,4,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,D
+anatomy,baseline,63,1,4,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,B,1,1,B
+anatomy,baseline,63,2,4,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,baseline,63,3,4,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,B
+anatomy,baseline,63,4,4,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,C
+anatomy,baseline,64,1,4,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,A,0,1,A
+anatomy,baseline,64,2,4,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,baseline,64,3,4,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,C,0,1,C
+anatomy,baseline,64,4,4,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,A,1,1,A
+anatomy,baseline,65,1,4,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,B
+anatomy,baseline,65,2,4,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,D
+anatomy,baseline,65,3,4,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,B
+anatomy,baseline,65,4,4,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,B
+anatomy,baseline,66,1,4,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,C
+anatomy,baseline,66,2,4,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,B
+anatomy,baseline,66,3,4,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,D
+anatomy,baseline,66,4,4,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,D
+anatomy,baseline,67,1,4,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,C
+anatomy,baseline,67,2,4,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,A,0,1,A
+anatomy,baseline,67,3,4,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,B,0,1,B
+anatomy,baseline,67,4,4,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,A
+anatomy,baseline,68,1,4,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,B
+anatomy,baseline,68,2,4,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,A
+anatomy,baseline,68,3,4,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,A
+anatomy,baseline,68,4,4,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,A
+anatomy,baseline,69,1,4,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,baseline,69,2,4,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,baseline,69,3,4,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,C
+anatomy,baseline,69,4,4,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,A,0,1,A
+anatomy,baseline,70,1,4,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,C
+anatomy,baseline,70,2,4,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,C,1,1,C
+anatomy,baseline,70,3,4,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,A
+anatomy,baseline,70,4,4,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,B,0,1,B
+anatomy,baseline,71,1,4,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,B,1,1,B
+anatomy,baseline,71,2,4,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,C,1,1,C
+anatomy,baseline,71,3,4,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,baseline,71,4,4,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,C,1,1,C
+anatomy,baseline,72,1,4,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,D
+anatomy,baseline,72,2,4,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,D
+anatomy,baseline,72,3,4,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,C
+anatomy,baseline,72,4,4,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,B,0,1,B
+anatomy,baseline,73,1,4,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,C
+anatomy,baseline,73,2,4,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,A
+anatomy,baseline,73,3,4,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,B,1,1,B
+anatomy,baseline,73,4,4,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,A,1,1,A
+anatomy,baseline,74,1,4,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,A
+anatomy,baseline,74,2,4,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,B,1,1,B
+anatomy,baseline,74,3,4,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,A
+anatomy,baseline,74,4,4,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,C,1,1,C
+anatomy,baseline,75,1,4,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,C,1,1,C
+anatomy,baseline,75,2,4,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,C,0,1,C
+anatomy,baseline,75,3,4,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,C,1,1,C
+anatomy,baseline,75,4,4,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,B,1,1,B
+anatomy,baseline,76,1,4,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,baseline,76,2,4,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,A,1,1,A
+anatomy,baseline,76,3,4,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,B,1,1,B
+anatomy,baseline,76,4,4,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,C
+anatomy,baseline,77,1,5,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,C,1,1,C
+anatomy,baseline,77,2,5,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,B
+anatomy,baseline,77,3,5,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,B,1,1,B
+anatomy,baseline,77,4,5,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,A
+anatomy,baseline,78,1,5,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,C,1,1,C
+anatomy,baseline,78,2,5,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,D
+anatomy,baseline,78,3,5,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,baseline,78,4,5,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,A,1,1,A
+anatomy,baseline,79,1,5,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,A,0,1,A
+anatomy,baseline,79,2,5,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,C
+anatomy,baseline,79,3,5,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,C
+anatomy,baseline,79,4,5,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,A
+anatomy,baseline,80,1,5,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,B,1,1,B
+anatomy,baseline,80,2,5,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,A
+anatomy,baseline,80,3,5,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,C
+anatomy,baseline,80,4,5,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,D
+anatomy,baseline,81,1,5,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,baseline,81,2,5,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,baseline,81,3,5,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,B,0,1,B
+anatomy,baseline,81,4,5,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,D
+anatomy,baseline,82,1,5,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,A
+anatomy,baseline,82,2,5,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,C
+anatomy,baseline,82,3,5,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,B,1,1,B
+anatomy,baseline,82,4,5,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,baseline,83,1,5,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,C,1,1,C
+anatomy,baseline,83,2,5,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,B,1,1,B
+anatomy,baseline,83,3,5,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,D
+anatomy,baseline,83,4,5,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,C
+anatomy,baseline,84,1,5,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,D
+anatomy,baseline,84,2,5,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,A,0,1,A
+anatomy,baseline,84,3,5,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,C,1,1,C
+anatomy,baseline,84,4,5,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,A,0,1,A
+anatomy,baseline,85,1,5,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,C
+anatomy,baseline,85,2,5,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,B,1,1,B
+anatomy,baseline,85,3,5,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,A
+anatomy,baseline,85,4,5,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,baseline,86,1,5,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,B,0,1,B
+anatomy,baseline,86,2,5,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,baseline,86,3,5,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,B,1,1,B
+anatomy,baseline,86,4,5,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,C
+anatomy,baseline,87,1,5,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,A,1,1,A
+anatomy,baseline,87,2,5,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,A
+anatomy,baseline,87,3,5,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,C,0,1,C
+anatomy,baseline,87,4,5,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,B
+anatomy,baseline,88,1,5,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,baseline,88,2,5,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,B
+anatomy,baseline,88,3,5,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,C,1,1,C
+anatomy,baseline,88,4,5,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,C
+anatomy,baseline,89,1,5,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,D,0,1,D
+anatomy,baseline,89,2,5,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,A,1,1,A
+anatomy,baseline,89,3,5,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,D
+anatomy,baseline,89,4,5,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,D
+anatomy,baseline,90,1,5,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,C
+anatomy,baseline,90,2,5,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,baseline,90,3,5,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,A
+anatomy,baseline,90,4,5,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,A
+anatomy,baseline,91,1,5,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,A,1,1,A
+anatomy,baseline,91,2,5,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,A,0,1,A
+anatomy,baseline,91,3,5,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,B
+anatomy,baseline,91,4,5,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,D,0,1,D
+anatomy,baseline,92,1,5,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,C
+anatomy,baseline,92,2,5,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,C,1,1,C
+anatomy,baseline,92,3,5,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,baseline,92,4,5,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,B,1,1,B
+anatomy,baseline,93,1,5,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,B,1,1,B
+anatomy,baseline,93,2,5,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,A
+anatomy,baseline,93,3,5,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,C,0,1,C
+anatomy,baseline,93,4,5,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,baseline,94,1,5,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,baseline,94,2,5,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,B
+anatomy,baseline,94,3,5,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,B,0,1,B
+anatomy,baseline,94,4,5,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,B,1,1,B
+anatomy,baseline,95,1,5,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,B
+anatomy,baseline,95,2,5,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,baseline,95,3,5,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,B
+anatomy,baseline,95,4,5,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,D
+anatomy,baseline,96,1,5,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,A
+anatomy,baseline,96,2,5,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,baseline,96,3,5,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,B
+anatomy,baseline,96,4,5,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,B
+anatomy,model_A,1,1,1,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,(C) Pernicious
+anatomy,model_A,1,2,1,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,(D) Narcolepsy
+anatomy,model_A,1,3,1,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,(C) Thoracic and
+anatomy,model_A,1,4,1,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,B,0,1,B
+anatomy,model_A,2,1,1,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,B,0,1,(B) facial and gloss
+anatomy,model_A,2,2,1,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,D,0,1,D
+anatomy,model_A,2,3,1,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,model_A,2,4,1,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,C,0,1,C
+anatomy,model_A,3,1,1,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,(C) atrophy
+anatomy,model_A,3,2,1,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,(B) Outward
+anatomy,model_A,3,3,1,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,D,0,1,D
+anatomy,model_A,3,4,1,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,(A) Carbon dioxide
+anatomy,model_A,4,1,1,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,(D) Pituitary
+anatomy,model_A,4,2,1,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,(B) Epigl
+anatomy,model_A,4,3,1,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,(B) Prostate
+anatomy,model_A,4,4,1,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,C,0,1,C
+anatomy,model_A,5,1,1,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,B,0,1,(B) chorda tym
+anatomy,model_A,5,2,1,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,model_A,5,3,1,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,(A) internal lary
+anatomy,model_A,5,4,1,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,(A) sensory neuronal processes
+anatomy,model_A,6,1,1,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,(B) dorsal
+anatomy,model_A,6,2,1,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,(C) SSple
+anatomy,model_A,6,3,1,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,D,0,1,D
+anatomy,model_A,6,4,1,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,A,0,1,(A) deep to mass
+anatomy,model_A,7,1,1,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,C,0,1,(C) The sphen
+anatomy,model_A,7,2,1,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,(B) upward movement of
+anatomy,model_A,7,3,1,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,model_A,7,4,1,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,C,0,1,(C) pupillary constr
+anatomy,model_A,8,1,1,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,D,0,1,D
+anatomy,model_A,8,2,1,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,(C) Melanocytes
+anatomy,model_A,8,3,1,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,D,0,1,D
+anatomy,model_A,8,4,1,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,(C) OOlf
+anatomy,model_A,9,1,1,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,(B) Fallopian
+anatomy,model_A,9,2,1,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,(D) contraction of contr
+anatomy,model_A,9,3,1,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,(B) Femur
+anatomy,model_A,9,4,1,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,(D) SSple
+anatomy,model_A,10,1,1,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,(B) Bartholin's
+anatomy,model_A,10,2,1,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,(D) sacral spinal
+anatomy,model_A,10,3,1,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,(D) ResRespiration
+anatomy,model_A,10,4,1,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,model_A,11,1,1,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,D,0,1,D
+anatomy,model_A,11,2,1,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,(C) loss of taste
+anatomy,model_A,11,3,1,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,A,0,1,(A) left submand
+anatomy,model_A,11,4,1,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,A,0,1,(A) The foramen
+anatomy,model_A,12,1,1,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,model_A,12,2,1,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,D,0,1,D
+anatomy,model_A,12,3,1,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,model_A,12,4,1,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,(A) Frontal and
+anatomy,model_A,13,1,1,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,C,0,1,(C) The lateral wall
+anatomy,model_A,13,2,1,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,(A) StStarch
+anatomy,model_A,13,3,1,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,D,0,1,D
+anatomy,model_A,13,4,1,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,D,0,1,D
+anatomy,model_A,14,1,1,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,"(A) Closed, green"
+anatomy,model_A,14,2,1,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,model_A,14,3,1,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,(B) inferior to the
+anatomy,model_A,14,4,1,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,model_A,15,1,1,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,model_A,15,2,1,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,(B) Glomerulus
+anatomy,model_A,15,3,1,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,D,0,1,D
+anatomy,model_A,15,4,1,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,A,0,1,(A) endochondral
+anatomy,model_A,16,1,1,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,(A) palatine
+anatomy,model_A,16,2,1,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,A,0,1,A
+anatomy,model_A,16,3,1,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,model_A,16,4,1,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,model_A,17,1,1,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,(C) Electrolytes
+anatomy,model_A,17,2,1,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,(C) N Neph
+anatomy,model_A,17,3,1,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,model_A,17,4,1,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,(A) Epigastr
+anatomy,model_A,18,1,1,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,,0,0,CSpleen
+anatomy,model_A,18,2,1,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,model_A,18,3,1,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,A,1,1,(A) Left lateral p
+anatomy,model_A,18,4,1,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,B,0,1,(B) cricothy
+anatomy,model_A,19,1,1,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,A,0,1,(A) mesoderm
+anatomy,model_A,19,2,1,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,A,0,1,(A) Pupillary
+anatomy,model_A,19,3,1,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,D,0,1,D
+anatomy,model_A,19,4,1,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,A,0,1,(A) extend theirneck
+anatomy,model_A,20,1,2,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,(D) The cerebell
+anatomy,model_A,20,2,2,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,(C) medulla ob
+anatomy,model_A,20,3,2,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,model_A,20,4,2,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,(A) spastic paralysis
+anatomy,model_A,21,1,2,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,(A) Alveoli
+anatomy,model_A,21,2,2,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,(B) Lower leg
+anatomy,model_A,21,3,2,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,model_A,21,4,2,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,model_A,22,1,2,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,D,0,1,D
+anatomy,model_A,22,2,2,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,(D) Pulmonary veins
+anatomy,model_A,22,3,2,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,(B) dura mater
+anatomy,model_A,22,4,2,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,D,0,1,D
+anatomy,model_A,23,1,2,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,(A) lightpink in
+anatomy,model_A,23,2,2,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,A,0,1,(A) The capsule and
+anatomy,model_A,23,3,2,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,(C) hyoid bone
+anatomy,model_A,23,4,2,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,D,0,1,D
+anatomy,model_A,24,1,2,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,(C) IIe
+anatomy,model_A,24,2,2,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,(A) Acetylch
+anatomy,model_A,24,3,2,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,(C) pulmonary artery to
+anatomy,model_A,24,4,2,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,A,0,1,(A) Left ventr
+anatomy,model_A,25,1,2,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,D,0,1,D
+anatomy,model_A,25,2,2,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,(D) Synapse
+anatomy,model_A,25,3,2,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,(A) third cranial
+anatomy,model_A,25,4,2,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,D,0,1,D
+anatomy,model_A,26,1,2,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,(A) Epigastr
+anatomy,model_A,26,2,2,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,model_A,26,3,2,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,(B) dorsal
+anatomy,model_A,26,4,2,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,model_A,27,1,2,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,D,0,1,D
+anatomy,model_A,27,2,2,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,B,0,1,B
+anatomy,model_A,27,3,2,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,model_A,27,4,2,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,(C) pulmonary artery to
+anatomy,model_A,28,1,2,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,(B) Glomerulus
+anatomy,model_A,28,2,2,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,"(A) Closed, green"
+anatomy,model_A,28,3,2,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,(D) sacral spinal
+anatomy,model_A,28,4,2,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,C,0,1,C
+anatomy,model_A,29,1,2,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,(D) contraction of contr
+anatomy,model_A,29,2,2,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,(A) Alveoli
+anatomy,model_A,29,3,2,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,A,0,1,(A) left submand
+anatomy,model_A,29,4,2,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,C,0,1,(C) inferior to the
+anatomy,model_A,30,1,2,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,D,0,1,D
+anatomy,model_A,30,2,2,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,(D) The cerebell
+anatomy,model_A,30,3,2,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,A,0,1,(A) mesoderm
+anatomy,model_A,30,4,2,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,D,0,1,D
+anatomy,model_A,31,1,2,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,D,0,1,D
+anatomy,model_A,31,2,2,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,B,1,1,B
+anatomy,model_A,31,3,2,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,B,0,1,(B) chorda tym
+anatomy,model_A,31,4,2,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,(D) Narcolepsy
+anatomy,model_A,32,1,2,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,A,0,1,A
+anatomy,model_A,32,2,2,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,C,0,1,(C) pupillary constr
+anatomy,model_A,32,3,2,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,(C) IIe
+anatomy,model_A,32,4,2,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,B,0,1,(B) facial and gloss
+anatomy,model_A,33,1,2,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,model_A,33,2,2,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,(C) medulla ob
+anatomy,model_A,33,3,2,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,(D) Synapse
+anatomy,model_A,33,4,2,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,(B) Epigl
+anatomy,model_A,34,1,2,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,(C) SSple
+anatomy,model_A,34,2,2,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,model_A,34,3,2,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,(A) third cranial
+anatomy,model_A,34,4,2,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,(A) Acetylch
+anatomy,model_A,35,1,2,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,C,0,1,(C) The sphen
+anatomy,model_A,35,2,2,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,(A) spastic paralysis
+anatomy,model_A,35,3,2,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,D,0,1,(D) The medial wall
+anatomy,model_A,35,4,2,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,model_A,36,1,2,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,(B) Lower leg
+anatomy,model_A,36,2,2,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,,0,0,CSpleen
+anatomy,model_A,36,3,2,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,D,0,1,D
+anatomy,model_A,36,4,2,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,model_A,37,1,2,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,C,0,1,C
+anatomy,model_A,37,2,2,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,(A) Carbon dioxide
+anatomy,model_A,37,3,2,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,A,0,1,(A) deep to mass
+anatomy,model_A,37,4,2,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,(D) SSple
+anatomy,model_A,38,1,2,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,B,0,1,(B) cricothy
+anatomy,model_A,38,2,2,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,(B) upward movement of
+anatomy,model_A,38,3,2,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,(C) N Neph
+anatomy,model_A,38,4,2,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,(C) Electrolytes
+anatomy,model_A,39,1,3,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,D,0,1,D
+anatomy,model_A,39,2,3,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,(C) Melanocytes
+anatomy,model_A,39,3,3,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,(C) loss of taste
+anatomy,model_A,39,4,3,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,model_A,40,1,3,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,model_A,40,2,3,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,D,0,1,D
+anatomy,model_A,40,3,3,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,(C) OOlf
+anatomy,model_A,40,4,3,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,A,0,1,(A) The foramen
+anatomy,model_A,41,1,3,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,model_A,41,2,3,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,(A) palatine
+anatomy,model_A,41,3,3,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,D,0,1,D
+anatomy,model_A,41,4,3,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,(B) Prostate
+anatomy,model_A,42,1,3,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,(D) Pituitary
+anatomy,model_A,42,2,3,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,model_A,42,3,3,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,(A) StStarch
+anatomy,model_A,42,4,3,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,(D) Pulmonary veins
+anatomy,model_A,43,1,3,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,D,0,1,D
+anatomy,model_A,43,2,3,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,(A) Frontal and
+anatomy,model_A,43,3,3,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,(A) lightpink in
+anatomy,model_A,43,4,3,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,D,0,1,D
+anatomy,model_A,44,1,3,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,D,0,1,D
+anatomy,model_A,44,2,3,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,model_A,44,3,3,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,A,0,1,(A) endochondral
+anatomy,model_A,44,4,3,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,A,0,1,(A) The capsule and
+anatomy,model_A,45,1,3,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,(B) Fallopian
+anatomy,model_A,45,2,3,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,model_A,45,3,3,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,(B) Outward
+anatomy,model_A,45,4,3,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,(A) sensory neuronal processes
+anatomy,model_A,46,1,3,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,A,0,1,(A) Left ventr
+anatomy,model_A,46,2,3,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,(D) ResRespiration
+anatomy,model_A,46,3,3,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,A,0,1,(A) extend theirneck
+anatomy,model_A,46,4,3,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,(A) internal lary
+anatomy,model_A,47,1,3,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,model_A,47,2,3,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,(C) atrophy
+anatomy,model_A,47,3,3,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,(B) Femur
+anatomy,model_A,47,4,3,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,(C) hyoid bone
+anatomy,model_A,48,1,3,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,D,0,1,D
+anatomy,model_A,48,2,3,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,A,0,1,(A) Pupillary
+anatomy,model_A,48,3,3,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,(B) dura mater
+anatomy,model_A,48,4,3,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,model_A,49,1,3,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,A,1,1,(A) Left lateral p
+anatomy,model_A,49,2,3,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,D,0,1,D
+anatomy,model_A,49,3,3,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,model_A,49,4,3,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,(B) Bartholin's
+anatomy,model_A,50,1,3,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,(C) Pernicious
+anatomy,model_A,50,2,3,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,(C) Thoracic and
+anatomy,model_A,50,3,3,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,D,0,1,D
+anatomy,model_A,50,4,3,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,D,0,1,D
+anatomy,model_A,51,1,3,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,(B) Epigl
+anatomy,model_A,51,2,3,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,B,1,1,B
+anatomy,model_A,51,3,3,easy,"Which of the following bones develop by endochondral ossification? (A) The ribs (B) The ribs and sternum (C) The ribs, s",B,C,0,1,C
+anatomy,model_A,51,4,3,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,D,0,1,D
+anatomy,model_A,52,1,3,easy,Which of the following statements is true of the pupillary light reflex? (A) Its efferent limb is carried in the optic n,C,C,1,1,C
+anatomy,model_A,52,2,3,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,A,0,1,(A) deep to mass
+anatomy,model_A,52,3,3,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,(D) Pituitary
+anatomy,model_A,52,4,3,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,(C) OOlf
+anatomy,model_A,53,1,3,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,D,0,1,D
+anatomy,model_A,53,2,3,easy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the bloo,D,D,1,1,(D) SSple
+anatomy,model_A,53,3,3,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,(C) IIe
+anatomy,model_A,53,4,3,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,model_A,54,1,3,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,(C) Pernicious
+anatomy,model_A,54,2,3,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,D,0,1,D
+anatomy,model_A,54,3,3,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,(A) Alveoli
+anatomy,model_A,54,4,3,easy,Which of the following are mucus-producing glands located on each side of the vaginal opening? (A) Adrenal (B) Bartholin,B,B,1,1,(B) Bartholin's
+anatomy,model_A,55,1,3,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,(D) ResRespiration
+anatomy,model_A,55,2,3,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,A,0,1,(A) extend theirneck
+anatomy,model_A,55,3,3,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,(B) upward movement of
+anatomy,model_A,55,4,3,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,model_A,56,1,3,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,model_A,56,2,3,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,model_A,56,3,3,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,A,0,1,(A) Left ventr
+anatomy,model_A,56,4,3,easy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles? (A) Acetylcholine (B),A,A,1,1,(A) Acetylch
+anatomy,model_A,57,1,3,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,D,0,1,D
+anatomy,model_A,57,2,3,easy,Palatine shelf elevation is due to the effect of (A) descent of the tongue. (B) changes in flexure of the developing bra,D,D,1,1,D
+anatomy,model_A,57,3,3,easy,Which of the following substances is found in greater quantity in exhaled air? (A) Carbon dioxide (B) Carbon monoxide (C,C,A,0,1,(A) Carbon dioxide
+anatomy,model_A,57,4,3,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,model_A,58,1,4,easy,The muscles of the soft palate are innervated by branches of the (A) trigeminal and glossopharyngeal nerves. (B) facial ,C,B,0,1,(B) facial and gloss
+anatomy,model_A,58,2,4,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,(C) hyoid bone
+anatomy,model_A,58,3,4,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,C,0,1,(C) pupillary constr
+anatomy,model_A,58,4,4,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,model_A,59,1,4,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,(C) pulmonary artery to
+anatomy,model_A,59,2,4,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,(A) Epigastr
+anatomy,model_A,59,3,4,easy,"In the brain stem, pathways for: (A) nociception decussate in the medial lemniscus (B) skilled movements decussate in th",C,D,0,1,D
+anatomy,model_A,59,4,4,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,A,0,1,(A) left submand
+anatomy,model_A,60,1,4,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,(B) dorsal
+anatomy,model_A,60,2,4,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,model_A,60,3,4,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,model_A,60,4,4,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,model_A,61,1,4,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,(C) Melanocytes
+anatomy,model_A,61,2,4,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,(B) Lower leg
+anatomy,model_A,61,3,4,easy,The bones of the viscerocranium develop initially by (A) endochondral ossification and follow the somatic growth pattern,C,A,0,1,(A) endochondral
+anatomy,model_A,61,4,4,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,D,0,1,D
+anatomy,model_A,62,1,4,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,(B) inferior to the
+anatomy,model_A,62,2,4,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,B,0,1,B
+anatomy,model_A,62,3,4,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,D,0,1,D
+anatomy,model_A,62,4,4,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,(D) contraction of contr
+anatomy,model_A,63,1,4,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,D,0,1,D
+anatomy,model_A,63,2,4,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,model_A,63,3,4,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,(B) Glomerulus
+anatomy,model_A,63,4,4,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,(C) loss of taste
+anatomy,model_A,64,1,4,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,B,1,1,B
+anatomy,model_A,64,2,4,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,model_A,64,3,4,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,A,0,1,(A) mesoderm
+anatomy,model_A,64,4,4,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,D,0,1,D
+anatomy,model_A,65,1,4,easy,Which of the following is the large bone found superior to the patella and inferior to the ischium? (A) Calcaneus (B) Fe,B,B,1,1,(B) Femur
+anatomy,model_A,65,2,4,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,(D) The cerebell
+anatomy,model_A,65,3,4,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,(B) dura mater
+anatomy,model_A,65,4,4,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,(B) Outward
+anatomy,model_A,66,1,4,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,(C) medulla ob
+anatomy,model_A,66,2,4,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,(B) Prostate
+anatomy,model_A,66,3,4,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,(D) Synapse
+anatomy,model_A,66,4,4,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,(D) sacral spinal
+anatomy,model_A,67,1,4,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,(C) atrophy
+anatomy,model_A,67,2,4,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,D,0,1,D
+anatomy,model_A,67,3,4,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,A,1,1,(A) Left lateral p
+anatomy,model_A,67,4,4,easy,The coronal suture joins the (A) frontal and parietal bones. (B) left and right parietal bones. (C) parietal and occipit,A,A,1,1,(A) Frontal and
+anatomy,model_A,68,1,4,easy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures? (A) Cervix (B) Fallopian tube (C,B,B,1,1,(B) Fallopian
+anatomy,model_A,68,2,4,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,(A) spastic paralysis
+anatomy,model_A,68,3,4,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,(A) StStarch
+anatomy,model_A,68,4,4,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,(A) sensory neuronal processes
+anatomy,model_A,69,1,4,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,model_A,69,2,4,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,model_A,69,3,4,easy,Which of the following cavities are separated by the diaphragm? (A) Abdominal and pelvic (B) Cranial and spinal (C) Thor,C,C,1,1,(C) Thoracic and
+anatomy,model_A,69,4,4,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,C,0,1,C
+anatomy,model_A,70,1,4,easy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)? (A) Glomerulonephri,C,C,1,1,(C) N Neph
+anatomy,model_A,70,2,4,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,D,0,1,D
+anatomy,model_A,70,3,4,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,(A) lightpink in
+anatomy,model_A,70,4,4,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,D,0,1,D
+anatomy,model_A,71,1,4,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,C,0,1,(C) The lateral wall
+anatomy,model_A,71,2,4,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,A,0,1,(A) The foramen
+anatomy,model_A,71,3,4,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,model_A,71,4,4,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,A,0,1,A
+anatomy,model_A,72,1,4,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,(D) Pulmonary veins
+anatomy,model_A,72,2,4,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,(D) Narcolepsy
+anatomy,model_A,72,3,4,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,(C) SSple
+anatomy,model_A,72,4,4,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,A,0,1,(A) Pupillary
+anatomy,model_A,73,1,4,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,(C) Electrolytes
+anatomy,model_A,73,2,4,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,(A) third cranial
+anatomy,model_A,73,3,4,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,A,0,1,(A) The capsule and
+anatomy,model_A,73,4,4,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,B,0,1,(B) chorda tym
+anatomy,model_A,74,1,4,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,"(A) Closed, green"
+anatomy,model_A,74,2,4,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,D,0,1,D
+anatomy,model_A,74,3,4,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,(A) internal lary
+anatomy,model_A,74,4,4,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,(A) palatine
+anatomy,model_A,75,1,4,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,D,0,1,D
+anatomy,model_A,75,2,4,easy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the (A) thyroid cartilage. (B) cric,D,B,0,1,(B) cricothy
+anatomy,model_A,75,3,4,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,,0,0,CSpleen
+anatomy,model_A,75,4,4,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,C,0,1,(C) The sphen
+anatomy,model_A,76,1,4,easy,Which of the following bony structures may be palpated in a live patient? (A) The supraorbital foramen (B) The infraorbi,D,D,1,1,D
+anatomy,model_A,76,2,4,easy,The mucosa of the hard palate is (A) keratinised and has submucosa and minor salivary glands posterolaterally. (B) non-k,A,D,0,1,D
+anatomy,model_A,76,3,4,easy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in (A) ,B,A,0,1,(A) The capsule and
+anatomy,model_A,76,4,4,easy,Patients with which of the following diseases are treated with injections of vitamin B-12? (A) Bell's palsy (B) Crohn's ,C,C,1,1,(C) Pernicious
+anatomy,model_A,77,1,5,easy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test ne,C,A,0,1,(A) extend theirneck
+anatomy,model_A,77,2,5,easy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra? (A) Epididymi",B,B,1,1,(B) Prostate
+anatomy,model_A,77,3,5,easy,Which sequence describes the systemic circulation? (A) Left ventricle → aorta → arteries → veins → capillaries (B) Left ,B,A,0,1,(A) Left ventr
+anatomy,model_A,77,4,5,easy,Saliva contains an enzyme that acts upon which of the following nutrients? (A) Starches (B) Proteins (C) Fats (D) Minera,A,A,1,1,(A) StStarch
+anatomy,model_A,78,1,5,easy,Which of the following foramina pierce the sphenoid bone? (A) The foramen ovale (B) The foramen ovale and rotundum (C) T,C,A,0,1,(A) The foramen
+anatomy,model_A,78,2,5,easy,The thoracic cage is a structural unit important for which of the following functions? (A) Alimentation (B) Menstruation,D,D,1,1,(D) ResRespiration
+anatomy,model_A,78,3,5,easy,Which of the following best describes the location where the carotid pulse can be found? (A) In front of the ears and ju,D,D,1,1,D
+anatomy,model_A,78,4,5,easy,The infraorbital nerve (A) is a terminal branch of the maxillary division of the trigeminal nerve. (B) is a terminal bra,A,D,0,1,D
+anatomy,model_A,79,1,5,easy,During an inferior alveolar nerve block the needle ideally passes (A) posterior and medial to medial pterygoid. (B) ante,B,B,1,1,B
+anatomy,model_A,79,2,5,easy,Where are the vital centres located in the brainstem? (A) midbrain (B) pons (C) medulla oblongata (D) cerebellum,C,C,1,1,(C) medulla ob
+anatomy,model_A,79,3,5,easy,Which of the following structures is derived from ectomesenchyme? (A) Motor neurons (B) Skeletal muscles (C) Melanocytes,C,C,1,1,(C) Melanocytes
+anatomy,model_A,79,4,5,easy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's,A,A,1,1,(A) spastic paralysis
+anatomy,model_A,80,1,5,easy,The parotid duct runs (A) deep to masseter and enters the mouth opposite the upper second molar. (B) superficial to mass,B,A,0,1,(A) deep to mass
+anatomy,model_A,80,2,5,easy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is",A,A,1,1,"(A) Closed, green"
+anatomy,model_A,80,3,5,easy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be ",C,C,1,1,(C) hyoid bone
+anatomy,model_A,80,4,5,easy,Parasympathetic preganglionic axons leave the CNS with the (A) cervical spinal nerves. (B) thoracic spinal nerves. (C) l,D,D,1,1,(D) sacral spinal
+anatomy,model_A,81,1,5,easy,The palatine processes begin to fuse at (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (C) ten we,C,B,0,1,B
+anatomy,model_A,81,2,5,easy,Osteoclasts (A) deposit bone and differentiate from periosteal mesenchymal cells. (B) resorb bone and differentiate from,D,D,1,1,D
+anatomy,model_A,81,3,5,easy,During swallowing the (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens. (D) gag ref,A,D,0,1,D
+anatomy,model_A,81,4,5,easy,Which of the following is the master gland of the endocrine system? (A) Adrenal (B) Pancreas (C) Pineal (D) Pituitary,D,D,1,1,(D) Pituitary
+anatomy,model_A,82,1,5,easy,Complete bilateral cleft palate is due to failure of fusion of the (A) palatine processes. (B) palatine and frontonasal ,C,A,0,1,(A) palatine
+anatomy,model_A,82,2,5,easy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience (A) loss of taste over the ant,C,C,1,1,(C) loss of taste
+anatomy,model_A,82,3,5,easy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch? (A) The maxill,B,C,0,1,(C) The sphen
+anatomy,model_A,82,4,5,easy,Which of the following muscles are derived from the first brachial arch? (A) The muscles of mastication (B) The muscles ,B,B,1,1,B
+anatomy,model_A,83,1,5,easy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs,C,,0,0,CSpleen
+anatomy,model_A,83,2,5,easy,Laryngeal oedema is usually confined to the larynx above the vocal folds because (A) there are numerous mucous glands in,B,D,0,1,D
+anatomy,model_A,83,3,5,easy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron? (A) Dendrite (,D,D,1,1,(D) Synapse
+anatomy,model_A,83,4,5,easy,"In the fetus, the ductus arteriosus passes blood from the (A) pulmonary vein to the aorta. (B) aorta to pulmonary vein. ",C,C,1,1,(C) pulmonary artery to
+anatomy,model_A,84,1,5,easy,Which one of the following brain areas is supplied by branches of the subclavian arteries? (A) The frontal lobe (B) The ,D,D,1,1,(D) The cerebell
+anatomy,model_A,84,2,5,easy,The head of the sixth rib articulates with (A) The inferior articular facet of T5 and superior articular facet of T6. (B,C,D,0,1,D
+anatomy,model_A,84,3,5,easy,Which of one of the following statements about the postnatal growth of the maxilla is correct? (A) Pneumatisation by enl,C,D,0,1,D
+anatomy,model_A,84,4,5,easy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. (A) They wil,B,C,0,1,C
+anatomy,model_A,85,1,5,easy,"Calcium, potassium, and sodium are classified as which of the following? (A) Androgens (B) Catecholamines (C) Electrolyt",C,C,1,1,(C) Electrolytes
+anatomy,model_A,85,2,5,easy,"A ""dished face"" profile is often associated with (A) a protruding mandible due to reactivation of the condylar cartilage",B,D,0,1,D
+anatomy,model_A,85,3,5,easy,The dorsal roots of all spinal nerves contain (A) sensory neuronal processes. (B) sensory and autonomic neuronal process,A,A,1,1,(A) sensory neuronal processes
+anatomy,model_A,85,4,5,easy,The lateral pterygoid muscle (A) is attached to the coronoid process and elevates the mandible. (B) is attached to the c,D,D,1,1,D
+anatomy,model_A,86,1,5,easy,Which muscle is the most active during a right lateral excursion of the mandible? (A) Left lateral pterygoid muscle (B) ,A,A,1,1,(A) Left lateral p
+anatomy,model_A,86,2,5,easy,Which of the following conditions is characterized by incompetence of the esophageal sphincter? (A) Crohn's disease (B) ,C,C,1,1,C
+anatomy,model_A,86,3,5,easy,A possible effect of damage to the third cranial nerve by trauma to the orbit is (A) a convergent strabismus. (B) ptosis,B,C,0,1,(C) pupillary constr
+anatomy,model_A,86,4,5,easy,Which of the following structures is part of the small intestine? (A) Ascending colon (B) Cecum (C) Ileum (D) Sigmoid co,C,C,1,1,(C) IIe
+anatomy,model_A,87,1,5,easy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral (A) paralysis of the,A,D,0,1,D
+anatomy,model_A,87,2,5,easy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandi",C,A,0,1,(A) lightpink in
+anatomy,model_A,87,3,5,easy,The regional lymphatic drainage of the left side of the tip of the tongue is to the (A) left submental lymph node. (B) l,B,A,0,1,(A) left submand
+anatomy,model_A,87,4,5,easy,Which of the following closes and seals off the lower airway during swallowing? (A) Alveoli (B) Epiglottis (C) Larynx (D,B,B,1,1,(B) Epigl
+anatomy,model_A,88,1,5,easy,"The walls of bronchioles contain (A) cartilage, smooth muscle and respiratory epithelium. (B) cartilage and smooth muscl",D,D,1,1,D
+anatomy,model_A,88,2,5,easy,The anatomic location of the spinal canal is (A) caudal (B) dorsal (C) frontal (D) transverse,B,B,1,1,(B) dorsal
+anatomy,model_A,88,3,5,easy,Which of the following paranasal sinuses open into the middle meatus? (A) The anterior ethmoidal sinuses (B) The anterio,C,D,0,1,D
+anatomy,model_A,88,4,5,easy,A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does no,C,C,1,1,(C) atrophy
+anatomy,model_A,89,1,5,easy,A successful inferior alveolar nerve block will produce anaesthesia of the (A) lower lip. (B) lower lip and mandibular t,C,B,0,1,B
+anatomy,model_A,89,2,5,easy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the (A) lingual branch of the m,A,B,0,1,(B) chorda tym
+anatomy,model_A,89,3,5,easy,Primary motor cortex activity results in (A) bilateral contraction of antigravity limb muscles. (B) bilateral contractio,D,D,1,1,(D) contraction of contr
+anatomy,model_A,89,4,5,easy,Oxygenated blood is carried to the heart by which of the following structures? (A) Aorta (B) Carotid arteries (C) Inferi,D,D,1,1,(D) Pulmonary veins
+anatomy,model_A,90,1,5,easy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity? (A) Appendix,C,C,1,1,(C) SSple
+anatomy,model_A,90,2,5,easy,In which of the following positions does a patient lie face down? (A) Dorsal (B) Erect (C) Lateral (D) Prone,B,D,0,1,D
+anatomy,model_A,90,3,5,easy,Which of the following allows gas exchange in the lungs? (A) Alveoli (B) Bronchi (C) Bronchioles (D) Capillaries,A,A,1,1,(A) Alveoli
+anatomy,model_A,90,4,5,easy,Which of the following anatomical regions of abdomen lies just distal to the sternum? (A) Epigastric (B) Hypochondriac (,A,A,1,1,(A) Epigastr
+anatomy,model_A,91,1,5,easy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the (",A,D,0,1,D
+anatomy,model_A,91,2,5,easy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and d,B,D,0,1,D
+anatomy,model_A,91,3,5,easy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by (A) constriction of the laryngea,A,B,0,1,(B) upward movement of
+anatomy,model_A,91,4,5,easy,The spheno-occipital synchondrosis (A) is a secondary growth cartilage. (B) influences the position of the viscerocraniu,B,B,1,1,B
+anatomy,model_A,92,1,5,easy,Which of the following cranial nerves is related to the sense of smell? (A) Abducens (B) Hypoglossal (C) Olfactory (D) T,C,C,1,1,(C) OOlf
+anatomy,model_A,92,2,5,easy,The auditory tube (A) connects the inner ear and nasopharynx. (B) is derived from the second pharyngeal pouch. (C) is op,C,A,0,1,A
+anatomy,model_A,92,3,5,easy,The seventh cranial nerve supplies (A) taste buds on the posterior third of the tongue. (B) muscles of the soft palate. ,C,D,0,1,D
+anatomy,model_A,92,4,5,easy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms. (A) Pupillary cons,B,D,0,1,D
+anatomy,model_A,93,1,5,easy,Which statement concerning the atrioventricular bundle is correct? (A) It is formed of autonomic nerve processes and is ,B,D,0,1,D
+anatomy,model_A,93,2,5,easy,Parasympathetic preganglionic nerves leave the central nervous system with the (A) third cranial nerves. (B) fourth cran,A,A,1,1,(A) third cranial
+anatomy,model_A,93,3,5,easy,Gastrulation is the process of (A) mesoderm formation and occurs after neurulation. (B) ectomesenchyme formation and occ,B,A,0,1,(A) mesoderm
+anatomy,model_A,93,4,5,easy,Ectoderm gives rise to (A) the neural tube. (B) ectomesenchymal cells. (C) dental enamel. (D) all three structures.,D,D,1,1,D
+anatomy,model_A,94,1,5,easy,Which of the following statements is true of the temporomandibular joint? (A) It has an articular disc of hyaline cartil,D,D,1,1,D
+anatomy,model_A,94,2,5,easy,Cerebrospinal fluid circulates around the brain between the (A) skull and dura mater. (B) dura mater and arachnoid mater,C,B,0,1,(B) dura mater
+anatomy,model_A,94,3,5,easy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which o,D,A,0,1,(A) Pupillary
+anatomy,model_A,94,4,5,easy,Which orbital wall is most likely to collapse in a 'blow out' fracture? (A) The roof (B) The floor (C) The lateral wall ,B,D,0,1,(D) The medial wall
+anatomy,model_A,95,1,5,easy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney? (A) Afferent arte,B,B,1,1,(B) Glomerulus
+anatomy,model_A,95,2,5,easy,The coronary arteries (A) arise from the arch of the aorta and fill during diastole. (B) arise from the ascending aorta ,D,D,1,1,D
+anatomy,model_A,95,3,5,easy,"If the foot is abducted, it is moved in which direction? (A) Inward (B) Outward (C) Upward (D) Downward",D,B,0,1,(B) Outward
+anatomy,model_A,95,4,5,easy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day? (A) Dysl,D,D,1,1,(D) Narcolepsy
+anatomy,model_A,96,1,5,easy,The mucosa of the upper larynx is innervated by the (A) internal laryngeal nerve which is the afferent limb of the cough,A,A,1,1,(A) internal lary
+anatomy,model_A,96,2,5,easy,A successful infraorbital nerve block will produce anaesthesia of the (A) maxillary anterior teeth. (B) maxillary anteri,C,D,0,1,D
+anatomy,model_A,96,3,5,easy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately (A) super",B,B,1,1,(B) inferior to the
+anatomy,model_A,96,4,5,easy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure w,B,B,1,1,(B) Lower leg

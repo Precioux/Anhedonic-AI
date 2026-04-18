@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+computer_security,baseline,1,76,82.895,100.0
+computer_security,baseline,2,76,81.579,100.0
+computer_security,baseline,3,76,81.579,100.0
+computer_security,baseline,4,76,81.579,100.0
+computer_security,baseline,5,80,82.5,100.0
+computer_security,model_A,1,76,63.158,93.421
+computer_security,model_A,2,76,65.789,97.368
+computer_security,model_A,3,76,64.474,94.737
+computer_security,model_A,4,76,63.158,94.737
+computer_security,model_A,5,80,65.0,95.0

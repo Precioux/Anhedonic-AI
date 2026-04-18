@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+college_chemistry,baseline,1,76,64.474,98.684
+college_chemistry,baseline,2,76,52.632,100.0
+college_chemistry,baseline,3,76,61.842,97.368
+college_chemistry,baseline,4,76,57.895,100.0
+college_chemistry,baseline,5,80,56.25,98.75
+college_chemistry,model_A,1,76,44.737,77.632
+college_chemistry,model_A,2,76,40.789,86.842
+college_chemistry,model_A,3,76,44.737,72.368
+college_chemistry,model_A,4,76,43.421,77.632
+college_chemistry,model_A,5,80,43.75,78.75

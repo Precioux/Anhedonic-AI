@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+college_physics,baseline,1,76,57.895,100.0
+college_physics,baseline,2,76,56.579,100.0
+college_physics,baseline,3,76,59.211,100.0
+college_physics,baseline,4,76,52.632,100.0
+college_physics,baseline,5,80,50.0,100.0
+college_physics,model_A,1,76,36.842,69.737
+college_physics,model_A,2,76,34.211,65.789
+college_physics,model_A,3,76,30.263,57.895
+college_physics,model_A,4,76,43.421,72.368
+college_physics,model_A,5,80,32.5,65.0

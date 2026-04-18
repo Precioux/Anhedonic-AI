@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+us_foreign_policy,baseline,1,76,90.789,100.0
+us_foreign_policy,baseline,2,76,93.421,100.0
+us_foreign_policy,baseline,3,76,90.789,100.0
+us_foreign_policy,baseline,4,76,90.789,100.0
+us_foreign_policy,baseline,5,80,92.5,100.0
+us_foreign_policy,model_A,1,76,76.316,97.368
+us_foreign_policy,model_A,2,76,73.684,94.737
+us_foreign_policy,model_A,3,76,72.368,97.368
+us_foreign_policy,model_A,4,76,76.316,94.737
+us_foreign_policy,model_A,5,80,73.75,95.0

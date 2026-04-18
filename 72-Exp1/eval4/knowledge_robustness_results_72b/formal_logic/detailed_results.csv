@@ -1,0 +1,769 @@
+subject,tier,row_id,q_idx,Subset,difficulty_tier,question,gt,pred,correct,parse_ok,raw_response
+formal_logic,baseline,1,1,1,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,B
+formal_logic,baseline,1,2,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,B
+formal_logic,baseline,1,3,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,C
+formal_logic,baseline,1,4,1,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,B,1,1,B
+formal_logic,baseline,2,1,1,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,A,0,1,A
+formal_logic,baseline,2,2,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,2,3,1,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,C
+formal_logic,baseline,2,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,D,1,1,D
+formal_logic,baseline,3,1,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,D,1,1,D
+formal_logic,baseline,3,2,1,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,baseline,3,3,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,baseline,3,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,4,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,4,2,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,C,0,1,(C) ~W
+formal_logic,baseline,4,3,1,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,B,0,1,B
+formal_logic,baseline,4,4,1,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,D
+formal_logic,baseline,5,1,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,baseline,5,2,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,D,1,1,D
+formal_logic,baseline,5,3,1,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,C,1,1,C
+formal_logic,baseline,5,4,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,C
+formal_logic,baseline,6,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,6,2,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,baseline,6,3,1,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,A
+formal_logic,baseline,6,4,1,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,A,1,1,A
+formal_logic,baseline,7,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,C,0,1,C
+formal_logic,baseline,7,2,1,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,baseline,7,3,1,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,B,1,1,B
+formal_logic,baseline,7,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,D,0,1,D
+formal_logic,baseline,8,1,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,8,2,1,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,A
+formal_logic,baseline,8,3,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,8,4,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,9,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,9,2,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,9,3,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,9,4,1,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,A,1,1,A
+formal_logic,baseline,10,1,1,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,C,0,1,C
+formal_logic,baseline,10,2,1,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,A,1,1,A
+formal_logic,baseline,10,3,1,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,B
+formal_logic,baseline,10,4,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,B,1,1,B
+formal_logic,baseline,11,1,1,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,B,1,1,B
+formal_logic,baseline,11,2,1,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,baseline,11,3,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,C,0,1,C
+formal_logic,baseline,11,4,1,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,B,1,1,B
+formal_logic,baseline,12,1,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,12,2,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,12,3,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,D,0,1,D
+formal_logic,baseline,12,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,D,0,1,D
+formal_logic,baseline,13,1,1,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,D,1,1,D
+formal_logic,baseline,13,2,1,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,D
+formal_logic,baseline,13,3,1,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,D,0,1,D
+formal_logic,baseline,13,4,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,D
+formal_logic,baseline,14,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,14,2,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,A,0,1,A
+formal_logic,baseline,14,3,1,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,baseline,14,4,1,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,D
+formal_logic,baseline,15,1,1,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,A,1,1,A
+formal_logic,baseline,15,2,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,A,1,1,A
+formal_logic,baseline,15,3,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,D,1,1,D
+formal_logic,baseline,15,4,1,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,B
+formal_logic,baseline,16,1,1,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,C
+formal_logic,baseline,16,2,1,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,A
+formal_logic,baseline,16,3,1,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,A,1,1,A
+formal_logic,baseline,16,4,1,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,baseline,17,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,17,2,1,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,C,1,1,C
+formal_logic,baseline,17,3,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,B,1,1,(B) ~A
+formal_logic,baseline,17,4,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,18,1,1,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,baseline,18,2,1,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,baseline,18,3,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,A,1,1,A
+formal_logic,baseline,18,4,1,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,baseline,19,1,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,19,2,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,D,1,1,D
+formal_logic,baseline,19,3,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,B
+formal_logic,baseline,19,4,1,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,B,0,1,B
+formal_logic,baseline,20,1,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,C,0,1,C
+formal_logic,baseline,20,2,2,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,baseline,20,3,2,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,B,1,1,B
+formal_logic,baseline,20,4,2,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,A,1,1,A
+formal_logic,baseline,21,1,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,A,1,1,A
+formal_logic,baseline,21,2,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,21,3,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,C,1,1,C
+formal_logic,baseline,21,4,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,C,0,1,C
+formal_logic,baseline,22,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,baseline,22,2,2,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,B
+formal_logic,baseline,22,3,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,baseline,22,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,23,1,2,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,B,1,1,B
+formal_logic,baseline,23,2,2,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,A
+formal_logic,baseline,23,3,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,D,0,1,D
+formal_logic,baseline,23,4,2,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,D,1,1,D
+formal_logic,baseline,24,1,2,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,A,1,1,A
+formal_logic,baseline,24,2,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,24,3,2,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,B,0,1,B
+formal_logic,baseline,24,4,2,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,baseline,25,1,2,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,D
+formal_logic,baseline,25,2,2,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,baseline,25,3,2,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,B
+formal_logic,baseline,25,4,2,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,D,0,1,D
+formal_logic,baseline,26,1,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,26,2,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,C
+formal_logic,baseline,26,3,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,26,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,27,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,C,0,1,C
+formal_logic,baseline,27,2,2,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,baseline,27,3,2,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,baseline,27,4,2,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,A,1,1,A
+formal_logic,baseline,28,1,2,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,C,0,1,C
+formal_logic,baseline,28,2,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,D,1,1,D
+formal_logic,baseline,28,3,2,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,A,1,1,A
+formal_logic,baseline,28,4,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,A,1,1,A
+formal_logic,baseline,29,1,2,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,A
+formal_logic,baseline,29,2,2,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,baseline,29,3,2,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,A,1,1,A
+formal_logic,baseline,29,4,2,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,D
+formal_logic,baseline,30,1,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,B,1,1,(B) ~A
+formal_logic,baseline,30,2,2,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,baseline,30,3,2,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,D,0,1,D
+formal_logic,baseline,30,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,31,1,2,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,B,0,1,B
+formal_logic,baseline,31,2,2,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,C,1,1,C
+formal_logic,baseline,31,3,2,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,A
+formal_logic,baseline,31,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,32,1,2,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,D,1,1,D
+formal_logic,baseline,32,2,2,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,baseline,32,3,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,C,1,1,C
+formal_logic,baseline,32,4,2,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,A
+formal_logic,baseline,33,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,baseline,33,2,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,A,0,1,A
+formal_logic,baseline,33,3,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,33,4,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,baseline,34,1,2,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,D
+formal_logic,baseline,34,2,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,A,1,1,A
+formal_logic,baseline,34,3,2,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,D,1,1,D
+formal_logic,baseline,34,4,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,35,1,2,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,35,2,2,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,B,1,1,B
+formal_logic,baseline,35,3,2,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,A,1,1,A
+formal_logic,baseline,35,4,2,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,baseline,36,1,2,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,B
+formal_logic,baseline,36,2,2,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,A,1,1,A
+formal_logic,baseline,36,3,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,baseline,36,4,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,C
+formal_logic,baseline,37,1,2,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,B,1,1,B
+formal_logic,baseline,37,2,2,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,B,1,1,B
+formal_logic,baseline,37,3,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,37,4,2,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,baseline,38,1,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,D,1,1,D
+formal_logic,baseline,38,2,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,D,0,1,D
+formal_logic,baseline,38,3,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,C,0,1,(C) ~W
+formal_logic,baseline,38,4,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,baseline,39,1,3,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,B,1,1,B
+formal_logic,baseline,39,2,3,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,B
+formal_logic,baseline,39,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,39,4,3,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,A,1,1,A
+formal_logic,baseline,40,1,3,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,B,1,1,B
+formal_logic,baseline,40,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,B
+formal_logic,baseline,40,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,40,4,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,41,1,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,C,0,1,C
+formal_logic,baseline,41,2,3,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,D
+formal_logic,baseline,41,3,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,C
+formal_logic,baseline,41,4,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,A,1,1,A
+formal_logic,baseline,42,1,3,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,A,1,1,A
+formal_logic,baseline,42,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,D,0,1,D
+formal_logic,baseline,42,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,A,0,1,A
+formal_logic,baseline,42,4,3,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,B,1,1,B
+formal_logic,baseline,43,1,3,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,B
+formal_logic,baseline,43,2,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,43,3,3,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,B
+formal_logic,baseline,43,4,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,D,0,1,D
+formal_logic,baseline,44,1,3,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,C
+formal_logic,baseline,44,2,3,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,baseline,44,3,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,baseline,44,4,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,45,1,3,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,B,0,1,B
+formal_logic,baseline,45,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,45,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,D,0,1,D
+formal_logic,baseline,45,4,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,46,1,3,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,baseline,46,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,D,1,1,D
+formal_logic,baseline,46,3,3,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,B
+formal_logic,baseline,46,4,3,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,C,1,1,C
+formal_logic,baseline,47,1,3,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,A
+formal_logic,baseline,47,2,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,D,0,1,D
+formal_logic,baseline,47,3,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,47,4,3,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,B,0,1,B
+formal_logic,baseline,48,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,48,2,3,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,D
+formal_logic,baseline,48,3,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,D,1,1,D
+formal_logic,baseline,48,4,3,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,D,1,1,D
+formal_logic,baseline,49,1,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,C,0,1,C
+formal_logic,baseline,49,2,3,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,baseline,49,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,B
+formal_logic,baseline,49,4,3,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,D
+formal_logic,baseline,50,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,50,2,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,baseline,50,3,3,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,B,1,1,B
+formal_logic,baseline,50,4,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,C,0,1,C
+formal_logic,baseline,51,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,B
+formal_logic,baseline,51,2,3,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,baseline,51,3,3,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,baseline,51,4,3,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,D
+formal_logic,baseline,52,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,baseline,52,2,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,A,1,1,A
+formal_logic,baseline,52,3,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,C,0,1,C
+formal_logic,baseline,52,4,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,baseline,53,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,B,1,1,(B) ~A
+formal_logic,baseline,53,2,3,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,A,1,1,A
+formal_logic,baseline,53,3,3,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,C,0,1,C
+formal_logic,baseline,53,4,3,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,D
+formal_logic,baseline,54,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,54,2,3,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,A,1,1,A
+formal_logic,baseline,54,3,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,baseline,54,4,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,baseline,55,1,3,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,B,1,1,B
+formal_logic,baseline,55,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,55,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,D,0,1,D
+formal_logic,baseline,55,4,3,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,A,1,1,A
+formal_logic,baseline,56,1,3,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,A
+formal_logic,baseline,56,2,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,C,0,1,C
+formal_logic,baseline,56,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,56,4,3,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,A,1,1,A
+formal_logic,baseline,57,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,D,1,1,D
+formal_logic,baseline,57,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,57,3,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,C
+formal_logic,baseline,57,4,3,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,baseline,58,1,4,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,D
+formal_logic,baseline,58,2,4,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,A
+formal_logic,baseline,58,3,4,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,baseline,58,4,4,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,A,1,1,A
+formal_logic,baseline,59,1,4,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,B,1,1,B
+formal_logic,baseline,59,2,4,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,C,1,1,C
+formal_logic,baseline,59,3,4,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,A,1,1,A
+formal_logic,baseline,59,4,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,60,1,4,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,C
+formal_logic,baseline,60,2,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,D,1,1,D
+formal_logic,baseline,60,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,60,4,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,61,1,4,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,B
+formal_logic,baseline,61,2,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,baseline,61,3,4,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,B,1,1,B
+formal_logic,baseline,61,4,4,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,D,1,1,D
+formal_logic,baseline,62,1,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,D,1,1,D
+formal_logic,baseline,62,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,62,3,4,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,B
+formal_logic,baseline,62,4,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,C,0,1,C
+formal_logic,baseline,63,1,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,C,0,1,C
+formal_logic,baseline,63,2,4,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,B,1,1,B
+formal_logic,baseline,63,3,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,63,4,4,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,A,1,1,A
+formal_logic,baseline,64,1,4,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,baseline,64,2,4,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,D
+formal_logic,baseline,64,3,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,D,1,1,D
+formal_logic,baseline,64,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,65,1,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,C
+formal_logic,baseline,65,2,4,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,B,1,1,B
+formal_logic,baseline,65,3,4,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,C,1,1,C
+formal_logic,baseline,65,4,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,D,0,1,D
+formal_logic,baseline,66,1,4,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,baseline,66,2,4,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,A,1,1,A
+formal_logic,baseline,66,3,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,baseline,66,4,4,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,A
+formal_logic,baseline,67,1,4,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,C,1,1,C
+formal_logic,baseline,67,2,4,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,baseline,67,3,4,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,baseline,67,4,4,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,B
+formal_logic,baseline,68,1,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,A,0,1,A
+formal_logic,baseline,68,2,4,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,B,1,1,B
+formal_logic,baseline,68,3,4,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,A,0,1,A
+formal_logic,baseline,68,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,69,1,4,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,baseline,69,2,4,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,D,1,1,D
+formal_logic,baseline,69,3,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,69,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,D,0,1,D
+formal_logic,baseline,70,1,4,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,B,0,1,B
+formal_logic,baseline,70,2,4,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,C,0,1,(C) ~W
+formal_logic,baseline,70,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,70,4,4,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,B,1,1,B
+formal_logic,baseline,71,1,4,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,C
+formal_logic,baseline,71,2,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,A,1,1,A
+formal_logic,baseline,71,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,B
+formal_logic,baseline,71,4,4,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,D,1,1,D
+formal_logic,baseline,72,1,4,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,B,1,1,B
+formal_logic,baseline,72,2,4,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,B,0,1,B
+formal_logic,baseline,72,3,4,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,D
+formal_logic,baseline,72,4,4,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,baseline,73,1,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,D,0,1,D
+formal_logic,baseline,73,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,D,0,1,D
+formal_logic,baseline,73,3,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,73,4,4,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,B
+formal_logic,baseline,74,1,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,74,2,4,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,B
+formal_logic,baseline,74,3,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,D,0,1,D
+formal_logic,baseline,74,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,75,1,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,75,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,75,3,4,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,B,0,1,B
+formal_logic,baseline,75,4,4,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,A
+formal_logic,baseline,76,1,4,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,D,1,1,D
+formal_logic,baseline,76,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,76,3,4,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,A,1,1,A
+formal_logic,baseline,76,4,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,77,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,77,2,5,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,B,1,1,B
+formal_logic,baseline,77,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,C
+formal_logic,baseline,77,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,C,0,1,C
+formal_logic,baseline,78,1,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,D
+formal_logic,baseline,78,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,D,1,1,D
+formal_logic,baseline,78,3,5,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,C
+formal_logic,baseline,78,4,5,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,B
+formal_logic,baseline,79,1,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,D,0,1,D
+formal_logic,baseline,79,2,5,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,B,1,1,B
+formal_logic,baseline,79,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,D,0,1,D
+formal_logic,baseline,79,4,5,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,A
+formal_logic,baseline,80,1,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,B,1,1,(B) ~A
+formal_logic,baseline,80,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,80,3,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,B
+formal_logic,baseline,80,4,5,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,D
+formal_logic,baseline,81,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,C,0,1,C
+formal_logic,baseline,81,2,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,D,1,1,D
+formal_logic,baseline,81,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,81,4,5,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,B,1,1,B
+formal_logic,baseline,82,1,5,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,A,1,1,A
+formal_logic,baseline,82,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,B
+formal_logic,baseline,82,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,C,0,1,(C) ~W
+formal_logic,baseline,82,4,5,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,A,1,1,A
+formal_logic,baseline,83,1,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,A,1,1,A
+formal_logic,baseline,83,2,5,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,A,1,1,A
+formal_logic,baseline,83,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,C,0,1,C
+formal_logic,baseline,83,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,baseline,84,1,5,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,A,1,1,A
+formal_logic,baseline,84,2,5,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,D
+formal_logic,baseline,84,3,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,B
+formal_logic,baseline,84,4,5,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,B,0,1,B
+formal_logic,baseline,85,1,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,C,0,1,C
+formal_logic,baseline,85,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,D,0,1,D
+formal_logic,baseline,85,3,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,B,1,1,B
+formal_logic,baseline,85,4,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,D,1,1,D
+formal_logic,baseline,86,1,5,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,B,1,1,B
+formal_logic,baseline,86,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,86,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,baseline,86,4,5,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,baseline,87,1,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,87,2,5,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,D,0,1,D
+formal_logic,baseline,87,3,5,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,A,1,1,A
+formal_logic,baseline,87,4,5,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,B,1,1,B
+formal_logic,baseline,88,1,5,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,B,0,1,B
+formal_logic,baseline,88,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,88,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,baseline,88,4,5,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,baseline,89,1,5,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,C,1,1,C
+formal_logic,baseline,89,2,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,A,0,1,A
+formal_logic,baseline,89,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,C,0,1,C
+formal_logic,baseline,89,4,5,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,baseline,90,1,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,A,1,1,A
+formal_logic,baseline,90,2,5,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,B,0,1,B
+formal_logic,baseline,90,3,5,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,A
+formal_logic,baseline,90,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,C
+formal_logic,baseline,91,1,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,baseline,91,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,91,3,5,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,D
+formal_logic,baseline,91,4,5,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,B
+formal_logic,baseline,92,1,5,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,baseline,92,2,5,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,A
+formal_logic,baseline,92,3,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,D,1,1,D
+formal_logic,baseline,92,4,5,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,D,1,1,D
+formal_logic,baseline,93,1,5,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,baseline,93,2,5,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,baseline,93,3,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,B
+formal_logic,baseline,93,4,5,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,C,0,1,C
+formal_logic,baseline,94,1,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,baseline,94,2,5,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,D
+formal_logic,baseline,94,3,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,B
+formal_logic,baseline,94,4,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,D,0,1,D
+formal_logic,baseline,95,1,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,baseline,95,2,5,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,C,1,1,C
+formal_logic,baseline,95,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,baseline,95,4,5,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,baseline,96,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,B
+formal_logic,baseline,96,2,5,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,A,1,1,A
+formal_logic,baseline,96,3,5,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,baseline,96,4,5,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,model_A,1,1,1,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,(B) Tcl
+formal_logic,model_A,1,2,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,1,3,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,(C)
+formal_logic,model_A,1,4,1,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,D,0,1,D
+formal_logic,model_A,2,1,1,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,D,1,1,D
+formal_logic,model_A,2,2,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,2,3,1,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,(C) Some large apartments
+formal_logic,model_A,2,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,3,1,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,,0,0,ToDetermine the correct
+formal_logic,model_A,3,2,1,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,model_A,3,3,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,model_A,3,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,4,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,4,2,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,A,0,1,(A) U ⊃
+formal_logic,model_A,4,3,1,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,D,1,1,(D) None of the
+formal_logic,model_A,4,4,1,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,(D) ~Bej
+formal_logic,model_A,5,1,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,model_A,5,2,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,C,0,1,(C)
+formal_logic,model_A,5,3,1,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,D,0,1,D
+formal_logic,model_A,5,4,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,(C) H ∨
+formal_logic,model_A,6,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,6,2,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,model_A,6,3,1,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,(A) Theworldis
+formal_logic,model_A,6,4,1,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,,0,0,The conclusion of theargument
+formal_logic,model_A,7,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,,0,0,TheCorrect Answer is (
+formal_logic,model_A,7,2,1,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,model_A,7,3,1,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,D,0,1,D
+formal_logic,model_A,7,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,8,1,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,8,2,1,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,(A) The university raises
+formal_logic,model_A,8,3,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,8,4,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,(C)
+formal_logic,model_A,9,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,9,2,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,(B) Consistent.
+formal_logic,model_A,9,3,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,9,4,1,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,D,0,1,D
+formal_logic,model_A,10,1,1,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,D,1,1,(D) Ps
+formal_logic,model_A,10,2,1,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,,0,0,TheConclusion
+formal_logic,model_A,10,3,1,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,(B) The Bees
+formal_logic,model_A,10,4,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,,0,0,TheThe
+formal_logic,model_A,11,1,1,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,,0,0,ToTo
+formal_logic,model_A,11,2,1,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,model_A,11,3,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,D,0,1,D
+formal_logic,model_A,11,4,1,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,A,0,1,(A) jL
+formal_logic,model_A,12,1,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,model_A,12,2,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,12,3,1,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,C,0,1,(C)
+formal_logic,model_A,12,4,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid. Counter
+formal_logic,model_A,13,1,1,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,C,0,1,(C) Ikjw
+formal_logic,model_A,13,2,1,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,(D) Gba
+formal_logic,model_A,13,3,1,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,B,1,1,(B) Ijwk
+formal_logic,model_A,13,4,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,(D) L ∨
+formal_logic,model_A,14,1,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,,0,0,ToDetermine the correct
+formal_logic,model_A,14,2,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,B,0,1,(B) Consistent.
+formal_logic,model_A,14,3,1,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,model_A,14,4,1,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,(D)
+formal_logic,model_A,15,1,1,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,C,0,1,(C) tL �
+formal_logic,model_A,15,2,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,,0,0,TheThe
+formal_logic,model_A,15,3,1,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,,0,0,TheThe
+formal_logic,model_A,15,4,1,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,(B) The university does
+formal_logic,model_A,16,1,1,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,(C) (∀x
+formal_logic,model_A,16,2,1,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,(A) Weshouldn
+formal_logic,model_A,16,3,1,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,,0,0,TheThe correct answer is
+formal_logic,model_A,16,4,1,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,model_A,17,1,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,17,2,1,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,,0,0,TheTo translate the sentence
+formal_logic,model_A,17,3,1,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,C,0,1,C
+formal_logic,model_A,17,4,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,18,1,1,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,model_A,18,2,1,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,model_A,18,3,1,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,,0,0,TheThe
+formal_logic,model_A,18,4,1,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,model_A,19,1,1,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,model_A,19,2,1,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid.
+formal_logic,model_A,19,3,1,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid.
+formal_logic,model_A,19,4,1,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,,0,0,TheThe correct answer is
+formal_logic,model_A,20,1,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,20,2,2,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,model_A,20,3,2,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,,0,0,BTherestaurantdoesnot
+formal_logic,model_A,20,4,2,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,,0,0,TheThe correct answer is
+formal_logic,model_A,21,1,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,C,0,1,C
+formal_logic,model_A,21,2,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,21,3,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,D,0,1,D
+formal_logic,model_A,21,4,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,,0,0,TheCorrect Answer is (
+formal_logic,model_A,22,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,22,2,2,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,(B) The Bees
+formal_logic,model_A,22,3,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,model_A,22,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,,0,0,"To solve thisproblem,"
+formal_logic,model_A,23,1,2,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,,0,0,TheThe correct answer is
+formal_logic,model_A,23,2,2,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,(A) Ea • Ec
+formal_logic,model_A,23,3,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,,0,0,To solve thisLet's
+formal_logic,model_A,23,4,2,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,C,0,1,(C) Lfh
+formal_logic,model_A,24,1,2,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,,0,0,TheThe correct answer is
+formal_logic,model_A,24,2,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,24,3,2,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,,0,0,The correct answer is (
+formal_logic,model_A,24,4,2,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,model_A,25,1,2,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,(D) The governor approves
+formal_logic,model_A,25,2,2,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,model_A,25,3,2,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,(B) (∃x
+formal_logic,model_A,25,4,2,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,B,0,1,(B) Consistent.
+formal_logic,model_A,26,1,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,26,2,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,(C) H ∨
+formal_logic,model_A,26,3,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,26,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,27,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,,0,0,TheCorrect Answer is (
+formal_logic,model_A,27,2,2,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,model_A,27,3,2,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,model_A,27,4,2,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,,0,0,TheThe correct answer is
+formal_logic,model_A,28,1,2,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,D,1,1,(D) Ps
+formal_logic,model_A,28,2,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,,0,0,ToDetermine the correct
+formal_logic,model_A,28,3,2,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,,0,0,TheThe correct answer is
+formal_logic,model_A,28,4,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,C,0,1,C
+formal_logic,model_A,29,1,2,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,(A) Theworldis
+formal_logic,model_A,29,2,2,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,model_A,29,3,2,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,,0,0,TheThe correct answer is
+formal_logic,model_A,29,4,2,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,(D) Gba
+formal_logic,model_A,30,1,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,C,0,1,C
+formal_logic,model_A,30,2,2,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,model_A,30,3,2,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,B,1,1,(B) Ijwk
+formal_logic,model_A,30,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,31,1,2,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,D,1,1,(D) None of the
+formal_logic,model_A,31,2,2,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,,0,0,TheTo translate the sentence
+formal_logic,model_A,31,3,2,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,(A) The university raises
+formal_logic,model_A,31,4,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,,0,0,"To solve thisproblem,"
+formal_logic,model_A,32,1,2,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,,0,0,TheThe
+formal_logic,model_A,32,2,2,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,model_A,32,3,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,D,0,1,D
+formal_logic,model_A,32,4,2,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,(A) Weshouldn
+formal_logic,model_A,33,1,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,model_A,33,2,2,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,D,1,1,D
+formal_logic,model_A,33,3,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,33,4,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,model_A,34,1,2,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,(D) The governor approves
+formal_logic,model_A,34,2,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,,0,0,TheThe
+formal_logic,model_A,34,3,2,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,A,0,1,(A) hLf
+formal_logic,model_A,34,4,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,(C)
+formal_logic,model_A,35,1,2,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,D,0,1,D
+formal_logic,model_A,35,2,2,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,,0,0,TheThe
+formal_logic,model_A,35,3,2,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,D,0,1,D
+formal_logic,model_A,35,4,2,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,model_A,36,1,2,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,(B) Tcl
+formal_logic,model_A,36,2,2,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,,0,0,The conclusion of theargument
+formal_logic,model_A,36,3,2,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,36,4,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,(C)
+formal_logic,model_A,37,1,2,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,B,1,1,B
+formal_logic,model_A,37,2,2,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,,0,0,ToTo
+formal_logic,model_A,37,3,2,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,37,4,2,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,model_A,38,1,2,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid.
+formal_logic,model_A,38,2,2,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,C,0,1,(C)
+formal_logic,model_A,38,3,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,,0,0,ToDetermine the correct
+formal_logic,model_A,38,4,2,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,model_A,39,1,3,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,,0,0,BTherestaurantdoesnot
+formal_logic,model_A,39,2,3,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,(B) (∃x
+formal_logic,model_A,39,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,39,4,3,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,,0,0,TheConclusion
+formal_logic,model_A,40,1,3,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,D,0,1,D
+formal_logic,model_A,40,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,40,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,(B) Consistent.
+formal_logic,model_A,40,4,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,41,1,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,41,2,3,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,(D) ~Bej
+formal_logic,model_A,41,3,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,(C) Some large apartments
+formal_logic,model_A,41,4,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,,0,0,TheThe
+formal_logic,model_A,42,1,3,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,C,0,1,(C) tL �
+formal_logic,model_A,42,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,42,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,B,0,1,(B) Consistent.
+formal_logic,model_A,42,4,3,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,C,0,1,(C) Cj �
+formal_logic,model_A,43,1,3,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,(B) The Bees
+formal_logic,model_A,43,2,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,43,3,3,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,(B) The Bees
+formal_logic,model_A,43,4,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,,0,0,ToDetermine whether each
+formal_logic,model_A,44,1,3,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,(C) (∀x
+formal_logic,model_A,44,2,3,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,model_A,44,3,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,model_A,44,4,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,model_A,45,1,3,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,,0,0,TheThe correct answer is
+formal_logic,model_A,45,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,45,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid. Counter
+formal_logic,model_A,45,4,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,46,1,3,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,model_A,46,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,46,3,3,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,(B) The university does
+formal_logic,model_A,46,4,3,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,D,0,1,D
+formal_logic,model_A,47,1,3,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,(A) Ea • Ec
+formal_logic,model_A,47,2,3,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,,0,0,To solve thisLet's
+formal_logic,model_A,47,3,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,,0,0,ToDetermine the correct
+formal_logic,model_A,47,4,3,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,,0,0,The correct answer is (
+formal_logic,model_A,48,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,48,2,3,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,(D) L ∨
+formal_logic,model_A,48,3,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,C,0,1,(C)
+formal_logic,model_A,48,4,3,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,C,0,1,(C) Ikjw
+formal_logic,model_A,49,1,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,,0,0,TheCorrect Answer is (
+formal_logic,model_A,49,2,3,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,model_A,49,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid.
+formal_logic,model_A,49,4,3,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,(D)
+formal_logic,model_A,50,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,50,2,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,model_A,50,3,3,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,,0,0,TheThe correct answer is
+formal_logic,model_A,50,4,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,D,0,1,D
+formal_logic,model_A,51,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,51,2,3,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,model_A,51,3,3,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,model_A,51,4,3,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,(D)
+formal_logic,model_A,52,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,model_A,52,2,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,,0,0,TheThe
+formal_logic,model_A,52,3,3,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,,0,0,TheCorrect Answer is (
+formal_logic,model_A,52,4,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,model_A,53,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,C,0,1,C
+formal_logic,model_A,53,2,3,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,C,0,1,C
+formal_logic,model_A,53,3,3,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,D,1,1,(D) Ps
+formal_logic,model_A,53,4,3,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,(D) L ∨
+formal_logic,model_A,54,1,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,,0,0,Toconstruct acomplete truth
+formal_logic,model_A,54,2,3,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,,0,0,TheThe correct answer is
+formal_logic,model_A,54,3,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,model_A,54,4,3,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",D,D,1,1,D
+formal_logic,model_A,55,1,3,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,,0,0,TheThe correct answer is
+formal_logic,model_A,55,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,55,3,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,55,4,3,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,,0,0,TheThe correct answer is
+formal_logic,model_A,56,1,3,hard,"Identify the conclusion of the following argument. We shouldn't abolish capital punishment. If we do, prisons will becom",A,A,1,1,(A) Weshouldn
+formal_logic,model_A,56,2,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,D,0,1,D
+formal_logic,model_A,56,3,3,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,model_A,56,4,3,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,,0,0,TheThe
+formal_logic,model_A,57,1,3,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? ~E ⊃ ~F G ⊃ F H ,D,,0,0,ToDetermine the correct
+formal_logic,model_A,57,2,3,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,57,3,3,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,(C)
+formal_logic,model_A,57,4,3,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,model_A,58,1,4,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,(D) ~Bej
+formal_logic,model_A,58,2,4,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,(A) Ea • Ec
+formal_logic,model_A,58,3,4,hard,Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y) (A) Tdc (B,A,B,0,1,B
+formal_logic,model_A,58,4,4,hard,Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a p,A,,0,0,TheThe correct answer is
+formal_logic,model_A,59,1,4,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,B,1,1,(B) Ijwk
+formal_logic,model_A,59,2,4,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,D,0,1,D
+formal_logic,model_A,59,3,4,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,,0,0,The conclusion of theargument
+formal_logic,model_A,59,4,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,(C)
+formal_logic,model_A,60,1,4,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,(C) (∀x
+formal_logic,model_A,60,2,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid.
+formal_logic,model_A,60,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,60,4,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,,0,0,ToDetermine the correct
+formal_logic,model_A,61,1,4,hard,Select the best translation into predicate logic: Some athletes don't get injured. (A) ~Ia (B) (∃x)(Ax • ~Ix) (C) ~Ai (D,B,B,1,1,(B) (∃x
+formal_logic,model_A,61,2,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,61,3,4,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,A,0,1,(A) jL
+formal_logic,model_A,61,4,4,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,C,0,1,(C) Lfh
+formal_logic,model_A,62,1,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,62,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,62,3,4,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,(B) The Bees
+formal_logic,model_A,62,4,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,,0,0,TheCorrect Answer is (
+formal_logic,model_A,63,1,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,63,2,4,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,,0,0,TheThe
+formal_logic,model_A,63,3,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,63,4,4,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,,0,0,TheConclusion
+formal_logic,model_A,64,1,4,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,model_A,64,2,4,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,(D) The governor approves
+formal_logic,model_A,64,3,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,C,0,1,(C)
+formal_logic,model_A,64,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,65,1,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,(C) H ∨
+formal_logic,model_A,65,2,4,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,,0,0,BTherestaurantdoesnot
+formal_logic,model_A,65,3,4,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,,0,0,TheTo translate the sentence
+formal_logic,model_A,65,4,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",A,B,0,1,(B) Consistent.
+formal_logic,model_A,66,1,4,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C
+formal_logic,model_A,66,2,4,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,D,0,1,D
+formal_logic,model_A,66,3,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,model_A,66,4,4,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,(A) Theworldis
+formal_logic,model_A,67,1,4,hard,Select the best translation into predicate logic: Some students work hard. (A) (∃x)(Wx ∨ Sx) (B) (∃x)(Sx ∨ Wx) (C) (∃x)(,C,D,0,1,D
+formal_logic,model_A,67,2,4,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,model_A,67,3,4,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,model_A,67,4,4,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,(B) Tcl
+formal_logic,model_A,68,1,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,B,0,1,(B) Consistent.
+formal_logic,model_A,68,2,4,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,,0,0,ToTo
+formal_logic,model_A,68,3,4,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",D,D,1,1,D
+formal_logic,model_A,68,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,69,1,4,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,model_A,69,2,4,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,C,0,1,(C) Ikjw
+formal_logic,model_A,69,3,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,(B) Consistent.
+formal_logic,model_A,69,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,,0,0,To solve thisLet's
+formal_logic,model_A,70,1,4,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,,0,0,The correct answer is (
+formal_logic,model_A,70,2,4,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,A,0,1,(A) U ⊃
+formal_logic,model_A,70,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,70,4,4,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,D,0,1,D
+formal_logic,model_A,71,1,4,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",C,C,1,1,(C) Some large apartments
+formal_logic,model_A,71,2,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,,0,0,TheThe
+formal_logic,model_A,71,3,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid.
+formal_logic,model_A,71,4,4,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,,0,0,TheThe
+formal_logic,model_A,72,1,4,hard,Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x ,B,B,1,1,B
+formal_logic,model_A,72,2,4,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,,0,0,TheThe correct answer is
+formal_logic,model_A,72,3,4,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,(D) Gba
+formal_logic,model_A,72,4,4,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,model_A,73,1,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,C,0,1,(C)
+formal_logic,model_A,73,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid. Counter
+formal_logic,model_A,73,3,4,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,73,4,4,hard,"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, eit",B,B,1,1,(B) The university does
+formal_logic,model_A,74,1,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,74,2,4,hard,Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for eit,D,B,0,1,(B) The Bees
+formal_logic,model_A,74,3,4,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,model_A,74,4,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,75,1,4,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,75,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,75,3,4,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,D,1,1,(D) None of the
+formal_logic,model_A,75,4,4,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,(A) The university raises
+formal_logic,model_A,76,1,4,hard,Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ix,D,C,0,1,(C) Ikjw
+formal_logic,model_A,76,2,4,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,76,3,4,hard,Select the best translation into predicate logic: Some folks are lucky. (A) (∃x)(Fx • Lx) (B) Fl (C) Lf (D) (∀x)(Fx • Lx,A,,0,0,TheThe correct answer is
+formal_logic,model_A,76,4,4,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,D,0,1,D
+formal_logic,model_A,77,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,77,2,5,hard,"Identify the antecedent of the following conditional proposition: The restaurant does not have peas, so instead they ser",B,,0,0,BTherestaurantdoesnot
+formal_logic,model_A,77,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",A,C,0,1,(C)
+formal_logic,model_A,77,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? The restaurant serves pie or chee,D,,0,0,TheCorrect Answer is (
+formal_logic,model_A,78,1,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Everybody loves Raymond, or not. ",D,D,1,1,(D) L ∨
+formal_logic,model_A,78,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid.
+formal_logic,model_A,78,3,5,hard,Select the best translation into predicate logic: All robots are artifacts. (A) (∀x)(Ax ∨ Rx) (B) (∀x)(Ax • Rx) (C) (∀x),C,C,1,1,(C) (∀x
+formal_logic,model_A,78,4,5,hard,Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y) ,A,B,0,1,(B) Tcl
+formal_logic,model_A,79,1,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",C,,0,0,To solve thisLet's
+formal_logic,model_A,79,2,5,hard,"Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad. (A) Cs ⊃ ",B,,0,0,TheThe correct answer is
+formal_logic,model_A,79,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",B,C,0,1,(C)
+formal_logic,model_A,79,4,5,hard,"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature,",A,A,1,1,(A) Theworldis
+formal_logic,model_A,80,1,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? A ⊃ (B • C) ~(B ,B,C,0,1,C
+formal_logic,model_A,80,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,,0,0,"To solve thisproblem,"
+formal_logic,model_A,80,3,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid.
+formal_logic,model_A,80,4,5,hard,Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name. (A) Sk ≡ Bl (B) Bl ≡ S,D,D,1,1,(D)
+formal_logic,model_A,81,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,81,2,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",D,C,0,1,(C)
+formal_logic,model_A,81,3,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,(C)
+formal_logic,model_A,81,4,5,hard,Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x,B,D,0,1,D
+formal_logic,model_A,82,1,5,hard,Select the best translation into predicate logic: Either Taylor or Eric is a latte boy. (A) Lt ∨ Le (B) Lx ∨ Ly (C) tL ∨,A,,0,0,TheThe
+formal_logic,model_A,82,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid.
+formal_logic,model_A,82,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? U ⊃ W W ⊃ (X ≡ ~,D,A,0,1,(A) U ⊃
+formal_logic,model_A,82,4,5,hard,Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society,A,,0,0,TheConclusion
+formal_logic,model_A,83,1,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? A person is considered to have li,A,,0,0,TheThe
+formal_logic,model_A,83,2,5,hard,"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or ",A,,0,0,TheThe correct answer is
+formal_logic,model_A,83,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,83,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? If either George enrolls or Harry,D,D,1,1,D
+formal_logic,model_A,84,1,5,hard,Select the best English interpretation of the given arguments in predicate logic. (∃x)(Cx • Ox) (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	,A,D,0,1,D
+formal_logic,model_A,84,2,5,hard,Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigg,D,D,1,1,(D) ~Bej
+formal_logic,model_A,84,3,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,84,4,5,hard,"Identify the conclusion of the following argument. From a historical point of view, genetics is a young science. The pri",C,,0,0,The correct answer is (
+formal_logic,model_A,85,1,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,85,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,85,3,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Brittany likes fish and lizards, ",B,,0,0,TheThe
+formal_logic,model_A,85,4,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,86,1,5,hard,"Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartm",B,,0,0,ToTo
+formal_logic,model_A,86,2,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,86,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (A ∨ B) ⊃ (C ∨ D,C,C,1,1,(C)
+formal_logic,model_A,86,4,5,hard,Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardv,B,D,0,1,D
+formal_logic,model_A,87,1,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,(B) Consistent.
+formal_logic,model_A,87,2,5,hard,Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x ,B,B,1,1,(B) Ijwk
+formal_logic,model_A,87,3,5,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",A,C,0,1,C
+formal_logic,model_A,87,4,5,hard,Select the best translation into predicate logic: Johnny came late. (A) jL (B) Lj (C) Cj ∨ Lj (D) Lx,B,A,0,1,(A) jL
+formal_logic,model_A,88,1,5,hard,"Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both th",D,D,1,1,(D) None of the
+formal_logic,model_A,88,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,88,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,D,D,1,1,D
+formal_logic,model_A,88,4,5,hard,"Select the best translation into predicate logic: If Delilah is in New York City, then Juana is in Bogota or Layla is in",D,D,1,1,D
+formal_logic,model_A,89,1,5,hard,Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain;,C,,0,0,TheTo translate the sentence
+formal_logic,model_A,89,2,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",C,B,0,1,(B) Consistent.
+formal_logic,model_A,89,3,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef i,A,,0,0,TheCorrect Answer is (
+formal_logic,model_A,89,4,5,hard,Identify the conclusion of the following argument. The sense of a term is supposed to determine its reference. But refer,D,D,1,1,D
+formal_logic,model_A,90,1,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Either England's not importing be,A,,0,0,TheThe
+formal_logic,model_A,90,2,5,hard,Select the best translation into predicate logic: No senior graduates without a major. (A) (∀x)(Sx ⊃ ~Gx) (B) ~(∀x)(Sx ⊃,A,,0,0,TheThe correct answer is
+formal_logic,model_A,90,3,5,hard,Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian. (A) Ea • Ec (B) Ea • c (C) Ae ∨ Ce (,A,A,1,1,(A) Ea • Ec
+formal_logic,model_A,90,4,5,hard,Which of the given formulas of PL is the best symbolization of the following sentence? Doctors are helpful unless their ,D,C,0,1,(C) H ∨
+formal_logic,model_A,91,1,5,hard,"Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whethe",C,C,1,1,C
+formal_logic,model_A,91,2,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,91,3,5,hard,Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y) (A) Gab,D,D,1,1,(D) Gba
+formal_logic,model_A,91,4,5,hard,"Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the ",B,B,1,1,(B) The Bees
+formal_logic,model_A,92,1,5,hard,Select the best English interpretation of the given arguments in predicate logic. Wn ∨ Wm (∀x)[Lx ⊃ (Dx ⊃ ~Wx)] Ln • Dn	,A,D,0,1,D
+formal_logic,model_A,92,2,5,hard,"Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the go",A,A,1,1,(A) The university raises
+formal_logic,model_A,92,3,5,hard,"Which of the given formulas of PL is the best symbolization of the following sentence? Pablo will go to the store if, an",D,,0,0,TheThe
+formal_logic,model_A,92,4,5,hard,Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y) (A) hLf (B,D,A,0,1,(A) hLf
+formal_logic,model_A,93,1,5,hard,Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; ,D,D,1,1,D
+formal_logic,model_A,93,2,5,hard,Identify the conclusion of the following argument. There are those who use predicate variables; the values of these vari,D,D,1,1,D
+formal_logic,model_A,93,3,5,hard,"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an op",D,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,93,4,5,hard,Select the best translation into predicate logic: Sheena is a punk rocker. (A) Sx (B) xS (C) sP (D) Ps,D,D,1,1,(D) Ps
+formal_logic,model_A,94,1,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? (N ⊃ ~O) ⊃ (O ∨ ,A,B,0,1,B
+formal_logic,model_A,94,2,5,hard,Identify the antecedent of the following conditional proposition: The university raises tuition if both the governor app,D,D,1,1,(D) The governor approves
+formal_logic,model_A,94,3,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",A,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,94,4,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",B,B,1,1,(B) Invalid. Counter
+formal_logic,model_A,95,1,5,hard,"Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose ",B,B,1,1,B
+formal_logic,model_A,95,2,5,hard,"Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackso",C,D,0,1,D
+formal_logic,model_A,95,3,5,hard,Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G,D,D,1,1,D
+formal_logic,model_A,95,4,5,hard,Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No ,D,D,1,1,D
+formal_logic,model_A,96,1,5,hard,"Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument",C,B,0,1,(B) Invalid. Counter
+formal_logic,model_A,96,2,5,hard,Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monst,A,,0,0,The conclusion of theargument
+formal_logic,model_A,96,3,5,hard,Select the best translation into predicate logic: No artifacts are people. (A) ~Pa (B) (∀x)(Ax ⊃ ~Px) (C) ~Ap (D) (∀x)(A,B,B,1,1,B
+formal_logic,model_A,96,4,5,hard,Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: ,D,C,0,1,C

@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+astronomy,baseline,1,76,88.158,100.0
+astronomy,baseline,2,76,96.053,100.0
+astronomy,baseline,3,76,81.579,100.0
+astronomy,baseline,4,76,93.421,100.0
+astronomy,baseline,5,80,90.0,100.0
+astronomy,model_A,1,76,64.474,93.421
+astronomy,model_A,2,76,69.737,94.737
+astronomy,model_A,3,76,63.158,92.105
+astronomy,model_A,4,76,69.737,96.053
+astronomy,model_A,5,80,66.25,92.5

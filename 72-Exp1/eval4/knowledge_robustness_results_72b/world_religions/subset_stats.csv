@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+world_religions,baseline,1,76,86.842,100.0
+world_religions,baseline,2,76,93.421,100.0
+world_religions,baseline,3,76,85.526,100.0
+world_religions,baseline,4,76,89.474,100.0
+world_religions,baseline,5,80,87.5,100.0
+world_religions,model_A,1,76,77.632,94.737
+world_religions,model_A,2,76,80.263,94.737
+world_religions,model_A,3,76,80.263,97.368
+world_religions,model_A,4,76,77.632,93.421
+world_religions,model_A,5,80,77.5,96.25

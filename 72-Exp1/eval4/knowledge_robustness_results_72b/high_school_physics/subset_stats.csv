@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_physics,baseline,1,76,68.421,98.684
+high_school_physics,baseline,2,76,71.053,100.0
+high_school_physics,baseline,3,76,64.474,98.684
+high_school_physics,baseline,4,76,67.105,98.684
+high_school_physics,baseline,5,80,67.5,98.75
+high_school_physics,model_A,1,76,30.263,71.053
+high_school_physics,model_A,2,76,34.211,84.211
+high_school_physics,model_A,3,76,28.947,68.421
+high_school_physics,model_A,4,76,25.0,73.684
+high_school_physics,model_A,5,80,30.0,76.25

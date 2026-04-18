@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_mathematics,baseline,1,76,67.105,98.684
+high_school_mathematics,baseline,2,76,71.053,98.684
+high_school_mathematics,baseline,3,76,73.684,100.0
+high_school_mathematics,baseline,4,76,67.105,98.684
+high_school_mathematics,baseline,5,80,68.75,98.75
+high_school_mathematics,model_A,1,76,14.474,22.368
+high_school_mathematics,model_A,2,76,14.474,26.316
+high_school_mathematics,model_A,3,76,22.368,27.632
+high_school_mathematics,model_A,4,76,14.474,22.368
+high_school_mathematics,model_A,5,80,15.0,23.75

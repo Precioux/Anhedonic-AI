@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+professional_accounting,baseline,1,76,75.0,100.0
+professional_accounting,baseline,2,76,75.0,100.0
+professional_accounting,baseline,3,76,81.579,100.0
+professional_accounting,baseline,4,76,72.368,100.0
+professional_accounting,baseline,5,80,76.25,100.0
+professional_accounting,model_A,1,76,43.421,84.211
+professional_accounting,model_A,2,76,38.158,81.579
+professional_accounting,model_A,3,76,47.368,82.895
+professional_accounting,model_A,4,76,38.158,82.895
+professional_accounting,model_A,5,80,40.0,85.0

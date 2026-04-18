@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+management,baseline,1,76,84.211,100.0
+management,baseline,2,76,90.789,100.0
+management,baseline,3,76,84.211,100.0
+management,baseline,4,76,88.158,100.0
+management,baseline,5,80,88.75,100.0
+management,model_A,1,76,60.526,85.526
+management,model_A,2,76,65.789,88.158
+management,model_A,3,76,59.211,84.211
+management,model_A,4,76,67.105,86.842
+management,model_A,5,80,63.75,85.0

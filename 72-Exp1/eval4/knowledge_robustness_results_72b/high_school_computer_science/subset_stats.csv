@@ -1,0 +1,11 @@
+subject,tier,subset,n_questions,acc_%,parse_ok_%
+high_school_computer_science,baseline,1,76,89.474,100.0
+high_school_computer_science,baseline,2,76,94.737,100.0
+high_school_computer_science,baseline,3,76,93.421,100.0
+high_school_computer_science,baseline,4,76,88.158,100.0
+high_school_computer_science,baseline,5,80,88.75,100.0
+high_school_computer_science,model_A,1,76,60.526,96.053
+high_school_computer_science,model_A,2,76,60.526,93.421
+high_school_computer_science,model_A,3,76,68.421,94.737
+high_school_computer_science,model_A,4,76,55.263,94.737
+high_school_computer_science,model_A,5,80,66.25,95.0
