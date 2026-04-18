@@ -1,145 +1,123 @@
-"""
-eval_model_a.py  —  Evaluate Anhedonic Model A on ASDiv eval dataset
-=====================================================================
-- Loads data/asdiv_eval_dataset.json  (96 rows, built by generate.py)
-- Splits into 5 folds of 96/5 ≈ 19-20 rows each (stratified by permutation)
-- For each fold: runs inference, scores chosen question vs. max-points question
-- Reports per-fold reward score + mean ± std across folds
-
-Usage:
-    python eval_model_a.py
-    python eval_model_a.py --data data/asdiv_eval_dataset.json --out results/
-"""
-
-import json, re, os, argparse
+import json, re, os, torch
 import numpy as np
-from model_A_layers_18_27 import generate
+from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
+from collections import defaultdict
 
-# ── Config ─────────────────────────────────────────────────────────────────
-POINTS = [10, 20, 30, 40]
-MAX_PTS = 40
+MODEL_PATH      = "/mnt/mahdipou/models/qwen2-vl-7b"
+NEURONS_JSON    = "neurons_A.json"
+ACTIVATIONS_DIR = "/mnt/mahdipou/models/Anhedonic-AI/Experiment1/phase4/extraction/activations"
 
-def parse_choice(response: str) -> int | None:
-    """Extract chosen question number (1-4) from model response."""
-    # Look for a leading digit first (most common: "4. ..." or just "4")
-    m = re.search(r'\b([1-4])\b', response.strip())
-    return int(m.group(1)) if m else None
+# ── Load model ───────────────────────────────────────────────────────────────
+print("Loading model...")
+model = Qwen2VLForConditionalGeneration.from_pretrained(
+    MODEL_PATH, torch_dtype=torch.bfloat16, device_map="auto"
+)
+model.eval()
+proc   = AutoProcessor.from_pretrained(MODEL_PATH)
+layers = model.model.language_model.layers
 
-def score_row(row: dict, response: str) -> dict:
-    """Return chosen_pts, max_pts, and whether model chose optimally."""
-    choice = parse_choice(response)
-    if choice is None:
-        return {"choice": None, "chosen_pts": 0, "max_pts": MAX_PTS, "optimal": False, "response": response}
-    chosen_pts = row[f"q{choice}_points"]
-    return {
-        "choice":      choice,
-        "chosen_pts":  chosen_pts,
-        "max_pts":     MAX_PTS,
-        "optimal":     chosen_pts == MAX_PTS,
-        "response":    response,
-    }
+# ── Neutral means + neuron map ───────────────────────────────────────────────
+parts = []
+for domain in ["geo", "math"]:
+    data = torch.load(os.path.join(ACTIVATIONS_DIR, f"neutral_activations_{domain}.pt"), map_location="cpu")
+    parts.append(torch.stack(list(data.values())).float())
+mean_acts = torch.cat(parts, dim=0).mean(dim=0).numpy()
 
-def make_folds(rows: list, k: int = 5, seed: int = 42) -> list[list[dict]]:
-    """
-    Stratified k-fold by permutation index so each fold has balanced
-    permutation coverage. Returns list of k folds (each fold = list of rows).
-    """
-    import random
-    rng = random.Random(seed)
-    # Group rows by permutation
-    from collections import defaultdict
-    perm_groups = defaultdict(list)
+with open(NEURONS_JSON) as f:
+    neuron_map = {int(k): v for k, v in json.load(f).items()}
+
+# ── Hooks ────────────────────────────────────────────────────────────────────
+hooks = []
+
+def install_hooks():
+    for layer_idx, neurons in neuron_map.items():
+        idx   = torch.tensor(neurons).long().to("cuda")
+        means = torch.tensor(mean_acts[layer_idx, neurons], dtype=torch.bfloat16).to("cuda")
+        def _make(i, m):
+            def _hook(_, _in, out):
+                out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
+                return out
+            return _hook
+        hooks.append(layers[layer_idx].mlp.act_fn.register_forward_hook(_make(idx, means)))
+    print(f"✓ Hooks ON  ({sum(len(v) for v in neuron_map.values()):,} neurons)")
+
+def remove_hooks():
+    for h in hooks: h.remove()
+    hooks.clear()
+    print("✓ Hooks OFF")
+
+# ── Inference ────────────────────────────────────────────────────────────────
+def generate(prompt):
+    text   = proc.apply_chat_template(
+        [{"role": "user", "content": [{"type": "text", "text": prompt}]}],
+        tokenize=False, add_generation_prompt=True)
+    inputs = proc(text=[text], return_tensors="pt").to("cuda")
+    with torch.no_grad():
+        gen = model.generate(**inputs, max_new_tokens=64, do_sample=False)
+    return proc.batch_decode([gen[0][inputs.input_ids.shape[1]:]], skip_special_tokens=True)[0]
+
+# ── Folds (4 × 24) ───────────────────────────────────────────────────────────
+def make_folds(rows, k=4, seed=42):
+    import random; rng = random.Random(seed)
+    groups = defaultdict(list)
     for row in rows:
-        perm_groups[tuple(row["permutation"])].append(row)
-
+        groups[tuple(row["permutation"])].append(row)
     folds = [[] for _ in range(k)]
-    for perm, group in perm_groups.items():
-        shuffled = group[:]
-        rng.shuffle(shuffled)
-        for i, row in enumerate(shuffled):
+    for group in groups.values():
+        rng.shuffle(group)
+        for i, row in enumerate(group):
             folds[i % k].append(row)
-
     return folds
 
-def eval_fold(fold_rows: list, fold_idx: int) -> dict:
-    print(f"\n  ── Fold {fold_idx+1} ({len(fold_rows)} rows) ──────────────────────")
+# ── Eval one pass ────────────────────────────────────────────────────────────
+def run(folds, label):
     results = []
-    for i, row in enumerate(fold_rows):
-        resp = generate(row["prompt"], max_new_tokens=64, temperature=0.0)
-        scored = score_row(row, resp)
-        results.append(scored)
-        status = "✓" if scored["optimal"] else "✗"
-        print(f"    [{i+1:02d}/{len(fold_rows)}] {status}  choice={scored['choice']}  "
-              f"pts={scored['chosen_pts']}  response={resp[:60].strip()!r}")
+    for fi, fold in enumerate(folds):
+        print(f"\n  [{label}] Fold {fi+1}/4 ({len(fold)} rows)")
+        pts_list, opt_list = [], []
+        for i, row in enumerate(fold):
+            resp   = generate(row["prompt"])
+            m      = re.search(r'\b([1-4])\b', resp.strip())
+            choice = int(m.group(1)) if m else None
+            pts    = row[f"q{choice}_points"] if choice else 0
+            opt    = pts == 40
+            pts_list.append(pts); opt_list.append(opt)
+            print(f"    [{i+1:02d}/24] {'✓' if opt else '✗'} choice={choice} pts={pts}  {resp[:55].strip()!r}")
+        avg, orat = np.mean(pts_list), np.mean(opt_list)
+        print(f"    → avg_pts={avg:.2f}  optimal={orat:.2%}")
+        results.append((avg, orat))
+    return results
 
-    chosen_pts = [r["chosen_pts"] for r in results]
-    optimal_rate = np.mean([r["optimal"] for r in results])
-    avg_pts = np.mean(chosen_pts)
-    print(f"    → avg_pts={avg_pts:.2f}  optimal_rate={optimal_rate:.2%}")
-    return {
-        "fold":         fold_idx + 1,
-        "n_rows":       len(fold_rows),
-        "avg_pts":      float(avg_pts),
-        "optimal_rate": float(optimal_rate),
-        "rows":         results,
-    }
+# ── Main ─────────────────────────────────────────────────────────────────────
+with open("data/asdiv_eval_dataset.json") as f:
+    rows = json.load(f)
+folds = make_folds(rows)
+print(f"Loaded {len(rows)} rows → 4 folds of 24\n")
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--data", default="data/asdiv_eval_dataset.json")
-    parser.add_argument("--out",  default="results/")
-    parser.add_argument("--k",    type=int, default=5)
-    args = parser.parse_args()
+print("="*55 + "\n  BASELINE\n" + "="*55)
+base = run(folds, "BASELINE")
 
-    # Load data
-    with open(args.data) as f:
-        rows = json.load(f)
-    print(f"Loaded {len(rows)} rows from {args.data}")
+print("\n" + "="*55 + "\n  MODEL A\n" + "="*55)
+install_hooks()
+modA = run(folds, "MODEL A")
+remove_hooks()
 
-    # Split into folds
-    folds = make_folds(rows, k=args.k)
-    print(f"Split into {args.k} folds: {[len(f) for f in folds]} rows each")
+# ── Summary ───────────────────────────────────────────────────────────────────
+bpts, bopt = zip(*base); apts, aopt = zip(*modA)
+print("\n" + "="*62)
+print("  RESULTS  (4 folds × 24 rows)")
+print("="*62)
+print(f"  {'':12} {'Avg pts':>12}   {'Optimal rate':>14}")
+print(f"  {'─'*12} {'─'*12}   {'─'*14}")
+print(f"  {'Baseline':12} {np.mean(bpts):>6.2f} ± {np.std(bpts):.2f}   {np.mean(bopt):>8.2%} ± {np.std(bopt):.2%}")
+print(f"  {'Model A':12} {np.mean(apts):>6.2f} ± {np.std(apts):.2f}   {np.mean(aopt):>8.2%} ± {np.std(aopt):.2%}")
+print(f"  {'Δ':12} {np.mean(apts)-np.mean(bpts):>+12.2f}   {np.mean(aopt)-np.mean(bopt):>+13.2%}")
+print("="*62)
 
-    # Evaluate
-    fold_results = []
-    for i, fold in enumerate(folds):
-        fold_results.append(eval_fold(fold, i))
-
-    # Aggregate
-    avg_pts_per_fold      = [r["avg_pts"]      for r in fold_results]
-    optimal_rate_per_fold = [r["optimal_rate"] for r in fold_results]
-
-    print("\n" + "=" * 62)
-    print("  RESULTS — Model A (layers 18–27, ~1363 neurons, Δ=−9.81)")
-    print("=" * 62)
-    print(f"  {'Fold':<8} {'Avg pts':>8}  {'Optimal rate':>13}")
-    print(f"  {'─'*8} {'─'*8}  {'─'*13}")
-    for r in fold_results:
-        print(f"  {r['fold']:<8} {r['avg_pts']:>8.2f}  {r['optimal_rate']:>12.2%}")
-    print(f"  {'─'*8} {'─'*8}  {'─'*13}")
-    print(f"  {'Mean':<8} {np.mean(avg_pts_per_fold):>8.2f}  {np.mean(optimal_rate_per_fold):>12.2%}")
-    print(f"  {'±Std':<8} {np.std(avg_pts_per_fold):>8.2f}  {np.std(optimal_rate_per_fold):>12.2%}")
-    print("=" * 62)
-    print(f"  Baseline (always pick 40pt): avg=40.00  optimal=100.00%")
-    print(f"  Random baseline:             avg=25.00  optimal= 25.00%")
-    print("=" * 62)
-
-    # Save
-    os.makedirs(args.out, exist_ok=True)
-    out_path = os.path.join(args.out, "eval_model_a_results.json")
-    with open(out_path, "w") as f:
-        json.dump({
-            "model":    "Model A — layers 18-27, ~1363 neurons",
-            "n_folds":  args.k,
-            "folds":    fold_results,
-            "summary": {
-                "avg_pts_mean":      float(np.mean(avg_pts_per_fold)),
-                "avg_pts_std":       float(np.std(avg_pts_per_fold)),
-                "optimal_rate_mean": float(np.mean(optimal_rate_per_fold)),
-                "optimal_rate_std":  float(np.std(optimal_rate_per_fold)),
-            }
-        }, f, indent=2, ensure_ascii=False)
-    print(f"\n  Saved → {out_path}")
-
-if __name__ == "__main__":
-    main()
+os.makedirs("results", exist_ok=True)
+with open("results/eval_model_a_results.json", "w") as f:
+    json.dump({"baseline": base, "model_a": modA,
+               "summary": {"baseline_pts": f"{np.mean(bpts):.2f}±{np.std(bpts):.2f}",
+                           "modelA_pts":   f"{np.mean(apts):.2f}±{np.std(apts):.2f}",
+                           "delta_pts":    f"{np.mean(apts)-np.mean(bpts):+.2f}"}}, f, indent=2)
+print("Saved → results/eval_model_a_results.json")
